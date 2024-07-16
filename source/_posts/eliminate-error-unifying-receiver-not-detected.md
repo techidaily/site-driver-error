@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Error: Unifying Receiver Not Detected"
-date: 2024-07-14 18:11:33
-updated: 2024-07-16 11:27:48
+date: 2024-07-15T06:47:34.472Z
+updated: 2024-07-16T06:47:34.472Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 
 ## Eliminate Error: Unifying Receiver Not Detected
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a8eaab2959a4-300x120.png)
 
  If you have a Logitech wireless mouse, and you get a message saying **Device driver software was not successfully installed** when you plug your unifying receiver into your PC, you’re not alone. Many Windows are reporting this problem as well. But no worries, this is not at all a hard problem to fix.
@@ -67,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 
  5) On your keyboard, press the **Ctrl key** and **F** at the same time to open a search window. Type **DS3** .
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-registry-editor-ds3.jpg)
 
  6) Delete all the DS3 files that you can see, especially the DS3.exe file.
@@ -101,10 +107,25 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db63d8ac59f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **4: Run Logitech Unifying Receiver as administrator**
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time. Type**devmgmt.msc** and press**Enter** .
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
  2) Expand **Mice and other pointing devices,** right-click the**HID-compliant mouse** and click **Disable** .
@@ -117,6 +138,9 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 
  4) After the installation, right-click**Logitech Unifying Software** in the**Start** panel and click **Run as administrator** .
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-logi-run-as-adm-start.jpg)
 
 5) Your Logitech receiver should be able to work now.
@@ -160,3 +184,53 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-cards-not-shown-on-windows-machine/"><u>[FIXED] Cards Not Shown on Windows Machine</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/deal-7-cameras-to-improve-your-youtube-vlogging-experience/"><u>[New] Ideal 7 Cameras To Improve Your YouTube Vlogging Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-efficiently-downloading-and-installing-new-drivers-for-your-hp-envy-20-computer/"><u>Guide to Efficiently Downloading and Installing New Drivers for Your HP ENVY 20 Computer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intermittent-wireless-mouse-functionality-issues-with-win-10/"><u>Intermittent Wireless Mouse Functionality Issues with Win 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-an-hp-wireless-keyboard-that-isnt-responding-solutions-inside/"><u>How to Fix an HP Wireless Keyboard That Isn't Responding - Solutions Inside</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-brodacm-80211n-seamless-wireless-functioning-on-windows/"><u>Fixed Brodacm 802.11N: Seamless Wireless Functioning on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103778364-your-pc-graphics-issues-let-us-fix-your-nvidia-rtx-gaming-woes/"><u>Your PC Graphics Issues? Let Us Fix Your Nvidia RTX Gaming Woes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-guide-correcting-the-lack-of-printer-or-scanner-drivers-on-your-pc-windows-1087/"><u>Comprehensive Guide: Correcting the Lack of Printer or Scanner Drivers on Your PC (Windows 10/8/7)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-peak-playtime-power-yts-top-10-by-view-count/"><u>[Updated] Peak Playtime Power  YT's Top 10 by View Count</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-prowess-windows-made-simple-and-fast/"><u>Bluetooth Prowess: Windows Made Simple & Fast</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-issues-with-unrecognized-final-usb-device-on-windows/"><u>Troubleshooting Guide: Resolving Issues with Unrecognized Final USB Device on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unseen-disc-reader-heres-how-to-fix-in-win11/"><u>Unseen Disc Reader? Here's How to Fix in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-how-to-adjust-screen-settings-when-videos-appear-inverted-on-your-asus-device/"><u>Step-by-Step Solutions: How to Adjust Screen Settings When Videos Appear Inverted on Your ASUS Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-iphones-external-storage-connectivity-via-usb-an-ultimate-guide/"><u>How to Fix iPhone's External Storage Connectivity via USB: An Ultimate Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-keyframes-interval-everything-you-need-to-know-for-2024/"><u>New Keyframes Interval Everything You Need To Know for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-solve-installation-failed-access-denied-for-usb-devices/"><u>How to Solve 'Installation Failed: Access Denied' For USB Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlock-dolby-pro-logic-iix-sound-in-windows-done-with-successful-result/"><u>Unlock Dolby Pro Logic IIx Sound in Windows - Done with Successful Result!🔑</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-advice-on-iphone-landscape-imaging-for-killer-photos/"><u>In 2024, Expert Advice on iPhone Landscape Imaging for Killer Photos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-wireless-keyboard-on-windows/"><u>Troubleshooting Guide: Fixing a Nonfunctional Wireless Keyboard on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-loneliness-for-wacom-connected/"><u>No More Loneliness for Wacom, Connected!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-absence-to-presence-touchpad-driver-reinstated/"><u>From Absence to Presence: Touchpad Driver Reinstated</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/frosty-feats-celebrating-the-beijing-olympics-2022/"><u>Frosty Feats  Celebrating the Beijing Olympics, 2022</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dvdcd-reader-invisibility-in-windows-11-resolved/"><u>DVD/CD Reader Invisibility in Windows 11 Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-nvidia-opengl-driver-unable-to-recover-from-a-kernel-exception/"><u>Fix: NVIDIA OpenGL Driver Unable to Recover From a Kernel Exception</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-compatibility-flaws-wudfrd-loading-issue-id-219/"><u>Device Compatibility Flaws, WudfRd Loading Issue ID: 219</u></a></li>
+<li><a href="https://driver-error.techidaily.com/remedied-video-ram-access-interruptions/"><u>Remedied Video RAM Access Interruptions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-crash-and-restore-the-default-radeon-wattman-configuration-fixed/"><u>Resolving 'Crash & Restore': The Default Radeon Wattman Configuration Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-kb-error-resolution-irql/"><u>Win11 KB Error Resolution: IRQL</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-beyond-low-definition-the-ultimate-path-from-sdr-to-hdri-video/"><u>2024 Approved  Beyond Low Definition  The Ultimate Path From SDR to HDRI Video</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-hp-touchpad-driver-issue-for-windows-10/"><u>Fix HP Touchpad Driver Issue for Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-setting-up-missing-driver-issues-in-windows-11-8-and-7-easy-solutions/"><u>Troubleshooting and Setting Up Missing Driver Issues in Windows 11, 8 & 7 – Easy Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-bt-integration-lenovo-and-windows-11-guide/"><u>Seamless BT Integration: Lenovo & Windows 11 Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-control-panel-extension-is-incompatible-with-driver-version/"><u>Solved: Control Panel Extension Is Incompatible with Driver Version</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mac-users-rejoice-top-alternatives-to-pinnacle-studio-for-2024/"><u>New Mac Users, Rejoice! Top Alternatives to Pinnacle Studio for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-asus-usb20-webcam-issue-in-windows-10/"><u>Fixed ASUS USB2.0 Webcam Issue in Windows 10</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-reimagining-your-tiktok-presence-step-by-step-renaming-process/"><u>[Updated] Reimagining Your TikTok Presence  Step-by-Step Renaming Process</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-windows-7s-blue-screen-with-error-0x0000007e/"><u>Troubleshooting Guide: Resolving Windows 7'S Blue Screen with Error 0X0000007E</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-no-supported-software-for-amdintel-graphics-within-premiere-pro/"><u>Fixed: No Supported Software for AMD/Intel Graphics Within Premiere Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-premium-panels-picked-the-top-10-4k-list/"><u>[New] In 2024, Premium Panels Picked  The #Top 10 4K List</u></a></li>
+<li><a href="https://driver-error.techidaily.com/newly-installed-compatible-and-reliable-nvidia-drivers/"><u>Newly Installed: Compatible and Reliable Nvidia Drivers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-capturing-the-essence-of-sims-gaming/"><u>[New] In 2024, Capturing the Essence of Sims Gaming</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-access-all-areas-steps-for-securing-facebook-live-files/"><u>[New] In 2024, Access All Areas  Steps for Securing Facebook Live Files</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-windows-7-blue-screen-error-code-0x0000007e/"><u>Fixing the Windows 7 'Blue Screen' Error Code 0X0000007E</u></a></li>
+</ul></div>

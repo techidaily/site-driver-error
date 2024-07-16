@@ -1,7 +1,7 @@
 ---
 title: Bring Back Sound to Your Win10 PC via USB Device
-date: 2024-07-14 18:37:31
-updated: 2024-07-16 12:45:42
+date: 2024-07-15T06:47:47.639Z
+updated: 2024-07-16T06:47:47.639Z
 tags:
   - win11
   - win10
@@ -45,10 +45,16 @@ Check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-12.png)  
 ```` ```` ````
 3. Click **Hardware and Devices** .  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-14.png)
 4. Click **Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-13.png)
 5. Now the troubleshooter starts detecting problems. Complete troubleshooting by following on-screen instructions.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.png)
 
 After that, check if your headset works properly now.
@@ -60,6 +66,9 @@ After that, check if your headset works properly now.
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
 5. Relaunch your computer and check whether the issue is resolved or not.````
@@ -69,10 +78,16 @@ After that, check if your headset works properly now.
 1. Right-click on**Speakers/Headphone** icon at the bottom right of your taskbar. Then click **Playback devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.png)
 2. Highlight your headset, then click **Set** **Default** . Click **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
 
 ```` ```` ```` Check if your headset works properly now.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### Fix 4: Update your audio driver
 
  An old, corrupted, or missing audio driver can also cause your USB headset not to work. You can update your driver to solve this problem.```` ``
@@ -109,3 +124,40 @@ After that, check if your headset works properly now.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-unresponsive-wireless-keyboards-in-windows-solution-inside/"><u>Troubleshoot Unresponsive Wireless Keyboards in Windows (Solution Inside)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-11-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 11 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsighted-cddvd-in-win11-solution-found/"><u>Unsighted CD/DVD in Win11, Solution Found</u></a></li>
+<li><a href="https://driver-error.techidaily.com/finding-opengl-support-identity-within-intel-chipsets/"><u>Finding OpenGL Support Identity Within Intel Chipsets</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-driver-related-issues-in-battleye-services-error-code-breakdown-and-fixes/"><u>Diagnosing and Repairing Driver-Related Issues in BattlEye Services - Error Code Breakdown & Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/removing-autostart-of-win11s-bluetooth/"><u>Removing Autostart of Win11's Bluetooth</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconnect-ax201-to-intels-wi-fi-6-effort-successful/"><u>Reconnect AX201 to Intel's Wi-Fi 6 Effort Successful</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensuring-windows-detection-for-unifying-receiver/"><u>Ensuring Windows Detection for Unifying Receiver</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-play-8t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Play 8T to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/closed-unsupported-video-driver-case-for-premier-pro/"><u>Closed: Unsupported Video Driver Case for Premier Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-1011-troubleshooting-receptor-not-detected/"><u>Windows 10/11: Troubleshooting Receptor Not Detected</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-reconnecting-with-your-lost-co-processor-driver-on-windows-10-machine/"><u>Step-by-Step Solution for Reconnecting with Your Lost Co-Processor Driver on Windows #10 Machine</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-3-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus Nord 3 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-usb-device-not-recognized-error-in-windows-7-8/"><u>How to Fix USB Device Not Recognized Error in Windows 7/ 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-dell-touchpad-driver-issue-for-windows-7/"><u>Fix Dell Touchpad Driver Issue for Windows 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-fix-for-missing-hardware-drivers-on-pcs-with-windows-1187/"><u>Comprehensive Fix for Missing Hardware Drivers on PCs with Windows 11/8/7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-find-and-install-necessary-drivers-for-your-pc-on-windows-systems/"><u>How to Find and Install Necessary Drivers for Your PC on Windows Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-superior-online-sound-devices-ranked-for-recording-2023/"><u>[New] 2024 Approved  Superior Online Sound Devices Ranked for Recording 2023</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-must-watch-10-unique-igtv-content-formats-for-brands/"><u>[New] 2024 Approved  Must-Watch  10 Unique IGTV Content Formats for Brands</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnose-and-repair-slimbooks-wi-fi-issue/"><u>Diagnose and Repair SlimBook's Wi-Fi Issue</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-screen-recorder-showdown-apowersoft-vs-others/"><u>[Updated] In 2024, Screen Recorder Showdown  Apowersoft vs Others</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-financially-with-youtube-advertising-techniques-for-2024/"><u>Thriving Financially with YouTube Advertising Techniques for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-ensure-smooth-performance-with-updated-hp-envy-series-drivers/"><u>How to Ensure Smooth Performance with Updated HP ENVY Series Drivers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-iphone-se-2022-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On iPhone SE (2022) Online</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 12 Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unraveling-windows-10s-input-device-anomalies-elan/"><u>Unraveling Windows 10'S Input Device Anomalies, Elan</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105248778-helpneeded-built-in-wifi-and-bluetooth-not-responding-on-my-pc/"><u>HelpNeeded - Built-In Wifi and Bluetooth Not Responding on My PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/non-functional-keyboard-in-win-os/"><u>Non-Functional Keyboard in Win OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimize-win10-high-disk-utilization-fix/"><u>Optimize Win10: High Disk Utilization Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-error-in-win-10-logic/"><u>Keyboard Error in Win 10 Logic</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-device-driver-issues-in-windows-operating-systems/"><u>Resolving Device Driver Issues in Windows Operating Systems</u></a></li>
+</ul></div>

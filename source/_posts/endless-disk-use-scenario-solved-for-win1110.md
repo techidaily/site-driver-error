@@ -1,7 +1,7 @@
 ---
 title: Endless Disk Use Scenario Solved for Win11/10
-date: 2024-07-15 14:51:57
-updated: 2024-07-16 10:27:46
+date: 2024-07-15T06:48:11.817Z
+updated: 2024-07-16T06:48:11.817Z
 tags:
   - win11
   - win10
@@ -83,6 +83,9 @@ With Driver Easy, updating drivers only takes 2 clicks:
 2. Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any outdated or faulty drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All**  to automatically download and install the correct version of**_all_** the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You can opt for the 7-day free trial, or you can go Pro now at a discounted price).  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/DE-update-all-6.0.jpg)
 4. Check your computer’s disk usage: Type “task manager” in the Windows search bar and select**Task Manager** , then in the Processes tab, look at the % at the top of the Disk column. If it’s no longer 100%, you’ve fixed the problem!  
 ![100% disk usage resolved](https://www.drivereasy.com/wp-content/uploads/2016/08/100-disk-usage-resolved.png)
@@ -165,6 +168,9 @@ If the 100% disk usage problem persists, try the next method, below.
 
  4) Ensure the **Automatically manage paging file size for all drives** checkbox is**NOT** ticked.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-37-37.jpg)
 
  5) Select your windows drive (the hard drive or partition that has Windows installed on it – usually **C:**)**,** and enter an Initial size and Maximum size for your virtual memory:
@@ -174,6 +180,9 @@ If the 100% disk usage problem persists, try the next method, below.
 
  Once you’ve entered your virtual memory values, click **Set** , then click **OK** to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
 
  6) Clear all your computer’s ‘temp’ files. On your keyboard, press**Windows key** and**R** at the same time, then in the Run form, type**temp** and hit**Enter** . This will invoke Windows Explorer with your Temp folder open, showing you all the temp files on your computer.
@@ -192,6 +201,9 @@ If the 100% disk usage problem persists, try the next method, below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Disable Antivirus Software temporarily
 
  If you’ve installed antivirus or anti-malware programs such as Norton, Kaspersky, AVG, Avast Behavior Shield or Malwarebytes, you should**temporarily turn them off or disable them** to see if they’re causing your disk usage problem.
@@ -230,6 +242,9 @@ Here’s how to determine if this is your problem and fix it:
 
  3) Go to the **Driver** tab and click**Driver Details** . If you can see**storahci.sys** stored in a path of system32 folder, then you are running the inbox AHCI driver.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b4611132d9.png)
 
  4) Close the Driver Details window and go to**Details** tab. From the drop-down menu, select **Device Instance Path** . Make note of the path, starting from**VEN\_** .
@@ -326,3 +341,49 @@ And that’s just the start of the benefits…
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-youtube-snippets-for-captivating-ig-stories/"><u>[New] 2024 Approved  YouTube Snippets for Captivating IG Stories</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104671957-resolving-non-responsive-hp-wireless-keyboard-problems-effective-solutions-inside/"><u>Resolving Non-Responsive HP Wireless Keyboard Problems - Effective Solutions Inside!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-elan-tablet-hurdles-on-windows-10/"><u>Tackling Elan Tablet Hurdles on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-error-on-windows-11-solved/"><u>GTX 950 Code 43 Error on Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/beat-iphones-connection-hurdles-expert-solutions-to-overcome-mtp-drivers-glitches/"><u>Beat iPhones' Connection Hurdles - Expert Solutions to Overcome MTP Drivers Glitches</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-luts-transforming-images-magic-for-2024/"><u>Understanding LUTs  Transforming Images Magic for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-12-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 12 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-repair-nonworking-laptop-keys-one-step-at-a-time-article-name-358-characters/"><u>Easy Steps to Repair Nonworking Laptop Keys, One Step at a Time - Article Name — 358 Characters</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-gonetflixgo-master-screenrecording-on-mac-with-ease-and-excellence-for-2024/"><u>[Updated] GoNetflixGo  Master ScreenRecording on Mac, With Ease & Excellence for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-towards-better-gameplay-replace-joy-con-joysticks/"><u>A Step Towards Better Gameplay: Replace Joy-Con Joysticks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-pci-data-acquisition-and-signal-processing-controller-missing-on-windows-1110/"><u>[Solved] PCI Data Acquisition and Signal Processing Controller Missing on Windows 11/10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-permanently-shut-down-bluetooth-on-pc/"><u>How to Permanently Shut Down Bluetooth on PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/remedy-fix-disabled-right-click-on-windows-11-touchpad/"><u>Remedy: Fix Disabled Right Click on Windows 11 Touchpad</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-update-and-download-drivers-for-the-hp-envy-20/"><u>Easy Steps to Update and Download Drivers for the HP Envy 20</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-next-level-windows-experience/"><u>[Updated] The Next-Level Windows Experience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715701252124-capture-every-detail-on-mac-free/"><u>Capture Every Detail on Mac - Free!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-to-fix-devices-improper-configuration-error-1/"><u>Troubleshooting Tips to Fix Device's Improper Configuration (Error 1)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-elevate-video-conferencing-skills-google-meet-aesthetics-guide/"><u>In 2024, Elevate Video Conferencing Skills  Google Meet Aesthetics Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-bus-management-problem-solved/"><u>Win11 Bus Management: Problem Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cease-auto-uninstall-in-nvidia-driver-installations/"><u>Cease Auto-Uninstall in Nvidia Driver Installations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieving-sonic-harmony-advanced-crossfading-in-audacity/"><u>Achieving Sonic Harmony  Advanced Crossfading in Audacity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-cant-turn-off-on-windows-10-solved/"><u>Bluetooth Can’t Turn Off on Windows 10 [Solved]</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-from-crafting-to-screen-sharing-comprehensive-windows-pc-manual-for-tv-recording-for-2024/"><u>[New] From Crafting to Screen-Sharing  Comprehensive Windows PC Manual for TV Recording for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reviving-hidden-link-reclaim-missing-bluetooth-in-pc/"><u>Reviving Hidden Link: Reclaim Missing BlueTooth in PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-not-available-no-sign-of-intel-card/"><u>Drivers Not Available; No Sign of Intel Card</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-deactivate-bluetooth-without-issues-on-win11/"><u>How to Deactivate Bluetooth Without Issues on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-not-recognized-by-os-duo/"><u>Graphics Not Recognized by OS Duo</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-establishing-usb-recognition-on-older-windows-versions/"><u>Re-Establishing USB Recognition on Older Windows Versions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-top-notch-photo-cloud-storages-both-gratis-and-premium-options/"><u>[New] Ultimate Top-Notch Photo Cloud Storages  Both Gratis & Premium Options</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-qualcomm-atheros-wireless-network-adapter-driver-issue-for-windows-11/"><u>Fix Qualcomm Atheros Wireless Network Adapter Driver Issue for Windows 11</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-top-8-augmented-reality-video-games/"><u>In 2024, Top 8 Augmented Reality Video Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/8-key-metaverse-ventures-unveiling-core-concepts/"><u>8 Key Metaverse Ventures Unveiling Core Concepts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-22-addressed-device-now-online/"><u>Error 22 Addressed; Device Now Online</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-the-usb-composite-device-features-and-history/"><u>Understanding the USB Composite Device: Features and History</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-quick-guide-how-to-save-final-cut-pro-project/"><u>Updated 2024 Approved Quick Guide How to Save Final Cut Pro Project？</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlock-your-system-potential-razer-bios-updates-in-win10/"><u>Unlock Your System Potential: Razer BIOS Updates in Win10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-proven-linux-programs-for-flawless-screen-captures/"><u>2024 Approved  Proven Linux Programs for Flawless Screen Captures</u></a></li>
+<li><a href="https://extra-information.techidaily.com/conquer-the-skies-and-landscapes-in-a-canon-time-lapse/"><u>Conquer the Skies and Landscapes in a Canon Time-Lapse</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-fix-guide-installing-missing-drivers-for-your-device-on-windows-1087-solved/"><u>Easy Fix Guide: Installing Missing Drivers for Your Device on Windows 10/8/7 [SOLVED]</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-unbiased-reviews-of-youtube-mp3-converters-for-beginners/"><u>Updated In 2024, Unbiased Reviews of YouTube MP3 Converters for Beginners</u></a></li>
+<li><a href="https://driver-error.techidaily.com/controller-alert-ideport0-fault-detected/"><u>Controller Alert: Ideport0 Fault Detected</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-not-recognized-by-os/"><u>Drivers Not Recognized by OS</u></a></li>
+</ul></div>

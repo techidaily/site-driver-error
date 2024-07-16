@@ -1,0 +1,193 @@
+---
+title: "Resolving GTX Ninety-Five Error with Codes: A Fix Guide for Windows Eleven Users"
+date: 2024-07-15T07:00:01.250Z
+updated: 2024-07-16T07:00:01.250Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverError
+description: "This Article Describes Resolving GTX Ninety-Five Error with Codes: A Fix Guide for Windows Eleven Users"
+excerpt: "This Article Describes Resolving GTX Ninety-Five Error with Codes: A Fix Guide for Windows Eleven Users"
+thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b71585737d9811b8df3523624.jpg
+---
+
+## Resolving GTX Ninety-Five Error with Codes: A Fix Guide for Windows Eleven Users
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59410acca7efb.jpg)
+
+ Users with NVIDIA GTX 950 graphics card installed on their computer reported to have found that they see a yellow exclamation mark next to their display driver. when checking the properties of the video card driver, the following error notification appears:
+
+ **Windows has stopped this device because it has reported problems. (Code 43)**
+
+ The combination of GTX 950 and Windows 10 is not uncommon when it comes to Code 43 with NVIDIA. But no need to worry so much about it, there are ways to get it fixed.
+
+[**Option 1: Clean re-install NVIDIA 950**](https://engwe.pxf.io/jrkzrn)
+
+[**Option 2: Update Windows 10**](https://imp.i110150.net/r5bmpn)
+
+[**Option 3: Update BIOS**](https://uperfect.sjv.io/g1jgba)
+
+[**Option 4: Reinstall Windows 10**](https://ancheer.sjv.io/y96bgp)
+
+ Before we move on to the fixes, there are something that you need to know about the causes of Code 43:
+
+**a** . it could be that Windows does not recognize your graphics card. So you need to make sure that your graphics card is correctly installed;
+
+**b** . code 43, in most cases, means that certain device driver is missing, corrupted, and/or outdated;
+
+**c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions.
+
+## Option 1: Clean re-install NVIDIA 950
+
+ To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** .
+
+ 1) First, you need to download [**Display Driver Uninstaller**](http://download-eu2.guru3d.com/ddu/[Guru3D.com]-DDU.zip) . After the download, extract the setup file from the downloaded folder. Then double click the**Display Driver Uninstaller** file to get started.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png)
+
+ 2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
+
+ This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you.
+
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png)
+
+ 3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg)
+
+ 4) Wait for the process to finish, and your PC will restart in normal mode.
+
+ 5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue.
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png)
+
+ Then follow the on-screen instructions to get the driver downloaded.
+
+ When the download finish, just double click the setup file to run the driver installation.
+
+ 6) If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+ 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+
+ 2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png)
+
+ 3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
+
+## **Option 2: Update Windows 10**
+
+ 1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** .
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png)
+
+ 2) Click the**Check for updates** button to see if there are any new updates available.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png)
+
+ 3) If new updates are available, just download and then update them as instructed.
+
+ 4) Restart your computer after the update. Then check to see if the code 43 still remains.
+
+## **Option 3: Update BIOS**
+
+ Updating BIOS is said to solve the problem for many, but it requires you to master a rather high level of computer knowledge to update BIOS by yourself.
+
+ So if you are not exactly a tech savvy, we suggested that you go to the manufacturer support website and get all the support available before you move on to update your BIOS.
+
+**Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see.
+
+ After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated.
+
+## **Option 4: Reinstall Windows 10**
+
+ In some cases, users were left with only one last resort: reinstalling Windows 10\. Luckily, this is not a hard way to go. We have covered this topic before. If you would like to have more information, please visit the posts below:
+
+[**How to reset Windows 10?**](https://tools.techidaily.com/drivereasy/download/)
+
+[**How to refresh Windows 10?**](https://tools.techidaily.com/drivereasy/download/)
+
+* [graphics cards](https://tools.techidaily.com/drivereasy/download/)
+* [NVIDIA](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-breaking-the-freeze-reviving-your-obs-cam/"><u>[Updated] Breaking the Freeze  Reviving Your OBS Cam</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-free-installation-of-nvidia-drivers-2024-version/"><u>Error-Free Installation of Nvidia Drivers - 2024 Version</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-lava-blaze-pro-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Lava Blaze Pro 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winning-back-control-over-your-device-a-simplified-guide-to-fixing-bluetooth-issues-on-latest-os-step-by-step/"><u>Winning Back Control Over Your Device: A Simplified Guide to Fixing Bluetooth Issues on Latest OS [Step-By-Step]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-import-photos-and-videos-in-windows-10-deepest-secret/"><u>[New] How to Import Photos and Videos in Windows 10 (Deepest Secret)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resource-allocation-hurdles-in-device/"><u>Resource Allocation Hurdles in Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-unsupported-hardware-warnings-in-your-systems-integrated-development-tools/"><u>Resolving Unsupported Hardware Warnings in Your System's Integrated Development Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-simplify-your-video-sharing-with-our-youtube-upload-strategy-for-2024/"><u>[Updated] Simplify Your Video Sharing with Our YouTube Upload Strategy for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-minimize-media-effective-techniques-to-shorten-video-audio-with-imovie-on-mac-and-iphone/"><u>2024 Approved Minimize Media Effective Techniques to Shorten Video Audio with iMovie on Mac and iPhone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105088208-lenovo-t400-not-recognized-by-windows-xp-professional-fixed/"><u>Lenovo T400 Not Recognized by Windows XP Professional - Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-on-overcoming-battleyes-failed-initialization-addressing-the-driver-load-challenge/"><u>Expert Tips on Overcoming BattlEye's Failed Initialization: Addressing the Driver Load Challenge</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-vids-summary-uncovered/"><u>In 2024, Essential Vids Summary Uncovered</u></a></li>
+<li><a href="https://driver-error.techidaily.com/celebrating-connectivity-wacoms-win/"><u>Celebrating Connectivity: Wacom's Win</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repaired-initial-error-of-non-booting-device-addressed/"><u>[REPAIRED] Initial Error of Non-Booting Device Addressed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-non-shining-asus-keys/"><u>[FIXED] Non-Shining Asus Keys</u></a></li>
+<li><a href="https://driver-error.techidaily.com/non-functional-keyboard-lights-on-asus-model/"><u>Non-Functional Keyboard Lights on ASUS Model</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-obsolete-to-essential-the-transformation-and-importance-of-usb-composite-devices-nowad-resolved/"><u>From Obsolete to Essential: The Transformation and Importance of USB Composite Devices Nowad [RESOLVED]</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/video-editing-on-a-mac-here-are-10-fantastic-vegas-pro-alternatives-for-2024/"><u>Video Editing on a Mac? Here Are 10 Fantastic Vegas Pro Alternatives for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/soundscapes-for-storytelling-the-influence-of-keyboard-music-on-video-editing-for-2024/"><u>Soundscapes for Storytelling The Influence of Keyboard Music on Video Editing for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-issues-with-older-usb-composite-devices-for-better-compatibility-today/"><u>Solving Issues with Older USB Composite Devices for Better Compatibility Today</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revive-your-amd-radeon-wattman-after-a-crash-restoring-defaults-seamlessly-step-by-step-guide/"><u>Revive Your AMD Radeon Wattman After a Crash: Restoring Defaults Seamlessly - Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminate-bluetooth-auto-connect-on-windows-10/"><u>Eliminate Bluetooth Auto-Connect on Windows 10</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-tagging-strategy-the-list-of-powerful-insta-hashtags-for-2024/"><u>[Updated] Tagging Strategy  The List of Powerful Insta Hashtags for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-frequent-crashing-with-amd-drivers/"><u>Resolve Frequent Crashing with AMD Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mouse-unresponsive-to-windows-commands/"><u>Mouse Unresponsive to Windows Commands</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-motorola-edge-40-neo-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Motorola Edge 40 Neo to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-the-issue-when-your-computer-detects-unsupported-components-on-idt-software/"><u>Correcting the Issue When Your Computer Detects Unsupported Components on IDT Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/0-global-youtube-stars-with-mass-following/"><u>Top 10 Global YouTube Stars with Mass Following</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphic-exposure-ms-bda-interface/"><u>Graphic Exposure: MS BDA Interface</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-to-prevent-and-mend-live-stream-glitches-fb/"><u>[New] 2024 Approved  How to Prevent & Mend Live Stream Glitches (FB)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-t2x-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo T2x 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-filters-to-fun-factors-maximizing-iphones-gif-capabilities/"><u>[Updated] From Filters to Fun Factors  Maximizing iPhone's GIF Capabilities</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pinpoint-pci-data-acquisition-errors-win10/"><u>Pinpoint PCI Data Acquisition Errors Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-coprocessor-driver-not-found-heres-how-to-rectify-it/"><u>Windows 11 Coprocessor Driver Not Found? Here's How to Rectify It</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/no-cost-all-benefits-with-fcp-downloads/"><u>No Cost, All Benefits with FCP Downloads</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-gtx/"><u>How to Fix the GTX</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-bridge-between-platforms-sharing-facebook-videos-on-whatsapp/"><u>[Updated] Bridge Between Platforms  Sharing Facebook Videos on WhatsApp</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-erroneous-sections-in-service-inf/"><u>Correcting Erroneous Sections in Service INF</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Making Logitech Receptor Discoverable on PCs
-date: 2024-07-13 11:30:31
-updated: 2024-07-16 10:39:12
+date: 2024-07-15T06:56:12.908Z
+updated: 2024-07-16T06:56:12.908Z
 tags:
   - win11
   - win10
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 
  1) Go to   **C:\\Windows\\inf\\**  to find the**usb.PNF** and**usb.inf** files. If you can see them on your current PC, then move on to the methods below.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-usb-inf.jpg)
 
  2) If you can’t see them,**copy** them from another computer whose USB receiver is working properly and **paste** them onto this folder.
@@ -51,10 +54,16 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 
  1) On your keyboard, hold down the Windows logo key and press R to open the Run window. Then type in**control** and hit Enter to open the**Control Panel** .
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
  2) View by**Category** and click **Uninstall a program** .
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-control-category-uninstall.jpg)
 
  3) Right-lick **MotionInJoy** and click **Uninstall** .
@@ -109,6 +118,9 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 
  2) Expand **Mice and other pointing devices,** right-click the**HID-compliant mouse** and click **Disable** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57834599bc659.png)
 
  3) Download [Logitech Unifying Software](http://support.logitech.com/en%5Fus/software/unifying) . After the download, right-click the icon and click **Run as administrator** .
@@ -117,6 +129,9 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 
  4) After the installation, right-click**Logitech Unifying Software** in the**Start** panel and click **Run as administrator** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-logi-run-as-adm-start.jpg)
 
 5) Your Logitech receiver should be able to work now.
@@ -160,3 +175,47 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-battlenee-error-code-1450-resolve-failed-driver-loading-problems/"><u>Troubleshooting Battlenee Error Code 1450: Resolve Failed Driver Loading Problems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-the-best-free-image-layers-and-enhancers-on-iosandroid/"><u>[New] Explore the Best, FREE Image Layers & Enhancers on iOS/Android</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winfix-reviving-defective-serial-cable-connections/"><u>Winfix: Reviving Defective Serial Cable Connections</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-iphone-mass-storage-error-with-easy-steps/"><u>How to Fix the iPhone Mass Storage Error with Easy Steps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-breaking-the-rt-barrier-sharing-photos-and-vids-on-twitter/"><u>[New] 2024 Approved  Breaking the 'RT' Barrier  Sharing Photos & Vids on Twitter</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlocking-iphone-data-sync-via-usb-overcoming-device-driver-challenges/"><u>Unlocking iPhone Data Sync via USB: Overcoming Device Driver Challenges</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-correctly-set-up-your-gadget-after-receiving-a-config-error-code-1/"><u>Guide to Correctly Set Up Your Gadget After Receiving a Config Error (Code 1)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-blueprint-for-buzz-elevating-interactions-on-instagram/"><u>[Updated] 2024 Approved  The Blueprint for Buzz  Elevating Interactions on Instagram</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-online-video-rotation-made-easy-top-10-tools/"><u>New Online Video Rotation Made Easy Top 10 Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-resolving-driver-installation-unrecognized-on-your-pc/"><u>Troubleshooting Steps: Resolving 'Driver Installation Unrecognized on Your PC'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-get-your-hp-wireless-keyboard-back-in-action-expert-tips-and-tricks/"><u>How To Get Your HP Wireless Keyboard Back in Action: Expert Tips & Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-the-secrets-of-pubg-sound-personalization/"><u>Unlocking the Secrets of PUBG Sound Personalization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-role-of-background-melody-in-a-cinematic-commercial/"><u>[New] The Role of Background Melody in a Cinematic Commercial</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-how-to-address-iphones-external-device-recognition-error/"><u>Resolved: How to Address iPhone's External Device Recognition Error</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-video-enhancement-tutorial-for-gopro-studio-users/"><u>[New] Step-by-Step Video Enhancement Tutorial for GoPro Studio Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-earbuds-not-working-on-win10-simple-fix-guide/"><u>USB Earbuds Not Working on WIN10 - Simple Fix Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsungs-operating-system-for-the-winning-computer/"><u>Samsung's Operating System for the Winning Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-record-screen-with-vidmore-screen-recorder/"><u>How to Record Screen with Vidmore Screen Recorder</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/identifying-instagrams-newly-disconnected/"><u>Identifying Instagram's Newly Disconnected</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-impact-realtek-network-device-stumbles-now-ok/"><u>Win11 Impact: Realtek Network Device Stumbles, Now OK</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-unresponsive-windows-10-a-step-by-step-guide/"><u>Bluetooth Unresponsive – Windows 10: A Step by Step Guide!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-v30-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to V30 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bsod-disabled-irql-exception-fixed/"><u>BSOD Disabled: Irql Exception Fixed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 15 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-activating-safe-mode-on-windows-8-to-remove-problematic-graphics-card-drivers/"><u>Troubleshooting Tips: Activating Safe Mode on Windows 8 to Remove Problematic Graphics Card Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminate-disk-maximum-usage-in-windows/"><u>Eliminate Disk Maximum Usage in Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-film-color-correction-with-luts/"><u>[New] Mastering Film Color Correction with Luts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-beginners-haven-in-photo-editing-with-lunapic/"><u>2024 Approved  Beginner's Haven in Photo Editing with LunaPic</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-quick-and-simple-instagram-plus-facebook-integration-tips/"><u>[New] Quick & Simple  Instagram + Facebook Integration Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-picture-in-picture-settings-for-iphone-and-ipad-for-2024/"><u>[Updated] Navigating Picture-in-Picture Settings for iPhone & iPad for 2024</u></a></li>
+<li><a href="https://techidaily.com/is-your-sony-xperia-10-v-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Sony Xperia 10 V working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-nvidiaamd-graphics-drivers-on-windows-8/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing NVIDIA/AMD Graphics Drivers on Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unraveling-intel-mmc-driver-woes/"><u>Unraveling Intel MMC Driver Woes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ax201-wi-fi-6ax201-initialization-errors-solved/"><u>AX201: Wi-Fi 6Ax201 Initialization Errors Solved</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-make-a-striking-yt-preview-with-optimal-thumbnail-sizing/"><u>[New] How to Make a Striking YT Preview with Optimal Thumbnail Sizing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-code-43-error-on-your-gtx-950-under-windows-10-detailed-guide/"><u>Fixing the Code 43 Error on Your GTX 950 Under Windows 10 [Detailed Guide]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-quantum-hdr-essentials/"><u>Unveiling Quantum HDR Essentials</u></a></li>
+<li><a href="https://driver-error.techidaily.com/strategies-for-correcting-windows-acpi-issues-on-asus-devices/"><u>Strategies for Correcting Windows Acpi Issues on ASUS Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-sync-mouse-and-window-harmony/"><u>Seamless Sync: Mouse & Window Harmony</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intels-opengl-drivers-what-are-they-called/"><u>Intel's OpenGL Drivers, What Are They Called?</u></a></li>
+</ul></div>

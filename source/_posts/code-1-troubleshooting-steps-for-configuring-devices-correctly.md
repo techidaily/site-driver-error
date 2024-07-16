@@ -1,7 +1,7 @@
 ---
 title: "Code 1 Troubleshooting: Steps for Configuring Devices Correctly"
-date: 2024-07-13 11:10:50
-updated: 2024-07-16 11:15:48
+date: 2024-07-15T06:46:05.045Z
+updated: 2024-07-16T06:46:05.045Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
 ## Code 1 Troubleshooting: Steps for Configuring Devices Correctly
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a977c5211acf.png)
 
  In Device Manager, if you get error “**This device is not configured correctly (Code 1)** ” with your device, don’t worry. You can fix the problem by following the instructions in this article.
@@ -24,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 1. [**Update the driver manually via Device Manager**](https://malaysia-healthcare-travel-council.pxf.io/752oeg)
 2. [**Update the driver automatically**](https://atezr.pxf.io/752omg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 1: Update the driver manually via Device Manager
 
  You can update the driver via Device Manager. Follow these steps (Here take steps in Windows 7 as reference, which also apply to Windows 10, 8, 8.1, XP & Vista.):  
@@ -37,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
 3) Click**Search automatically for updated driver software**. Then Windows will update the driver automatically.  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57318a2bd0396.png)
 
 3) Check to see if the yellow mark next to the device is gone.
@@ -53,10 +62,16 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97796ac519e.jpg)
 
  3) Click the **Update** button next to the problem device to automatically download and install the correct version of the driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a9779737fc89.jpg)
 
  4) After updating the driver, check to see if the yellow mark next to the device is gone.
@@ -77,3 +92,38 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/updated-celebrating-tiktoks-premier-gaming-creators/"><u>[Updated] Celebrating TikTok's Premier Gaming Creators</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-ax201-not-linking-to-intel-wi-fi-6-networks/"><u>[FIXED] AX201 Not Linking to Intel Wi-Fi 6 Networks</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mastering-tiktok-aspect-ratios-a-step-by-step-guide/"><u>Mastering TikTok Aspect Ratios A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mitigating-issues-with-acpi-device-33a0/"><u>Mitigating Issues with ACPI: DEVICE 33A0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-unrecognized-device-warnings-with-this-idt-software-package/"><u>How to Overcome Unrecognized Device Warnings with This IDT Software Package</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-boost-your-online-presence-tips-and-techniques-for-exceptional-fb-profiles/"><u>[Updated] In 2024, Boost Your Online Presence  Tips and Techniques for Exceptional FB Profiles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-issues-with-restored-defaults-on-your-amd-radeons-gpu-software/"><u>Resolving Issues with Restored Defaults on Your AMD Radeon's GPU Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-device-configuration-woes-a-step-by-step-solution-for-error-code-1/"><u>Tackling Device Configuration Woes - A Step-by-Step Solution for Error Code 1</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortlessly-fix-bluetooth-radios-on-windows/"><u>Effortlessly Fix Bluetooth Radios on Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cease-perpetual-bluetooth-signal-in-win10/"><u>Cease Perpetual Bluetooth Signal in Win10</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-enhancing-your-social-presence-tweeting-to-facebook/"><u>[Updated] 2024 Approved  Enhancing Your Social Presence  Tweeting to Facebook</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102277438-wireless-harmony-windows-and-bluetooth-unite/"><u>Wireless Harmony: Windows & Bluetooth Unite!</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-gt-5-240w-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-download-vn-video-editor-for-mac-or-explore-alternative-options/"><u>2024 Approved Download VN Video Editor for Mac or Explore Alternative Options</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-8-and-7-device-driver-troubleshooting-and-resolution-steps/"><u>Windows 11, 8 & 7 Device Driver Troubleshooting and Resolution Steps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-absence-of-coprocessor-drivers-in-windows-10-a-comprehensive-guide/"><u>Resolving the Absence of Coprocessor Drivers in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-insert-a-vimeo-video-into-powerpoint/"><u>[Updated] 2024 Approved  How to Insert a Vimeo Video Into PowerPoint</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-recovery-for-optimal-touchpad-usage/"><u>Driver Recovery for Optimal Touchpad Usage</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-bluetooth-hurdles-repairing-the-qualcomm-atheros-driver-for-optimal-performance-on-windows-10/"><u>Overcoming Bluetooth Hurdles: Repairing the Qualcomm Atheros Driver for Optimal Performance on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-corrected-in-service-installation-inf/"><u>Error Corrected in Service Installation INF</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-adding-youtube-music-to-video/"><u>2024 Approved  Adding YouTube Music To Video</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-woes-windows-solutions-ready/"><u>Bluetooth Woes? Windows Solutions Ready</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-banter-bonanza-the-best-comedians-on-the-web/"><u>[New] 2024 Approved  Banter Bonanza  The Best Comedians on the Web</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pinpointing-missing-signal-processor-on-win/"><u>Pinpointing Missing Signal Processor on Win</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hands-on-remedy-for-disrupted-mtp-functionality/"><u>Hands-On Remedy for Disrupted MTP Functionality</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-usb-serial-link-resolving-nonoperational-issues/"><u>Win USB-Serial Link: Resolving Nonoperational Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-eradicating-the-blue-screen-error-0x0000007e-in-windows-7/"><u>Step-by-Step Guide: Eradicating the Blue Screen Error 0X0000007E in Windows 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11s-high-disk-usage-explained-and-solved/"><u>Win11's High Disk Usage Explained & Solved</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/computer-trouble-keyboard-non-working/"><u>Computer Trouble: Keyboard Non-Working</u></a></li>
+</ul></div>

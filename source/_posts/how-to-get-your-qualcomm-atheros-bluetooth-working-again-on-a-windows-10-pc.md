@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Qualcomm Atheros Bluetooth Working Again on a Windows 10 PC
-date: 2024-07-13 13:51:24
-updated: 2024-07-16 11:33:21
+date: 2024-07-15T06:56:15.323Z
+updated: 2024-07-16T06:56:15.323Z
 tags:
   - win11
   - win10
@@ -32,6 +32,9 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
 **KB3061161** is auto updated via Windows Update. So you can follow the path:**Start button > Settings > Update & security** .
   
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878512a85d87.jpg)
   
  Then choose**Update history** .
@@ -40,6 +43,9 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
  Scroll down to see if you can find the**KB3061161** . It should be a rather old update, so it might cost you some time to locate.
   
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587852a8ba348.jpg)
 
 If you don’t see such an update, don’t freak out, just go to Microsoft and get in downloaded and installed, and you will be fine.
@@ -68,12 +74,18 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 5) When prompted with the following notification, tick the box for**Delete the driver software for this device**and then hit**OK**to continue.
   
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787077d9b1c.png)
 
 6) When the uninstall finishes, restart your computer.
   
 7) Now, go to the folder where you store the setup file of the Qualcomm Atheros Bluetooth driver, double the**setup file**and run the installation as instructed.
   
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587857485a0a6.png)
 
 8) When the install finishes, reboot your computer for the change to take effect.
@@ -98,6 +110,9 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
  4) Choose**Browse my computer for driver software** .
   
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787a96b276c.jpg)
 
  5) Choose **Let me pick from a list of the drivers on my computer** .
@@ -151,3 +166,40 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/bluetooth-cant-turn-off-on-windows-10-solved/"><u>Bluetooth Can’t Turn Off on Windows 10 [Solved]</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-aspect-ratio-made-easy-top-online-calculator-resources/"><u>New Aspect Ratio Made Easy Top Online Calculator Resources</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-freely-download-youtube-series-on-mobile-for-2024/"><u>The Ultimate Guide to Freely Download YouTube Series on Mobile for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-potential-learning-to-race-with-drones-and-best-models/"><u>[New] Unleashing Potential  Learning to Race with Drones and Best Models</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wireless-keyboard-not-working-on-windows-solved/"><u>Wireless Keyboard Not Working on Windows [Solved]</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-invest-in-ig-success-the-top-6-secure-money-methods/"><u>[New] In 2024, Invest in IG Success  The Top 6 Secure Money Methods</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-permanently-shut-down-bluetooth-on-pc/"><u>How to Permanently Shut Down Bluetooth on PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/17904-mgmt-socio-happy/"><u>17904 Mgmt., Socio-Happy</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-deviceid-33a0-acpi-issues/"><u>Addressing DEVICE_ID 33A0 Acpi Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-the-error-of-unrecognized-hardware-by-idt-software-package/"><u>Correcting the Error of Unrecognized Hardware by IDT Software Package</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-open-phone-without-password-by-drfone-android/"><u>How To Unlock OnePlus Open Phone Without Password?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beyond-likes-understanding-youtubes-true-view-metrics/"><u>[Updated] In 2024, Beyond Likes  Understanding YouTube’s True View Metrics</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-update-and-download-drivers-for-the-hp-envy-20/"><u>Easy Steps to Update and Download Drivers for the HP Envy 20</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-nubia-z50-ultra-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Nubia Z50 Ultra Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-intel-coprocessor-drivers-disappearance-on-windows-11-systems/"><u>Step-by-Step Solution for Intel Coprocessor Drivers Disappearance on Windows 11 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-made-simple-forceful-challenges-dispelled/"><u>Driver Installation Made Simple – Forceful Challenges Dispelled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seagate-disk-vanished-on-windows-10-heres-how-to-fetch-it-back/"><u>Seagate Disk Vanished on Windows 10? Here's How to Fetch It Back</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quadcopter-showdown-dji-pro-and-hero-4-black/"><u>[New] Quadcopter Showdown  DJI Pro and Hero 4 Black</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-longer-disconnected-wacoms-triumph/"><u>No Longer Disconnected: Wacom's Triumph</u></a></li>
+<li><a href="https://driver-error.techidaily.com/perfect-precision-eradicating-delays-in-win10/"><u>Perfect Precision: Eradicating Delays in Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-not-recognized-by-os/"><u>Drivers Not Recognized by OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-qualcomm-atheros-wireless-network-adapter-driver-issue-for-windows-11/"><u>Fix Qualcomm Atheros Wireless Network Adapter Driver Issue for Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-fix-guide-installing-missing-drivers-for-your-device-on-windows-1087-solved/"><u>Easy Fix Guide: Installing Missing Drivers for Your Device on Windows 10/8/7 [SOLVED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/streamline-your-game-with-updated-razer-deathadder-driver/"><u>Streamline Your Game with Updated Razer Deathadder Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastered-hardware-conflict-45/"><u>Mastered Hardware Conflict 45</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-transform-your-videos-with-a-robust-64-bit-editor-for-windows-for-2024/"><u>New Transform Your Videos with a Robust 64-Bit Editor for Windows for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bsod-equalized-irql-in-win11-os/"><u>[BSOD]: Equalized Irql in Win11 OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphical-interrupt-rejected-by-system-win11/"><u>Graphical Interrupt Rejected by System Win11</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-nokia-c32-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Nokia C32 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigating-connectivity-issues-lenovo-and-windows-10/"><u>Navigating Connectivity Issues: Lenovo & Windows 10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-how-to-record-lol-gameplay3-methods/"><u>[New] How To Record LOL Gameplay?(3 Methods)</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: BCM20702A0 Hardware Failure Notice
-date: 2024-07-14 21:44:50
-updated: 2024-07-16 10:15:43
+date: 2024-07-15T06:50:28.730Z
+updated: 2024-07-16T06:50:28.730Z
 tags:
   - win11
   - win10
@@ -35,11 +35,17 @@ thumbnail: https://thmb.techidaily.com/51ab56587e08f47d807c9660276e637958571843d
 2. Select the**Airplane mode** from the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/turn-on-and-off-airplane-mode-2.jpg)
 3. Under the Airplane mode,**toggle on** the button.  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/turn-on-and-off-airplane-mode-3.jpg)
 4. Restart your computer and**disable the airplane mode** following the steps above.
 
 Check if your Bluetooth works. If not, continue to the second fix.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2 – Run the Bluetooth troubleshooter
 
  The Windows troubleshooter is one of the most convenient and effective ways to resolve hardware glitches. You can take advantage of this utility to troubleshoot the BCM20702A0 driver issue as follow.
@@ -75,6 +81,9 @@ Check if your Bluetooth works. If not, continue to the second fix.
 3. Click the**Update** button next to the flagged Bluetooth driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/bcm20702a0-driver-update-1.jpg)
 
  After the driver updates, test your Bluetooth devices to see if it works normally. If not, there is one more fix below.
@@ -84,8 +93,14 @@ Check if your Bluetooth works. If not, continue to the second fix.
  Bluetooth needs to work on certain services on your PC. If it’s not starting or running properly, you may fail to connect your Bluetooth devices and run into the BCM20702A0 driver is unavailable error. To check for bluetooth-related services, follow these steps:
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run dialog. Type**service.msc** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-1-1.jpg)
 2. Right-click the**Bluetooth Support Service** and click**Start** . If it’s already running, right-click it and click**Restart** .  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2.jpg)
 3. After the service restarts, right-click it again and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-3.jpg)
@@ -116,3 +131,48 @@ Now test your device and see if the error gets fixed.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-transforming-your-photos-on-instagram-green-screen/"><u>In 2024, Transforming Your Photos on Instagram Green Screen</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-solve-windows-failure-to-recognize-your-last-hooked-up-usb-device/"><u>How to Solve Windows Failure to Recognize Your Last Hooked Up USB Device?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-timers-without-a-dollar/"><u>In 2024, Ultimate Timers Without a Dollar</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-issues-with-outdated-usb-composite-hardware-comprehensive-strategies-inside/"><u>Solving Issues with Outdated USB Composite Hardware - Comprehensive Strategies Inside</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-analysis-and-methods-with-morphvox-sound-alteration/"><u>[Updated] In-Depth Analysis and Methods with MorphVOX Sound Alteration</u></a></li>
+<li><a href="https://driver-error.techidaily.com/loss-of-hardware-support-on-win1011-os/"><u>Loss of Hardware Support on Win10/11 OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/universal-pci-drivers-bundle-windows-edition/"><u>Universal PCI Drivers Bundle: Windows Edition</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-honor-90-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/install-required-drivers-on-windows-1187-heres-your-solution/"><u>Install Required Drivers on Windows 11/8/7? Here's Your Solution!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-from-the-shooting-range-to-streaming-real-time-dslr-and-pcmac-connection/"><u>[New] From the Shooting Range to Streaming Real-Time  DSLR & PC/Mac Connection</u></a></li>
+<li><a href="https://driver-error.techidaily.com/darkened-asus-keyboard-lights/"><u>Darkened ASUS Keyboard Lights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-cuick-fix-for-non-responsive-qualcomm-atheros-bluetooth-devices/"><u>Windows Cuick Fix for Non-Responsive Qualcomm Atheros Bluetooth Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-unbeatable-ps1-emulators-for-high-quality-gaming/"><u>[New] 2024 Approved  Unbeatable PS1 Emulators for High-Quality Gaming</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-samsung-galaxy-s21-fe-5g-2023-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Samsung Galaxy S21 FE 5G (2023) Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-the-gtx-950-code-43-error-on-windows-11-systems/"><u>Troubleshooting and Fixing the GTX 950 Code 43 Error on Windows 11 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-non-functional-dolby-audio-drivers-in-windows-environment-fixed/"><u>Fixing Non-Functional Dolby Audio Drivers in Windows Environment – Fixed! ✅</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/streamlined-methods-for-saving-videos-on-desktops-tablets-and-phones/"><u>Streamlined Methods for Saving Videos on Desktops, Tablets & Phones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-malfunction-heres-how-to-restore-functionality-quickly/"><u>HP Wireless Keyboard Malfunction? Here's How to Restore Functionality Quickly!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-error-code-45-in-device-manager/"><u>[SOLVED] Error Code 45 in Device Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-missing-recognition-of-your-logitech-brio-cam-on-updated-pcs-running-win-10-fixed/"><u>How to Resolve Missing Recognition of Your Logitech Brio Cam on Updated PCs Running Win 10 [Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-fixing-error-e052-driver/"><u>Diagnosing & Fixing Error E052-Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/streamlined-pci-hardware-software/"><u>Streamlined PCI Hardware Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/remedy-power-management-glitch/"><u>Remedy Power Management Glitch</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-laughlines-drawing-chuckles-online/"><u>In 2024, LaughLines  Drawing Chuckles Online</u></a></li>
+<li><a href="https://driver-error.techidaily.com/logitech-unifying-receiver-not-detected-in-windows-1110-solved/"><u>Logitech Unifying Receiver Not Detected in Windows 11/10 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-absent-coprocessor-driver-in-windows-11-resolution-steps/"><u>Fixing the Absent Coprocessor Driver in Windows 11 - Resolution Steps</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-choosing-your-flow-an-initiates-manual-for-handpicking-hip-hop-tracks/"><u>New Choosing Your Flow An Initiates Manual for Handpicking Hip-Hop Tracks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ensuring-compliance-in-zoom-meetings-a-recording-guide/"><u>[New] Ensuring Compliance in Zoom Meetings  A Recording Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-ultimate-guide-how-to-make-money-from-instagram-for-2024/"><u>[New] Ultimate Guide  How to Make Money From Instagram for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-best-screen-recording-apps-for-mac-users-excluded-from-bandicam/"><u>[New] In 2024, Best Screen Recording Apps for Mac Users - Excluded From Bandicam</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-windows-enter-key-malfunction/"><u>Overcoming Windows Enter Key Malfunction</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721097223338-tutorial-identifying-and-fixing-missing-drivers-for-devices-on-windows-versions-win1087-solution-found/"><u>Tutorial: Identifying & Fixing Missing Drivers for Devices on Windows Versions (Win10/8/7) - SOLUTION FOUND!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/a-user-friendly-guide-to-efficiently-use-ez-grabber-for-2024/"><u>A User-Friendly Guide to Efficiently Use EZ Grabber for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-keyboard-error-now-corrected/"><u>Windows 11 - Keyboard Error Now Corrected</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-edge-testing-gopros-hero5-black-against-sessions/"><u>The Ultimate Edge  Testing GoPro's Hero5 Black Against Sessions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminate-radio-driver-errors-in-windows-effortlessly/"><u>Eliminate Radio Driver Errors in Windows Effortlessly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-explore-google-meets-full-potential-free-edition-for-2024/"><u>[New] Explore Google Meet's Full Potential (Free Edition) for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-code-43-errors-for-nvidia-geforce-gtx-950-on-windows-10-platform-guide/"><u>Fixing Code 43 Errors for NVIDIA GeForce GTX 950 on Windows 10 Platform [Guide]</u></a></li>
+</ul></div>

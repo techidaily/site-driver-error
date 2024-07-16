@@ -1,7 +1,7 @@
 ---
 title: Missing DVD/CD Driver on Win11? Fixed!
-date: 2024-07-15 18:14:26
-updated: 2024-07-16 11:23:55
+date: 2024-07-15T06:46:39.364Z
+updated: 2024-07-16T06:46:39.364Z
 tags:
   - win11
   - win10
@@ -34,6 +34,14 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time, click**Device Manager** .
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6098ec3402.png)
 
  2) Locate**IDE ATA/ ATAPI controllers** .
@@ -51,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **2: Update drivers**
 
  If uninstalling the IDE ATA/ ATAPI controller drivers doesn’t solve the problem for you, it’s likely that you’re using the wrong driver altogether.
@@ -71,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
 ## **3: Manually fix corrupted registry entries**
@@ -86,6 +100,9 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
  2) Follow the path:
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\ {4D36E965-E325-11CE-BFC1-08002BE10318}**
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
 
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
@@ -119,6 +136,9 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
@@ -143,3 +163,43 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/re-identify-disconnected-devices-windows-nt-workstation/"><u>Re-Identify Disconnected Devices Windows NT Workstation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/x-professional-audio-toolkit-personal-computing/"><u>X-Professional Audio Toolkit, Personal Computing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-compatibility-issues-between-usb-and-serial-on-win/"><u>Solve Compatibility Issues Between USB & Serial on Win</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-propel-your-igtv-presence-techniques-to-skyrocket-subscriber-count/"><u>[Updated] 2024 Approved  Propel Your IGTV Presence  Techniques to Skyrocket Subscriber Count</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-driver-compatibility-issue-with-intel-and-amd-graphics-in-premiere-pro/"><u>Solved Driver Compatibility Issue with Intel & AMD Graphics in Premiere Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/initialization-error-wudfrd-loading-issue-id-219/"><u>Initialization Error: WudfRd Loading Issue, ID: 219</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-guide-to-radiowave-plays/"><u>2024 Approved  Ultimate Guide to Radiowave Plays</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-device-hack-rejected-in-win11-system/"><u>Graphics Device Hack Rejected in Win11 System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-nvidia-graphics-cards-not-detected-in-windows-111087/"><u>[SOLVED] Nvidia Graphics Cards Not Detected in Windows 11/10/8/7</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unmuting-your-social-network-fixing-half-volume-videos/"><u>2024 Approved  Unmuting Your Social Network  Fixing Half-Volume Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-persistent-nvidia-driver-failures/"><u>Resolving Persistent Nvidia Driver Failures</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-sysware-device-lacks-os-compatibility/"><u>Solved: SysWare Device Lacks OS Compatibility</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-high-definition-hub-alert-relax/"><u>Fixed High-Definition Hub Alert, Relax</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-slow-graphics-on-pc-our-team-cracked-the-rtx-gaming-issue-check-out-this-quick-fix/"><u>Fixing Slow Graphics on PC? Our Team Cracked the RTX Gaming Issue - Check Out This Quick Fix</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bringing-imagery-elements-into-harmony-for-2024/"><u>Bringing Imagery Elements Into Harmony for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-code-48-issue-now-solved/"><u>Error Code 48 - Issue Now Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlocking-reclaim-missing-bluetooth-links-device-hub/"><u>Unlocking: Reclaim Missing BlueTooth Links, Device Hub</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-device-functionality-in-windows-nt31/"><u>Restore Device Functionality in Windows NT3.1</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-battle-for-bushido-next-level-titles-echoing-tsushis-spirit/"><u>[Updated] Battle for Bushido  Next-Level Titles Echoing Tsushi's Spirit</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-audio-free-video-guide-five-steps-to-remove-unwanted-sounds-online/"><u>2024 Approved Audio-Free Video Guide Five Steps to Remove Unwanted Sounds Online</u></a></li>
+<li><a href="https://driver-error.techidaily.com/demystifying-the-functionality-of-outdated-usb-composite-devices-and-how-to-fix-them/"><u>Demystifying the Functionality of Outdated USB Composite Devices and How to Fix Them</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104746224-how-to-resolve-nvidia-geforce-gtx-950-code-43-error-on-your-windows-11-pc-easily/"><u>How to Resolve NVIDIA GeForce GTX 950 Code 43 Error on Your Windows 11 PC Easily</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhance-engagement-select-best-fonts-for-your-thumbnails-for-2024/"><u>[Updated] Enhance Engagement  Select Best Fonts for Your Thumbnails for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-methods-to-overcome-hcom-monitor-driver-error-during-installation/"><u>Effective Methods to Overcome Hcom Monitor Driver Error During Installation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-your-rtx-gaming-problem-heres-the-fix/"><u>[Solved]: Your RTX Gaming Problem – Here’s The Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/essential-strategies-for-win10-asus-acpi-troubleshooting/"><u>Essential Strategies for Win10 Asus ACPI Troubleshooting</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-win10-issues-with-elan-touchpad/"><u>Mastering Win10 Issues with Elan Touchpad</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102773050-fixed-high-definition-hub-alert-relax/"><u>Fixed High-Definition Hub Alert, Relax!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-solutions-for-when-qualcomm-atheros-bluetooth-driver-stops-working-on-windows-10-machines/"><u>Comprehensive Solutions for When Qualcomm Atheros Bluetooth Driver Stops Working on Windows 10 Machines</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-meizu-21-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Meizu 21 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-joyous-jigsaw-mobile-editors-crafting-humor/"><u>2024 Approved  Joyous Jigsaw  Mobile Editors Crafting Humor</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-restricts-external-graphics-support/"><u>System Restricts External Graphics Support</u></a></li>
+<li><a href="https://driver-error.techidaily.com/service-inf-section-validation-and-correction/"><u>Service INF Section Validation and Correction</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lenovo-t460-drivers-download-and-update-on-windows-10/"><u>Lenovo T460 Drivers Download & Update on Windows 10</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "How to Fix iPhone's External Storage Connectivity via USB: An Ultimate Guide"
-date: 2024-07-15 22:24:33
-updated: 2024-07-16 11:19:57
+date: 2024-07-15T06:47:20.429Z
+updated: 2024-07-16T06:47:20.429Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 
 When you plug your iPhone like iPhone 7 to your PC, if you meet MTP USB Device Failed to install issue, your iPhone can’t be recognized by PC. From the error message, you can tell that the MTP USB Device driver was not successfully installed. The problem can be caused by several issues. Try solutions in this post and the problem should resolve. Apply to Windows 10, 7, 8, 8.1, XP&Vista.  
   
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![MTP USB Device Failed](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ce61d4c6f0d.jpg)
   
 **Solution 1: Uninstall the MTP USB Device**
@@ -27,6 +30,9 @@ When you plug your iPhone like iPhone 7 to your PC, if you meet MTP USB Device F
  2\. Expand the categories and look for an unknown MTP device. (Mostly, it is listed under category “Universal Serial Bus Controller” .). There might be a yellow mark next to the device.  
  3\. Right click on the device and select**Uninstall** from the pop-up menu.  
   
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ce68d17c5a2.png)
 
  You will be asked to confirm the uninstall. Check the checkbox next to “Delete the driver software for this device” if you see it. Click**OK** button then the driver will be uninstalled.  
@@ -49,6 +55,9 @@ When you plug your iPhone like iPhone 7 to your PC, if you meet MTP USB Device F
   
  2\. Select**Search automatically for updated driver software** . Then Windows will automatically install the new driver for the device if they find one.  
   
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ce6bcb80a42.png)
   
  If Windows fails to provide the new drivers, you can download the driver manually. Downloading drivers manually can’t be easy and can take you a lot of time. So instead of downloading drivers manually, you can use Driver Easy to download drivers automatically, which can scan your computer quickly to detect problem drivers and give you a list of new drivers. Click [here](https://tools.techidaily.com/drivereasy/download/) to download Driver Easy now.  
@@ -62,6 +71,9 @@ When you plug your iPhone like iPhone 7 to your PC, if you meet MTP USB Device F
 1\. Press **Win+R** (Windows logo key and R key) at the same time. A Run dialog will appear.
  2\. Type**regedit**  in the run box and click **OK**  button. Then Registry Editor will open.  
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56fb391581cd9.png)
   
  3\. Navigate to **HKEY\_LOCAL\_MACHINE-> SYSTEM-> Current Control Set -> Control -> Class** .  
@@ -70,6 +82,14 @@ When you plug your iPhone like iPhone 7 to your PC, if you meet MTP USB Device F
 
  4\. Find**{EEC5AD98-8080-425F-922A-DABF3DE3F69A}** and click on it.  
   
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ce72045b4e6.jpg)
 
  5\. In the right pane, find**UpperFilters** . Right-click on it and click**Delete** .  
@@ -92,3 +112,42 @@ When you plug your iPhone like iPhone 7 to your PC, if you meet MTP USB Device F
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/1721102277438-wireless-harmony-windows-and-bluetooth-unite/"><u>Wireless Harmony: Windows & Bluetooth Unite!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-absence-of-coprocessor-drivers-in-windows-10-a-comprehensive-guide/"><u>Resolving the Absence of Coprocessor Drivers in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11s-high-disk-usage-explained-and-solved/"><u>Win11's High Disk Usage Explained & Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-device-configuration-woes-a-step-by-step-solution-for-error-code-1/"><u>Tackling Device Configuration Woes - A Step-by-Step Solution for Error Code 1</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-x-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone X Lock Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-imagination-into-visual-masterpieces-on-windows-10/"><u>[Updated] Transform Your Imagination Into Visual Masterpieces on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cease-perpetual-bluetooth-signal-in-win10/"><u>Cease Perpetual Bluetooth Signal in Win10</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-skyrocket-engagement-key-seo-strategies-for-youtube-videos/"><u>2024 Approved  Skyrocket Engagement  Key SEO Strategies for YouTube Videos</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-resizing-your-footage-how-to-change-aspect-ratio-in-final-cut-pro/"><u>Updated In 2024, Resizing Your Footage How to Change Aspect Ratio in Final Cut Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/computer-trouble-keyboard-non-working/"><u>Computer Trouble: Keyboard Non-Working</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-skill-elevation-rising-through-the-ranks-in-designing/"><u>[New] Skill Elevation  Rising Through the Ranks in Designing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-ax201-not-linking-to-intel-wi-fi-6-networks/"><u>[FIXED] AX201 Not Linking to Intel Wi-Fi 6 Networks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hands-on-remedy-for-disrupted-mtp-functionality/"><u>Hands-On Remedy for Disrupted MTP Functionality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-strategies-for-live-over-the-net-broadcast-in-vlc/"><u>Expert Strategies for Live Over-the-Net Broadcast in VLC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-eradicating-the-blue-screen-error-0x0000007e-in-windows-7/"><u>Step-by-Step Guide: Eradicating the Blue Screen Error 0X0000007E in Windows 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-usb-serial-link-resolving-nonoperational-issues/"><u>Win USB-Serial Link: Resolving Nonoperational Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-creativity-10-top-rated-free-mac-art-software/"><u>In 2024, Unleash Creativity  10 Top-Rated, FREE Mac Art Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-issues-with-restored-defaults-on-your-amd-radeons-gpu-software/"><u>Resolving Issues with Restored Defaults on Your AMD Radeon's GPU Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pinpointing-missing-signal-processor-on-win/"><u>Pinpointing Missing Signal Processor on Win</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-getting-started-with-hd-video-a-guide-to-pixel-size-and-resolution/"><u>New In 2024, Getting Started with HD Video A Guide to Pixel Size and Resolution</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-meme-making-method-unveiling-6-crucial-gif-production-strategies/"><u>The Meme-Making Method  Unveiling 6 Crucial GIF Production Strategies</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortlessly-fix-bluetooth-radios-on-windows/"><u>Effortlessly Fix Bluetooth Radios on Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bright-beginnings-on-youtube-launching-and-revenue-strategies/"><u>[Updated] 2024 Approved  Bright Beginnings on YouTube  Launching and Revenue Strategies</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-corrected-in-service-installation-inf/"><u>Error Corrected in Service Installation INF</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimized-note-recording-on-mematic-app/"><u>[New] Optimized Note Recording on Mematic App</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-woes-windows-solutions-ready/"><u>Bluetooth Woes? Windows Solutions Ready</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-recovery-for-optimal-touchpad-usage/"><u>Driver Recovery for Optimal Touchpad Usage</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-mac-subtitle-editing-made-easy-top-subtitle-edit-alternatives-for-2024/"><u>New Mac Subtitle Editing Made Easy Top Subtitle Edit Alternatives for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-8-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 8 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-10plus-incredible-free-youtube-intro-makers/"><u>2024 Approved  10+ Incredible Free YouTube Intro Makers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-effortless-viewing-automatic-playback-of-youtube-videos-on-social-media/"><u>2024 Approved  Effortless Viewing  Automatic Playback of YouTube Videos on Social Media</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-bluetooth-hurdles-repairing-the-qualcomm-atheros-driver-for-optimal-performance-on-windows-10/"><u>Overcoming Bluetooth Hurdles: Repairing the Qualcomm Atheros Driver for Optimal Performance on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mitigating-issues-with-acpi-device-33a0/"><u>Mitigating Issues with ACPI: DEVICE 33A0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-unrecognized-device-warnings-with-this-idt-software-package/"><u>How to Overcome Unrecognized Device Warnings with This IDT Software Package</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-90-gt-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Honor 90 GT to Computer for iPhone and Android? | Dr.fone</u></a></li>
+</ul></div>

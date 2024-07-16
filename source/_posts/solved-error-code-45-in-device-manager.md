@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Error Code 45 in Device Manager"
-date: 2024-07-14 23:55:53
-updated: 2024-07-16 11:30:36
+date: 2024-07-15T06:46:26.772Z
+updated: 2024-07-16T06:46:26.772Z
 tags:
   - win11
   - win10
@@ -47,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/96ca9c739207d23d042e7f8016b381f18f2564ff7
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 2: Manually uninstall and reinstall your device driver
 
  When the error message says your hardware device is not connected to the computer, chances are your device driver is missing or corrupted. In this case, manually uninstalling and reinstalling your device driver may help you out.
@@ -79,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/96ca9c739207d23d042e7f8016b381f18f2564ff7
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 4: Run System File Checker
 
  System File Checker (SFC) is a built-in Windows tool that scans and repairs corrupted system files. If you encounter the Code 45 issue in Device Manager, it’s likely that the file responsible for your device is missing or corrupted. So you should run SFC to fix the problem. To do so:
@@ -94,6 +100,9 @@ thumbnail: https://thmb.techidaily.com/96ca9c739207d23d042e7f8016b381f18f2564ff7
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 5: Run CHKDSK
 
  CHKDSK (Check Disk) is a command run utility used to check the file system and status of the system’s hard drives. Sometimes the hard drive’s problem could be the possible reason for Code 45\. In that case, you can run chkdsk to fix your problem.
@@ -104,6 +113,9 @@ thumbnail: https://thmb.techidaily.com/96ca9c739207d23d042e7f8016b381f18f2564ff7
 3. The command prompt will once again display. Type in the command:`**chkdsk.exe /f /r**` and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-16.png)
 4. Type **Y** to confirm that you’d like to perform the disk check the next time you restart your computer. Please make sure you have closed all of your applications first.  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-17.png)
 
 **Note** : Running a disk check could take some time to complete. So if you don’t have the time to run the disk check the next time you boot, you can skip it and reschedule again by following the steps above.
@@ -149,6 +161,9 @@ thumbnail: https://thmb.techidaily.com/96ca9c739207d23d042e7f8016b381f18f2564ff7
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/graphics-card-and-chipset..jpg)
 4. After updating, restart your computer to take effect.
 
@@ -174,3 +189,40 @@ thumbnail: https://thmb.techidaily.com/96ca9c739207d23d042e7f8016b381f18f2564ff7
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/resolving-graphic-issues-on-windows-8-learn-to-start-in-safe-mode-and-perform-graphics-driver-updates-or-reinstalls/"><u>Resolving Graphic Issues on Windows 8? Learn to Start in Safe Mode & Perform Graphics Driver Updates or Reinstalls</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-the-fix-for-hcmon-device-driver-failure-on-your-pc/"><u>Mastering the Fix for HCmon Device Driver Failure on Your PC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-80plus-catchy-cooking-channel-names-to-attract-more-audience/"><u>[Updated] 2024 Approved  80+ Catchy Cooking Channel Names to Attract More Audience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103791829-unresponsive-gaming-due-to-graphics-quick-resolution-guide/"><u>Unresponsive Gaming Due To Graphics – Quick Resolution Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/printer-no-drive-issue-resolved/"><u>Printer No-Drive Issue Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-and-qualcomm-atheros-restoring-bluetooth-connectivity-with-proven-solutions/"><u>Windows 11 and Qualcomm Atheros: Restoring Bluetooth Connectivity with Proven Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-troubleshooting-restoring-missing-intel-integrated-graphics-drivers-in-windows-11/"><u>Step-by-Step Troubleshooting: Restoring Missing Intel Integrated Graphics Drivers in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-code-39-sound-driver-issue-solved/"><u>Fix Code 39 Sound Driver Issue [SOLVED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortless-nvidia-graphics-driver-setup/"><u>Effortless Nvidia Graphics Driver Setup</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-xiaomi-redmi-12-5g-easily-by-drfone-android/"><u>How To Unlock a Xiaomi Redmi 12 5G Easily?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/section-error-inf-service-setup-invalid-resolved/"><u>Section Error: INF Service Setup Invalid - Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gpu-interpretation-decoding-microsofts-bda-design/"><u>GPU Interpretation: Decoding Microsoft's BDA Design</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/investment-insights-starting-a-profitable-podcast/"><u>Investment Insights  Starting a Profitable Podcast</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-color-profiles-explained-srgb-versus-rgb/"><u>[Updated] Color Profiles Explained  Srgb Versus Rgb</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-hdr-audio-device-alert/"><u>Fixed: HDR Audio Device Alert</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-intel-me/"><u>Diagnosing and Repairing Intel ME</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-unexpected-amd-radeon-wattman-configuration-resets-easy-solutions-revealed/"><u>Overcoming Unexpected AMD Radeon Wattman Configuration Resets - Easy Solutions Revealed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-capture-your-best-side-tips-for-effective-talking-head-shots/"><u>[New] 2024 Approved  Capture Your Best Side  Tips for Effective Talking-Head Shots</u></a></li>
+<li><a href="https://driver-error.techidaily.com/happy-hearts-every-device-now-with-wacom/"><u>Happy Hearts: Every Device Now with Wacom</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-breeze-through-your-latest-fb-watches-2023-edition/"><u>In 2024, Breeze Through Your Latest FB Watches  2023 Edition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-the-update-process-how-to-get-latest-drivers-for-hp-envy-nv-series-computers/"><u>Mastering the Update Process: How to Get Latest Drivers for HP Envy Nv Series Computers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-reel-in-quality-essential-audio-devices-for-podcast-producers-for-2024/"><u>[Updated] Reel in Quality  Essential Audio Devices for Podcast Producers for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-driver-error-on-windows-10-a-step-by-step-fix/"><u>GTX 950 Code 43 Driver Error on Windows 10 - A Step-by-Step Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-repair-a-malfunctioning-hp-laptops-keyboard-one-click-at-a-time-article-title-309-chars/"><u>How To Repair a Malfunctioning HP Laptop's Keyboard, One Click at a Time - Article Title (309 Chars)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cannot-stop-builtin-wifi-and-bluetooth-devices-any-advice-for-a-quick-shutdown75-chars/"><u>“Cannot Stop Builtin Wifi and Bluetooth Devices – Any Advice for a Quick Shutdown?!(75 Chars)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-how-to-resolve-missing-coprocessor-driver-error-on-windows-10/"><u>Fix Guide: How To Resolve 'Missing Coprocessor Driver' Error on Windows 10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-8-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from Apple iPhone 8 Plus/iPad/iPod</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repair-serial-bus-regulation-flaw/"><u>Repair Serial Bus Regulation Flaw</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-me-driver-anomaly-solutions/"><u>Intel Me Driver Anomaly Solutions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-discover-the-top-8-instagram-management-tools-for-iphone-and-android/"><u>In 2024, Discover the Top 8 Instagram Management Tools for iPhone and Android</u></a></li>
+<li><a href="https://extra-information.techidaily.com/affordable-skycabinet-mass-data-hoarding-on-a-budget/"><u>Affordable SkyCabinet  Mass Data Hoarding on a Budget</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone SE</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-conquering-social-media-with-ig-videos-planning-an-optimal-strategy/"><u>[New] Conquering Social Media with IG Videos  Planning an Optimal Strategy</u></a></li>
+</ul></div>

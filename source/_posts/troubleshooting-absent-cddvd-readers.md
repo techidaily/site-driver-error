@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Absent CD/DVD Readers
-date: 2024-07-13 18:29:46
-updated: 2024-07-16 10:37:45
+date: 2024-07-15T06:50:41.572Z
+updated: 2024-07-16T06:50:41.572Z
 tags:
   - win11
   - win10
@@ -34,11 +34,17 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time, click**Device Manager** .
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6098ec3402.png)
 
  2) Locate**IDE ATA/ ATAPI controllers** .
  3) Right-click **ATA Channel 0** and click **Uninstall** .
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e194a84fe7.png)
 
  4) Right-click **ATA Channel 1** and click**Uninstall** .
@@ -51,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **2: Update drivers**
 
  If uninstalling the IDE ATA/ ATAPI controller drivers doesn’t solve the problem for you, it’s likely that you’re using the wrong driver altogether.
@@ -65,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a61a4afa.png)
 
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
@@ -119,6 +131,9 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
@@ -143,3 +158,53 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/strategies-for-correcting-windows-acpi-issues-on-asus-devices/"><u>Strategies for Correcting Windows Acpi Issues on ASUS Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-correctly-set-up-your-gadget-after-receiving-a-config-error-code-1/"><u>Guide to Correctly Set Up Your Gadget After Receiving a Config Error (Code 1)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-impact-realtek-network-device-stumbles-now-ok/"><u>Win11 Impact: Realtek Network Device Stumbles, Now OK</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winfix-reviving-defective-serial-cable-connections/"><u>Winfix: Reviving Defective Serial Cable Connections</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsungs-operating-system-for-the-winning-computer/"><u>Samsung's Operating System for the Winning Computer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-nvidiaamd-graphics-drivers-on-windows-8/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing NVIDIA/AMD Graphics Drivers on Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-reluctance-of-enex-to-load-in-windows-11/"><u>Resolving the Reluctance of eNEX to Load in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-install-newest-driver-software-on-hp-envy-20-laptops/"><u>Easy Steps to Install Newest Driver Software on HP Envy 20 Laptops</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unveiling-the-hidden-recovering-exclusive-snap-content/"><u>[New] 2024 Approved  Unveiling the Hidden  Recovering Exclusive Snap Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-8-best-facebook-scheduler-to-improve-efficiency/"><u>[New] 2024 Approved  8 Best Facebook Scheduler to Improve Efficiency</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-video-controller-driver-issue-in-windows-10-easily/"><u>Fix Video Controller Driver Issue in Windows 10. Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-activating-safe-mode-on-windows-8-to-remove-problematic-graphics-card-drivers/"><u>Troubleshooting Tips: Activating Safe Mode on Windows 8 to Remove Problematic Graphics Card Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsuccessful-driver-installation-by-os/"><u>Unsuccessful Driver Installation by OS</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-fcpx-mastery-top-tutorials-and-resources-for-2024/"><u>Updated FCPX Mastery Top Tutorials and Resources for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-list-top-gaming-sites-for-free-game-downloads-for-2024/"><u>Updated The Ultimate List Top Gaming Sites for Free Game Downloads for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-taking-control-your-comprehensive-yt-studio-manual/"><u>[Updated] Taking Control  Your Comprehensive YT Studio Manual</u></a></li>
+<li><a href="https://driver-error.techidaily.com/essential-guide-installing-latest-drivers-for-the-all-new-hp-envy-m7-model/"><u>Essential Guide: Installing Latest Drivers for the All-New HP Envy M7 Model</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-beginners-pathway-to-leveraging-facebook-statistics/"><u>[New] The Beginner's Pathway to Leveraging Facebook Statistics</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unraveling-intel-mmc-driver-woes/"><u>Unraveling Intel MMC Driver Woes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-guide-to-delete-discord-server-from-mobile/"><u>[New] In 2024, Guide to Delete Discord Server From Mobile</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-code-43-error-on-your-gtx-950-under-windows-10-detailed-guide/"><u>Fixing the Code 43 Error on Your GTX 950 Under Windows 10 [Detailed Guide]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-iphone-mass-storage-error-with-easy-steps/"><u>How to Fix the iPhone Mass Storage Error with Easy Steps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ax201-wi-fi-6ax201-initialization-errors-solved/"><u>AX201: Wi-Fi 6Ax201 Initialization Errors Solved</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-5-free-video-stabilizer-apps-for-android-users-for-2024/"><u>New The Ultimate List 5 Free Video Stabilizer Apps for Android Users for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-14-pro-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone 14 Pro without Password</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-solitary-path-to-podcast-popularity-for-2024/"><u>The Solitary Path to Podcast Popularity for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pickus-prowess-in-android-photo-editing-a-thorough-examination/"><u>[New] PickU's Prowess in Android Photo Editing  A Thorough Examination</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminate-disk-maximum-usage-in-windows/"><u>Eliminate Disk Maximum Usage in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-get-your-hp-wireless-keyboard-back-in-action-expert-tips-and-tricks/"><u>How To Get Your HP Wireless Keyboard Back in Action: Expert Tips & Tricks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-resolving-driver-installation-unrecognized-on-your-pc/"><u>Troubleshooting Steps: Resolving 'Driver Installation Unrecognized on Your PC'</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unlocking-full-potential-with-iphone-hdr/"><u>[New] Unlocking Full Potential with iPhone HDR</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-battlenee-error-code-1450-resolve-failed-driver-loading-problems/"><u>Troubleshooting Battlenee Error Code 1450: Resolve Failed Driver Loading Problems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-sounds-4-top-budget-friendly-apps/"><u>Mastering YouTube Sounds - 4 Top Budget-Friendly Apps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-earbuds-not-working-on-win10-simple-fix-guide/"><u>USB Earbuds Not Working on WIN10 - Simple Fix Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-how-to-address-iphones-external-device-recognition-error/"><u>Resolved: How to Address iPhone's External Device Recognition Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intels-opengl-drivers-what-are-they-called/"><u>Intel's OpenGL Drivers, What Are They Called?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-journey-into-the-multifaceted-world-of-tiktok-animated-culture/"><u>[New] Journey Into the Multifaceted World of TikTok (Animated Culture)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-seamless-tweet-integration-on-facebook-platform/"><u>2024 Approved  Seamless Tweet Integration on Facebook Platform</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-non-vimeo-editing-software/"><u>[Updated] 2024 Approved  The Ultimate Guide to Non-Vimeo Editing Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-transform-your-video-recordings-with-these-10-secrets/"><u>[New] 2024 Approved  Transform Your Video Recordings with These 10 Secrets</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlocking-iphone-data-sync-via-usb-overcoming-device-driver-challenges/"><u>Unlocking iPhone Data Sync via USB: Overcoming Device Driver Challenges</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-exploring-the-best-available-free-audio-editing-solutions-for-windows-and-mac-enthusiasts/"><u>New 2024 Approved Exploring the Best Available Free Audio Editing Solutions for Windows and Mac Enthusiasts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-unresponsive-windows-10-a-step-by-step-guide/"><u>Bluetooth Unresponsive – Windows 10: A Step by Step Guide!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-tecno-spark-20-pro-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Tecno Spark 20 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-sync-mouse-and-window-harmony/"><u>Seamless Sync: Mouse & Window Harmony</u></a></li>
+<li><a href="https://driver-install.techidaily.com/attach-hp-envy-laptop-driver-to-windows-pc/"><u>Attach HP Envy Laptop Driver to Windows PC</u></a></li>
+</ul></div>

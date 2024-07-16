@@ -1,7 +1,7 @@
 ---
 title: Key Malfunction Report for Windows 10
-date: 2024-07-14 10:11:43
-updated: 2024-07-16 10:53:53
+date: 2024-07-15T06:48:48.956Z
+updated: 2024-07-16T06:48:48.956Z
 tags:
   - win11
   - win10
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/7802234057966a55c104bcf23729049f87338b2a1
 
 ---
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Method 2: Adjust your keyboard settings
 
  Windows has a setting, called Filter Keys, that allows you to control how it deals with accidental repeated keystrokes. Unfortunately, if turned on, this setting has been known to cause some keyboards to stop working in Windows 10\. So you should check if it’s turned on. If it is, you should turn it off and see if that resolves the problem.
@@ -69,10 +72,25 @@ thumbnail: https://thmb.techidaily.com/7802234057966a55c104bcf23729049f87338b2a1
 
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
  3) When prompted to confirm, click**OK** .
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
@@ -93,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/7802234057966a55c104bcf23729049f87338b2a1
 
  2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
 
  3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
@@ -105,6 +126,9 @@ thumbnail: https://thmb.techidaily.com/7802234057966a55c104bcf23729049f87338b2a1
 
 ## Method 5: Switch to ChromeOS
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
@@ -143,3 +167,44 @@ And that’s just the start of the benefits…
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/how-to-boot-into-safe-mode-and-get-rid-of-outdated-graphics-driver-in-windows-8/"><u>How To Boot Into Safe Mode and Get Rid Of Outdated Graphics Driver in Windows 8</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-explore-the-leading-youtube-to-webm-video-conversion-tools/"><u>[New] Explore the Leading YouTube-to-WebM Video Conversion Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/room-prep-101-ensuring-your-system-is-ready-for-oculus-rift-for-2024/"><u>Room Prep 101  Ensuring Your System Is Ready for Oculus Rift for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-hp-touchpad-driver-issue-for-windows-10/"><u>Fix HP Touchpad Driver Issue for Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intermittent-wireless-mouse-functionality-issues-with-win-10/"><u>Intermittent Wireless Mouse Functionality Issues with Win 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fix-how-to-solve-nvidia-geforce-experience-game-lag-heres-what-we-found/"><u>[Quick Fix] How to Solve Nvidia GeForce Experience Game Lag – Here's What We Found</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-base-system-glitches-via-dm/"><u>Tackling Base System Glitches via DM</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlocking-instagrams-video-sharing-limits-for-2024/"><u>[New] Unlocking Instagram's Video Sharing Limits for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-chasing-charm-innovative-photo-techniques-to-ignite-insta-for-2024/"><u>[New] Chasing Charm  Innovative Photo Techniques to Ignite Insta for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dvdcd-reader-invisibility-in-windows-11-resolved/"><u>DVD/CD Reader Invisibility in Windows 11 Resolved</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximizing-b-roll-effective-techniques-for-2024/"><u>Maximizing B-Roll  Effective Techniques for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-transforming-facebook-streams-into-flawless-records/"><u>[Updated] Transforming Facebook Streams Into Flawless Records</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-setting-up-missing-driver-issues-in-windows-11-8-and-7-easy-solutions/"><u>Troubleshooting and Setting Up Missing Driver Issues in Windows 11, 8 & 7 – Easy Solutions</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-mastering-your-mac-creating-captivating-style-videography/"><u>2024 Approved  Mastering Your Mac  Creating Captivating Style Videography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-price-friendly-nimbus-space-wide-file-vault/"><u>In 2024, Price-Friendly Nimbus Space  Wide File Vault</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-the-update-process-how-to-get-the-newest-drivers-for-hp-envy-20-series/"><u>Mastering the Update Process: How To Get The Newest Drivers For HP ENVY 20 Series</u></a></li>
+<li><a href="https://driver-error.techidaily.com/help-latest-logitech-cams-not-showing-on-updated-pc-got-answers-check-out-what-i-learned-fixed/"><u>Help! Latest Logitech Cam's Not Showing on Updated PC - Got Answers, Check Out What I Learned [Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-loneliness-for-wacom-connected/"><u>No More Loneliness for Wacom, Connected!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-live-broadcasting-on-fb-tips-for-success/"><u>[New] Live Broadcasting on FB  Tips for Success</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-control-panel-extension-is-incompatible-with-driver-version/"><u>Solved: Control Panel Extension Is Incompatible with Driver Version</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-solve-installation-failed-access-denied-for-usb-devices/"><u>How to Solve 'Installation Failed: Access Denied' For USB Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/decrypt-the-mystery-of-win11-blue-screen-with-11-hacks/"><u>Decrypt the Mystery of Win11 Blue Screen with 11 Hacks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/engineering-a-solution-for-glitch-e052/"><u>Engineering a Solution for Glitch E052</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-bt-integration-lenovo-and-windows-11-guide/"><u>Seamless BT Integration: Lenovo & Windows 11 Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-tailored-audio-customization-the-definitive-guide-for-tech-users-for-2024/"><u>Updated Tailored Audio Customization The Definitive Guide for Tech Users for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-navigating-into-windows-8s-safe-mode-for-graphics-driver-issues-resolution/"><u>Expert Advice: Navigating Into Windows 8'S Safe Mode for Graphics Driver Issues Resolution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-brodacm-80211n-seamless-wireless-functioning-on-windows/"><u>Fixed Brodacm 802.11N: Seamless Wireless Functioning on Windows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-jestjamboree-discover-a-sea-of-memes-at-your-feet/"><u>In 2024, JestJamboree  Discover a Sea of Memes at Your Feet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-adding-required-device-drivers-on-windows-1187/"><u>Step-by-Step Solution: Adding Required Device Drivers on Windows 11/8/7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-a24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy A24 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminate-unresponsive-right-click-issue-in-windows-11/"><u>Eliminate Unresponsive Right Click Issue in Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-of-minitool-movie-maker-review-tutorial-and-alternative-solutions/"><u>Discover the Best of Minitool Movie Maker Review, Tutorial, and Alternative Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-on-fixing-incorrect-device-configuration-error-code-1/"><u>Expert Tips on Fixing Incorrect Device Configuration (Error Code 1)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-raw-images-to-stunning-photos-your-guide-to-iphone-photomosaic-creation/"><u>[New] From Raw Images to Stunning Photos  Your Guide to iPhone Photomosaic Creation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsuccessful-graphic-device-connection-in-windows-11/"><u>Unsuccessful Graphic Device Connection in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-nvidia-opengl-driver-unable-to-recover-from-a-kernel-exception/"><u>Fix: NVIDIA OpenGL Driver Unable to Recover From a Kernel Exception</u></a></li>
+</ul></div>

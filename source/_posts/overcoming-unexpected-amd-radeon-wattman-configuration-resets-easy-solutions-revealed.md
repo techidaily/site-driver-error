@@ -1,7 +1,7 @@
 ---
 title: Overcoming Unexpected AMD Radeon Wattman Configuration Resets - Easy Solutions Revealed
-date: 2024-07-15 17:19:19
-updated: 2024-07-16 11:11:59
+date: 2024-07-15T06:50:52.452Z
+updated: 2024-07-16T06:50:52.452Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
 ## Overcoming Unexpected AMD Radeon Wattman Configuration Resets - Easy Solutions Revealed
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58d895485ccdd.jpg)  
   
  Since Anniversary Update of Windows 10, which was in August in 2016, AMD users have been reporting that Radeon WattMan sometimes stops working on their PCs.
@@ -48,6 +51,9 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  3) Then navigate to **Driver** tab, and then choose **Roll Back Driver**.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da15224ee2b.jpg)  
   
  4) If the **Roll Back Driver** button here is **grey out**, that means this option is unavailable in your situation. You need to go to the options below for more help.
@@ -60,6 +66,9 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  1) Click **Start** button, then choose **Control Panel**. In Control Panel, choose **Uninstall a program** under Programs sector (View by **Category**).  
   
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1cb2befea.jpg)  
   
  2) Now, choose **AMD Catalyst** program or other **AMD programs**, then choose **Uninstall**.
@@ -104,6 +113,9 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 1) Press Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and hit **Enter**.  
   
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)  
   
  2) You could choose **Restart now and check for problems (recommended)** to check the status of your memory card right now, or choose **Check for problems the next time I start my computer** if you are too occupied now.  
@@ -124,6 +136,9 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 3) **Lower Memory Clock speed**. In Radeon Settings > Global OverDrive. Then lower the speed for Memory Clock, starting from the lowest point. Then if things work out at this level, move up a little bit and try again until you find the perfect speed for your device.  
   
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da2c0eabed8.jpg)
 
 * [AMD](https://tools.techidaily.com/drivereasy/download/)
@@ -143,3 +158,53 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/bluetooth-driver-update-for-lenovo-on-windows-11/"><u>Bluetooth Driver Update for Lenovo on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/adjusting-non-loading-conditions-for-enex-on-win11/"><u>Adjusting Non-Loading Conditions for eNEX on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-install-missing-device-drivers-on-windows-11-8-and-7-complete-guide-fixed/"><u>How To Install Missing Device Drivers on Windows 11, 8 & 7 - Complete Guide [FIXED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-a-non-responsive-qualcomm-atheros-bluetooth-driver-in-windows-10-solutions-unveiled/"><u>How to Fix a Non-Responsive Qualcomm Atheros Bluetooth Driver in Windows 10 - Solutions Unveiled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-adjust-and-fix-sideways-video-display-errors-in-asus-systems/"><u>How to Adjust and Fix Sideways Video Display Errors in ASUS Systems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-dual-display-capture/"><u>2024 Approved  Dual Display Capture</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/xbox-360-controller-driver-not-working-on-windows-10-solved/"><u>Xbox 360 Controller Driver Not Working on Windows 10 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-dolby-advanced-audio-unable-to-start-the-dolby-audio-driver-in-windows-11/"><u>Solved Dolby Advanced Audio: Unable to Start the Dolby Audio Driver in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/conquered-nmi-driver-malfunction/"><u>Conquered NMI Driver Malfunction</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-epic-anime-quotes-and-phrases-for-viral-tiktok-challenges/"><u>2024 Approved  Epic Anime Quotes & Phrases for Viral TikTok Challenges</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-vanishing-bluetooth-issue-guide-to-device-manager/"><u>Solving Vanishing BlueTooth Issue: Guide to Device Manager</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-innovate-and-captivate-top-10-video-response-examples/"><u>In 2024, Innovate and Captivate  Top 10 Video Response Examples</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-qualcomm-atheros-bluetooth-issues-on-windows-10/"><u>How to Fix Qualcomm Atheros Bluetooth Issues on Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/soundquality-assessment/"><u>SoundQuality Assessment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-card-oversight-by-windows/"><u>Graphics Card Oversight by Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-guide-correcting-issues-with-installing-hcmondriver-drivers-efficiently/"><u>Comprehensive Guide: Correcting Issues with Installing Hcmondriver Drivers Efficiently</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-never-turns-off-on-windows-11-fix/"><u>Bluetooth Never Turns Off on Windows 11 [Fix]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimize-your-gameplay-streamline-deadriver-in-win10/"><u>Optimize Your Gameplay: Streamline DeaDriver in Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-not-recognizing-nvidia-gpus/"><u>Windows Not Recognizing Nvidia GPUs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-issue-unrecognized-or-invalid-drivers-installation-on-your-pc/"><u>Resolving the Issue: Unrecognized or Invalid Drivers Installation on Your PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/download-samsung-android-driver-for-windows/"><u>[Download] Samsung Android Driver for Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-non-recognized-usb-in-older-windows-systems/"><u>Addressing Non-Recognized USB in Older Windows Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-13t-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi 13T to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-ax201-unable-to-communicate-with-wi-fi-6/"><u>[SOLVED] AX201 Unable to Communicate with Wi-Fi 6</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-cards-unseen-by-windows-variants/"><u>Nvidia Cards Unseen by Windows Variants</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-expertly-curated-list-of-10-best-windows-cameras/"><u>In 2024, Expertly Curated List of 10 Best Windows Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-game-capture-a-guide-to-using-obs/"><u>Mastering Game Capture  A Guide to Using OBS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-meets-lenovo-bluetooth-driver-fix-explained/"><u>Win11 Meets Lenovo: Bluetooth Driver Fix Explained</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-arch-bluetooth-mouse-not-working-after-windows-11-creators-update/"><u>[FIXED] Arch Bluetooth Mouse Not Working After Windows 11 Creators Update</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/1714202463439-new-in-2024-how-to-record-your-desktop-with-filmora-scrn/"><u>New In 2024, How to Record Your Desktop with Filmora Scrn</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/master-windows-audio-arranger-pro/"><u>Master Windows Audio Arranger Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fault-alarm-ideport0-system-disturbance/"><u>Fault Alarm: Ideport0 System Disturbance</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconnecting-bluetooth-disappeared-from-devices-hub/"><u>Reconnecting: Bluetooth Disappeared From Devices Hub</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/inaugural-vocal-augmented-communication-tool/"><u>Inaugural Vocal-Augmented Communication Tool</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hdr-audio-hub-no-more-glitches/"><u>HDR Audio Hub: No More Glitches</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-windows-8-into-safe-mode-and-removing-graphics-drivers/"><u>Step-by-Step Guide: Booting Windows 8 Into Safe Mode & Removing Graphics Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-windows-11-error-missing-hardware-acceleration-coprocessor-driver/"><u>Resolving the Windows 11 Error: Missing Hardware Acceleration Coprocessor Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/broadcoms-win-fix-restored-working-state-of-broadcom-wi-fi-adapter/"><u>Broadcom's Win Fix: Restored Working State of Broadcom Wi-Fi Adapter</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/e-and-stand-out-50-free-youtube-branding-pieces/"><u>Dazzle and Stand Out  50 FREE YouTube Branding Pieces!</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-exemplary-episodes-for-auditory-drama/"><u>2024 Approved  Exemplary Episodes for Auditory Drama</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unavailable-driver-error-bcm20702a0/"><u>Unavailable Driver Error - BCM20702A0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-hidden-cd-drive-fixed/"><u>Windows 11: Hidden CD Drive Fixed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-unseen-loss-rapid-video-expulsion/"><u>[New] 2024 Approved  The Unseen Loss  Rapid Video Expulsion</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-sound-in-the-windows-11-world/"><u>Seamless Sound in the Windows 11 World</u></a></li>
+</ul></div>

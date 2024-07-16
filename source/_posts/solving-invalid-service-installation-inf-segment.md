@@ -1,7 +1,7 @@
 ---
 title: Solving Invalid Service Installation INF Segment
-date: 2024-07-13 16:25:53
-updated: 2024-07-16 10:16:59
+date: 2024-07-15T06:51:51.693Z
+updated: 2024-07-16T06:51:51.693Z
 tags:
   - win11
   - win10
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/371f85ea9dfa1babb000dca91773b4eb09149fff5
 2. [**Update the driver manually**](https://technitya.sjv.io/dkpn02)
 3. [**Install the missing driver files manually**](https://dhgate.sjv.io/5g6yb2)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 1: Update the driver automatically
 
  Since you can’t update the driver via Windows Update, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to update the driver automatically.
@@ -61,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/371f85ea9dfa1babb000dca91773b4eb09149fff5
 
 3) Select**Browser my computer for driver software** .
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687740cb79e.jpg)
 
  4) Select**Let me pick from a list of available drivers on my computer** and click**Next** .
@@ -69,16 +75,25 @@ thumbnail: https://thmb.techidaily.com/371f85ea9dfa1babb000dca91773b4eb09149fff5
 
  5) In Device Manager, if you see the device shown as MTP USB device. You’ll see**MTP USB Device** listed in the list.**Highlight** it then click**Next** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687724c3ed9.jpg)
 
  If you see the device shown as Unknown Device. You’ll see an Android phone or Android device in the long list.**Highlight** it and click**Next** then select**MTP USB device** .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68796507b2b.png)
 
  6) The driver will install automatically. You just need to wait for a while until the installation completes.
 
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 3: Install the missing driver files manually
 
  If the built-in USB driver fiels**mdmcpq.inf** and usbser.sys are missing or corrupted, the problem could occur. So to fix the problem, you can try to install these two driver files. You can replace them with the same files on another computer. Follow the steps below：
@@ -119,3 +134,39 @@ thumbnail: https://thmb.techidaily.com/371f85ea9dfa1babb000dca91773b4eb09149fff5
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-x100-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo X100 Screen | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105092287-troubleshooting-radeon-wattmans-sudden-crash-and-recovery-expert-solutions-revealed/"><u>Troubleshooting Radeon Wattman's Sudden Crash and Recovery – Expert Solutions Revealed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-usb-connectivity-problems-in-windows-when-new-devices-go-undetected/"><u>Overcoming USB Connectivity Problems in Windows When New Devices Go Undetected</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconnecting-usb-hardware-tips-for-windows-78/"><u>Reconnecting USB Hardware: Tips for Windows 7/8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-malfunction-idedevice-error-notice/"><u>System Malfunction: Idedevice Error Notice</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/optimal-viewing-experience-for-facebook-video-playback/"><u>Optimal Viewing Experience for Facebook Video Playback</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-your-itbm-driver-unavailable-problem-in-just-minutes/"><u>Solve Your ITBM Driver Unavailable Problem in Just Minutes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-correct-upside-down-image-on-an-asus-notebook-screen/"><u>Guide to Correct Upside Down Image on an ASUS Notebook Screen</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-leading-green-filmmaking-software/"><u>[Updated] In 2024, Leading Green Filmmaking Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-intel-management-engine/"><u>Troubleshooting Intel Management Engine</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-error-code-48-on-device-hub/"><u>No More Error Code 48 on Device Hub</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-xs-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone XS Without a Passcode</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-reacting-when-youre-seen-in-a-video-on-fb-messenger-for-2024/"><u>[Updated] Reacting When You're Seen In a Video On FB Messenger for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-to-invalid-service-configuration-in-inf/"><u>Solution to Invalid Service Configuration in INF</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-validating-and-resolving-incompatible-device-drivers/"><u>Step-by-Step Guide: Validating and Resolving Incompatible Device Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-silent-speakermicro-for-windows-10/"><u>Troubleshooting Silent Speaker/Micro for Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keybacklight-dark-issue-asus/"><u>Keybacklight Dark Issue - ASUS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-breathe-life-into-your-reels-adding-drama-with-slow-motion-for-2024/"><u>[New] Breathe Life Into Your Reels  Adding Drama with Slow Motion for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/regaining-functionality-in-windows-enter-key/"><u>Regaining Functionality in Windows' Enter Key</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-unsupported-hardware-errors-with-your-idt-software-suite/"><u>Troubleshooting Unsupported Hardware Errors with Your IDT Software Suite</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-premier-8-screen-recorders-guidebook/"><u>[New] In 2024, Premier 8 Screen Recorders Guidebook</u></a></li>
+<li><a href="https://driver-error.techidaily.com/recover-ethernet-malfunction-on-optibay-slidecaster/"><u>Recover Ethernet Malfunction on OptiBay Slidecaster</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cure-persistent-bluetooth-on-windows-10/"><u>Cure Persistent Bluetooth on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-correctly-fix-the-itbm-driver-not-found-error-a-step-by-step-guide/"><u>How to Correctly Fix the ITBM Driver Not Found Error - A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-common-problems-with-your-hp-wireless-keyboard-step-by-step-guide/"><u>Solving Common Problems with Your HP Wireless Keyboard: Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-idea-inception-using-google-trends-to-fuel-videography/"><u>2024 Approved  Idea Inception  Using Google Trends to Fuel Videography</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-detection-problem-in-win-oses/"><u>Nvidia Detection Problem in WIN OSes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/a-dive-into-digital-audio-recording-alternatives-to-vocaroo-explored-for-2024/"><u>A Dive Into Digital Audio Recording Alternatives to Vocaroo Explored for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-depths-of-photo-manipulation/"><u>2024 Approved  Exploring the Depths of Photo Manipulation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unseen-blu-ray-player-in-win11-heres-the-fix/"><u>Unseen Blu-Ray Player in Win11? Here's the Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keys-locked-in-win-10-system/"><u>Keys Locked in Win 10 System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-offline-to-online/"><u>From Offline to Online</u></a></li>
+</ul></div>

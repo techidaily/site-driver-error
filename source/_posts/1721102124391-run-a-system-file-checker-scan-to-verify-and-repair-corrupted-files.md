@@ -1,7 +1,7 @@
 ---
 title: Run a System File Checker Scan to Verify and Repair Corrupted Files
-date: 2024-07-13 11:55:55
-updated: 2024-07-16 11:22:14
+date: 2024-07-15T06:48:53.712Z
+updated: 2024-07-16T06:48:53.712Z
 tags:
   - win11
   - win10
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/5b8892c5db775bfe3651bc6e97180034918a18715
 
 ## Why does this error occur?
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/unable-to-initialize-direct-9-device-gta5-warcraft-3-1024x701.jpg)
 
 This error can occur for the following reasons:
@@ -60,6 +63,9 @@ This error can occur for the following reasons:
 
  2) Press the**Windows logo key** +**R** , then copy-paste**devmgmt.msc** into the Run box and hit**Enter** to open**Device Manager** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/DEvice-Manager.jpg)
 
  3) Expand**Display adapters** \> right click your graphics driver > select**Uninstall device** , and check the box**Delete the driver software for this device** .
@@ -110,6 +116,9 @@ This error can occur for the following reasons:
 
  If it shows**Disabled** or**Not Available** , then head to **[Direct3D Acceleration Not Available](https://tools.techidaily.com/drivereasy/download/)**  to further solve your problem.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Enable DirectPlay
 
  1) In the Search bar, type**turn windows** , then click**Turn Windows feature on or off** .
@@ -150,6 +159,9 @@ This error can occur for the following reasons:
 
  1) Press the**Windows logo key** and**R** at the same time, and type**msconfig** in the box, and hit**Enter** to open**System Configuration** .
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/msconfig.jpg)
 
  2) Click the**Service** s tab and check the**Hide all Microsoft services** box, then click**Disable all** .
@@ -158,6 +170,9 @@ This error can occur for the following reasons:
 
  3) Then click the**Startup** tab and select**Open Task Manager** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/open-task-manager.jpg)
 
  4) Select every startup application and click**Disable** .
@@ -196,3 +211,56 @@ This error can occur for the following reasons:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/simplified-fixes-to-overcome-itbm-driver-unavailable-dilemma/"><u>Simplified Fixes to Overcome 'ITBM Driver Unavailable' Dilemma</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-printer-driver-is-unavailable-on-windows/"><u>[SOLVED] Printer Driver Is Unavailable on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-compatibility-issue-unsupported-amdintel-graphics-with-premiere-pro/"><u>Resolved Compatibility Issue: Unsupported AMD/Intel Graphics with Premiere Pro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-depth-look-at-fraps-screen-capture/"><u>[New] In-Depth Look at Fraps Screen Capture</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solutions-for-enex-system-files-unload-on-windows-11/"><u>Solutions for eNEX System Files Unload on Windows 11</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-10-reliable-audio-converters-for-seamless-file-transfers/"><u>New 2024 Approved 10 Reliable Audio Converters for Seamless File Transfers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-the-third-party-inf-does-not-contain-digital-signature-information/"><u>[SOLVED] The Third-Party INF Does Not Contain Digital Signature Information</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-guide-adding-required-drivers-in-windows-operating-systems/"><u>Solution Guide: Adding Required Drivers in Windows Operating Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-the-unsupported-hardware-detected-error-in-idt-packages/"><u>How to Overcome the ‘Unsupported Hardware Detected’ Error in IDT Packages</u></a></li>
+<li><a href="https://driver-error.techidaily.com/need-immediate-assistance-cant-stop-my-pcs-bluetooth-from-working75-chars/"><u>“Need Immediate Assistance, Can't Stop My PC’s Bluetooth From Working!”(75 Chars)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-code-45-triumphantly-resolved/"><u>Error Code 45: Triumphantly Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-ensure-optimal-performance-updating-and-downloading-drivers-for-the-hp-envy-eby-series/"><u>How To Ensure Optimal Performance: Updating and Downloading Drivers for The HP Envy Eby Series</u></a></li>
+<li><a href="https://driver-error.techidaily.com/realtek-network-issue-post-windows-10-update-resolved/"><u>Realtek Network Issue Post-Windows 10 Update - Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconnecting-devices-after-adb-failure/"><u>Reconnecting Devices After ADB Failure</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-to-address-logitech-receptor-errors/"><u>Steps to Address Logitech Receptor Errors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-filmmaking-made-simple-a-smartphone-guide-to-youtube-thumbnails/"><u>2024 Approved  Filmmaking Made Simple  A Smartphone Guide to YouTube Thumbnails</u></a></li>
+<li><a href="https://driver-error.techidaily.com/installation-complete-printer-drivers-installed/"><u>Installation Complete: Printer Drivers Installed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-achieving-visual-excellence-aspect-ratio-mastery-on-youtube/"><u>[Updated] In 2024, Achieving Visual Excellence  ASPECT RATIO Mastery on YOUTUBE</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-oses-not-acknowledging-graphics-cards/"><u>Win OSes Not Acknowledging Graphics Cards</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-intel-ax201-wi-fi-6-nonfunctional-errors/"><u>[RESOLVED] Intel AX201 Wi-Fi 6 Nonfunctional Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-hardware-drivers-in-device-manager/"><u>Resolving Hardware Drivers in Device Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bootloader-interrupt-process-improved/"><u>Bootloader Interrupt Process Improved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigate-the-bios-tweaking-maze-razer-deathadder-in-windows-10/"><u>Navigate the BIOS Tweaking Maze: Razer Deathadder in Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-close-up-web-views-on-screen/"><u>2024 Approved  Mastering Close-Up Web Views on Screen</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-fundamentals-of-using-ffpm-in-firefox/"><u>The Fundamentals of Using FFPM in Firefox</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-issues-when-your-final-usb-peripheral-fails-and-windows-ignores/"><u>Resolving Issues When Your Final USB Peripheral Fails & Windows Ignores</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-wireless-keyboard-issues-on-your-pc-a-step-by-step-guide/"><u>Fixing Wireless Keyboard Issues on Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-recourse-and-resource-conflicts/"><u>System Recourse and Resource Conflicts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-incorrect-configuration-issue-understanding-error-code-1/"><u>Fixing Incorrect Configuration Issue - Understanding Error Code 1</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-high-quality-sound-on-win11/"><u>[Solved] High-Quality Sound on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-the-driver-not-found-issue-in-itbm-systems/"><u>Troubleshooting Guide: Fixing the 'Driver Not Found' Issue in ITBM Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guiding-users-through-driver-troubleshooting-dm/"><u>Guiding Users Through Driver Troubleshooting (DM)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimize-point-touch-response-time-dell-windows-7/"><u>Optimize Point-Touch Response Time (Dell, Windows 7)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-gtx-ninety-five-error-code-forty-three-in-windows-eleven/"><u>Resolving GTX Ninety-Five Error Code Forty-Three in Windows Eleven</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-usb-webcam-error-with-asus-model/"><u>Fixed USB Webcam Error with ASUS Model</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-cross-platform-device-tools/"><u>Comprehensive Cross-Platform Device Tools</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-moto-g13-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola Moto G13 FRP</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-desktop-and-laptops-troubleshooting-fixing-inverted-video-problems/"><u>Asus Desktop and Laptops Troubleshooting: Fixing Inverted Video Problems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-for-a-seamless-google-podcast-upload-experience/"><u>[New] Expert Tips for a Seamless Google Podcast Upload Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-cant-find-appropriate-hardware-drivers/"><u>System Can't Find Appropriate Hardware Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103163615-resolution-zero-connection-woes-wacom-fixed/"><u>Resolution: Zero-Connection Woes, Wacom Fixed!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-impressions-engaging-podcast-intros-for-2024/"><u>First Impressions  Engaging Podcast Intros for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-establish-connection-with-devices-in-winnt-40/"><u>Re-Establish Connection with Devices in WinNT 4.0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-the-driver-driverwudfrd-failed-to-load-for-the-device-event-id-219/"><u>[Fixed] The Driver DriverWudfRd Failed to Load for the Device Event ID 219</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simple-steps-for-iphone-screen-capture/"><u>[Updated] Simple Steps for iPhone Screen Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-cost-effective-options-top-10-free-high-quality-desktop-recorders/"><u>[New] Cost-Effective Options  Top 10 Free, High-Quality Desktop Recorders</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-intermittent-nvidia-driver-crashes/"><u>Tackling Intermittent Nvidia Driver Crashes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-cant-find-the-name-of-intel-icd-opengl-driver/"><u>[SOLVED] Can't Find the Name of Intel ICD OpenGL Driver</u></a></li>
+</ul></div>

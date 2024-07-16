@@ -1,7 +1,7 @@
 ---
 title: Enhanced Performance in New Win11 OS
-date: 2024-07-13 20:37:17
-updated: 2024-07-16 11:10:50
+date: 2024-07-15T06:58:08.867Z
+updated: 2024-07-16T06:58:08.867Z
 tags:
   - win11
   - win10
@@ -41,10 +41,16 @@ thumbnail: https://thmb.techidaily.com/ba7c57a899f8cd5c799f88c7d2899c692ee461941
 
  3) Press the**down arrow key** to highlight your mouse name, then**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa35dee13e1a.png)
 
  4) Press the**Tab** key and the**Ctrl** key at the same time until you get to the**Driver** tab. Press**Tab** until you highlight**Uninstall Device** . Then press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa35e5fee707.png)
 
  5) Press**Enter** .
@@ -91,6 +97,9 @@ Windows will help you reinstall the drivers for your mouse.
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time, type**control** and press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa3695673227.png)
 
  2) Press**Tab** , then**Enter** . Press the left arrow key to select **Small icons** , then press**Enter** .
@@ -111,6 +120,9 @@ Windows will help you reinstall the drivers for your mouse.
 
  6) Press**Tab** until you highlight**Disable** . Press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa37470b7742.png)
 
  7) Now you’ll be back at the Network Connection window, with your Ethernet icon highlighted. Press**Enter** to enable your network connection.
@@ -129,6 +141,9 @@ Windows will help you reinstall the drivers for your mouse.
 
  If the above methods don’t work, go check your**Task Manager** for clues on which applications could be at fault. If they’re occupying a lot of disk usage, it’s worth looking into. When you locate any suspicious applications, right-click them and click End Task to see if the mouse lagging problem is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Other options**
 
  1)**Disable Cortana** . Many users have reported that disabling Cortana helped fix their freezing mouse.
@@ -171,3 +186,64 @@ d) Restart your computer.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-7-troubleshooting-overcoming-the-blue-screen-error-0x0000007e/"><u>Windows 7 Troubleshooting: Overcoming the Blue Screen Error 0X0000007E</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-win10-asus-driver-and-acpi/"><u>Addressing Win10: Asus Driver and ACPI</u></a></li>
+<li><a href="https://driver-error.techidaily.com/common-problems-with-hp-wireless-peripherals-diagnosis-and-repair-tips/"><u>Common Problems with HP Wireless Peripherals: Diagnosis & Repair Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/journey-through-time-demystifying-and-fixing-age-old-usb-composite-device-issues/"><u>Journey Through Time: Demystifying and Fixing Age-Old USB Composite Device Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-device-unavailable-message-windows-xp/"><u>Resolve 'Device Unavailable' Message Windows XP</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-craft-your-story-with-vscos-editing-power-tools/"><u>2024 Approved  Craft Your Story with VSCO’s Editing Power Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-common-device-setup-issue-code-1-not-configured-correctly-in-brand/"><u>Overcoming the Common Device Setup Issue (Code 1 Not Configured Correctly) in [Brand]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-invalid-inf-for-service-installation/"><u>Fixed Invalid INF for Service Installation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-capturing-moments-expert-tips-on-downloading-social-media-lives-for-2024/"><u>[New] Capturing Moments  Expert Tips on Downloading Social Media Lives for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-iphone-mobile-host-controller-driver-problem-a-step-by-step-guide/"><u>Fixing the iPhone Mobile Host Controller Driver Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/10-simple-yet-effective-neon-text-generators-online/"><u>10 Simple Yet Effective Neon Text Generators Online</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-missing-usbdisc-drivers/"><u>Diagnosing Missing USB/Disc Drivers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-laughter-lab-top-7-sketches-and-vignettes-for-youtubers/"><u>In 2024, Laughter Lab  Top 7 Sketches & Vignettes for YouTubers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/expert-recommendations-top-5-windows-screen-cutting-apps/"><u>Expert Recommendations  Top 5 Windows Screen Cutting Apps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-correcting-the-failed-to-install-hcmon-driver-error/"><u>Step-by-Step Guide: Correcting the 'Failed to Install Hcmon Driver Error'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/strategies-to-overcome-base-driver-issues-dm/"><u>Strategies to Overcome Base Driver Issues (DM)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/elevate-razer-hats-update-driver-in-win11-platform/"><u>Elevate Razer HATs: Update Driver in Win11 Platform</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsung-system-files-windows-download/"><u>Samsung System Files - Windows Download</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-rectified-hd-audio-bus/"><u>Error Rectified: HD Audio Bus</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-n53-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo N53 Phone without Google Account?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reintroduce-hidden-dvds-to-windows-os/"><u>Reintroduce Hidden DVDs to Windows OS</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-battleye-initialization-failure-due-to-driver-loading-problems/"><u>Step-by-Step Solution for BattlEye Initialization Failure Due to Driver Loading Problems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/improve-your-videography-the-itunes-way-for-2024/"><u>Improve Your Videography  The iTunes Way for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-os-now-recognizes-latest-printer-hardware/"><u>Win OS Now Recognizes Latest Printer Hardware</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-exploring-the-finest-audio-reversal-applications-the-top-10-software-picks-for-your-devices/"><u>New 2024 Approved Exploring the Finest Audio Reversal Applications The Top 10 Software Picks for Your Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-failure-intel-hardware-missing/"><u>Driver Failure: Intel Hardware Missing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-moto-g34-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G34 5G Phone without PIN</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-missing-recognition-of-your-logitech-brio-cam-on-updated-pcs-running-win-10-fixed/"><u>How to Resolve Missing Recognition of Your Logitech Brio Cam on Updated PCs Running Win 10 [Fixed]</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/exploring-updates-to-sonys-s6500-model/"><u>Exploring Updates to Sony's S6500 Model</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-fixing-error-e052-driver/"><u>Diagnosing & Fixing Error E052-Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-stuck-on-windows-10/"><u>Keyboard Stuck on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-method-to-solve-the-broken-key-issue-on-your-hp-notebooks-detailed-steps-included-article-title-407-chars/"><u>Quick Method to Solve the 'Broken' Key Issue on Your HP Notebooks — Detailed Steps Included! - Article Title (407 Chars)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-your-control-the-ultimate-guide-for-effortlessly-fixing-unresponsive-bluetech-in-windows-11-fix-revealed/"><u>Restore Your Control: The Ultimate Guide for Effortlessly Fixing Unresponsive BlueTech in Windows 11 (Fix Revealed)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-repairing-aged-usb-composite-device-connectivity-concerns-and-errors/"><u>Guide to Repairing Aged USB Composite Device Connectivity Concerns and Errors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-50plus-best-text-techniques-in-film-making/"><u>In 2024, 50+ Best Text Techniques in Film-Making</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-hardware-blockage-for-windows-10-system/"><u>Graphics Hardware Blockage for Windows 10 System</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-13c-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi 13C 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-ultimate-wild-top-10-unforgettable-tiktok-challenges/"><u>In 2024, Ultimate Wild  Top 10 Unforgettable TikTok Challenges</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721097223338-tutorial-identifying-and-fixing-missing-drivers-for-devices-on-windows-versions-win1087-solution-found/"><u>Tutorial: Identifying & Fixing Missing Drivers for Devices on Windows Versions (Win10/8/7) - SOLUTION FOUND!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-qualcomm-atheros-bluetooth-driver-problems-in-windows-11/"><u>Troubleshooting and Solving Qualcomm Atheros Bluetooth Driver Problems in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smoothing-out-bluetooth-on-lenovo-with-w11/"><u>Smoothing Out Bluetooth on Lenovo with W11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/turn-off-stubborn-bluetooth-on-windows-10-answer/"><u>Turn Off Stubborn Bluetooth on Windows 10 [Answer]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/efficient-troubleshooting-for-ndis-in-windows/"><u>Efficient Troubleshooting for NDIS in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/darkened-asus-keyboard-lights/"><u>Darkened ASUS Keyboard Lights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unmatched-story-design-arena-for-2024/"><u>Unmatched Story Design Arena for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-navigating-through-paid-product-evaluations-online/"><u>[Updated] In 2024, Navigating Through Paid Product Evaluations Online</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-windows-7-blue-screen-with-stop-code-0x0000007e/"><u>How to Fix the Windows 7 'Blue Screen with Stop Code 0X0000007E'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-the-gtx-950-code-43-error-on-windows-11-systems/"><u>Troubleshooting and Fixing the GTX 950 Code 43 Error on Windows 11 Systems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-access-denial-windows-11-graphic-issue/"><u>Device Access Denial - Windows 11 Graphic Issue</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unveiling-the-hidden-potential-of-earnings-on-vimeo-platforms/"><u>[New] Unveiling the Hidden Potential of Earnings on Vimeo Platforms</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone 12 Pro Max</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-proficiently-post-360-degree-content-on-fb-for-2024/"><u>[New] How to Proficiently Post 360-Degree Content on FB for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-quick-guide-to-starting-an-instagram-live-show/"><u>[New] 2024 Approved  Quick Guide to Starting an Instagram Live Show</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-architects-of-unique-virtual-environments/"><u>[New] In 2024, Architects of Unique Virtual Environments</u></a></li>
+</ul></div>

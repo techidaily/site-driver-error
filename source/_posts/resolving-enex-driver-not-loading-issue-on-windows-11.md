@@ -1,0 +1,213 @@
+---
+title: Resolving eNEX Driver Not Loading Issue on Windows 11
+date: 2024-07-15T07:02:09.670Z
+updated: 2024-07-16T07:02:09.670Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverError
+description: This Article Describes Resolving eNEX Driver Not Loading Issue on Windows 11
+excerpt: This Article Describes Resolving eNEX Driver Not Loading Issue on Windows 11
+thumbnail: https://thmb.techidaily.com/0d6a66026bc293d990118e0e33da7d0a3d5bf37cd742dae54e5c6356e3964e9a.jpg
+---
+
+## Resolving eNEX Driver Not Loading Issue on Windows 11
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-35.png)
+
+ ene.sys driver cannot load on this device on Windows 11
+
+ If you’re seeing**_ene.sys driver cannot load on this device error_** on your Windows 11, especially if this error message comes out after the last Windows update, don’t worry, you’re not alone. As luck would have it, it’s not at all a hard issue to resolve. Here we have gathered some proven fixes that will help to fix the ene.sys driver cannot load on this device error for you.
+
+## Try these fixed for ene.sys driver cannot load error
+
+ You don’t have to try all the following fixes: simply work your way down the list until you find the one that does the trick to fix the ene.sys driver cannot load on this device error for you.
+
+1. **[Turn off the memory Integrity setting](https://dymocks-australia.pxf.io/lxv4xa)**
+2. **[Rename the ene.sys file](https://tinyland.pxf.io/org4ra)**
+3. **[Uninstall the last Windows update patch](https://arkmc.pxf.io/znergr)**
+4. **[Run Program Compatibility Troubleshooter](https://newchic.sjv.io/jzg4zq)**
+5. **[Update the driver for ENE device](https://ship7com.pxf.io/0zwaz3)**
+
+---
+
+## 1\. Turn off the memory Integrity setting
+
+ ene.sys is a system file related to EneTechIo or EneIo, developed by ENE Technology, usually installed with driver software for ENE Technology’s hardware products. If you don’t have a hardware device from ENE specifically but still have the error message about ene.sys, then please check to see if there’s a program controlling the RGB lighting on your keyboard and/or mouse.
+
+ If you don’t recall such an RGB lighting control software either, you can try to turn off Momory Integrity for this error message to disappear. To do so:
+
+1. On your keyboard, press the**Windows** key and type**core isolation** , then select**Core Isolation** from the list.  
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-36.png)
+2. Toggle off the option for Memory integrity.  
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-37.png)
+3. Restart your computer for the change to take effect.
+
+ Then see if the_**ene.sys driver cannot load error**_ still remains. If the error message is still seen, please repeat the above to toggle on the option for Memory Integrity, then move on to the next step.
+
+ Turning off Memory Integrity may render the RGB lighting function on your keyboard and/or mouse not working anymore. It’s entirely up to you whether this is acceptable or not.
+
+---
+
+## 2\. Rename the ene.sys file
+
+ As mentioned, ene.sys is a file that comes with a third-party hardware device. From what we know, it’s not a malicious file or driver: Windows Defender can be a bit sensitive about this issue. So to fix the ene.sys driver cannot load error, you can try to rename this file, so Windows Defender will skip it when running another scan. To rename ene.sys:
+
+1. Boot your computer into Safe Mode as instructed here first:[**How to start Windows 10 in Safe Mode – 4 different methods**](https://tools.techidaily.com/drivereasy/download/) (the screenshots are from Windows 10, but the instructions work on Windows 11 as well).
+2. On your keyboard, press the**Windows** key and the**E** key at the same time to open**File Explorer** .
+3. Then go to**`C:\Windows\System32\drivers`** , and find the**ene.sys** file there.
+4. Rename the ene.sys file to something like**eneold.sys** .  
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-38.png)
+5. When asked for permission, click**Continue** .  
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-39.png)
+6. When this is done, restart your computer into normal mode as instructed in the post shared in step 1, then see if the ene.sys driver cannot load error is fixed.
+
+ If the_**ene.sys driver cannot load error**_ remains, please move on.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+## 3\. Uninstall the last Windows update patch
+
+ Many users reported that the ene.sys driver cannot load error happened after a Windows update. If this is your case as well, please do the following to uninstall the last update to see if it helps. To do so:
+
+1. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
+![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-9.png)
+2. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
+3. Click**View installed updates** on the right pane.  
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-40.png)
+4. Click the**Uninstall** button to remove the latest Windows update patch before the**_ene.sys driver cannot load error_** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-41.png)
+5. Restart your computer afterward.
+
+ See if the ene.sys driver cannot load error still remains after uninstalling the last Windows update. If so, please move on.
+
+---
+
+## 4\. Run Program Compatibility Troubleshooter
+
+ If the above still doesn’t help to fix the ene.sys driver cannot load error, you can try to run the program compatibility troubleshooter to see if Windows can fix this problem. Program compatibility troubleshooter helps older programs to run properly on newer OSs like Windows 11\. To run this troubleshooter:
+
+1. On your keyboard, press the**Windows** key and the**R** key together. Copy and paste**ms-settings:troubleshoot** and hit**Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-42.png)
+2. Select**Other troubleshooters** .  
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-43.png)
+3. Find**Program Compatibility Troubleshooter** , and click the**Run** button next to it.  
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-44.png)
+4. See if you can find any**ene.sys** \-related app from the list. If not, select**Not listed** and click**Next** .  
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-45.png)
+5. **Browse** to the location where your ene.sys file is, and click**Next** .  
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-46.png)
+6. Tick the boxes that fits your description, and click**Next** .  
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-47.png)
+7. Then follow the on-screen instructions to run the tourbleshooter.
+
+ Then see if the ene.sys driver cannot load on this device error is fixed. If not, please move further.
+
+---
+
+## 5\. Update the driver for ENE device
+
+ The ene.sys driver cannot load on this device error can also be caused by outdated or incorrect driver, so if the above methods don’t help to fix the problem, it’s likely that you have a corrupted or outdated driver for the ene devices you have in your computer. So you should update your drivers to see if it helps.
+
+ If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
+2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-scan.png)
+3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
+4. Restart your computer for the changes to take effect.
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+---
+
+ Hope one of the above methods helps to fix the ene.sys driver cannot load on this device error on Windows 11 for you. If you have other suggestions, please feel free to leave a comment.
+
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/elan-touchpad-driver-issues-in-windows-10-solved/"><u>Elan Touchpad Driver Issues in Windows 10 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-overcoming-0x0000007e-bsod-issue-in-windows-7-computers/"><u>Expert Advice: Overcoming 0X0000007E BSoD Issue in Windows 7 Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/responsive-clicks-no-freezing-on-pc/"><u>Responsive Clicks, No Freezing on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-your-podcasts-production-with-top-audio-devices/"><u>Enhance Your Podcast's Production with Top Audio Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphical-interrupt-blocked-by-os-win11/"><u>Graphical Interrupt Blocked by OS Win11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-address-tweets-stuck-while-watching-online/"><u>[Updated] Address  Tweets Stuck While Watching Online</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-normality-of-windows-input-keys/"><u>Restoring Normality of Windows Input Keys</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-the-bsod-error-code-0x0000007e-in-windows-7/"><u>Resolve the BSoD Error Code 0X0000007E in Windows 7</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-how-to-add-auto-captions-to-instagram-stories-and-reels/"><u>In 2024, How to Add Auto Captions to Instagram Stories and Reels?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-solutions-for-driver-not-available-on-itbm-system-effortless-troubleshooting-guide/"><u>Immediate Solutions for 'Driver Not Available' On ITBM System - Effortless Troubleshooting Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unboundscreen-capturing-every-gaming-moment-for-free-for-2024/"><u>[Updated] UnboundScreen  Capturing Every Gaming Moment for FREE for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-straightforward-steps-simplified-laptop-screening-on-dell-for-2024/"><u>[Updated] Straightforward Steps  Simplified Laptop Screening on Dell for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-your-mac-interface-with-speech-recognition-software-review/"><u>Transform Your Mac Interface with Speech Recognition Software Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-missing-seagate-external-drive-in-new-os/"><u>Fixing Missing Seagate External Drive in New OS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-10-most-advanced-hashtag-monitors-on-social-media-sites-fbtweetinsta/"><u>[Updated] In 2024, 10 Most Advanced Hashtag Monitors on Social Media Sites (FB/Tweet/Insta)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721099736614-solved-cant-find-the-name-of-intel-icd-opengl-driver/"><u>[SOLVED] Can’t Find the Name of Intel ICD OpenGL Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/make-your-seagate-hard-drive-show-up-in-windows-11/"><u>Make Your Seagate Hard Drive Show Up in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721099236532-happy-campers-wacom-connected-everywhere/"><u>Happy Campers: Wacom Connected, Everywhere!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-the-ultimate-quick-guide-to-propel-your-tiktok-clans-popularity/"><u>[New] In 2024, The Ultimate Quick Guide to Propel Your TikTok Clan's Popularity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlock-hidden-hardware-on-win-1011-pcs/"><u>Unlock Hidden Hardware on WIN 10/11 PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-support-added-to-win-8-desktop/"><u>Device Support Added to Win 8 Desktop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-missing-links-resurrect-bluetooth-in-device-manager/"><u>Restore Missing Links: Resurrect Bluetooth in Device Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-vanishing-signal-proc-on-pcs/"><u>Resolve Vanishing Signal Proc on PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unblocking-device-unsupported-on-os2/"><u>Unblocking 'Device Unsupported' On OS/2</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-navigating-facebook-sharing-of-youtube-videos/"><u>2024 Approved  Navigating Facebook Sharing of YouTube Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/balance-windows-7-dell-interactive-elements/"><u>Balance Windows 7 Dell Interactive Elements</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-oppo-a59-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Oppo A59 5G</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-swap-periscope-leading-video-apps-for-iphoneandroid-devices/"><u>[Updated] Swap Periscope  Leading Video Apps for iPhone/Android Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-connectivity-fix-solving-qualcomm-atheros-issues-on-windows-11/"><u>Bluetooth Connectivity Fix: Solving Qualcomm Atheros Issues on Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-photographic-experience-with-aurora-hdr-software/"><u>2024 Approved  Photographic Experience with Aurora HDR Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-tv-streaming-guide-international-and-regional-channels/"><u>[Updated] Ultimate TV Streaming Guide  International & Regional Channels</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-recover-from-a-missing-coprocessor-driver-error-on-windows-11-a-comprehensive-solution/"><u>How to Recover From a Missing Coprocessor Driver Error on Windows 11 - A Comprehensive Solution</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/enhanced-video-capture-on-pcmac-with-top-apps-for-2024/"><u>Enhanced Video Capture on PC/Mac with Top Apps for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-route-to-record-your-favorite-streaming-content-hulu-for-2024/"><u>[Updated] The Ultimate Route to Record Your Favorite Streaming Content (Hulu) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonious-blends-using-fades-in-logic-pro-x/"><u>2024 Approved  Harmonious Blends  Using Fades in Logic Pro X</u></a></li>
+<li><a href="https://driver-error.techidaily.com/my-prodigy-brio-camera-wont-show-in-the-list-of-devices-after-pc-upgrade-heres-what-i-did-solved/"><u>My Prodigy Brio Camera Won't Show in the List of Devices After PC Upgrade – Here’s What I Did (Solved)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-stop-motion-made-easy-a-beginners-guide-to-studio-and-alternatives/"><u>In 2024, Stop Motion Made Easy A Beginners Guide to Studio and Alternatives</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-controller-malfunction-alert/"><u>Corrected Controller Malfunction Alert</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-engaging-audiences-with-jujutsu-kaisen-tiktok-content/"><u>[New] Engaging Audiences with Jujutsu Kaisen TikTok Content</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortlessly-fixing-windows-11s-elan-tap-mishaps/"><u>Effortlessly Fixing Windows 11'S Elan Tap Mishaps</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-security-accessories-for-webcams/"><u>2024 Approved  Top Security Accessories for Webcams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-income-maximizing-techno-gaming-tactics/"><u>[Updated] Income Maximizing Techno-Gaming Tactics</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-truth-about-vn-video-editor-apk-a-detailed-review/"><u>New 2024 Approved The Truth About VN Video Editor APK A Detailed Review</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-cash-flow-maximizing-income-through-content-marketing/"><u>[Updated] In 2024, Vimeo Cash Flow  Maximizing Income Through Content Marketing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-windows-enter-failure-case/"><u>Solving Windows Enter Failure Case</u></a></li>
+</ul></div>

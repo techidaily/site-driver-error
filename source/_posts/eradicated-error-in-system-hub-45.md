@@ -1,7 +1,7 @@
 ---
 title: "Eradicated Error in System Hub: #45"
-date: 2024-07-13 23:22:40
-updated: 2024-07-16 10:21:14
+date: 2024-07-15T06:52:56.376Z
+updated: 2024-07-16T06:52:56.376Z
 tags:
   - win11
   - win10
@@ -55,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 2. In the**Device Manager** window, locate the device that’s giving you Code 45.
 3. Right-click on that device entry and select**Uninstall device** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-2.png)
 4. Tick the checkbox for**Delete the driver software for this device** and click**Uninstall** (if you’re prompted for confirmation).  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-3.png)
@@ -64,15 +67,24 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Run the Windows Hardware and Devices Troubleshooter
 
  Microsoft offers you a**Hardware and Devices Troubleshooter** to diagnose and fix hardware issues. So try this built-in tool if any hardware problems happen to your device. To use it:
 
 1. On your keyboard, hit the**Windows** key and type**power** . When**Windows PowerShell** shows up and is highlighted from the list, click**Run as Administrator** .  
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/poweshell.png)
 2. Copy and paste**_msdt.exe -id DeviceDiagnostic_** in the Powershell, then hit**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-12.png)
 3. Now you should see the Hardware and Devices Troubleshooter. Click**Next** to continue.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-13.png)
 4. Follow the on-screen instructions to finish troubleshooting.
 5. Restart your computer and your problem should be resolved.
@@ -129,6 +141,9 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 7: Update your device drivers
 
  Sometimes your Code 45 issue may be caused by a missing or outdated driver. To find out whether that’s the root cause, you should try updating your device drivers and see if that makes a difference.
@@ -174,3 +189,62 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techidaily.com/how-to-reset-realme-narzo-60-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme Narzo 60 Pro 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-earnings-via-sponsored-youtube-videos/"><u>[New] Mastering Earnings via Sponsored YouTube Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-installing-missing-device-drivers-in-windows-operating-systems/"><u>Step-by-Step Guide to Installing Missing Device Drivers in Windows Operating Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-download-andupdate-drivers-for-hp-envy-20-pc-series/"><u>How to Download &Update Drivers for HP ENVY 20 PC Series</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-leveraging-snapchats-star-feature/"><u>In 2024, Tips for Leveraging Snapchat's Star Feature</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-nonworking-right-click-on-windows-11-touchpad-panel/"><u>Resolve Nonworking Right Click on Windows 11 Touchpad Panel</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectified-data-access-errors/"><u>Rectified Data Access Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/simple-fixes-for-itbm-driver-not-found-errors-on-your-computer/"><u>Simple Fixes for ITBM Driver Not Found Errors on Your Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-11-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 11 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/making-logitech-receptor-discoverable-on-pcs/"><u>Making Logitech Receptor Discoverable on PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-data-acquisition-issue-in-windows-os/"><u>Resolving Data Acquisition Issue in Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decode-your-pcs-blue-screen-of-death-fixing-the-0x0000007e-error-on-windows-solved/"><u>Decode Your PC's Blue Screen of Death: Fixing the 0X0000007E Error on Windows [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-hardware-recognition-complete/"><u>Windows Hardware Recognition Complete</u></a></li>
+<li><a href="https://driver-error.techidaily.com/discovering-name-for-glplusicd-driver/"><u>Discovering Name for GL+ICD Driver</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-simplified-transfer-tactics-from-iphone-to-computer/"><u>[New] 2024 Approved  Simplified Transfer Tactics From iPhone to Computer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-restoring-functionality-when-your-pc-lacks-a-coprocessor-driver-in-windows-nt/"><u>Solved! Restoring Functionality When Your PC Lacks a Coprocessor Driver in Windows nT</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-windows-8-into-safe-mode-and-removing-your-graphics-drivers/"><u>Step-by-Step Guide: Booting Windows 8 Into Safe Mode & Removing Your Graphics Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-installing-necessary-drivers-for-your-windows-pc-windows-1187/"><u>Guide: Installing Necessary Drivers for Your Windows PC [WINDOWS 11/8/7]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-erratic-trackpad-behavior-in-dell-windows-7/"><u>Fix Erratic Trackpad Behavior in Dell-Windows 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-driver-update-no-errors-detected-in-installation/"><u>Nvidia Driver Update: No Errors Detected in Installation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-get-your-qualcomm-atheros-bluetooth-working-again-on-a-windows-10-pc/"><u>How to Get Your Qualcomm Atheros Bluetooth Working Again on a Windows 10 PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-no-support-for-amdintel-in-premier-pro-videos/"><u>Resolved: No Support for AMD/Intel in Premier Pro Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-device-hubs-error-48/"><u>[SOLVED] Device Hub's Error 48</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-editors-playbook-essential-strategies-for-youtube-video-crafting/"><u>[Updated] The Editor's Playbook  Essential Strategies for Youtube Video Crafting</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-directx-9-startup-in-minimal-steps/"><u>Mastering DirectX 9 Startup in Minimal Steps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-much-cash-can-you-score-for-watching-a-million-videos/"><u>In 2024, How Much Cash Can You Score for Watching A Million Videos?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-get-your-qualcomm-atheros-devices-bluetooth-working-perfectly-on-windows-jndz-eleven/"><u>How to Get Your Qualcomm Atheros Device's Bluetooth Working Perfectly on Windows ˈ|jɪndz Eleven</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-unable-to-connect-to-the-synaptics-pointing-device-driver/"><u>[Solved] Unable to Connect to the Synaptics Pointing Device Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-evolution-and-functionality-of-usb-composite-devices-a-comprehensive-guide/"><u>The Evolution and Functionality of USB Composite Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/idt-software-update-solving-unrecognized-device-issues-effectively/"><u>IDT Software Update: Solving Unrecognized Device Issues Effectively</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-want-to-send-snaps-from-camera-roll-see-how-it-is-done-for-2024/"><u>[Updated] Want to Send Snaps From Camera Roll? See How It Is Done for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overhauling-intel-mmc-faults/"><u>Overhauling Intel MMC Faults</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetoothusb-headset-not-recognized-windows-10-guide-to-solutions/"><u>Bluetooth/USB Headset Not Recognized: Windows 10 Guide to Solutions</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-invisible-cddvd-on-windows-11/"><u>Resolving Invisible CD/DVD on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-battleye-service-unable-to-initialize-due-to-error-1450-a-comprehensive-guide/"><u>Fixing 'BattlEye Service Unable To Initialize' Due To Error 1450 - A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/careless-install-of-gpu-driver/"><u>Careless Install of GPU Driver?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/end-of-window-lags-and-pauses/"><u>End of Window Lags & Pauses</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-to-prevent-videos-from-displaying-upside-down-on-an-asus-notebook/"><u>Step-by-Step Solutions to Prevent Videos From Displaying Upside Down on an ASUS Notebook</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-and-compressed-memory-high-disk-usage-on-windows-10-solved/"><u>System and Compressed Memory High Disk Usage on Windows 10 [Solved]</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-stop-looking-for-filmora-coupon-code-on-reddit-check-here/"><u>New 2024 Approved Stop Looking for Filmora Coupon Code on Reddit - Check Here</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-leveraging-adobe-connect-for-exceptional-video-capture-and-editing/"><u>[Updated] In 2024, Leveraging Adobe Connect for Exceptional Video Capture & Editing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/balanced-hdd-control-mechanism/"><u>Balanced HDD Control Mechanism</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-radeon-wattmans-sudden-crash-and-recovery-expert-solutions-revealed/"><u>Troubleshooting Radeon Wattman's Sudden Crash and Recovery – Expert Solutions Revealed!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/installer-errors-resolved-new-nvidia-driver-installation/"><u>Installer Errors Resolved - New Nvidia Driver Installation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ominating-the-digital-space-5-tips-for-video-visibility-victory-for-2024/"><u>[New] Dominating the Digital Space  5 Tips for Video Visibility Victory for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/reels-and-royalties-the-role-of-meta-in-content-creator-earnings/"><u>Reels & Royalties: The Role of Meta in Content Creator Earnings</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-seagate-hdd-visibility-issue-in-win11/"><u>Solving Seagate HDD Visibility Issue in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dvd-reader-disappearance-issue-solved-in-win11/"><u>DVD Reader Disappearance Issue Solved in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102843679-windows-11-and-qualcomm-atheros-bluetooth-woes-heres-your-ultimate-fix/"><u>Windows 11 and Qualcomm Atheros Bluetooth Woes? Here's Your Ultimate Fix!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-playlist-pilgrimage-seamless-music-service-journeying/"><u>[New] Playlist Pilgrimage  Seamless Music Service Journeying</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-restoring-bluetooth-functionality-for-qualcomm-atheros-on-windows-10/"><u>Troubleshooting Guide: Restoring Bluetooth Functionality for Qualcomm Atheros on Windows 10</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-entryway-investments-cost-effective-channels-for-newbies/"><u>[Updated] Entryway Investments  Cost-Effective Channels for Newbies</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v20-files-on-my-mac-using-tool-stellar-by-stellar-guide/"><u>Repair corrupt PDF v2.0 files on my Mac using tool | Stellar</u></a></li>
+</ul></div>

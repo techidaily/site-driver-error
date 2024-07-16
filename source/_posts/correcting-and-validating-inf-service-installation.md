@@ -1,7 +1,7 @@
 ---
 title: Correcting and Validating INF Service Installation
-date: 2024-07-14 18:26:40
-updated: 2024-07-16 12:33:43
+date: 2024-07-15T06:56:25.966Z
+updated: 2024-07-16T06:56:25.966Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 
 ## Correcting and Validating INF Service Installation
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/a-service-installation-section-in-this-inf-is-invalid.jpg)
 
  Fix a Service Installation Section in this INF is Invalid issue. Follow the steps in this article.
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 2. [**Update the driver manually**](https://technitya.sjv.io/dkpn02)
 3. [**Install the missing driver files manually**](https://dhgate.sjv.io/5g6yb2)
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 1: Update the driver automatically
 
  Since you can’t update the driver via Windows Update, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to update the driver automatically.
@@ -41,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
 
  3) Click the **Update** button next to a flagged MTP USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -61,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 
 3) Select**Browser my computer for driver software** .
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687740cb79e.jpg)
 
  4) Select**Let me pick from a list of available drivers on my computer** and click**Next** .
@@ -91,6 +103,9 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -119,3 +134,50 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-malfunction-heres-how-to-restore-functionality-quickly/"><u>HP Wireless Keyboard Malfunction? Here's How to Restore Functionality Quickly!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-usb-code-43-error-easily-with-pictures/"><u>Fix USB Code 43 Error Easily [with Pictures]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-your-latest-cam-recognition-issue-post-windows-10-update-solutions-found-fixed/"><u>How to Fix Your Latest Cam Recognition Issue Post Windows 10 Update - Solutions Found [Fixed]</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-functionality-of-instagram-story-features/"><u>[Updated] In 2024, The Functionality of Instagram Story Features</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-infinix-hot-30i-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Infinix Hot 30i</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-windows-keystroke-issues-enter-key/"><u>Resolving Windows Keystroke Issues: Enter Key</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resurrecting-disabled-windows-10-usb-earbuds/"><u>Resurrecting Disabled Windows 10 USB Earbuds</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-next-level-game-monitoring-software-beyond-the-fbx-standard/"><u>[New] In 2024, Next Level Game Monitoring Software Beyond the FBX Standard</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-luckily-there-are-several-alternative-apps-that-allow-you-to-edit-your-footage-from-a-mobile-device-see-our-reviews-below/"><u>New 2024 Approved Luckily There Are Several Alternative Apps that Allow You to Edit Your Footage From a Mobile Device; See Our Reviews Below</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-drive-operation-anomaly/"><u>Resolved Drive Operation Anomaly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-6-plus-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 6 Plus & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-stand-out-yt-thumbnail-size-and-engagement-strategies/"><u>[New] How to Stand Out  YT Thumbnail Size and Engagement Strategies</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y78t-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y78t to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-install-realtek-ethernet-driver-error-resolved/"><u>Win11 Install: Realtek Ethernet Driver Error Resolved</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-techniques-selecting-audioscapes-for-unveiling-videos/"><u>2024 Approved  Techniques  Selecting Audioscapes for Unveiling Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-malfunction-in-win-10/"><u>Keyboard Malfunction in Win 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fixed-frequent-amd-driver-hiccups/"><u>Quick Fixed: Frequent AMD Driver Hiccups</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-10-battle-royale-matchups-for-2024/"><u>[New] Ultimate 10 Battle Royale Matchups for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-companyinfo-given-that-i-want-this-question-forensicinia1098-735-kmkm-so-far-as-to-be-able-to-find-out-which-of-these-numbers-in-i-in-order-for-differen3/"><u>The Company_info = 'Given that I Want This Question. Forensicinia,1098-735 Km/Km, so Far as to Be Able to Find Out Which of These Numbers in (I) In Order for Different Languages</u></a></li>
+<li><a href="https://driver-error.techidaily.com/remedy-for-unidentified-usb-gadgets-on-windows-78/"><u>Remedy for Unidentified USB Gadgets on Windows 7/8</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-safe-mode-and-pip-features-on-iphone-ipad-and-macos/"><u>In 2024, Navigating Safe Mode and PIP Features on iPhone, iPad & MacOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-creating-spherical-shots-with-fisheye-lenses/"><u>In 2024, The Art of Creating Spherical Shots with Fisheye Lenses</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-erase-identity-concerns-best-face-blurring-video-editors/"><u>New 2024 Approved Erase Identity Concerns Best Face Blurring Video Editors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-nvidia-control-panel-not-working-on-windows-11/"><u>Solved: NVIDIA Control Panel Not Working on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tweak-pointer-efficiency-for-dell-windows/"><u>Tweak Pointer Efficiency for Dell (Windows)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-strategies-for-recovering-mtp-devices/"><u>Effective Strategies for Recovering MTP Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-printer-works-driver-now-installed/"><u>Win Printer Works: Driver Now Installed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-best-screen-grabber-for-windows-users/"><u>[Updated] 2024 Approved  Best Screen Grabber for Windows Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-visual-potential-the-9-best-mobile-accessories-for-vloggers/"><u>2024 Approved  Unlocking Visual Potential  The 9 Best Mobile Accessories for Vloggers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/vehicle-unloading-barred-by-tech/"><u>Vehicle Unloading Barred by Tech</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-solutions-for-when-your-qualcomm-atheros-bluetooth-wont-connect-on-windows-10-guide/"><u>Quick Solutions for When Your Qualcomm Atheros Bluetooth Won't Connect on Windows 10 [Guide]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resource-saturation-a-usage-dilemma/"><u>Resource Saturation: A Usage Dilemma</u></a></li>
+<li><a href="https://driver-error.techidaily.com/missing-dvdcd-driver-on-win11-fixed/"><u>Missing DVD/CD Driver on Win11? Fixed!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensuring-reliable-sm-bus-driver-on-windows-1011/"><u>Ensuring Reliable SM Bus Driver on Windows 10/11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-best-in-class-ps3-virtual-games-for-pc-for-2024/"><u>[Updated] Best-in-Class PS3 Virtual Games for PC for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-improving-your-youtube-presentation-with-structured-chapters/"><u>[New] Improving Your YouTube Presentation with Structured Chapters</u></a></li>
+<li><a href="https://driver-error.techidaily.com/name-hunt-opengl-support-in-intel-graphics-cards/"><u>Name Hunt: OpenGL Support in Intel Graphics Cards</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hd-drivers-win11-success-story/"><u>HD Drivers: Win11 Success Story</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensured-n-adapter-functionality-in-windows-broadcoms-fix/"><u>Ensured N Adapter Functionality in Windows - Broadcom's Fix</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-roles-of-every-crew-member-in-filming/"><u>In 2024, Roles of Every Crew Member in Filming</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-issues-with-outdated-usb-composite-hardware-comprehensive-strategies-inside/"><u>Solving Issues with Outdated USB Composite Hardware - Comprehensive Strategies Inside</u></a></li>
+</ul></div>

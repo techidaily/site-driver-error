@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Troubleshooting: Overcoming the Blue Screen Error 0X0000007E"
-date: 2024-07-15 22:13:46
-updated: 2024-07-16 12:46:22
+date: 2024-07-15T06:46:21.489Z
+updated: 2024-07-16T06:46:21.489Z
 tags:
   - win11
   - win10
@@ -15,6 +15,18 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
 ## Windows 7 Troubleshooting: Overcoming the Blue Screen Error 0X0000007E
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb5165ee5b3.jpg)
 
  If you’re on Windows and you suddenly run into the blue screen of death error with the error code 0x0000007E, you’re not alone. Many Windows 7 users are reporting this problem as well. But no worries, it’s possible to fix, however dreadful the blue screen may look like.
@@ -28,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
 **IMPORTANT** :  You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, reboot your computer into [safe mode](https://tools.techidaily.com/drivereasy/download/) , then try these solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Remove unsafe or incompatible drivers
 
  This blue screen of death error is likely to be caused by unsafe or incompatible drivers.
@@ -56,6 +71,9 @@ See if this problem is resolved after the restart.
 
  3) Click**Browse my computer for driver software** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb6329bc1ce.jpg)
 
  4) Click**Let me pick from a list of device drivers on my computer** .
@@ -92,6 +110,9 @@ See if this problem is resolved after the restart.
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb6be24f873.png)
 
  3) Click the**Update** button next to the flagged video device to automatically download and install the correct version of its driver (you can do this with the FREE version).
@@ -114,6 +135,9 @@ See if this problem is resolved after the restart.
 
  3) Change the current option to**AHCI** . Then save an exit. Reboot your PC into normal mode.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb6c5780af2.jpg)
 
 4) See if the problem is resolved.
@@ -137,3 +161,43 @@ See if this problem is resolved after the restart.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/craft-a-symphony-for-screens-mastering-music-editing-in-canva/"><u>Craft a Symphony for Screens  Mastering Music Editing in Canva</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unraveling-the-mystery-of-directx-9-not-initializing/"><u>Unraveling the Mystery of DirectX 9 Not Initializing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understocked-resource-pool-for-device/"><u>Understocked Resource Pool for Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-keys-not-functioning-properly/"><u>Windows 10: Keys Not Functioning Properly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhanced-image-quality-for-asus-cam-fix-in-windows-11-builds/"><u>Enhanced Image Quality for ASUS Cam: Fix in Windows 11 Builds</u></a></li>
+<li><a href="https://driver-error.techidaily.com/efficiently-tackle-wireless-issues-windows-style/"><u>Efficiently Tackle Wireless Issues, Windows Style!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-aspect-ratio-for-linkedin-videos-and-other-points-is-important-to-consider-while-creating-these-videos-here-is-all-that-you-must-know-about-linkedin/"><u>New The Aspect Ratio for LinkedIn Videos and Other Points Is Important to Consider While Creating These Videos. Here Is All that You Must Know About LinkedIn Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-lenovo-bluetooth-hitches-in-win11/"><u>Fixing Lenovo Bluetooth Hitches in Win11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-sounds-of-silence-no-more-three-fresh-strategies-for-adding-audio-to-videos-for-2024/"><u>New The Sounds of Silence No More Three Fresh Strategies for Adding Audio to Videos for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-overcoming-connectivity-problems-with-your-hp-wireless-keyboard/"><u>Solved! Overcoming Connectivity Problems with Your HP Wireless Keyboard</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-high-speed-action-analysis-hero5-vs-star/"><u>[New] In 2024, High-Speed Action Analysis  Hero5 Vs Star</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-transform-your-videos-a-beginners-guide-to-time-lapse-in-final-cut-pro/"><u>In 2024, Transform Your Videos A Beginners Guide to Time Lapse in Final Cut Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/why-is-my-device-missing-a-driver-in-windows-fixes-for-11-8-and-7-systems/"><u>Why Is My Device Missing a Driver in Windows? Fixes for 11, 8 & 7 Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-in-flight-choosing-superior-drone-motor-technology/"><u>In 2024, Excellence in Flight  Choosing Superior Drone Motor Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-get-your-passport-featured-with-these-top-10-free-portrait-makers/"><u>[New] Get Your Passport Featured with These Top 10 Free Portrait Makers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-adding-audiovisual-elements-in-cinema-pro-step-by-step-guide/"><u>2024 Approved Adding Audiovisual Elements in Cinema Pro Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-definitive-guide-to-download-and-refresh-drivers-on-the-hp-envy-20-computer-series/"><u>The Definitive Guide to Download & Refresh Drivers on the HP ENVY 20 Computer Series</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-radeon-software-and-driver-versions-do-not-match/"><u>Fix: 'Radeon Software and Driver Versions Do Not Match'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/simplifying-razer-hd-ata-drivers-in-win11/"><u>Simplifying Razer HD ATA Drivers in WIN11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-uncovering-the-power-of-splice-a-thorough-video-editing-app-review/"><u>Updated In 2024, Uncovering the Power of Splice A Thorough Video Editing App Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-to-overcome-nvidia-gtx-950-code-43-errors-on-a-windows-10-system-step-by-step/"><u>Expert Tips to Overcome NVIDIA GTX 950 Code 43 Errors on a Windows 10 System [Step-by-Step]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-download-driver-for-unknown-device-in-device-manager/"><u>How to Download Driver for Unknown Device in Device Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cleared-error-on-deviceharddisk-exception/"><u>Cleared Error on DeviceHarddisk Exception</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-poco-c55-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Poco C55 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-poco-x5-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Poco X5 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-gpu-drivers-on-windows-8/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing GPU Drivers on Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/auto-load-not-permitted-by-hardware/"><u>Auto-Load Not Permitted by Hardware</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/best-choice-streamline-your-youtube-audio/"><u>Best Choice  Streamline Your YouTube Audio</u></a></li>
+<li><a href="https://driver-error.techidaily.com/your-seagate-hdd-on-the-fence-in-win10-heres-what-to-do/"><u>Your Seagate HDD on the Fence in Win10? Here's What To Do</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-asmedia-usb-host-controller-was-not-found-on-asus/"><u>Fixed: ASMedia USB Host Controller Was Not Found on Asus</u></a></li>
+<li><a href="https://driver-error.techidaily.com/identifying-and-correcting-unrecognized-usb-errors-in-win-78/"><u>Identifying and Correcting Unrecognized USB Errors in Win 7/8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winning-against-w11s-elan-input-issues-one-fix-at-a-time/"><u>Winning Against W11's Elan Input Issues, One Fix at a Time</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-stable-defaults-overcoming-radeon-wattmans-temporary-setup-failures/"><u>Mastering Stable Defaults: Overcoming Radeon Wattman's Temporary Setup Failures</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-endless-windows-11-bluetooth-activation/"><u>Fixed Endless Windows 11 Bluetooth Activation</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-microsoft-video-editor-tutorial-simplify-your-video-editing-experience-for-2024/"><u>New Microsoft Video Editor Tutorial Simplify Your Video Editing Experience for 2024</u></a></li>
+</ul></div>

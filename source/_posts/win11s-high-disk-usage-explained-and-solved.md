@@ -1,7 +1,7 @@
 ---
 title: Win11's High Disk Usage Explained & Solved
-date: 2024-07-13 18:42:50
-updated: 2024-07-16 10:50:48
+date: 2024-07-15T06:52:48.667Z
+updated: 2024-07-16T06:52:48.667Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/db3dbeacfdd5ea435b3f8eb406f01646288938a03
 
  Before you start troubleshooting, check if it’s a temporary system glicth. You can do that by simply restarting the PC and see if the issue persists.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9 fixes for 100% disk usage on Windows 10
 
  Here are a few fixes that have helped other users resolve their Windows 10 100% disk usage problem. You may not need to try them all; just work your way down the list until you find the one that works for you.
@@ -125,6 +128,9 @@ If the 100% disk usage problem persists, try the next method, below.
 
 2) Click **Yes**  at the**User Account Control** prompt.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b3e5e14b63.jpg)
 
  3) The command prompt will once again display. Type in the following command:
@@ -222,10 +228,16 @@ Here’s how to determine if this is your problem and fix it:
 
  1) Open **Device Manager** by pressing**Windows logo key** and**X** at the same time to choose**Device Manager** .
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b453d7e242.png)
 
  2) Expand the **IDE ATA/ATAPI Controllers**  category, and double-click the**AHCI controller** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b45719881f.png)
 
  3) Go to the **Driver** tab and click**Driver Details** . If you can see**storahci.sys** stored in a path of system32 folder, then you are running the inbox AHCI driver.
@@ -278,6 +290,9 @@ Here’s how you can check the disk health easily with HD Tune:
 2. Once it completes, check the graph and look for yellow or red blocks. If there’re any red (damaged) blocks, you should consider backing up your data and replace the faulty disk.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-6.jpg)
 3. Again, you can use the drop down menu on the top left corner to scan different disk. It’s recommended you scan all the disk to make sure all your hard drives are in good condiction.  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-3.jpg)
 
 **Tips to secure your data** : Since hard drives have a finite lifetime and can fail without a warning, consider using a free backup software like AOMEI Backupper to [create a system image](https://prf.hn/click/camref:1011l3x6jb/pubref:drivereasyen2039/ar:drivereasyen2039/[p%5Fid:1100l557026]/destination:https%3A%2F%2Fwww.ubackup.com%2Ffeatures%2Fcreate-system-image.html) , especially when the disk carries important data. A backup system protects you against random disk failures.
@@ -326,3 +341,49 @@ And that’s just the start of the benefits…
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/in-2024-how-to-use-voicemod-on-discord/"><u>In 2024, How To Use Voicemod On Discord</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-unresponsive-keys-in-windows-11-system/"><u>[Resolved] Unresponsive Keys in Windows 11 System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-gtx-950-code-43-error-on-your-windows-11-pc-step-by-step-solution/"><u>How to Fix 'GTX 950 Code 43 Error' On Your Windows 11 PC: Step-by-Step Solution</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-free-video-editing-solutions-for-32-bit-windows-users/"><u>2024 Approved Free Video Editing Solutions for 32-Bit Windows Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keystone-illumination-error-asus/"><u>Keystone Illumination Error - Asus</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-asus-acpi-driver-issues-in-windows-10/"><u>How to Fix Asus ACPI Driver Issues in Windows 10</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-ultimate-guide-to-enhancing-logic-pro-x-8-top-ranked-free-and-premium-plugins/"><u>Updated In 2024, The Ultimate Guide to Enhancing Logic Pro X - 8 Top-Ranked Free & Premium Plugins</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-solutions-for-usbasp-driver-conflicts/"><u>Streamlined Solutions for USBasp Driver Conflicts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/preventative-measures-for-stable-nvidia-codes/"><u>Preventative Measures for Stable Nvidia Codes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-troubleshooting-guide-nvidia-geforce-gtx-950-code-43-error-fix-on-windows-11-systems/"><u>Step-by-Step Troubleshooting Guide: NVIDIA GeForce GTX 950 Code 43 Error Fix on Windows 11 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ideport0-system-flaw-detected/"><u>Ideport0 System Flaw Detected</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-compatibility-errors-for-device-drivers-in-windows/"><u>Fixing Compatibility Errors for Device Drivers in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fixes-for-driver-cannot-be-found-in-itbm-software/"><u>Quick Fixes for 'Driver Cannot Be Found' In ITBM Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/access-hindered-graphic-driver-on-window-10/"><u>Access Hindered: Graphic Driver on Window 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elevating-your-presentation-infusing-music-into-powerpoint/"><u>[Updated] Elevating Your Presentation  Infusing Music Into PowerPoint</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-message-decoded-successfully-overcoming-battleyes-driver-load-hurdles/"><u>Error Message Decoded: Successfully Overcoming BattlEye's 'Driver Load' Hurdles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-a-closer-examination-the-finest-mac-recording-software/"><u>[New] In 2024, A Closer Examination  The Finest Mac Recording Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-it-guide-combatting-nvidia-drivers-glitches/"><u>Fix-It Guide: Combatting Nvidia Drivers Glitches</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensured-consistent-camera-feed-resolving-asus-problems-on-windows-11/"><u>Ensured Consistent Camera Feed: Resolving ASUS Problems on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-user-friendly-solution-for-wireless-woes/"><u>Windows User-Friendly Solution for Wireless Woes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-8-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 8 without the Previous Owner?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-navigating-virtual-realms-iphone-vr-video-playback/"><u>[New] 2024 Approved  Navigating Virtual Realms  IPhone VR Video Playback</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gpu-reveal-unmasking-the-graphics-of-ms-bda/"><u>GPU Reveal: Unmasking the Graphics of MS BDA</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dismantle-bots-elevate-youtube-watch-time/"><u>Dismantle Bots, Elevate YouTube Watch Time</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-motorola-razr-40-by-drfone-android/"><u>Three Ways to Sim Unlock Motorola Razr 40</u></a></li>
+<li><a href="https://driver-error.techidaily.com/new-drivers-installation-for-sysware-device/"><u>New Drivers Installation for SysWare Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-non-functional-serial-ports-winside/"><u>Fixing Non-Functional Serial Ports, WINSIDE</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-steps-for-fixing-unverified-or-incompatible-drivers-during-setup/"><u>Solution Steps for Fixing Unverified or Incompatible Drivers During Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-the-gtx-ninety-five-error-codes-solutions-for-windows-eleven/"><u>Troubleshooting the GTX Ninety-Five Error Codes: Solutions for Windows Eleven</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/budget-videography-choosing-the-best-panoramic-cameras/"><u>Budget Videography  Choosing the Best Panoramic Cameras</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/premium-vimeo-file-extractors/"><u>Premium Vimeo File Extractors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-how-to-fix-intel-me-driver-issues/"><u>[Solved] How to Fix Intel ME Driver Issues?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/realtek-high-definition-audio-drivers-for-windows-7-solved/"><u>Realtek High Definition Audio Drivers for Windows 7 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/handy-guide-addressing-mtp-driver-errors/"><u>Handy Guide: Addressing MTP Driver Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-compatibility-problems-for-aged-usb-composite-systems-solved/"><u>Resolving Compatibility Problems for Aged USB Composite Systems [SOLVED]</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-secure-your-tiktok-memories-gallery-transfer-for-phones/"><u>2024 Approved  Secure Your TikTok Memories  Gallery Transfer for Phones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/joy-overload-all-wacom-devices-connected/"><u>Joy Overload: All Wacom Devices Connected</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-swift-success-with-tiktok-following-key-strategies-unleashed-for-2024/"><u>[New] Swift Success with TikTok Following  Key Strategies Unleashed for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oneplus-nord-n30-se-device-sim-by-drfone-android/"><u>Easily Unlock Your OnePlus Nord N30 SE Device SIM</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-inshot-tips-achieving-seamless-video-segmentation/"><u>2024 Approved  Inshot Tips  Achieving Seamless Video Segmentation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-lost-discdvdcd-drive-sense/"><u>Fix: Lost Disc/DVD/CD Drive Sense</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-honor-x50i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Honor X50i Without Them Knowing? | Dr.fone</u></a></li>
+</ul></div>

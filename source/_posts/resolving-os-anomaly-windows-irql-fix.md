@@ -1,0 +1,198 @@
+---
+title: "Resolving OS Anomaly: Windows IRQL Fix"
+date: 2024-07-15T06:59:36.663Z
+updated: 2024-07-16T06:59:36.663Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverError
+description: "This Article Describes Resolving OS Anomaly: Windows IRQL Fix"
+excerpt: "This Article Describes Resolving OS Anomaly: Windows IRQL Fix"
+thumbnail: https://thmb.techidaily.com/07aa9db678660a97880964bc167fdc56576717cff44f3bc475a8394ebc44ab3d.jpg
+---
+
+## Resolving OS Anomaly: Windows IRQL Fix
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![fix IRQL NOT LESS OR EQUAL on Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/irql.jpg)
+
+ When you’re playing games in Windows 10, if you keep getting **IRQL\_NOT\_LESS\_OR\_EQUAL** blue screen error, it can be frustrating. This error probably is caused by faulty drivers, which are programmed to access improper hardware addresses.**To fix this error, simply try solutions in this post** .
+
+ There are**4** solutions to fix this blue screen error. You may not have to try them all. Just work your way down at the top of the list until you find the one that works for you.
+
+1. **[Update the drivers](https://tidio.pxf.io/9grog5)**
+2. **[Uninstall the problem drivers](https://aofit.pxf.io/mmjyxq)**
+3. **[Perform a System Restore](https://25home.pxf.io/vnbxnv)**
+4. **[Reset or reinstall Windows](https://tinyland.pxf.io/org4ra)**
+
+**IMPORTANT** : You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, [restart it in Safe Mode,](https://tools.techidaily.com/drivereasy/download/) then try these solutions.
+
+## **Solution 1: Update the drivers to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
+
+ The problem can be caused by missing or corrupted drivers. To fix the problem, update the drivers.  If you don’t have the time, patience or computer skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks:
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**   and install Driver Easy.
+
+ 2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13ff597e883.png)
+
+ 3) Click the **Update** button next to one device to automatically download and install the correct version of their driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13ff597e883.png)
+
+ If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
+
+## **Solution 2: Uninstall problem drivers to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
+
+ The problem can be caused by faulty drivers. To fix the problem, go to**Device Manager** and find the faulty drivers, then uninstall the drivers. If a driver is having problems, you’ll see a yellow mark next to its device (see the screenshot shown below).
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad8287f6daa6.jpg)
+
+Following steps are for your reference on how to uninstall a driver:
+
+ 1) Press  Win+R  (**Windows logo** key and**R** key) at the same time to invoke the run box.  
+  
+ 2) Type **devmgmt.msc**  and click **OK** . Then Device Manager window will open.
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13fde1d72b1.png)
+
+ 3) In Device Manager, locate the faulty driver. If the driver is having problems, you’ll see a yellow mark next to the device name. Then right-click on the device name (For example, uninstall graphics card driver.) and select**Uninstall** .
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13fe52a4642.jpg)
+
+ 4) If prompted to confirm  the uninstall, check the box next to “Delete the driver software for this device.” then click the **OK**  button. If you don’t see this box, just click**OK** to uninstall the driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13feb35a43d.png)
+
+ 5) Restart your PC and check to see if the blue screen is gone  .  
+
+## Solution 3 **: Perform a System Restore to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
+
+ The last solution that you can try is to do a system restore. If your System Protection is turned on, Windows will create a restore point before you install the driver. Then you can follow these steps to restore the driver to an earlier version to fix this issue.
+
+ System Restore allows your system to go back to an earlier state. So some content of your system, like system settings, some programs, the registry, will be affected. But your personal files and data won’t be changed.
+
+ 1) Press**Win+R** (Windows logo key and R key) at the same time to invoke a run box.
+
+ 2) Type **rstrui.exe** and click**OK** . The System Restore Window will open.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13ffd6b0139.png)
+
+ 3) Click Next then you may see the following screen. Select a restore point created before the error occurred. You can tell from the created**Date and Time** . Click **Next** to continue and follow the on-screen instructions to finish the restore.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a14004645d52.png)
+
+4) Reboot your PC and check to see if the blue screen is gone.
+
+## **Solution** 4: Reset or reinstall Windows
+
+ If all else fails, you may have to [reset Windows](https://tools.techidaily.com/drivereasy/download/) , or maybe even [reinstall it](https://tools.techidaily.com/drivereasy/download/) together. We all know reinstalling will delete all the data on your hard drive, you have to [back up all your important files](https://tools.techidaily.com/drivereasy/download/) before doing it.  
+ However, with [**Fortect**](https://tools.techidaily.com/drivereasy/download/) , there’s **no need for lengthy back-ups, support phone calls, or risk to your personal data** . It can reset Windows to the state exactly when it was just installed without affecting third-party software.  
+ Here’s how to use it:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
+2. Open Fortect and click**Yes** to run a free scan of your PC.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
+3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+ The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
+ Email: **<support@fortect.com>**
+
+ But treat these options as a last resort, because they both take quite a long time.
+
+ Hope the solutions above will help you fix the IRQL NOT LESS OR EQUAL blue screen error. If you have any questions, please feel free to leave your comments. We’d love to hear any ideas and suggestions.
+
+* [Blue Screen](https://westkiss.pxf.io/daqnaq)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-peerless-picture-grabber-for-your-win11-screen/"><u>[Updated] Peerless Picture Grabber - For Your Win11 Screen</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-best-ways-to-record-live-sports-streaming/"><u>In 2024, Best Ways to Record Live Sports Streaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unlocking-the-potential-of-discord-streams-for-2024/"><u>Unlocking the Potential of Discord Streams for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-illustration-of-ms-bda/"><u>Graphics Illustration of MS BDA</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eradicating-the-elan-pad-anomalies-in-win11/"><u>Eradicating the Elan Pad Anomalies in Win11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/revamp-tiktok-engagement-a-must-try-set-of-essential-tools/"><u>Revamp TikTok Engagement  A Must-Try Set of Essential Tools</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>updated 2024 Approved A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-burning-videos-to-dvd-a-comprehensive-guide-for-windows-and-mac-users/"><u>New 2024 Approved Burning Videos to DVD A Comprehensive Guide for Windows and Mac Users</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/key-to-generating-an-exclusive-tag-on-tiktok/"><u>Key to Generating an Exclusive Tag on TikTok</u></a></li>
+<li><a href="https://driver-error.techidaily.com/external-graphics-prevention-in-win10-environment/"><u>External Graphics Prevention in Win10 Environment</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-6-social-media-platforms-for-business/"><u>[New] In 2024, Top 6 Social Media Platforms for Business</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102858753-iphone-external-storage-troubles-fix-your-usb-mtp-drivers-now/"><u>IPhone External Storage Troubles? Fix Your USB MTP Drivers Now</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-compelling-compositions-effects-on-text/"><u>In 2024, Crafting Compelling Compositions  Effects on Text</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-from-the-shooting-range-to-streaming-real-time-dslr-and-pcmac-connection/"><u>[New] 2024 Approved  From the Shooting Range to Streaming Real-Time  DSLR & PC/Mac Connection</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-techniques-for-radeon-wattman-resets-to-factory-settings-problems-and-fixes/"><u>Troubleshooting Techniques for 'Radeon WattMan Resets to Factory Settings': Problems & Fixes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/discover-the-joy-of-real-time-broadcasting-with-fb-and-roku-for-2024/"><u>Discover the Joy of Real-Time Broadcasting with FB & Roku for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revive-nonresponsive-serial-ports-on-os-windows/"><u>Revive Nonresponsive Serial Ports on OS WINDOWS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/install-samsung-android-on-windows/"><u>Install Samsung Android on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-correcting-the-battleye-service-startup-failure-due-to-driver-load-mishap-error-1450/"><u>Troubleshooting Steps: Correcting the BattlEye Service Startup Failure Due to Driver Load Mishap (Error #1450)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/touchpad-not-working-issues-on-windows-1111-solved/"><u>Touchpad Not Working Issues on Windows 11/11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-guide-resolving-directx-9-error-in-5-steps/"><u>Quick Guide: Resolving DirectX 9 Error in 5 Steps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-make-sense-of-dolby-digital-not-playing-properly-on-laptop-answer-found-and-resolved/"><u>How to Make Sense of 'Dolby Digital' Not Playing Properly on Laptop? – Answer Found & Resolved!✨</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-5-innovative-techniques-to-create-larger-head-impact-on-tiktok-videos/"><u>[Updated] In 2024, 5 Innovative Techniques to Create Larger-Head Impact on TikTok Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-the-legacy-of-usb-composite-devices-a-detailed-explanation/"><u>Understanding the Legacy of USB Composite Devices - A Detailed Explanation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-and-solving-the-incorrect-device-configuration-problem-error-code-1-explained/"><u>Understanding and Solving the 'Incorrect Device Configuration' Problem - Error Code 1 Explained</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/best-sound-extractor-how-to-extract-sound-from-video/"><u>Best Sound Extractor How to Extract Sound From Video?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winning-against-the-notorious-code-43-error-on-your-gtx-950-while-using-windows-10-a-step-by-step-fix/"><u>Winning Against the Notorious Code 43 Error on Your GTX 950 While Using Windows 10 – A Step-by-Step Fix</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-android-plus-mac-save-and-secure-snapchat-videos-for-2024/"><u>[Updated] Android + Mac  Save and Secure Snapchat Videos for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-sound-effect-mastery-finding-and-integrating-free-resources-in-final-cut-pro/"><u>New Sound Effect Mastery Finding and Integrating Free Resources in Final Cut Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-old-school-tech-tips-for-operating-classic-usb-composite-gadgets/"><u>Mastering Old School Tech: Tips for Operating Classic USB Composite Gadgets</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-effortlessly-access-unwatermarked-tiktok-content-on-iphone-for-2024/"><u>[New] Effortlessly Access Unwatermarked TikTok Content on iPhone for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-tackle-problems-with-antique-usb-composite-gadgets-expert-advice-revealed/"><u>How to Tackle Problems With Antique USB Composite Gadgets – Expert Advice Revealed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-eradicated-graphic-driver-installed-flawlessly/"><u>Error Eradicated: Graphic Driver Installed Flawlessly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-in-need-of-more-free-resources/"><u>Device in Need of More Free Resources</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-code-error-1-detailed-guide-on-proper-configuration-of-your-device/"><u>Fixing Code Error 1: Detailed Guide on Proper Configuration of Your Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-hp-wireless-keyboard-issues-troubleshooting-guide-and-solutions/"><u>Fixing HP Wireless Keyboard Issues: Troubleshooting Guide & Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-13-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-a-complete-guide-of-top-7-video-language-translators-for-2024/"><u>New A Complete Guide of Top 7 Video Language Translators for 2024</u></a></li>
+</ul></div>

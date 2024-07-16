@@ -1,7 +1,7 @@
 ---
 title: Run a System File Checker Scan to Verify and Repair Corrupted Files.
-date: 2024-07-13 10:24:19
-updated: 2024-07-16 12:22:26
+date: 2024-07-15T06:47:43.331Z
+updated: 2024-07-16T06:47:43.331Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
  It’s rather annoying to see**Unable to initialize DirectX 9 device** when you start a game. However, you’re not alone here. It’s a common problem especially for Grand Theft Auto V (GTA 5) and Warcraft 3\. Luckily, it’s not hard to fix it at all…
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## About DirectX 9
 
  Microsoft DirectX 9 is a group of technologies designed to make Windows-based computers an ideal platform for running and displaying applications rich in multimedia elements such as full-color graphics, video, 3D animation, and rich audio.
@@ -72,6 +75,9 @@ This error can occur for the following reasons:
 
 4) Restart your PC and try running your game again to see if the problem still persists.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Option 2: Automatically
 
  If you don’t have the time, patience or computer skills to update your graphics card driver manually, you can**do it automatically** with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -90,6 +96,9 @@ This error can occur for the following reasons:
 
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click_Update All_ .)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-3.jpg)
 
 4) Restart your computer for the changes to take effect.
@@ -110,6 +119,9 @@ This error can occur for the following reasons:
 
  If it shows**Disabled** or**Not Available** , then head to **[Direct3D Acceleration Not Available](https://tools.techidaily.com/drivereasy/download/)**  to further solve your problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Enable DirectPlay
 
  1) In the Search bar, type**turn windows** , then click**Turn Windows feature on or off** .
@@ -175,6 +187,9 @@ This error can occur for the following reasons:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Good to go?
 
  Hopefully, one of the fixes above fixed your**Unable to initiate DirectX 9 device** problem. But if none of these worked for you, you can verify your game files in Steam or clean reinstall your game to fix the issue.
@@ -196,3 +211,58 @@ This error can occur for the following reasons:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixing-asus-pc-driver-conflicts-in-windows-10-easily/"><u>Fixing Asus PC Driver Conflicts in Windows 10 Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-rectify-not-configured-issue-addressing-the-code-1-error-effectively/"><u>How to Rectify 'Not Configured' Issue – Addressing the Code 1 Error Effectively</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-techniques-for-stunning-hdr-photography/"><u>2024 Approved  Innovative Techniques for Stunning HDR Photography</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stabilized-screen-on-win11/"><u>Stabilized Screen on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fixes-for-itbm-driver-unavailable-message-on-your-computer/"><u>Quick Fixes for 'ITBM Driver Unavailable' Message on Your Computer</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-flavor-hits-top-10-tiktok-cooking-craze/"><u>[Updated] In 2024, Flavor Hits  Top 10 TikTok Cooking Craze</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-solutions-3d-models-in-animation-space/"><u>In 2024, Superior Solutions  3D Models in Animation Space</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-repair-your-broken-wireless-keyboard-for-windows-users-step-by-step-solutions/"><u>How to Repair Your Broken Wireless Keyboard for Windows Users - Step by Step Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unable-to-switch-off-internal-wifibluetooth-how-do-i-fix-it48-char/"><u>“Unable to Switch Off Internal WIFI/Bluetooth - How Do I Fix It?”(48 Char)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unlocking-full-screen-recording-features-in-mi-11/"><u>2024 Approved  Unlocking Full-Screen Recording Features in Mi 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721096983128-dealing-with-iphones-and-mtp-driver-woes-master-these-troubleshooting-tips/"><u>Dealing With iPhones and MTP Driver Woes? Master These Troubleshooting Tips!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-hot-30i-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Hot 30i</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-se-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone SE when Phone is Broken?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-insta-influence-made-simple/"><u>[New] Insta-Influence Made Simple</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-battleye-initialization-failure-with-driver-error-code-1450/"><u>Troubleshooting Guide: Resolving BattlEye Initialization Failure with Driver Error Code 1450</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-rtx-3080-glitchy-games/"><u>How to Fix RTX 3080 Glitchy Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unveiling-the-top-methods-of-video-and-screenshots/"><u>2024 Approved  Unveiling the Top Methods of Video & Screenshots</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-free-webinar-recorders-manual/"><u>2024 Approved  The Free Webinar Recorder's Manual</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-navigate-through-acpi-driver-problems-on-asus/"><u>How To Navigate Through ACPI Driver Problems on ASUS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-windows-unable-to-use-enter-button/"><u>Fixing Windows: Unable to Use Enter Button</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-repair-tips-dealing-with-the-infamous-code-43-error-on-your-nvidia-gtx-950-windows-10/"><u>Step-by-Step Repair Tips: Dealing with the Infamous 'Code 43' Error on Your Nvidia GTX 950 (Windows 10)</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/best-photo-slideshow-maker-how-to-make-a-photo-slideshow/"><u>Best Photo Slideshow Maker How to Make a Photo Slideshow</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-your-sound-potential-a-modern-look-at-pazeras-techniques/"><u>In 2024, Unlocking Your Sound Potential  A Modern Look at Pazera's Techniques</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-intel-sst-audio-device-wdm-driver-issue-easily/"><u>Fix Intel SST Audio Device (WDM) Driver Issue Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-correcting-failed-hcmon-driver-installation-errors/"><u>Troubleshooting Tips: Correcting Failed HcMon Driver Installation Errors</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-exclusive-list-of-cost-free-video-downloaders-from-pinterest/"><u>In 2024, Exclusive List of Cost-Free Video Downloaders From Pinterest</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reinstating-functionality-to-realtek-lan-drivers/"><u>Reinstating Functionality to Realtek LAN Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721101056785-windows-wireless-keyboard-issues-heres-what-you-can-do/"><u>Windows Wireless Keyboard Issues? Here's What You Can Do!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/touchpad-driver-not-working-in-windows-7-solved/"><u>Touchpad Driver Not Working in Windows 7 [Solved]</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovative-ways-to-record-youtube-videos/"><u>Innovative Ways to Record YouTube Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-top-hashtags-to-leverage-on-tiktok-for-more-followers/"><u>[Updated] 2024 Approved  Top Hashtags to Leverage on TikTok for More Followers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-honor-100-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Honor 100 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://driver-error.techidaily.com/techniques-to-rectify-nvidia-graphics-failsafe/"><u>Techniques to Rectify Nvidia Graphics Failsafe</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-serial-fix-reviving-windows-connections/"><u>USB Serial Fix: Reviving Windows Connections</u></a></li>
+<li><a href="https://driver-error.techidaily.com/acpi-resolving-venintanddev33a0-drive-concerns/"><u>ACPI: Resolving VEN_INT&DEV_33A0 Drive Concerns</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-what-you-can-do-roles-of-every-crew-member-in-filming-for-2024/"><u>New What You Can Do Roles of Every Crew Member in Filming for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-pinterest-video-downloader-guide-the-leading-no-cost-alternatives/"><u>[Updated] In 2024, Pinterest Video Downloader Guide  The Leading No-Cost Alternatives</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-voyage-guide-from-novice-to-esteemed-travel-blogger/"><u>2024 Approved  The Ultimate Voyage Guide  From Novice to Esteemed Travel Blogger</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-successfully-reinstall-the-hcmon-driver-and-avoid-common-mistakes/"><u>How To Successfully Reinstall The Hcmon Driver and Avoid Common Mistakes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-aerial-titans-clash-dji-and-gopros-quest/"><u>2024 Approved  Aerial Titans Clash  DJI and GoPro's Quest</u></a></li>
+<li><a href="https://driver-error.techidaily.com/address-non-display-of-hardware-on-w10w11/"><u>Address Non-Display of Hardware on W10/W11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-unveiling-the-15-leading-cameras-excluding-gopro/"><u>[Updated] 2024 Approved  Unveiling the 15 Leading Cameras Excluding GoPro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/next-level-entertainment-the-rise-of-vr-applications-for-2024/"><u>Next-Level Entertainment  The Rise of VR Applications for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unloading-error-for-wudfrd-driver-id-219-alert/"><u>Unloading Error for WudfRd Driver, ID 219 Alert</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721101578401-troubleshooting-and-resolving-windows-11s-missing-coprocessor-drivers-easy-fixes-unveiled/"><u>Troubleshooting and Resolving Windows 11'S Missing Coprocessor Drivers: Easy Fixes Unveiled!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-headset-woes-fixed-in-win10-environment/"><u>USB Headset Woes Fixed in WIN10 Environment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cross-operating-system-device-manager-tools/"><u>Cross-Operating System Device Manager Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-not-working-detected-no-intel-hardware/"><u>Drivers Not Working; Detected No Intel Hardware</u></a></li>
+<li><a href="https://video-capture.techidaily.com/tips-for-immaculate-nighttime-photography/"><u>Tips for Immaculate Nighttime Photography</u></a></li>
+</ul></div>

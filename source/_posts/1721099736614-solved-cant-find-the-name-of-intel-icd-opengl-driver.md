@@ -1,0 +1,125 @@
+---
+title: "[SOLVED] Can’t Find the Name of Intel ICD OpenGL Driver"
+date: 2024-07-15T07:02:04.237Z
+updated: 2024-07-16T07:02:04.237Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverError
+description: This Article Describes [SOLVED] Can’t Find the Name of Intel ICD OpenGL Driver
+excerpt: This Article Describes [SOLVED] Can’t Find the Name of Intel ICD OpenGL Driver
+thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc871ecb123979c39c8bac9ef09.jpg
+---
+
+## [SOLVED] Can’t Find the Name of Intel ICD OpenGL Driver
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/10/Intel-2.png)
+
+ If you’re on Windows, and you’re seeing this error saying**Can’t find the name of Intel ICD OpenGL driver** , you’re not alone. Many Windows users are reporting it. But the good news is you can fix it easily by yourself with this guide.
+
+ This problem is mainly caused by an old version of your Intel graphics card driver. So you can solve this issue through updating your display card driver.
+
+ Here’re 2 options for you to update your device driver. Please read along and choose the way you prefer.
+
+1. **[Update your Intel graphics driver automatically](https://proteahair.pxf.io/znernm)**
+2. **[Download a latest graphics driver from Intel website manually](https://bluettiit.sjv.io/xkwq91)**
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Option 1: Update your Intel graphics driver automatically
+
+ You can update your device drivers automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .  Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the **FREE**   or the **Pro**   version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+1. [**D**](https://tools.techidaily.com/drivereasy/download/) **[ownload](https://tools.techidaily.com/drivereasy/download/)**   and install Driver Easy.
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dc8234df582.jpg)
+3. Click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).  
+**Note:**  You can do it for free if you like, but it’s partly manual.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dc83c41065c.jpg)
+4. Restart your computer and check to see if the error still occurs.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Option 2: Download a latest graphics driver from Intel website manually
+
+ You can also choose to update your driver through downloading the latest driver from the manufacturer’s website.
+
+1. Go to  the [official Intel website](https://www.intel.com/content/www/us/en/homepage.html) . Then go to its driver download page.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+2. Enter your graphics card model number and press**Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dc7f58acdcb.png)
+3. Click the .exe file matching with your Windows to download and install it on your computer. ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dc7f749ab5b.jpg)
+4. After installing the new driver, please restart your computer and check to see if the error still occurs.
+
+Hopefully this article helps.
+
+* [Drivers](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/1721104314262-fix-cannot-disable-bluetooth-functionality-in-my-laptop-using-cortana/"><u>Fix: Cannot Disable Bluetooth Functionality in My Laptop Using Cortana.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-solutions-for-driver-not-available-on-itbm-system-effortless-troubleshooting-guide/"><u>Immediate Solutions for 'Driver Not Available' On ITBM System - Effortless Troubleshooting Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevating-professional-presentations-applying-effective-filters-on-zoom/"><u>Elevating Professional Presentations  Applying Effective Filters on Zoom</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-update-system-drivers-if-your-operating-system-does-not-recognize-them/"><u>How to Update System Drivers If Your Operating System Does Not Recognize Them</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-6-services-for-live-video-localization/"><u>In 2024, Premium 6 Services for Live Video Localization</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-support-added-to-win-8-desktop/"><u>Device Support Added to Win 8 Desktop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pivot-and-merge-videos-with-ease-on-android-gadgets/"><u>[New] Pivot and Merge Videos with Ease on Android Gadgets</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-streaming-showdown-which-superior-broadcaster-tool-are-you/"><u>2024 Approved  Streaming Showdown  Which Superior Broadcaster Tool Are You?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-connectivity-fix-solving-qualcomm-atheros-issues-on-windows-11/"><u>Bluetooth Connectivity Fix: Solving Qualcomm Atheros Issues on Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-champions-tech-the-ultimate-gaming-toolkit/"><u>[Updated] 2024 Approved  Champion's Tech  The Ultimate Gaming Toolkit</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-recover-from-a-missing-coprocessor-driver-error-on-windows-11-a-comprehensive-solution/"><u>How to Recover From a Missing Coprocessor Driver Error on Windows 11 - A Comprehensive Solution</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-google-pixel-8-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Google Pixel 8 Pro Data? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-driver-errors-for-optimal-device-performance-in-windows-versions/"><u>Troubleshooting Driver Errors for Optimal Device Performance in Windows Versions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-overcoming-0x0000007e-bsod-issue-in-windows-7-computers/"><u>Expert Advice: Overcoming 0X0000007E BSoD Issue in Windows 7 Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721099236532-happy-campers-wacom-connected-everywhere/"><u>Happy Campers: Wacom Connected, Everywhere!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleashing-virtual-reality-making-spherical-videos-on-iphone/"><u>[Updated] Unleashing Virtual Reality  Making Spherical Videos on iPhone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-normal-operation-of-right-click-on-windows-11-mousepad/"><u>Restore Normal Operation of Right Click on Windows 11 Mousepad</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-20-must-have-video-tools-for-new-creators-for-2024/"><u>[Updated] 20 Must-Have Video Tools For New Creators for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-fixes-bluetooth-radios-on-windows-resolved/"><u>Swift Fixes: Bluetooth Radios on Windows Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/responsive-clicks-no-freezing-on-pc/"><u>Responsive Clicks, No Freezing on PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oppo-find-n3-flip-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/avoiding-legal-issues-best-practices-for-zoom-records/"><u>Avoiding Legal Issues  Best Practices for Zoom Records</u></a></li>
+<li><a href="https://driver-error.techidaily.com/htc-desire-z-not-detected-on-fedora-core-linux-problem-solved/"><u>HTC Desire Z Not Detected on Fedora Core Linux, Problem Solved!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-missing-links-resurrect-bluetooth-in-device-manager/"><u>Restore Missing Links: Resurrect Bluetooth in Device Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-bluetooth-missing-from-device-manager/"><u>How to Fix Bluetooth Missing From Device Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-normality-of-windows-input-keys/"><u>Restoring Normality of Windows Input Keys</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-secret-to-imovies-edge-cropping/"><u>[Updated] In 2024, The Secret to iMovie’s Edge Cropping</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-cleaned-correctly-configuring-your-device-code-1-explanation/"><u>Error Cleaned: Correctly Configuring Your Device (Code 1 Explanation)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-vanishing-signal-proc-on-pcs/"><u>Resolve Vanishing Signal Proc on PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-troubleshoot-and-resolve-a-nonworking-or-stuck-pclaptop-keyboard-one-step-at-a-time-article-title-detailed-steps-included409-chars/"><u>How To Troubleshoot and Resolve a Nonworking or Stuck PC/Laptop Keyboard, One Step at A Time (Article Title) – Detailed Steps Included!—409 Chars</u></a></li>
+</ul></div>

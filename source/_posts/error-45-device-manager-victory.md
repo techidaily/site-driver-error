@@ -1,7 +1,7 @@
 ---
 title: "Error 45: Device Manager Victory"
-date: 2024-07-14 12:39:23
-updated: 2024-07-16 10:23:53
+date: 2024-07-15T06:51:19.087Z
+updated: 2024-07-16T06:51:19.087Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 
 ## Error 45: Device Manager Victory
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7ad593c2749.png)
 
  **Currently, this hardware device is not connected to the computer. (Code 45)**
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 6. [Run a DISM scan](https://jalbum-affiliate-program.sjv.io/mmjynq)
 7. [Update your device drivers](https://versadesk.pxf.io/xyboxx)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 1: Reconnect your device
 
  If the device having the code 45 error in Device Manager is a Bluetooth or a wireless adapter, then as the error message suggested, you may just need to reconnect it so your system can recognize your device again. You can try the steps below to reconnect:
@@ -55,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 2. In the**Device Manager** window, locate the device that’s giving you Code 45.
 3. Right-click on that device entry and select**Uninstall device** .  
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-2.png)
 4. Tick the checkbox for**Delete the driver software for this device** and click**Uninstall** (if you’re prompted for confirmation).  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-3.png)
@@ -64,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Run the Windows Hardware and Devices Troubleshooter
 
  Microsoft offers you a**Hardware and Devices Troubleshooter** to diagnose and fix hardware issues. So try this built-in tool if any hardware problems happen to your device. To use it:
@@ -73,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 2. Copy and paste**_msdt.exe -id DeviceDiagnostic_** in the Powershell, then hit**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-12.png)
 3. Now you should see the Hardware and Devices Troubleshooter. Click**Next** to continue.  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-13.png)
 4. Follow the on-screen instructions to finish troubleshooting.
 5. Restart your computer and your problem should be resolved.
@@ -174,3 +189,64 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/lenovos-blue-tooth-mastery-in-win11-environment/"><u>Lenovo’s Blue-Tooth Mastery in WIN11 Environment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-strategies-to-overcome-directx-9-fail/"><u>Swift Strategies to Overcome 'DirectX 9 Fail'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-error-when-windows-fails-to-acknowledge-new-usb-device-connections/"><u>Fixing the Error When Windows Fails to Acknowledge New USB Device Connections</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-malfunctioning-with-code-43-heres-the-complete-solution-for-windows-10-users/"><u>GTX 950 Malfunctioning with Code 43? Here's the Complete Solution for Windows 10 Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-ubuntus-top-picks-10-free-video-editors-for-every-creator-for-2024/"><u>New Ubuntus Top Picks 10 Free Video Editors for Every Creator for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-artistic-horizons-scouting-the-finest-8-drawing-apps-for-iphones/"><u>[New] In 2024, Artistic Horizons  Scouting the Finest 8 Drawing Apps for iPhones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-87-fails-to-show-nvidia-gpus/"><u>Windows 8/7 Fails to Show Nvidia GPUs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-gtx-ebx-950-code-43-issue-in-windows-11-a-comprehensive-guide/"><u>Fixing the GTX Ebx 950 'Code 43' Issue in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-wireless-keyboard-issues-solve-common-connection-problems-now/"><u>Windows Wireless Keyboard Issues? Solve Common Connection Problems Now!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-initial-boot-failure-from-drivers-not-installed/"><u>[FIXED] Initial Boot Failure From Drivers Not Installed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-get-your-qualcomm-atheros-bluetooth-driver-up-and-running-on-windows-10/"><u>How to Get Your Qualcomm Atheros Bluetooth Driver Up and Running on Windows 10</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/why-mp3-converter-windows-is-a-total-game-changer-and-why-you-need-to-know-for-2024/"><u>Why Mp3 Converter Windows Is a Total Game-Changer (And Why You Need to Know) for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reinstating-operational-right-click-on-windows-11-touchpad/"><u>Reinstating Operational Right Click on Windows 11 Touchpad</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcome-hot-plugging-shortfall/"><u>Overcome Hot-Plugging Shortfall</u></a></li>
+<li><a href="https://driver-error.techidaily.com/firmware-blocks-car-loading/"><u>Firmware Blocks Car Loading</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-acpi-driver-fault-id-33a0/"><u>Solving Acpi Driver Fault ID 33A0</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reduced-lag-increased-speed-in-win11/"><u>Reduced Lag, Increased Speed in Win11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-v27e-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo V27e Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correct-dell-laptops-ethernet-anomaly/"><u>Correct Dell Laptop's Ethernet Anomaly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-solutions-when-confronted-with-failed-hcmonservice-installs/"><u>Easy Solutions When Confronted with Failed Hcmonservice Installs</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>New A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-seamless-timelapse-footage-with-ios-technology/"><u>[Updated] In 2024, Seamless Timelapse Footage with iOS Technology</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-responsive-keys-restored-to-windows-11/"><u>[Fixed]: Responsive Keys Restored to Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhance-cinematography-with-obs-studios-lut-features-and-downloads/"><u>Enhance Cinematography with OBS Studio's LUT Features and Downloads</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-boot-into-safe-mode-and-efficiently-uninstall-graphics-driver-on-windows-8/"><u>How To Boot Into Safe Mode & Efficiently Uninstall Graphics Driver On Windows 8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-techniques-for-captivating-ae-titles-for-2024/"><u>Innovative Techniques for Captivating AE Titles for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsupported-device-error-solutions-for-incompatible-hardware-in-your-idt-software/"><u>Unsupported Device Error: Solutions for Incompatible Hardware in Your IDT Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/insufficient-resources-on-system/"><u>Insufficient Resources on System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cease-and-desist-stop-auto-uninstalling-nvidia-drivers/"><u>Cease and Desist: Stop Auto-Uninstalling Nvidia Drivers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-ideas-for-making-eye-catching-facebook-video-ads/"><u>[New] Ideas for Making Eye-Catching Facebook Video Ads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-smooth-streaming-starts-with-these-cutting-edge-41-apps-for-android-devices/"><u>In 2024, Smooth Streaming Starts with These Cutting Edge 41 Apps for Android Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-guide-fixing-the-driver-load-error-for-battleye-service-initiation-problem-error-1450/"><u>Solution Guide: Fixing the Driver Load Error for BattlEye Service Initiation Problem (Error 1450)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-adobe-tactics-for-dynamic-3d-text-design/"><u>2024 Approved  Adobe Tactics for Dynamic 3D Text Design</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-solutions-how-to-resolve-itbm-driver-unavailable-message/"><u>Quick Solutions: How To Resolve 'ITBM Driver Unavailable' Message</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-jump-cuts-in-final-cut-pro-x/"><u>New 2024 Approved The Ultimate Guide to Jump Cuts in Final Cut Pro X</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-needed-mouse-ignored-by-windows-os/"><u>[Fix Needed] Mouse Ignored by Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/direct-correction-methods-for-usb-mtp-errors/"><u>Direct Correction Methods for USB MTP Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721101178033-windows-hello-isnt-available-on-this-device-on-windows-10-solved/"><u>Windows Hello Isn't Available on This Device on Windows 10 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-diagnosing-and-correcting-error-0x0000007e-bsod-issue-on-windows-7-systems/"><u>Expert Advice: Diagnosing and Correcting Error 0X0000007E BSOD Issue on Windows 7 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/code-1-troubleshooting-steps-for-configuring-devices-correctly/"><u>Code 1 Troubleshooting: Steps for Configuring Devices Correctly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-image-deformation-techniques-for-2024/"><u>Master Image Deformation Techniques for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-your-youtube-channels-full-potential-with-profitable-trailers/"><u>[New] Unleash Your YouTube Channels' Full Potential with Profitable Trailers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-bluetooth-shutdown-on-windows-10/"><u>Mastering Bluetooth Shutdown on Windows 10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/non-conventional-windows-tools-for-filmmaking/"><u>Non-Conventional Windows Tools for Filmmaking</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-quest-to-eradicate-code-52-from-cars/"><u>The Quest to Eradicate Code 52 From Cars</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-elevate-your-marketing-game-high-roi-through-animated-fb-advertising/"><u>[New] 2024 Approved  Elevate Your Marketing Game  High ROI Through Animated FB Advertising</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-7-exceptional-drone-gimbals-unveiled/"><u>[New] 7 Exceptional Drone Gimbals Unveiled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-failed-to-install-the-hcmon-driver-error/"><u>How to Fix Failed to Install the Hcmon Driver Error</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-xs-max-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone XS Max</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-issue-solved-functional-on-windows-11/"><u>Keyboard Issue Solved: Functional on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-acpi-drive-id-33a0-problems/"><u>Resolving Acpi Drive ID 33A0 Problems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-20-adobe-premiere-shortcuts-you-will-use/"><u>In 2024, Top 20 Adobe Premiere Shortcuts You Will Use</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-high-res-audio-on-win11-system/"><u>[Fix] High-Res Audio on Win11 System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nonresponsive-or-stuck-pclaptop-key-issue-here-is-a-simple-fix-for-your-beloved-machine-article-title-how-to-guide-tech-talker402-chars/"><u>Nonresponsive or Stuck PC/Laptop Key Issue? Here Is a Simple Fix for Your Beloved Machine (Article Title) – How-To Guide | Tech Talker—402 Chars</u></a></li>
+</ul></div>

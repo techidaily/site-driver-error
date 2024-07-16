@@ -1,7 +1,7 @@
 ---
 title: "Optimize Win10: High Disk Utilization Fix"
-date: 2024-07-15 19:40:57
-updated: 2024-07-16 10:41:34
+date: 2024-07-15T06:54:09.758Z
+updated: 2024-07-16T06:54:09.758Z
 tags:
   - win11
   - win10
@@ -69,6 +69,9 @@ If the 100% disk usage problem persists, try the next method, below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update your device drivers
 
  The 100% disk usage problem in Windows 10 could indicate a driver issue. In other words, it could mean that you’re using a faulty or outdated device drivers.
@@ -133,6 +136,9 @@ chkdsk.exe /f /r
 
  4) Hit**Enter** on your keyboard, then type**Y** to confirm that you’d like to perform the disk check the next time you restart your computer. Please make sure you have closed all of your applications first.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594c79d06cf80.png)
 
 **IMPORTANT:** Disk check will start the next time you boot your PC and it might take some time to complete (could be a day for some). If, when you restart, you don’t have time to wait for the disk check to complete, you can skip it. You’ll need to reschedule it again, as described above, though.
@@ -161,6 +167,9 @@ If the 100% disk usage problem persists, try the next method, below.
 
  3) Go to the **Advanced** tab again, and choose**Change…**  in the Virtual memory section.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-13.jpg)
 
  4) Ensure the **Automatically manage paging file size for all drives** checkbox is**NOT** ticked.
@@ -178,6 +187,9 @@ If the 100% disk usage problem persists, try the next method, below.
 
  6) Clear all your computer’s ‘temp’ files. On your keyboard, press**Windows key** and**R** at the same time, then in the Run form, type**temp** and hit**Enter** . This will invoke Windows Explorer with your Temp folder open, showing you all the temp files on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a4d089b3e.png)
 
 7) Select all the files in the Temp folder and delete them.
@@ -244,6 +256,9 @@ Here’s how to determine if this is your problem and fix it:
 
  The **< Random Number \>** differs on different machines.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b48600f0e1.jpg)
 
  6) Double click the**MSISupported** key and change the value to**0** .
@@ -326,3 +341,47 @@ And that’s just the start of the benefits…
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-free-video-editors-for-trimming-videos-on-windows-10/"><u>2024 Approved Best Free Video Editors for Trimming Videos on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-deployment-mastery-error-no-more/"><u>Driver Deployment Mastery – Error No More</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-invalid-inf-configuration/"><u>Resolving Invalid INF Configuration</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-solutions-to-address-itbm-driver-access-problems-fast/"><u>Easy Solutions to Address ITBM Driver Access Problems Fast</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-drivers-installed-for-this-device-in-windows-1087-solved/"><u>No Drivers Installed for This Device in Windows 10/8/7 [SOLVED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/whats-hidden-steps-for-spotting-seagate-drive-on-win10/"><u>What's Hidden? Steps for Spotting Seagate Drive on Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/broadcom-wi-fi-adapter-woes-ended-with-win-compatibility-fix/"><u>Broadcom Wi-Fi Adapter Woes Ended with Win Compatibility Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-for-resolving-non-loading-of-enex-drivers-on-windows-11/"><u>Steps for Resolving Non-Loading of eNEX Drivers on Windows 11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-make-your-youtube-moments-come-alive-creating-dynamic-gifs-for-2024/"><u>[New] How to Make Your YouTube Moments Come Alive  Creating Dynamic GIFs for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-no-money-photo-enhancers-for-web-users/"><u>2024 Approved  Top 10 No-Money Photo Enhancers for Web Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/closed-case-unsupported-intelligentamd-graphics-in-premier-pro/"><u>Closed Case: Unsupported Intelligent/AMD Graphics in Premier Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-f23-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo F23 5G</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-the-world-of-mp4-edits-on-apple-devices/"><u>Navigating the World of MP4 Edits on Apple Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/installing-nvidia-drivers-problem-solved/"><u>Installing Nvidia Drivers: Problem Solved</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-savory-sensations-top-youtube-food-influencers/"><u>[Updated] Savory Sensations  Top YouTube Food Influencers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mastering-color-grading-in-final-cut-pro-2023-for-2024/"><u>Mastering Color Grading in Final Cut Pro 2023 for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-shaping-viewers-attention-employing-jump-cuts-in-video-editing/"><u>In 2024, Shaping Viewers’ Attention  Employing Jump Cuts in Video Editing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-non-detectable-external-drives-and-usb-gadgets-on-windows-systems/"><u>Fixing Non-Detectable External Drives and USB Gadgets on Windows Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/easy-guide-to-streaming-tv-shows-on-laptops-for-2024/"><u>Easy Guide to Streaming TV Shows on Laptops for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-no-driver-issue-in-sysware-setup/"><u>Fixing No-Driver Issue in SysWare Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-and-solving-the-code-43-problem-for-your-nvidia-geforce-gtx-950-in-windows-11-environment/"><u>Decoding and Solving the 'Code 43' Problem for Your Nvidia GeForce GTX 950 in Windows 11 Environment</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-s-top-rated-free-avi-video-rotation-software-revealed-for-2024/"><u>New S Top-Rated Free AVI Video Rotation Software Revealed for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-unbeatable-online-video-recorders-ranked-10/"><u>2024 Approved  Unbeatable Online Video Recorders Ranked #10</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-top-10-essential-videogame-auditory-enhancements-for-the-new-decade/"><u>Updated In 2024, Top 10 Essential Videogame Auditory Enhancements for the New Decade</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unlock-your-dvd-collection-how-to-convert-to-digital-formats/"><u>Updated In 2024, Unlock Your DVD Collection How to Convert to Digital Formats</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-pro-video-editor-secrets-adding-awesome-effects-to-your-videos-for-2024/"><u>Updated Pro Video Editor Secrets Adding Awesome Effects to Your Videos for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-ready-no-more-drivers-woes/"><u>Hardware Ready, No More Drivers' Woes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-system-recovery-from-initial-boot-failure/"><u>[CORRECTED] System Recovery From Initial Boot Failure</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-to-restore-failed-enex-driver-loading-in-windows-11/"><u>Steps to Restore Failed eNEX Driver Loading in Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-memetics-a-9gag-creators-manual/"><u>[Updated] Mastering the Art of Memetics  A 9GAG Creator's Manual</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-crash-and-restore-the-default-radeon-wattman-configuration-fix/"><u>Resolving 'Crash & Restore': The Default Radeon Wattman Configuration Fix</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-unboxing-the-year-in-tweet-videos-complete-23-package/"><u>[Updated] Unboxing the Year in Tweet Videos - Complete '23 Package</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-90-frp-by-drfone-android/"><u>Full Guide to Bypass Honor 90 FRP</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win10-system-locks-out-graphics-hardware-support/"><u>Win10 System Locks Out Graphics Hardware Support</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-quickly-calculate-aspect-ratios-the-best-online-resources/"><u>New In 2024, Quickly Calculate Aspect Ratios The Best Online Resources</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-initialization-no-more-trouble/"><u>Hardware Initialization, No More Trouble</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-link-unifying-hub-with-new-oses-successfully/"><u>How to Link Unifying Hub with New OSes Successfully</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-installation-failed-overcoming-access-is-denied-challenges-on-your-computer-system/"><u>USB Installation Failed - Overcoming Access Is Denied Challenges on Your Computer System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-access-refusal-win11s-decision/"><u>Hardware Access Refusal: Win11's Decision</u></a></li>
+<li><a href="https://driver-error.techidaily.com/battleye-initialization-issue-how-to-fix-driver-loading-errors-and-compatibility-issues/"><u>BattlEye Initialization Issue - How to Fix Driver Loading Errors and Compatibility Issues</u></a></li>
+</ul></div>

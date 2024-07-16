@@ -1,7 +1,7 @@
 ---
 title: "[Fix Needed]: Blank Display on Mouse Input Device"
-date: 2024-07-14 21:33:50
-updated: 2024-07-16 10:53:34
+date: 2024-07-15T06:54:00.679Z
+updated: 2024-07-16T06:54:00.679Z
 tags:
   - win11
   - win10
@@ -46,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  1) On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Type**devmgmt.msc** and hit Enter.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
 2) Expand **Mice and other pointing devices**  . Right-click your wireless mouse and click**Update Driver** .
@@ -94,6 +97,9 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-drivers-2-1.jpg)
 
  4) Restart your computer and check to see if Windows 10 can now detect your wireless mouse.
@@ -114,6 +120,9 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
 1) On your keyboard, press the **Windows logo + R keys** simultaneously to open the Run box . Type**control** and hit Enter to open the Control Panel.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
  2) Click on**System and Security** . If you don’t see it, make sure you’ve set **Category** as your view-by.
@@ -122,10 +131,16 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  3) Click **Power Options** .
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Control-Panel-System-and-Security-Power-Options.jpg)
 
  4) In the left pane, click on**Choose what the power buttons do** .
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Power-Options-Choose-what-the-power-buttons-do.jpg)
 
  5) Click on the**Change settings that are currently unavailable** link.
@@ -181,3 +196,53 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-roguelikes-traditional-tactics-vs-modern-mechanics/"><u>In 2024, Roguelike's Traditional Tactics Vs. Modern Mechanics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-nighttime-action-gopro-hero5-vs-star-sj7/"><u>In 2024, Nighttime Action  GoPro Hero5 vs Star SJ7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/boosting-performance-win11-and-deathadder-drivers/"><u>Boosting Performance: Win11 & DeathAdder Drivers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-basics-to-mastery-unveiling-timelapse-shooting-techniques-with-gopro/"><u>2024 Approved  From Basics to Mastery  Unveiling Timelapse Shooting Techniques with GoPro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-remedy-to-amd-driver-errors/"><u>Immediate Remedy to AMD Driver Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/broadcom-wireless-n-adapter-works-again-in-windows-fixed/"><u>Broadcom Wireless N Adapter Works Again in Windows [Fixed]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-creative-process-with-instagrams-photography-tips/"><u>[Updated] Streamline Your Creative Process with Instagram's Photography Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win1110-resolving-issues-with-stable-sm-bus-drivers/"><u>Win11/10: Resolving Issues with Stable Sm Bus Drivers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-filmora-tutorials-simple-steps-to-a-dynamic-youtube-subscribe-button/"><u>[New] Filmora Tutorials  Simple Steps to a Dynamic YouTube Subscribe Button</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-accidental-tiktok-refresh-recover-your-content-in-2024/"><u>[Updated] Accidental TikTok Refresh - Recover Your Content, In 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/happy-homecoming-all-wacom-gadgets-rejoice/"><u>Happy Homecoming: All Wacom Gadgets Rejoice</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-non-functional-bluetooth-drivers-for-qualcomm-atheros-on-windows-11/"><u>How to Resolve Non-Functional Bluetooth Drivers for Qualcomm Atheros on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/logitech-brio-webcam-doesnt-show-in-windows-after-recent-update-a-quick-fix-for-you-all-105-answered/"><u>Logitech Brio Webcam Doesn't Show in Windows After Recent Update - A Quick Fix for You All (10/5) [Answered]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-unresponsive-serial-ports-on-windows-os/"><u>Fixing Unresponsive Serial Ports on Windows OS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-sources-for-stunning-sky-hd-imagery-online/"><u>[New] Leading Sources for Stunning Sky HD Imagery Online</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Samsung Galaxy A15 4G?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-fixes-to-address-bsod-error-0x0000007e-in-your-windows-7-pc/"><u>Step-by-Step Fixes to Address BSOD Error 0X0000007E in Your Windows 7 PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-pci-modem-driver-issue-on-windows/"><u>Solved PCI Modem Driver Issue on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-to-fix-mtp-usb-device-driver-failed-problem/"><u>Easy to Fix MTP USB Device Driver Failed Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-pair-and-recognize-your-logitech-brio-webcam-in-new-pc-version-how-it-worked-for-me-answered/"><u>Re-Pair and Recognize Your Logitech Brio Webcam in New PC Version – How It Worked for Me (Answered)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigating-aged-technology-solutions-for-compatibility-with-retro-usb-composite-devices/"><u>Navigating Aged Technology: Solutions for Compatibility with Retro USB Composite Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-fixes-for-undetected-hardware-devices-in-various-windows-versions/"><u>Effective Fixes for Undetected Hardware Devices in Various Windows Versions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discover-world-wonders-with-these-top-10-videos/"><u>[Updated] 2024 Approved  Discover World Wonders with These Top 10 Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eased-deviceharddisk-anomalies/"><u>Eased DeviceHarddisk Anomalies</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-envy-20-series-update-and-download-driver-instructions/"><u>HP Envy 20 Series - Update & Download Driver Instructions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/broadcom-networking-restored-windows-wireless-adapter-functioning/"><u>Broadcom Networking Restored: Windows Wireless Adapter Functioning</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-voice-changes-experts-handbook-for-morphvox-transformation/"><u>[New] The Ultimate Guide to Voice Changes  Expert's Handbook for MorphVOX Transformation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-port-communication-issue/"><u>Solve Port Communication Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dealing-with-elan-pad-inconsistencies-on-win10/"><u>Dealing With Elan Pad Inconsistencies on Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/car-loading-failed-on-dev/"><u>Car Loading Failed on Dev</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-remote-smile-engineer/"><u>In 2024, Remote Smile Engineer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-off-a-solution-for-windows-users/"><u>Bluetooth Off: A Solution for Windows Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ideport0-fault-alarm-triggered/"><u>Ideport0 Fault Alarm Triggered</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-video-editing-essentials-top-brightening-apps/"><u>In 2024, Video Editing Essentials Top Brightening Apps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/amd-radeon-wattman-resets-solved-restoring-stability-on-your-graphics-card/"><u>AMD Radeon WattMan Resets Solved: Restoring Stability On Your Graphics Card</u></a></li>
+<li><a href="https://driver-error.techidaily.com/taming-lenovos-bluetooth-on-windows-10/"><u>Taming Lenovo's Bluetooth on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-nvidia-drivers-not-installing-2024/"><u>[SOLVED] NVIDIA Drivers Not Installing – 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hd-audio-a-win11-victory/"><u>HD Audio: A Win11 Victory</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-integrating-zoom-appointments-into-phone-and-pc-schedules/"><u>In 2024, Integrating Zoom Appointments Into Phone & PC Schedules</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-for-repairing-device-manager-faults/"><u>Steps for Repairing Device Manager Faults</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-non-recognized-device-hurdles-in-win-78/"><u>Overcoming Non-Recognized Device Hurdles in Win 7/8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dissecting-microsofts-graphic-implementation-in-bda/"><u>Dissecting Microsoft's Graphic Implementation in BDA</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-nvidia-gtx-struggles-in-gaming-seek-optimization-troubleshooting-steps/"><u>[Solved] Nvidia GTX Struggles in Gaming – Seek Optimization Troubleshooting Steps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hideous-heroes-black-vs-gleaming-guardians-silver/"><u>[New] Hideous Heroes (Black) VS Gleaming Guardians (Silver)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-facebook-mp3-downloader-websites-easy-conversion-for-2024/"><u>New Top Facebook MP3 Downloader Websites Easy Conversion for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-narratives-unleashed-10-adventure-games-reviewed-for-2024/"><u>[Updated] Narratives Unleashed  #10 Adventure Games Reviewed for 2024</u></a></li>
+</ul></div>

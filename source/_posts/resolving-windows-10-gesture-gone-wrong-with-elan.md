@@ -1,7 +1,7 @@
 ---
 title: Resolving Windows 10 Gesture Gone Wrong with Elan
-date: 2024-07-14 23:58:20
-updated: 2024-07-16 12:43:54
+date: 2024-07-15T06:46:55.873Z
+updated: 2024-07-16T06:46:55.873Z
 tags:
   - win11
   - win10
@@ -23,16 +23,25 @@ thumbnail: https://thmb.techidaily.com/c923509aabb39b0eb7c18cacb723349038dd49742
 [**2: Reinstall your drivers**](https://getlyla.pxf.io/ek9gkg)
 [**3: Stop automatic updates from Windows Update**](https://tinyland.pxf.io/org4ra)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1: Make sure your touchpad is enabled
 
  Some changes to your PC might automatically change your touchpad status to disable without informing you. You can set it back to enable status:
 
  1) On your keyboard, press the**Windows logo key** and**I** at the same time. Click **Devices** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-settings-devices.png)
 
 2) Click **Mouse & touchpad,**  then click **Additional mouse options** .
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/additional-mouse-options.png)
 
  3) Go to the furthest right option (the option could be **Device Settings** or **ELAN**), and make sure your touchpad is enabled.
@@ -61,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/c923509aabb39b0eb7c18cacb723349038dd49742
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **3: Stop automatic updates from Windows Update**
 
  A faulty or buggy driver from Windows Update could be the cause of this problem. You can disable the automatic update via:
@@ -71,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/c923509aabb39b0eb7c18cacb723349038dd49742
 
  2) Right-clickyour computer icon and click **Device installation settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
 
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
@@ -93,3 +108,42 @@ thumbnail: https://thmb.techidaily.com/c923509aabb39b0eb7c18cacb723349038dd49742
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-essential-guide-to-tracking-down-your-youtube-voice/"><u>[Updated] The Essential Guide to Tracking Down Your YouTube Voice</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-absence-of-coprocessor-drivers-in-windows-10-a-comprehensive-guide/"><u>Resolving the Absence of Coprocessor Drivers in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-tech-talk-the-best-ways-to-move-files-between-idevices/"><u>[Updated] 2024 Approved  Tech Talk  The Best Ways to Move Files Between iDevices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102722057-rtp-unable-to-run-nvidia-graphics-games-our-expertise-can-solve-it/"><u>RTP: Unable to Run Nvidia Graphics Games? Our Expertise Can Solve It!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/breaking-barriers-decode-e52-for-smooth-drives/"><u>Breaking Barriers: Decode E52 for Smooth Drives</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-hcmon-driver-failed-to-install-expert-advice-and-solutions/"><u>Fixing 'HCMon Driver Failed to Install': Expert Advice and Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/prevented-photo-lag-with-asus-webcam-optimization-on-win11/"><u>Prevented Photo Lag with ASUS Webcam: Optimization on Win11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-extensive-review-the-360-degree-capture-of-samsung-for-2024/"><u>[Updated] Extensive Review  The 360-Degree Capture of Samsung for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-8-and-7-device-driver-troubleshooting-and-resolution-steps/"><u>Windows 11, 8 & 7 Device Driver Troubleshooting and Resolution Steps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-12-mini-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 12 mini Properly</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-develop-a-soundtrack-integrated-movie-in-the-absence-of-costs/"><u>2024 Approved Develop a Soundtrack-Integrated Movie in the Absence of Costs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-reluctance-of-enex-to-load-in-windows-11/"><u>Resolving the Reluctance of eNEX to Load in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-corrected-in-service-installation-inf/"><u>Error Corrected in Service Installation INF</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-resolving-failed-to-install-hcmon-driver-issues/"><u>Step-by-Step Guide: Resolving 'Failed to Install HCMon Driver' Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/click-without-frustration-on-win10/"><u>Click Without Frustration on Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104801174-ultimate-guide-updating-and-downloading-drivers-for-your-hp-envy-20/"><u>Ultimate Guide: Updating and Downloading Drivers for Your HP Envy 20</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-art-of-converting-speech-to-text-with-google-docs/"><u>[Updated] Mastering the Art of Converting Speech to Text with Google Docs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-fix-unrecognized-usb-in-w78/"><u>Step by Step Guide to Fix Unrecognized USB in W7/8</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-frame-by-frame-reviews-high-quality-recorder-guide/"><u>[Updated] In 2024, Frame by Frame Reviews  High-Quality Recorder Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-printer-halt-after-update-successfully/"><u>Resolving Printer Halt After Update Successfully</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-mastering-youtube-to-mp3-conversion-essential-guide/"><u>2024 Approved Mastering YouTube to MP3 Conversion Essential Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mitigating-issues-with-acpi-device-33a0/"><u>Mitigating Issues with ACPI: DEVICE 33A0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-install-newest-driver-software-on-hp-envy-20-laptops/"><u>Easy Steps to Install Newest Driver Software on HP Envy 20 Laptops</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-nvidiaamd-graphics-drivers-on-windows-8/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing NVIDIA/AMD Graphics Drivers on Windows 8</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/streamlining-the-process-vimeo-to-mp3-conversion/"><u>Streamlining the Process  Vimeo to MP3 Conversion</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsungs-operating-system-for-the-winning-computer/"><u>Samsung's Operating System for the Winning Computer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-essential-gadgets-for-capturing-zoom-sessions/"><u>[New] 2024 Approved  Essential Gadgets for Capturing Zoom Sessions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsuccessful-driver-installation-by-os/"><u>Unsuccessful Driver Installation by OS</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-video-controller-driver-issue-in-windows-10-easily/"><u>Fix Video Controller Driver Issue in Windows 10. Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11s-high-disk-usage-explained-and-solved/"><u>Win11's High Disk Usage Explained & Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-issues-with-restored-defaults-on-your-amd-radeons-gpu-software/"><u>Resolving Issues with Restored Defaults on Your AMD Radeon's GPU Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c02-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Nokia C02 Phone without PIN</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/0-female-gamers-on-youtube-2024-updated/"><u>Top 10 Female Gamers on YouTube | 2024 Updated</u></a></li>
+<li><a href="https://driver-error.techidaily.com/essential-guide-installing-latest-drivers-for-the-all-new-hp-envy-m7-model/"><u>Essential Guide: Installing Latest Drivers for the All-New HP Envy M7 Model</u></a></li>
+</ul></div>

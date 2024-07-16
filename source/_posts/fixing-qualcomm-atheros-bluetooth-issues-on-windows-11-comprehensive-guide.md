@@ -1,7 +1,7 @@
 ---
 title: "Fixing Qualcomm Atheros Bluetooth Issues on Windows 11: Comprehensive Guide"
-date: 2024-07-15 19:30:56
-updated: 2024-07-16 10:53:18
+date: 2024-07-15T06:55:36.795Z
+updated: 2024-07-16T06:55:36.795Z
 tags:
   - win11
   - win10
@@ -36,10 +36,16 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
  Then choose**Update history** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878514d080da.jpg)
   
  Scroll down to see if you can find the**KB3061161** . It should be a rather old update, so it might cost you some time to locate.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587852a8ba348.jpg)
 
 If you don’t see such an update, don’t freak out, just go to Microsoft and get in downloaded and installed, and you will be fine.
@@ -60,10 +66,16 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 3) Now press**Windows key**and**X**at the same time and choose**Device Manager**.
   
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878625e408ff.png)
 
 4) Then locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Uninstall**.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878700f160fd.jpg)
 
 5) When prompted with the following notification, tick the box for**Delete the driver software for this device**and then hit**OK**to continue.
@@ -120,6 +132,9 @@ Why not have a try at [**Driver Easy**](https://tools.techidaily.com/drivereasy/
   
 Moreover, it is very easy to use. Just click the**Scan Now**button for**Driver Easy**to help you with the scan for missing or outdated drivers;
   
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  \\![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76e376da11.png)
 
 Then the**Update**button next to the driver you need to update.
@@ -151,3 +166,41 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/from-absence-to-presence-touchpad-driver-reinstated/"><u>From Absence to Presence: Touchpad Driver Reinstated</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intermittent-wireless-mouse-functionality-issues-with-win-10/"><u>Intermittent Wireless Mouse Functionality Issues with Win 10</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-social-media-sensations-most-liked-and-watched-amazon-originals/"><u>[Updated] In 2024, The Social Media Sensations  Most Liked & Watched Amazon Originals</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-nvidia-opengl-driver-unable-to-recover-from-a-kernel-exception/"><u>Fix: NVIDIA OpenGL Driver Unable to Recover From a Kernel Exception</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-10-essential-animation-software-for-modern-education/"><u>New 2024 Approved 10 Essential Animation Software for Modern Education</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unseen-disc-reader-heres-how-to-fix-in-win11/"><u>Unseen Disc Reader? Here's How to Fix in Win11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-control-panel-extension-is-incompatible-with-driver-version/"><u>Solved: Control Panel Extension Is Incompatible with Driver Version</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlock-dolby-pro-logic-iix-sound-in-windows-done-with-successful-result/"><u>Unlock Dolby Pro Logic IIx Sound in Windows - Done with Successful Result!🔑</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-no-supported-software-for-amdintel-graphics-within-premiere-pro/"><u>Fixed: No Supported Software for AMD/Intel Graphics Within Premiere Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-solve-installation-failed-access-denied-for-usb-devices/"><u>How to Solve 'Installation Failed: Access Denied' For USB Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-how-to-adjust-screen-settings-when-videos-appear-inverted-on-your-asus-device/"><u>Step-by-Step Solutions: How to Adjust Screen Settings When Videos Appear Inverted on Your ASUS Device</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-13-powerful-video-editors-that-outshine-windows-movie-maker-for-2024/"><u>Updated 13 Powerful Video Editors That Outshine Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-honor-x50i-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Honor X50i FRP In 3 Different Ways</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-groupwatcher-pro-hd-downloader/"><u>[New] 2024 Approved  GroupWatcher Pro HD Downloader</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-s-most-popular-video-brightening-software-for-2024/"><u>New S Most Popular Video Brightening Software for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-asus-usb20-webcam-issue-in-windows-10/"><u>Fixed ASUS USB2.0 Webcam Issue in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-hp-touchpad-driver-issue-for-windows-10/"><u>Fix HP Touchpad Driver Issue for Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-windows-7s-blue-screen-with-error-0x0000007e/"><u>Troubleshooting Guide: Resolving Windows 7'S Blue Screen with Error 0X0000007E</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-setting-up-missing-driver-issues-in-windows-11-8-and-7-easy-solutions/"><u>Troubleshooting and Setting Up Missing Driver Issues in Windows 11, 8 & 7 – Easy Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-whats-the-best-voice-changer-for-youtubers/"><u>In 2024, What’s the Best Voice Changer for YouTubers?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-loneliness-for-wacom-connected/"><u>No More Loneliness for Wacom, Connected!</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-f15-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy F15 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-cards-not-shown-on-windows-machine/"><u>[FIXED] Cards Not Shown on Windows Machine</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminate-unresponsive-right-click-issue-in-windows-11/"><u>Eliminate Unresponsive Right Click Issue in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-f15-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy F15 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-kb-error-resolution-irql/"><u>Win11 KB Error Resolution: IRQL</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-bt-integration-lenovo-and-windows-11-guide/"><u>Seamless BT Integration: Lenovo & Windows 11 Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-wireless-keyboard-on-windows/"><u>Troubleshooting Guide: Fixing a Nonfunctional Wireless Keyboard on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-guide-correcting-the-lack-of-printer-or-scanner-drivers-on-your-pc-windows-1087/"><u>Comprehensive Guide: Correcting the Lack of Printer or Scanner Drivers on Your PC (Windows 10/8/7)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-brodacm-80211n-seamless-wireless-functioning-on-windows/"><u>Fixed Brodacm 802.11N: Seamless Wireless Functioning on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-prowess-windows-made-simple-and-fast/"><u>Bluetooth Prowess: Windows Made Simple & Fast</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dvdcd-reader-invisibility-in-windows-11-resolved/"><u>DVD/CD Reader Invisibility in Windows 11 Resolved</u></a></li>
+</ul></div>

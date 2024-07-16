@@ -1,7 +1,7 @@
 ---
 title: Keyboard Stuck on Windows 10
-date: 2024-07-13 22:14:11
-updated: 2024-07-16 10:33:44
+date: 2024-07-15T06:46:18.199Z
+updated: 2024-07-16T06:46:18.199Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
 ## Keyboard Stuck on Windows 10
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/kb1.jpg)
 
  If you’ve recently upgraded to Windows 10 and now**your keyboard isn’t working** , you’re not alone. Many other Windows 10 users are reporting the same problem, especially after installing the KB4074588 update on February 13, 2018\.
@@ -51,10 +54,25 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
  3) Click**Keyboard** .
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
 
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
 ---
@@ -65,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
  1) Right-click the**Start** button, then click**Device Manager** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
@@ -103,6 +124,9 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 5: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
@@ -143,3 +167,45 @@ And that’s just the start of the benefits…
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixing-the-unintended-restoration-of-radeon-wattman-settings-expert-guidance-inside/"><u>Fixing the Unintended Restoration of Radeon Wattman Settings – Expert Guidance Inside!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-verbal-visions-a-compilation-of-the-most-advanced-transcription-apps/"><u>2024 Approved  Verbal Visions  A Compilation of the Most Advanced Transcription Apps</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-beginners-guide-to-pro-youtube-tech/"><u>In 2024, Beginner's Guide to Pro YouTube Tech</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-dell-broadcom-ush-driver-problems/"><u>How to Fix Dell Broadcom USH Driver Problems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-realme-c51-by-drfone-android/"><u>Universal Unlock Pattern for Realme C51</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-ultimate-screen-snaps-for-mac-users-max-156-chars/"><u>2024 Approved  Ultimate Screen Snaps for Mac Users (Max 156 Chars)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-repair-your-nonworking-or-stuck-pclaptop-keys-one-step-at-a-time-troubleshooting-guide-tech-talker-article-title406-chars/"><u>Easy Steps to Repair Your Nonworking or Stuck PC/Laptop Keys, One Step at a Time – Troubleshooting Guide | Tech Talker (Article Title)—406 Chars</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104393004-mastering-the-fix-windows-compatible-wireless-keyboards-that-wont-respond-anymore/"><u>Mastering the Fix: Windows-Compatible Wireless Keyboards That Won't Respond Anymore</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-solutions-resolving-driver-unavailable-issues-in-itbm/"><u>Quick Solutions: Resolving 'Driver Unavailable' Issues in ITBM</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-getting-your-qualcomm-atheros-bluetooth-driver-working-again-on-windows-11/"><u>Step-by-Step Guide to Getting Your Qualcomm Atheros Bluetooth Driver Working Again on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsupported-device-type-lacking-intel-adapter/"><u>Unsupported Device Type - Lacking Intel Adapter</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-ultimate-chrome-plugins-accelerated-vimeo-video-retrieval/"><u>[New] In 2024, Ultimate Chrome Plugins  Accelerated Vimeo Video Retrieval</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-a78-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Oppo A78 5G</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-lost-to-found-the-missing-touchpad-driver-fixes/"><u>From Lost to Found: The Missing Touchpad Driver Fixes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-12-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 12 Pro Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-keyboard-mismatches-with-windows-10s-elan/"><u>Fixing Keyboard Mismatches with Windows 10'S Elan</u></a></li>
+<li><a href="https://driver-error.techidaily.com/right-click-doesnt-work-on-touchpad-windows-11-solved/"><u>Right Click Doesn't Work on Touchpad Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stabilized-high-res-webcam-output-fixing-asuswin11/"><u>Stabilized High Res Webcam Output: Fixing ASUS/Win11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/all-time-highest-chart-youtubes-premier-video-list/"><u>All-Time Highest Chart  YouTube's Premier Video List</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-driver-support-failure-for-intel-and-amd-in-premier-pro/"><u>Solved Driver Support Failure for Intel & AMD in Premier Pro</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-top-facebook-mp3-downloader-websites-easy-conversion/"><u>In 2024, Top Facebook MP3 Downloader Websites Easy Conversion</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-broadcom-wi-fi-adapter-for-windows-compatibility/"><u>Troubleshooting Broadcom Wi-Fi Adapter for Windows Compatibility</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-this-device-is-disabled-code-22/"><u>[Fixed] This Device Is Disabled. (Code 22)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-successfully-address-and-repair-the-lack-of-a-supplementary-cpu-driver-on-your-windows-10-system-solved/"><u>How to Successfully Address and Repair the Lack of a Supplementary CPU Driver on Your Windows 10 System [Solved]</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-revelation-of-video-enchantment-techniques/"><u>In 2024, Revelation of Video Enchantment Techniques</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/mastering-tiktok-marketing-effective-ad-methods-and-case-studies/"><u>Mastering TikTok Marketing  Effective Ad Methods and Case Studies</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-x-title-tutorial-a-step-by-step-guide/"><u>In 2024, Final Cut Pro X Title Tutorial A Step-by-Step Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-realme-narzo-n55-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme Narzo N55 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-fixing-usb-setup-errors-caused-by-access-is-denied/"><u>Guide to Fixing USB Setup Errors Caused by 'Access Is Denied'</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-xiaomi-14-ultra-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Xiaomi 14 Ultra</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fixes-for-complicated-windows-ndis-errors/"><u>Quick Fixes for Complicated Windows NDIS Errors</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/crafting-facebook-slideshow-an-instagram-style-storytelling-guide/"><u>Crafting Facebook SlideShow  An Instagram-Style Storytelling Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mcpu-solving-intellme-crashes/"><u>MCPU: Solving IntellME Crashes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-base-system-glitches-via-dm/"><u>Tackling Base System Glitches via DM</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-x-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone X With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unveiling-instagrams-videography-timeframe/"><u>[New] Unveiling Instagram's Videography Timeframe</u></a></li>
+<li><a href="https://driver-error.techidaily.com/internal-wifi-and-bluetooth-always-on-cant-turn-off-in-my-win10-laptop48-chars/"><u>“Internal WIFI & Bluetooth Always ON - Can't Turn OFF in My Win10 Laptop(48 Chars)</u></a></li>
+</ul></div>

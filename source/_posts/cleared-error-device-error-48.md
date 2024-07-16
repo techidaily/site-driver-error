@@ -1,7 +1,7 @@
 ---
 title: Cleared Error - Device Error 48
-date: 2024-07-15 16:13:56
-updated: 2024-07-16 11:38:19
+date: 2024-07-15T06:49:50.077Z
+updated: 2024-07-16T06:49:50.077Z
 tags:
   - win11
   - win10
@@ -85,15 +85,24 @@ Or
  If you don’t need the Hyper-V feature, just try disabling it to see if the error code 48 disappears. Here is how to do it:
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the**Run** dialog. Type**appwiz.cpl** and press**Enter** to open the**Programs and Features** window in the**Control Panel** .  
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![appwiz.cpl](https://images.drivereasy.com/wp-content/uploads/2021/04/appwiz.cpl_.jpg)
 2. Click**Turn Windows features on or off** .  
 ![Turn Windows features on or off](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-Windows-features-on-or-off.jpg)
 3. In the Window that pops up,**uncheck the box** next to**Hyper-V** and click**OK** to disable the Hyper-V feature.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Disable the Hyper-V feature](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Hyper-V-feature.jpg)
 4. Restart Windows 10 to see if the issue persists.
 
  If this fix didn’t work, try the next fix to turn off Memory Integrity.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Turn off Memory Integrity in Core isolation
 
  Memory Integrity is a security feature of Core isolation in Windows 10 settings. It is designed to prevent attacks from inserting malicious code into high-security processes and device drivers.
@@ -103,6 +112,9 @@ Or
 To turn off Memory Integrity, simply follow the steps below:
 
 1. On your keyboard, press**the Windows logo key** and type**core isolation** . Click**Open** to open the Core isolation window in Windows 10 settings.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Open Core isolation](https://images.drivereasy.com/wp-content/uploads/2021/04/Open-Core-isolation.jpg)
 2. **Turn off** the toggle under**Memory integrity** .  
 ![Turn off Memory integrity](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Memory-integrity.jpg)
@@ -125,6 +137,9 @@ See if this fix works. If not, try the next fix, below.
 **To run the Windows Memory Diagnostic Test:**
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the**Run** dialog. Type**control admintools** and press**Enter** to open the**Administrator Tools** window in the**Control Panel** .  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open control panel from Run](https://images.drivereasy.com/wp-content/uploads/2021/04/open-control-panel-from-Run.jpg)
 2. Double-click**Windows Memory Diagnostic** to run it.  
 ![Windows Memory Diagnostic](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-Memory-Diagnostic.jpg)
@@ -156,3 +171,56 @@ See if this fix works. If not, try the next fix, below.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixing-non-functional-serial-ports-winside/"><u>Fixing Non-Functional Serial Ports, WINSIDE</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitters-new-rule-include-aspect-ratio-in-video-posts/"><u>[New] In 2024, Twitter's New Rule  Include Aspect Ratio in Video Posts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-the-speed-of-vimeo-videos-for-2024/"><u>[New] Enhancing the Speed of Vimeo Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-days-to-launch-podcasts/"><u>Navigating Days to Launch Podcasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-portals-for-virtual-graffiti-fonts-for-2024/"><u>Leading Portals for Virtual Graffiti Fonts for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-fixing-failed-to-startup-battleye-service-with-error-1450/"><u>Troubleshooting Steps for Fixing 'Failed to Startup BattlEye Service' With Error 1450</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-chronicles-merging-music-and-memories-for-2024/"><u>[Updated] FB Chronicles  Merging Music and Memories for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-mastering-lip-sync-magic-advanced-strategies-for-real-time-audio-video-sync/"><u>New In 2024, Mastering Lip-Sync Magic Advanced Strategies for Real-Time Audio-Video Sync</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-steps-for-fixing-unverified-or-incompatible-drivers-during-setup/"><u>Solution Steps for Fixing Unverified or Incompatible Drivers During Setup</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-discovering-content-iphones-and-podcasts/"><u>2024 Approved  Discovering Content  IPhones and Podcasts</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-unlock-the-power-of-seamless-movement-with-these-7-trendy-transition-audio-files-no-cost/"><u>New In 2024, Unlock the Power of Seamless Movement with These 7 Trendy Transition Audio Files (No Cost)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/curating-a-musical-portfolio-in-youtube-for-2024/"><u>Curating a Musical Portfolio in Youtube for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-text-transformation-tactics-avoiding-3d-missteps/"><u>[Updated] Text Transformation Tactics  Avoiding 3D Missteps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-bluetooth-driver-solution-for-windows/"><u>Quick Bluetooth Driver Solution for Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-solve-access-denied-error-while-installing-a-usb-device/"><u>How to Solve 'Access Denied' Error While Installing a USB Device</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-pursuing-peerless-speech-to-text-with-google-assistance/"><u>[Updated] 2024 Approved  Pursuing Peerless Speech-to-Text with Google Assistance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-it-guide-combatting-nvidia-drivers-glitches/"><u>Fix-It Guide: Combatting Nvidia Drivers Glitches</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-message-decoded-successfully-overcoming-battleyes-driver-load-hurdles/"><u>Error Message Decoded: Successfully Overcoming BattlEye's 'Driver Load' Hurdles</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-assessing-igtv-content-performance-levels/"><u>[New] 2024 Approved  Assessing IGTV Content Performance Levels</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-troubleshooting-guide-nvidia-geforce-gtx-950-code-43-error-fix-on-windows-11-systems/"><u>Step-by-Step Troubleshooting Guide: NVIDIA GeForce GTX 950 Code 43 Error Fix on Windows 11 Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-70-lite-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor 70 Lite 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gpu-reveal-unmasking-the-graphics-of-ms-bda/"><u>GPU Reveal: Unmasking the Graphics of MS BDA</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-serial-connection-repair-guide-for-windows-users/"><u>USB-Serial Connection Repair Guide for Windows Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-aerial-drone-transformation-trial-with-first-20-free-lutts/"><u>[New] Aerial Drone Transformation - Trial with First 20 FREE LUTTs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-connectivity-issues-a-users-handbook-to-fixing-wireless-keyboards-on-windows-machines/"><u>Resolving Connectivity Issues: A User's Handbook to Fixing Wireless Keyboards on Windows Machines</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-pro-level-10-video-editors-to-boost-w-tiktoks-for-2024/"><u>[New] Pro-Level 10 Video Editors to Boost W TikToks for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-compatibility-errors-for-device-drivers-in-windows/"><u>Fixing Compatibility Errors for Device Drivers in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-user-friendly-solution-for-wireless-woes/"><u>Windows User-Friendly Solution for Wireless Woes</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-make-movies-on-the-go-10-top-android-apps-for-2024/"><u>New Make Movies on the Go 10 Top Android Apps for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-no-files-available-error-in-windows-11/"><u>Solving 'No Files Available' Error in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-gtx-nvidia-geforce-950-graphics-card-code-43-issue-in-windows-10/"><u>Resolving the GTX Nvidia GeForce 950 Graphics Card Code 43 Issue in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-iphone-usb-connection-detailed-guide-on-resolving-mtp-device-driver-problems/"><u>Fixing the iPhone USB Connection: Detailed Guide on Resolving MTP Device Driver Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-gtx-950-code-43-error-on-your-windows-11-pc-step-by-step-solution/"><u>How to Fix 'GTX 950 Code 43 Error' On Your Windows 11 PC: Step-by-Step Solution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-the-gtx-ninety-five-error-codes-solutions-for-windows-eleven/"><u>Troubleshooting the GTX Ninety-Five Error Codes: Solutions for Windows Eleven</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-how-to-fix-intel-me-driver-issues/"><u>[Solved] How to Fix Intel ME Driver Issues?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-stop-motion-101-a-step-by-step-guide-and-alternative-options/"><u>New 2024 Approved Stop Motion 101 A Step-by-Step Guide and Alternative Options</u></a></li>
+<li><a href="https://driver-error.techidaily.com/joy-overload-all-wacom-devices-connected/"><u>Joy Overload: All Wacom Devices Connected</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortless-bios-update-razer-deathadder-on-windows-10/"><u>Effortless BIOS Update: Razer Deathadder on Windows 10</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-set-up-facebook-cover-videos/"><u>[New] Set up Facebook Cover Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebook-overhaul-the-2023-updates-explained/"><u>2024 Approved  Facebook Overhaul  The 2023 Updates Explained</u></a></li>
+<li><a href="https://driver-error.techidaily.com/upgraded-video-feeds-asus-webcam-and-windows-1e-connection/"><u>Upgraded Video Feeds: ASUS Webcam & Windows 1E Connection</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensured-consistent-camera-feed-resolving-asus-problems-on-windows-11/"><u>Ensured Consistent Camera Feed: Resolving ASUS Problems on Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-selecting-the-best-youtube-to-mp4-converter-a-quick-guide/"><u>New In 2024, Selecting the Best YouTube to MP4 Converter A Quick Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keystone-illumination-error-asus/"><u>Keystone Illumination Error - Asus</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104156655-solve-unresponsive-issue-with-disabling-inbuilt-wi-fi-and-bluetooth-step-by-step/"><u>Solve Unresponsive Issue with Disabling Inbuilt Wi-Fi and Bluetooth - Step by Step!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensuring-smooth-connection-lenovo-on-windows-10/"><u>Ensuring Smooth Connection: Lenovo on Windows 10</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-upload-the-video-to-twitch-well-if-you-dont-know-the-process-this-detailed-guide-will-help-you-while-explaining-the-process-this-article-will/"><u>Updated How to Upload the Video to Twitch? Well, if You Dont Know the Process, This Detailed Guide Will Help You. While Explaining the Process, This Article Will Also Let You Know some Twitch Video Upload Guidelines</u></a></li>
+<li><a href="https://driver-error.techidaily.com/new-drivers-installation-for-sysware-device/"><u>New Drivers Installation for SysWare Device</u></a></li>
+</ul></div>

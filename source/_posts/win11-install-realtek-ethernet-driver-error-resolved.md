@@ -1,7 +1,7 @@
 ---
 title: "Win11 Install: Realtek Ethernet Driver Error Resolved"
-date: 2024-07-14 21:21:49
-updated: 2024-07-16 12:58:47
+date: 2024-07-15T06:46:36.683Z
+updated: 2024-07-16T06:46:36.683Z
 tags:
   - win11
   - win10
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/64b02260fc2e331299df22a1e999eab91ad890c07
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Option One: Reset TCP/IP**
 
 1) On your keyboard, press the**Windows logo key** , type**cmd** , right-click**Command Prompt** from the results, and select**Run as administrator** .  
@@ -58,6 +61,9 @@ netsh int ip reset c:\resetlog.txt
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
 3) Then right-click Realtek PCIe GBE Family Controller option and choose **Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de65b229a9.png)
 
  4) Go to**Advanced** tab, then choose**Speed & Duplex** option on the left side of the pane.
@@ -78,17 +84,26 @@ netsh int ip reset c:\resetlog.txt
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Option Three:** **Reinstall or Rollback Realtek Adapter Driver**
 
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de5537df74.png)
  2) Locate and click the arrow to expand the category**Network adapters** .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
  3) Then right-click click**Realtek PCIe GBE Family Controller** option and then choose**Uninstall** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee15b99f3.png)
 
  Hit**OK** to continue.
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee50286a0.png)
 
  4) Go to the menu bar on the top and click the button for **Scan for hardware changes** .  
@@ -140,3 +155,48 @@ netsh int ip reset c:\resetlog.txt
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/no-more-laggy-windows-11/"><u>No More Laggy Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reactivation-process-complete/"><u>Reactivation Process Complete</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/improve-office-productivity-with-speech-to-text-conversion-in-microsoft-word-for-2024/"><u>Improve Office Productivity with Speech to Text Conversion in Microsoft Word for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mouse-mastery-latency-free-windows-experience/"><u>Mouse Mastery: Latency-Free Windows Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-fixing-win1011-sm-bus-drivers/"><u>Diagnosing and Fixing Win10/11 Sm Bus Drivers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/elevating-system-bus-efficiency-on-win11/"><u>Elevating System Bus Efficiency on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/detect-unseen-seagate-hdd-win11-tips-and-tricks/"><u>Detect Unseen Seagate HDD: Win11 Tips & Tricks</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-definitive-list-of-popular-software-for-auditory-disentanglement-from-video-footage-for-2024/"><u>New The Definitive List of Popular Software for Auditory Disentanglement From Video Footage for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-advanced-audio-editing-in-adobe-premiere-pro-effortless-track-mixing-methods/"><u>In 2024, Advanced Audio Editing in Adobe Premiere Pro Effortless Track Mixing Methods</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-xiaomi-13t-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Xiaomi 13T? Fixed | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-sound-output-from-non-responsive-usb-device-on-win10/"><u>Restoring Sound Output From Non-Responsive USB Device on WIN10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-cross-platform-collaboration-for-sharing-facebook-videos/"><u>[New] 2024 Approved  Cross-Platform Collaboration for Sharing Facebook Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-youtube-subscriptions-for-economic-updates/"><u>2024 Approved  Essential YouTube Subscriptions for Economic Updates</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-top-mp4-metadata-editors-for-video-organization/"><u>2024 Approved Top MP4 Metadata Editors for Video Organization</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-lags-streamlined-windows-control/"><u>No More Lags: Streamlined Windows Control</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win10-addressing-usb-non-responsive/"><u>Win10: Addressing USB Non-Responsive</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-12-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi 12 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enjoy-uninterrupted-viewing-top-20-youtube-download-apps/"><u>[New] In 2024, Enjoy Uninterrupted Viewing  Top 20 YouTube Download Apps</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-windows-10-qualcomm-atheros-bluetooth-not-working-solution/"><u>Troubleshooting Windows 10: Qualcomm Atheros Bluetooth Not Working Solution</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-bring-imagination-to-life-self-animated-artistry/"><u>[Updated] Bring Imagination to Life  Self-Animated Artistry</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-iphone-external-storage-connectivity-problem-usb-mtp-driver-solutions/"><u>Fixing the iPhone External Storage Connectivity Problem: USB MTP Driver Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/conquer-directx-9-startup-issues-in-5-minutes/"><u>Conquer DirectX 9 Startup Issues in 5 Minutes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premier-online-videography-tools-to-eye-for-2024/"><u>[New] Premier Online Videography Tools to Eye for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-asus-keyboard-backlight-not-working/"><u>[SOLVED] ASUS Keyboard Backlight Not Working</u></a></li>
+<li><a href="https://driver-error.techidaily.com/alert-wireless-mouse-error-no-signal-detected/"><u>[Alert] Wireless Mouse Error - No Signal Detected</u></a></li>
+<li><a href="https://driver-error.techidaily.com/titled-successful-installation-of-essential-hardware-drivers/"><u>[TITLED] Successful Installation of Essential Hardware Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-fix-how-to-correctly-install-your-hcmon-driver-and-avoid-failures/"><u>The Ultimate Fix: How to Correctly Install Your HCMon Driver and Avoid Failures</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-and-pc-now-harmonious-post-windows-11-fix/"><u>Keyboard & PC Now Harmonious Post-Windows 11 Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-compatible-samsung-mobile-system/"><u>Windows-Compatible: Samsung Mobile System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-asus-usb-c-webcam-glitch-on-windows-11/"><u>Resolved ASUS USB-C Webcam Glitch on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/htc-one-mini-bluetooth-failure-on-elementary-os-4-loki-resolved-37-characters/"><u>HTC One Mini Bluetooth Failure on Elementary OS 4 Loki, Resolved! (37 Characters)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-1011-recover-absent-data-acquisitor/"><u>Windows 10/11: Recover Absent Data Acquisitor</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-speedy-blueprint-collecting-tiktoks-with-ease/"><u>[New] The Speedy Blueprint  Collecting TikToks with Ease</u></a></li>
+<li><a href="https://driver-error.techidaily.com/endless-bluetooth-woes-no-more-win10-edition/"><u>Endless Bluetooth Woes, No More! - Win10 Edition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104210852-revive-your-wireless-keyboard-on-a-windows-pc-solutions-that-work/"><u>Revive Your Wireless Keyboard on a Windows PC – Solutions That Work</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-shots-and-their-tales-the-most-shared-stock-memes/"><u>2024 Approved  Top Shots and Their Tales  The Most Shared Stock Memes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-unsuccessful-lacking-intel-adapter-support/"><u>Drivers Unsuccessful; Lacking Intel Adapter Support</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-enter-key-not-working-on-windows/"><u>How to Fix Enter Key Not Working on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cutting-through-disk-space-errors-on-win1110/"><u>Cutting Through Disk Space Errors on Win11/10</u></a></li>
+</ul></div>

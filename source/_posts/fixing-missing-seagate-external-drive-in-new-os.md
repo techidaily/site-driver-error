@@ -1,0 +1,242 @@
+---
+title: Fixing Missing Seagate External Drive in New OS
+date: 2024-07-15T07:02:07.104Z
+updated: 2024-07-16T07:02:07.104Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverError
+description: This Article Describes Fixing Missing Seagate External Drive in New OS
+excerpt: This Article Describes Fixing Missing Seagate External Drive in New OS
+thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa81bbe5b64a2be76707a27a2f.jpg
+---
+
+## Fixing Missing Seagate External Drive in New OS
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/usb-device-not-recognized-by-windows-10.jpg)
+
+[Driver Easy Free](https://tools.techidaily.com/drivereasy/download/) fixes your not showing up external Seagate hard drive in no time!
+
+ This post helps you solve**Seagate GoFlex** and other**hard drive problems** such as not detected or recognized or not working on Windows 10 in 5 ways.
+
+ If you’re on Windows 10 and you have no access to your Seagate GoFlex external hard drive, you’re not alone. Many users have reported having this problem as well. No worries, here are 5 solutions for you to try.
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How can I make my external Seagate hard drive show up again?
+
+ You may not need to try them all, just work your way down until you find the one that works for you.
+
+**[1: Try A Different USB Port](https://turtlebeacheu.sjv.io/1r0r59)**
+**[2: Reinstall Seagate Programs](https://bluettieu.pxf.io/nlgoka)**
+**[3: Partition the Hard Drive](https://versadesk.pxf.io/xyboxx)**
+**[4: Assign Driver Letter to Seagate GoFlex](https://dreoaffiliateprogram.pxf.io/k0ezjl)**
+**[5: Disable Fast Startup](https://coinrule.sjv.io/rqzonv)**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Method 1: Try A Different USB Port**
+
+ Unplug your Seagate hard drive from its current port, and plug it into a working USB port, for instance, the one for your mouse.
+
+ If you have another well-functioning computer, try to plug your Seagate hard drive into that computer and see if the problem persists.
+
+ If your Seagate external hard drive can be recognized via another USB port, the problem is solved, all you need to do is reconnect your hard drive to another port.
+
+ If your Seagate external hard drive won’t work in either situation, your hard drive could be at fault. You might need to consult the technical support of Seagate to see if your data in the hard drive can be retrieved somehow.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Method 2: Reinstall Seagate Programs**
+
+ If your Seagate app is not installed properly, problems like not being recognized by computers will happen. To fix it:
+
+ 1) On your keyboard, press the**Windows logo key** and I at the same time to invoke**Settings** .
+
+ 2) Click **System** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/system-in-settings.jpg)
+
+ 3) Click**Apps & features** . Click**Seagate software** and click the**Uninstall** button. (In the screenshot, we uninstall **Driver Easy** only as an example.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-and-features.jpg)
+
+ 4) Go to the [**official website of Seagate**](http://www.seagate.com/gb/en/support/downloads/item/goflex-home-iso-software-master/) and download the software, create the install CD according to the instructions and then reinstall the software again on your computer.
+
+ 5) You might need to update the drivers for this software and your hard drive.
+
+ If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**
+
+**Driver Easy** will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the_**FREE**_ or the_**Pro version**_ of Driver Easy. But with the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) , it takes just 2 clicks (and you get full support and a 30-day money-back guarantee).
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e4afa92a309.jpg)
+  
+ 6) If your Seagate external hard drive still doesn’t work after you reinstall the software and update the drivers,you should reinstall**Paragon driver**  in compatibility mode. Here is how:
+
+ 1) Go to**Settings > System> Apps & features** window, remove **Paragon driver** .
+
+ 2) Download the correct version of **Paragon driver** for your operating system from Seagate official website.
+
+ 3) Right-click the**Paragon driver** setup file and click **Properties** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/properties.png)
+
+ 4) Click the**Compatibility** tab, and tick the box for**Run this program in compatibility mode for:** . Select an older version of Windows. You might need to try a couple of times before you fix this issue.
+
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-this-program-in-compatibility-mode-for.jpg)
+
+ 5) Click**Apply** and**OK** to save and then run the setup again.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/apply-and-ok.jpg)
+
+## **Method 3: Partition the Hard Drive**
+
+ 1) On your keyboard, press the**Windows logo key** and**S** at the same time. Type**apps: computer management** in and click **Computer Management** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-computer-management.png)
+
+ 2) On the left side of the pane, click**Disk Management** . Right-click **Seagate Central driver** , and click **Delete Volume…** . This will**delete all** the files from your Seagate hard drive.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/disk-management.jpg)
+
+ 3) You should be able to see **Disk 1** is available. Right-click it and click **GPT (GUID Partition Table)** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/gpt-guid-partition-table.jpg)
+
+ 4) Right-click it again and click **New simple volume** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/new-simple-volume.jpg)
+
+ There you go, your Seagate external hard drive should be able to work without any problems.
+
+## **Method 4: Assign Driver Letter to Seagate GoFlex**
+
+ 1) On your keyboard, press the**Windows logo key** and**S** at the same time. Type**apps: computer management** in and click **Computer Management.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-computer-management.png)
+  
+ 2) On the left side of the pane, click**Disk Management** . If you see a drive without a letter, check to make sure that it’s your**Seagate GoFlex drive** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57f9f9701ebe7-600x294.jpg)
+
+ 3) Right-click it and click **Change Drive Letter and Paths…** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-drive-letter-and-paths.png)
+
+ 4) If your external hard drive doesn’t have a letter, press **Add…** to add a letter for this drive.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/add-a-letter.png)
+
+ 5) Assign a letter to it and click**OK.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/ok.jpg)
+
+## **Method 5: Disable Fast Startup**
+
+ 1) On your keyboard, press the**Windows logo key**  and click **Control Panel.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/control-panel.jpg)
+  
+ 2) Click **Hardware and Sound** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/hardware-and-sound-600x450.jpg)
+
+3) Click **Power Options** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options.jpg)
+
+4) Click   **Change what the power button does.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-what-the-power-button-does.jpg)
+
+5) Click   **Change settings that are currently unavailable** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable-600x456.jpg)
+
+ 6) Scroll down to the _**Shutdown** settings_ section and uncheck**Turn off fast startup (recommended)** . Click **Save changes**  . You might need to restart your computer after this change.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/uncheck-turn-off-fast-startup-recommended-600x450.jpg)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/solving-windows-enter-failure-case/"><u>Solving Windows Enter Failure Case</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721099236532-happy-campers-wacom-connected-everywhere/"><u>Happy Campers: Wacom Connected, Everywhere!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-enhancing-visual-aesthetics-adding-black-bar-and-box-to-videos/"><u>[Updated] In 2024, Enhancing Visual Aesthetics  Adding Black Bar & Box to Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-overcoming-0x0000007e-bsod-issue-in-windows-7-computers/"><u>Expert Advice: Overcoming 0X0000007E BSoD Issue in Windows 7 Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-gtx-43-trouble-solutions-for-gpu-malfunctions-in-windows-11/"><u>Fixing GTX #43 Trouble: Solutions for GPU Malfunctions in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/responsive-clicks-no-freezing-on-pc/"><u>Responsive Clicks, No Freezing on PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-missing-links-resurrect-bluetooth-in-device-manager/"><u>Restore Missing Links: Resurrect Bluetooth in Device Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bring-back-lost-lfe-channel-with-your-pcs-audio-system-after-dolby-driver-installation-fixed-yes/"><u>Bring Back Lost LFE Channel with Your PC’s Audio System After Dolby Driver Installation, Fixed - Yes!✔️</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-solutions-for-driver-not-available-on-itbm-system-effortless-troubleshooting-guide/"><u>Immediate Solutions for 'Driver Not Available' On ITBM System - Effortless Troubleshooting Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-iphone-photo-potential-with-leading-line-techniques-for-2024/"><u>Unlock iPhone Photo Potential with Leading Line Techniques for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/make-your-seagate-hard-drive-show-up-in-windows-11/"><u>Make Your Seagate Hard Drive Show Up in Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-writers-toolkit-dialogue-and-narration-techniques-for-success/"><u>The Writer's Toolkit  Dialogue and Narration Techniques for Success</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-connectivity-fix-solving-qualcomm-atheros-issues-on-windows-11/"><u>Bluetooth Connectivity Fix: Solving Qualcomm Atheros Issues on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/music-making-magic-selecting-background-beats-for-vids/"><u>Music Making Magic  Selecting Background Beats for Vids</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-update-system-drivers-if-your-operating-system-does-not-recognize-them/"><u>How to Update System Drivers If Your Operating System Does Not Recognize Them</u></a></li>
+<li><a href="https://driver-error.techidaily.com/elan-touchpad-driver-issues-in-windows-10-solved/"><u>Elan Touchpad Driver Issues in Windows 10 [Solved]</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/selecting-the-perfect-youtube-video-downloader-for-mp4-for-2024/"><u>Selecting the Perfect YouTube Video Downloader for MP4 for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-normality-of-windows-input-keys/"><u>Restoring Normality of Windows Input Keys</u></a></li>
+<li><a href="https://driver-error.techidaily.com/streamlining-windows-sm-bus-controller-functionality/"><u>Streamlining Windows SM Bus Controller Functionality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-digital-nightmare-drawer-for-2024/"><u>[New] Digital Nightmare Drawer for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-tweeting-short-videos-to-interactive-shareable-customized-gifs-for-2024/"><u>[New] From Tweeting Short Videos to Interactive, Shareable Customized GIFS for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-driver-errors-for-optimal-device-performance-in-windows-versions/"><u>Troubleshooting Driver Errors for Optimal Device Performance in Windows Versions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104314262-fix-cannot-disable-bluetooth-functionality-in-my-laptop-using-cortana/"><u>Fix: Cannot Disable Bluetooth Functionality in My Laptop Using Cortana.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/my-prodigy-brio-camera-wont-show-in-the-list-of-devices-after-pc-upgrade-heres-what-i-did-solved/"><u>My Prodigy Brio Camera Won't Show in the List of Devices After PC Upgrade – Here’s What I Did (Solved)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-winning-ways-top-8-video-capture-applications-for-windows/"><u>[Updated] Winning Ways  Top 8 Video Capture Applications for Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-bluetooth-missing-from-device-manager/"><u>How to Fix Bluetooth Missing From Device Manager</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-7-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-cleaned-correctly-configuring-your-device-code-1-explanation/"><u>Error Cleaned: Correctly Configuring Your Device (Code 1 Explanation)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721099736614-solved-cant-find-the-name-of-intel-icd-opengl-driver/"><u>[SOLVED] Can’t Find the Name of Intel ICD OpenGL Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-usb-xhci-compliant-host-controller-error-code-10/"><u>Fix: USB xHCI Compliant Host Controller Error Code 10</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-from-good-to-glorious-elevating-mac-based-tiktok-intros/"><u>[New] 2024 Approved  From Good to Glorious  Elevating Mac-Based TikTok Intros</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-a14-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy A14 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-galaxy-f54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Galaxy F54 5G</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-cross-platform-movie-capture/"><u>[New] 2024 Approved  The Ultimate Guide to Cross-Platform Movie Capture</u></a></li>
+<li><a href="https://driver-error.techidaily.com/balance-windows-7-dell-interactive-elements/"><u>Balance Windows 7 Dell Interactive Elements</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-your-content-with-top-tier-title-tactics-for-2024/"><u>Perfect Your Content with Top-Tier Title Tactics for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-recover-from-a-missing-coprocessor-driver-error-on-windows-11-a-comprehensive-solution/"><u>How to Recover From a Missing Coprocessor Driver Error on Windows 11 - A Comprehensive Solution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-asus-camera-connectivity-on-windows-10/"><u>Resolved ASUS Camera Connectivity on Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-4k-video-recorders-the-leading-18-models/"><u>[Updated] Best 4K Video Recorders  The Leading 18 Models</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-youtube-universe-uproar/"><u>[Updated] 2024 Approved  YouTube Universe Uproar</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-troubleshoot-and-resolve-a-nonworking-or-stuck-pclaptop-keyboard-one-step-at-a-time-article-title-detailed-steps-included409-chars/"><u>How To Troubleshoot and Resolve a Nonworking or Stuck PC/Laptop Keyboard, One Step at A Time (Article Title) – Detailed Steps Included!—409 Chars</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-controller-malfunction-alert/"><u>Corrected Controller Malfunction Alert</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unlock-your-chromebooks-potential-how-to-install-linux-for-2024/"><u>New Unlock Your Chromebooks Potential How to Install Linux for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-crafting-news-end-credits-a-step-by-step-guide/"><u>[Updated] In 2024, Crafting News End Credits  A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-normal-operation-of-right-click-on-windows-11-mousepad/"><u>Restore Normal Operation of Right Click on Windows 11 Mousepad</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-support-added-to-win-8-desktop/"><u>Device Support Added to Win 8 Desktop</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-lava-blaze-2-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Lava Blaze 2 5G</u></a></li>
+<li><a href="https://driver-error.techidaily.com/htc-desire-z-not-detected-on-fedora-core-linux-problem-solved/"><u>HTC Desire Z Not Detected on Fedora Core Linux, Problem Solved!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-vanishing-signal-proc-on-pcs/"><u>Resolve Vanishing Signal Proc on PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-fixes-bluetooth-radios-on-windows-resolved/"><u>Swift Fixes: Bluetooth Radios on Windows Resolved</u></a></li>
+</ul></div>

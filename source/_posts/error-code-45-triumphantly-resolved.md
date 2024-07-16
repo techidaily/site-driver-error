@@ -1,7 +1,7 @@
 ---
 title: "Error Code 45: Triumphantly Resolved"
-date: 2024-07-15 23:31:20
-updated: 2024-07-16 10:41:45
+date: 2024-07-15T06:49:26.172Z
+updated: 2024-07-16T06:49:26.172Z
 tags:
   - win11
   - win10
@@ -59,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 4. Tick the checkbox for**Delete the driver software for this device** and click**Uninstall** (if you’re prompted for confirmation).  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-3.png)
 5. In Device Manager, click**Action** on the menu bar and select**Scan for hardware changes** . This should refresh the system, then reinstall the device and its corresponding driver.  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-5.png)
 6. Restart your computer, then open Device Manager to check if the Code 45 issue has been fixed.
 
@@ -79,12 +82,18 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Fix 4: Run System File Checker
 
  System File Checker (SFC) is a built-in Windows tool that scans and repairs corrupted system files. If you encounter the Code 45 issue in Device Manager, it’s likely that the file responsible for your device is missing or corrupted. So you should run SFC to fix the problem. To do so:
 
 1. On your keyboard, press the**Windows logo key** . Then enter**cmd** .
 2. Right-click **Command Prompt** to select **Run as administrator** , and then click **Yes** if prompted for permission.  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 3. Once you see the command prompt, type **`sfc /scannow`**  and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-15.png)
@@ -102,8 +111,14 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 2. Right-click **Command Prompt** to select **Run as administrator** .  
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 3. The command prompt will once again display. Type in the command:`**chkdsk.exe /f /r**` and hit Enter.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-16.png)
 4. Type **Y** to confirm that you’d like to perform the disk check the next time you restart your computer. Please make sure you have closed all of your applications first.  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-17.png)
 
 **Note** : Running a disk check could take some time to complete. So if you don’t have the time to run the disk check the next time you boot, you can skip it and reschedule again by following the steps above.
@@ -174,3 +189,68 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-cutting-edge-alternatives-to-vimeos-video-editor/"><u>2024 Approved  Cutting Edge Alternatives to Vimeo's Video Editor</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-steps-how-to-repair-an-unresponsive-hp-bluetooth-keyboard/"><u>Solution Steps: How To Repair An Unresponsive HP Bluetooth Keyboard</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dialing-down-complication-e52-anomaly-explained/"><u>Dialing Down Complication: E52 Anomaly Explained</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-steps-for-capturing-online-conversations-for-2024/"><u>[New] Steps for Capturing Online Conversations for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-rapid-retrieval-for-missed-snaps/"><u>[New] 2024 Approved  Rapid Retrieval for Missed Snaps</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-device-based-mobile-gaming-experiences/"><u>Premium Device-Based Mobile Gaming Experiences</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-and-fix-why-isnt-my-hp-wireless-keyboard-working-step-by-step/"><u>Troubleshoot and Fix: Why Isn't My HP Wireless Keyboard Working? Step by Step</u></a></li>
+<li><a href="https://driver-error.techidaily.com/controller-failure-detected-at-ideport0/"><u>Controller Failure Detected at Ideport0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/efficient-troubleshooting-dealing-with-directx-errors/"><u>Efficient Troubleshooting: Dealing with DirectX Errors</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713950792074-looking-for-a-legitimate-tutorial-to-create-and-add-text-effects-in-adobe-premiere-pro-here-are-the-simple-steps-for-premiere-pro-text-effects-and-find-an-a/"><u>Looking for a Legitimate Tutorial to Create and Add Text Effects in Adobe Premiere Pro? Here Are the Simple Steps for Premiere Pro Text Effects and Find an Alternative Way for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reviving-lenovos-bt-functionality-on-windows-11/"><u>Reviving Lenovo's BT Functionality on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-guide-installing-latest-drivers-on-your-hp-envy-20-series-laptop/"><u>Ultimate Guide: Installing Latest Drivers on Your HP Envy 20 Series Laptop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-non-detected-end-usb-devices-troubleshooting-steps-for-windows-users/"><u>Fixing Non-Detected End USB Devices - Troubleshooting Steps for Windows Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-80211n-wi-fi-adapter-successfully-repaired-by-broadcom/"><u>Win 802.11N Wi-Fi Adapter Successfully Repaired by Broadcom</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-device-issues-in-windows-driver-hub/"><u>Fixing Device Issues in Windows Driver Hub</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unveiling-solutions-lenovo-bt-driver-on-win11/"><u>Unveiling Solutions: Lenovo BT Driver on WIN11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-resolution-non-active-gpu-monitor/"><u>Effortless Resolution: Non-Active GPU Monitor</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-itel-a70-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel A70 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-launching-joining-and-scheduling-zoom-calls-made-simple-for-android-users/"><u>2024 Approved  Launching, Joining, and Scheduling Zoom Calls Made Simple for Android Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/simplified-guide-to-transform-vimeo-video-into-mp3/"><u>Simplified Guide to Transform Vimeo Video Into MP3</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-to-boot-windows-8-into-safe-mode-and-remove-graphics-drivers/"><u>Steps to Boot Windows 8 Into Safe Mode & Remove Graphics Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-malfunctioning-inf-installation-clause/"><u>Correcting Malfunctioning INF Installation Clause</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-video-content-with-desktopmobile-timestamps-for-2024/"><u>[Updated] Elevate Your Video Content with Desktop/Mobile Timestamps for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-initialization-no-more-an-issue/"><u>Driver Initialization No More an Issue</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-navigate-windows-8-safe-mode-for-graphics-driver-uninstallation/"><u>How to Navigate Windows 8 Safe Mode for Graphics Driver Uninstallation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-driver-updates-for-the-hp-envy-20-pc-notebook/"><u>Mastering Driver Updates for the HP ENVY 20 PC Notebook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-tier-seo-strategies-to-elevate-your-podcast-rankings/"><u>In 2024, Top-Tier SEO Strategies to Elevate Your Podcast Rankings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-rapidly-rise-with-smart-instagram-reel-techniques/"><u>2024 Approved  Rapidly Rise with Smart Instagram Reel Techniques</u></a></li>
+<li><a href="https://driver-error.techidaily.com/taming-nonstop-buzz-effortlessly-resolving-unresponsive-bluetooth-devices-in-windows-11-done/"><u>Taming Nonstop Buzz - Effortlessly Resolving Unresponsive Bluetooth Devices in Windows 11 (Done!)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-zoom-for-the-first-timer-easy-to-follow-guidelines/"><u>[Updated] 2024 Approved  Zoom for the First Timer  Easy-to-Follow Guidelines</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-ndis-errors-on-windows-fast/"><u>Fixing NDIS Errors on Windows Fast</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-establish-connection-between-seagate-and-windows-10/"><u>Re-Establish Connection Between Seagate & Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-windows-ndis-errors-instantly/"><u>Mastering Windows NDIS Errors Instantly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-composite-device-explained-a-look-into-its-past-usage-and-current-relevance/"><u>USB Composite Device Explained: A Look Into Its Past Usage and Current Relevance</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-reno-11f-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo Reno 11F 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-sound-effects-voice-customization-on-instagram/"><u>2024 Approved  Mastering Sound Effects  Voice Customization on Instagram</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fast-fix-nvidia-geforce-experience-issue-now-solved/"><u>[Fast Fix] Nvidia GeForce Experience Issue – Now Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-connectivity-glitch-asus-webcam-and-win10/"><u>Corrected Connectivity Glitch: ASUS Webcam & Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-device-driver-issue/"><u>[Corrected: Device Driver Issue]</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oneplus-12r-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on OnePlus 12R FRP Bypass</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-capture-your-overwatch-saga-effortlessly-for-2024/"><u>[Updated] Capture Your Overwatch Saga Effortlessly for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ultimate-list-of-premium-internet-recorders-2023-for-2024/"><u>[New] Ultimate List of Premium Internet Recorders 2023 for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-rip-audio-from-instagram-fast-and-easy-methods/"><u>New 2024 Approved Rip Audio From Instagram Fast and Easy Methods</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/twice-the-joy-twice-the-fun-televised-repetition-made-easy/"><u>Twice the Joy, Twice the Fun  Televised Repetition Made Easy</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-made-easy-solutions-for-windows-11-8-and-7-device-compatibility/"><u>Driver Installation Made Easy - Solutions for Windows 11, 8 & 7 Device Compatibility</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/apeaksofts-screen-tech-revolution-2023-review-for-2024/"><u>Apeaksoft's Screen Tech Revolution  2023 Review for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win10-and-seagate-connection-woes-fix-now/"><u>Win10 & Seagate Connection Woes - Fix Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/update-and-fix-nvidia-driver-not-installed/"><u>Update & Fix: Nvidia Driver Not Installed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fix-restoring-power-to-your-non-responsive-bluetooth-functionality-on-win11-done/"><u>Quick Fix: Restoring Power to Your Non-Responsive Bluetooth Functionality on Win11 (Done!)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/simple-solution-set-for-disconnected-usb-mtps/"><u>Simple Solution Set for Disconnected USB MTPs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-venintanddev33a0-acpi-faults/"><u>Addressing VEN_INT&DEV_33A0 Acpi Faults</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-seamless-blend-enhancing-your-ae-projects-with-luts/"><u>[New] The Seamless Blend  Enhancing Your AE Projects with LUTs</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-budget-friendly-art-of-audio-resurrection-free-methods-for-pulling-audio-from-videos/"><u>New The Budget-Friendly Art of Audio Resurrection Free Methods for Pulling Audio From Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-driver-fails-to-remove-resolution-found/"><u>Nvidia Driver Fails to Remove - Resolution Found</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-13c-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Xiaomi Redmi 13C 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-identify-and-fix-usb-device-issues-windows-78/"><u>How to Identify and Fix USB Device Issues Windows 7/8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/zero-stutter-in-win11-upgrade/"><u>Zero Stutter in Win11 Upgrade</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-breeze-through-your-latest-fb-watches-2023-edition-for-2024/"><u>[New] Breeze Through Your Latest FB Watches  2023 Edition for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-streamlining-your-way-to-high-quality-android-recordings/"><u>[Updated] Streamlining Your Way to High-Quality Android Recordings</u></a></li>
+</ul></div>

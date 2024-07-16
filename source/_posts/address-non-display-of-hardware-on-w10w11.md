@@ -1,7 +1,7 @@
 ---
 title: Address Non-Display of Hardware on W10/W11
-date: 2024-07-13 12:34:56
-updated: 2024-07-16 12:47:13
+date: 2024-07-15T06:51:59.566Z
+updated: 2024-07-16T06:51:59.566Z
 tags:
   - win11
   - win10
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
  Method 3:[**Manually fix corrupted registry entries**](https://tidio.pxf.io/9grog5)
  Method 4:[**Create a registry subkey**](https://modlily.sjv.io/aw92wr)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **1: Uninstall IDE ATA/ ATAPI controllers**
 
  One of the reasons why you can’t see DVD/CD-ROM in your Windows 10 PC could be faulty device drivers. You can reinstall the drivers to fix it. Here is how:
@@ -71,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
 ## **3: Manually fix corrupted registry entries**
@@ -107,10 +113,16 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
  2) Follow the path:
 **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\atapi\\**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd3791d37b.png)
 
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
 
  4) Create a new**Controller0** key under**atapi** key.
@@ -119,6 +131,9 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
 
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
@@ -143,3 +158,50 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://audio-editing.techidaily.com/royal-sonata-sessions-an-elite-selection-of-free-original-piano-music-ideal-for-film-and-video-creation/"><u>Royal Sonata Sessions An Elite Selection of Free, Original Piano Music Ideal for Film & Video Creation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-adb-device-not-found-error-on-windows/"><u>[Solved] ADB Device Not Found Error on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unresponsive-windows-10-audio-usb-speakermicrocteased/"><u>Unresponsive Windows 10 Audio: USB Speaker/Microcteased</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-definition-devices-top-15-for-uhd-video/"><u>[Updated] High-Definition Devices  Top 15 for UHD Video</u></a></li>
+<li><a href="https://driver-error.techidaily.com/coprocessor-driver-missing-on-windows-11-solved/"><u>Coprocessor Driver Missing on Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-establish-connection-between-seagate-and-windows-10/"><u>Re-Establish Connection Between Seagate & Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-capturing-quality-video-on-macbook/"><u>2024 Approved  Capturing Quality Video on MacBook</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-from-dream-to-documentation-essential-ways-to-record-your-sims-epic-quests-in-sims-4-for-2024/"><u>[New] From Dream to Documentation  Essential Ways to Record Your Sims' Epic Quests in Sims 4 for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/zoom-voice-modifiers-6-expert-tips-to-make-every-meeting-unforgettable-and-entertaining-for-2024/"><u>Zoom Voice Modifiers 6 Expert Tips to Make Every Meeting Unforgettable and Entertaining for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-reign-in-your-posts-the-ultimate-guide-to-choosing-8-best-timers/"><u>In 2024, Reign in Your Posts  The Ultimate Guide to Choosing 8 Best Timers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-y78plus-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo Y78+ Location | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-establish-connection-seagate-hdd-and-windows-11/"><u>Re-Establish Connection: Seagate HDD & Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-device-compatibility-installing-necessary-drivers-for-windows-11-8-and-7-machines/"><u>Mastering Device Compatibility: Installing Necessary Drivers for Windows 11, 8 & 7 Machines</u></a></li>
+<li><a href="https://driver-error.techidaily.com/zero-stutter-in-win11-upgrade/"><u>Zero Stutter in Win11 Upgrade</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-windows-ndis-errors-instantly/"><u>Mastering Windows NDIS Errors Instantly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-updating-hp-envy-20-series-pc-drivers/"><u>Step-by-Step Guide: Updating HP Envy 20 Series PC Drivers</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-8-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 8 Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-navigate-windows-8-safe-mode-for-graphics-driver-uninstallation/"><u>How to Navigate Windows 8 Safe Mode for Graphics Driver Uninstallation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-faulty-installations-how-to-validate-device-drivers-for-your-system/"><u>Fixing Faulty Installations: How to Validate Device Drivers for Your System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-lost-pci-controller-in-windows/"><u>Restoring Lost PCI Controller in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-restoring-amd-wattman-settings-post-crash-successfully-solved/"><u>Troubleshooting and Restoring AMD Wattman Settings Post-Crash Successfully Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-outdated-usb-composite-device-issues/"><u>How to Fix: Outdated USB Composite Device Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-malfunctioning-inf-installation-clause/"><u>Correcting Malfunctioning INF Installation Clause</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-camtasia-tutorial-control-video-speed/"><u>In 2024, Camtasia Tutorial Control Video Speed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-identify-and-fix-usb-device-issues-windows-78/"><u>How to Identify and Fix USB Device Issues Windows 7/8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/closed-case-missing-driver-for-amdintel-video-in-premier-pro/"><u>Closed Case: Missing Driver for AMD/Intel Video in Premier Pro</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtubes-monetization-a-deep-dive/"><u>[New] YouTube's Monetization  A Deep Dive</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-uploads-more-views-youtubes-easily-overlooked-hacks/"><u>[Updated] 2024 Approved  Free Uploads, More Views  YouTube's Easily Overlooked Hacks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-device-misconfiguration-insights-into-error-code-1/"><u>Troubleshooting and Solving Device Misconfiguration: Insights Into Error Code 1</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-vertical-rotation-problem-a-guide-to-correcting-upended-videos-on-your-asus-device/"><u>Resolving the Vertical Rotation Problem: A Guide to Correcting Upended Videos on Your ASUS Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-directors-success-powerdirector-2024/"><u>[Updated] Ultimate Guide to Directors' Success - PowerDirector 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-steps-how-to-repair-an-unresponsive-hp-bluetooth-keyboard/"><u>Solution Steps: How To Repair An Unresponsive HP Bluetooth Keyboard</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-ethical-considerations-for-saving-whatsapp-conversations/"><u>[New] In 2024, Ethical Considerations for Saving WhatsApp Conversations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-alternatives-to-vlc-revealed-in-detailed-review/"><u>2024 Approved  Alternatives to VLC Revealed in Detailed Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-to-boot-windows-8-into-safe-mode-and-remove-graphics-drivers/"><u>Steps to Boot Windows 8 Into Safe Mode & Remove Graphics Drivers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-windows-movie-maker-free-download-and-installation-a-simple-guide-for-2024/"><u>New Windows Movie Maker Free Download and Installation A Simple Guide for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-gtx-43/"><u>Fixing the GTX 지오크스 43 오류 문제: 웹사이트에서 찾기 위한 금고 해결 방식</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-not-found-bcm20702a0/"><u>Driver Not Found: BCM20702A0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-bsod-blue-screen-error-code-0x0000007e-in-windows-7/"><u>How to Fix the BSOD (Blue Screen) Error Code 0X0000007E in Windows 7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-motorola-edge-40-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bcm20702a0-hardware-error-notification/"><u>BCM20702A0 Hardware Error Notification</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-non-functional-dts-truehd-in-windows-post-failed-update-solution-found/"><u>Troubleshooting Non-Functional DTS™ TrueHD in Windows Post Failed Update – Solution Found!✅</u></a></li>
+</ul></div>

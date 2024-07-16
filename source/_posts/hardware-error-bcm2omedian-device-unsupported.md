@@ -1,7 +1,7 @@
 ---
 title: Hardware Error - BCM2omedian Device Unsupported
-date: 2024-07-15 12:34:17
-updated: 2024-07-16 11:39:52
+date: 2024-07-15T06:49:41.087Z
+updated: 2024-07-16T06:49:41.087Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 
  The**BCM20702A0 driver is unavailable error** indicates there are no compatible drivers or the drivers for this device are not installed. It will prevent specific Bluetooth components from communicating with your operating system properly. If you encounter this problem, don’t worry. Here are some real fixes for you to get it solved easily.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all. Just work from the top down until you find the one that solves your problem.
@@ -26,11 +29,17 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 3. [**Reinstall/update your BCM20702A0 driver**](https://uperfect.sjv.io/g1jgba)
 4. **[Check the Bluetooth service](https://oneplusfr.sjv.io/lxv4am)**
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1 – Turn on and off the Airplane mode
 
  As many users reported, turning on and then off the Airplane mode can address the BCM20702A0 driver issue. So before you go on with some complicated steps, try this trick and see if it works for you.
 
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to enter the Settings menu. Select**Network & Internet** .  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/turn-on-and-off-airplane-mode-1.jpg)
 2. Select the**Airplane mode** from the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/turn-on-and-off-airplane-mode-2.jpg)
@@ -40,11 +49,17 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 
 Check if your Bluetooth works. If not, continue to the second fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2 – Run the Bluetooth troubleshooter
 
  The Windows troubleshooter is one of the most convenient and effective ways to resolve hardware glitches. You can take advantage of this utility to troubleshoot the BCM20702A0 driver issue as follow.
 
 1. In the Windows search box, type**troubleshoot** and click**Troubleshoot settings** .  
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-1-2.jpg)
 2. Scroll down to find**Bluetooth** and click it. Then click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2-5.jpg)
@@ -116,3 +131,53 @@ Now test your device and see if the error gets fixed.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/revising-illegal-configuration-segment-in-inf/"><u>Revising Illegal Configuration Segment in INF</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reestablishing-enter-input-on-windows-os/"><u>Reestablishing Enter Input on Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-error-reported-bcm20702a0/"><u>Driver Error Reported - BCM20702A0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-cant-turn-off-on-windows-11-solved/"><u>Bluetooth Can't Turn Off on Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimized-video-recording-fixed-asus-usb-camera-for-win10-users/"><u>Optimized Video Recording: Fixed ASUS USB Camera for Win10 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/force-abandoned-for-a-flawless-graphics-setup/"><u>Force Abandoned for a Flawless Graphics Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/patched-audio-delay-with-asus-webcam-and-windows-11-blend/"><u>Patched Audio Delay with ASUS Webcam & Windows 11 Blend</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-guide-to-iphonedesktop-video-change-top-8-recommendations/"><u>[Updated] The Ultimate Guide to iPhone/Desktop Video Change  Top 8 Recommendations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-do-i-canin-and-more-than/"><u>How Do I Can'in (and More Than</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-fixes-what-to-do-when-windows-10-doesnt-recognize-the-coprocessor-driver/"><u>Comprehensive Fixes: What to Do When Windows 10 Doesn't Recognize the Coprocessor Driver</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-verdict-vidmas-role-in-modern-screen-capture-for-2024/"><u>[New] The Verdict  Vidma’s Role in Modern Screen Capture for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-compatibility-issues-when-idt-software-cant-support-detected-hardware/"><u>Fixing Compatibility Issues: When IDT Software Can’t Support Detected Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unblock-your-nonworking-laptop-keys-a-simple-guide-to-restore-functionality-in-no-time-tech-talker-359-chars/"><u>Unblock Your Nonworking Laptop Keys: A Simple Guide to Restore Functionality in No Time - Tech Talker 359 Chars</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-errors-ensuring-proper-driver-validation-for-your-pcs-hardware/"><u>Fixing Errors: Ensuring Proper Driver Validation for Your PC's Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unable-to-load-devices-wudfrd-driver-event-id-219/"><u>Unable to Load Device's WudfRd Driver (Event ID: 219)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-and-windows-11-resolving-non-functional-bluetooth-driver-problems/"><u>Qualcomm Atheros and Windows 11: Resolving Non-Functional Bluetooth Driver Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-intel-me-errors/"><u>Resolving Intel ME Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-devhub-48-issue/"><u>Resolved: DevHub #48 Issue</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-ranked-ios-tools-to-experience-real-psp-games/"><u>Top-Ranked iOS Tools to Experience Real PSP Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultrawide-vs-uhd-4k-monitors-the-experts-advice/"><u>In 2024, UltraWide VS UHD 4K Monitors  The Expert's Advice</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-pci-card-installers-win-10-8-7/"><u>Comprehensive PCI Card Installers (Win 10, 8, 7)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-nvidia-geforce-gtx-950-code-43-problems-on-your-windows-10-pc/"><u>How to Fix NVIDIA GeForce GTX 950 'Code 43' Problems on Your Windows 10 PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-struggles-with-devices-driver-search/"><u>Windows Struggles with Device's Driver Search</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-detected-hardware-lacking-support-for-your-idt-software-system/"><u>Solve Detected Hardware Lacking Support for Your IDT Software System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721100561642-tackling-vintage-usb-composite-unit-issues-solutions-for-a-smarter-connection/"><u>Tackling Vintage USB Composite Unit Issues - Solutions for a Smarter Connection!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-oppo-reno-8t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Oppo Reno 8T</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-installation-errors-why-your-device-driver-might-be-invalid/"><u>Solving Installation Errors: Why Your Device Driver Might Be Invalid</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsungs-virtual-machine-suite-for-pc-users/"><u>Samsung's Virtual Machine Suite for PC Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-free-divx-video-trimming-tools-top-picks-for-2024/"><u>New Free Divx Video Trimming Tools Top Picks for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-prevent-your-amd-radeon-wattman-from-crashing-settings-restored-guide/"><u>How to Prevent Your AMD Radeon Wattman From Crashing: Settings Restored Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/gastronomy-galore-cross-country-foodie-favorites-on-tiktok/"><u>Gastronomy Galore  Cross-Country Foodie Favorites on TikTok</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-when-windows-ignores-your-latest-usb-attachment/"><u>Troubleshooting Steps When Windows Ignores Your Latest USB Attachment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-immediate-fix-for-itbm-driver-not-available-error-messages-on-your-device/"><u>Guide to Immediate Fix for 'ITBM Driver Not Available' Error Messages on Your Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dealing-with-old-school-usb-composite-devices-solutions-and-tips-for-seamless-connectivity/"><u>Dealing with Old-School USB Composite Devices: Solutions and Tips for Seamless Connectivity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-laptop-display-glitch-resolved-methods-to-correct-vertically-reversed-videos/"><u>ASUS Laptop Display Glitch Resolved: Methods to Correct Vertically Reversed Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-code-37-windows-cannot-initialize-the-device-driver-for-this-hardware/"><u>[Solved] Code 37: Windows Cannot Initialize the Device Driver for This Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-solution-to-the-missing-enhanced-processor-driver-problem-in-windows-10-explained/"><u>The Ultimate Solution to the Missing Enhanced Processor Driver Problem in Windows 10 Explained</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-malfunction-heres-how-you-can-repair-it/"><u>HP Wireless Keyboard Malfunction? Here's How You Can Repair It</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102279377-how-to-fix-the-last-usb-device-malfunctioned-and-windows-doesnt-recognize-it/"><u>How to Fix The Last USB Device Malfunctioned and Windows Doesn't Recognize It</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-mistakes-to-avoid-as-a-new-youtuber/"><u>[New] 8 Mistakes to Avoid as a New Youtuber</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosed-storage-system-issue/"><u>Diagnosed Storage System Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repairing-qualcomm-atheros-bluetooth-driver-failures-on-microsofts-latest-os/"><u>Repairing Qualcomm Atheros Bluetooth Driver Failures on Microsoft's Latest OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-base-system-device-driver-issue-in-device-manager/"><u>How to Fix Base System Device Driver Issue in Device Manager</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-hobbyist-to-pro-optimal-cameras-for-youtubing/"><u>[New] 2024 Approved  From Hobbyist to Pro  Optimal Cameras For YouTubing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-and-simple-how-to-update-windows-10s-deadriver-seamlessly/"><u>Swift and Simple: How to Update Windows 10'S DeaDriver Seamlessly</u></a></li>
+</ul></div>

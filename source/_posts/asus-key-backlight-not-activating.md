@@ -1,7 +1,7 @@
 ---
 title: Asus Key Backlight Not Activating
-date: 2024-07-13 14:19:14
-updated: 2024-07-16 12:28:56
+date: 2024-07-15T06:46:47.342Z
+updated: 2024-07-16T06:46:47.342Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/fc45e4935b2783be1c5dc416a8cddc7dff02a0dd6
 
  If you find your**ASUS keyboard backlight not working** , please rest assured that you’re not alone. Just follow this tutorial step by step and you’ll easily get the problem fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 Ways to fix the ASUS keyboard backlight not working
 
  Here are two ways that have proved useful to other ASUS users. You don’t have to try them all; just work your way from the top down until you find the one that works for you.
@@ -46,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/fc45e4935b2783be1c5dc416a8cddc7dff02a0dd6
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Way 2: Download and install the latest drivers**
 
  As reported by some users, they couldn’t turn on the keyboard backlight after updating their operating system. If that’s when you encounter the issue, you should download and install the latest drivers (including ATK Package drivers and Smart Gesture drivers) that control the backlight function of your notebook.
@@ -65,7 +71,13 @@ OR
  To update the drivers manually, you should perform the following procedure:
 
 1. Find your way to the download center of ASUS, or you can simply click **[here](https://www.asus.com/support/Download-Center/)**  .
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. On the pop-up page, enter the model name of your laptop to search for its drivers. If you don’t know its exact model, then try to select a product from the given list. After that, hit**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-48.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 3. On the next page, select your Windows version. Then you’ll be greeted with a list of drivers and programs available for download.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-25-19.jpg)
 4. Scroll through the list until you find the following two drivers:**Smart Gesture** driver and**ATK Package** driver. Then, click on the**DOWNLOAD** button next to each driver.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-31-49.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-45-12.jpg)
 5. Wait till the download process is complete. The two downloaded files are compressed, so you need to extract them to a desired location.
@@ -83,6 +95,9 @@ OR
  You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_19-17-09.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the ATK Package driver for now, simply click the **Update**  button next to it. ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_19-15-46.jpg)
 
@@ -111,3 +126,41 @@ OR
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unlock-your-screen-androids-premier-free-recorder-tools-for-2024/"><u>[Updated] Unlock Your Screen  Android's Premier Free Recorder Tools for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-troubles-solve-your-qualcomm-atheros-driver-problems-on-windows-10-today/"><u>Bluetooth Troubles? Solve Your Qualcomm Atheros Driver Problems on Windows 10 Today</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lost-hardware-detectability-on-win-oses/"><u>Lost Hardware Detectability on Win OSes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-how-to-record-zoom-meeting/"><u>[New] In 2024, How to Record Zoom Meeting</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-narzo-n53-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme Narzo N53 Phone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/trouble-locating-your-new-pcs-prodigy-cam-no-more-stress-got-answers-and-fixes-to-look-into-fixed/"><u>Trouble Locating Your New PC's Prodigy Cam? No More Stress - Got Answers and Fixes to Look Into [Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensured-smooth-data-flow-on-drives/"><u>Ensured Smooth Data Flow on Drives</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-solution-to-incessant-bluetooth-on-win11-pcs/"><u>The Solution to Incessant Bluetooth on WIN11 PCs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pinnacle-ios-solutions-the-best-ps2-game-emulators-for-2024/"><u>Pinnacle IOS Solutions  The Best PS2 Game Emulators for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-instagram-stories-integrating-personalized-graphics/"><u>[New] 2024 Approved  Mastering Instagram Stories  Integrating Personalized Graphics</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/dance-craze-goes-global-2024/"><u>Dance Craze Goes Global 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reverse-engineering-failed-enex-loading-phenomenon-in-win11/"><u>Reverse Engineering Failed eNEX Loading Phenomenon in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-make-seagate-external-recognized-by-w10/"><u>How to Make Seagate External Recognized by W10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-unsupported-hardware-errors-with-your-current-software-suite/"><u>Resolving Unsupported Hardware Errors with Your Current Software Suite</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-unsuccessful/"><u>Driver Installation Unsuccessful</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-drive-audience-participation-through-custom-stories-queries/"><u>[Updated] 2024 Approved  Drive Audience Participation Through Custom Stories Queries</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-sailing-windows-10-lenovo-bt-driver/"><u>Smooth Sailing: Windows 10, Lenovo BT Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-common-problems-with-hp-keyboards-a-comprehensive-guide/"><u>Resolving Common Problems with HP Keyboards: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/varieties-of-fb-video-screens/"><u>Varieties of FB Video Screens</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-inactive-to-active-status/"><u>From Inactive to Active Status</u></a></li>
+<li><a href="https://driver-error.techidaily.com/identifying-non-detectable-cddvds-in-w10w11/"><u>Identifying Non-Detectable CD/DVDs in W10/W11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-faulty-venintanddev33a0-acpi-driver/"><u>Addressing Faulty VEN_INT&DEV_33A0 Acpi Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/address-repeated-amd-drivers-crashes/"><u>Address Repeated AMD Drivers Crashes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ideal-screen-snappers-top-5-picks/"><u>2024 Approved  Ideal Screen Snappers  Top 5 Picks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-disappearing-win1110-pci-devices/"><u>Tackling Disappearing Win11/10 PCI Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/a-comprehensible-guide-to-updating-razers-bios-driver-for-pc-users/"><u>A Comprehensible Guide to Updating Razer's BIOS Driver for PC Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlock-usb-functionality-for-win-78-hardware/"><u>Unlock USB Functionality for Win 7/8 Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/name-seek-opengl-drivers-for-intels-chipset/"><u>Name Seek: OpenGL Drivers for Intel's Chipset</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-sm-bus-driver-problems-in-windows/"><u>Overcoming Sm Bus Driver Problems in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-for-asus-pcs-in-win10/"><u>Troubleshooting Guide for ASUS PCs in Win10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-pro-building-a-high-quality-unboxing-series-for-2024/"><u>[Updated] From Novice to Pro  Building a High-Quality Unboxing Series for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-integration-limitation-for-graphic-driver/"><u>Hardware Integration Limitation for Graphic Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104701290-windows-users-solve-your-wireless-keyboard-problem-today/"><u>Windows Users: Solve Your Wireless Keyboard Problem Today!</u></a></li>
+</ul></div>
