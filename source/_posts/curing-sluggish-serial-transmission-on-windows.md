@@ -1,0 +1,146 @@
+---
+title: Curing Sluggish Serial Transmission on Windows
+date: 2024-08-02T07:30:07.476Z
+updated: 2024-08-03T07:30:07.476Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverError
+description: This Article Describes Curing Sluggish Serial Transmission on Windows
+excerpt: This Article Describes Curing Sluggish Serial Transmission on Windows
+thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a71e7a06fbd4b66d64319f0c.jpg
+---
+
+## Curing Sluggish Serial Transmission on Windows
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb06fba6a83e.png)
+
+ Fail to connect your devices with Windows 10 using the Prolific USB to Serial adapter cable? Besides, you might notice there’s a yellow warning mark with Prolific USB to Serial driver in Device Manager. That could be frustrating…
+
+ Don’t panic. Certainly, you’re not the only one. We’ve seen many Windows users reporting this**Prolific USB to Serial driver not working on Windows** issue. More importantly, you can easily fix it with the solutions here. Read on and see how…
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Try these fixes
+
+1. **[Update your Prolific USB to Serial driver to the latest version](https://bluettide.pxf.io/ekmjb2)**
+2. **[Roll your Prolific USB to Serial driver back to an older version](https://pish-posh-baby.sjv.io/g1jg15)**
+
+### Solution 1: Update your Prolific USB to Serial driver to the latest version
+
+ Your not working Prolific USB to Serial driver problem could be caused by the**corrupted, missing, or outdated driver itself** . So it would help if you update the driver to the latest version.
+
+ You can update your Prolific USB to Serial driver to the latest version either manually or automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+1. **Manual driver update –** You can update your Prolific USB to Serial driver manually by going to the official [Prolific website](http://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41&showlevel=0041-0041) , and searching for the most recent correct driver. Be sure to choose the only driver that is compatible with your Windows version.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb06e0d6f148.jpg)
+2. **Automatic driver update –** If you don’t have the time, patience, or computer skills to update your Prolific USB to Serial driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your exact Prolific adapter, and your Windows version, and it will download and install them correctly:
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb0704ce6b75.jpg)
+3. Click**Update** next to the flagged Prolific USB to Serial driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version).  
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back** guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb072bf3dffe.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
+### Solution 2: Roll your Prolific USB to Serial driver back to an older version
+
+ You may note that up-to-date drivers always keep your devices working in the best condition. But sometimes the latest driver doesn’t work with old hardware.
+
+ When you upgrade your older Windows system to the latest version or perform updates directly on Windows, the Prolific USB to Serial driver also gets updated, and if it doesn’t work with your old hardware, you might have this problem. So you can try to**downgrade your Prolific USB to Serial driver** .
+
+Here’s how you can do it:
+
+1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run dialog box.
+2. Type**devmgmt.msc** and hit Enter.  
+![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
+3. Double-click**Ports(COM & LPT)** , then**right-click** on your Prolific USB to Serial driver to select**Update driver** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075701f308.jpg)
+4. Click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075c361cc6.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+5. Select**Let me pick from a list of available drivers on my computer** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075da68269.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+6. Select an older version on the Model list. Then**Next** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb076059c302.jpg)
+
+ Then the driver you select would be installed on your Windows 10 computer automatically.
+
+Once it’s done, connect your device again and see if it goes well.
+
+---
+
+ Hopefully this helps. Feel free to comment below with your own experiences.
+
+* [driver](https://tools.techidaily.com/drivereasy/download/)
+* [USB](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-enhance-your-media-with-top-free-android-editing-tools/"><u>[New] 2024 Approved  Enhance Your Media with Top Free Android Editing Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-convenient-cornerstone-building-your-online-channel-anywhere-and-everytime/"><u>[New] In 2024, Convenient Cornerstone  Building Your Online Channel, Anywhere & Everytime</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-live-capture-success-explore-4-effective-recording-strategies/"><u>[Updated] 2024 Approved  Live Capture Success  Explore 4 Effective Recording Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-understanding-facebook-reels-and-their-production-techniques/"><u>[Updated] 2024 Approved  Understanding Facebook Reels and Their Production Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-tips-for-maximizing-iphone-xs-cinematic-shots/"><u>[Updated] Top Tips for Maximizing iPhone X's Cinematic Shots</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-global-viewer-count-triumphs-play-button-honors/"><u>2024 Approved  Global Viewer Count Triumphs  Play Button Honors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-placement-boosting-youtube-video-visibility/"><u>2024 Approved  Optimal Placement  Boosting YouTube Video Visibility</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-oceans-archive-best-practices-in-capturing-professional-underwater-footage/"><u>2024 Approved  The Ocean’s Archive  Best Practices in Capturing Professional Underwater Footage</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-standard-the-ultimate-guide-to-excellent-nintendo-switch-docks-of-2024/"><u>A New Standard: The Ultimate Guide to Excellent Nintendo Switch Docks of 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ax201-wi-fi-6ax201-initialization-errors-solved/"><u>AX201: Wi-Fi 6Ax201 Initialization Errors Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-unresponsive-windows-10-a-step-by-step-guide/"><u>Bluetooth Unresponsive – Windows 10: A Step by Step Guide!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/click-without-frustration-on-win10/"><u>Click Without Frustration on Win10</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehending-xbox-protective-sheets/"><u>Comprehending Xbox Protective Sheets</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-install-newest-driver-software-on-hp-envy-20-laptops/"><u>Easy Steps to Install Newest Driver Software on HP Envy 20 Laptops</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminate-disk-maximum-usage-in-windows/"><u>Eliminate Disk Maximum Usage in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/essential-guide-installing-latest-drivers-for-the-all-new-hp-envy-m7-model/"><u>Essential Guide: Installing Latest Drivers for the All-New HP Envy M7 Model</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-video-controller-driver-issue-in-windows-10-easily/"><u>Fix Video Controller Driver Issue in Windows 10. Easily</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-xiaomi-redmi-12-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi Redmi 12 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-code-43-error-on-your-gtx-950-under-windows-10-detailed-guide/"><u>Fixing the Code 43 Error on Your GTX 950 Under Windows 10 [Detailed Guide]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-iphone-mass-storage-error-with-easy-steps/"><u>How to Fix the iPhone Mass Storage Error with Easy Steps</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-novices-guide-to-vectors-insight-into-types-and-software-choices/"><u>In 2024, Novice's Guide to Vectors  Insight Into Types & Software Choices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intels-opengl-drivers-what-are-they-called/"><u>Intel's OpenGL Drivers, What Are They Called?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/masterfb-mp4-the-ultimate-downloader-for-vids/"><u>MasterFB-MP4  The Ultimate Downloader for Vids</u></a></li>
+<li><a href="https://driver-error.techidaily.com/prevented-photo-lag-with-asus-webcam-optimization-on-win11/"><u>Prevented Photo Lag with ASUS Webcam: Optimization on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-reluctance-of-enex-to-load-in-windows-11/"><u>Resolving the Reluctance of eNEX to Load in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsungs-operating-system-for-the-winning-computer/"><u>Samsung's Operating System for the Winning Computer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-sync-mouse-and-window-harmony/"><u>Seamless Sync: Mouse & Window Harmony</u></a></li>
+<li><a href="https://windows11.techidaily.com/speedy-task-execution-windows-keyboard-tips-and-tricks/"><u>Speedy Task Execution: Windows Keyboard Tips & Tricks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-nvidiaamd-graphics-drivers-on-windows-8/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing NVIDIA/AMD Graphics Drivers on Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-resolving-failed-to-install-hcmon-driver-issues/"><u>Step-by-Step Guide: Resolving 'Failed to Install HCMon Driver' Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/strategies-for-correcting-windows-acpi-issues-on-asus-devices/"><u>Strategies for Correcting Windows Acpi Issues on ASUS Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-battlenee-error-code-1450-resolve-failed-driver-loading-problems/"><u>Troubleshooting Battlenee Error Code 1450: Resolve Failed Driver Loading Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-resolving-driver-installation-unrecognized-on-your-pc/"><u>Troubleshooting Steps: Resolving 'Driver Installation Unrecognized on Your PC'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-activating-safe-mode-on-windows-8-to-remove-problematic-graphics-card-drivers/"><u>Troubleshooting Tips: Activating Safe Mode on Windows 8 to Remove Problematic Graphics Card Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unraveling-intel-mmc-driver-woes/"><u>Unraveling Intel MMC Driver Woes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsuccessful-driver-installation-by-os/"><u>Unsuccessful Driver Installation by OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-earbuds-not-working-on-win10-simple-fix-guide/"><u>USB Earbuds Not Working on WIN10 - Simple Fix Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/viking-voices-vanished-a-linguistic-quest-through-time/"><u>Viking Voices Vanished: A Linguistic Quest Through Time</u></a></li>
+</ul></div>

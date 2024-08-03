@@ -1,0 +1,189 @@
+---
+title: Address Frequent AMD Crashes Swiftly
+date: 2024-08-02T07:29:08.072Z
+updated: 2024-08-03T07:29:08.072Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverError
+description: This Article Describes Address Frequent AMD Crashes Swiftly
+excerpt: This Article Describes Address Frequent AMD Crashes Swiftly
+thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f0f8b2cf5d7bebdde4893059.jpg
+---
+
+## Address Frequent AMD Crashes Swiftly
+
+ If your computer keeps running into the**AMD driver crashing** issue, don’t worry. It’s usually easy to fix…
+
+## 3 Fixes for AMD Drivers Crash
+
+ Just work your way down until the**AMD driver crashing** issue is resolved.
+
+1. [**Update the faulty AMD driver (nearly always fixes the problem)**](#F1)
+2. [**Roll back the faulty AMD driver**](https://zebaoaffiliateprogram.pxf.io/xkwqe1)
+3. **[Repair system files](https://newchic.sjv.io/jzg4zq)**
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
+## Fix 1: Update the faulty AMD driver (nearly always fixes the problem)
+
+ Perhaps the most common cause of the**AMD driver crash** error is an outdated or corrupt AMD driver. So you should update your AMD drivers to see if it fixes the problem.  If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making mistakes when installing.
+
+ You can update your drivers automatically with either the [**7 days free trial**](https://tools.techidaily.com/drivereasy/download/) or the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. It takes just 2 clicks, and you get full support and a 30-day money-back guarantee with the Pro version:
+
+1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
+3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
+![](https://www.drivereasy.com/wp-content/uploads/2020/12/AMD-Radeon-RX-6700-XT.jpg)
+4. After updating, restart your computer to take effect.
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+---
+
+## Fix 2: Roll back the faulty AMD driver
+
+ If you never have this**AMD driver crashing** issue until recently when you updated the most recent driver, chances are it’s this new driver that’s causing the problem. So we should try rolling it back to the previous version.
+
+Here’s how:
+
+1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
+![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
+2. Locate on **the faulty AMD driver** and double-click on it.
+3. Click the **Driver** tab and then click **Roll Back Driver** .  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-1.png)
+4. Click **Yes** to confirm. Then the driver will be restored to a previous version.
+5. **Restart** you computer and check if the problem is resolved.
+
+## Fix 3: Repair system files
+
+ Missing, corrupt or damaged system files may cause display drivers to crash. To eliminate this issue as a possible cause, you can try the 2 ways below to repair possible system file issues.
+
+1. [**Repair & replace corrupt system files with Fortect**](https://tinyland.pxf.io/org4ra)
+2. [**Run SFC scan**](https://homestyler.sjv.io/y209g3)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
+### Repair & replace corrupt system files with Fortect
+
+ The driver crashing issue could be caused by corrupt system files.[**Fortect**](https://tools.techidaily.com/drivereasy/download/) is a tool that specializes in Windows repairing and fixes corrupt files automatically.
+
+ With **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , the preliminary will scan your computer’s operating system for viruses, malware, missing, damaged, or corrupt files, then it removes all problematic files found and replaces them with new healthy files. It’s like a clean reinstall of your operating system, except that you won’t lose any user data, and all programs, settings are exactly as they are before the repair.
+
+Here’s how to use Fortect to repair system files on your PC:
+
+1. [Download](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
+2. Fire up Fortect and run a free scan.
+3. Once finished, Fortect will generate a detailed report of your computer health, which includes all possible issues detected.
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+4. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+5. Restart your computer for the changes to take effect.
+6. Check your computer to see if the driver crash issue is fixed.
+
+ If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
+
+### Run SFC scan
+
+**System File Checker** (**SFC**) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files(including those related to **BSOD**). To **run the SFC scan** :
+
+1. On your keyboard, press the**Windows logo key**  and type **cmd** . Then click **Run as administrator** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2022/03/cmd-run-as-admin-1.jpg)
+2. Click**Yes** when prompted to confirm.
+3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
+![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
+
+ It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+4. Restart your computer for the changes to take effect.
+5. Check your computer to see if the**AMD drivers crashing** problem has been fixed.
+
+---
+
+ How have the fixes above helped you with your troubleshooting? Do you have any experiences or ideas to share with us? Feel free to drop a comment below and let us know your thoughts. 🙂
+
+* [AMD](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-innovative-techniques-for-final-frame-enhancements-on-vimeo/"><u>[New] 2024 Approved  Innovative Techniques for Final Frame Enhancements on Vimeo</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-recording-your-mac-experience-for-free/"><u>[New] 2024 Approved  Recording Your Mac Experience for FREE</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-dreamscape-films-entering-vr-worlds/"><u>[New] In 2024, Dreamscape Films  Entering VR Worlds</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aunch-your-youtube-presence-step-by-step-guide-for-2024/"><u>[New] Launch Your YouTube Presence  Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-swift-shift-from-srt-to-text-your-modern-guide-for-speed/"><u>[New] Swift Shift From SRT to Text  Your Modern Guide for Speed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-asus-backlight-issue-identified/"><u>[SOLVED] ASUS Backlight Issue Identified</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audiovisual-mastery-imovie-sound-guide/"><u>[Updated] Audiovisual Mastery  IMovie Sound Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-shot-selection-mastery-making-every-frame-count-on-youtube/"><u>2024 Approved  Shot Selection Mastery  Making Every Frame Count on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-stepwise-approach-effortlessly-incorporate-subtitlescc-into-your-youtube-content/"><u>2024 Approved  Stepwise Approach  Effortlessly Incorporate Subtitles/CC Into Your YouTube Content</u></a></li>
+<li><a href="https://driver-error.techidaily.com/address-realtek-lan-problem-post-windows-10-upgrade/"><u>Address Realtek LAN Problem Post-Windows 10 Upgrade</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bridging-the-gap-fixing-hidden-bluetooth-status/"><u>Bridging the Gap: Fixing Hidden Bluetooth Status</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-nonfunctional-realtek-interface-after-upgrade/"><u>Corrected Nonfunctional Realtek Interface After Upgrade</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-vertical-display-errors-on-your-asus-computer/"><u>Correcting Vertical Display Errors on Your ASUS Computer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-error-code-bcm20702a0-unavailable/"><u>Driver Error Code BCM20702A0 Unavailable</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortless-solutions-overcoming-the-itbm-driver-access-problem/"><u>Effortless Solutions: Overcoming the ITBM Driver Access Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enable-functional-right-click-on-windows-11-touchpad-solved/"><u>Enable Functional Right-Click on Windows 11 Touchpad [Solved]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/engineer-eerie-gifs-using-giphy/"><u>Engineer Eerie Gifs Using Giphy</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhance-touchpad-functionality-fixed-right-click-in-windows-11/"><u>Enhance Touchpad Functionality - Fixed Right-Click in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-resolving-non-responsive-hp-keyboard-problems-with-ease/"><u>Expert Advice: Resolving Non-Responsive HP Keyboard Problems with Ease</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-handling-failed-to-install-the-hcmon-driver-error-on-windows-systems/"><u>Expert Tips: Handling 'Failed To Install The Hcmon Driver' Error on Windows Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-atheros-bluetooth-issues-on-windows-11-comprehensive-guide/"><u>Fixing Qualcomm Atheros Bluetooth Issues on Windows 11: Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-malfunction-of-your-latest-connected-usb-and-regaining-recognition-in-windows/"><u>Fixing the Malfunction of Your Latest Connected USB and Regaining Recognition in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-installer-maneuver-victory-achieved/"><u>Graphics Installer Maneuver – Victory Achieved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-mastery-achieved-no-installer-woes/"><u>Graphics Mastery Achieved – No Installer Woes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-driver-being-installed-is-not-validated-for-this-computer/"><u>How to Fix: The Driver Being Installed Is Not Validated for This Computer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-force-boot-into-secure-operating-environment-and-eliminate-graphics-driver-issues-on-windows-8-systems/"><u>How to Force Boot Into Secure Operating Environment and Eliminate Graphics Driver Issues on Windows 8 Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oppo-find-x6-devices-by-drfone-android/"><u>How to Reset Gmail Password on Oppo Find X6 Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-solve-itunes-recognition-failure-for-iphones-mtp-usb-driver-troubleshooting-tips/"><u>How to Solve iTunes Recognition Failure for iPhones: MTP USB Driver Troubleshooting Tips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-14-pro-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 14 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-iphone-15-pro-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 15 Pro Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/invalid-inf-alert-installation-fixed/"><u>Invalid INF Alert: Installation Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/issue-settled-amdintel-graphics-not-backed-by-premiere-pro/"><u>Issue Settled: AMD/Intel Graphics Not Backed by Premiere Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-non-operational-windows-enter/"><u>Overcoming Non-Operational Windows Enter</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-persistent-nvidia-driver-self-removal/"><u>Overcoming Persistent Nvidia Driver Self-Removal</u></a></li>
+<li><a href="https://driver-error.techidaily.com/realtek-ethernet-controller-driver-not-working-after-windows-11-upgrade-solved/"><u>Realtek Ethernet Controller Driver Not Working After Windows 11 Upgrade [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/secrets-to-silence-wired-bluetooth-on-windows/"><u>Secrets to Silence Wired Bluetooth on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-disabled-right-click-error-in-windows-11-touchpad/"><u>Solve Disabled Right-Click Error in Windows 11 Touchpad</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-intel-wi-fi-6-ax201-malfunctioning/"><u>Solved: Intel Wi-Fi 6 Ax201 Malfunctioning</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stopping-bluetooth-from-autostart-in-win11-os/"><u>Stopping Bluetooth From Autostart in Win11 OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-complaint-non-responsive-keyboard/"><u>System Complaint: Non-Responsive Keyboard</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-problems-with-older-usb-device-types-resolved-insights/"><u>Tackling Problems with Older USB Device Types: Resolved Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/terror-in-towns-selecting-the-best-8-zombie-gaming-titles/"><u>Terror in Towns  Selecting the Best 8 Zombie Gaming Titles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-non-functional-qualcomm-atheros-bluetooth-in-windows-11-solved/"><u>Troubleshooting Non-Functional Qualcomm Atheros Bluetooth in Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-fixing-issues-with-your-outdated-usb-composite-device/"><u>Troubleshooting: Fixing Issues with Your Outdated USB Composite Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unwanted-windows-11-bluetooth-how-to-stop-it/"><u>Unwanted Windows 11 Bluetooth: How to Stop It</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-device-not-recognized-in-windows-heres-how-to-fix-it/"><u>USB Device Not Recognized in Windows? Here's How to Fix It!</u></a></li>
+</ul></div>
