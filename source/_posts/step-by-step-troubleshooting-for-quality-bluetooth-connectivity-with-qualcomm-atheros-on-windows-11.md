@@ -1,0 +1,212 @@
+---
+title: Step-by-Step Troubleshooting for Quality Bluetooth Connectivity with Qualcomm Atheros on Windows 11
+date: 2024-08-09T08:48:03.794Z
+updated: 2024-08-10T08:48:03.794Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverError
+description: This Article Describes Step-by-Step Troubleshooting for Quality Bluetooth Connectivity with Qualcomm Atheros on Windows 11
+excerpt: This Article Describes Step-by-Step Troubleshooting for Quality Bluetooth Connectivity with Qualcomm Atheros on Windows 11
+thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d18b4563b5a8924a658295ed.jpg
+---
+
+## Step-by-Step Troubleshooting for Quality Bluetooth Connectivity with Qualcomm Atheros on Windows 11
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587848fa4952b.png)
+
+Windows 10 users have reported to have problems with their Atheros Bluetooth driver on and off for months since the upgrade. When Bluetooth driver is sloppy, your Bluetooth devices, wireless mouse, wireless keyboard, wireless headphone, are not working properly.
+  
+Just relax, this is a very easy problem to solve. Just follow the instructions below to get it done!
+  
+[**Option One: Install Update for Windows 10 Insider Preview (KB3061161)**](#1)
+[**Option Two: Update Bluetooth Driver Manually**](https://tokenmetrics.sjv.io/jrkzxp)
+**[Option Three: Reinstall Bluetooth Driver Manually](https://laganoo.pxf.io/5g6ygn)**
+**[Option Four: Update Bluetooth Driver Automatically (Recommended)](#4)**
+  
+ **Option One: Install Update for Windows 10 Insider Preview (KB3061161)**
+  
+ On Windows 10 forum, one of the technicians said that this problem is with Windows 10\. So to fix this problem, it is suggested that you update one of Windows update package, **KB3061161** , to help fix your Qualcomm Atheros Bluetooth driver error.
+  
+**KB3061161** is auto updated via Windows Update. So you can follow the path:**Start button > Settings > Update & security** .
+  
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878512a85d87.jpg)
+  
+ Then choose**Update history** .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878514d080da.jpg)
+  
+ Scroll down to see if you can find the**KB3061161** . It should be a rather old update, so it might cost you some time to locate.
+  
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587852a8ba348.jpg)
+
+If you don’t see such an update, don’t freak out, just go to Microsoft and get in downloaded and installed, and you will be fine.
+  
+**Option Two**:**Update Bluetooth Driver Manually**
+  
+**Note** : You can of course download the Bluetooth driver in some other way. For example, you can type the model name of your Qualcomm Atheros in the search box on Google and find the driver. But there is no guarantee that the driver found and downloaded is compatible with your PC or that it is trust-worthy. So, it is highly suggested that you download drivers from the manufacturer website.
+  
+ 1) Go to the support website of the manufacture of your PC. We are using**ASUS** as an example. Then locate the support page of your PC by entering the model of your product.
+  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587854520d556.jpg)
+
+2) Then go to drivers section. (The name of the section could be different on different manufacturers’ websites.) You will be asked to select what operating system that you are using (we are going**Windows 10 64-bit**), and then a list of device drivers will be shown. Scroll down a little to choose**Qualcomm Atheros Bluetooth**driver under Bluetooth category. Then hit the**Global**button to get it downloaded.
+  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878567811d29.png)
+
+**Note**: If your PC is rather old and there is no such Bluetooth driver that you can find for Windows 10, it is suggested that you give the latest version of driver that you can find a try, be it Windows 8.1, Windows 8, or Windows 7\. Then try [**install the driver in compatibility mode**](https://tools.techidaily.com/drivereasy/download/).
+  
+3) Now press**Windows key**and**X**at the same time and choose**Device Manager**.
+  
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878625e408ff.png)
+
+4) Then locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Uninstall**.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878700f160fd.jpg)
+
+5) When prompted with the following notification, tick the box for**Delete the driver software for this device**and then hit**OK**to continue.
+  
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787077d9b1c.png)
+
+6) When the uninstall finishes, restart your computer.
+  
+7) Now, go to the folder where you store the setup file of the Qualcomm Atheros Bluetooth driver, double the**setup file**and run the installation as instructed.
+  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587857485a0a6.png)
+
+8) When the install finishes, reboot your computer for the change to take effect.
+  
+ **Option Three: Reinstall Bluetooth Driver Manually**
+  
+ If the above methods don’t help, you might need to try reinstall the driver by yourself.
+  
+ 1) You need to download compatible Bluetooth driver for your PC from the Internet first.
+  
+ Related post:
+
+[**Qualcomm Atheros AR956x Wireless Adapter Driver Download**](https://tools.techidaily.com/drivereasy/download/)
+
+ 2) When the download completes, press**Windows key** and**X** at the same time and choose**Device Manager** .
+  
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878625e408ff.png)
+
+3) Locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Update Driver Software**.
+  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878797a95615.png)
+
+ 4) Choose**Browse my computer for driver software** .
+  
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787a96b276c.jpg)
+
+ 5) Choose **Let me pick from a list of the drivers on my computer** .
+  
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787ac962e8f.jpg)
+
+6) Un-tick the box for **Show compatible hardware** . Then you should be able to see **Qualcomm Atheros** driver option on the left. On the right, choose one of the drivers listed. We go with**Qualcomm Atheros AR3011 Bluetooth 3.0** . You need to try them one by one by yourself to select the right one for your PC. When done picking, click**Next** to continue.
+  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787b0460727.png)
+
+7)Then follow the instructions on screen to get your Qualcomm Atheros Bluetooth drive installed.  
+  
+8) When install finishes, please make sure to restart your computer for the change to take effect.  
+
+ **Option Four: Update Bluetooth Driver Automatically (Recommended)**
+  
+If installing the driver using compatibility mode and reinstall the driver didn’t help, you might need to consider updating the current driver. But as mentioned above, you might find it very challenging to find the correct driver for your PC.
+  
+Why not have a try at [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/), a driver updater that automatically detects, downloads and installs device drivers automatically. You don’t need to worry about not getting the appropriate drivers or even malicious drivers from phishy websites. With Driver Easy, you are well secured and protected.
+  
+Moreover, it is very easy to use. Just click the**Scan Now**button for**Driver Easy**to help you with the scan for missing or outdated drivers;
+  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+ \\![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76e376da11.png)
+
+Then the**Update**button next to the driver you need to update.
+
+ ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76eb162d8c.jpg)
+
+That’s all.
+  
+Compare with the above methods, how easy is this?
+  
+If you are looking for more, such as features like driver restore and driver backup, as well as professional technician support for your driver problems, by all means, have a try at the [**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/). If you are not satisfied with it, just ask for a refund thirty days within the purchase.
+  
+What are you still waiting for, download [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) and get the time-limited half-price offer **[NOW](https://tools.techidaily.com/drivereasy/download/)** !
+
+* [Bluetooth](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
+* [Qualcomm Atheros](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-digital-footprints-securing-date-information-in-visuals/"><u>[New] In 2024, Digital Footprints  Securing Date Information in Visuals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leverage-canva-design-top-10-stealthy-methods-revealed/"><u>[New] Leverage Canva Design  Top 10 Stealthy Methods Revealed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/here-creators-converge-and-craft-visual-stories-in-youtube-studio/"><u>[New] Where Creators Converge and Craft Visual Stories in Youtube Studio</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-youtube-content-advanced-editing-using-wm-maker/"><u>[Updated] 2024 Approved  Elevate YouTube Content  Advanced Editing Using WM Maker</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pictorial-perfection-proven-techniques-for-stunning-photos/"><u>[Updated] Pictorial Perfection  Proven Techniques for Stunning Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-reliable-strategy-to-infuse-direct-urls-in-tiktok-bio/"><u>2024 Approved  Reliable Strategy to Infuse Direct URLs in TikTok Bio</u></a></li>
+<li><a href="https://driver-error.techidaily.com/950-mrdv-to-beakr1maryland-with-anacondabtjanuimovement-and-so-onwards-nasas-gmtplus-in-the-other-handballast-a/"><u>950 mRDV) to Beakr1|Maryland, with Anaconda_BT/Januimovement, and so Onwards (NASA's GMT+ in the Other Handballast: A =</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ace-your-tech-needs-with-ease-fixing-unresponsive-bluetech-in-windows-11-no-headache/"><u>Ace Your Tech Needs With Ease-Fixing Unresponsive BlueTech in Windows 11 (No Headache!)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/adaptive-drivers-package-for-windows-pci/"><u>Adaptive Drivers Package for Windows PCI</u></a></li>
+<li><a href="https://driver-error.techidaily.com/address-frequent-amd-crashes-swiftly/"><u>Address Frequent AMD Crashes Swiftly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/amd-radeon-r7-250-graphics-driver-problems-on-windows-11-solved/"><u>AMD Radeon R7 250 Graphics Driver Problems on Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-keyboard-lights-dimming/"><u>Asus Keyboard Lights Dimming</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-laptop-tip-fixing-the-picture-displayed-invertedly/"><u>ASUS Laptop Tip: Fixing the Picture Displayed Invertedly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-laptop-troubleshooting-how-to-adjust-when-videos-appear-sideways-or-upward/"><u>ASUS Laptop Troubleshooting: How to Adjust When Videos Appear Sideways or Upward</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-usb-webcam-issue-fixed-for-windows-users/"><u>ASUS USB Webcam Issue Fixed for Windows Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104922327-bluetooth-woes-windows-solutions-ready/"><u>Bluetooth Woes? Windows Solutions Ready!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bootloader-interrupt-logic-mended/"><u>Bootloader Interrupt Logic Mended</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105166381-cant-switch-bluetooth-off-my-laptop-is-frozen/"><u>Can't Switch Bluetooth OFF - My Laptop Is Frozen!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/car-unloadable-due-to-device-limitation/"><u>Car Unloadable Due to Device Limitation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-device-error-48/"><u>Corrected Device Error 48</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-conflict-conqueror-error-45/"><u>Device Conflict Conqueror: Error 45</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-limitation-notified-for-graphics-hardware/"><u>Device Limitation Notified for Graphics Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-loading-problem-wudfrd-failure-event-id-219/"><u>Device Loading Problem, WudfRd Failure Event ID 219</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-motorola-edgeplus-2023-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola Edge+ (2023) Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721100980582-fix-pc-issues-enter-safe-mode-and-uninstall-graphic-cards-driver-on-win-8-easily/"><u>Fix PC Issues? Enter Safe Mode & Uninstall Graphic Cards Driver on Win 8 Easily</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-samsung-galaxy-a15-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Samsung Galaxy A15 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102066954-how-to-install-necessary-drivers-for-your-hardware-in-windows-1187-solutions-inside/"><u>How to Install Necessary Drivers for Your Hardware in Windows 11/8/7 - Solutions Inside!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-f54-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy F54 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721100445092-say-no-more-to-win11s-stubborn-bluetooth-problem-the-ultimate-fix-explained-guide-inside/"><u>Say No More to Win11's Stubborn Bluetooth Problem: The Ultimate Fix Explained [Guide Inside ]</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ng-views-selecting-best-hashtags-for-yt/"><u>Surging Views  Selecting Best Hashtags for YT</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-windows-drives-c-and-d/"><u>Unraveling the Mystery of Windows Drives (C & D)</u></a></li>
+</ul></div>

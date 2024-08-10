@@ -1,0 +1,158 @@
+---
+title: Missing Intel Adapters, Can't Install Drivers
+date: 2024-08-09T08:49:49.997Z
+updated: 2024-08-10T08:49:49.997Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverError
+description: This Article Describes Missing Intel Adapters, Can't Install Drivers
+excerpt: This Article Describes Missing Intel Adapters, Can't Install Drivers
+thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc709b29d6e1455394b97ec52a.jpg
+---
+
+## Missing Intel Adapters, Can't Install Drivers
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be110e744e15.jpg)
+
+ When you try to install the Intel Network driver, if you run into the error “ **Cannot install drivers. No Intel(R) Adapters are present in this computer** “, don’t worry. You can fix the error with one of the solutions below.
+
+## Solution 1: Update the driver via Device Manager
+
+**First** , ensure the driver was downloaded from [Intel official website](https://www-ssl.intel.com/content/www/us/en/homepage.html) . If you have downloaded the driver from Intel’s official website, then ensure the driver has the latest version.
+
+ If you can’t have access to the internet due to faulty network drivers, you can download the latest driver using another PC with the network. After downloading the driver, you can save the drivers to an external drive like a USB flash drive, then you can transfer to the PC that you need to update the driver for.
+
+ If this is the latest driver you could find from Intel, you can install the driver manually step by step via Device Manager. To do so:
+
+1. Extract and decompress the downloaded file (**.exe**) to a folder. (You need an archive utility such as 7.zip to extract the file. If you haven’t installed a utility yet, you can download it online.)
+2. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Type**devmgmt.msc** and hit Enter to open the Device Manager.  
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
+3. Expand the category “Network adapters”. Right-click on the Intel network device and select**Update Driver Software…**  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be11a51c846d.jpg)  
+**Note** if the network driver is missing, it might be listed under the category “Other devices”. In this case, there is a yellow mark next to the device which is probably displayed as Ethernet Controller.
+4. Click**Browser my computer for driver software** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be11a73cf24c.jpg)
+5. Click**Let me pick from a list of device drivers on my computer** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be11a8857ad7.jpg)
+6. Check the box next to**Show compatible hardware** and click**Have Disk** .  
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c3e5e43700b.png)
+7. Click**Browse**  and navigate to the folder where you extracted the driver file to in Step 1).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c3e66d00df9.png)
+8. Continue to open the folders until you can choose any of the**.INF** files. Then follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+## Solution 2: Update the driver automatically
+
+ The above steps above may help resolve the problem, but if they don’t, you can update the driver automatically using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ You need to have internet access to run Driver Easy. If you don’t have internet due to a missing network driver, you can use the [Offline Scan feature](https://tools.techidaily.com/drivereasy/download/) of Driver Easy to download and install the network driver.
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the [**7 days free trial**](https://tools.techidaily.com/drivereasy/download/) or the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. It takes just 2 clicks, and you get full support and a 30-day money-back guarantee with the Pro version:
+
+1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
+3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
+![](https://www.drivereasy.com/wp-content/uploads/2016/08/intel-wifi-wireless-adaper.png)
+4. After updating, restart your computer to take effect.
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+ Hopefully, you can install the Intel network driver successfully with the tips above. If you have any questions, please feel free to leave your comments below. We’d love to hear any ideas or suggestions.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/1721102830368-default-radeon-wattman-settings-have-crashed-and-been-restored-problem-solved/"><u>‘Default Radeon Wattman Settings Have Crashed and Been Restored’ Problem [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bsod-windows-irql-fixed/"><u>[BSOD]: Windows IRQL Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/completed-restoration-of-proper-system-operation-achieved/"><u>[COMPLETED] Restoration of Proper System Operation Achieved</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-frosty-frameworks-for-warm-video-productions/"><u>[New] Frosty Frameworks for Warm Video Productions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-storyboard-suite-for-windows/"><u>[New] Storyboard Suite for Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-telegram-marketing-made-simple-for-those-just-starting-out/"><u>[New] Telegram Marketing Made Simple  For Those Just Starting Out</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-visionary-visual-effects-the-best-text-ideas-for-video-artistry-for-2024/"><u>[New] Visionary Visual Effects  The Best Text Ideas for Video Artistry for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-comprehensible-techniques-for-effective-classroom-recordings-on-mac/"><u>[Updated] Comprehensible Techniques for Effective Classroom Recordings on Mac</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-ultimate-guide-fine-tuning-snapchat-video-velocity/"><u>[Updated] In 2024, The Ultimate Guide  Fine-Tuning Snapchat Video Velocity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-maximizing-profits-from-short-youtube-videos/"><u>[Updated] Maximizing Profits From Short YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleashing-vintage-charm-filters-for-existing-media-on-ig/"><u>[Updated] Unleashing Vintage Charm  Filters for Existing Media on IG</u></a></li>
+<li><a href="https://driver-error.techidaily.com/2-in-the-nextteacherbmwits/"><u>2 in the nextTeacher_BMWits</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/4-ways-to-mirror-apple-iphone-xr-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>4 Ways to Mirror Apple iPhone XR to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/acpi-device-id-resolution-venint33a0/"><u>ACPI Device ID Resolution: VEN_INT33A0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-and-fixing-invalid-inf-installation-sections/"><u>Addressing and Fixing Invalid INF Installation Sections</u></a></li>
+<li><a href="https://driver-error.techidaily.com/adjusting-win1011-for-stable-sm-bus-driver/"><u>Adjusting Win10/11 for Stable Sm Bus Driver</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/airpods-microphone-fixes-for-windows-10-users-a-step-by-step-tutorial/"><u>AirPods Microphone Fixes for Windows 10 Users: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-alignment-achieved-direct-sound-to-headphones-not-speakers-a-fix-guide/"><u>Audio Alignment Achieved: Direct Sound to Headphones, Not Speakers - A Fix Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/audio-device-unheard-in-win10-heres-the-quick-troubleshooting-guide/"><u>Audio Device Unheard in Win10? Here's the Quick Troubleshooting Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/battleye-service-launch-error-corrected-fixing-driver-load-difficulty-code-1450/"><u>BattlEye Service Launch Error Corrected - Fixing Driver Load Difficulty (Code 1450)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/battleye-setup-error-overcoming-the-driver-load-error-hurdle-in-your-gameplay-experience/"><u>BattlEye Setup Error: Overcoming the 'Driver Load Error' Hurdle in Your Gameplay Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/blank-screen-for-external-drives-on-w10w11/"><u>Blank Screen for External Drives on W10/W11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-persists-in-win11-resolved-issue/"><u>Bluetooth Persists in Win11: Resolved Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104941470-bluetooth-woes-on-windows-11-solve-your-qualcomm-atheros-driver-challenges-here/"><u>Bluetooth Woes on Windows 11? Solve Your Qualcomm Atheros Driver Challenges Here</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bridge-the-gap-fixing-missed-connection-on-pcs/"><u>Bridge the Gap: Fixing Missed Connection on PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bridging-the-gap-uncover-missing-bluetooth-device-space/"><u>Bridging the Gap: Uncover Missing Bluetooth, Device Space</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bring-back-life-to-flawed-usb-serial-devices/"><u>Bring Back Life to Flawed USB-Serial Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bt-compatibility-lenovo-and-windows-11-harmony-guide/"><u>BT Compatibility: Lenovo & Windows 11 Harmony Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/budding-filmmakers-best-gopro-upgrades-for-2024/"><u>Budding Filmmakers  Best GoPro Upgrades for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bus-controller-protocols-streamlined-in-win11/"><u>Bus Controller Protocols Streamlined in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bus-mastery-achieved-post-win11-update/"><u>Bus Mastery Achieved Post-Win11 Update</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-intel-me-repair-guide/"><u>Comprehensive Intel ME Repair Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correct-nonresponsive-right-click-windows-11-solved/"><u>Correct Nonresponsive Right Click - Windows 11 Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-realtekenas-unsupported-driver-issue/"><u>Correcting Realtek'enas Unsupported Driver Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-usb-composite-devices-an-insight-into-outdated-technology/"><u>Decoding USB Composite Devices: An Insight Into Outdated Technology</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dell-inspiron-laptop-unresponsive-to-kde-plasma-5-solved/"><u>Dell Inspiron Laptop Unresponsive to KDE Plasma 5 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/demystifying-the-legacy-usb-composite-device-issue-a-complete-guide/"><u>Demystifying the Legacy USB Composite Device Issue - A Complete Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-harmony-wacoms-success-story/"><u>Device Harmony: Wacom's Success Story</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-hindered-by-low-available-resources/"><u>Device Hindered by Low Available Resources</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-initialization-success-for-code-37/"><u>Device Initialization Success for Code 37</u></a></li>
+<li><a href="https://driver-download.techidaily.com/guide-to-downloading-and-setting-up-microsoft-surface-pro-4s-driver-software-in-windows/"><u>Guide to Downloading and Setting Up Microsoft Surface Pro 4'S Driver Software in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102978547-how-to-fix-unable-to-initialize-directx-9-device-in-5-easy-steps/"><u>How to Fix 'Unable to Initialize DirectX 9 Device' In 5 Easy Steps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-honor-100-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Honor 100 Through Google Earth?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-a-captivating-voice-the-art-of-writing-film-dialogues/"><u>In 2024, Crafting a Captivating Voice  The Art of Writing Film Dialogues</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y100i-power-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y100i Power 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/level-up-your-playtime-examining-kinemaster-on-android/"><u>Level Up Your Playtime  Examining KineMaster on Android</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-10-free-video-stabilization-tools-to-smooth-out-your-footage/"><u>New Top 10 Free Video Stabilization Tools to Smooth Out Your Footage</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-start-to-youtube-success-creating-business-and-personal-channels-on-phone-for-2024/"><u>Quick Start to YouTube Success  Creating Business & Personal Channels on Phone for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102898643-resolve-the-driver-not-found-issue-in-your-itbm-with-simple-steps/"><u>Resolve the 'Driver Not Found' Issue in Your ITBM with Simple Steps!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/subtlety-savvy-sound-settings-for-garageband/"><u>Subtlety Savvy Sound Settings for Garageband</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721100355407-unraveling-the-mystery-of-classic-usb-composite-devices-resolved/"><u>Unraveling the Mystery of Classic USB Composite Devices - Resolved!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104265513-unresponsive-games-due-to-gpu-issue-quick-solution-inside/"><u>Unresponsive Games Due to GPU Issue? Quick Solution Inside!</u></a></li>
+</ul></div>

@@ -1,0 +1,219 @@
+---
+title: Troubleshooting the Common 'Code 43' Error on Your Windows 11 with GTX 950 GPU
+date: 2024-08-09T08:48:52.096Z
+updated: 2024-08-10T08:48:52.096Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverError
+description: This Article Describes Troubleshooting the Common 'Code 43' Error on Your Windows 11 with GTX 950 GPU
+excerpt: This Article Describes Troubleshooting the Common 'Code 43' Error on Your Windows 11 with GTX 950 GPU
+thumbnail: https://thmb.techidaily.com/2b0be1d254da9a28eb7fb0462b3c66de235332cf8b2fab4ba3941b84a9d75cac.jpg
+---
+
+## Troubleshooting the Common 'Code 43' Error on Your Windows 11 with GTX 950 GPU
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59410acca7efb.jpg)
+
+ Users with NVIDIA GTX 950 graphics card installed on their computer reported to have found that they see a yellow exclamation mark next to their display driver. when checking the properties of the video card driver, the following error notification appears:
+
+ **Windows has stopped this device because it has reported problems. (Code 43)**
+
+ The combination of GTX 950 and Windows 10 is not uncommon when it comes to Code 43 with NVIDIA. But no need to worry so much about it, there are ways to get it fixed.
+
+[**Option 1: Clean re-install NVIDIA 950**](https://engwe.pxf.io/jrkzrn)
+
+[**Option 2: Update Windows 10**](https://imp.i110150.net/r5bmpn)
+
+[**Option 3: Update BIOS**](https://uperfect.sjv.io/g1jgba)
+
+[**Option 4: Reinstall Windows 10**](https://ancheer.sjv.io/y96bgp)
+
+ Before we move on to the fixes, there are something that you need to know about the causes of Code 43:
+
+**a** . it could be that Windows does not recognize your graphics card. So you need to make sure that your graphics card is correctly installed;
+
+**b** . code 43, in most cases, means that certain device driver is missing, corrupted, and/or outdated;
+
+**c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+## Option 1: Clean re-install NVIDIA 950
+
+ To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** .
+
+ 1) First, you need to download [**Display Driver Uninstaller**](http://download-eu2.guru3d.com/ddu/[Guru3D.com]-DDU.zip) . After the download, extract the setup file from the downloaded folder. Then double click the**Display Driver Uninstaller** file to get started.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png)
+
+ 2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
+
+ This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png)
+
+ 3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg)
+
+ 4) Wait for the process to finish, and your PC will restart in normal mode.
+
+ 5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png)
+
+ Then follow the on-screen instructions to get the driver downloaded.
+
+ When the download finish, just double click the setup file to run the driver installation.
+
+ 6) If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+ 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+
+ 2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png)
+
+ 3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
+
+## **Option 2: Update Windows 10**
+
+ 1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** .
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png)
+
+ 2) Click the**Check for updates** button to see if there are any new updates available.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png)
+
+ 3) If new updates are available, just download and then update them as instructed.
+
+ 4) Restart your computer after the update. Then check to see if the code 43 still remains.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
+## **Option 3: Update BIOS**
+
+ Updating BIOS is said to solve the problem for many, but it requires you to master a rather high level of computer knowledge to update BIOS by yourself.
+
+ So if you are not exactly a tech savvy, we suggested that you go to the manufacturer support website and get all the support available before you move on to update your BIOS.
+
+**Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see.
+
+ After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated.
+
+## **Option 4: Reinstall Windows 10**
+
+ In some cases, users were left with only one last resort: reinstalling Windows 10\. Luckily, this is not a hard way to go. We have covered this topic before. If you would like to have more information, please visit the posts below:
+
+[**How to reset Windows 10?**](https://tools.techidaily.com/drivereasy/download/)
+
+[**How to refresh Windows 10?**](https://tools.techidaily.com/drivereasy/download/)
+
+* [graphics cards](https://tools.techidaily.com/drivereasy/download/)
+* [NVIDIA](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-ax201-not-linking-to-intel-wi-fi-6-networks/"><u>[FIXED] AX201 Not Linking to Intel Wi-Fi 6 Networks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-beginners-guide-to-zoom-webinars-for-2024/"><u>[New] Beginner’s Guide to Zoom Webinars for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/kyrocket-views-with-these-essential-youtube-seo-hacks-for-2024/"><u>[New] Skyrocket Views with These Essential YouTube SEO Hacks for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-streaming-giants-rivalry-facebook-vs-youtube-and-spaces/"><u>[New] Streaming Giants' Rivalry  Facebook Vs. YouTube & Spaces</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tailoring-the-spectrum-of-light-in-windows-based-video-editing/"><u>[New] Tailoring the Spectrum of Light in Windows-Based Video Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-macos-big-sur-minimum-requirements/"><u>[New] Understanding MacOS Big Sur  Minimum Requirements</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-rtx-graphics-issues-in-gaming-heres-how-to-quickly-optimize/"><u>[Solved]: RTX Graphics Issues in Gaming – Here's How to Quickly Optimize</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-transforming-footage-into-viral-content-on-tiktok-from-computer/"><u>[Updated] 2024 Approved  Transforming Footage Into Viral Content on TikTok From Computer</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-innovative-approach-to-revamping-your-videos-cover-images-on-fb/"><u>[Updated] In 2024, Innovative Approach to Revamping Your Videos' Cover Images on FB</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-the-way-in-iphonecomputer-video-format-conversion/"><u>[Updated] Leading the Way in iPhone/Computer Video Format Conversion</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-infusing-life-into-text-instagram-story-animations-tips/"><u>2024 Approved  Infusing Life Into Text  Instagram Story Animations Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-woes-windows-solutions-ready/"><u>Bluetooth Woes? Windows Solutions Ready</u></a></li>
+<li><a href="https://driver-error.techidaily.com/breaking-barriers-decode-e52-for-smooth-drives/"><u>Breaking Barriers: Decode E52 for Smooth Drives</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cease-perpetual-bluetooth-signal-in-win10/"><u>Cease Perpetual Bluetooth Signal in Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/click-without-frustration-on-win10/"><u>Click Without Frustration on Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/computer-trouble-keyboard-non-working/"><u>Computer Trouble: Keyboard Non-Working</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/critiquing-sonys-nw-ws623-aesthetic-conundrums-reviewed/"><u>Critiquing Sony's NW-WS623: Aesthetic Conundrums Reviewed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-recovery-for-optimal-touchpad-usage/"><u>Driver Recovery for Optimal Touchpad Usage</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-install-newest-driver-software-on-hp-envy-20-laptops/"><u>Easy Steps to Install Newest Driver Software on HP Envy 20 Laptops</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortlessly-fix-bluetooth-radios-on-windows/"><u>Effortlessly Fix Bluetooth Radios on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eradicated-error-in-system-hub-45/"><u>Eradicated Error in System Hub: #45</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-corrected-in-service-installation-inf/"><u>Error Corrected in Service Installation INF</u></a></li>
+<li><a href="https://driver-error.techidaily.com/essential-guide-installing-latest-drivers-for-the-all-new-hp-envy-m7-model/"><u>Essential Guide: Installing Latest Drivers for the All-New HP Envy M7 Model</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/firefox-pip-simplified-for-the-everyday-user/"><u>Firefox PIP  Simplified for the Everyday User</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-video-controller-driver-issue-in-windows-10-easily/"><u>Fix Video Controller Driver Issue in Windows 10. Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-hcmon-driver-failed-to-install-expert-advice-and-solutions/"><u>Fixing 'HCMon Driver Failed to Install': Expert Advice and Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-concept-to-reality-pinpointing-ais-milestone-beginnings/"><u>From Concept to Reality: Pinpointing AI's Milestone Beginnings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/go-pro-karma-drone-review/"><u>Go Pro Karma Drone Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hands-on-remedy-for-disrupted-mtp-functionality/"><u>Hands-On Remedy for Disrupted MTP Functionality</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-oneplus-by-drfone-android/"><u>How To Fix OEM Unlock Missing on OnePlus?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-unrecognized-device-warnings-with-this-idt-software-package/"><u>How to Overcome Unrecognized Device Warnings with This IDT Software Package</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-the-recovery-of-amds-radeon-wattman-overcoming-crash-and-default-restore-hurdles/"><u>Mastering the Recovery of AMD's Radeon WattMan: Overcoming Crash and Default Restore Hurdles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mitigating-issues-with-acpi-device-33a0/"><u>Mitigating Issues with ACPI: DEVICE 33A0</u></a></li>
+<li><a href="https://extra-support.techidaily.com/next-gen-cloud-vaults-ultimate-pick-list-for-2024/"><u>Next-Gen Cloud Vaults  Ultimate Pick List for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-bluetooth-hurdles-repairing-the-qualcomm-atheros-driver-for-optimal-performance-on-windows-10/"><u>Overcoming Bluetooth Hurdles: Repairing the Qualcomm Atheros Driver for Optimal Performance on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pinpointing-missing-signal-processor-on-win/"><u>Pinpointing Missing Signal Processor on Win</u></a></li>
+<li><a href="https://driver-error.techidaily.com/prevented-photo-lag-with-asus-webcam-optimization-on-win11/"><u>Prevented Photo Lag with ASUS Webcam: Optimization on Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-guide-to-joining-the-ai-world-of-bing-search/"><u>Quick Guide to Joining the AI World of Bing Search</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-issues-with-restored-defaults-on-your-amd-radeons-gpu-software/"><u>Resolving Issues with Restored Defaults on Your AMD Radeon's GPU Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-absence-of-coprocessor-drivers-in-windows-10-a-comprehensive-guide/"><u>Resolving the Absence of Coprocessor Drivers in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-reluctance-of-enex-to-load-in-windows-11/"><u>Resolving the Reluctance of eNEX to Load in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoration-techniques-reactivating-your-devices-wi-fi-feature/"><u>Restoration Techniques: Reactivating Your Device's Wi-Fi Feature</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102722057-rtp-unable-to-run-nvidia-graphics-games-our-expertise-can-solve-it/"><u>RTP: Unable to Run Nvidia Graphics Games? Our Expertise Can Solve It!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsungs-operating-system-for-the-winning-computer/"><u>Samsung's Operating System for the Winning Computer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-fix-unrecognized-usb-in-w78/"><u>Step by Step Guide to Fix Unrecognized USB in W7/8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-nvidiaamd-graphics-drivers-on-windows-8/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing NVIDIA/AMD Graphics Drivers on Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-eradicating-the-blue-screen-error-0x0000007e-in-windows-7/"><u>Step-by-Step Guide: Eradicating the Blue Screen Error 0X0000007E in Windows 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-resolving-failed-to-install-hcmon-driver-issues/"><u>Step-by-Step Guide: Resolving 'Failed to Install HCMon Driver' Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-device-configuration-woes-a-step-by-step-solution-for-error-code-1/"><u>Tackling Device Configuration Woes - A Step-by-Step Solution for Error Code 1</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104801174-ultimate-guide-updating-and-downloading-drivers-for-your-hp-envy-20/"><u>Ultimate Guide: Updating and Downloading Drivers for Your HP Envy 20</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-13t-pro-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi 13T Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unseen-strategies-how-to-tap-into-your-facebook-message-library-for-2024/"><u>Unseen Strategies  How to Tap Into Your Facebook Message Library for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsuccessful-driver-installation-by-os/"><u>Unsuccessful Driver Installation by OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-usb-serial-link-resolving-nonoperational-issues/"><u>Win USB-Serial Link: Resolving Nonoperational Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11s-high-disk-usage-explained-and-solved/"><u>Win11's High Disk Usage Explained & Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-8-and-7-device-driver-troubleshooting-and-resolution-steps/"><u>Windows 11, 8 & 7 Device Driver Troubleshooting and Resolution Steps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-80211n-broadcom-wi-fi-adapter-fix-found/"><u>Windows 802.11N Broadcom Wi-Fi Adapter Fix Found</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102277438-wireless-harmony-windows-and-bluetooth-unite/"><u>Wireless Harmony: Windows & Bluetooth Unite!</u></a></li>
+</ul></div>
