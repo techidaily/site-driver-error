@@ -1,0 +1,217 @@
+---
+title: "Win 10: KB Not Functioning Properly"
+date: 2024-08-15T06:53:10.341Z
+updated: 2024-08-16T06:53:10.341Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverError
+description: "This Article Describes Win 10: KB Not Functioning Properly"
+excerpt: "This Article Describes Win 10: KB Not Functioning Properly"
+thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f5302c7ff78d5008912b4d02f9.jpg
+---
+
+## Win 10: KB Not Functioning Properly
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/11/kb1.jpg)
+
+ If you’ve recently upgraded to Windows 10 and now**your keyboard isn’t working** , you’re not alone. Many other Windows 10 users are reporting the same problem, especially after installing the KB4074588 update on February 13, 2018\.
+
+ And fortunately, there’s a solution. Here are 5 options to try. You may not need to try them all. Just work your way down the list until you find the one that fixes the problem.
+
+1. [**Check your USB port is working**](https://zonlipartnershipprogram.pxf.io/b0rbxy)
+2. [**Adjust your keyboard settings**](https://bluettius.sjv.io/dkpnv2)
+3. [**Reinstall your keyboard driver**](https://arkmc.pxf.io/znergr)
+4. [**Update your keyboard and USB drivers (recommended)**](#m4)
+5. **[Switch to ChromeOS](https://getlyla.pxf.io/ek9gkg)**
+
+---
+
+## Method 1: Check your USB port is working
+
+ Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
+
+ Fortunately, it’s easy to test: simply unplug the keyboard from the USB port and plug in another USB device – like a mouse or an external hard drive. If that device doesn’t work either, the USB port itself is the problem, and you should skip straight to [Method 4](https://pish-posh-baby.sjv.io/g1jg15) . If the device you just plugged in does work, then continue to [Method 2](https://zonlipartnershipprogram.pxf.io/b0rbxy) .
+
+---
+
+## Method 2: Adjust your keyboard settings
+
+ Windows has a setting, called Filter Keys, that allows you to control how it deals with accidental repeated keystrokes. Unfortunately, if turned on, this setting has been known to cause some keyboards to stop working in Windows 10\. So you should check if it’s turned on. If it is, you should turn it off and see if that resolves the problem.
+
+ 1) On your PC desktop, click the**Action Center** icon in the lower-right corner and click**All settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
+
+ 2) Click**Ease of Access** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
+
+ 3) Click**Keyboard** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 4) Ensure**Filter Keys** is**OFF** , and close the window.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+## Method 3: Reinstall your keyboard driver
+
+ If your keyboard driver has developed a fault, your keyboard may stop working. To fix it:
+
+ 1) Right-click the**Start** button, then click**Device Manager** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
+
+ 2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
+
+ 3) When prompted to confirm, click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
+
+ 4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Method 4: Update your keyboard and USB driver (recommended)
+
+ One of the most common causes of an unresponsive keyboard is an outdated keyboard or USB driver.
+
+ There are two ways you can get the right drivers for your keyboard and USB port: manually or automatically.
+
+**Manual driver update** – You can update your drivers manually by going to the manufacturer’s website and searching for the most recent correct driver. Note that for your USB driver, you may need to try both the manufacturer of your PC and the manufacturer of your USB port’s chipset. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+**Automatic driver update** –  Driver Easy will automatically recognize your system and find the correct drivers for both your mouse and your USB port. You don’t need to know exactly what system your computer is running or who all the manufacturers are, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
+
+ Or click**Update All** to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
+## Method 5: Switch to ChromeOS
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
+
+ Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
+
+ Now that we have the internet, fast connection speeds, free cloud storage, and endless web apps (like Gmail, Google Docs, Slack, Facebook, Dropbox and Spotify), the entire Windows way of doing things – with locally installed programs and local file storage – is totally outdated.
+
+ Why is that a problem? Because when you’re constantly installing uncontrolled third-party programs, you’re constantly opening the door to viruses and other malware. (And Windows’ insecure permission system compounds this problem.)
+
+ Plus the way Windows manages installed software and hardware has always been a problem. If your computer shuts down unexpectedly, or a program installs, uninstalls or updates incorrectly, you can get ‘registry’ corruptions. That’s why Windows PCs always slow down and become unstable over time.
+
+ Also because everything’s installed and saved locally, it doesn’t take long before you run out of disk space, and your disk gets fragmented, which makes everything even slower and more unstable.
+
+ For most people, the simplest way to solve Windows problems is to ditch Windows altogether, and **switch to a faster, more reliable, more secure, easier to use and cheaper operating system…**
+
+[Google ChromeOS.](https://www.google.com/chromebook/chrome-os/)
+
+ ChromeOS feels much like Windows, but instead of installing heaps of programs to email, chat, browse the internet, write documents, do school presentations, create spreadsheets, and whatever else you normally do on a computer, you use web apps. You don’t need to install anything at all.
+
+ That means you don’t have virus and malware problems, and your computer doesn’t slow down over time, or become unstable.
+
+And that’s just the start of the benefits…
+
+ **To learn more about the benefits of ChromeOS, and to see comparison videos and demos,[visit GoChromeOS.com](https://www.google.com/chromebook/chrome-os/) .**
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-drivers-installation-failed-completely/"><u>[FIXED] Drivers Installation Failed Completely</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unlocking-hidden-social-content-where-are-your-vids/"><u>[New] 2024 Approved  Unlocking Hidden Social Content  Where Are Your Vids?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-essential-windows-tips-for-efficient-live-tv-saving-for-2024/"><u>[New] Essential Windows Tips for Efficient Live TV Saving for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-11-proven-steps-to-amplify-your-fb-video-campaigns-for-2024/"><u>[Updated] 11 Proven Steps to Amplify Your FB Video Campaigns for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-the-potency-of-open-source-video-engines/"><u>2024 Approved  Unleashing the Potency of Open Source Video Engines</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-failure-intel-card-missing/"><u>Driver Installation Failure - Intel Card Missing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortless-solutions-to-overcome-the-itbm-driver-missing-problem/"><u>Effortless Solutions to Overcome the ITBM Driver Missing Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhance-your-gpu-experience-by-fixing-inadequate-alpha-blending-support/"><u>Enhance Your GPU Experience by Fixing Inadequate Alpha Blending Support</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhancing-win1110s-sm-bus-driver-reliability/"><u>Enhancing WIN11/10's Sm Bus Driver Reliability</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-enabling-safe-mode-and-ejecting-video-card-drivers-in-windows-8-for-a-smooth-computing-experience/"><u>Expert Tips: Enabling Safe Mode & Ejecting Video Card Drivers in Windows 8 for a Smooth Computing Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/get-mobile-access-to-samsung-os-for-pc/"><u>Get Mobile Access to Samsung OS for PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-disabling-graphics-card-on-windows-8-via-safe-mode-deletion/"><u>Guide: Disabling Graphics Card on Windows 8 via Safe Mode Deletion</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-unlock-access-denied-on-win11/"><u>Hardware Unlock: Access Denied on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/harmonize-dell-touchpad-in-win7/"><u>Harmonize Dell Touchpad in Win7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-detect-and-connect-overlooked-seagate-drive-in-w10/"><u>How To Detect & Connect Overlooked Seagate Drive in W10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-unable-to-initialize-directx-9-device-in-5-easy-steps/"><u>How to Fix ‘Unable to Initialize DirectX 9 Device’ in 5 Easy Steps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-last-usb-device-malfunctioned-and-windows-doesnt-recognize-it/"><u>How to Fix The Last USB Device Malfunctioned and Windows Doesn’t Recognize It</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-react-if-your-instagram-profile-has-been-disconnected/"><u>How to React If Your Instagram Profile Has Been Disconnected?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-repair-your-windows-windows-11-bluetooth-connection-fixing-qualcomm-atheros-drivers/"><u>How to Repair Your Windows ([Windows) 11 Bluetooth Connection: Fixing Qualcomm Atheros Drivers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-11-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 11 Pro without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-not-working-solved/"><u>HP Wireless Keyboard Not Working [Solved]</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-expedite-content-indexing-with-these-7-free-youtube-tag-extractors/"><u>In 2024, Expedite Content Indexing with These 7 FREE YouTube Tag Extractors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/incorporate-live-captions-seamlessly-into-stories/"><u>Incorporate Live Captions Seamlessly Into Stories</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keeping-up-to-date-the-guide-to-installing-deadriver-on-windows-10/"><u>Keeping Up-to-Date: The Guide to Installing DeaDriver on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/long-hours-no-pain-a-closer-look-at-the-ergohead-standing-desk-mat-experience/"><u>Long Hours, No Pain: A Closer Look at the ErgoHead Standing Desk Mat Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-iphone-file-transfer-overcoming-usb-connectivity-challenges/"><u>Mastering iPhone File Transfer: Overcoming USB Connectivity Challenges</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mending-the-disappearing-touchpad-driver-problem/"><u>Mending the Disappearing Touchpad Driver Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcome-auto-uninstall-anomaly-in-nvidia-driver/"><u>Overcome Auto-Uninstall Anomaly in Nvidia Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-enex-driver-loading-problems-in-win11/"><u>Overcoming eNEX Driver Loading Problems in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-unmountable-boot-volume-bug-error-0x0000007e-in-your-windows-vista7-pc/"><u>Overcoming the Unmountable Boot Volume Bug (Error 0X0000007E) in Your Windows Vista/7 PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pci-missing-hardware-issue-windows-fix/"><u>PCI Missing Hardware Issue: Windows Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/preventing-problematic-sm-bus-controllers-in-windows-1011/"><u>Preventing Problematic SM Bus Controllers in Windows 10/11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-and-windows-11-effective-solutions-for-faulty-bluetooth-drivers/"><u>Qualcomm Atheros & Windows 11: Effective Solutions for Faulty Bluetooth Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectification-of-service-section-in-inf-file/"><u>Rectification of Service Section in INF File</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repair-your-qualcomm-atheros-bluetooth-connection-on-windows-10-easy-fixes-revealed/"><u>Repair Your Qualcomm Atheros Bluetooth Connection on Windows 10 - Easy Fixes Revealed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/simplified-troubleshoot-for-mtp-drivers/"><u>Simplified Troubleshoot for MTP Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-for-detected-hardware-not-compatible-with-current-device-management-suite/"><u>Solution for 'Detected Hardware Not Compatible with Current Device Management Suite'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-ethernet-control-failure-on-windows-10/"><u>Solved Ethernet Control Failure on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/sound-system-error-no-more-hd/"><u>Sound System Error No More! (HD)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-solutions-for-we-encountered-an-error-during-oculus-install/"><u>Step-By Step Solutions for We Encountered an Error During Oculus Install</u></a></li>
+<li><a href="https://driver-error.techidaily.com/toms-innovative-solutions-a-closer-look-at-cutting-edge-hardware/"><u>Tom’s Innovative Solutions: A Closer Look at Cutting-Edge Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-driver-installation-for-windows-devices-windows-10-8-and-7-tips/"><u>Troubleshooting Driver Installation for Windows Devices: Windows 10, 8 & 7 Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-invalid-driver-installs-how-to-ensure-device-compatibility/"><u>Troubleshooting Invalid Driver Installs: How to Ensure Device Compatibility</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-fixing-unsupported-device-detected-by-software-package-issues/"><u>Troubleshooting: Fixing 'Unsupported Device Detected' By Software Package Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-and-fixing-incorrect-device-configuration-overcoming-code-1-problems/"><u>Understanding and Fixing Incorrect Device Configuration: Overcoming Code 1 Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win10-audio-device-issue-resolved-usb-headset/"><u>Win10 Audio Device Issue: Resolved USB Headset</u></a></li>
+</ul></div>

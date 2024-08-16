@@ -1,0 +1,171 @@
+---
+title: "GPU Lens: Peering Into Microsoft's BDA"
+date: 2024-08-15T06:51:51.123Z
+updated: 2024-08-16T06:51:51.123Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverError
+description: "This Article Describes GPU Lens: Peering Into Microsoft's BDA"
+excerpt: "This Article Describes GPU Lens: Peering Into Microsoft's BDA"
+thumbnail: https://thmb.techidaily.com/691a0d9f6910ad496390c7d88febf7f6a054b2a526595909cdbd9daef2d1d484.jpg
+---
+
+## GPU Lens: Peering Into Microsoft's BDA
+
+ If you just updated to a new version or build of Windows 10 or reformatted your computer, and you find that your screen resolution is terrible, you’re not alone. Many Windows 10 users are reporting this problem. In fact, this is not a unique problem for Windows 10 users, it happened on Windows 8.1 and Windows 8 before.
+
+ If you look deeper in **[Device Manager](https://tools.techidaily.com/drivereasy/download/)**  , you will see that the item listed under the Display adapters category is Microsoft Basic Display Driver, as opposed to the name of your graphics card model.
+
+ You may wonder, what happens to my graphics card, and why can’t I see it anymore. No worries, this problem is not at all hard to fix. And we’re here to help.
+
+## How To Fix graphics card shows as Microsoft Basic Display Adapter
+
+ Here are 4 fixes that have helped other users resolve the**graphics card shows as Microsoft Basic Display Driver** issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+1. **[Run Windows Updates](https://aspironcom.sjv.io/kj14en)**
+2. **[Update your graphics driver](https://copa.sjv.io/6eoowq)**
+3. **[Replace the graphics card](https://mushroom-supplies.sjv.io/gmegme)**
+4. **[Downgrade Operating System](https://bluettide.pxf.io/ekmjb2)**
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 1: Run Windows Updates
+
+ One of the reasons for this is that Windows has yet to provide you with the proper driver update after your operating system upgrade. So you may need to run the update on your own.
+
+Here is how to run Windows Updates:
+
+ 1) On your keyboard, press the**Windows logo key** and**I** at the same time, then click **Update & security** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c20e613f781.jpg)
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
+
+ 2) Click**Check for updates** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c20ee5332a7.jpg)
+
+ 3) Check to see if there is a graphics driver available. If yes, then great – just run the update and you’ll automatically fix the problem. If Windows doesn’t provide you with a graphics driver update, please move on to**Fix 2** , below.
+
+---
+
+### Fix 2: Update your graphics driver
+
+ This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.**Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the **[7-day free trial](https://tools.techidaily.com/drivereasy/download/)**  or the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy. It takes just 2 steps. (And we offer a 30-day money back guarantee on the Pro version):
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 3) Click**Update All** to automatically download and install the correct version of_all_ the drivers.  
+ （You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  right now with a discount, or activate the 7-day free trial version. With the trial version, you will have access to_all features_ of the Pro version such as high-speed download and one-click install. You won’t be charged before your 7-day trial ends and you can easily cancel any time during the trial period.）
+
+![](https://www.drivereasy.com/wp-content/uploads/2024/05/NVIDIA-GeForce-RTX-3090-Ti-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+4) Restart your computer for the changes to take effect.
+
+5) Check to see if the graphics driver shows as the Microsoft Basic Display Adapter issue has been resolved. If yes, then congrats! If the issue persists, please try**Fix 3** , below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+### Fix 3: Replace the graphics card
+
+ If updating your graphics card driver doesn’t help to solve the problem, you may need to consider getting your graphics card replaced, as it might be faulty.
+
+ Note that certain series of display card products are not certified to support Windows Display Driver Model 1.2 or higher, and therefore, do not have driver support for Windows 10\.
+
+ Therefore, it is suggested that you change your current display driver to a more advanced one. You may need to consult professional advice on how to select a good graphics card for your computer.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4: Downgrade operating system
+
+ If you are not ready to make a new investment by purchasing a brand new graphics card for your PC, here is your alternative: downgrade your Windows 10 to its previous version, be it Windows 8 or Windows 7\.
+
+ For more information as to how to downgrade your current operating system to its previous one, please refer to this post here: **[How to downgrade your Windows 10 to Windows 7/ 8.1?](https://tools.techidaily.com/drivereasy/download/)**
+
+ Hopefully you have successfully resolved the graphics driver shows as a Microsoft Basic Display Adapter issue by now. If you have any questions, ideas or suggestions, please let me know in the comments. Thanks for reading!
+
+* [graphics cards](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/solved-you-have-to-install-atk0100-driver/"><u>[Solved] You Have to Install ATK0100 Driver</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-breaking-into-twitter-live-your-strategy/"><u>[Updated] Breaking Into Twitter Live  Your Strategy</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeos-video-mosaics-inserting-chapters-for-clarity/"><u>[Updated] Vimeo's Video Mosaics  Inserting Chapters for Clarity</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-enhance-video-speed-in-minutes-on-tiktok-filming/"><u>2024 Approved  Enhance Video Speed in Minutes on TikTok Filming</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-innovative-approaches-to-modify-user-numbers-in-tiktok/"><u>2024 Approved  Innovative Approaches to Modify User Numbers in TikTok</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-8-plus-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 8 Plus to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/a-tale-of-triumph-over-driving-error-e052/"><u>A Tale of Triumph over Driving Error E052</u></a></li>
+<li><a href="https://driver-error.techidaily.com/address-non-display-of-hardware-on-w10w11/"><u>Address Non-Display of Hardware on W10/W11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/adobe-premiere-rush-not-meeting-your-needs-explore-these-top-4-alternatives/"><u>Adobe Premiere Rush Not Meeting Your Needs? Explore These Top 4 Alternatives</u></a></li>
+<li><a href="https://driver-error.techidaily.com/amend-crosslinking-usb-conflict/"><u>Amend Crosslinking USB Conflict</u></a></li>
+<li><a href="https://driver-error.techidaily.com/beat-the-gtx-950s-code-43-glitch-in-windows-10-with-these-expert-troubleshooting-tips-now-solved/"><u>Beat the GTX 950'S Code 43 Glitch in Windows 10 with These Expert Troubleshooting Tips - Now Solved!</u></a></li>
+<li><a href="https://article-files.techidaily.com/blitz-photograph-examiner-windows-edition/"><u>Blitz Photograph Examiner - Windows Edition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cross-operating-system-device-manager-tools/"><u>Cross-Operating System Device Manager Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-reunion-wacoms-joyful-news/"><u>Device Reunion: Wacom's Joyful News!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-not-working-detected-no-intel-hardware/"><u>Drivers Not Working; Detected No Intel Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-m-audio-m-track-2x2-driver-issue-easily-and-quickly/"><u>Fix M-Audio M-Track 2X2 Driver Issue Easily & Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-radeon-wattmans-crashed-configuration-step-by-step-fix-now-available/"><u>Fixing Radeon Wattman's Crashed Configuration - Step by Step Fix Now Available</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-windows-unable-to-use-enter-button/"><u>Fixing Windows: Unable to Use Enter Button</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-premium-to-price-free-navigate-why-chatgpt-plus-is-still-your-ideal-tech-partner/"><u>From Premium to Price-Free: Navigate Why ChatGPT Plus Is Still Your Ideal Tech Partner</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-a-nonfunctional-cpu-in-windows-10-due-to-absence-of-coprocessor-driver/"><u>How to Fix a Nonfunctional CPU in Windows 10 Due to Absence of Coprocessor Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-repair-your-broken-wireless-keyboard-for-windows-users-step-by-step-solutions/"><u>How to Repair Your Broken Wireless Keyboard for Windows Users - Step by Step Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-restore-a-missing-coprocessor-driver-for-windows-11-systems/"><u>How to Restore a Missing Coprocessor Driver for Windows 11 Systems</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-xr-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone XR to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-troubleshoot-and-overcome-obsolete-usb-composite-device-challenges/"><u>How to Troubleshoot and Overcome Obsolete USB Composite Device Challenges</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-infinix-hot-30-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Infinix Hot 30 5G Device</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-redmi-note-12-4g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi Redmi Note 12 4G FRP Bypass</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-compatibility-woes-updating-drivers-on-windows-1087/"><u>Overcoming Compatibility Woes: Updating Drivers on Windows 10/8/7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-itbm-drivers-missing-error-effortless-techniques-revealed/"><u>Overcoming ITBM Drivers Missing Error - Effortless Techniques Revealed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103914743-pchelp-my-computers-internal-wi-fibluetooth-wont-stop-responding/"><u>PCHelp - My Computer's Internal Wi-Fi/Bluetooth Won’t Stop Responding</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repairing-issues-with-non-recognition-last-usb-failure-and-ignored-by-windows-expert-tips/"><u>Repairing Issues with Non-Recognition: Last USB Failure and Ignored by Windows - Expert Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-inoperative-right-click-on-windows-11-mousepad/"><u>Resolved: Inoperative Right Click on Windows 11 Mousepad</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revelation-deactivate-bluetooth-on-windows-10/"><u>Revelation: Deactivate Bluetooth on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-invalid-service-installation-inf-segment/"><u>Solving Invalid Service Installation INF Segment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stop-immediate-repeated-amd-software-errors/"><u>Stop Immediate Repeated AMD Software Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103586885-swiftly-solve-bluetooth-connectivity-problems/"><u>Swiftly Solve Bluetooth Connectivity Problems!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/touchpad-driver-not-working-in-windows-7-solved/"><u>Touchpad Driver Not Working in Windows 7 [Solved]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlocking-virtualization-a-comprehensive-tutorial-for-turning-on-hyper-v-in-windows-10/"><u>Unlocking Virtualization: A Comprehensive Tutorial for Turning On Hyper-V in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unseen-seagate-steps-to-bring-it-back-in-win11/"><u>Unseen Seagate: Steps to Bring It Back in Win11</u></a></li>
+</ul></div>

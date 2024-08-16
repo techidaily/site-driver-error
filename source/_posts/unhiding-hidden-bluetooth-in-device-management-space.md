@@ -1,0 +1,216 @@
+---
+title: "Unhiding: Hidden Bluetooth in Device Management Space"
+date: 2024-08-15T06:54:40.895Z
+updated: 2024-08-16T06:54:40.895Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverError
+description: "This Article Describes Unhiding: Hidden Bluetooth in Device Management Space"
+excerpt: "This Article Describes Unhiding: Hidden Bluetooth in Device Management Space"
+thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf98e48829cdc79a65c4caf17b.jpg
+---
+
+## Unhiding: Hidden Bluetooth in Device Management Space
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/missing-driver.jpg)
+
+ Many users are experiencing issues with their Bluetooth devices, and have trouble connecting Bluetooth headphones, keyboards, and mice, etc. What to do when the Bluetooth is missing from Device Manager?
+
+## Try these fixes
+
+1. **[Make sure your Bluetooth is turned on](https://modlily.sjv.io/aw92wr)**
+2. **[Run the Bluetooth troubleshooter](https://exvist.pxf.io/dkpnky)**
+3. **[Reinstall the Bluetooth driver manually](https://25home.pxf.io/vnbxnv)**
+4. **[Restart the Bluetooth service](https://bluetties.sjv.io/lxv4pm)**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1\. Make sure your Bluetooth is turned on
+
+ Before getting started, it’s recommended that you check your Bluetooth status to make sure it’s already on by going to the Action Center (in the lower-right corner of your desktop):
+
+1) The Bluetooth will be highlighted if it’s turned on.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-13.png)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 2) On your keyboard, press the**Windows** logo key +**R** key and enter**ms-settings:bluetooth** to open your Bluetooth settings.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-14.png)
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+
+ 3) Add Bluetooth devices again. If your devices are listed here, you can remove them and add them back again. If your Bluetooth option is also missing from settings or grayed out, it means there’s some problem with your Bluetooth driver, and you should go to the next fix instead.
+
+![bluetooth settings](https://images.drivereasy.com/wp-content/uploads/2021/11/image-15-1200x938.png)
+
+ Restart your PC and check if this fixes your**Bluetooth missing from Device Manager** problem. If it doesn’t show in the Device Manager, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
+### 2\. Run the Bluetooth troubleshooter
+
+ If the Bluetooth problem persists, you can first try the Windows diagnostic tool to find the exact problem:
+
+ 1) On your keyboard, press the**Windows** logo key +**R** key at the same time and enter the command line:**`msdt.exe -id DeviceDiagnostic`** to open the device troubleshooter.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-17.png)
+
+ 2) Click**Next** to continue.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-16.png)
+
+ 3) The Windows diagnostic tool will start detecting problems. Wait for the process to complete.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-18-1200x934.png)
+
+ 4) Click**Apply this fix** to install some missing drivers and updates that your system finds. Usually, this requires a restart. Make sure you have saved the opened files prior to that.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-19.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ But if there’s no problem detected, you can head on to the next fix.
+
+### 3\. Reinstall the Bluetooth driver manually
+
+ The Windows automatic repair tool can find and apply the fix for your device, but sometimes it fails to detect any problems, which is also very common. If that’s your case, you can **[reinstall the Bluetooth driver](https://tools.techidaily.com/drivereasy/download/)**  manually by visiting the manufacturer’s official website to get the exact driver and install it on your PC (since you can’t do it via the Device Manager).
+
+ But if you’re not that tech-savvy or don’t have the time to do that, you can reinstall your Bluetooth driver in one click with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and   **you get full technical support and a 30-day money back guarantee**):
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+![update with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/11/image-20-1200x914.png)
+
+ 2) If you just want to update your Bluetooth driver for free, simply click the**_Update_** button next to it (it’s partly manual).
+
+ Or click**_Update All_** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-21-1200x914.png)
+
+**Note:** You can uninstall a driver by clicking the down arrow key next to a device, and selecting**Uninstall driver** .
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+ 3) After updating your Bluetooth driver,**restart your computer** for it to take full effect. Make sure you have checked**Show hidden devices** in Device Manager.
+
+![show hidden devices](https://images.drivereasy.com/wp-content/uploads/2021/11/image-26-1200x890.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+### 4\. Restart the Bluetooth service
+
+ If reinstalling the Bluetooth driver still fails to fix your Bluetooth missing from Device Manager problem, you can restart the Bluetooth-related system services to check if this does the trick.
+
+ 1) On your keyboard, press the**Windows** key +**R** key at the same time, and enter**services.msc** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-22.png)
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 2) Once the Services window opens, locate Restart Bluetooth Support Service. Right-click the**Bluetooth Support Service** and select**Restart** . If it’s not working, you can right-click it and select**Start** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-23-1200x856.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 3) After enabling this service or the restart, right-click on it again, and choose **Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-24-1200x854.png)
+
+ 4) Ensure **startup type** is**Automatic** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-25.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+
+ 5) Click**Apply** \>**OK** to save the changes.
+
+ Restart your computer and go back to the Device Manager again and check if the**Bluetooth missing from Device Manager** problem is solved by now.
+
+---
+
+* [Bluetooth](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-gpu-recognition-failure-windows/"><u>[FIXED] GPU Recognition Failure Windows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-smartphones-ultimate-guide-to-image-editing-and-annotation/"><u>[New] 2024 Approved  Smartphones' Ultimate Guide to Image Editing & Annotation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-complete-manual-to-perfect-proportions-in-youtube-videosshortsads/"><u>[New] The Complete Manual to Perfect Proportions in YouTube Videos/Shorts/Ads</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolution-device-driver-error/"><u>[Resolution: Device Driver Error]</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-captivate-viewers-earn-accolades-tips-for-staff-picks-on-vimeo/"><u>[Updated] In 2024, Captivate Viewers, Earn Accolades  Tips for Staff Picks on Vimeo</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-youtube-presence-with-studio-insights/"><u>[Updated] In 2024, Elevate Your YouTube Presence with Studio Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-art-of-interaction-in-online-google-meet-spaces/"><u>[Updated] In 2024, The Art of Interaction in Online Google Meet Spaces</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-swiftly-enhanced-facebook-videos-best-extensions-hacks-and-apps/"><u>[Updated] Swiftly Enhanced Facebook Videos  Best Extensions, Hacks, and Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-techniques-for-capturing-and-storing-android-and-mac-snaps/"><u>[Updated] Techniques for Capturing and Storing Android & Mac Snaps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-record-assistant-az-audits-and-substitutes/"><u>[Updated] Ultimate Record Assistant - AZ Audits & Substitutes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/10-finest-fee-free-lut-options-reviewed-and-accessible-here/"><u>10 Finest, Fee-Free LUT Options Reviewed & Accessible Here</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-asus-proart-pa-329q-a-deep-dive-into-high-resolution-monitoring/"><u>2024 Approved  Asus ProArt PA 329Q  A Deep Dive Into High-Resolution Monitoring</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-diy-guide-assembling-an-advanced-pc-for-cutting-edge-editing/"><u>2024 Approved  DIY Guide  Assembling an Advanced PC for Cutting-Edge Editing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-fixes-windows-problems-resolved/"><u>Bluetooth Fixes: Windows Problems Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correct-usb-interface-glitches/"><u>Correct USB Interface Glitches</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortlessly-optimize-your-pcs-capability-grab-freshly-updated-amd-ryzen-5n-2600-drivers-start-now/"><u>Effortlessly Optimize Your PC's Capability: Grab Freshly Updated AMD Ryzen 5N 2600 Drivers – Start Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhanced-video-streaming-fixing-asus-webcam-on-win11/"><u>Enhanced Video Streaming: Fixing ASUS Webcam on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-flawed-disc-detection-in-win-1011/"><u>Fixing Flawed Disc Detection in Win 10/11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/halt-nvidia-driver-loop-fix-made-easy/"><u>Halt Nvidia Driver Loop - Fix Made Easy</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-download-acpi-drivers/"><u>How to Download ACPI Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-ensure-optimal-performance-with-updated-hp-envy-eb-pc-series-drivers/"><u>How to Ensure Optimal Performance with Updated HP Envy Eb PC Series Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103983065-how-to-install-necessary-drivers-for-your-device-on-windows-1187-quick-fixes/"><u>How to Install Necessary Drivers for Your Device on Windows 11/8/7 - Quick Fixes!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-v29-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo V29 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-infinix-smart-7-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Infinix Smart 7 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps/"><u>In 2024, Explore iPhone's Best Value  Top 10 Budget-Friendly Photo Collage Apps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104769659-intel-processor-driver-disappeared-on-windows-11-heres-how-you-can-quickly-restore-it/"><u>Intel Processor Driver Disappeared on Windows 11? Here's How You Can Quickly Restore It</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-sound-visualization-merging-waveforms-for-audio-sight-and-animated-display-using-premiere-pro-for-2024/"><u>Mastering Sound Visualization Merging Waveforms for Audio Sight & Animated Display Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nullifying-flawed-inf-setup-clause-for-service/"><u>Nullifying Flawed INF Setup Clause for Service</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-pair-and-recognize-your-latest-cam-on-updated-pc-an-expert-guide-completely-solved-fixed/"><u>Re-Pair and Recognize Your Latest Cam on Updated PC: An Expert Guide, Completely Solved ![Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconcile-multi-device-support-issue/"><u>Reconcile Multi-Device Support Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-enhanced-bus-control-on-win11/"><u>Resolved: Enhanced Bus Control on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-drive-errors-acpi-id-33a0/"><u>Resolving Drive Errors - Acpi ID 33A0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-windows-1011-issues-with-sm-bus-controllers/"><u>Resolving Windows 10/11 Issues with Sm Bus Controllers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-normal-operation-of-right-click-on-windows-11-mousepad/"><u>Restore Normal Operation of Right Click on Windows 11 Mousepad</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsung-galaxy-tab-a5-not-recognized-by-kde-neon-solution-here/"><u>Samsung Galaxy Tab A5 Not Recognized by KDE Neon, Solution Here</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-connectivity-overcoming-wireless-hurdles-in-windows/"><u>Seamless Connectivity: Overcoming Wireless Hurdles in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-your-pc-top-5-windows-speed-solutions/"><u>Supercharge Your PC: Top 5 Windows Speed Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-best-offline-car-racing-games-free-picks/"><u>Top 5 Best Offline Car Racing Games - Free Picks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-and-fix-missing-coprocessor-driver-issues-on-windows-11/"><u>Troubleshoot & Fix Missing Coprocessor Driver Issues on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-solving-hcmon-driver-installation-issues/"><u>Troubleshooting Tips: Solving HCMON Driver Installation Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-guide-to-fixing-the-persistent-0x0000007e-bsod-error-in-windows-7-computers/"><u>Ultimate Guide to Fixing the Persistent 0X0000007E BSOD Error in Windows 7 Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlock-hidden-hardware-on-win-1011-pcs/"><u>Unlock Hidden Hardware on WIN 10/11 PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/versatile-pci-support-bundle-win-10-8/"><u>Versatile PCI Support Bundle: Win 10, 8</u></a></li>
+</ul></div>

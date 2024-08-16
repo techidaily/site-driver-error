@@ -1,0 +1,197 @@
+---
+title: "Resolved: Broadcom Wi-Fi N Adapter Errors in Windows"
+date: 2024-08-15T06:45:56.167Z
+updated: 2024-08-16T06:45:56.167Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverError
+description: "This Article Describes Resolved: Broadcom Wi-Fi N Adapter Errors in Windows"
+excerpt: "This Article Describes Resolved: Broadcom Wi-Fi N Adapter Errors in Windows"
+thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaeeb2d7b69ad5a8426d3a0541d.jpg
+---
+
+## Resolved: Broadcom Wi-Fi N Adapter Errors in Windows
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/09/code-10-error-of-broadcom-802-11n-network-adapter.jpg)
+
+ If you’re having trouble connecting to the internet, and you suspect that the culprit is the **Broadcom 802.11n Network Adapter** driver with the error code **Code 10** , you’re not alone. Many Windows users are reporting this problem as well. But no worries, it’s possible to fix.
+
+ Here are 4 fixes for you to try. You may not have to try them all; just work your way down until you find the one works for you.
+
+## Table of contents
+
+* [1: Reinstall Device Driver](https://turtlebeachus.sjv.io/vmebyo)
+* [2: Update Device Drivers](https://caperobbin.sjv.io/9grow5)
+* [3: Update Software and Operating System](https://bellelily.pxf.io/m5azgm)
+* [4: Manually fix corrupted registry entries](https://lenovo-in.zlvv.net/kj14kn)
+* [Hardware Compatibility Issues](https://bluettifr.pxf.io/bax2bv)
+
+## 1: Reinstall Device Driver
+
+ Faulty driver is very likely to be the reason for your not working network adapter. You can reinstall its driver to get this problem fixed:
+
+ 1) On your keyboard, press the **Windows logo key** and **R** at the same time, type **devmgmt.msc** in and press **Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c37a43891ed.png)
+
+ 2) Expand **Network adapters**  and double-click **Broadcom 802.11n network adapter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/09/broadcom-802-11n-network-adapter.jpg)
+
+ 3) Go to the **Driver** tab and click **Update Driver…** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/09/update-driver-option.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+
+ 4) Click **Browse my computer for driver software** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/09/browse-my-computer-for-driver-software.jpg)
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 5) Click   **Let me pick from a list of device drivers on my computer.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/09/let-me-pick-from-a-list-of-device-drivers-on-my-computer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
+
+ 6) Click **Have Disk…** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/09/have-disk.jpg)
+
+ 7) Browse to **C:/(the name of your laptop manufacture)/drivers** and look for folder with the name similar to **R274634** . Double-click the folder and find the appropriate **.inf** file for your device.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/09/cthe-name-of-your-laptop-manufacturedrivers.png)
+
+ You should be able to see the name of the file ends with**.inf** .
+
+ The screenshot is but an example. Your file name should be different from mine.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/09/inf-file.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 8) Then you will be lead back to the **Install From Disk** window, press **OK** to continue.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/09/install-from-disk.png)
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Wait for the correct driver to be installed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2: Update Device Drivers
+
+ If reinstalling the network adapter driver fails to solve the problem for you, you should update your network card driver instead. If you don’t have the time, patience, or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+ 1) [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy. 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/DE-scan-10.jpg)
+
+ 3) Click the **Update** button next to the flagged network card device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
+## 3: Update Software and Operating System
+
+ Sometimes missing software updates and service packs could cause the Code 10 error in device manager. If you suspect this is the problem, it is suggested that you update and install the latest updates for Windows.
+
+## 4: Manually fix corrupted registry entries
+
+ One of the causes of the code 10 error could be corrupted registry entries. To fix the problem, you might want to fix the registry entries by yourself. **Note** : To use this method, you must be logged on to Windows as an **administrator** . **IMPORTANT** : Follow the steps in this section carefully. Serious problems might occur if you modify the registry incorrectly. Before you modify it, **[back up the registry for restoration](https://tools.techidaily.com/drivereasy/download/)**  in case problems occur.
+
+ 1) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke a **Run** command. Then type **regedit** in the search box and press **Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/09/ype-regedit-in-the-search-box.png)
+
+ 2) Follow the path   **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\4D36E978-E325-11CE-BFC1-08002BE10318** and locate the the folder.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/09/hkey_local_machinesystemcurrentcontrolsetcontrolclass4d36e978-e325-11ce-bfc1-08002be10318-600x494.jpg)
+
+ 3) On the right side of the pane, see if you can find options **UpperFilters** and **LowerFilters** . If you cannot see either of these two options, this method is not working for you. If these two options are available, right-click them and click **Delete** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/09/delete-upperfilter-and-lowerfilter.png)
+
+ 4) If prompted to confirm the delete, click **Yes** . 5) Exit Registry Editor and restart the computer.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Hardware Compatibility Issues
+
+ Windows 10 operating system has long been reported by its users to have compatibility issues with Broadcom 802.11n network adapters, but there seems to be no exact solution to tackle this problem from Microsoft. If this problem has caused you tremendous troubles, it is suggested that you report this error to Microsoft and to your laptop manufacturer to see if they can be of help, but the response speed is not guaranteed.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-skill-discovering-the-top-10-budget-friendly-video-artists-on-youtube/"><u>[New] 2024 Approved  Elevate Your Skill  Discovering the Top 10 Budget-Friendly Video Artists on YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-getting-involved-in-the-global-village-facebook/"><u>[New] 2024 Approved  Getting Involved in the Global Village (Facebook)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-top-5-essential-filming-accessories-for-online-creators/"><u>[New] 2024 Approved  Top 5 Essential Filming Accessories for Online Creators</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-expert-insights-on-perfecting-your-gaming-screenshots/"><u>[New] In 2024, Expert Insights on Perfecting Your Gaming Screenshots</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-error-code-48-in-device-manager/"><u>[SOLVED] Error Code 48 in Device Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-irqlnotlessorequal-bsod-in-windows-11/"><u>[Solved] IRQL_NOT_LESS_OR_EQUAL BSOD in Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-seamless-social-media-execution-with-the-top-8-iphone-and-android-apps/"><u>[Updated] 2024 Approved  Seamless Social Media Execution with The Top 8 iPhone & Android Apps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-art-of-shooting-and-editing-slow-motion-content-for-instagram/"><u>[Updated] 2024 Approved  The Art of Shooting and Editing Slow Motion Content for Instagram</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-amplify-engagement-increase-youtube-viewers-for-2024/"><u>[Updated] Amplify Engagement  Increase YouTube Viewers for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-skype-recording-top-10-picks-for-optimal-audio/"><u>2024 Approved  Skype Recording  Top 10 Picks for Optimal Audio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-dji-drone-visor-revolution-an-in-depth-review/"><u>2024 Approved  The DJI Drone Visor Revolution  An In-Depth Review</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/banish-endless-connectivity-of-bluetooth-in-win10/"><u>Banish Endless Connectivity of Bluetooth in Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/banish-the-deadly-js-error-in-discord-a-quick-guide-for-win-11-users/"><u>Banish the Deadly JS Error in Discord: A Quick Guide for Win 11 Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-honor-magic-6-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Honor Magic 6 Pro.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-solutions-to-overcome-the-failed-hcmondriver-driver-setup-problem/"><u>Effective Solutions to Overcome the Failed Hcmondriver Driver Setup Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/exploring-the-legacy-of-usb-composite-devices-in-modern-computing/"><u>Exploring the Legacy of USB Composite Devices in Modern Computing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-marvell-91xx-driver-issue-on-windows-10-solved/"><u>Fix Marvell 91Xx Driver Issue on Windows 10 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-invalid-service-installation-parameters-in-inf/"><u>Fixing Invalid Service Installation Parameters in INF</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-successfully-fix-failed-hcom-monitor-driver-setup-errors/"><u>How to Successfully Fix Failed HCOM Monitor Driver Setup Errors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-poco-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Poco</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-connect-and-play-xbox-one-zoom-guidebook/"><u>In 2024, Connect and Play  Xbox One Zoom Guidebook</u></a></li>
+<li><a href="https://driver-error.techidaily.com/iphone-usb-connection-fixed-resolving-the-mtp-device-driver-problem/"><u>IPhone USB Connection Fixed: Resolving the MTP Device Driver Problem</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/language-mastery-accelerated-by-chatgpt-plus-strategies-and-tips/"><u>Language Mastery Accelerated by ChatGPT Plus: Strategies and Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-intel-management-engine-fixes/"><u>Mastering Intel Management Engine Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/metro-exodus-pc-version-stability-issues-resolved-tips-and-tricks/"><u>Metro Exodus PC Version Stability Issues Resolved - Tips & Tricks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimizing-razer-hats-for-windows-11/"><u>Optimizing Razer HATs for Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-no-initialization-directx-9-issue-quickly/"><u>Overcoming 'No Initialization DirectX 9' Issue Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/preventing-bluetooth-auto-turn-on-in-win11/"><u>Preventing Bluetooth Auto-Turn On in WIN11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-simple-update-process-for-your-surfaces-drivers-start-here/"><u>Quick and Simple Update Process for Your Surface's Drivers - Start Here!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revised-service-setup-valid-inf-section/"><u>Revised Service Setup: Valid INF Section</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-operations-bluetooth-drivers-on-windows/"><u>Smooth Operations: Bluetooth Drivers on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stop-windows-11-bluetooth-from-self-activating/"><u>Stop Windows 11 Bluetooth From Self-Activating</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-usb-wire-connection-problem-poweredge/"><u>Troubleshoot USB-WIRE Connection Problem, PowerEdge</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-windows-7-bsod-with-stop-code-0x0000007e/"><u>Troubleshooting Guide: Resolving Windows 7 BSOD with Stop Code 0X0000007E</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-os-missing-data-acquisition-device/"><u>Win OS Missing Data Acquisition Device</u></a></li>
+</ul></div>
