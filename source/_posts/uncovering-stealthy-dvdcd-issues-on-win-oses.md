@@ -1,0 +1,206 @@
+---
+title: Uncovering Stealthy DVD/CD Issues on Win OSes
+date: 2024-08-22T14:10:49.195Z
+updated: 2024-08-23T14:10:49.195Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverError
+description: This Article Describes Uncovering Stealthy DVD/CD Issues on Win OSes
+excerpt: This Article Describes Uncovering Stealthy DVD/CD Issues on Win OSes
+thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf98e48829cdc79a65c4caf17b.jpg
+---
+
+## Uncovering Stealthy DVD/CD Issues on Win OSes
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cc5c859cb7.png)
+
+ Use [Driver Easy](https://tools.techidaily.com/drivereasy/download/) to fix your not showing up disc, DVD or CD drives immediately!
+
+ If you’ve recently upgraded to Windows 10, and you couldn’t find the**DVD drive** option in**This PC** (Windows 10 OS) window, you’re not alone. Some of you might not even see your DVD/CD ROM option in Device Manager. No need to worry too much about it, it’s possible to fix.
+
+ Here are 4 fixes for you to try. You may not have to try them all; just work your way down until you find the one works for you.
+
+ Method 1:[**Uninstall IDE ATA/ ATAPI controllers**](https://aligracehair.sjv.io/y209r3)
+ Method 2:[**Update drivers**](https://cowinaudio.pxf.io/pyx40e)
+ Method 3:[**Manually fix corrupted registry entries**](https://tidio.pxf.io/9grog5)
+ Method 4:[**Create a registry subkey**](https://modlily.sjv.io/aw92wr)
+
+## **1: Uninstall IDE ATA/ ATAPI controllers**
+
+ One of the reasons why you can’t see DVD/CD-ROM in your Windows 10 PC could be faulty device drivers. You can reinstall the drivers to fix it. Here is how:
+
+ 1) On your keyboard, press the**Windows logo key** and**R** at the same time, click**Device Manager** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6098ec3402.png)
+
+ 2) Locate**IDE ATA/ ATAPI controllers** .
+ 3) Right-click **ATA Channel 0** and click **Uninstall** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e194a84fe7.png)
+
+ 4) Right-click **ATA Channel 1** and click**Uninstall** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e199372f3c.png)
+
+ 5) If you have more options under**IDE/ ATAPI controllers** category, right-click them and click**Uninstall** as above procedures.
+
+ 6) Reboot your computer after these changes.
+
+ 7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
+
+## **2: Update drivers**
+
+ If uninstalling the IDE ATA/ ATAPI controller drivers doesn’t solve the problem for you, it’s likely that you’re using the wrong driver altogether.
+
+ There are two ways you can get the right drivers for your disc /DVD drive: manually or automatically.
+
+**Manual driver update**  – You can update your disc drive driver manually by going to the manufacturer’s website for your computer, and searching for the most recent correct driver for it. Be sure to choose only driver that is compatible with your variant of Windows 10.
+
+**Automatic driver update** –  If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .  Driver Easy will automatically recognize your system and find the correct driver for your exact disc drive, and your variant of Windows 10, and it will download and install it correctly :
+
+ 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+
+ 2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a61a4afa.png)
+
+ 3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
+## **3: Manually fix corrupted registry entries**
+
+**IMPORTANT** : Before we move on, it’s strongly recommended that you [back-up and restore your registry](https://tools.techidaily.com/drivereasy/download/) first.
+
+ If your registry entry is off, you’ll not be able to see certain device on your PC. To fix it:
+
+ 1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke a**Run** command. Type **regedit** and press**Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+ 2) Follow the path:
+ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\ {4D36E965-E325-11CE-BFC1-08002BE10318}**
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
+
+ 3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55543336b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 4) **Delete**  them.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
+
+## **4: Create a registry subkey**
+
+ If you can’t see**UpperFilters** and**LowerFilters** in the Registry pane, please follow the steps below.
+
+ 1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke a**Run** command. Type **regedit** and press**Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
+
+ 2) Follow the path:
+**HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\atapi\\**
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd3791d37b.png)
+
+ 3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
+ 4) Create a new**Controller0** key under**atapi** key.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
+ 5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
+
+ 6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
+7) Exit Registry Editor.
+
+8) Restart your computer.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-cut-costs-boost-creativity-learn-the-secrets-of-green-screen-artistry-from-4-leading-educators-for-2024/"><u>[New] Cut Costs, Boost Creativity  Learn the Secrets of Green Screen Artistry From 4 Leading Educators for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-comparative-analysis-of-youtubes-ownership-vs-cc-licenses/"><u>[New] In 2024, A Comparative Analysis of Youtube's Ownership Vs. CC Licenses</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-a-comprehensive-guide-to-thumbnail-production/"><u>[New] In 2024, A Comprehensive Guide to Thumbnail Production</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-tomtom-gopro-challenger-review-2023-update-for-2024/"><u>[New] TomTom GoPro Challenger Review – 2023 Update for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-asus-keys-no-light/"><u>[RESOLVED] Asus Keys No Light</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-download-youtube-videos-to-mp4-without-breaching-laws/"><u>[Updated] 2024 Approved  Download YouTube Videos to MP4 without Breaching Laws</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-building-impressive-instagram-story-bookmarks/"><u>[Updated] In 2024, Building Impressive Instagram Story Bookmarks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-handle-accidental-reflections-in-video-conversations/"><u>[Updated] In 2024, How To Handle Accidental Reflections in Video Conversations</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-google-pixel-7a-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Google Pixel 7a System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disabling-permanent-bluetooth-issue-fixed/"><u>Disabling Permanent Bluetooth Issue (Fixed)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dvd-non-discovery-in-windows-11-resolved-quickly/"><u>DVD Non-Discovery in Windows 11 - Resolved Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eradicating-invalid-configuration-segment-in-inf/"><u>Eradicating Invalid Configuration Segment in INF</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-48-resolved-in-device-manager/"><u>Error 48 Resolved in Device Manager</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-the-world-of-drawing-on-your-chromebook-today/"><u>Explore the World of Drawing on Your Chromebook Today</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-6s-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 6s? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-tools-to-convert-and-tweet-videos/"><u>In 2024, Optimal Tools to Convert and Tweet Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/introducing-the-minisforum-s100-a-pocket-computer-with-poe-and-25gbe-connectivity/"><u>Introducing the Minisforum S100: A Pocket Computer with PoE and 2.5GbE Connectivity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-failure-in-windows-10/"><u>Keyboard Failure in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-safe-boot-in-windows-8-a-complete-guide-to-disable-and-reinstall-display-adapters/"><u>Mastering Safe Boot in Windows 8 - A Complete Guide to Disable and Reinstall Display Adapters</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-errors-hidef-audio-device-fixed/"><u>No More Errors: HiDef Audio Device Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-usb-network-driver-not-working-after-update/"><u>Resolving USB Network Driver Not Working After Update</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restore-your-iphones-volume-troubleshooting-tips-for-no-sound/"><u>Restore Your iPhone's Volume: Troubleshooting Tips for No Sound</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restored-functioning-keyboard-on-windows-11-pc/"><u>Restored: Functioning Keyboard on Windows 11 PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-iphone-data-sharing-made-possible-by-resolving-usb-device-driver-hiccups/"><u>Seamless iPhone Data Sharing Made Possible by Resolving USB Device Driver Hiccups</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sharp-lenses-clear-visions-tips-for-fog-free-filming/"><u>Sharp Lenses, Clear Visions  Tips for Fog-Free Filming</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-guide-installing-missing-drivers-on-your-device-compatible-with-older-versions-of-windows/"><u>Solution Guide: Installing Missing Drivers on Your Device Compatible with Older Versions of Windows</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-x6-pro-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from X6 Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-the-issue-invalid-driver-installation-on-your-pc/"><u>Solving the Issue: Invalid Driver Installation on Your PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-to-solve-windows-78-unsupported-usb-errors/"><u>Steps to Solve Windows 7/8 Unsupported USB Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/strategies-to-tackle-intel-mmc-errors/"><u>Strategies to Tackle Intel MMC Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-to-snapping-photos-while-playing-xbox-one/"><u>The Ultimate Walkthrough to Snapping Photos While Playing Xbox One</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-motorola-moto-g04-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Motorola Moto G04.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-pros-and-cons-of-samsung-photo-editor/"><u>Unveiling the Pros & Cons of Samsung PHOTO EDITOR</u></a></li>
+<li><a href="https://driver-error.techidaily.com/vehicle-compatibility-problem-with-gadget/"><u>Vehicle Compatibility Problem with Gadget</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-compatibility-solving-broadcom-wi-fi-n-adapter-problems/"><u>Win Compatibility: Solving Broadcom Wi-Fi N Adapter Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-supports-asus-usb-camera-better-now/"><u>Windows 10 Supports ASUS USB Camera Better Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-irql-glitch-resolved/"><u>Windows 11 IRQL Glitch Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-users-samsung-driver-installation/"><u>Windows Users: Samsung Driver Installation</u></a></li>
+</ul></div>

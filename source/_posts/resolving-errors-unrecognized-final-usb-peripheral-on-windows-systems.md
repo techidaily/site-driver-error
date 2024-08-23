@@ -1,0 +1,241 @@
+---
+title: "Resolving Errors: Unrecognized Final USB Peripheral on Windows Systems"
+date: 2024-08-22T14:14:28.628Z
+updated: 2024-08-23T14:14:28.628Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverError
+description: "This Article Describes Resolving Errors: Unrecognized Final USB Peripheral on Windows Systems"
+excerpt: "This Article Describes Resolving Errors: Unrecognized Final USB Peripheral on Windows Systems"
+thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1df6527be4105c5f43b0af39.jpg
+---
+
+## Resolving Errors: Unrecognized Final USB Peripheral on Windows Systems
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a337af7e9660.jpg)
+
+[Driver Easy](https://tools.techidaily.com/drivereasy/download/) fixes your USB device not recognized problem instantly!
+
+ If you plug in your USB flash drive, or your mobile phone, hoping to get down to your work, but only to find the balloon on the right corner popping up saying:
+
+ **_USB device not recognized – The last USB device you connected to this computer malfunctioned, and Windows does not recognize it._**
+
+ making it impossible for you to do whatever you want to do, you’re not alone. Many Windows 10 users are reporting this as well. But no worries, this problem is not that hard to fix at all. If you’re not interested in the cause of this problem, jump ahead to the [fixes](https://uperfect.sjv.io/g1jgba) .
+
+## Why would I see this problem?
+
+ The exact cause to this problem varies on different combinations of computer environments. It could be caused by malfunctioned USB ports, USB controllers bugs, or outdated, missing or faulty USB ports.
+
+ As mentioned, the exact cause could be very different in different situations, but there are some general resolutions that you should try before you turn to technicians. And one of the solutions below is bound to fix the problem for you. No worries, we’ve got you covered.
+
+## How can I fix it?
+
+ Here are 4 solutions for you to try. You may not have to try them all; just work your way down until you find the one works for you.
+
+ Method 1:[**Try another USB port**](https://collovinc.sjv.io/jrkzwp)
+ Method 2:[**Update all possible device drivers**](https://bluettifr.pxf.io/bax2bv)
+ Method 3: [**Disable USB selective suspend settings**](https://exvist.pxf.io/dkpnky)
+ Method 4:[](https://homestyler.sjv.io/y209g3) [**Re-enable USB controller driver**](https://bluettifr.pxf.io/bax2bv)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+## Method 1: Try another USB port
+
+ If you are with a desktop, try to connect your USB device to your computer via the USB ports at the back of your computer case. The USB ports at the back usually have stronger electricity power coming through, which will allow a more stable power supply to your USB device.
+
+ If you are with a laptop, try unplugging your USB device from its current port and plug it into a different one. Try not to use any USB hubs.
+
+ If your problem stops here, the USB port might be at fault, not your USB flash drive. Try to avoid using the same port next time, in case similar problem happens again.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+## Method 2: Update all possible device drivers
+
+ Another possibility for your not-recognized USB device is outdated, missing and/or faulty drivers. You should verify that all your devices have the right drivers, and update those that don’t. This is especially true for your motherboard driver, your USB port drivers, and your external hard drive driver.
+
+**Manual drivers update** – You can try to update needed device drivers via the Device Manager one by one, or Windows Update if you’re on Windows 10\. If Windows Update or Device Manager fails to locate the appropriate drivers for you, you can also go to the manufacturer support website and search for the device drivers by yourself. The process could take quite some time if you’re not particularly familiar with the driver update process.
+
+**Automatic drivers update** – If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system and find the correct drivers for it:
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**   and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37710b44342.png)
+
+ 3) Click the **Update**  button next to the flagged drivers to automatically download and install the correct versions (you can do this with the **FREE** version).
+
+Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the [**Pro**](https://tools.techidaily.com/drivereasy/download/) version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37721186152.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 4) You need to restart your PC for the updated drivers to work properly. Check if your USB device is recognized now.
+
+##
+
+ Method 3: Disable USB selective suspend settings
+
+ Selective suspend is a feature allowing your computer to assign certain USB ports to a power saving mode, just like the sleep mode of your PC. It’s very handy when you are only on battery with your laptop or tablet.
+
+ The problem is, for desktop users, it’s not that necessary, since desktops are always plugged into power, and it could be the culprit for your not recognized USB device as well. Here is how you can disable it:
+
+ 1) On your keyboard, press the**Windows logo key** and**S** at the same time, type in the search box**power plan** and click**Choose a power plan** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377758f2bdc.png)
+
+ 2) Click**Change plan settings** next to the plan option you’re having now.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3777c0a811b.png)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ 3) Click**Change advanced power settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377814e701a.png)
+
+ 4) Click to expand**USB settings** and**USB selective suspend setting** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3778a48905d.png)
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+ 5) Select**Disabled** from the drop-down option. Then click**Apply** and**OK** to save the change.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377b3cef938.png)
+
+**NOTE** : If you’re using a laptop, click**On battery** , then**Disabled** from the drop-down menu.
+
+ 6) Check to see if your USB device is recognized now. If the problem remains unsolved, proceed with the methods below.
+
+##
+
+ Method 4: Re-enable USB controller driver
+
+ Unstable or corrupted USB controller driver could also be the cause of your not recognized USB device. You can easily fix it by re-enabling your USB controller driver. Here is how you can do it:
+
+ 1) On your keyboard, press the**Windows logo key** and**R** at the same time. Type**devmgmt.msc** in and press**Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3786b06277a.png)
+
+ 2) On the top bar, click**View** and then**Show hidden devices** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378723b37b6.png)
+
+ 3) Click to expand**Universal Serial Bus controllers.**
+
+### 3.1) If you see any device drivers marked by**yellow exclamation marks** or**question marks:**
+
+ 3.1.1) Right-click them and click**Uninstall device** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37894943164.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3.1.2) Click**Uninstall** to continue.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37895fbce37.png)
+
+ 3.1.3) When the uninstall finishes, restart your computer. Then repeat the same procedure with the rest of the USB controllers marked by yellow exclamation marks or question marks one by one.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
+### 3.2) If you don’t see any drivers marked by yellow exclamation mark or question mark
+
+ 3.2.1) Right-click the first option you see here and click**Disable device** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e629ee28.png)
+
+ 3.2.3) When the disable finishes, restart your PC. Repeat the same procedure as above, and if your USB controller driver is not enabled automatically, right-click it and click**Enable device** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e29c15b5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
+4) Your USB device should be recognized now.
+
+* [USB](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-step-into-fantasy-youtubes-top-10-vr-gems/"><u>[New] 2024 Approved  Step Into Fantasy  Youtube's Top 10 VR Gems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-from-slides-to-screens-easy-recording-techniques/"><u>[New] In 2024, From Slides to Screens  Easy Recording Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pro-tips-navigating-without-watching-edgenuity-content/"><u>[New] Pro Tips  Navigating Without Watching Edgenuity Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-choosing-between-igtv-and-youtube-for-content-creators/"><u>[New] The Ultimate Guide to Choosing Between IGTV & YouTube for Content Creators</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mobile-methods-download-gifs-from-twitter-on-devices/"><u>[Updated] 2024 Approved  Mobile Methods  Download GIFs From Twitter on Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-portable-battery-packs-to-keep-recording-longer/"><u>[Updated] Portable Battery Packs to Keep Recording Longer</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-art-of-adding-descriptive-texts-in-tiktok-videos-for-2024/"><u>[Updated] The Art of Adding Descriptive Texts in TikTok Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-xbox-gaming-captured-a-beginners-screen-recording-journey-for-2024/"><u>[Updated] Xbox Gaming Captured  A Beginner's Screen Recording Journey for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-craft-your-narrative-implementing-inshot-transitions-professionally/"><u>2024 Approved  Craft Your Narrative  Implementing Inshot Transitions Professionally</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-discover-prime-streaming-options-for-churches-today/"><u>2024 Approved  Discover Prime Streaming Options for Churches Today</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-your-srt-files-with-mac-expertise/"><u>2024 Approved  Navigating Your SRT Files with Mac Expertise</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-12-pro-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 12 Pro Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/aspire-with-angles-crafting-compelling-visuals-through-instagram-rotation-for-2024/"><u>Aspire with Angles  Crafting Compelling Visuals Through Instagram Rotation for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoiding-impostor-chatgpt-programs-tips-for-apple-users/"><u>Avoiding Impostor ChatGPT Programs: Tips for Apple Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disappearing-cds-troubleshoot-for-windows-users/"><u>Disappearing CDs: Troubleshoot for Windows Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-download-and-update-the-right-drivers-for-your-hp-envy-20-laptopdesktop/"><u>Easy Steps to Download & Update the Right Drivers for Your HP ENVY 20 Laptop/Desktop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-logged-ideport0-control-defect/"><u>Error Logged: Ideport0 Control Defect</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-error-in-device-manager-48/"><u>Fixed Error in Device Manager (#48)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gpu-lens-peering-into-microsofts-bda/"><u>GPU Lens: Peering Into Microsoft's BDA</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-correcting-device-misconfiguration-error-code-1-solution/"><u>Guide to Correcting Device Misconfiguration Error - Code 1 Solution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-fix-top-bottom-flipped-videos-when-watching-on-an-asus-laptop-or-desktop/"><u>Guide to Fix Top-Bottom Flipped Videos When Watching on an ASUS Laptop or Desktop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-no-driver-found-error-on-your-device-with-windows-11-8-or-7-solved/"><u>How to Fix 'No Driver Found' Error on Your Device with Windows 11, 8 or 7 – Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-reactivate-nonworking-right-click-on-windows-11-touchpad/"><u>How To Reactivate Nonworking Right Click on Windows 11 Touchpad</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-all-encompassing-az-screenshot-tool-app-evaluations/"><u>In 2024, All-Encompassing AZ Screenshot Tool  App Evaluations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-introduction-to-stories-essence-and-art/"><u>In 2024, Introduction to Stories' Essence and Art</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-quick-lenovo-screen-capture-tips/"><u>In 2024, Quick Lenovo Screen Capture Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-art-of-instagram-video-craftsmanship/"><u>In 2024, The Art of Instagram Video Craftsmanship</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-8-plus-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone 8 Plus Making It Possible</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-honor-x50-gt-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Honor X50 GT Phone Network-Ready</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-icd-identifying-the-opengl-driver/"><u>Intel ICD: Identifying the OpenGL Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/iphone-xs-not-detected-by-windows-xp-fixed/"><u>IPhone XS Not Detected by Windows XP [Fixed]</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/lens-leaders-battle-sj6-clashes-with-xiaomis-four-k-kickstarter/"><u>Lens Leaders Battle  SJ6 Clashes with Xiaomi’s Four-K Kickstarter</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-complete-chromecast-handbook-streaming-any-video-format-like-a-pro-for-2024/"><u>New The Complete Chromecast Handbook Streaming Any Video Format Like a Pro for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-response-from-apple-tv-remote-on-macos-sierra-fix-ready/"><u>No Response From Apple TV Remote on MacOS Sierra (Fix Ready)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-missing-press-function-on-windows/"><u>Overcoming Missing Press Function on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-usb-camera-anomalies-in-asus-w10-edition/"><u>Overcoming USB Camera Anomalies in ASUS, W10 Edition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pchelp-i-need-to-turn-off-the-built-in-bluetooth-on-my-windows-10-machine/"><u>PCHelp I Need to Turn Off the Built-In Bluetooth on My Windows 10 Machine</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfecting-audio-records-with-our-step-by-step-guide/"><u>Perfecting Audio Records with Our Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-unsupported-hardware-alerts-in-your-software-suite-a-step-by-step-solution/"><u>Resolve 'Unsupported Hardware' Alerts in Your Software Suite – A Step-by-Step Solution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-disappearing-pc-data-collectors/"><u>Resolve Disappearing PC Data Collectors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-frequent-amd-driver-crashes-fast/"><u>Resolve Frequent AMD Driver Crashes Fast</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solutions-to-intel-wireless-bluetooth-drivers-not-working-on-your-windows-11-device/"><u>Solutions to Intel Wireless Bluetooth Drivers Not Working on Your Windows 11 Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-understanding-and-identifying-the-classic-usb-composite-device/"><u>Solved: Understanding and Identifying the Classic USB Composite Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/taskbar-alert-managing-full-disk-on-win1110/"><u>Taskbar Alert: Managing Full Disk on Win11/10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tech-meets-barista-mode-a-unique-computer-tower-with-an-integrated-coffee-making-system-complete-with-roaster-and-grinder/"><u>Tech Meets Barista Mode: A Unique Computer Tower with an Integrated Coffee-Making System, Complete with Roaster and Grinder</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-word-docs-seamlessly-into-pdfs-using-windows-11/"><u>Transform Your Word Docs Seamlessly Into PDFs Using Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-restoring-functionality-of-your-non-responsive-hp-wireless-keyboard/"><u>Troubleshooting Guide: Restoring Functionality of Your Non-Responsive HP Wireless Keyboard</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-correcting-a-missing-coprocessor-driver-on-windows-11-systems/"><u>Troubleshooting: Correcting a Missing Coprocessor Driver on Windows 11 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-and-correcting-the-blue-screen-of-death-problem-error-0x0000007e-in-windows-ebox/"><u>Understanding and Correcting the 'Blue Screen of Death' Problem - Error 0X0000007E in Windows Ebox</u></a></li>
+<li><a href="https://driver-error.techidaily.com/vehicle-vigilance-overcoming-error-e52/"><u>Vehicle Vigilance: Overcoming Error E52</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-os-now-compatible-with-hardware/"><u>Win OS Now Compatible with Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-changes-impact-realtek-lan-driver/"><u>Windows 10 Changes Impact Realtek LAN Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-pc-no-response-when-trying-to-mute-or-disable-bluetooth/"><u>Windows PC: No Response when Trying to Mute or Disable Bluetooth.</u></a></li>
+</ul></div>
