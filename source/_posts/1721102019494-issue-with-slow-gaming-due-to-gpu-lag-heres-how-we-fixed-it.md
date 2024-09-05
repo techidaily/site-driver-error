@@ -1,7 +1,7 @@
 ---
 title: Issue with Slow Gaming Due to GPU Lag - Here’s How We Fixed It
-date: 2024-07-15T06:50:25.132Z
-updated: 2024-07-16T06:50:25.132Z
+date: 2024-09-04T12:50:48.389Z
+updated: 2024-09-05T12:50:48.389Z
 tags:
   - win11
   - win10
@@ -15,24 +15,12 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
 
 ## Issue with Slow Gaming Due to GPU Lag - Here’s How We Fixed It
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3f4aa4a899.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 For less advanced computer users, GeForce Experience is a useful application that helps to keep the drivers up to date, optimize game settings and allow you to share your gaming moments with your friends.![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3f3016d711.jpg) That being said, quite a few users are having problem where they see notification:”**GeForce cannot optimize games on this PC.**” or “**Games cannot be optimized.**” As shown in the first screen shot above. ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3f5205d200.jpg) If this also happens to you, read on and follow the easy-doing steps with images to help you fix the problem. [**1: Temporarily Shut Down Firewall**](https://collovinc.sjv.io/jrkzwp) [**2: Change the Settings in GeForce Experience**](https://bluettifr.pxf.io/bax2bv) [**3: Clean-install NVIDIA Display Driver**](https://copa.sjv.io/6eoowq)   **1: Temporarily Shut Down Firewall** Some users reported saying that this problem was gone when they temporarily shut down the firewall on their computers. It seems that on some computers, the firewall completely blocked the scan for new games, rendering it impossible for GeForce to help you optimize your gaming experience.   **2: Change the Settings in GeForce Experience** 1) Open your NVIDIA GeForce Experience. Go to**Preferences**tab. Then click**Games**side tab.![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a404079c123.jpg) 2) Make sure the box for**Recommend optimal settings**is checked. ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a404b623091.png) 3) Now go back to Game tab. See if the requirements are met. If so, then the optimizations should be able to work now.   **3: Clean-install NVIDIA Display Driver**1) To perform a clean-install of your display driver, you should first download**Display Driver Uninstaller**. It’ll help you uninstall your graphic driver entirely. After the download, install as instructed. Note that Display Driver Uninstaller might not work well after Windows 10 Creators Update. If you’re having problem using it, feel free to let us know and we’l provide further assistance. 2) Launch **Display Driver Uninstaller**. If you are in normal mode, it will suggest that you go to Safe Mode first and then proceed with the uninstall. Choose from the drop-down box**Safe Mode (Recommended)**.![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a40772e54be.png) 3) Choose**Clean and restart (Highly recommended)**option. ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a409a03cfa8.jpg) Wait for the uninstall to complete and your computer will restart into normal mode. 4) Then go to support website of NVIDIA and search for the correct graphics card driver for your device. ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a409fd3ebd4.jpg) 5) When you find the correct driver, download it and then install it as instructed. The time spent depends on the searching skill and the network speed of yours. So the time could range from 10 minutes to 1 hour or more. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59964fe66ed54.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Click the**Update**button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click**Update All**). ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59965024bc7a8.jpg)
 
 * [NVIDIA](https://tools.techidaily.com/drivereasy/download/)
@@ -53,3 +41,64 @@ For less advanced computer users, GeForce Experience is a useful application tha
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-engage-audiences-with-free-video-teasers/"><u>[New] 2024 Approved  Engage Audiences with Free Video Teasers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gastronomy-gurus-the-elite-of-food-vlogs-for-2024/"><u>[New] Gastronomy Gurus  The Elite of Food Vlogs for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-thaw-out-with-five-inviting-winterscapes-for-video-filming/"><u>[New] Thaw Out with Five Inviting Winterscapes for Video Filming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-az-capture-insights-apps-explored/"><u>[Updated] 2024 Approved  AZ Capture Insights  Apps Explored</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-essential-techniques-for-saving-lol-games/"><u>[Updated] Essential Techniques for Saving LOL Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-magix-vst-transform-your-home-studio-setup/"><u>[Updated] Magix VST  Transform Your Home Studio Setup</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-solutions-for-non-deliverable-facebook-messenger-videos-on-androidios/"><u>[Updated] Solutions for Non-Deliverable Facebook Messenger Videos on Android/iOS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-pc-backlight-malfunctioning/"><u>Asus PC Backlight Malfunctioning</u></a></li>
+<li><a href="https://driver-error.techidaily.com/clarify-device-not-found-on-win98beta/"><u>Clarify 'Device Not Found' On Win98Beta</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-fixes-for-installation-warnings-validating-drivers-on-your-pc/"><u>Comprehensive Fixes for Installation Warnings: Validating Drivers on Your PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/critical-issue-ideport0-control-glitch/"><u>Critical Issue: Ideport0 Control Glitch</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-intel-me/"><u>Diagnosing and Repairing Intel ME</u></a></li>
+<li><a href="https://driver-error.techidaily.com/direct-android-bridge-to-your-windows-device-samsung/"><u>Direct Android Bridge to Your Windows Device (Samsung)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-repair-non-functional-laptoppc-keyboards-article-name-358-characters/"><u>Easy Steps to Repair Non-Functional Laptop/PC Keyboards - Article Name — 358 Characters</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortless-nvidia-graphics-driver-setup/"><u>Effortless Nvidia Graphics Driver Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-code-45-from-devmgmt-fixed/"><u>Error Code 45 From DevMgmt Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-code-39-sound-driver-issue-solved/"><u>Fix Code 39 Sound Driver Issue [SOLVED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-how-to-resolve-missing-coprocessor-driver-error-on-windows-10/"><u>Fix Guide: How To Resolve 'Missing Coprocessor Driver' Error on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gpu-interpretation-decoding-microsofts-bda-design/"><u>GPU Interpretation: Decoding Microsoft's BDA Design</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-driver-error-on-windows-10-a-step-by-step-fix/"><u>GTX 950 Code 43 Driver Error on Windows 10 - A Step-by-Step Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-overcome-blue-screen-of-death-issue-error-code-0x0000007e-on-win7/"><u>Guide to Overcome Blue Screen of Death Issue (Error Code: 0X0000007E) on Win7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/happy-hearts-every-device-now-with-wacom/"><u>Happy Hearts: Every Device Now with Wacom</u></a></li>
+<li><a href="https://driver-error.techidaily.com/healed-touchpad-drive-6-fixes-for-a-smooth-experience/"><u>Healed Touchpad Drive - 6 Fixes for a Smooth Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-prevent-nvidia-driver-from-uninstalling-itself/"><u>How to Prevent Nvidia Driver From Uninstalling Itself</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-repair-a-malfunctioning-hp-laptops-keyboard-one-click-at-a-time-article-title-309-chars/"><u>How To Repair a Malfunctioning HP Laptop's Keyboard, One Click at a Time - Article Title (309 Chars)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-reveal-missing-seagate-disk-on-windows/"><u>How to Reveal Missing Seagate Disk on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/improve-system-with-newly-updated-death-driver-for-win11/"><u>Improve System with Newly Updated DeaTH Driver for WIN11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-list-of-premium-free-srt-translators/"><u>In 2024, The Essential List of Premium FREE SRT Translators</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-me-driver-anomaly-solutions/"><u>Intel Me Driver Anomaly Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/missing-driver-detection-issue/"><u>Missing Driver Detection Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-unexpected-amd-radeon-wattman-configuration-resets-easy-solutions-revealed/"><u>Overcoming Unexpected AMD Radeon Wattman Configuration Resets - Easy Solutions Revealed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/printer-no-drive-issue-resolved/"><u>Printer No-Drive Issue Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repair-serial-bus-regulation-flaw/"><u>Repair Serial Bus Regulation Flaw</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-functional-status-of-realtek-usb-networks/"><u>Restoring Functional Status of Realtek USB Networks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revealed-ms-bda-through-gfx-lens/"><u>Revealed: MS BDA Through GFX Lens</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-restoring-the-missing-coprocessor-on-windows-nix/"><u>Step-by-Step Guide: Restoring the Missing Coprocessor on Windows Nix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successfully-pairing-your-iphone-with-pcmac-using-revamped-usb-drivers/"><u>Successfully Pairing Your iPhone with PC/Mac Using Revamped USB Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-aa-personalitynationalitycounty-lgbtqv-25-for-yout-database-thatdeeds-30-mildly-happy-to-find-the-gender/"><u>The A/A Personality_nationalityCounty LGBTQv 25%% for Yout Database That'deed''s] ==#30 Mildly Happy-To Find the Gender</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-honor-magic-vs-2-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Honor Magic Vs 2 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-inquiries-unsolvable-by-chatgpt-understanding-its-limits/"><u>Top 7 Inquiries Unsolvable by ChatGPT: Understanding Its Limits</u></a></li>
+<li><a href="https://driver-error.techidaily.com/touchpads-silent-struggle-ends-driver-fixed/"><u>Touchpad's Silent Struggle Ends - Driver Fixed!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-data-hunting-with-top-tier-perplexity-ai/"><u>Transform Your Data Hunting with Top-Tier Perplexity AI</u></a></li>
+<li><a href="https://driver-error.techidaily.com/transform-your-gaming-experience-razer-driver-updates-for-win10-users/"><u>Transform Your Gaming Experience: Razer Driver Updates for Win10 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-absent-cddvd-readers/"><u>Troubleshooting Absent CD/DVD Readers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-windows-10-elan-pad-malfunctions/"><u>Troubleshooting Windows 10 Elan Pad Malfunctions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unleashing-efficiency-end-stutter-issues/"><u>Unleashing Efficiency: End Stutter Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unraveling-the-mystery-behind-nvidia-crashes/"><u>Unraveling the Mystery Behind Nvidia Crashes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103791829-unresponsive-gaming-due-to-graphics-quick-resolution-guide/"><u>Unresponsive Gaming Due To Graphics – Quick Resolution Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-microphonespeaker-troubleshooting-for-win10-users/"><u>USB Microphone/Speaker Troubleshooting for WIN10 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-and-qualcomm-atheros-restoring-bluetooth-connectivity-with-proven-solutions/"><u>Windows 11 and Qualcomm Atheros: Restoring Bluetooth Connectivity with Proven Solutions</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

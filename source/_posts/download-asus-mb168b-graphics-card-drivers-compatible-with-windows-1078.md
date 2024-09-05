@@ -1,7 +1,7 @@
 ---
 title: Download ASUS MB168B Graphics Card Drivers Compatible with Windows 10/7/8
-date: 2024-08-27T06:56:53.783Z
-updated: 2024-08-28T06:56:53.783Z
+date: 2024-09-04T12:51:26.965Z
+updated: 2024-09-05T12:51:26.965Z
 tags:
   - win11
   - win10
@@ -145,5 +145,8 @@ If you are not sure how to download the right driver from ASUS, refer steps belo
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

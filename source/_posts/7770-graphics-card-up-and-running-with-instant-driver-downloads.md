@@ -1,7 +1,7 @@
 ---
 title: 7770 Graphics Card Up and Running with Instant Driver Downloads
-date: 2024-08-27T06:56:49.071Z
-updated: 2024-08-28T06:56:49.071Z
+date: 2024-09-04T12:51:26.910Z
+updated: 2024-09-05T12:51:26.910Z
 tags:
   - win11
   - win10
@@ -152,5 +152,8 @@ To download the latest Radeon HD 7770 driver from AMD, visit [here](http://suppo
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

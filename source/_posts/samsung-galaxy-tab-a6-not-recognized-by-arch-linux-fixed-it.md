@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy Tab A6 Not Recognized by Arch Linux, Fixed It
-date: 2024-08-22T14:16:08.899Z
-updated: 2024-08-23T14:16:08.899Z
+date: 2024-09-04T12:51:29.888Z
+updated: 2024-09-05T12:51:29.888Z
 tags:
   - win11
   - win10
@@ -166,5 +166,8 @@ In addition, Driver Easy is a totally free software to use. But if you are looki
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

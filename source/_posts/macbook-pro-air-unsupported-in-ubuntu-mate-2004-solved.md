@@ -1,7 +1,7 @@
 ---
 title: MacBook Pro Air Unsupported in Ubuntu Mate 20.04 [Solved]
-date: 2024-08-22T14:15:56.839Z
-updated: 2024-08-23T14:15:56.839Z
+date: 2024-09-04T12:51:30.045Z
+updated: 2024-09-05T12:51:30.045Z
 tags:
   - win11
   - win10
@@ -141,5 +141,8 @@ In addition, Driver Easy is a totally free software to use. But if you are looki
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

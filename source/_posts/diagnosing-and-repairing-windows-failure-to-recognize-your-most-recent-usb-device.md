@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Windows' Failure to Recognize Your Most Recent USB Device
-date: 2024-07-15T06:50:32.370Z
-updated: 2024-07-16T06:50:32.370Z
+date: 2024-09-04T12:50:01.750Z
+updated: 2024-09-05T12:50:01.750Z
 tags:
   - win11
   - win10
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 
  As mentioned, the exact cause could be very different in different situations, but there are some general resolutions that you should try before you turn to technicians. And one of the solutions below is bound to fix the problem for you. No worries, we’ve got you covered.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How can I fix it?
 
  Here are 4 solutions for you to try. You may not have to try them all; just work your way down until you find the one works for you.
@@ -52,16 +49,16 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
  If your problem stops here, the USB port might be at fault, not your USB flash drive. Try to avoid using the same port next time, in case similar problem happens again.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Method 2: Update all possible device drivers
 
@@ -83,6 +80,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37721186152.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) You need to restart your PC for the updated drivers to work properly. Check if your USB device is recognized now.
 
 ##
@@ -105,13 +114,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377814e701a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Click to expand**USB settings** and**USB selective suspend setting** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3778a48905d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Select**Disabled** from the drop-down option. Then click**Apply** and**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377b3cef938.png)
@@ -134,10 +152,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378723b37b6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click to expand**Universal Serial Bus controllers.**
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3.1) If you see any device drivers marked by**yellow exclamation marks** or**question marks:**
 
@@ -145,11 +172,14 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37894943164.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3.1.2) Click**Uninstall** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37895fbce37.png)
 
  3.1.3) When the uninstall finishes, restart your computer. Then repeat the same procedure with the rest of the USB controllers marked by yellow exclamation marks or question marks one by one.
@@ -164,6 +194,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e29c15b5.png)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4) Your USB device should be recognized now.
 
 * [USB](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
@@ -184,3 +226,39 @@ Or click **Update All**  to automatically download and install the correct versi
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/resolved-equipment-denies-car-load/"><u>[Resolved] Equipment Denies Car Load</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-voice-adaptation-solutions-picks-for-video-makers/"><u>[Updated] In 2024, Voice Adaptation Solutions  Picks for Video Makers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ultimate-guide-to-selecting-best-windows-screen-capture-tools/"><u>[Updated] Ultimate Guide to Selecting Best Windows Screen Capture Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unlock-gif-potential-creating-animated-summaries-of-vimeo-videos/"><u>[Updated] Unlock GIF Potential  Creating Animated Summaries of Vimeo Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-writing-with-these-top-pc-apps/"><u>Boost Your Writing with These Top PC Apps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cooling-fix-ends-overheating/"><u>Cooling Fix Ends Overheating</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-user-experience-with-our-cookiebot-power-solution/"><u>Enhance User Experience with Our Cookiebot Power Solution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-to-resolve-your-itbm-driver-availability-error-fast/"><u>Expert Tips to Resolve Your ITBM Driver Availability Error Fast</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-nvidia-driver-issues-systems/"><u>Fix: Nvidia Driver Issues Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-post-win-11-upgrade-my-logitech-brio-cam-gone-invisible-got-answers-148-chars/"><u>Fix: Post-Win 11 Upgrade, My Logitech Brio Cam Gone Invisible - Got Answers! (148 Chars)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-statusdevicepowerfailure-bluetooth-error-on-windows-11/"><u>How to Fix Status_Device_Power_Failure Bluetooth Error on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-shut-down-bluetooth-on-windows-10-completed/"><u>How To Shut Down Bluetooth On Windows 10 Completed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-connectivity-download-the-updated-intel-wifi-6-ax200-drivers-for-modern-windows-os/"><u>Improve Your Connectivity: Download the Updated Intel WiFi 6 AX200 Drivers for Modern Windows OS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-deciphering-youtube-popularity-factors-for-higher-placement/"><u>In 2024, Deciphering YouTube Popularity Factors for Higher Placement</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-spectacular-vision-immersive-movies/"><u>In 2024, Spectacular Vision  Immersive Movies</u></a></li>
+<li><a href="https://driver-error.techidaily.com/iphone-cant-connect-correct-your-phones-mtp-drivers-today/"><u>IPhone Can't Connect? Correct Your Phone's MTP Drivers Today!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-video-captioning-on-youtube/"><u>Mastering Video Captioning on YouTube</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-g24-power-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Motorola G24 Power support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigate-back-to-functionality-with-these-fixes-for-your-touchpad/"><u>Navigate Back to Functionality with These Fixes for Your Touchpad</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-90-lite-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from 90 Lite</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-errors-unrecognized-final-usb-peripheral-on-windows-systems/"><u>Resolving Errors: Unrecognized Final USB Peripheral on Windows Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-issue-coprocessor-driver-unavailable-in-windows-10/"><u>Resolving the Issue: Coprocessor Driver Unavailable in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-windows-experience-win11/"><u>Seamless Windows Experience Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-installing-usb-drive-fails-access-is-blocked-difficulty/"><u>Solve Installing USB Drive Fails: Access Is Blocked Difficulty</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-microsoft-visual-cplusplus-runtime-library-error-in-windows-11/"><u>Solved: Microsoft Visual C++ Runtime Library Error in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-dysfunctional-usb-to-serial-cables-on-pcs/"><u>Troubleshoot Dysfunctional USB to Serial Cables on PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-iphone-usb-connectivity-issues-with-mtp-mode/"><u>Troubleshooting iPhone USB Connectivity Issues with MTP Mode</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-for-resolving-device-configuration-incorrect-warning-code-1/"><u>Troubleshooting Tips for Resolving 'Device Configuration Incorrect' Warning Code 1</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unseen-logitech-brio-webcam-post-windows-10-creators-update-heres-a-quick-fix-to-make-it-shine-again-solved/"><u>Unseen Logitech Brio Webcam Post Windows 10 Creators Update? Here’s a Quick Fix to Make It Shine Again (Solved)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unseen-seagate-on-pc-the-path-to-windows-recognition/"><u>Unseen Seagate on PC: The Path to Windows Recognition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/vehicle-not-compatible-with-tech/"><u>Vehicle Not Compatible with Tech</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wudfrd-init-failed-event-device-id-219/"><u>WudfRd Init Failed, Event Device ID 219</u></a></li>
+</ul></div>

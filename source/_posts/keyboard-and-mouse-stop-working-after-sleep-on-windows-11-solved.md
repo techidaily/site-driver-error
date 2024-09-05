@@ -1,7 +1,7 @@
 ---
 title: Keyboard & Mouse Stop Working After Sleep on Windows 11 [Solved]
-date: 2024-07-15T06:52:30.373Z
-updated: 2024-07-16T06:52:30.373Z
+date: 2024-09-04T12:44:23.571Z
+updated: 2024-09-05T12:44:23.571Z
 tags:
   - win11
   - win10
@@ -25,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/2635526a9b4bc31b09f99f8ed1ec33a28f3bd1734
 
 **Note** that you need to have a workable mouse or pen to perform the following methods.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **1: Disable Automatic Driver Updates**
 
  It is suspected that auto driver updates in**Windows Update** is causing this problem.
@@ -80,38 +77,74 @@ thumbnail: https://thmb.techidaily.com/2635526a9b4bc31b09f99f8ed1ec33a28f3bd1734
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da32ef108f4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **3: Change the Settings in Power Management**
 
  Faulty settings in Power Management is also one of the likely reasons for this problem. You can change to a different setting mode to see if the problem is resolved:
   
  1) On your keyboard, press the**Windows logo key** and**R** at the same time. Type**devmgmt.msc** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf3b03a6678.png)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Expand **Mice and other pointing devices** . For keyboard driver, expand**Keyboards** .
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/mice-and-other-pointing-devices-keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Right-click the device name of your mouse or keyboard driver and click **Properties** .  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/properties.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Click **Power Management** , make sure the box for **Allow the computer to turn off his device to save power** option is un-checked and click**OK** .  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/allow-the-computer-to-turn-off-his-device-to-save-power.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Reboot your computer. See if this problem occurs again.
 
 <ins class="adsbygoogle"
@@ -130,3 +163,41 @@ thumbnail: https://thmb.techidaily.com/2635526a9b4bc31b09f99f8ed1ec33a28f3bd1734
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-keyboard-not-working-on-windows-11/"><u>[Fixed] Keyboard Not Working on Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-perfecting-presentations-with-zoom-screenshares/"><u>[New] 2024 Approved  Perfecting Presentations with Zoom Screenshares</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/xclusive-free-mcb-visual-tools/"><u>[New] Exclusive Free MCB Visual Tools</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-dive-into-slow-motion-creation-in-tiktok-systematic-steps/"><u>[New] In 2024, Dive Into Slow Motion Creation in TikTok  Systematic Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-freeze-entire-browser-display/"><u>[Updated] Freeze Entire Browser Display</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-cutting-edge-engines-the-quintessential-qxp-motors-guide/"><u>[Updated] In 2024, Cutting-Edge Engines  The Quintessential QXP Motors Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/all-connected-again-wacoms-smile-returns/"><u>All Connected Again! Wacom's Smile Returns</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104231373-demystifying-the-legacy-usb-composite-device-problems-now-fixed/"><u>Demystifying the Legacy USB Composite Device Problems - Now Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-guide-ensuring-proper-functionality-in-windows-operating-systems/"><u>Driver Installation Guide: Ensuring Proper Functionality in Windows Operating Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/efficient-deathadder-drivers-on-new-windows-version/"><u>Efficient DeathAdder Drivers on New Windows Version</u></a></li>
+<li><a href="https://driver-error.techidaily.com/failed-driver-setup-absence-of-intel-interface/"><u>Failed Driver Setup - Absence of Intel Interface</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-for-missing-win-pci-data-collector/"><u>Fix for Missing Win PCI Data Collector</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-install-realtek-hd-audio-driver-failure-easily/"><u>Fix Install Realtek HD Audio Driver Failure. Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-presonus-audiobox-usb-driver-issue-easily-and-quickly/"><u>Fix Presonus AudioBox USB Driver Issue Easily & Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-cant-find-my-prodigy-cam-after-windows-10-creators-update-solved-with-easy-steps-fixed/"><u>Fix: Can't Find My Prodigy Cam After Windows 10 Creators Update - Solved with Easy Steps [Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-intel-mcpu-driver-problems/"><u>Fixing Intel MCPU Driver Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hd-audio-bus-mastered-no-more-glitches/"><u>HD Audio Bus Mastered - No More Glitches</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-honor-play-40c-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Honor Play 40C.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-find-and-install-lenovo-ideapad-100-drivers-for-windows-11/"><u>How to Find and Install Lenovo IdeaPad 100 Drivers for Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-failed-to-start-battleye-addressing-the-1450-driver-load-issue/"><u>How to Fix 'Failed to Start BattlEye': Addressing the 1450 Driver Load Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-hardware-not-recognized-problems-in-idt-software-packages/"><u>How to Fix 'Hardware Not Recognized' Problems in IDT Software Packages</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-get-fubotv-on-a-fire-stick/"><u>How to Get FuboTV on a Fire Stick</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721100040439-how-to-get-my-latest-cam-back-in-sight-post-windows-10-creators-update-all-fixed-fixed/"><u>How to Get My Latest Cam Back in Sight Post-Windows 10 Creators Update - All Fixed ![Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/master-the-fix-how-to-properly-configure-devices-and-avoid-error-code-1-issues/"><u>Master the Fix: How to Properly Configure Devices & Avoid Error Code 1 Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-challenge-of-a-nonfunctional-coprocessor-module-for-windows-10-users-solutions-unveiled/"><u>Overcoming the Challenge of a Nonfunctional Coprocessor Module for Windows 10 Users – Solutions Unveiled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/printer-driver-issue-resolved-quickly/"><u>Printer Driver Issue Resolved Quickly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862841066-score-big-savings-immersive-34-curved-asus-tuf-gaming-screen-on-sale-for-just-249/"><u>Score Big Savings: Immersive 34 Curved ASUS TUF Gaming Screen on Sale for Just $249</u></a></li>
+<li><a href="https://driver-error.techidaily.com/silent-keyboard-lights-asus/"><u>Silent Keyboard Lights ASUS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-nvidiaamd-gpu-drivers-on-windows-8/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing NVIDIA/AMD GPU Drivers on Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-to-solve-acpi-failures-in-windows-10-asus/"><u>Steps to Solve ACPI Failures in Windows 10 ASUS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/taming-your-windows-11s-troublesome-bluetech-quick-fix-bluetooth-not-shutting-off/"><u>Taming Your Windows 11'S Troublesome BlueTech: Quick Fix! (Bluetooth Not Shutting Off)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-adb-error-on-windows-xp/"><u>Troubleshooting ADB Error on Windows XP</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unifying-experience-corrected-asus-webcam-link-to-w10-os/"><u>Unifying Experience: Corrected Asus Webcam Link to W10 OS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/windows-10-users-guide-unfreeze-chrome-and-enhance-browsing-stability-effortlessly/"><u>Windows 10 Users' Guide: Unfreeze Chrome and Enhance Browsing Stability Effortlessly</u></a></li>
+</ul></div>

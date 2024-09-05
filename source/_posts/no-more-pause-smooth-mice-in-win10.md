@@ -1,7 +1,7 @@
 ---
 title: "No More Pause: Smooth Mice in Win10"
-date: 2024-07-15T06:51:15.501Z
-updated: 2024-07-16T06:51:15.501Z
+date: 2024-09-04T12:48:26.386Z
+updated: 2024-09-05T12:48:26.386Z
 tags:
   - win11
   - win10
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 
  1) On your Keyboard, press the**Windows logo key** and**X** at the same time. Press the**down arrow key** until you highlight **Device Manager** . Press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e3c34d1ba.png)
 
  2) Press**Tab** , then the down arrow key until you highlight **Mouse and other pointing device** . Press the**right arrow key** to expand the option.
@@ -56,18 +53,12 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 
  6) If you’re prompted to restart your computer and you’re ready to go, press**Enter** . If not, press**Tab** to restart your computer later.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/system-settings-change.png)
 
  7) If you choose not to restart your computer right away, go to the toolbar in**Device Manager** and click**Scan for hardware changes** .
 
  If the mouse isn’t working right now, you can press**F5** on your keyboard and the scan will start.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/scan-for-hardware-change-5673.jpg)
 
 Windows will help you reinstall the drivers for your mouse.
@@ -94,9 +85,6 @@ Windows will help you reinstall the drivers for your mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8aa75cfe48.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **3: Check the local area network settings**
 
  Disabling LAN and using your wireless card to connect to the Internet may also help tyou solve the problem. Here’s how you can do it:
@@ -105,10 +93,28 @@ Windows will help you reinstall the drivers for your mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa3695673227.png)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Press**Tab** , then**Enter** . Press the left arrow key to select **Small icons** , then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa36bec91ae2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Press**Tab** on your keyboard until you highlight **Network and Sharing Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa36c3be74c5.jpg)
@@ -117,16 +123,46 @@ Windows will help you reinstall the drivers for your mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/change-adapter-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Press**Tab** until you highlight your LAN card. Press the**left arrow key** to select it. Then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa36d089d26b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  6) Press**Tab** until you highlight**Disable** . Press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa37470b7742.png)
 
  7) Now you’ll be back at the Network Connection window, with your Ethernet icon highlighted. Press**Enter** to enable your network connection.
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **4: End Realtek audio**
 
  Realtek audio card might interfere with your mouse, which can cause a lagging problem. Here’s how you can fix it:
@@ -153,13 +189,16 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c21ca77a670.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  b) Locate**ATI HotKey Poller** service on the right side of the window. Then double-click it.
 
  c) You’ll be in the Properties window. Change the**Startup type** to**Disabled** . Then click**Apply** and**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c21d89cc8e7.jpg)
 
 d) Restart your computer.
@@ -188,3 +227,47 @@ d) Restart your computer.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-ax201-intel-wi-fi-6-initializing-fails/"><u>[FIXED] AX201: Intel Wi-Fi 6 Initializing Fails</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-a-step-by-step-guide-through-youtubes-aspect-ratio-landscapes/"><u>[New] In 2024, A Step-by-Step Guide Through YouTube's Aspect Ratio Landscapes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-you-need-a-wia-driver-to-use-this-device-scanner-driver-error/"><u>[SOLVED] “You Need a WIA Driver to Use This Device” Scanner Driver Error</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-eight-video-recording-apps-reviewed/"><u>[Updated] In 2024, Top Eight Video Recording Apps Reviewed</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-laying-down-an-elegant-tiktok-credits-panel/"><u>[Updated] Laying Down an Elegant TikTok Credits Panel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/alpha-vs-bravo-top-ai-chatbots-comparison/"><u>Alpha Vs. Bravo: Top AI Chatbots Comparison</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/anthropics-smart-photo-editor-comprehensive-review-and-user-experience-analysis/"><u>Anthropics Smart Photo Editor: Comprehensive Review & User Experience Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/anticipate-the-new-wave-of-laptops-samsungs-galaxy-book4-edge-with-qualcomm-snapdragon-processor-unveiled-in-a-pre-microsoft-spectacle-leak/"><u>Anticipate the New Wave of Laptops: Samsung's Galaxy Book4 Edge with Qualcomm Snapdragon Processor Unveiled in a Pre-Microsoft Spectacle Leak</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104681699-blackberry-storm-beta-not-recognized-by-fedora-33-solution-found/"><u>Blackberry Storm Beta Not Recognized by Fedora 33 - Solution Found</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connecting-methods-for-bluetooth-samsung-buds-and-laptops-made-simple/"><u>Connecting Methods for Bluetooth Samsung Buds and Laptops Made Simple</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-finest-ai-solutions-for-automated-presentation-designs/"><u>Discover the Finest AI Solutions for Automated Presentation Designs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-dark-screen-post-fall-update/"><u>Fixing Dark Screen Post Fall Update</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-rtos-interrupt-manager-error/"><u>Fixing RTOS Interrupt Manager Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-bsod-error-code-0x0000007e-in-windows-7-a-step-by-step-guide/"><u>Fixing the BSOD Error Code 0X0000007E in Windows 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-gtx-hemisphere-950-code-43-issue-in-windows-11-a-comprehensive-guide/"><u>Fixing the GTX Hemisphere 950 'Code 43' Issue in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-blocking-event-win11-issue/"><u>Hardware Blocking Event - Win11 Issue</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Find iSpoofer Pro Activation Key On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-6-plus-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 6 Plus Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/iphone-se-unresponsive-to-windows-xp-professional-fixed/"><u>IPhone SE Unresponsive to Windows XP Professional [Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-works-perfectly-post-fix-in-windows-11/"><u>Keyboard Works Perfectly Post-Fix in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mitigating-non-functional-status-post-enex-failure-in-win11/"><u>Mitigating Non-Functional Status Post eNEX Failure in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/my-prodigy-brio-camera-wont-show-in-the-list-of-devices-after-pc-upgrade-heres-what-i-did-solved/"><u>My Prodigy Brio Camera Won't Show in the List of Devices After PC Upgrade – Here’s What I Did (Solved)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-lenovo-bluetooth-glitches-on-windows-10/"><u>Overcoming Lenovo Bluetooth Glitches on Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-huawei-nova-y71-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Huawei Nova Y71.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/preventing-and-resolving-live-conversation-errors-on-gpt/"><u>Preventing and Resolving Live Conversation Errors on GPT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-driver-not-working-on-windows-10-solved/"><u>Qualcomm Atheros Bluetooth Driver Not Working on Windows 10 [Solved]</u></a></li>
+<li><a href="https://windows11.techidaily.com/rebooting-to-reactivate-dormant-snapshots/"><u>Rebooting to Reactivate Dormant Snapshots</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-persistent-load-issues-in-discord-streaming/"><u>Resolving Persistent Load Issues in Discord Streaming</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104332107-reviving-a-non-responsive-hp-wireless-input-device-a-comprehve-solution/"><u>Reviving A Non-Responsive HP Wireless Input Device – A Comprehve Solution!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/screensnapper-showdown-for-2024/"><u>ScreenSnapper Showdown for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-fix-for-your-non-functioning-hp-wireless-keyboard/"><u>Step-by-Step Fix for Your Non-Functioning HP Wireless Keyboard</u></a></li>
+<li><a href="https://driver-error.techidaily.com/task-manager-clue-total-disk-consumption/"><u>Task Manager Clue: Total Disk Consumption</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oppo-a56s-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Oppo A56s 5G Phone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-and-solve-not-available-itbm-driver-error-instantly/"><u>Troubleshoot and Solve 'Not Available' ITBM Driver Error Instantly!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-power-of-screen-mirroring-android-to-fire-stick-streaming-made-simple/"><u>Unlock the Power of Screen Mirroring: Android to Fire Stick Streaming Made Simple</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-serial-fix-overcoming-windows-driver-woes/"><u>USB-Serial Fix: Overcoming Windows Driver Woes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-coprocessor-driver-not-found-heres-how-to-rectify-it/"><u>Windows 11 Coprocessor Driver Not Found? Here's How to Rectify It</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-uninterrupted-operation/"><u>Windows 11: Uninterrupted Operation</u></a></li>
+</ul></div>

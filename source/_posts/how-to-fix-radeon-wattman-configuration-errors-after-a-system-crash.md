@@ -1,7 +1,7 @@
 ---
 title: How to Fix Radeon Wattman Configuration Errors After a System Crash
-date: 2024-08-27T07:01:47.667Z
-updated: 2024-08-28T07:01:47.667Z
+date: 2024-09-04T12:51:26.128Z
+updated: 2024-09-05T12:51:26.128Z
 tags:
   - win11
   - win10
@@ -185,6 +185,8 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
