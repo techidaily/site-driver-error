@@ -1,7 +1,7 @@
 ---
 title: Solutions for eNEX System Files Unload on Windows 11
-date: 2024-07-15T06:49:32.330Z
-updated: 2024-07-16T06:49:32.330Z
+date: 2024-09-09T03:03:40.749Z
+updated: 2024-09-10T03:03:40.749Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes Solutions for eNEX System Files Unload on Window
 thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35913acbf3e4fc8c5af445646.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solutions for eNEX System Files Unload on Windows 11
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-35.png)
@@ -33,6 +39,12 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Turn off the memory Integrity setting
 
  ene.sys is a system file related to EneTechIo or EneIo, developed by ENE Technology, usually installed with driver software for ENE Technology’s hardware products. If you don’t have a hardware device from ENE specifically but still have the error message about ene.sys, then please check to see if there’s a program controlling the RGB lighting on your keyboard and/or mouse.
@@ -59,11 +71,20 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 2. On your keyboard, press the**Windows** key and the**E** key at the same time to open**File Explorer** .
 3. Then go to**`C:\Windows\System32\drivers`** , and find the**ene.sys** file there.
 4. Rename the ene.sys file to something like**eneold.sys** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-38.png)
 5. When asked for permission, click**Continue** .  
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-39.png)
 6. When this is done, restart your computer into normal mode as instructed in the post shared in step 1, then see if the ene.sys driver cannot load error is fixed.
 
@@ -78,28 +99,35 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 1. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-9.png)
 2. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 3. Click**View installed updates** on the right pane.  
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-40.png)
 4. Click the**Uninstall** button to remove the latest Windows update patch before the**_ene.sys driver cannot load error_** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-41.png)
 5. Restart your computer afterward.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if the ene.sys driver cannot load error still remains after uninstalling the last Windows update. If so, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Run Program Compatibility Troubleshooter
 
  If the above still doesn’t help to fix the ene.sys driver cannot load error, you can try to run the program compatibility troubleshooter to see if Windows can fix this problem. Program compatibility troubleshooter helps older programs to run properly on newer OSs like Windows 11\. To run this troubleshooter:
@@ -109,31 +137,43 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 2. Select**Other troubleshooters** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-43.png)
 3. Find**Program Compatibility Troubleshooter** , and click the**Run** button next to it.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-44.png)
 4. See if you can find any**ene.sys** \-related app from the list. If not, select**Not listed** and click**Next** .  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-45.png)
 5. **Browse** to the location where your ene.sys file is, and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-46.png)
 6. Tick the boxes that fits your description, and click**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-47.png)
 7. Then follow the on-screen instructions to run the tourbleshooter.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then see if the ene.sys driver cannot load on this device error is fixed. If not, please move further.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Update the driver for ENE device
 
  The ene.sys driver cannot load on this device error can also be caused by outdated or incorrect driver, so if the above methods don’t help to fix the problem, it’s likely that you have a corrupted or outdated driver for the ene devices you have in your computer. So you should update your drivers to see if it helps.
@@ -142,11 +182,14 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-scan.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -177,3 +220,45 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-best-methods-for-documenting-live-youtube-broadcasts/"><u>[New] 2024 Approved Best Methods for Documenting Live YouTube Broadcasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-creative-video-overlays-top-10-essentials-for-2024/"><u>[New] Creative Video Overlays Top 10 Essentials for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-moment-in-time-windows-108-screenshots-explained-for-2024/"><u>[Updated] Moment in Time Windows 10/8 Screenshots Explained for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-techniques-to-prevent-dropouts-in-obs-studio-for-2024/"><u>[Updated] Techniques to Prevent Dropouts in OBS Studio for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-mastering-the-art-of-deleting-discord-servers/"><u>2024 Approved Mastering the Art of Deleting Discord Servers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-runners-best-allies-discover-the-top-performance-watches-available/"><u>A Runner's Best Allies: Discover the Top Performance Watches Available</u></a></li>
+<li><a href="https://win-blog.techidaily.com/achieve-seamless-gameplay-solving-low-fps-problems-in-fallout-76-using-new-techniques/"><u>Achieve Seamless Gameplay: Solving Low FPS Problems in Fallout 76 Using New Techniques</u></a></li>
+<li><a href="https://driver-error.techidaily.com/avoiding-frequent-nvidia-driver-malfunctions/"><u>Avoiding Frequent Nvidia Driver Malfunctions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104231373-demystifying-the-legacy-usb-composite-device-problems-now-fixed/"><u>Demystifying the Legacy USB Composite Device Problems - Now Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-guide-ensuring-proper-functionality-in-windows-operating-systems/"><u>Driver Installation Guide: Ensuring Proper Functionality in Windows Operating Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/efficient-deathadder-drivers-on-new-windows-version/"><u>Efficient DeathAdder Drivers on New Windows Version</u></a></li>
+<li><a href="https://driver-error.techidaily.com/elan-touchpad-driver-issues-in-windows-11-solved/"><u>Elan Touchpad Driver Issues in Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enabling-seagate-drives-on-new-windows-11-os/"><u>Enabling Seagate Drives on New Windows 11 OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhanced-recording-quality-fixed-windows-10-asus-cam-issue/"><u>Enhanced Recording Quality: Fixed Windows 10 ASUS Cam Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/failed-driver-setup-absence-of-intel-interface/"><u>Failed Driver Setup - Absence of Intel Interface</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-for-missing-win-pci-data-collector/"><u>Fix for Missing Win PCI Data Collector</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-install-realtek-hd-audio-driver-failure-easily/"><u>Fix Install Realtek HD Audio Driver Failure. Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-cant-find-my-prodigy-cam-after-windows-10-creators-update-solved-with-easy-steps-fixed/"><u>Fix: Can't Find My Prodigy Cam After Windows 10 Creators Update - Solved with Easy Steps [Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-intel-mcpu-driver-problems/"><u>Fixing Intel MCPU Driver Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-deactivate-non-stop-bluetooth-on-pcs/"><u>How to Deactivate Non-Stop Bluetooth on PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-failed-to-start-battleye-addressing-the-1450-driver-load-issue/"><u>How to Fix 'Failed to Start BattlEye': Addressing the 1450 Driver Load Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721100040439-how-to-get-my-latest-cam-back-in-sight-post-windows-10-creators-update-all-fixed-fixed/"><u>How to Get My Latest Cam Back in Sight Post-Windows 10 Creators Update - All Fixed ![Fixed]</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-12-mini-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone 12 mini If Youve Tried Everything</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macbook-air-multi-tasking-made-easy-master-the-art-of-split-screen-display/"><u>MacBook Air Multi-Tasking Made Easy: Master the Art of Split Screen Display</u></a></li>
+<li><a href="https://driver-error.techidaily.com/master-the-fix-how-to-properly-configure-devices-and-avoid-error-code-1-issues/"><u>Master the Fix: How to Properly Configure Devices & Avoid Error Code 1 Issues</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-get-your-game-on-top-10-websites-to-download-games/"><u>New 2024 Approved Get Your Game On Top 10 Websites to Download Games</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-device-misconfigured-hurdle-resolving-code-1-issues/"><u>Overcoming the 'Device Misconfigured' Hurdle - Resolving Code 1 Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-challenge-of-a-nonfunctional-coprocessor-module-for-windows-10-users-solutions-unveiled/"><u>Overcoming the Challenge of a Nonfunctional Coprocessor Module for Windows 10 Users – Solutions Unveiled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-venintanddev33a0-acpi-challenges/"><u>Overcoming VEN_INT&DEV_33A0 Acpi Challenges</u></a></li>
+<li><a href="https://driver-error.techidaily.com/printer-driver-issue-resolved-quickly/"><u>Printer Driver Issue Resolved Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/silent-keyboard-lights-asus/"><u>Silent Keyboard Lights ASUS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-nvidiaamd-gpu-drivers-on-windows-8/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing NVIDIA/AMD GPU Drivers on Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-to-solve-acpi-failures-in-windows-10-asus/"><u>Steps to Solve ACPI Failures in Windows 10 ASUS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successfully-solving-the-missing-cpu-module-driver-problem-for-windows-11-users/"><u>Successfully Solving the Missing CPU Module Driver Problem for Windows 11 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-complete-tutorial-upgrading-and-downloading-drivers-for-hps-envy-13-15-and-17-series-computers/"><u>The Complete Tutorial: Upgrading and Downloading Drivers for HP's Envy 13, 15, and 17 Series Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-adb-error-on-windows-xp/"><u>Troubleshooting ADB Error on Windows XP</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unifying-experience-corrected-asus-webcam-link-to-w10-os/"><u>Unifying Experience: Corrected Asus Webcam Link to W10 OS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-get-animated-top-free-software-for-windows-mac-and-beyond/"><u>Updated In 2024, Get Animated Top Free Software for Windows, Mac, and Beyond</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Mouse Glitches on Win10"
-date: 2024-09-04T12:51:30.519Z
-updated: 2024-09-05T12:51:30.519Z
+date: 2024-09-09T03:10:01.401Z
+updated: 2024-09-10T03:10:01.401Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Resolved: Mouse Glitches on Win10"
 thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c5fe49411fd5c4ce5c94643b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Resolved: Mouse Glitches on Win10
 
  If you are on Windows 10 and your mouse quite often lags or freezes, you’re not the only one. Quite a few Windows users have reported this problem. But don’t worry – you won’t have to put up with it forever. We’re here to help you fix your mouse freeze with step-by-step instructions and clear images of what you need to do.
@@ -25,6 +31,18 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
 4. **[End Realtek audio](https://silver-cuisine.pxf.io/nlgolx)**
 5. [**Other options**](https://dhgate.sjv.io/5g6yb2)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **1: Reinstall the mouse driver**
 
  Before we begin, you should try your mouse on another computer to see if the lagging or freezing problem continues.
@@ -35,6 +53,12 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e3c34d1ba.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Press**Tab** , then the down arrow key until you highlight **Mouse and other pointing device** . Press the**right arrow key** to expand the option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/mice-and-other-pointing-deices.jpg)
@@ -47,14 +71,32 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa35e5fee707.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa35e7986c5d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  6) If you’re prompted to restart your computer and you’re ready to go, press**Enter** . If not, press**Tab** to restart your computer later.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/system-settings-change.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  7) If you choose not to restart your computer right away, go to the toolbar in**Device Manager** and click**Scan for hardware changes** .
 
  If the mouse isn’t working right now, you can press**F5** on your keyboard and the scan will start.
@@ -94,16 +136,10 @@ Windows will help you reinstall the drivers for your mouse.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa3695673227.png)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  2) Press**Tab** , then**Enter** . Press the left arrow key to select **Small icons** , then press**Enter** .
 
@@ -117,28 +153,28 @@ Windows will help you reinstall the drivers for your mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/change-adapter-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Press**Tab** until you highlight your LAN card. Press the**left arrow key** to select it. Then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa36d089d26b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  6) Press**Tab** until you highlight**Disable** . Press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa37470b7742.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) Now you’ll be back at the Network Connection window, with your Ethernet icon highlighted. Press**Enter** to enable your network connection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **4: End Realtek audio**
 
  Realtek audio card might interfere with your mouse, which can cause a lagging problem. Here’s how you can fix it:
@@ -147,24 +183,24 @@ Windows will help you reinstall the drivers for your mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa3751aea9b2.png)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Press the**down arrow key** until you locate **Realtek audio.exe** . Click **End Task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/end-task-in-task-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the above methods don’t work, go check your**Task Manager** for clues on which applications could be at fault. If they’re occupying a lot of disk usage, it’s worth looking into. When you locate any suspicious applications, right-click them and click End Task to see if the mouse lagging problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Other options**
 
  1)**Disable Cortana** . Many users have reported that disabling Cortana helped fix their freezing mouse.
@@ -178,16 +214,16 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c21ca77a670.png)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
+<span id="1982457">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  b) Locate**ATI HotKey Poller** service on the right side of the window. Then double-click it.
 
@@ -195,6 +231,12 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c21d89cc8e7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 d) Restart your computer.
 
  3)**Don’t use USB hubs to connect your mouse** . Directly connect your mouse and keyboard to your computer via the ports at the back of your PC to ensure you get the best performance.

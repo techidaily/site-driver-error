@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Bluetooth Connectivity Problems with Qualcomm on Windows 11 Systems
-date: 2024-09-04T12:51:29.828Z
-updated: 2024-09-05T12:51:29.828Z
+date: 2024-09-09T03:10:00.704Z
+updated: 2024-09-10T03:10:00.704Z
 tags:
   - win11
   - win10
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587848fa4952b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Windows 10 users have reported to have problems with their Atheros Bluetooth driver on and off for months since the upgrade. When Bluetooth driver is sloppy, your Bluetooth devices, wireless mouse, wireless keyboard, wireless headphone, are not working properly.
   
 Just relax, this is a very easy problem to solve. Just follow the instructions below to get it done!
@@ -34,6 +40,12 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878512a85d87.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then choose**Update history** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878514d080da.jpg)
@@ -56,12 +68,30 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878567811d29.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note**: If your PC is rather old and there is no such Bluetooth driver that you can find for Windows 10, it is suggested that you give the latest version of driver that you can find a try, be it Windows 8.1, Windows 8, or Windows 7\. Then try [**install the driver in compatibility mode**](https://tools.techidaily.com/drivereasy/download/).
   
 3) Now press**Windows key**and**X**at the same time and choose**Device Manager**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878625e408ff.png)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4) Then locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Uninstall**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878700f160fd.jpg)
@@ -70,6 +100,12 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787077d9b1c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6) When the uninstall finishes, restart your computer.
   
 7) Now, go to the folder where you store the setup file of the Qualcomm Atheros Bluetooth driver, double the**setup file**and run the installation as instructed.
@@ -92,6 +128,18 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878625e408ff.png)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Update Driver Software**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878797a95615.png)
@@ -104,10 +152,34 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787ac962e8f.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6) Un-tick the box for **Show compatible hardware** . Then you should be able to see **Qualcomm Atheros** driver option on the left. On the right, choose one of the drivers listed. We go with**Qualcomm Atheros AR3011 Bluetooth 3.0** . You need to try them one by one by yourself to select the right one for your PC. When done picking, click**Next** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787b0460727.png)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7)Then follow the instructions on screen to get your Qualcomm Atheros Bluetooth drive installed.  
   
 8) When install finishes, please make sure to restart your computer for the change to take effect.  
@@ -122,6 +194,12 @@ Moreover, it is very easy to use. Just click the**Scan Now**button for**Driver E
   
  \\![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76e376da11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Then the**Update**button next to the driver you need to update.
 
  ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76eb162d8c.jpg)
@@ -203,16 +281,3 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
 <li><a href="https://driver-error.techidaily.com/unification-error-fix-windows-1110-recognition/"><u>Unification Error Fix: Windows 11/10 Recognition</u></a></li>
 <li><a href="https://driver-error.techidaily.com/usb-to-serial-restoring-functionality-in-windows/"><u>USB to Serial: Restoring Functionality in Windows</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

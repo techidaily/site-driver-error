@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Unsupported Hardware Message & Software Solutions"
-date: 2024-09-04T12:51:32.591Z
-updated: 2024-09-05T12:51:32.591Z
+date: 2024-09-09T03:10:03.538Z
+updated: 2024-09-10T03:10:03.538Z
 tags:
   - win11
   - win10
@@ -55,10 +55,22 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968b1342462.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3\. Double click “**Sound,video and game controllers** ” to expand the list of audio devices.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968b659c34e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4\. Under this list, right click the**IDT audio device** and select**Update driver** (In some cases, this could be**Update driver software** .).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968bb16c287.png)
@@ -67,6 +79,18 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968c05e3535.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Update the driver automatically
 
  If you have difficulty updating driver manually, you can do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) .  
@@ -80,10 +104,22 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968f4ea6646.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the Update button next to a flagged**IDT audio driver** to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968f5c917bc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Hope you can install or update the IDT audio driver successfully with the tips in this article. If you have any questions or ideas, please leave your comment. I always love to hear of any comments.
 
 * [Audio](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
@@ -171,10 +207,3 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 <li><a href="https://driver-error.techidaily.com/win-80211n-broadcom-wi-fi-adapter-now-working-again/"><u>Win 802.11N Broadcom Wi-Fi Adapter Now Working Again</u></a></li>
 <li><a href="https://driver-error.techidaily.com/win11-upgrading-deathadder-hat-drivers/"><u>Win11: Upgrading DeathAdder HAT Drivers</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

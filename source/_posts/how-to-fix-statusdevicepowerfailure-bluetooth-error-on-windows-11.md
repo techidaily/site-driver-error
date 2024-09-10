@@ -1,7 +1,7 @@
 ---
 title: How to Fix Status_Device_Power_Failure Bluetooth Error on Windows 11
-date: 2024-09-04T12:51:31.250Z
-updated: 2024-09-05T12:51:31.250Z
+date: 2024-09-09T03:10:02.183Z
+updated: 2024-09-10T03:10:02.183Z
 tags:
   - win11
   - win10
@@ -13,24 +13,66 @@ excerpt: This Article Describes How to Fix Status_Device_Power_Failure Bluetooth
 thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf1ab34421179afeae4f509e7.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix Status_Device_Power_Failure Bluetooth Error on Windows 11
 
 Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59898309af0af.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you find your Bluetooth device stop working and it shows **Status\_Device\_Power\_Failure**  error of your Bluetooth driver in Device Manager, don’t worry!
 
 We have a quick fix for you.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 1\. Uninstall the Bluetooth driver you have
 
 1. On your keyboard, press the **Windows logo** key +**X** together to open the quick-access menu.
 2. Click**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598984ad63bff.png)
 3. On the open window, double-click**Bluetooth** . Then right-click on the Bluetooth driver you have and choose**Uninstall device** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be940bc40e71.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 2\. Install the latest Bluetooth driver on your Windows 10
 
  To get the correct latest Bluetooth driver, you can download the correct one from the manufacturer’s website. Or you can reboot Windows 10 to let Windows 10 reinstall the driver for you.
@@ -115,10 +157,3 @@ We have a quick fix for you.
 <li><a href="https://driver-error.techidaily.com/windows-10-patch-leads-to-realtek-lan-failure/"><u>Windows 10 Patch Leads to Realtek LAN Failure</u></a></li>
 <li><a href="https://driver-error.techidaily.com/windows-11-keeps-up-keyboards-back-in-action/"><u>Windows 11 Keeps Up: Keyboard's Back in Action</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

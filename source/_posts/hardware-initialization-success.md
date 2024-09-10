@@ -1,7 +1,7 @@
 ---
 title: Hardware Initialization Success
-date: 2024-09-04T12:51:32.734Z
-updated: 2024-09-05T12:51:32.734Z
+date: 2024-09-09T03:10:03.670Z
+updated: 2024-09-10T03:10:03.670Z
 tags:
   - win11
   - win10
@@ -19,6 +19,12 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dd7601999ac.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you discover this error saying   **Windows cannot initialize the device driver for this hardware(Code 37)**  of your device in Device Manager, don’t be worried. Many Windows users are reporting it. The good news is you can fix it easily with this guide.
 
  Here are 3 methods you can try to fix this problem. You may not have to try them all; just work your way down until you find the one that works.
@@ -27,6 +33,12 @@ Does this look familiar?
  **Method 2:[Make sure you have the correct compatible version driver for your Windows](https://pish-posh-baby.sjv.io/g1jg15)**
  **Method 3:[Update your device driver automatically](https://eimmie.pxf.io/21emk7)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 1: Scan for hardware changes in Device Manager
 
  1) On your keyboard, press the **Windows logo key**  and **R**  at the same time to invoke the Run box.
@@ -39,6 +51,12 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dd7d26dfe1b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Windows should then reinstall or upgrade your device driver automatically.
 
  4) Restart your computer and check to see if your device status is normal.
@@ -61,6 +79,12 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dd7d576b30e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Go to your device manufacturer’s website or the one of your computer manufacturer, and find the correct version of your device driver. Then download it to install on your computer.
 
 **Note:**  If you have trouble with looking for the correct driver, you can use [Method 3](https://printrendy.pxf.io/xyboy5) to help your find the driver automatically.
@@ -69,18 +93,6 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dd7a148fc6e.png)
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Update your device driver automatically
 
  The methods above may solve your problem, but if they don’t or, if you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .
@@ -96,10 +108,10 @@ Does this look familiar?
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 3) Click **Update**  next to your flagged device driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -108,20 +120,20 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  4) Restart your computer and check to see if your device status is normal.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dd7a148fc6e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
 * [Windows](https://tools.techidaily.com/drivereasy/download/)

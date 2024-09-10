@@ -1,7 +1,7 @@
 ---
 title: "Name Discovery: GPU's OpenGL Capable in Intel"
-date: 2024-09-04T12:51:27.645Z
-updated: 2024-09-05T12:51:27.645Z
+date: 2024-09-09T03:09:58.749Z
+updated: 2024-09-10T03:09:58.749Z
 tags:
   - win11
   - win10
@@ -13,10 +13,28 @@ excerpt: "This Article Describes Name Discovery: GPU's OpenGL Capable in Intel"
 thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3dbfe57b65bd55e5629cfc57b6.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Name Discovery: GPU's OpenGL Capable in Intel
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/Intel-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you’re on Windows, and you’re seeing this error saying**Can’t find the name of Intel ICD OpenGL driver** , you’re not alone. Many Windows users are reporting it. But the good news is you can fix it easily by yourself with this guide.
 
  This problem is mainly caused by an old version of your Intel graphics card driver. So you can solve this issue through updating your display card driver.
@@ -35,12 +53,24 @@ thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3db
 1. [**D**](https://tools.techidaily.com/drivereasy/download/) **[ownload](https://tools.techidaily.com/drivereasy/download/)**   and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dc8234df582.jpg)
 3. Click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:**  You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dc83c41065c.jpg)
 4. Restart your computer and check to see if the error still occurs.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Option 2: Download a latest graphics driver from Intel website manually
 
  You can also choose to update your driver through downloading the latest driver from the manufacturer’s website.
@@ -48,7 +78,19 @@ thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3db
 1. Go to  the [official Intel website](https://www.intel.com/content/www/us/en/homepage.html) . Then go to its driver download page.
 2. Enter your graphics card model number and press**Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dc7f58acdcb.png)
 3. Click the .exe file matching with your Windows to download and install it on your computer. ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dc7f749ab5b.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. After installing the new driver, please restart your computer and check to see if the error still occurs.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hopefully this article helps.
 
@@ -123,10 +165,3 @@ Hopefully this article helps.
 <li><a href="https://driver-error.techidaily.com/windows-wireless-keyboard-issues-heres-what-you-can-do/"><u>Windows Wireless Keyboard Issues? Here's What You Can Do</u></a></li>
 <li><a href="https://driver-error.techidaily.com/winning-the-battle-against-uncooperative-wireless-keyboards-a-comprehensive-guide-for-windows-users/"><u>Winning the Battle Against Uncooperative Wireless Keyboards: A Comprehensive Guide for Windows Users</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

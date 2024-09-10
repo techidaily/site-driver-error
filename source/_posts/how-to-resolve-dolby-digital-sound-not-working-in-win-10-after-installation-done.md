@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Dolby Digital® Sound Not Working in Win 10 After Installation – Done!✨
-date: 2024-09-04T12:51:29.871Z
-updated: 2024-09-05T12:51:29.871Z
+date: 2024-09-09T03:10:00.736Z
+updated: 2024-09-10T03:10:00.736Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes How to Resolve Dolby Digital® Sound Not Working
 thumbnail: https://thmb.techidaily.com/72bac3551a829f100e80929327a859a230ef81a06fa60256119f57f4b98caf7a.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Resolve Dolby Digital® Sound Not Working in Win 10 After Installation – Done!✨
 
  It might happen to you that after you update your sound driver or make some change with you system, the following notification pops up:
@@ -35,10 +41,40 @@ Here is how you could do it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576a30f83aec2.png) 3) Under**Driver**tab, choose**Roll Back Driver**and then choose**OK**to save the change.
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576a30ff61931.png)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4) Click**Yes.** ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576a310670fbf.png) 5) Wait for a couple of seconds for the system to help you with the process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then you should be able to see the notification asking you to restart, please click**Yes** for the change to take effect.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576a310d48cb3.png)
@@ -51,8 +87,20 @@ Here is how you could do it.
 
 1) Open **[Device Manager](https://tools.techidaily.com/drivereasy/download/)** . 2) Expand**Sound, video and game controllers**option. Right click the audio devices on your computer and choose**Uninstall**.![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576a317dbb7ea.png) 3) Confirm the option by clicking**Yes**.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576a31770425f.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You may need to**repeat** this procedure with Realtek or Conexant or some other audio device and Dolby audio device.
 
 4)**Reboot**your computer after this so Windows can update the correct drivers for you.
@@ -136,10 +184,3 @@ Moreover,[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) is
 <li><a href="https://driver-error.techidaily.com/windows-wireless-mouse-disconnects-regularly/"><u>Windows Wireless Mouse Disconnects Regularly</u></a></li>
 <li><a href="https://driver-error.techidaily.com/wireless-mastery-quick-solutions-for-windows-users/"><u>Wireless Mastery: Quick Solutions for Windows Users</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

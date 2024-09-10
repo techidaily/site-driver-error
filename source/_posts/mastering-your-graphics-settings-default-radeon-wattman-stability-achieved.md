@@ -1,7 +1,7 @@
 ---
 title: "Mastering Your Graphics Settings: Default Radeon Wattman Stability Achieved"
-date: 2024-07-15T06:47:38.955Z
-updated: 2024-07-16T06:47:38.955Z
+date: 2024-09-09T03:09:10.076Z
+updated: 2024-09-10T03:09:10.076Z
 tags:
   - win11
   - win10
@@ -13,13 +13,22 @@ excerpt: "This Article Describes Mastering Your Graphics Settings: Default Radeo
 thumbnail: https://thmb.techidaily.com/4e77949115cfac19c020244425b911f0553ff80a11c2ba7a975a6f440c1a6fff.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mastering Your Graphics Settings: Default Radeon Wattman Stability Achieved
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58d895485ccdd.jpg)  
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Since Anniversary Update of Windows 10, which was in August in 2016, AMD users have been reporting that Radeon WattMan sometimes stops working on their PCs.
   
  Radeon WattMan is the power management utility provided by AMD. It gives you insights of how your games or applications are running in your PC. The data of which enables you to configure as per your own needs in a very straightforward way.
@@ -45,50 +54,62 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da122aa7042.png)  
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Expand category **Display adapters**. Then double click the AMD Radeon device driver that you can see.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da14a5b79bf.jpg)  
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Then navigate to **Driver** tab, and then choose **Roll Back Driver**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da15224ee2b.jpg)  
   
  4) If the **Roll Back Driver** button here is **grey out**, that means this option is unavailable in your situation. You need to go to the options below for more help.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1595caf55.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Option 2:** **Clean re-install display card driver**  
   
 **Note**: This option requires that you install a **DDU**, **Display Driver Uninstaller**, on your computer first. You can of course use similar programs such as Cc Cleaners to help you with the uninstall.
   
  1) Click **Start** button, then choose **Control Panel**. In Control Panel, choose **Uninstall a program** under Programs sector (View by **Category**).  
   
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1cb2befea.jpg)  
   
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Now, choose **AMD Catalyst** program or other **AMD programs**, then choose **Uninstall**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1d980a082.jpg)  
   
  3) Now, press **Windows key** and **X** at the same time and choose **Device Manager**.
   
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da122aa7042.png)  
   
  4) Expand category **Display adapters**. Then double click the AMD Radeon device driver that you can see.
@@ -97,11 +118,14 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  5) Navigate to **Driver** tab, then choose **Uninstall**.  
   
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1e9101343.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When prompted with the following notification, click **OK** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1ea6e2b3a.png)
@@ -112,6 +136,18 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1f79327c3.jpg)  
   
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  7) You can go to the support website of AMD to locate the driver you need. The baisc procedure is not that difficult, go to AMD support, then search for the driver that matches your operating system.
   
  But from our findings, the drivers on AMD support has not all passed WHQL test, which means that there is a big chance that you will download the beta version of a certain driver, which could bring you more troubles than you already have. Definitely not something you want to go through.
@@ -128,6 +164,12 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 1) Press Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and hit **Enter**.  
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)  
   
  2) You could choose **Restart now and check for problems (recommended)** to check the status of your memory card right now, or choose **Check for problems the next time I start my computer** if you are too occupied now.  
@@ -169,3 +211,44 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/solved-struggling-to-run-rtx-gaming-weve-got-your-back/"><u>(Solved): Struggling to Run RTX Gaming? We've Got Your Back</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-avoiding-tiktoks-ghost-mode-strategies-to-stay-visible/"><u>[New] 2024 Approved Avoiding TikTok's Ghost Mode Strategies to Stay Visible</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-dominate-digital-space-secure-a-chain-of-1k-fansmonth/"><u>[New] 2024 Approved Dominate Digital Space Secure a Chain of 1K Fans/Month</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comparing-m1-laptop-performance-in-air-vs-pro/"><u>[New] Comparing M1 Laptop Performance in Air Vs. Pro</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-story-upgrade-how-to-add-music-effectively/"><u>[New] Instagram Story Upgrade How to Add Music Effectively</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-cant-open-acpi-atk0100-kernel-mode-driver/"><u>[Solved] Can’t Open ACPI ATK0100 Kernel Mode Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-drivers-engaged-on-win-os/"><u>[Solved]: Drivers Engaged on Win OS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-constructing-an-inviting-subscribe-link-for-youtube-enthusiasts-for-2024/"><u>[Updated] Constructing an Inviting Subscribe Link for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-chromes-sound-best-apps-for-online-text-to-speech-transformation/"><u>[Updated] Perfecting Chrome's Sound Best Apps for Online Text-to-Speech Transformation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-commence-your-journey-with-xps-film-editor-suite/"><u>2024 Approved Commence Your Journey with XP's Film Editor Suite</u></a></li>
+<li><a href="https://driver-error.techidaily.com/canon-sx530-revealed-the-best-camera-for-newbies/"><u>Canon SX530 Revealed: The Best Camera for Newbies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/discovering-the-essence-of-excellent-screen-capture-with-recmeister-for-2024/"><u>Discovering the Essence of Excellent Screen Capture with Recmeister for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-eye-ideport0-malfunction-notice/"><u>Driver's Eye: Ideport0 Malfunction Notice</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enable-unseen-logitech-brio-camera-post-windows-update-step-by-step-guide-solved/"><u>Enable Unseen Logitech Brio Camera Post Windows Update – Step by Step Guide [Solved!]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-techniques-for-color-correction-in-gopro/"><u>Essential Techniques for Color Correction in GoPro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-resolving-the-absence-of-a-coprocessor-driver-in-windows-11/"><u>Fix Guide: Resolving the Absence of a Coprocessor Driver in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-wi-fi-ax201-intermittent-operations-issue/"><u>Fix: Wi-Fi Ax201 Intermittent Operations Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-module-blockage-in-windows-operating-system/"><u>Graphics Module Blockage in Windows Operating System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-ensure-seamless-integration-with-classic-usb-composite-devices-issues-cleared/"><u>How to Ensure Seamless Integration With Classic USB Composite Devices [ISSUES CLEARED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-radeon-wattman-settings-crash-issue-effectively/"><u>How to Fix the Radeon Wattman Settings Crash Issue Effectively</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-crafting-your-weekly-schedule-with-google-meet/"><u>In 2024, Crafting Your Weekly Schedule with Google Meet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-premiere-pro-fs-view-techniques/"><u>In 2024, In-Depth Premiere Pro FS View Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-abcs-of-facebook-cover-video-production/"><u>In 2024, The ABCs of Facebook Cover Video Production</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-complete-guide-to-compliant-twitter-videos/"><u>In 2024, The Complete Guide to Compliant Twitter Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/master-the-technique-enabling-safe-mode-and-discarding-graphics-drivers-on-win-8/"><u>Master the Technique: Enabling Safe Mode and Discarding Graphics Drivers on Win 8</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-navigating-the-nuances-of-audio-graphics-plotting-waveform-data-and-infusing-videos-with-life-like-animations-using-premiere-pro/"><u>New 2024 Approved Navigating the Nuances of Audio Graphics Plotting Waveform Data & Infusing Videos with Life-Like Animations Using Premiere Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-recognition-failures-of-usb-gadgets-win-78/"><u>Overcoming Recognition Failures of USB Gadgets Win 7/8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-enumeration-errors-in-usb/"><u>Resolve Enumeration Errors in USB</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-the-complete-fix-for-amd-radeon-wattman-restoration-glitches/"><u>Resolved! The Complete Fix for AMD Radeon Wattman Restoration Glitches</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-top-bottom-screen-problem-correcting-flipped-videos-on-an-asus-laptop/"><u>Resolving the Top-Bottom Screen Problem: Correcting Flipped Videos on an ASUS Laptop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/secured-smooth-operation-of-asus-usb20-cam-in-windows-11/"><u>Secured Smooth Operation of ASUS USB2.0 Cam in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-troubleshooting-for-correct-device-configurations-error-code-1/"><u>Step-by-Step Troubleshooting for Correct Device Configurations (Error Code 1)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swiftly-solve-bluetooth-connectivity-problems/"><u>Swiftly Solve Bluetooth Connectivity Problems</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-essential-review-of-speed-and-style-the-gotrax-gxl-v2-commuter-e-scooter-unveiled/"><u>The Essential Review of Speed and Style: The Gotrax GXL V2 Commuter E-Scooter Unveiled</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-xiaomi-redmi-k70-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Xiaomi Redmi K70 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unseen-hero-rechargeable-battery-for-mouse-problems/"><u>Unseen Hero: Rechargeable Battery for Mouse Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-to-serial-restoring-functionality-in-windows/"><u>USB to Serial: Restoring Functionality in Windows</u></a></li>
+</ul></div>

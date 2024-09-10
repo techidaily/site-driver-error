@@ -1,7 +1,7 @@
 ---
 title: MacBook Pro Air Unsupported in Ubuntu Mate 20.04 [Solved]
-date: 2024-09-04T12:51:30.045Z
-updated: 2024-09-05T12:51:30.045Z
+date: 2024-09-09T03:10:00.920Z
+updated: 2024-09-10T03:10:00.920Z
 tags:
   - win11
   - win10
@@ -19,6 +19,12 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/apple-iphone-in-windows-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 In **Devices and Printers(Control Panel > Hardware and Sound > Devices and Printers)**, it appears under the**Unspecified**category as**Apple Mobile Device USB Driver**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/apple-mobile-device-usb-driver-in-unspecified.jpg)
@@ -27,10 +33,28 @@ Luckily, this is not a hard problem to tackle. Before we begin, we need to make 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/get-the-latest-version-of-itunes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2) Check that you have the latest software on your Windows 7\. You can check the if there are available updates on your computer by the path**Control Panel > System and Security > Windows Update**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/windows-update-in-windows-7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Press**Trust**on your iPhone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/trust-this-computer-on-iphone.jpg)
@@ -39,6 +63,12 @@ Luckily, this is not a hard problem to tackle. Before we begin, we need to make 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57cfc1d3812c4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1) Go to **[Device Manager](https://tools.techidaily.com/drivereasy/download/)** . 2) Expand category**Universal Serial Bus controllers**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57cfc066b0a94.png)
@@ -47,22 +77,58 @@ Luckily, this is not a hard problem to tackle. Before we begin, we need to make 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/let-me-pick-from-a-list-of-device-drivers-on-my-computer-600x439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7) In**Apple Mobile Device USB Driver**category, choose**Have disk…**option. If the**Have Disk…** option is unavailable under**Apple Mobile Device USB Driver** category, choose a device category such as**Mobile Phone**or**Storage Device**, if that’s what you can see.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/apple-mobile-device-usb-driver-category-600x439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 8) Click**Browse**. ![](https://images.drivereasy.com/wp-content/uploads/2016/09/browse-for-inf-file.png) 9) Then navigate to   **C:\\Program Files\\Common Files\\Apple\\Mobile Device Support\\Drivers** . Double click the**usbaapl** file. If you are running a 64-bit version of Windows, this file will be called**usbaapl64** . If you don’t see**usbaapl64**here or if there isn’t a**Drivers**folder, look in **C:\\Program Files (x86)\\Common Files\\Apple\\Mobile Device Support\\Drivers**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/have-disk-usbaapl64.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 10) In the**Have Disk**window, click**OK**. ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57cfba2f3f906.png) 11) Then click**Next**. Windows will help you with the driver update after this.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/next-to-finish-the-install-process-600x439.png)
 
 12) Open iTunes now to see if it recognizes your iPhone.   **Method Two: Restart the Apple Mobile Device Service** This method applies when you see this notification when connecting your device to PC: **This iPhone cannot be used because the Apple Mobile Device Service is not started**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/this-iphone-cannot-be-used-because-the-apple-mobile-device-service-is-not-started.png) This method also applies when you don’t see ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57cfc2b7b55a1.png) , ![](https://images.drivereasy.com/wp-content/uploads/2016/09/yellow-exclmation-mark.png) or ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57cfc2cc4c57a.png) by the **Apple Mobile Device USB Driver** .  1) Close iTunes and disconnect your iPhone from your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2) Press**Windows key**and**R**at the same time to invoke a Run command, then type**services.msc**in and hit**Enter**. ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57cfbd4cbc7ad.png) 3) Locate and double click**Apple Mobile Device Service**.![](https://images.drivereasy.com/wp-content/uploads/2016/09/apple-mobile-device-service.jpg) 4) Change the**Startup type**to**Automatic**. ![](https://images.drivereasy.com/wp-content/uploads/2016/09/startup-type-to-automatic.jpg) 5) Click**Stop**the service.![](https://images.drivereasy.com/wp-content/uploads/2016/09/stop-the-service.png) 6) After the service stops, click**Start**the service.![](https://images.drivereasy.com/wp-content/uploads/2016/09/start-the-service.png) 7) Click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2016/09/ok-to-save-the-change.png)
 
 8) Restart your computer.
@@ -139,10 +205,3 @@ In addition, Driver Easy is a totally free software to use. But if you are looki
 <li><a href="https://driver-error.techidaily.com/win-update-solving-non-functional-broadcom-wireless-n-adapter/"><u>Win Update: Solving Non-Functional Broadcom Wireless N Adapter</u></a></li>
 <li><a href="https://driver-error.techidaily.com/win11-stutter-free-experience-achieved/"><u>Win11 Stutter-Free Experience Achieved</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

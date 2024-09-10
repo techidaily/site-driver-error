@@ -1,7 +1,7 @@
 ---
 title: GeForce GTX 980 Drivers Download Easily
-date: 2024-09-04T12:51:26.694Z
-updated: 2024-09-05T12:51:26.694Z
+date: 2024-09-09T03:09:57.805Z
+updated: 2024-09-10T03:09:57.805Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes GeForce GTX 980 Drivers Download Easily
 thumbnail: https://thmb.techidaily.com/b1557e3d9700a9810b8b9bbec88362c53ba5a3f98f5f309c7652fc768db4746d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## GeForce GTX 980 Drivers Download Easily
 
 As GeForce GTX 980 users, if you want to have the best performance while playing games, you should keep the graphics driver up to date. There are two ways you can use to download and install the driver. Read on to learn how to download GeForce GTX 980 drivers easily.  
@@ -27,11 +33,23 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b535756371c.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  3\. Go to**Drivers** section.  
  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b5363520e92.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 980) and the operating system version (see[How to Get Operating System Version](https://tools.techidaily.com/drivereasy/download/)). After that, click**START SEARCH** button.  
   
@@ -58,6 +76,12 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5806e27e27212.png)   
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .   
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b5372d89286.jpg) 
@@ -67,6 +91,12 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a286a881cbe.jpg)   
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  **Way 3: Update the Driver Using[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**   
   
  If you have difficulty updating the driver manually, you can use Driver Easy to help you. Or if you just want to save time on updating drivers, you can use Driver Easy to help you. Driver Easy has a[Free version](https://tools.techidaily.com/drivereasy/download/) . You can use the Free version to download the latest GTX 980 drivers. To enjoy full features, you can consider upgrading to the PRO version. With the PRO version, to update all drivers, you just need to click your mouse two times. Driver Easy PRO offers you 30-day money back guarantee. You can get a full refund for any reason. Use it to update the  GTX 980 drivers in Windows now.  
@@ -80,6 +110,12 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f1cb443644e.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * [GeForce](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -148,10 +184,3 @@ Follow these steps:
 <li><a href="https://driver-error.techidaily.com/windows-10-reconnecting-bluetooth-and-usb-headsets/"><u>Windows 10: Reconnecting Bluetooth and USB Headsets</u></a></li>
 <li><a href="https://driver-error.techidaily.com/windows-driver-crisis-for-print-hardware/"><u>Windows Driver Crisis for Print Hardware</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: What to Do When Your Software Doesn't Recognize Installed Hardware"
-date: 2024-09-04T12:51:32.243Z
-updated: 2024-09-05T12:51:32.243Z
+date: 2024-09-09T03:10:03.182Z
+updated: 2024-09-10T03:10:03.182Z
 tags:
   - win11
   - win10
@@ -17,6 +17,18 @@ thumbnail: https://thmb.techidaily.com/7b8336f5215e637e754158b1429078ceab1fa3c34
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a96722da247d.png)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you’re installing IDT audio driver, if you can’t install the driver successfully and get error message: _**The hardware detected is not supported by this IDT software package**_  ._**The install will be aborted**_ . Don’t worry. You can install the driver successfully by following the steps below.  
   
  There are three methods you can use to install the IDT audio driver.  
@@ -55,6 +67,12 @@ thumbnail: https://thmb.techidaily.com/7b8336f5215e637e754158b1429078ceab1fa3c34
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968b1342462.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3\. Double click “**Sound,video and game controllers** ” to expand the list of audio devices.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968b659c34e.png)
@@ -63,10 +81,28 @@ thumbnail: https://thmb.techidaily.com/7b8336f5215e637e754158b1429078ceab1fa3c34
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968bb16c287.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5\. Select**Search automatically for updated driver software** . Then Windows will search for and update the latest audio driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968c05e3535.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Update the driver automatically
 
  If you have difficulty updating driver manually, you can do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) .  
@@ -84,6 +120,12 @@ thumbnail: https://thmb.techidaily.com/7b8336f5215e637e754158b1429078ceab1fa3c34
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968f5c917bc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Hope you can install or update the IDT audio driver successfully with the tips in this article. If you have any questions or ideas, please leave your comment. I always love to hear of any comments.
 
 * [Audio](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
@@ -157,10 +199,3 @@ thumbnail: https://thmb.techidaily.com/7b8336f5215e637e754158b1429078ceab1fa3c34
 <li><a href="https://driver-error.techidaily.com/winserial-fix-broken-usb-to-serial-links/"><u>Winserial: Fix Broken USB to Serial Links</u></a></li>
 <li><a href="https://driver-error.techidaily.com/zero-space-left-taskmanager-troubleshoot-win10/"><u>Zero Space Left? TaskManager Troubleshoot Win10</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

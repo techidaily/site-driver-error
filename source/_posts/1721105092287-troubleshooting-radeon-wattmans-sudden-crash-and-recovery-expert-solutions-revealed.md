@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Radeon Wattman's Sudden Crash and Recovery – Expert Solutions Revealed
-date: 2024-07-15T06:49:07.397Z
-updated: 2024-07-16T06:49:07.397Z
+date: 2024-09-09T03:04:01.282Z
+updated: 2024-09-10T03:04:01.282Z
 tags:
   - win11
   - win10
@@ -40,19 +40,40 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  1) Press **Windows key** and **X** at the same time, then choose **Device Manager**.
   
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da122aa7042.png)  
   
  2) Expand category **Display adapters**. Then double click the AMD Radeon device driver that you can see.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da14a5b79bf.jpg)  
   
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Then navigate to **Driver** tab, and then choose **Roll Back Driver**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da15224ee2b.jpg)  
   
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) If the **Roll Back Driver** button here is **grey out**, that means this option is unavailable in your situation. You need to go to the options below for more help.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1595caf55.jpg)
@@ -69,17 +90,26 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1d980a082.jpg)  
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Now, press **Windows key** and **X** at the same time and choose **Device Manager**.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da122aa7042.png)  
   
  4) Expand category **Display adapters**. Then double click the AMD Radeon device driver that you can see.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da14a5b79bf.jpg)  
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Navigate to **Driver** tab, then choose **Uninstall**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1e9101343.jpg)
@@ -94,6 +124,12 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1f79327c3.jpg)  
   
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  7) You can go to the support website of AMD to locate the driver you need. The baisc procedure is not that difficult, go to AMD support, then search for the driver that matches your operating system.
   
  But from our findings, the drivers on AMD support has not all passed WHQL test, which means that there is a big chance that you will download the beta version of a certain driver, which could bring you more troubles than you already have. Definitely not something you want to go through.
@@ -108,27 +144,48 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  Some users reported that this problem is caused by faulty RAM, which is not unusual if you are constantly having problem with your graphics card driver or the display on your computer. Hence, you should run a RAM check on your computer to see if this is the cause and then fix it accordingly.
   
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1) Press Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and hit **Enter**.  
   
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)  
   
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) You could choose **Restart now and check for problems (recommended)** to check the status of your memory card right now, or choose **Check for problems the next time I start my computer** if you are too occupied now.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) You will be seeing this page showing the progress of the check and number of passes it will run on memory.  
   
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you don’t see any error here, it’s likely that your memory card is not causing any issues.
   
 **Other options**  
@@ -160,3 +217,57 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-error-45-in-system-settings/"><u>[FIXED] Error 45 in System Settings</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-micromovie-magic/"><u>[New] 2024 Approved MicroMovie Magic</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-pros-guide-to-free-screen-recording-on-mac-devices-for-2024/"><u>[New] Pro's Guide to FREE Screen Recording on Mac Devices for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/actical-multitasking-a-guide-to-co-watching-on-yt/"><u>[New] Tactical Multitasking A Guide to Co-Watching on YT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-imaging-expertise-in-adobes-high-dynamic-range/"><u>[New] Transform Imaging Expertise in Adobe's High Dynamic Range</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-error-code-48-in-device-manager/"><u>[SOLVED] Error Code 48 in Device Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-irqlnotlessorequal-bsod-in-windows-11/"><u>[Solved] IRQL_NOT_LESS_OR_EQUAL BSOD in Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-navigating-zoom-on-chromebook-essential-advice/"><u>[Updated] 2024 Approved Navigating Zoom on Chromebook Essential Advice</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-prime-narrative-design-center/"><u>[Updated] Prime Narrative Design Center</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-elevate-audio-quality-in-podcasts-using-garageband/"><u>2024 Approved Elevate Audio Quality in Podcasts Using GarageBand</u></a></li>
+<li><a href="https://driver-error.techidaily.com/access-denied-to-gpu-in-win11-os/"><u>Access Denied to GPU in Win11 OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/banish-endless-connectivity-of-bluetooth-in-win10/"><u>Banish Endless Connectivity of Bluetooth in Win10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722874253484-beat-code-28errors-in-windows-with-these-proven-fixes/"><u>Beat Code ^[[2][8]Errors in Windows with These Proven Fixes!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/boost-your-gaming-game-in-win10-a-complete-razer-driver-update-guide/"><u>Boost Your Gaming Game in Win10: A Complete Razer Driver Update Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-troubleshooting-for-nvidia-geforce-gtx-950-error-code-43-in-windows-10/"><u>Comprehensive Troubleshooting for Nvidia GeForce GTX 950 Error Code 43 in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-usb-composite-devices-a-look-back-at-their-pioneering-role-in-tech-evolution/"><u>Decoding USB Composite Devices: A Look Back at Their Pioneering Role in Tech Evolution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/direct-install-of-samsung-android-os-on-pc/"><u>Direct Install of Samsung Android OS on PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-solutions-to-overcome-the-failed-hcmondriver-driver-setup-problem/"><u>Effective Solutions to Overcome the Failed Hcmondriver Driver Setup Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/exploring-the-legacy-of-usb-composite-devices-in-modern-computing/"><u>Exploring the Legacy of USB Composite Devices in Modern Computing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-marvell-91xx-driver-issue-on-windows-10-solved/"><u>Fix Marvell 91Xx Driver Issue on Windows 10 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-invalid-service-installation-parameters-in-inf/"><u>Fixing Invalid Service Installation Parameters in INF</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-apple-iphone-12-mini-by-drfone-ios/"><u>How To Factory Unlock Your Telstra Apple iPhone 12 mini</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-install-missing-drivers-on-your-pc-with-windows-11-8-or-7-the-complete-guide/"><u>How to Install Missing Drivers on Your PC with Windows 11, 8 or 7 – The Complete Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-rejuvenate-your-malfunctioning-dolby-headphone-feature-solution-found/"><u>How to Rejuvenate Your Malfunctioning Dolby Headphone Feature? Solution Found</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-the-blue-screen-of-death-with-error-0x00000e-on-windows-7-computers/"><u>How to Resolve the 'Blue Screen of Death' With Error 0X00000e on Windows 7 Computers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-civi-3-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Civi 3 to PC? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-successfully-fix-failed-hcom-monitor-driver-setup-errors/"><u>How to Successfully Fix Failed HCOM Monitor Driver Setup Errors</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-14-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 14 Passcode not Working?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-navigating-youtube-metrics-with-ease/"><u>In 2024, Navigating YouTube Metrics with Ease</u></a></li>
+<li><a href="https://driver-error.techidaily.com/installing-nvidia-drivers-problem-solved/"><u>Installing Nvidia Drivers: Problem Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/iphone-usb-connection-fixed-resolving-the-mtp-device-driver-problem/"><u>IPhone USB Connection Fixed: Resolving the MTP Device Driver Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-intel-management-engine-fixes/"><u>Mastering Intel Management Engine Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-in-jurassic-world-evolution-eliminating-game-crash-issues/"><u>Mastering Stability in Jurassic World Evolution - Eliminating Game Crash Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimizing-razer-hats-for-windows-11/"><u>Optimizing Razer HATs for Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-no-initialization-directx-9-issue-quickly/"><u>Overcoming 'No Initialization DirectX 9' Issue Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/preventing-bluetooth-auto-turn-on-in-win11/"><u>Preventing Bluetooth Auto-Turn On in WIN11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revised-service-setup-valid-inf-section/"><u>Revised Service Setup: Valid INF Section</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-operations-bluetooth-drivers-on-windows/"><u>Smooth Operations: Bluetooth Drivers on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-to-address-missing-coprocessor-drivers-on-your-windows-10-machine/"><u>Step-by-Step Solution to Address Missing Coprocessor Drivers on Your Windows 10 Machine</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stop-repetitive-amd-software-malfunctions/"><u>Stop Repetitive AMD Software Malfunctions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stop-windows-11-bluetooth-from-self-activating/"><u>Stop Windows 11 Bluetooth From Self-Activating</u></a></li>
+<li><a href="https://driver-error.techidaily.com/streamline-dell-input-device-in-win7/"><u>Streamline Dell Input Device in Win7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-fix-for-iphone-external-drive-connectivity-problems-a-complete-walkthrough/"><u>The Ultimate Fix for iPhone External Drive Connectivity Problems: A Complete Walkthrough</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-usb-wire-connection-problem-poweredge/"><u>Troubleshoot USB-WIRE Connection Problem, PowerEdge</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-windows-7-bsod-with-stop-code-0x0000007e/"><u>Troubleshooting Guide: Resolving Windows 7 BSOD with Stop Code 0X0000007E</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-os-missing-data-acquisition-device/"><u>Win OS Missing Data Acquisition Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102521284-windows-troubleshooting-bluetooth-glitches-fixed/"><u>Windows Troubleshooting: Bluetooth Glitches Fixed</u></a></li>
+</ul></div>

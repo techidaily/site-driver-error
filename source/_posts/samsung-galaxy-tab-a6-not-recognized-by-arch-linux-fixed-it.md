@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy Tab A6 Not Recognized by Arch Linux, Fixed It
-date: 2024-09-04T12:51:29.888Z
-updated: 2024-09-05T12:51:29.888Z
+date: 2024-09-09T03:10:00.756Z
+updated: 2024-09-10T03:10:00.756Z
 tags:
   - win11
   - win10
@@ -17,32 +17,98 @@ thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595
 
  **Quick Through: [Method One: If you see a  or  by the Apple Mobile Device USB Driver](https://images.drivereasy.com/wp-content/uploads/2016/09/yellow-exclmation-mark.png) or ![](https://images.drivereasy.com/wp-content/uploads/2016/09/iphone-7-not-recognized-by-windows-7-question-mark.png) by the Apple Mobile Device USB Driver](#1)** **[Method Two: If you don’t see ,  or  by the Apple Mobile Device USB Driver](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57cfc2b7b55a1.png) , ![](https://images.drivereasy.com/wp-content/uploads/2016/09/yellow-exclmation-mark.png) or ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57cfc2cc4c57a.png) by the Apple Mobile Device USB Driver](#2)** **[Method Three: If you see  next to the Apple Mobile Device USB Driver](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57cfc3cc786ff.png) next to the Apple Mobile Device USB Driver](#3)** **[Method Four: If your iPhone is listed under Other device and with a  next to it](https://images.drivereasy.com/wp-content/uploads/2016/09/yellow-exclmation-mark.png) next to it](#4)** iPhone users may have encountered this situation before: you connect your iPhone to your computer, you have clicked the**Trust**button on your device, but you cannot see iPhone on**My Computer**. This is what it should look like if iPhone is detected by Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/apple-iphone-in-windows-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 In **Devices and Printers(Control Panel > Hardware and Sound > Devices and Printers)**, it appears under the**Unspecified**category as**Apple Mobile Device USB Driver**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/apple-mobile-device-usb-driver-in-unspecified.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Luckily, this is not a hard problem to tackle. Before we begin, we need to make sure that you have done the following things properly. 1) Make sure that you have **[the latest version of iTunes](https://support.apple.com/kb/HT201352)** that works on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/get-the-latest-version-of-itunes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2) Check that you have the latest software on your Windows 7\. You can check the if there are available updates on your computer by the path**Control Panel > System and Security > Windows Update**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/windows-update-in-windows-7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Press**Trust**on your iPhone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/trust-this-computer-on-iphone.jpg)
 
 4) Make sure that your device is turned on. 5) Try other USB cables or USB ports to see if iPhone can be detected.   **Method One: Manually Update Apple Mobile Device USB Driver**This method is adopted when you see a ![](https://images.drivereasy.com/wp-content/uploads/2016/09/yellow-exclmation-mark.png) or ![](https://images.drivereasy.com/wp-content/uploads/2016/09/iphone-7-not-recognized-by-windows-7-question-mark.png) by the**Apple Mobile Device USB Driver**.
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57cfc1d3812c4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1) Go to **[Device Manager](https://tools.techidaily.com/drivereasy/download/)** . 2) Expand category**Universal Serial Bus controllers**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57cfc066b0a94.png)
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Double click**Apple Mobile Device USB Driver**. 4) In**Driver**tab, click**Update Driver…**option. ![](https://images.drivereasy.com/wp-content/uploads/2016/09/update-driver-apple-mobile-device-usb-driver-properties.png) 5) Choose**Browse my computer for driver software**. ![](https://images.drivereasy.com/wp-content/uploads/2016/09/browse-my-computer-for-driver-software-600x439.png) 6) Then choose**Let me pick from a list of device drivers on my computer**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/let-me-pick-from-a-list-of-device-drivers-on-my-computer-600x439.png)
@@ -65,10 +131,22 @@ Luckily, this is not a hard problem to tackle. Before we begin, we need to make 
 
 2) Press**Windows key**and**R**at the same time to invoke a Run command, then type**services.msc**in and hit**Enter**. ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57cfbd4cbc7ad.png) 3) Locate and double click**Apple Mobile Device Service**.![](https://images.drivereasy.com/wp-content/uploads/2016/09/apple-mobile-device-service.jpg) 4) Change the**Startup type**to**Automatic**. ![](https://images.drivereasy.com/wp-content/uploads/2016/09/startup-type-to-automatic.jpg) 5) Click**Stop**the service.![](https://images.drivereasy.com/wp-content/uploads/2016/09/stop-the-service.png) 6) After the service stops, click**Start**the service.![](https://images.drivereasy.com/wp-content/uploads/2016/09/start-the-service.png) 7) Click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2016/09/ok-to-save-the-change.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 8) Restart your computer.
 
 9) Open your iTunes and connect your iPhone to your computer.   **Method Three: Enable Apple Mobile Device USB Driver** If you see ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57cfc3cc786ff.png) next to the **Apple Mobile Device USB Driver**, this method applies to your situation. 1) Go to **[Device Manager](https://tools.techidaily.com/drivereasy/download/)** . 2) Expand**Universal Serial Bus controllers**.![](https://images.drivereasy.com/wp-content/uploads/2016/09/expand-universal-serial-bus-controllers.png) 3) Right click **Apple Mobile Device USB Driver** and choose**Enable**. ![](https://images.drivereasy.com/wp-content/uploads/2016/09/apple-mobile-device-usb-driver-enable.png)   **Method Four: Update iPhone Driver**This method applies when you see your iPhone listed under**Portable Device** instead of**Universal Serial Bus controllers**and with a yellow exclamation mark next to it.![](https://images.drivereasy.com/wp-content/uploads/2016/09/portable-device-with-yellow-exclamation-mark.png) It is highly recommended that you use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) to scan and download drivers that you need for free. If your iPhone is not showing in the correct position and your computer says it is already the latest version of device driver that Windows can find, then you need to give a try of **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** . Driver Easy is a free software to use. As the name suggests, it is very easy to use. There are only two steps involved. 1) Click**Scan Now**button to scan for the new drivers available. ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da3829b5cbb.png) 2) Click the**Update**button next to**Apple Mobile Device USB Driver** and wait for Driver Easy to help you with the device driver update. ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da383c4afde.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 That’s all you need to do.
 
 In addition, Driver Easy is a totally free software to use. But if you are looking for more features and professional tech support, you can have a try at our **[professional version](https://tools.techidaily.com/drivereasy/download/)** . If you are not satisfied with Driver Easy at the end, you can always ask for a refund within thirty days.
@@ -164,10 +242,3 @@ In addition, Driver Easy is a totally free software to use. But if you are looki
 <li><a href="https://driver-error.techidaily.com/winserial-fix-broken-usb-to-serial-links/"><u>Winserial: Fix Broken USB to Serial Links</u></a></li>
 <li><a href="https://driver-error.techidaily.com/zero-space-left-taskmanager-troubleshoot-win10/"><u>Zero Space Left? TaskManager Troubleshoot Win10</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

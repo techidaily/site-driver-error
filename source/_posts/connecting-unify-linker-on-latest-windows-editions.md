@@ -1,7 +1,7 @@
 ---
 title: Connecting Unify Linker on Latest Windows Editions
-date: 2024-07-15T06:49:47.697Z
-updated: 2024-07-16T06:49:47.697Z
+date: 2024-09-09T03:02:13.046Z
+updated: 2024-09-10T03:02:13.046Z
 tags:
   - win11
   - win10
@@ -15,18 +15,12 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 
 ## Connecting Unify Linker on Latest Windows Editions
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a8eaab2959a4-300x120.png)
 
  If you have a Logitech wireless mouse, and you get a message saying **Device driver software was not successfully installed** when you plug your unifying receiver into your PC, you’re not alone. Many Windows are reporting this problem as well. But no worries, this is not at all a hard problem to fix.
 
  If you’re bugged by this problem, no worries. Many Windows users are able to resolve it with one of the following solutions. You may not have to try them all; just work your way down until you find the one that works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes, one at a time
 
 1. [**Copy the driver file from a well-functioning computer**](https://ursime.pxf.io/r5bm57)
@@ -37,6 +31,12 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 
  You should get a working mouse or touchpad to do the instructions below. The following screenshots are shown on Windows 11, but all the fixes apply to Windows 10, and 8&7 as well.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **1: Copy the driver file from a well-functioning computer**
 
  If your current PC lacks the needed driver file, your mouse receiver won’t work as well as it should. To fix it:
@@ -45,12 +45,30 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-usb-inf.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) If you can’t see them,**copy** them from another computer whose USB receiver is working properly and **paste** them onto this folder.
 
  3) If you don’t have another computer, see if you can find them via this path**C:\\Windows\\ System32** .
 
  4) If you can find the**usb.inf** and**usb.PNF** files, still, copy and paste them to the folder **C:\\Windows\\inf\\** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **2: Remove possible conflict applications**
 
  If you have MotionInJoy installed on your PC, it could be the culprit. It’s reported to conflict with Logitech unifying receiver. You can remove it:
@@ -63,6 +81,12 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-control-category-uninstall.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Right-lick **MotionInJoy** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57830b6e39c32.png)
@@ -71,10 +95,28 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae4aa24870a.png)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) On your keyboard, press the **Ctrl key** and **F** at the same time to open a search window. Type **DS3** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-registry-editor-ds3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  6) Delete all the DS3 files that you can see, especially the DS3.exe file.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/registry-delete-ds3.png)
@@ -99,37 +141,58 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db63a8174fd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged mouse device and/or USB port to automatically download and install the correct version of that driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db63d8ac59f.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **4: Run Logitech Unifying Receiver as administrator**
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time. Type**devmgmt.msc** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Expand **Mice and other pointing devices,** right-click the**HID-compliant mouse** and click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57834599bc659.png)
 
  3) Download [Logitech Unifying Software](http://support.logitech.com/en%5Fus/software/unifying) . After the download, right-click the icon and click **Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-logi-run-as-adm.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) After the installation, right-click**Logitech Unifying Software** in the**Start** panel and click **Run as administrator** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-logi-run-as-adm-start.jpg)
@@ -177,3 +240,51 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-simplifying-color-grading-a-comprehensive-look-at-luts/"><u>[New] 2024 Approved Simplifying Color Grading A Comprehensive Look at LUTs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-bring-your-camera-life-into-your-instagram-world-for-2024/"><u>[New] Bring Your Camera Life Into Your Instagram World for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-guard-your-images-with-top-photo-watermarks/"><u>[New] In 2024, Guard Your Images with Top Photo Watermarks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-comprehensible-guide-to-high-quality-audios-on-youtube/"><u>[Updated] In 2024, Comprehensible Guide to High-Quality Audios on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-exclusive-insights-elevating-your-mobizen-screencast-game/"><u>[Updated] In 2024, Exclusive Insights Elevating Your Mobizen Screencast Game</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-parody-playground-top-10-laugh-out-loud-songs/"><u>[Updated] Parody Playground Top 10 Laugh-Out-Loud Songs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-podcast-introduction-skills/"><u>2024 Approved The Ultimate Guide to Podcast Introduction Skills</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-technology-high-performance-insights-from-toms-world/"><u>Decoding Technology: High-Performance Insights From Tom's World</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-the-heart-of-windows-11-registry-explained/"><u>Delving Into the Heart of Windows 11: Registry Explained</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-troubleshooting-guide-for-installed-device-drivers-windows-10-8-and-7-issue-solved/"><u>Easy Troubleshooting Guide for Installed Device Drivers: Windows 10, 8 and 7 (ISSUE SOLVED)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-tutorial-for-enabling-safe-mode-and-updating-intel-gpu-software-on-win8-computers/"><u>Easy Tutorial for Enabling Safe Mode & Updating Intel GPU Software on Win8 Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-error-45-on-hardware-registry/"><u>Fixed Error 45 on Hardware Registry</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-missing-driver-notifications-compatible-drivers-for-windows-1187/"><u>Fixing Missing Driver Notifications: Compatible Drivers for Windows 11/8/7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-gtx-warton-950-code-43-problem-in-windows-11-comprehensive-guide/"><u>Fixing the GTX Warton 950 'Code 43' Problem in Windows 11 - Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-xbox-controller-connection-problems-in-windows-10-8-and-7/"><u>Fixing Xbox Controller Connection Problems in Windows 10, 8 & 7</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-ai-powered-face-makers-generate-realistic-fake-faces/"><u>Free AI-Powered Face Makers Generate Realistic Fake Faces</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-address-and-fix-driver-validation-problems-during-computer-updates/"><u>How to Address and Fix Driver Validation Problems During Computer Updates</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-critical-process-died-snipped-0x0000007e-blue-screen-issue-on-windows-vista-and-7/"><u>How to Resolve Critical Process Died, Snipped 0X0000007E Blue Screen Issue on Windows Vista and 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-note-12-pro-4g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi Note 12 Pro 4G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-update-your-idt-software-for-new-hardware-support-and-avoid-common-issues/"><u>How to Update Your IDT Software for New Hardware Support and Avoid Common Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/loading-wudfrd-driver-encountered-problem-id-219/"><u>Loading WudfRd Driver Encountered Problem (ID: 219)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastered-disk-drive-troubleshooting/"><u>Mastered Disk Drive Troubleshooting</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcome-radiosyncrasies-with-ease-windows-style/"><u>Overcome Radiosyncrasies with Ease, Windows Style!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-incompatibilities-fixing-unsupported-device-alerts-in-idt-software-systems/"><u>Overcoming Incompatibilities: Fixing Unsupported Device Alerts in IDT Software Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-not-responding-heres-how-to-get-it-running-in-windows-11/"><u>Qualcomm Atheros Bluetooth Not Responding? Here's How to Get It Running in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-qualcomm-atheros-bluetooth-malfunction-on-windows-11-systems/"><u>Resolved: Qualcomm Atheros Bluetooth Malfunction on Windows 11 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revitalized-keyboard-works-flawlessly-post-fix-in-windows-11/"><u>Revitalized Keyboard, Works Flawlessly Post-Fix in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-post-update-issues-with-realtek-lan-controls/"><u>Solving Post-Update Issues with Realtek LAN Controls</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-screen-flip-issues-on-asus-notebooks-a-guide/"><u>Solving Screen Flip Issues on Asus Notebooks - A Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-the-itbm-driver-unavailable-issue-with-simple-steps/"><u>Solving the 'ITBM Driver Unavailable' Issue with Simple Steps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-windows-sm-bus-controller-hurdles/"><u>Solving Windows SM Bus Controller Hurdles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-to-install-essential-device-drivers-missing-on-windows-computers/"><u>Step-by-Step Solution to Install Essential Device Drivers Missing on Windows Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-evolution-and-functionality-of-compatible-usb-composite-gadgets-final-answer/"><u>The Evolution and Functionality of Compatible USB Composite Gadgets [FINAL ANSWER]</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-poco-m6-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Poco M6 5G Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-guide-stop-windows-11s-persistent-bluetooth/"><u>The Ultimate Guide: Stop Windows 11'S Persistent Bluetooth</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-technique-to-upgrade-graphics-card-software-on-windows-11-computers/"><u>The Ultimate Technique to Upgrade Graphics Card Software on Windows 11 Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-mtp-issues-in-iphones-for-smooth-usb-connectivity/"><u>Troubleshooting and Fixing MTP Issues in iPhones for Smooth USB Connectivity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-the-absent-cpu-accelerator-driver-on-your-windows-10-machine-solved/"><u>Troubleshooting and Fixing the Absent CPU Accelerator Driver on Your Windows 10 Machine [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/universal-drivers-package-pci-windows-compatible/"><u>Universal Drivers Package (PCI Windows Compatible)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlocking-lenovos-full-potential-in-windows-11/"><u>Unlocking Lenovo's Full Potential in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-mystery-of-missing-disk-drive-explained/"><u>Win11: Mystery of Missing Disk Drive Explained</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-1110-fix-pci-controller-loss/"><u>Windows 11/10: Fix PCI Controller Loss</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-wireless-mouse-disconnects-regularly/"><u>Windows Wireless Mouse Disconnects Regularly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winning-the-battle-against-broken-qualcomm-atheros-bluetooth-drivers-on-windows-10/"><u>Winning the Battle Against Broken Qualcomm Atheros Bluetooth Drivers on Windows 10</u></a></li>
+</ul></div>

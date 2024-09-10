@@ -1,7 +1,7 @@
 ---
 title: Hardware Error - BCM2omedian Device Unsupported
-date: 2024-07-15T06:49:41.087Z
-updated: 2024-07-16T06:49:41.087Z
+date: 2024-09-09T03:02:25.732Z
+updated: 2024-09-10T03:02:25.732Z
 tags:
   - win11
   - win10
@@ -13,13 +13,22 @@ excerpt: This Article Describes Hardware Error - BCM2omedian Device Unsupported
 thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b71585737d9811b8df3523624.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Hardware Error - BCM2omedian Device Unsupported
 
  The**BCM20702A0 driver is unavailable error** indicates there are no compatible drivers or the drivers for this device are not installed. It will prevent specific Bluetooth components from communicating with your operating system properly. If you encounter this problem, don’t worry. Here are some real fixes for you to get it solved easily.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all. Just work from the top down until you find the one that solves your problem.
@@ -29,43 +38,55 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 3. [**Reinstall/update your BCM20702A0 driver**](https://uperfect.sjv.io/g1jgba)
 4. **[Check the Bluetooth service](https://oneplusfr.sjv.io/lxv4am)**
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1 – Turn on and off the Airplane mode
 
  As many users reported, turning on and then off the Airplane mode can address the BCM20702A0 driver issue. So before you go on with some complicated steps, try this trick and see if it works for you.
 
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to enter the Settings menu. Select**Network & Internet** .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/turn-on-and-off-airplane-mode-1.jpg)
 2. Select the**Airplane mode** from the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/turn-on-and-off-airplane-mode-2.jpg)
 3. Under the Airplane mode,**toggle on** the button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/turn-on-and-off-airplane-mode-3.jpg)
 4. Restart your computer and**disable the airplane mode** following the steps above.
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Check if your Bluetooth works. If not, continue to the second fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Run the Bluetooth troubleshooter
 
  The Windows troubleshooter is one of the most convenient and effective ways to resolve hardware glitches. You can take advantage of this utility to troubleshoot the BCM20702A0 driver issue as follow.
 
 1. In the Windows search box, type**troubleshoot** and click**Troubleshoot settings** .  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-1-2.jpg)
 2. Scroll down to find**Bluetooth** and click it. Then click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It may take a couple of minutes for the process. Once done, you can follow the on-screen instructions to repair the detected problems and check if the driver error persists. If so, move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3 – Reinstall/update your BCM20702A0 driver
 
  The BCM20702A0 driver unavailable error usually occurs when the driver is corrupted, missing or outdated. To fix it, you could try reinstalling or updating the BCM20702A0 driver. And there are mainly two ways to do this:**[manually](https://uperfect.sjv.io/g1jgba)** or**[automatically](https://tokenmetrics.sjv.io/jrkzxp)** .
@@ -92,8 +113,20 @@ Check if your Bluetooth works. If not, continue to the second fix.
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/bcm20702a0-driver-update-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After the driver updates, test your Bluetooth devices to see if it works normally. If not, there is one more fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4 – Check the Bluetooth service
 
  Bluetooth needs to work on certain services on your PC. If it’s not starting or running properly, you may fail to connect your Bluetooth devices and run into the BCM20702A0 driver is unavailable error. To check for bluetooth-related services, follow these steps:
@@ -101,10 +134,28 @@ Check if your Bluetooth works. If not, continue to the second fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run dialog. Type**service.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-1-1.jpg)
 2. Right-click the**Bluetooth Support Service** and click**Start** . If it’s already running, right-click it and click**Restart** .  
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2.jpg)
 3. After the service restarts, right-click it again and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-3.jpg)
 4. Set the **Startup type** to **Automatic** and click **OK** to apply the changes.  
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-4.jpg)
 
 Now test your device and see if the error gets fixed.
@@ -133,3 +184,42 @@ Now test your device and see if the error gets fixed.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-skyline-of-success-stardews-top-7-upgrades-review/"><u>[New] In 2024, Skyline of Success Stardew's Top 7 Upgrades Review</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-trailblazers-in-auditory-and-visual-creation-list/"><u>[New] In 2024, Trailblazers in Auditory & Visual Creation List</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-sound-to-word-converter-for-videos/"><u>[New] Sound to Word Converter for Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-high-speed-windows-photoviewer/"><u>[Updated] 2024 Approved High-Speed Windows Photoviewer</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-crafting-visibility-on-youtube-the-ultimate-guide-to-featured-channel-placement/"><u>[Updated] Crafting Visibility on YouTube The Ultimate Guide to Featured Channel Placement</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-xsplit-sourcebook-exclusive-split-and-review-content/"><u>[Updated] In 2024, XSplit Sourcebook Exclusive Split & Review Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revolutionizing-your-gaming-with-advanced-controller-software/"><u>[Updated] Revolutionizing Your Gaming with Advanced Controller Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-down-advanced-photographic-modes-for-enhanced-results/"><u>2024 Approved Breaking Down Advanced Photographic Modes for Enhanced Results</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-practical-methods-for-instagram-story-capture/"><u>2024 Approved Practical Methods for Instagram Story Capture</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-leading-gaming-headphones-for-an-immersive-experience/"><u>2024'S Leading Gaming Headphones for an Immersive Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capture-every-moment-essential-ways-for-google-meet-recordings-for-2024/"><u>Capture Every Moment Essential Ways for Google Meet Recordings for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disappearing-cds-troubleshoot-for-windows-users/"><u>Disappearing CDs: Troubleshoot for Windows Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-download-and-update-the-right-drivers-for-your-hp-envy-20-laptopdesktop/"><u>Easy Steps to Download & Update the Right Drivers for Your HP ENVY 20 Laptop/Desktop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-logged-ideport0-control-defect/"><u>Error Logged: Ideport0 Control Defect</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-error-in-device-manager-48/"><u>Fixed Error in Device Manager (#48)</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/gli-migliori-converter-video-h265hevc-per-sistemi-operativi-windows-n11-and-macos-scelta-perfetta/"><u>Gli Migliori Converter Video H.265/HEVC per Sistemi Operativi Windows N11 & macOS - Scelta Perfetta!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gpu-lens-peering-into-microsofts-bda/"><u>GPU Lens: Peering Into Microsoft's BDA</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-correcting-device-misconfiguration-error-code-1-solution/"><u>Guide to Correcting Device Misconfiguration Error - Code 1 Solution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-fix-top-bottom-flipped-videos-when-watching-on-an-asus-laptop-or-desktop/"><u>Guide to Fix Top-Bottom Flipped Videos When Watching on an ASUS Laptop or Desktop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-no-driver-found-error-on-your-device-with-windows-11-8-or-7-solved/"><u>How to Fix 'No Driver Found' Error on Your Device with Windows 11, 8 or 7 – Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-reactivate-nonworking-right-click-on-windows-11-touchpad/"><u>How To Reactivate Nonworking Right Click on Windows 11 Touchpad</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-leading-text-tracking-solutions-for-animators/"><u>New 2024 Approved Leading Text Tracking Solutions for Animators</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/overcoming-inaudibility-in-obs-captured-audio-for-2024/"><u>Overcoming Inaudibility in OBS Captured Audio for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-missing-press-function-on-windows/"><u>Overcoming Missing Press Function on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-usb-camera-anomalies-in-asus-w10-edition/"><u>Overcoming USB Camera Anomalies in ASUS, W10 Edition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-unsupported-hardware-alerts-in-your-software-suite-a-step-by-step-solution/"><u>Resolve 'Unsupported Hardware' Alerts in Your Software Suite – A Step-by-Step Solution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-disappearing-pc-data-collectors/"><u>Resolve Disappearing PC Data Collectors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-understanding-and-identifying-the-classic-usb-composite-device/"><u>Solved: Understanding and Identifying the Classic USB Composite Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/taskbar-alert-managing-full-disk-on-win1110/"><u>Taskbar Alert: Managing Full Disk on Win11/10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tech-meets-barista-mode-a-unique-computer-tower-with-an-integrated-coffee-making-system-complete-with-roaster-and-grinder/"><u>Tech Meets Barista Mode: A Unique Computer Tower with an Integrated Coffee-Making System, Complete with Roaster and Grinder</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-editors-guide-to-top-10-fcp-plug-ins/"><u>The Ultimate Editor's Guide to Top 10 FCP Plug-Ins</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-os-now-compatible-with-hardware/"><u>Win OS Now Compatible with Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-changes-impact-realtek-lan-driver/"><u>Windows 10 Changes Impact Realtek LAN Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-pc-no-response-when-trying-to-mute-or-disable-bluetooth/"><u>Windows PC: No Response when Trying to Mute or Disable Bluetooth.</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Fix ASMedia USB 3.1 Driver Issue in Windows
-date: 2024-09-04T12:51:26.196Z
-updated: 2024-09-05T12:51:26.196Z
+date: 2024-09-09T03:09:57.334Z
+updated: 2024-09-10T03:09:57.334Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes Fix ASMedia USB 3.1 Driver Issue in Windows
 thumbnail: https://thmb.techidaily.com/918241799e85f81dec9b4161207ab0693452bcd53dc379a61f25b9401249f9af.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix ASMedia USB 3.1 Driver Issue in Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599b918667578.png)
@@ -23,6 +29,12 @@ thumbnail: https://thmb.techidaily.com/918241799e85f81dec9b4161207ab0693452bcd53
 
  If due to the driver error, you cannot use your keyboard or mouse, boot your Windows into [safe mode](https://tools.techidaily.com/drivereasy/download/) before the troubleshooting.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 1\. Uninstall your original ASMedia USB 3.1 driver
 
  1) On your keyboard, press the **Windows logo key** +**R** key together to invoke the Run box.
@@ -31,12 +43,36 @@ thumbnail: https://thmb.techidaily.com/918241799e85f81dec9b4161207ab0693452bcd53
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599aaa6e40125.png)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) On the open window, find your ASMedia USB 3.1 driver.  
  It’s usually under the**Universal Serial Bus controllers** catalog. Due to the error, it could be under**Other devices** dialog.  
  Right-click on it and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599aae65cd542.png)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 2\. Download and install the latest ASMedia USB 3.1 driver
 
  You can choose to download the latest driver for your ASMedia USB 3.1 device from your PC manufacturer’s website directly.
@@ -51,12 +87,24 @@ thumbnail: https://thmb.techidaily.com/918241799e85f81dec9b4161207ab0693452bcd53
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a5be1336da.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) With Free version: Click the **Update**  button next to a flagged usb driver to automatically download and install the correct version of this driver.
 
 With Pro version: Click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (and you get full support and a 30-day money back guarantee)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599ab24460483.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Note: After updating your drivers, please reboot your Windows to make the new driver take effect.
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -139,10 +187,3 @@ With Pro version: Click **Update All**  to automatically download and install th
 <li><a href="https://driver-error.techidaily.com/win11-touchpad-glitches-resolved-quickly/"><u>Win11 Touchpad Glitches: Resolved Quickly</u></a></li>
 <li><a href="https://windows11.techidaily.com/windows-11-a-guide-to-copying-file-and-folder-navigational-trails-via-6-steps/"><u>Windows 11: A Guide to Copying File and Folder Navigational Trails, via 6 Steps</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

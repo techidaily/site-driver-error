@@ -1,7 +1,7 @@
 ---
 title: Win Keyboards Refusing to Work
-date: 2024-07-15T06:47:42.532Z
-updated: 2024-07-16T06:47:42.532Z
+date: 2024-09-09T03:09:31.813Z
+updated: 2024-09-10T03:09:31.813Z
 tags:
   - win11
   - win10
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/04a734a9937eba2d7e4ad06c3d50be8d29a9cd1ed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/kb1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you’ve recently upgraded to Windows 10 and now**your keyboard isn’t working** , you’re not alone. Many other Windows 10 users are reporting the same problem, especially after installing the KB4074588 update on February 13, 2018\.
 
  And fortunately, there’s a solution. Here are 5 options to try. You may not need to try them all. Just work your way down the list until you find the one that fixes the problem.
@@ -37,20 +43,20 @@ thumbnail: https://thmb.techidaily.com/04a734a9937eba2d7e4ad06c3d50be8d29a9cd1ed
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Adjust your keyboard settings
 
  Windows has a setting, called Filter Keys, that allows you to control how it deals with accidental repeated keystrokes. Unfortunately, if turned on, this setting has been known to cause some keyboards to stop working in Windows 10\. So you should check if it’s turned on. If it is, you should turn it off and see if that resolves the problem.
 
  1) On your PC desktop, click the**Action Center** icon in the lower-right corner and click**All settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
@@ -63,6 +69,12 @@ thumbnail: https://thmb.techidaily.com/04a734a9937eba2d7e4ad06c3d50be8d29a9cd1ed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ---
 
 ## Method 3: Reinstall your keyboard driver
@@ -71,11 +83,14 @@ thumbnail: https://thmb.techidaily.com/04a734a9937eba2d7e4ad06c3d50be8d29a9cd1ed
 
  1) Right-click the**Start** button, then click**Device Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
@@ -84,6 +99,12 @@ thumbnail: https://thmb.techidaily.com/04a734a9937eba2d7e4ad06c3d50be8d29a9cd1ed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
@@ -104,24 +125,36 @@ thumbnail: https://thmb.techidaily.com/04a734a9937eba2d7e4ad06c3d50be8d29a9cd1ed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 5: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
  Now that we have the internet, fast connection speeds, free cloud storage, and endless web apps (like Gmail, Google Docs, Slack, Facebook, Dropbox and Spotify), the entire Windows way of doing things – with locally installed programs and local file storage – is totally outdated.
@@ -160,3 +193,39 @@ And that’s just the start of the benefits…
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-amp-up-creativity-premiere-pro-templates-free/"><u>[New] Amp Up Creativity Premiere Pro Templates, FREE</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-hardware-cant-communicate-due-to-boot-issue/"><u>[RESOLVED] Hardware Can't Communicate Due to Boot Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-acpivenintanddev33a0-driver-issues/"><u>[Solved] ACPIVEN_INT&DEV_33A0 Driver Issues</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-ultimate-cut-for-quality-offline-ipad-gaming/"><u>[Updated] 2024 Approved The Ultimate Cut for Quality Offline iPad Gaming</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-take-control-a-compreeved-guide-to-iphoneipad-screen-recordings-on-youtube/"><u>[Updated] Take Control A Compreeved Guide to iPhone/iPad Screen Recordings on YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-designing-customized-instagram-feed-narratives/"><u>2024 Approved Designing Customized Instagram Feed Narratives</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-amateurs-to-artists-the-complete-polarr-editor-journey/"><u>2024 Approved From Amateurs to Artists The Complete Polarr Editor Journey</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/complete-premiere-pro-full-screen-insight/"><u>Complete Premiere Pro Full Screen Insight</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquer-the-cannot-be-played-hurdle-in-videos-resolve-error-224003/"><u>Conquer The 'Cannot Be Played' Hurdle in Videos - Resolve Error 224003</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-load-problem-solved-correcting-the-battleye-error-1450/"><u>Driver Load Problem Solved: Correcting the BattlEye (Error 1450)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-tecno-spark-20c-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Tecno Spark 20C.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortless-use-of-win11/"><u>Effortless Use of Win11</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-and-tricks-for-a-stable-warcraft-3-reforged-on-your-pc/"><u>Essential Tips and Tricks for a Stable Warcraft 3 Reforged on Your PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-correcting-wireless-keyboard-connectivity-issues-in-windows-environments/"><u>Expert Advice: Correcting Wireless Keyboard Connectivity Issues in Windows Environments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-retrieving-required-drivers-for-devices-not-recognized-in-win1087-solved/"><u>Fix Guide: Retrieving Required Drivers for Devices Not Recognized in Win10/8/7 [SOLVED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-windows-10-for-swift-mousing-action/"><u>Fix Windows 10 for Swift Mousing Action</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-gemini-15s-enhanced-context-capability-of-over-a-million-tokens-revolutionizes-the-industry/"><u>How Gemini 1.5'S Enhanced Context Capability of Over a Million Tokens Revolutionizes the Industry</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-pci-memory-controller-driver-issues/"><u>How to Fix PCI Memory Controller Driver Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-envy-20-pc-updates-unveiled-a-step-by-step-driver-download-and-installation-guide/"><u>HP Envy 20 PC Updates Unveiled: A Step-by-Step Driver Download & Installation Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-remedies-correcting-itbm-error-code-driver-unavailable/"><u>Immediate Remedies: Correcting ITBm Error Code 'Driver Unavailable'</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-x-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone X You Should Try Out</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/income-investigation-the-streamlined-3-part-method-to-assess-your-youtube-income-levels-for-2024/"><u>Income Investigation The Streamlined 3-Part Method to Assess Your YouTube Income Levels for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-delayed-shutdown-troubleshooting-tips-for-faster-restart/"><u>IPhone Delayed Shutdown: Troubleshooting Tips for Faster Restart</u></a></li>
+<li><a href="https://driver-error.techidaily.com/kb-malfunction-detected-in-windows-10/"><u>Kb Malfunction Detected in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-intel-devices-on-system-driver-issues-appear/"><u>No Intel Devices on System; Driver Issues Appear</u></a></li>
+<li><a href="https://driver-error.techidaily.com/recover-lost-data-acquisitor-on-pc-os/"><u>Recover Lost Data Acquisitor on PC OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repaired-flaky-video-recording-asus-usb-webcam-and-windows-11-sync/"><u>Repaired Flaky Video Recording: Asus USB Webcam & Windows 11 Sync</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-issues-when-your-system-rejects-the-drivers-you-install/"><u>Resolving Issues When Your System Rejects the Drivers You Install</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-vintage-usb-composite-unit-issues-solutions-for-a-smarter-connection/"><u>Tackling Vintage USB Composite Unit Issues - Solutions for a Smarter Connection</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-usb-connection-failures-deal-with-access-denied/"><u>Troubleshooting USB Connection Failures – Deal With 'Access Denied'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unveiling-secrets-to-overcome-asus-driver-issues/"><u>Unveiling Secrets to Overcome ASUS Driver Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-bluetooth-reviving-lenovo-connectivity-magic/"><u>Win11 Bluetooth: Reviving Lenovo Connectivity Magic</u></a></li>
+</ul></div>
