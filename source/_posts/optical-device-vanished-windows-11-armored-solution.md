@@ -1,7 +1,7 @@
 ---
 title: "Optical Device Vanished: Windows 11 Armored Solution"
-date: 2024-09-09T03:10:00.987Z
-updated: 2024-09-10T03:10:00.987Z
+date: 2024-09-08T19:59:35.488Z
+updated: 2024-09-14T19:11:54.499Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Optical Device Vanished: Windows 11 Armored Sol
 thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414afa88e6a5b8f7881f823fc3c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Optical Device Vanished: Windows 11 Armored Solution
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cc5c859cb7.png)
@@ -34,12 +28,6 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
  Method 3:[**Manually fix corrupted registry entries**](https://tidio.pxf.io/9grog5)
  Method 4:[**Create a registry subkey**](https://modlily.sjv.io/aw92wr)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **1: Uninstall IDE ATA/ ATAPI controllers**
 
  One of the reasons why you can’t see DVD/CD-ROM in your Windows 10 PC could be faulty device drivers. You can reinstall the drivers to fix it. Here is how:
@@ -48,39 +36,15 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6098ec3402.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Locate**IDE ATA/ ATAPI controllers** .
  3) Right-click **ATA Channel 0** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e194a84fe7.png)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Right-click **ATA Channel 1** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e199372f3c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) If you have more options under**IDE/ ATAPI controllers** category, right-click them and click**Uninstall** as above procedures.
 
  6) Reboot your computer after these changes.
@@ -103,24 +67,12 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a61a4afa.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **3: Manually fix corrupted registry entries**
 
 **IMPORTANT** : Before we move on, it’s strongly recommended that you [back-up and restore your registry](https://tools.techidaily.com/drivereasy/download/) first.
@@ -157,44 +109,28 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd3791d37b.png)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Create a new**Controller0** key under**atapi** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
@@ -202,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -213,8 +156,6 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,42 +165,21 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-enhancing-video-reach-tactics-against-bot-visitors/"><u>[New] 2024 Approved  Enhancing Video Reach  Tactics Against Bot Visitors</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-securing-skype-audio-with-obs-recording-techniques/"><u>[New] Securing Skype Audio with OBS Recording Techniques</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-the-pros-pathway-to-effective-discord-dialogue-and-reactions/"><u>[New] The Pro's Pathway to Effective Discord Dialogue and Reactions</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-essentials-of-setting-up-and-assessing-fb-instream-ad-efficacy/"><u>[Updated] 2024 Approved  The Essentials of Setting Up & Assessing FB Instream Ad Efficacy</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-perfecting-your-video-stream-zoom-meets-fb-live/"><u>2024 Approved  Perfecting Your Video Stream  Zoom Meets FB Live</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/complete-tutorial-hard-resetting-windows-11-systems-using-startup-keys/"><u>Complete Tutorial: Hard Resetting Windows 11 Systems Using Startup Keys</u></a></li>
-<li><a href="https://driver-error.techidaily.com/dissecting-the-graphics-presentation-of-ms-bda/"><u>Dissecting the Graphics Presentation of MS BDA</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-load-error-device-event-identifier-219/"><u>Driver Load Error - Device Event Identifier 219</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-updating-and-downloading-the-hp-laserjet-1320-driver-for-windows-users/"><u>Easy Guide to Updating and Downloading the HP LaserJet 1320 Driver for Windows Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-45-dealt-with-efficiently/"><u>Error 45: Dealt with Efficiently</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-45-successfully-solved/"><u>Error 45: Successfully Solved</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/facebooks-most-popular-video-gems-uncovered-for-2024/"><u>Facebook's Most Popular Video Gems Uncovered for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-installation-problems-with-the-hcmon-driver-error/"><u>Fixing Installation Problems with the Hcmon Driver Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-onedrive-cloud-connection-issues-in-win-1011/"><u>Fixing OneDrive Cloud Connection Issues in Win 10/11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gpu-installation-error-resolved-easily/"><u>GPU Installation Error Resolved Easily</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hardware-alert-bcm20702a0-not-available/"><u>Hardware Alert: BCM20702A0 Not Available</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-step-by-step-for-winning-anime-projects-via-movie-maker/"><u>In 2024, Step-by-Step for Winning Anime Projects via Movie Maker</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-impact-and-value-of-instagrams-self-verifying-feature/"><u>In 2024, The Impact and Value of Instagram's Self-Verifying Feature</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-brand-potential-with-a-comprehensive-guide-to-smm-mastery/"><u>In 2024, Unleashing Brand Potential with a Comprehensive Guide to SMM Mastery</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intel-hd-graphics-4000-driver-download/"><u>Intel HD Graphics 4000 Driver Download</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mobile-operating-system-for-windows-samsung/"><u>Mobile Operating System for Windows (Samsung)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/navigating-through-nvidia-drivers-issues/"><u>Navigating Through Nvidia Drivers Issues</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/pixelshalfed-dissection/"><u>PixelsHalfed Dissection</u></a></li>
-<li><a href="https://driver-error.techidaily.com/purging-invalid-sections-from-inf-services/"><u>Purging Invalid Sections From INF Services</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/quick-effortless-and-free-red-eye-removal-for-ios-users/"><u>Quick, Effortless, and FREE  Red-Eye Removal for iOS Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-missed-detection-of-unifying-device-in-winoss/"><u>Resolve Missed Detection of Unifying Device in WinOSs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-common-problems-with-non-responsive-hp-bluetooth-keyboards/"><u>Resolving Common Problems with Non-Responsive HP Bluetooth Keyboards</u></a></li>
-<li><a href="https://driver-error.techidaily.com/simplified-fixes-for-the-itbm-driver-not-accessible-problem/"><u>Simplified Fixes for the 'ITBM Driver Not Accessible' Problem</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-updating-and-downloading-hp-envy-20s-driver-software/"><u>Step-by-Step Guide: Updating and Downloading HP Envy 20'S Driver Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/successful-installation-guide-how-to-add-missing-drivers-for-your-device-on-windows-11-8-and-7/"><u>Successful Installation Guide: How to Add Missing Drivers for Your Device on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-reset-completed/"><u>System Reset Completed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-the-gtx-ninescore-error-code-in-windows-eleven-a-complete-solution/"><u>Troubleshooting the GTX Ninescore Error Code in Windows Eleven - A Complete Solution</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-7-superior-ai-programs-for-swift-and-accurate-math-problem-solving/"><u>Unveiling 7 Superior AI Programs for Swift and Accurate Math Problem Solving</u></a></li>
-<li><a href="https://driver-error.techidaily.com/upgrading-to-latest-hat-supports-for-win11/"><u>Upgrading to Latest HAT Supports for Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/w11-mastered-solving-common-elan-touchpad-errors/"><u>W11 Mastered: Solving Common Elan Touchpad Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/what-isoffered-but-it-has-been-the-same-for-loops/"><u>What Is_offered, but It Has Been the Same for Loops</u></a></li>
-<li><a href="https://driver-error.techidaily.com/winnt-4-reconnecting-disconnected-devices/"><u>WinNT 4: Reconnecting Disconnected Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-get-started-with-ease-facebook-insight-basics/"><u>[New] 2024 Approved Get Started with Ease Facebook Insight Basics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comical-calls-leading-platforms-for-laugh-rings/"><u>[New] Comical Calls Leading Platforms for Laugh-Rings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-dive-into-the-world-of-luts-and-free-digital-tools-for-2024/"><u>[New] Dive Into the World of LUTs and Free Digital Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-enhancing-fb-videos-with-background-tracks-a-guide/"><u>[New] Enhancing FB Videos with Background Tracks A Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ree-tips-embedding-moving-images-in-written-content-for-2024/"><u>[New] Free Tips Embedding Moving Images in Written Content for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-mastery-over-light-and-shadow-with-hdr-software/"><u>[New] In 2024, Mastery Over Light and Shadow with HDR Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-simplicity-in-pc-audio-capture-choose-x-recorder/"><u>[New] In 2024, Simplicity in Pc Audio Capture Choose X-Recorder</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-optimizing-workflow-automate-your-meet-times/"><u>2024 Approved Optimizing Workflow Automate Your Meet Times</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-unconnected-no-matching-software/"><u>Device Unconnected: No Matching Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-solutions-to-address-itbm-driver-access-problems-fast/"><u>Easy Solutions to Address ITBM Driver Access Problems Fast</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721099121150-ensure-that-the-latest-version-of-directx-is-installed/"><u>Ensure that the Latest Version of DirectX Is Installed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-code-error-48-in-devmgr/"><u>Fixed Code - Error #48 in DevMgr</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-driver-troubleshooting-and-solutions-for-windows-10-users/"><u>Qualcomm Atheros Bluetooth Driver Troubleshooting and Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resource-limits-affecting-usage/"><u>Resource Limits Affecting Usage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/solucion-definitiva-a-la-estabilizacion-de-video-en-diferentes-sistemas-operativos-y-dispositivos-moviles/"><u>Solución Definitiva a La Estabilización De Vídeo en Diferentes Sistemas Operativos Y Dispositivos Móviles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-installation-failed-overcoming-access-is-denied-challenges-on-your-computer-system/"><u>USB Installation Failed - Overcoming Access Is Denied Challenges on Your Computer System</u></a></li>
 </ul></div>
+

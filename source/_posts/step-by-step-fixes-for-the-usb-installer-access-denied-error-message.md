@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fixes for the 'USB Installer Access Denied' Error Message
-date: 2024-09-09T03:10:02.882Z
-updated: 2024-09-10T03:10:02.882Z
+date: 2024-09-13T19:53:49.401Z
+updated: 2024-09-14T20:27:21.867Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Step-by-Step Fixes for the 'USB Installer Access
 thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a0a176db85647e2b441ce187.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step-by-Step Fixes for the 'USB Installer Access Denied' Error Message
 
 If you can’t install any new USB devices due to error “Access is denied”, it can be frustrating. But don’t worry, here you will find the solution to fix the problem.  
@@ -31,32 +25,14 @@ First, make sure that you login to computer as Administrator. If you are not log
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c68c5d7bf6a.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2\. Click **Change your account type** and enter your password if necessary.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791ba4e50787.png)
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. Then click**Start** button and choose to **Log off**  of Windows, and then log back in again.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791bab2104ee.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After that, reinstall the driver again.  
   
  **Turn off any antivirus or anti-spyware program**
@@ -72,12 +48,6 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6905ba04f8.png)
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. Go to **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\USBSTOR.** Right-click on it and select**Permissions…** from the context menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c692c5d030c.jpg)
@@ -86,12 +56,6 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6933c3f709.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Also check your user account and see if it has full control of the system and any deny checkbox is unchecked.
 
  After that, update the USB driver again and it should work this time.
@@ -105,8 +69,6 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,43 +78,25 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-dxgierrordeviceremoved-error-of-battlefield-arma-crysis/"><u>[Fixed] DXGI_ERROR_DEVICE_REMOVED Error of Battlefield, ArmA, Crysis</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-harnessing-hashtag-magic-for-more-followers/"><u>[New] In 2024, Harnessing Hashtag Magic for More Followers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-low-cost-pc-unlock-with-ideal-obs-settings/"><u>[New] In 2024, Low-Cost PC - Unlock with Ideal OBS Settings</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-ultimate-framework-for-finding-the-right-podcast-title-plus-idea-compendium/"><u>[New] Ultimate Framework for Finding the Right Podcast Title + Idea Compendium</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-an-overview-of-basic-and-simplified-hdr-photography/"><u>[Updated] An Overview of Basic and Simplified HDR Photography</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-10-best-instagram-video-editor-for-android-pc-online/"><u>2024 Approved  10 Best Instagram Video Editor for Android, PC, Online</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/accelerating-your-creative-process-with-mac-dvd-authoring-for-2024/"><u>Accelerating Your Creative Process with Mac DVD Authoring for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/best-practices-for-producing-eye-catching-slow-motion-videos-on-instagram/"><u>Best Practices for Producing Eye-Catching Slow-Motion Videos on Instagram</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-fix-for-devices-without-proper-drivers-in-windows-10-8-and-operating-systems/"><u>Easy Fix for Devices Without Proper Drivers in Windows 10, 8 & ^ Operating Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effective-strategies-for-resolving-iphone-usb-connection-problems-with-faulty-mtp-drivers/"><u>Effective Strategies for Resolving iPhone USB Connection Problems with Faulty MTP Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effortless-correction-of-mtp-connection-failures/"><u>Effortless Correction of MTP Connection Failures</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enabling-recognition-of-usb-gadgets-on-windows-78/"><u>Enabling Recognition of USB Gadgets on Windows 7/8</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-no-48-in-devmgr-fixed/"><u>Error No. 48 in DevMgr - Fixed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/experience-portable-power-the-new-minisforum-ti-touchscreen-mini-pc-ultra-9-cpu-inside/"><u>Experience Portable Power: The New MinisForum Ti Touchscreen Mini PC - Ultra 9 CPU Inside</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-advice-how-to-rectify-the-screen-orientation-glitch-in-asus-laptop-video-playbacks/"><u>Expert Advice: How to Rectify the Screen Orientation Glitch in ASUS Laptop Video Playbacks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-invalid-installation-section-in-inf-file/"><u>Fixing Invalid Installation Section in INF File</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/flip-the-script-crafting-unique-and-shareable-memes-on-social-platforms-for-2024/"><u>Flip the Script  Crafting Unique and Shareable Memes on Social Platforms for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/guide-to-deciphering-youtubes-comprehensive-feedback-system-for-2024/"><u>Guide to Deciphering YouTube's Comprehensive Feedback System for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hassle-free-fixes-for-mtp-communication-errors/"><u>Hassle-Free Fixes for MTP Communication Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-criticalprocessdied-bsod-on-windows-7-code-0x0000007e/"><u>How to Fix 'CRITICAL_PROCESS_DIED' BSoD on Windows 7 (Code 0X0000007E)</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/how-to-recover-hidden-shorts-thumbnails-in-videos/"><u>How to Recover Hidden Shorts' Thumbnails in Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-woes-masterful-fixes-for-a-seamless-typing-experience/"><u>HP Wireless Keyboard Woes? Masterful Fixes for a Seamless Typing Experience</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-x-flip-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo X Flip</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-huawei-nova-y91-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Huawei Nova Y91 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-date-placement-on-visual-memories/"><u>In 2024, Perfecting Date Placement on Visual Memories</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-ultimate-player-guide-to-live-recording/"><u>In 2024, The Ultimate Player Guide to Live Recording</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-13-pro-max-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 13 Pro Max to Mac Mirroring | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/loading-issue-car-not-fit-device/"><u>Loading Issue: Car Not Fit Device</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-driver-software-package-hp-model-4630/"><u>New Driver Software Package HP Model 4630</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-nonfunctional-right-click-windows-11-touchpad-armageddon-reversed/"><u>Overcoming Nonfunctional Right Click - Windows 11 Touchpad Armageddon Reversed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/precision-link-between-asus-webcam-and-windows-10-os/"><u>Precision Link Between ASUS Webcam and Windows 10 OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/recover-lost-signal-proc-on-windows-pc/"><u>Recover Lost Signal Proc on Windows PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/smart-1080p-touch-screen-msi-desktop-with-advanced-artificnial-intelligence-features/"><u>Smart 1080P Touch Screen MSI Desktop with Advanced Artificnial Intelligence Features</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-s24-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy S24 Phone Hassle-Free</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ultimate-tutorial-on-activating-safe-mode-and-deleting-nvidiaamd-graphics-drivers-from-windows-8/"><u>Ultimate Tutorial on Activating Safe Mode and Deleting Nvidia/AMD Graphics Drivers From Windows 8</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-power-of-speech-how-to-activate-siris-text-to-speech-functionality/"><u>Unlocking the Power of Speech: How to Activate Siri’s Text-to-Speech Functionality</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/vivo-v27e-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo V27e ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wdcsam64prewin8sys-core-isolation-not-active/"><u>wdcsam64_prewin8.sys: Core Isolation Not Active</u></a></li>
-<li><a href="https://driver-error.techidaily.com/winnt-re-establish-usb-link-after-failure/"><u>WinNT: Re-Establish USB Link After Failure</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-step-by-step-guide-to-perfecting-iphones-hdr-shots-for-2024/"><u>[New] Step-by-Step Guide to Perfecting iPhone's HDR Shots for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-climb-the-ladder-the-best-12-tycoon-games-for-aspiring-leaders-for-2024/"><u>[Updated] Climb the Ladder The Best 12 Tycoon Games for Aspiring Leaders for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-filter-phenomena-social-media-hits/"><u>[Updated] Filter Phenomena Social Media Hits</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-glitches-resolved-with-ease-on-windows/"><u>Bluetooth Glitches: Resolved with Ease on Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/compatible-logitech-brio-webcam-software-and-downloads-for-various-windows-versions/"><u>Compatible Logitech Brio Webcam Software and Downloads for Various Windows Versions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-ralink-bluetooth-driver-compatibility-challenges-in-windows-11-systems/"><u>Fix Guide: Ralink Bluetooth Driver Compatibility Challenges in Windows 11 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-lenovo-y570-driver-issues-for-windows-11/"><u>Fix Lenovo Y570 Driver Issues for Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-gtx-43-trouble-solutions-for-gpu-malfunctions-in-windows-11/"><u>Fixing GTX #43 Trouble: Solutions for GPU Malfunctions in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-realteks-nonfunctional-interface-after-upgrade/"><u>Fixing Realtek's Nonfunctional Interface After Upgrade</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-review-of-picsart-app-a-step-by-step-guide/"><u>In 2024, Full Review of PicsArt App - A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-animation-made-easy-a-beginners-guide-to-the-top-7-software/"><u>New Animation Made Easy A Beginners Guide to the Top 7 Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/preventing-nvidia-drivers-from-failure/"><u>Preventing Nvidia Drivers From Failure</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-fiscally-friendly-celestial-saving-service-for-files-for-2024/"><u>The Fiscally Friendly Celestial Saving Service for Files for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

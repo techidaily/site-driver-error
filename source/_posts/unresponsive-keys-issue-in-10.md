@@ -1,7 +1,7 @@
 ---
 title: Unresponsive Keys Issue in 10
-date: 2024-09-09T03:10:00.584Z
-updated: 2024-09-10T03:10:00.584Z
+date: 2024-09-14T03:10:42.304Z
+updated: 2024-09-14T18:38:54.543Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: This Article Describes Unresponsive Keys Issue in 10
 thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599b2299ee24471567dbe046e5.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unresponsive Keys Issue in 10
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/kb1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’ve recently upgraded to Windows 10 and now**your keyboard isn’t working** , you’re not alone. Many other Windows 10 users are reporting the same problem, especially after installing the KB4074588 update on February 13, 2018\.
 
  And fortunately, there’s a solution. Here are 5 options to try. You may not need to try them all. Just work your way down the list until you find the one that fixes the problem.
@@ -69,18 +57,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 ## Method 3: Reinstall your keyboard driver
@@ -95,38 +71,14 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 4: Update your keyboard and USB driver (recommended)
 
  One of the most common causes of an unresponsive keyboard is an outdated keyboard or USB driver.
@@ -143,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -150,23 +109,18 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ---
 
 ## Method 5: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
  Now that we have the internet, fast connection speeds, free cloud storage, and endless web apps (like Gmail, Google Docs, Slack, Facebook, Dropbox and Spotify), the entire Windows way of doing things – with locally installed programs and local file storage – is totally outdated.
@@ -195,8 +149,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,58 +158,13 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-elegant-endings-selecting-from-free-or-premium-templates-for-2024/"><u>[New] Elegant Endings  Selecting From Free or Premium Templates for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-fast-lane-olympic-highlights-in-short-track-speed-skating-for-2024/"><u>[New] The Fast Lane  Olympic Highlights in Short-Track Speed Skating for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-keys-without-glow-asus/"><u>[SOLVED] Keys Without Glow - ASUS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-creative-mc-survival-habitat-concepts/"><u>[Updated] 2024 Approved  Creative MC Survival Habitat Concepts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-leveraging-nvidia-tools-for-screen-capture/"><u>[Updated] 2024 Approved  Leveraging NVIDIA Tools for Screen Capture</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-fostering-self-assurance-against-virtual-hostility/"><u>[Updated] Fostering Self-Assurance Against Virtual Hostility</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-comparing-top-free-players-vlc-or-mpc/"><u>2024 Approved  Comparing Top Free Players  VLC or MPC?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-cutting-edge-approaches-for-secure-and-precise-call-logging/"><u>2024 Approved  Cutting-Edge Approaches for Secure and Precise Call Logging</u></a></li>
-<li><a href="https://techtrends.techidaily.com/5-must-use-popular-instagram-tags-for-increased-reach/"><u>5 Must-Use Popular Instagram Tags for Increased Reach</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/advanced-computing-insights-from-toms-hardware-experts/"><u>Advanced Computing Insights From Tom's Hardware Experts</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721268092125-effortless-image-recovery-using-stellar-repair-for-windows-get-it-now/"><u>Effortless Image Recovery Using Stellar Repair for Windows – Get It Now</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-elan-touchscreen-troubles-in-w11-os/"><u>Fixing Elan Touchscreen Troubles in W11 OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-flipped-visuals-how-to-adjust-video-display-on-an-asus-device/"><u>Fixing Flipped Visuals: How to Adjust Video Display on an ASUS Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-atheros-troubleshooting-bluetooth-connectivity-issues-in-windows-10/"><u>Fixing Qualcomm Atheros: Troubleshooting Bluetooth Connectivity Issues in Windows 10</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-apple-iphone-11-pro-max-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>How to Change GPS Location on Apple iPhone 11 Pro Max Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-a-non-responsive-wireless-keyboard-on-windows-computers/"><u>How to Fix a Non-Responsive Wireless Keyboard on Windows Computers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-reactivate-nonworking-right-click-on-windows-11-touchpad/"><u>How To Reactivate Nonworking Right Click on Windows 11 Touchpad</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-recognize-and-resolve-classic-usb-composite-device-queries-successfully/"><u>How to Recognize and Resolve Classic USB Composite Device Queries Successfully</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-restore-functionality-of-non-responsive-wireless-keyboards-in-windows-environments/"><u>How to Restore Functionality of Non-Responsive Wireless Keyboards in Windows Environments</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ideal-tools-to-capture-your-pcs-display-on-windows-10/"><u>Ideal Tools to Capture Your PC's Display on Windows 10</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intel-icd-identifying-the-opengl-driver/"><u>Intel ICD: Identifying the OpenGL Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/master-the-tech-a-comprehensive-guide-for-starting-windows-8-in-safe-mode-and-removing-gpu-software/"><u>Master the Tech: A Comprehensive Guide for Starting Windows 8 in Safe Mode and Removing GPU Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-the-default-settings-down-and-up-issue-in-amd-radeon-wattman-top-fixes-unveiled/"><u>Mastering the 'Default Settings Down & Up' Issue in AMD Radeon Wattman – Top Fixes Unveiled</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ate-and-dominate-with-youtube-studios-advanced-editing-features/"><u>Navigate and Dominate with YouTube Studio's Advanced Editing Features</u></a></li>
-<li><a href="https://driver-error.techidaily.com/next-gen-dominators-choosing-the-optimal-gaming-system-of-2amoelgmfzbkx/"><u>Next-Gen Dominators: Choosing the Optimal Gaming System of 2Amoelgmfzbkx</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-response-from-apple-tv-remote-on-macos-sierra-fix-ready/"><u>No Response From Apple TV Remote on MacOS Sierra (Fix Ready)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/optimal-camera-functionality-asus-webcam-and-windows-10-upgrade/"><u>Optimal Camera Functionality: ASUS Webcam & Windows 10 Upgrade</u></a></li>
-<li><a href="https://driver-error.techidaily.com/pchelp-i-need-to-turn-off-the-built-in-bluetooth-on-my-windows-10-machine/"><u>PCHelp I Need to Turn Off the Built-In Bluetooth on My Windows 10 Machine</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-frequent-amd-driver-crashes-fast/"><u>Resolve Frequent AMD Driver Crashes Fast</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-access-denied-errors-during-usb-device-installation/"><u>Resolving 'Access Denied' Errors During USB Device Installation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-failed-to-install-hcmondriver-issues-a-step-by-step-guide/"><u>Resolving 'Failed to Install Hcmondriver' Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reviving-a-nonfunctional-hp-wireless-keyboard-a-comprehensive-guide/"><u>Reviving a Nonfunctional HP Wireless Keyboard - A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/service-section-inf-error-resolved/"><u>Service Section: INF Error Resolved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solutions-to-intel-wireless-bluetooth-drivers-not-working-on-your-windows-11-device/"><u>Solutions to Intel Wireless Bluetooth Drivers Not Working on Your Windows 11 Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/spotlight-on-truthful-ios-chatbot-developments/"><u>Spotlight on Truthful iOS ChatBot Developments</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-fix-for-the-gtx-950-code-43-error-on-your-new-windows-11-pc-success-stories-and-tips/"><u>Step-by-Step Fix for the GTX 950 'Code 43' Error on Your New Windows 11 PC: Success Stories and Tips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/streamline-system-operations-with-updated-razer-deathadder-bios-for-windows-users/"><u>Streamline System Operations with Updated Razer Deathadder BIOS for Windows Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/streamlined-connectivity-for-asus-usb-webcam-with-win10-update/"><u>Streamlined Connectivity for ASUS USB Webcam with Win10 Update</u></a></li>
-<li><a href="https://driver-error.techidaily.com/taming-the-unknown-code-52-in-drive-systems/"><u>Taming the Unknown: Code 52 in Drive Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tech-meets-barista-mode-a-unique-computer-tower-with-an-integrated-coffee-making-system-complete-with-roaster-and-grinder/"><u>Tech Meets Barista Mode: A Unique Computer Tower with an Integrated Coffee-Making System, Complete with Roaster and Grinder</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-crossover-of-chic-and-cardio-a-balanced-review-of-the-amazfit-gts-wearable/"><u>The Crossover of Chic and Cardio: A Balanced Review of the Amazfit GTS Wearable</u></a></li>
-<li><a href="https://driver-error.techidaily.com/too-much-stress-10-this-one-in-the-lastname)/"><u>Too Much Stress-10. This One in the Lastname]]></u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-windows-usb-serial-not-working/"><u>Troubleshoot Windows USB Serial Not Working</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-driver-installation-for-various-devices-on-microsofts-os-windows-10-8-7/"><u>Troubleshooting Driver Installation for Various Devices on Microsoft's OS (Windows 10, 8, 7)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-restoring-functionality-of-your-non-responsive-hp-wireless-keyboard/"><u>Troubleshooting Guide: Restoring Functionality of Your Non-Responsive HP Wireless Keyboard</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-your-iphones-usb-connection-issues-mastering-the-mtp-driver-fixes/"><u>Troubleshooting Your iPhone's USB Connection Issues - Mastering the MTP Driver Fixes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-correcting-a-missing-coprocessor-driver-on-windows-11-systems/"><u>Troubleshooting: Correcting a Missing Coprocessor Driver on Windows 11 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-wsappx-solutions-to-address-excessive-disk-and-cpu-consumption/"><u>Understanding WSAPPX: Solutions to Address Excessive Disk & CPU Consumption</u></a></li>
-<li><a href="https://driver-error.techidaily.com/validating-corrected-service-inf-setup/"><u>Validating Corrected Service INF Setup</u></a></li>
-<li><a href="https://driver-error.techidaily.com/vehicle-vigilance-overcoming-error-e52/"><u>Vehicle Vigilance: Overcoming Error E52</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-10-changes-impact-realtek-lan-driver/"><u>Windows 10 Changes Impact Realtek LAN Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-enter-key-function-recovery-guide/"><u>Windows Enter Key Function Recovery Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-superior-web-recording-gear/"><u>[New] 2024 Approved Superior Web Recording Gear</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamlined-list-6-efficient-mac-screen-recording-solutions/"><u>[New] Streamlined List 6 Efficient Mac Screen Recording Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-viewing-vistas-backdrop-recommendations/"><u>[New] Ultimate Viewing Vistas Backdrop Recommendations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-subtitle-for-wider-reach-in-insta-tv-for-2024/"><u>[Updated] How to Subtitle for Wider Reach in Insta TV for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-reset-and-regain-navigating-the-2023-fb-hack-scenario-for-2024/"><u>[Updated] Reset & Regain Navigating the 2023 FB Hack Scenario for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensuring-windows-detection-for-unifying-receiver/"><u>Ensuring Windows Detection for Unifying Receiver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105248778-helpneeded-built-in-wifi-and-bluetooth-not-responding-on-my-pc/"><u>HelpNeeded - Built-In Wifi and Bluetooth Not Responding on My PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-find-and-install-necessary-drivers-for-your-pc-on-windows-systems/"><u>How to Find and Install Necessary Drivers for Your PC on Windows Systems</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Dark Light on ASUS Keys"
-date: 2024-09-09T03:10:00.426Z
-updated: 2024-09-10T03:10:00.426Z
+date: 2024-09-11T06:30:28.045Z
+updated: 2024-09-15T05:03:53.711Z
 tags:
   - win11
   - win10
@@ -13,28 +13,10 @@ excerpt: This Article Describes [FIXED] Dark Light on ASUS Keys
 thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d14974522694c6300224ce7ee050ff.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [FIXED] Dark Light on ASUS Keys
 
  If you find your**ASUS keyboard backlight not working** , please rest assured that you’re not alone. Just follow this tutorial step by step and you’ll easily get the problem fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2 Ways to fix the ASUS keyboard backlight not working
 
  Here are two ways that have proved useful to other ASUS users. You don’t have to try them all; just work your way from the top down until you find the one that works for you.
@@ -45,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Way 1: Start the HControl.exe** program
 
  Before you try this fix, make sure that you have installed the ATK package in your ASUS notebook. The ATK package, containing drivers that control your hotkeys, backlight and some other optional functionality, is usually pre-installed in every new ASUS laptop. And the HControl.exe program we need to start is also within this ATK package. In most cases you can navigate to HControl.exe through the following path:
@@ -61,18 +37,6 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-53.png)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, on your keyboard, press**Fn** and**F4** at the same time to test if the backlight of your keyboard can be turned on.
 
  If you cannot navigate to this program, then perhaps your ATK package is installed in another folder. In this case, you should search for “ATK Package” in File Explorer until you find Hcontrol.exe in a folder named ATK Hotkey.  
@@ -82,12 +46,6 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Way 2: Download and install the latest drivers**
 
  As reported by some users, they couldn’t turn on the keyboard backlight after updating their operating system. If that’s when you encounter the issue, you should download and install the latest drivers (including ATK Package drivers and Smart Gesture drivers) that control the backlight function of your notebook.
@@ -110,18 +68,6 @@ OR
 2. On the pop-up page, enter the model name of your laptop to search for its drivers. If you don’t know its exact model, then try to select a product from the given list. After that, hit**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-48.png)
 3. On the next page, select your Windows version. Then you’ll be greeted with a list of drivers and programs available for download.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-25-19.jpg)
 4. Scroll through the list until you find the following two drivers:**Smart Gesture** driver and**ATK Package** driver. Then, click on the**DOWNLOAD** button next to each driver.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-31-49.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-45-12.jpg)
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Wait till the download process is complete. The two downloaded files are compressed, so you need to extract them to a desired location.
 6. Open the extracted folders of the two drivers. Find**Setup.exe** in their folders respectively and click on it. Then, follow the onscreen instructions to install the drivers.
 7. When everything’s done, restart your computer for the changes to take effect. Then check to see if your keyboard backlight can be turned on properly (press**Fn+F4** on your keyboard to enable the backlight).
@@ -157,8 +103,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,49 +112,23 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/disk-issue-100-usage-on-windows-10/"><u>[Disk] Issue: 100%% Usage on Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-intel-wi-fi-ax201-lack-of-connectivity/"><u>[FIXED] Intel Wi-Fi AX201 Lack of Connectivity</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discover-world-wonders-with-these-top-10-videos/"><u>[New] 2024 Approved  Discover World Wonders with These Top 10 Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-roll-builder-kit-for-2024/"><u>[New] B-Roll Builder Kit for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mycam-reviewed-does-it-deliver-on-performance-promises-for-2024/"><u>[New] MyCam Reviewed  Does It Deliver on Performance Promises for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repaired-no-light-on-asus-keys/"><u>[REPAIRED] No Light on ASUS Keys</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-wsd-print-device-doesnt-have-a-driver/"><u>[SOLVED] WSD Print Device Doesn’t Have a Driver</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-10-leading-flv-to-youtube-video-converters/"><u>[Updated] 2024 Approved  10 Leading FLV to YouTube Video Converters</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-a-step-by-step-tutorial-on-screencastify-use/"><u>[Updated] A Step-by-Step Tutorial on Screencastify Use</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-gif-ize-your-tweets-top-picks-for-the-year-2024/"><u>[Updated] GIF-Ize Your Tweets  Top Picks for the Year 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-legally-nurtured-viewership-growth-tips-for-youtubers/"><u>[Updated] Legally Nurtured Viewership Growth Tips for YouTubers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-step-by-step-securely-saving-device-interactions-on-android-for-2024/"><u>[Updated] Step by Step  Securely Saving Device Interactions on Android for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-syncopated-stories-in-reels-merging-sound-and-vision-for-2024/"><u>[Updated] Syncopated Stories in Reels  Merging Sound & Vision for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-understanding-igtv-from-basics-to-advanced-techniques-for-2024/"><u>[Updated] Understanding IGTV  From Basics to Advanced Techniques for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-introduction-design-made-simple-and-inexpensive/"><u>2024 Approved  YouTube Introduction Design Made Simple and Inexpensive</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-infinix-smart-8-plus-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/avchd-mts-converter-for-galaxy-s23plus-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD MTS Converter for Galaxy S23+</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-confusion-demystified-making-sure-your-pc-recognizes-the-right-software/"><u>Driver Confusion Demystified: Making Sure Your PC Recognizes the Right Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/eliminating-device-issues-acpi-venint33a0/"><u>Eliminating Device Issues: ACPI VEN_INT33A0</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-advice-on-refreshing-your-hp-envy-20-laptop-with-updated-drivers/"><u>Expert Advice on Refreshing Your HP Envy 20 Laptop with Updated Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-advice-correcting-wireless-keyboard-connectivity-issues-in-windows-environments/"><u>Expert Advice: Correcting Wireless Keyboard Connectivity Issues in Windows Environments</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-driver-issues-resolved-solutions-for-devices-unsupported-by-windows-10-8-and-7/"><u>Fixing Driver Issues: Resolved Solutions for Devices Unsupported by Windows 10, 8 & 7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-problem-of-undetected-usb-hardware-in-windows-operating-system/"><u>Fixing the Problem of Undetected USB Hardware in Windows Operating System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-resolve-windows-10-asus-acpi-errors/"><u>Guide to Resolve Windows 10 ASUS ACPI Errors</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-12-pro-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone 12 Pro</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-swiftly-fix-the-itbm-driver-access-issue-step-by-step-guide/"><u>How to Swiftly Fix the ITBM Driver Access Issue - Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-a38-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo A38 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/immediate-remedies-correcting-itbm-error-code-driver-unavailable/"><u>Immediate Remedies: Correcting ITBm Error Code 'Driver Unavailable'</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-break-free-from-conventions-advanced-distortion-art-in-photoshop/"><u>In 2024, Break Free From Conventions  Advanced Distortion Art in Photoshop</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-solving-instagram-the-mystery-of-intermittent-videos/"><u>In 2024, Solving Instagram  The Mystery of Intermittent Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intel-me-driver-recovery-protocols/"><u>Intel Me Driver Recovery Protocols</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keyboard-illumination-issue-asus/"><u>Keyboard Illumination Issue - ASUS</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/maximizing-engagement-from-tiktok-to-twitter/"><u>Maximizing Engagement  From TikTok to Twitter</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-issues-smooth-playthroughs-in-outriders-without-interruptions/"><u>No More Issues: Smooth Playthroughs in Outriders Without Interruptions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/recover-lost-data-acquisitor-on-pc-os/"><u>Recover Lost Data Acquisitor on PC OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repaired-flaky-video-recording-asus-usb-webcam-and-windows-11-sync/"><u>Repaired Flaky Video Recording: Asus USB Webcam & Windows 11 Sync</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-issues-when-your-system-rejects-the-drivers-you-install/"><u>Resolving Issues When Your System Rejects the Drivers You Install</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-gtx-amoled128gb6000-degree-artificial-sparklechipcode43-issue-in-windows-10-complete-guide/"><u>Resolving the GTX Amoled_128GB_6000-Degree-Artificial-Sparkle_Chip_Code_43 Issue in Windows 10 - Complete Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/rtp-unable-to-run-nvidia-graphics-games-our-expertise-can-solve-it/"><u>RTP: Unable to Run Nvidia Graphics Games? Our Expertise Can Solve It</u></a></li>
-<li><a href="https://driver-error.techidaily.com/secured-network-interface-continuity-fix/"><u>Secured Network Interface Continuity Fix</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-process-driver-downloads-and-updates-for-your-hp-envy-laptop/"><u>Step-by-Step Process: Driver Downloads & Updates for Your HP Envy Laptop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-toms-guide-to-understanding-advanced-hardware/"><u>The Comprehensive Tom's Guide to Understanding Advanced Hardware</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-new-age-of-compact-computing-unveiling-the-potential-of-the-corsair-one-i500/"><u>The New Age of Compact Computing: Unveiling the Potential of the Corsair ONE I500</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-the-radeon-wattman-reset-solving-your-graphics-settings-crashes/"><u>Troubleshooting the Radeon Wattman Reset: Solving Your Graphics Settings Crashes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-for-killer-wifi-bluetooth-connectivity-problems-with-windows-11/"><u>Troubleshooting Tips for Killer WiFi Bluetooth Connectivity Problems with Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-guide-to-embedding-youtube-videos-in-insta-stories/"><u>[New] The Ultimate Guide to Embedding YouTube Videos in Insta Stories</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-disable-snippet-view-in-youtube-for-full-content/"><u>[Updated] 2024 Approved Disable Snippet View in YouTube for Full Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-video-collage-app-for-androidandios/"><u>[Updated] 2024 Approved Instagram Video Collage App for Android&iOS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/17904-mgmt-socio-happy/"><u>17904 Mgmt., Socio-Happy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-top-chatbot-a-comparison-between-googles-bard-and-microsofts-bing/"><u>Choosing the Top Chatbot: A Comparison Between Google's Bard and Microsoft’s Bing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-13-pro-max-how-to-unlock-a-disabled-apple-iphone-13-pro-max-by-drfone-ios/"><u>Disabled Apple iPhone 13 Pro Max How to Unlock a Disabled Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-narzo-60x-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme Narzo 60x 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastered-hardware-conflict-45/"><u>Mastered Hardware Conflict 45</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigating-connectivity-issues-lenovo-and-windows-10/"><u>Navigating Connectivity Issues: Lenovo & Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-intel-coprocessor-drivers-disappearance-on-windows-11-systems/"><u>Step-by-Step Solution for Intel Coprocessor Drivers Disappearance on Windows 11 Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-win7-performance-integrating-latest-intel-drivers/"><u>Streamline Win7 Performance: Integrating Latest Intel Drivers</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

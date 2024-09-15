@@ -1,7 +1,7 @@
 ---
 title: Disabling Permanent Bluetooth Issue on Windows 10
-date: 2024-09-09T03:10:00.671Z
-updated: 2024-09-10T03:10:00.671Z
+date: 2024-09-07T21:24:16.547Z
+updated: 2024-09-14T16:08:21.992Z
 tags:
   - win11
   - win10
@@ -13,24 +13,12 @@ excerpt: This Article Describes Disabling Permanent Bluetooth Issue on Windows 1
 thumbnail: https://thmb.techidaily.com/3d2f504c7a28917e2aef95be2fd0b9c5130c134ee668702387fa9476707bc049.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Disabling Permanent Bluetooth Issue on Windows 10
 
 Windows 10 users have been complaining that they are**unable to turn off**the Bluetooth connection even when they don’t want to use their Bluetooth devices, for instance, when they are in a neighborhood where there are so many Bluetooth devices detected. They cannot see the toggle switch (circled out in the screenshot) in Bluetooth device setting.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-bluetooth-devices.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The reason why this is happening is that Microsoft seems to have an odd logic. It will recognize laptops with battery on is the mobile devices, thus with the Bluetooth device toggle available and easy to access. But if you are with a desktop, or sometimes, an all-in-one, chances are Windows 10 will not see your computer as a mobile device, thus it will not let you have access to the Bluetooth devices management panel. Luckily, this is not a difficult question to solve, not at all. Follow the options below to fix your problem fast and easily ![**Option 1: Disable Bluetooth device driver**](https://boody-eco-wear.pxf.io/qyo4oo) [**Option 2: Update Bluetooth device driver**](https://propmoneyinc.pxf.io/q4jzdy) [**Option 3: Modify Registry settings**](https://united.elfm.net/zqobdx)   **Option 1: Disable Bluetooth device driver** 1) Open**Device Manager** by pressing**Windows key**and**R**at the same time. Then type in**devmgmt.msc** and hit**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/devmgmt-msc.png)
@@ -43,12 +31,6 @@ The reason why this is happening is that Microsoft seems to have an odd logic. I
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/show-hidden-devices.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Please note that the name of your Bluetooth device could be different from mine, which is very natural and normal. If you have multiple Bluetooth devices, you might see other options here. The procedure is the same, just right click them and**Disable** them.   **Option 2: Update Bluetooth device driver** If the steps above don’t resolve your Bluetooth problem in Windows 10, it may be caused by a device driver.  You can automatically update all your device drivers to the latest correct version with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .  Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy. 2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b60655cf90.png)
@@ -61,30 +43,12 @@ When prompted for administrator permission, just click**Yes**to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uac.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Follow the path:   **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\ActionCenter\\Quick Actions\\All\\SystemSettings\_Device\_BluetoothQuickAction**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/hkey_local_machinesoftwaremicrosoftwindowscurrentversionactioncenterquick-actionsallsystemsettings_device_bluetoothquickaction.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) On the right pane, locate and right click the file with the name **Type**and choose**Modify**. ![](https://images.drivereasy.com/wp-content/uploads/2016/11/modify-value.png) 4) Then change the**Value data**from 0 to**1**. Then hit**OK**to save and exit.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/value-data.png)
 
 5) Restart your computer after the change.
@@ -95,8 +59,6 @@ When prompted for administrator permission, just click**Yes**to continue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,57 +68,25 @@ When prompted for administrator permission, just click**Yes**to continue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-audiovisual-pro-perfect-ppt-presentation-recording/"><u>[New] In 2024, Audiovisual Pro  Perfect PPT Presentation Recording</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-layout-layers-a-guide-to-organizing-online-videos/"><u>[New] Layout Layers  A Guide to Organizing Online Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ptimal-recording-tool-for-high-definition-youtube-videos/"><u>[New] Optimal Recording Tool  For High-Definition YouTube Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-quick-tips-for-a-standout-instagram-groups-project/"><u>[New] Quick Tips for a Standout Instagram Groups Project</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-achieve-unstoppable-viral-traction-with-these-fb-tricks/"><u>[Updated] 2024 Approved  Achieve Unstoppable Viral Traction with These FB Tricks</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-hasten-recovering-deleted-snaps/"><u>[Updated] 2024 Approved  Hasten Recovering Deleted Snaps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-secrets-to-stellar-podcast-summaries/"><u>[Updated] The Secrets to Stellar Podcast Summaries</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-fading-frequencies-the-gentle-way-with-garageband/"><u>2024 Approved  Fading Frequencies  The Gentle Way with Garageband</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-art-of-screenshot-beauty-top-10-sticker-enhancing-apps-for-smartphones/"><u>2024 Approved  The Art of Screenshot Beauty  Top 10 Sticker-Enhancing Apps for Smartphones</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-your-youtube-success-story-a-comprehensive-guide-to-creative-studio/"><u>2024 Approved  Unlocking Your Youtube Success Story  A Comprehensive Guide to Creative Studio</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-m14-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy M14 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-xr21-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/combat-feelings-of-isolation-by-utilizing-chatgpt-support/"><u>Combat Feelings of Isolation by Utilizing ChatGPT Support</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnosing-and-solving-windows-10s-missing-coprocessor-driver-problem/"><u>Diagnosing and Solving Windows 10'S Missing Coprocessor Driver Problem</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-error-system-search-failed/"><u>Driver Error: System Search Failed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-not-found-intel-adapter-lacks-integration/"><u>Driver Not Found; Intel Adapter Lacks Integration</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/effortlessly-excel-with-mondlys-best-practices/"><u>Effortlessly Excel with Mondly's Best Practices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/eliminate-lag-and-freeze-in-win11/"><u>Eliminate Lag & Freeze in Win11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-your-pcs-connectivity-with-newest-thunderbolt-3-driver-downloads-compatible-with-win-1087/"><u>Enhance Your PC's Connectivity with Newest Thunderbolt 3 Driver Downloads – Compatible with Win 10/8/7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-cleared-sound-driver-on-hd-successful/"><u>Error Cleared: Sound Driver on HD Successful</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-elimination-in-acpi-device-33a0/"><u>Error Elimination in Acpi: Device 33A0</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-signal-bcm20702a0-missing-driver/"><u>Error Signal: BCM20702A0 Missing Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-guide-repairing-devices-in-windows-dm/"><u>Expert Guide: Repairing Devices in Windows DM</u></a></li>
-<li><a href="https://driver-install.techidaily.com/expertise-in-printing-officejet-pro-8710-optimized-drivers-for-windows-systems/"><u>Expertise in Printing: Officejet Pro 8710, Optimized Drivers for Windows Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-hardware-glitch-hdd-issue-resolved/"><u>Fixed Hardware Glitch: HDD Issue Resolved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-windows-7-bsod-issue-guide-to-resolve-error-code-0x0000007e/"><u>Fixing the Windows 7 BSOD Issue: Guide to Resolve Error Code 0X0000007E</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gaomon-s620-drivers-download-and-install-guide/"><u>Gaomon S620 Drivers Download & Install Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723011370876-grand-theft-auto-v-optimization-fixes-for-performance-issues/"><u>Grand Theft Auto V Optimization - Fixes for Performance Issues!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphics-device-driver-error-code-43-solved/"><u>Graphics Device Driver Error Code 43 [SOLVED]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gtx-error-ninetyfive-and-code-43-comprehensive-solutions-for-the-latest-microsoft-operating-system/"><u>GTX Error NinetyFive & Code 43: Comprehensive Solutions for the Latest Microsoft Operating System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-restoring-bluetooth-functionality-with-qualcomm-atheros-drivers-in-windows-10/"><u>Guide to Restoring Bluetooth Functionality with Qualcomm Atheros Drivers in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-failed-to-initialize-for-battleye-overcoming-driver-load-error-1450/"><u>How to Fix 'Failed to Initialize' For BattlEye - Overcoming Driver Load Error 1450</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-video-issues-a-walkthrough-of-safemode-and-graphics-driver-removal-for-windows-8-users/"><u>How to Fix Video Issues? A Walkthrough of Safemode & Graphics Driver Removal for Windows 8 Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/instant-guide-photos-to-powerful-youtube-channel-thumbnails-in-a-flash/"><u>Instant Guide  Photos to Powerful YouTube Channel Thumbnails in a Flash</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-computer-glitches-fix-your-final-usb-device-when-its-ignored-by-windows-systems/"><u>Overcoming Computer Glitches: Fix Your Final USB Device When It's Ignored By Windows Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overhaue-hybrid-graphics-sync-windows-11-solves-issues/"><u>Overhaue Hybrid Graphics Sync: Windows 11 Solves Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/pioneering-path-to-problem-solving-e52/"><u>Pioneering Path to Problem-Solving E52</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restored-access-granted/"><u>Restored Access Granted</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restored-functionality-to-windows-for-broadcom-80211n-adapter/"><u>Restored Functionality to Windows for Broadcom 802.11N Adapter</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revive-unrecognized-devices-in-windows-nt4-server/"><u>Revive Unrecognized Devices in Windows NT4 Server</u></a></li>
-<li><a href="https://driver-error.techidaily.com/service-inf-issue-invalidity-overcome/"><u>Service INF Issue: Invalidity Overcome</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solution-for-iphone-compatibility-with-computers-file-manager-through-driver-update/"><u>Solution for iPhone Compatibility With Computer's File Manager Through Driver Update</u></a></li>
-<li><a href="https://driver-error.techidaily.com/stop-bluetooth-from-turning-on-automatically/"><u>Stop Bluetooth From Turning On Automatically</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tricking-out-the-intellme-glitches/"><u>Tricking Out the IntellME Glitches</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-solved-iphone-external-drive-connection-via-mtp/"><u>Troubleshooting Solved: IPhone External Drive Connection via MTP</u></a></li>
-<li><a href="https://driver-error.techidaily.com/uninstalling-graphics-drivers-on-windows-8-a-quick-tutorial-for-secure-boot-settings/"><u>Uninstalling Graphics Drivers on Windows 8: A Quick Tutorial for Secure Boot Settings</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-your-videos-to-life-a-step-by-step-guide-to-the-ken-burns-effect-in-final-cut-pro/"><u>Updated Bring Your Videos to Life A Step-by-Step Guide to the Ken Burns Effect in Final Cut Pro</u></a></li>
-<li><a href="https://facebook.techidaily.com/virtual-reality-on-facebook-3-red-flags-to-note/"><u>Virtual Reality on Facebook – 3 Red Flags to Note</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win10-how-to-locate-missing-external-storage-devices/"><u>Win10: How to Locate Missing External Storage Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-bootup-flaw-bsod-irql-disparity/"><u>Win11 Bootup Flaw: [BSOD] Irql Disparity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-preventing-non-bootable-state-due-to-software-issue/"><u>[FIXED] Preventing Non-Bootable State Due to Software Issue</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-is-av1-better-than-vp9-learn-it-here/"><u>[New] Is AV1 Better Than VP9? Learn It Here</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-profit-strategies-for-beauty-streams/"><u>[Updated] In 2024, Profit Strategies for Beauty Streams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-screen-capture-mastery-a-closer-look-at-recmeister-tech/"><u>[Updated] Screen Capture Mastery A Closer Look at Recmeister Tech</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-s18-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-how-to-fix-incorrect-device-configuration-error-code-1-quickly/"><u>Expert Advice: How To Fix Incorrect Device Configuration Error (Code 1) Quickly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-our-list-best-21-hdmi-monitors-compared-for-2024/"><u>Explore Our List Best 2.1 HDMI Monitors Compared for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/garrys-mod-crashes-no-more-updated-fix-guide-for-gamers/"><u>Garry's Mod Crashes No More - Updated Fix Guide for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stabilize-the-fuser-software-when-it-continuously-exits-unexpectedly/"><u>How to Stabilize the Fuser Software When It Continuously Exits Unexpectedly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-driver-compatibility-problems-between-amdintel-and-premiere-pro/"><u>Resolved Driver Compatibility Problems Between AMD/Intel and Premiere Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-missing-driver-issues-on-your-device-fixes-for-windows-11-8-and-7/"><u>Resolving Missing Driver Issues on Your Device: Fixes for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/cket-views-with-strategic-youtube-titles-and-descriptions-for-2024/"><u>Skyrocket Views with Strategic YouTube Titles & Descriptions for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

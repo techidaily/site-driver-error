@@ -1,7 +1,7 @@
 ---
 title: "[Disk] Alert: Addressing 100%% Usage on PCs"
-date: 2024-09-09T03:10:00.971Z
-updated: 2024-09-10T03:10:00.971Z
+date: 2024-09-10T21:08:58.255Z
+updated: 2024-09-15T05:40:26.128Z
 tags:
   - win11
   - win10
@@ -19,18 +19,6 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
  Before you start troubleshooting, check if it’s a temporary system glicth. You can do that by simply restarting the PC and see if the issue persists.
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9 fixes for 100% disk usage on Windows 10
 
  Here are a few fixes that have helped other users resolve their Windows 10 100% disk usage problem. You may not need to try them all; just work your way down the list until you find the one that works for you.
@@ -49,12 +37,6 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Disable SuperFetch
 
  SuperFetch helps to decrease boot time and make must-load programs more efficiently. However, it has been identified as a potential cause of disk performance issues in Windows 8 and later versions of Windows, including Windows 10\. Here’s how to stop this service:
@@ -87,18 +69,6 @@ If the 100% disk usage problem persists, try the next method, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your device drivers
 
  The 100% disk usage problem in Windows 10 could indicate a driver issue. In other words, it could mean that you’re using a faulty or outdated device drivers.
@@ -113,26 +83,8 @@ With Driver Easy, updating drivers only takes 2 clicks:
 2. Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any outdated or faulty drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All**  to automatically download and install the correct version of**_all_** the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You can opt for the 7-day free trial, or you can go Pro now at a discounted price).  
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/DE-update-all-6.0.jpg)
 4. Check your computer’s disk usage: Type “task manager” in the Windows search bar and select**Task Manager** , then in the Processes tab, look at the % at the top of the Disk column. If it’s no longer 100%, you’ve fixed the problem!  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![100% disk usage resolved](https://www.drivereasy.com/wp-content/uploads/2016/08/100-disk-usage-resolved.png)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -150,17 +102,12 @@ If the 100% disk usage problem persists, try the next method, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/Fortect-tp-reviews.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Here’s how to use Fortect to check for broken system components in just one click:
 
  1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
@@ -171,18 +118,6 @@ If the 100% disk usage problem persists, try the next method, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  Restart your computer to see if you still get the 100% disk usage error. If you do, please try the next fix below.
@@ -195,9 +130,23 @@ If the 100% disk usage problem persists, try the next method, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b3dfa5842c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Click **Yes**  at the**User Account Control** prompt.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b3e5e14b63.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) The command prompt will once again display. Type in the following command:
 
@@ -231,38 +180,14 @@ If the 100% disk usage problem persists, try the next method, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-36-39.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Go to the **Advanced** tab again, and choose**Change…**  in the Virtual memory section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-13.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Ensure the **Automatically manage paging file size for all drives** checkbox is**NOT** ticked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-37-37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Select your windows drive (the hard drive or partition that has Windows installed on it – usually **C:**)**,** and enter an Initial size and Maximum size for your virtual memory:
 
 * **Initial size** – This value varies, depending on your computer. If you’re not sure what value to use, just enter whatever the number is in the**Recommended** category.
@@ -272,42 +197,18 @@ If the 100% disk usage problem persists, try the next method, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Clear all your computer’s ‘temp’ files. On your keyboard, press**Windows key** and**R** at the same time, then in the Run form, type**temp** and hit**Enter** . This will invoke Windows Explorer with your Temp folder open, showing you all the temp files on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a4d089b3e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7) Select all the files in the Temp folder and delete them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a52e5c1ac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  8) Check your computer’s disk usage: Type “task manager” in the Windows search bar and select**Task Manager** , then in the Processes tab, look at the % at the top of the Disk column. If it’s no longer 100%, you’ve fixed the problem!
 
 ![100% disk usage resolved](https://images.drivereasy.com/wp-content/uploads/2016/08/100-disk-usage-resolved.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If the 100% disk usage problem persists, try the next method, below.
 
 ---
@@ -332,18 +233,6 @@ If the 100% disk usage problem persists, try the next method, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Fix your StorAHCI.sys driver
 
 **Note** : A million thanks to our warm-hearted reader Javier for the following solution.
@@ -364,12 +253,6 @@ Here’s how to determine if this is your problem and fix it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b4611132d9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Close the Driver Details window and go to**Details** tab. From the drop-down menu, select **Device Instance Path** . Make note of the path, starting from**VEN\_** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b474d5583c.png)
@@ -388,36 +271,12 @@ Here’s how to determine if this is your problem and fix it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b48d861882.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) Restart your computer after the change, then check your computer’s disk usage: Type “task manager” in the Windows search bar and select**Task Manager** , then in the Processes tab, look at the % at the top of the Disk column. If it’s no longer 100%, you’ve fixed the problem!
 
 ![100% disk usage resolved](https://images.drivereasy.com/wp-content/uploads/2016/08/100-disk-usage-resolved.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8: Check the health of your disk
 
  You should also check if it’s a hardware problem, which could help you locate the culprit. You don’t need to be a professional to check for disk health, there’re solutions like HD Tune and CrystalDiskInfo in place that can help you find out the stats of your disk.
@@ -428,21 +287,9 @@ Here’s how you can check the disk health easily with HD Tune:
  (The trial version is enough for troubleshooting. You can get a license if you want to learn more about the disk’s performance.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/hd-tune-download.jpg)
 2. Launch HD Tune. Select the**Health** tab.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here you can see the S.M.A.R.T info of your disk. (S.M.A.R.T is a monitoring system providing a series of attributes or diagnostics for each disk model.) At this moment, you don’t need to figure out each entry’s meaning — simply check if there’s any one of them has a**Status** that is not “**Ok** “. If you see a warning, you may need to google the entry label and determine your next step.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-2.jpg)
 3. On the top left corner, you can toggle the drop down menu to select the disk (if you have multiple). This will allow you to check the health of each disk.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-3.jpg)
 
  You’d also need to check if the disk has bad blocks. **Before you start, note that this process could take hours to complete.** You may want to try other fixes before this one.
@@ -450,9 +297,30 @@ Here’s how you can check the disk health easily with HD Tune:
 1. In HD Tune, select the**Error Scan** tab. First make sure the**Quick Scan** checkbox is unchecked. Then click**Start** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-4.jpg)
 2. Once it completes, check the graph and look for yellow or red blocks. If there’re any red (damaged) blocks, you should consider backing up your data and replace the faulty disk.  
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-6.jpg)
 3. Again, you can use the drop down menu on the top left corner to scan different disk. It’s recommended you scan all the disk to make sure all your hard drives are in good condiction.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Tips to secure your data** : Since hard drives have a finite lifetime and can fail without a warning, consider using a free backup software like AOMEI Backupper to [create a system image](https://prf.hn/click/camref:1011l3x6jb/pubref:drivereasyen2039/ar:drivereasyen2039/[p%5Fid:1100l557026]/destination:https%3A%2F%2Fwww.ubackup.com%2Ffeatures%2Fcreate-system-image.html) , especially when the disk carries important data. A backup system protects you against random disk failures.
 
@@ -460,12 +328,6 @@ Here’s how you can check the disk health easily with HD Tune:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
  Now that we have the internet, fast connection speeds, free cloud storage, and endless web apps (like Gmail, Google Docs, Slack, Facebook, Dropbox and Spotify), the entire Windows way of doing things – with locally installed programs and local file storage – is totally outdated.
@@ -498,8 +360,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -509,44 +369,13 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-sharing-the-vibe-how-to-post-tiktok-videos-to-facebook/"><u>[New] 2024 Approved  Sharing the Vibe  How to Post TikTok Videos to Facebook</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-recommended-8-filters-for-webcam-sharpening/"><u>[New] Expert-Recommended 8 Filters for Webcam Sharpening</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooted-driver-deployment-error-on-startup/"><u>[TROUBLESHOOTED] Driver Deployment Error on Startup</u></a></li>
-<li><a href="https://driver-error.techidaily.com/update-wdcsam64prewin8sys-core-isolation-deactivated/"><u>[Update] wdcsam64_prewin8.sys: Core Isolation Deactivated</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-endless-entertainment-loop-youtube-videos-for-continuous-tv-viewing-for-2024/"><u>[Updated] Endless Entertainment Loop  YouTube Videos for Continuous TV Viewing for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-streamline-your-pc-screens-free-app-for-2024/"><u>[Updated] Streamline Your PC Screens, Free App for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-10-plugin-power-duo-for-final-cut-pro/"><u>2024 Approved  The Ultimate 10 Plugin Power Duo for Final Cut Pro</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-struggles-with-resource-allocation/"><u>Device Struggles with Resource Allocation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/directx-9-hurdles-a-swift-fix-guidebook/"><u>DirectX 9 Hurdles: A Swift Fix Guidebook</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-tips-addressing-and-fixing-a-missing-coprocessor-driver-in-windows-10/"><u>Expert Tips: Addressing and Fixing a Missing Coprocessor Driver in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/find-lost-seagate-disk-steps-for-windows-10/"><u>Find Lost Seagate Disk - Steps for Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-nvidia-driver-installation-hurdles/"><u>Fixed Nvidia Driver Installation Hurdles</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-a-broken-wireless-keyboard-connection-on-windows-expert-tips-and-tricks/"><u>Fixing a Broken Wireless Keyboard Connection on Windows - Expert Tips & Tricks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-broadcom-80211n-wi-fi-on-windows-solved/"><u>Fixing Broadcom 802.11N Wi-Fi on Windows [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gfx-analysis-the-role-of-ms-bda/"><u>GFX Analysis: The Role of MS BDA</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hard-drive-interruption-issue-eliminated/"><u>Hard Drive Interruption Issue Eliminated</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-gtx-950-code-43-error-in-windows-10-a-step-by-step-solution/"><u>How to Fix GTX 950 Code 43 Error in Windows 10: A Step-by-Step Solution</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-incompatible-hardware-detection-warnings-on-idt-systems/"><u>How to Fix Incompatible Hardware Detection Warnings on IDT Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-your-iphones-mtp-connectivity-issue-efficiently/"><u>How to Resolve Your iPhone's MTP Connectivity Issue Efficiently</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-motorola-moto-g24-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Motorola Moto G24 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-15-plus-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 15 Plus How to Bypass?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-sharpsight-screen-snag-report/"><u>In 2024, SharpSight Screen Snag Report</u></a></li>
-<li><a href="https://driver-error.techidaily.com/invalid-inf-repair-completed/"><u>Invalid INF Repair Completed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/last-usb-malfunction-a-comprehhrenautic-guide-for-windows-users/"><u>Last USB Malfunction: A Comprehhrenautic Guide for Windows Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/modern-solutions-for-older-usb-composite-device-troubles/"><u>Modern Solutions for Older USB Composite Device Troubles</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-the-future-a-look-at-top-long-range-routers-of-2024/"><u>Navigating the Future: A Look at Top Long-Range Routers of 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-your-pc-for-a-smooth-battlefront-ii-experience-eliminating-in-game-crashes-permanently/"><u>Optimizing Your PC for a Smooth Battlefront II Experience - Eliminating In-Game Crashes Permanently</u></a></li>
-<li><a href="https://driver-error.techidaily.com/razers-latest-gem-a-comprehensive-review-of-the-revolutionary-wi-fi-headset-for-gamers/"><u>Razer's Latest Gem: A Comprehensive Review of the Revolutionary Wi-Fi Headset for Gamers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repaired-hdd-controller-fault/"><u>Repaired HDD Controller Fault</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repairing-frequent-nvidia-drivers-crashes/"><u>Repairing Frequent Nvidia Drivers Crashes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-how-to-install-missing-drivers-on-windows-10-8-and-7/"><u>Resolved: How to Install Missing Drivers on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-ax201-wi-fi-6-non-functionality/"><u>Resolving AX201 Wi-Fi 6 Non-Functionality</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-absent-coprocessor-driver-issue-in-windows-10-step-by-step-guide/"><u>Resolving the Absent Coprocessor Driver Issue in Windows 10 - Step by Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-gtx-cups-and-windows-10-troubleshooting-guide/"><u>Resolving the GTX Cups and Windows 10 [Troubleshooting Guide]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-non-functional-usb-audio-device-issue-in-win10/"><u>Solve Non-Functional USB Audio Device Issue in WIN10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-elan-tablet-glitches-on-windows-10/"><u>Solving Elan Tablet Glitches on Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/sound-error-eliminated-on-hd-bus/"><u>Sound Error Eliminated on HD Bus</u></a></li>
-<li><a href="https://driver-error.techidaily.com/systems-untapped-resource-potential/"><u>System's Untapped Resource Potential</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-repairing-itbm-driver-accessibility-problems/"><u>Troubleshooting and Repairing ITBM Driver Accessibility Problems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/updating-razer-deathadder-bios-in-win10-a-step-by-step-guide/"><u>Updating Razer Deathadder BIOS in Win10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-device-hub-error-code-48/"><u>[FIXED] Device Hub Error Code 48</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-youtube-visual-identity-made-easy/"><u>[New] 2024 Approved YouTube Visual Identity Made Easy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-paint-perfection-experts-guide-to-color-transformation/"><u>[New] Paint Perfection Expert's Guide to Color Transformation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-from-concept-to-crypto-asset-the-ultimate-list-of-nft-engines/"><u>[Updated] In 2024, From Concept to Crypto Asset The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-rotation-problem-for-videos-on-asus-portable-computers-an-easy-guide/"><u>Fixing the Rotation Problem for Videos on ASUS Portable Computers - An Easy Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-images-to-go-viral-the-ultimate-step-by-step-guide-for-youtube-success/"><u>In 2024, Crafting Images to Go Viral The Ultimate Step-by-Step Guide for YouTube Success</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-chat-with-woocommerce-your-gateway-to-successful-live-selling/"><u>New Live Chat With WooCommerce Your Gateway to Successful Live Selling</u></a></li>
+<li><a href="https://driver-error.techidaily.com/removed-latency-issues-for-real-time-asus-cam-on-win11/"><u>Removed Latency Issues for Real-Time ASUS Cam on Win11</u></a></li>
 </ul></div>
+

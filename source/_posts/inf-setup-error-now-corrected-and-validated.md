@@ -1,7 +1,7 @@
 ---
 title: INF Setup Error - Now Corrected & Validated
-date: 2024-09-09T03:10:00.409Z
-updated: 2024-09-10T03:10:00.409Z
+date: 2024-09-14T03:15:42.061Z
+updated: 2024-09-15T05:48:28.819Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/a-service-installation-section-in-this-inf-is-invalid.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Fix a Service Installation Section in this INF is Invalid issue. Follow the steps in this article.
 
  After you connect your Android device to your computer, you find you can’t use the device and don’t see it on your computer. Then you go to Device Manager to check for the driver status. In Device Manager, you see a MTP USB device with a yellow exclamation mark under the category “Portable Devices” (In some cases, Unknown Devices under Other Devices). When you try to update the driver via Windows Update, you get this error message: _**A service installation section in this INF is invalid**_  . You have no idea how to fix this problem. That’s why you come to this post, right? Don’t worry. You can fix the problem easily with one of the solutions here.
@@ -35,18 +29,6 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 2. [**Update the driver manually**](https://technitya.sjv.io/dkpn02)
 3. [**Install the missing driver files manually**](https://dhgate.sjv.io/5g6yb2)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 1: Update the driver automatically
 
  Since you can’t update the driver via Windows Update, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to update the driver automatically.
@@ -61,12 +43,6 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update** button next to a flagged MTP USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -91,12 +67,6 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68744ea8804.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) In Device Manager, if you see the device shown as MTP USB device. You’ll see**MTP USB Device** listed in the list.**Highlight** it then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687724c3ed9.jpg)
@@ -119,28 +89,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
 
  4) Reconnect your Android device and check to see if the problem is resolved.
@@ -159,8 +111,6 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,58 +120,20 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fix-needed-mouse-ignored-by-windows-os/"><u>[Fix Needed] Mouse Ignored by Windows OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-high-res-audio-on-win11-system/"><u>[Fix] High-Res Audio on Win11 System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-initial-boot-failure-from-drivers-not-installed/"><u>[FIXED] Initial Boot Failure From Drivers Not Installed</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-the-essential-guide-free-youtube-image-saving/"><u>[New] 2024 Approved  The Essential Guide  FREE YouTube Image Saving</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-symphony-silhouette-audio-studio-mac/"><u>[New] Symphony Silhouette  Audio Studio Mac</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-cyclings-apex-titles-for-gamers/"><u>[Updated] 2024 Approved  Cycling's Apex Titles for Gamers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-safe-audio-conversion-techniques-turning-youtube-to-mp3-easily-and-securely/"><u>[Updated] 2024 Approved  Safe Audio Conversion Techniques  Turning YouTube to MP3 Easily & Securely</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-essential-information-for-successful-tiktok-use-on-macos/"><u>[Updated] Essential Information for Successful TikTok Use on macOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-full-spectrum-review-v-tubers-industry-landscape-for-2024/"><u>[Updated] Full Spectrum Review  V-Tubers' Industry Landscape for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/10-game-changing-techniques-to-amplify-your-facebook-presence-for-2024/"><u>10 Game-Changing Techniques to Amplify Your Facebook Presence for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-pc-color-with-windows-hdri/"><u>2024 Approved  Maximizing PC Color with Windows HDRI</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-maximizing-profits-ensuring-proper-youtube-channel-monetization/"><u>2024 Approved  Maximizing Profits  Ensuring Proper YouTube Channel Monetization</u></a></li>
-<li><a href="https://driver-error.techidaily.com/6081975-february/"><u>6081975 (February</u></a></li>
-<li><a href="https://driver-error.techidaily.com/auditory-bliss-achieved-with-win11/"><u>Auditory Bliss Achieved with Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/beat-the-gtx-950-code-43-glitch-in-windows-11-a-user-friendly-guide-to-resolution/"><u>Beat the GTX 950 Code 43 Glitch in Windows 11 - A User-Friendly Guide to Resolution</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-14-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 14 activation lock with a professional tool</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cease-and-desist-stop-auto-uninstalling-nvidia-drivers/"><u>Cease and Desist: Stop Auto-Uninstalling Nvidia Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/coprocessor-driver-missing-on-windows-10-solved/"><u>Coprocessor Driver Missing on Windows 10 [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/demystifying-the-workings-of-traditional-usb-composite-equipment-resolved/"><u>Demystifying the Workings of Traditional USB Composite Equipment [RESOLVED]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-seeks-additional-resources-for-operation/"><u>Device Seeks Additional Resources for Operation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-missing-easy-fix-for-wsd-device/"><u>DRIVER MISSING: Easy Fix For WSD Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-solutions-when-confronted-with-failed-hcmonservice-installs/"><u>Easy Solutions When Confronted with Failed Hcmonservice Installs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-reported-ideport0-control-issue/"><u>Error Reported: Ideport0 Control Issue</u></a></li>
-<li><a href="https://driver-error.techidaily.com/firmware-blocks-car-loading/"><u>Firmware Blocks Car Loading</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-error-when-windows-fails-to-acknowledge-new-usb-device-connections/"><u>Fixing the Error When Windows Fails to Acknowledge New USB Device Connections</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-gtx-ebx-950-code-43-issue-in-windows-11-a-comprehensive-guide/"><u>Fixing the GTX Ebx 950 'Code 43' Issue in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gtx-950-malfunctioning-with-code-43-heres-the-complete-solution-for-windows-10-users/"><u>GTX 950 Malfunctioning with Code 43? Here's the Complete Solution for Windows 10 Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-gemini-15s-enhanced-context-capability-of-over-a-million-tokens-revolutionizes-the-industry/"><u>How Gemini 1.5'S Enhanced Context Capability of Over a Million Tokens Revolutionizes the Industry</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-failed-to-install-the-hcmon-driver-error/"><u>How to Fix Failed to Install the Hcmon Driver Error</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-building-an-mc-village-housing-essentials/"><u>In 2024, Building an MC Village  Housing Essentials</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-s17e-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo S17e</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-plugins-list-after-effects-edition/"><u>In 2024, Ultimate Plugins List  After Effects Edition</u></a></li>
-<li><a href="https://driver-error.techidaily.com/lenovos-blue-tooth-mastery-in-win11-environment/"><u>Lenovo’s Blue-Tooth Mastery in WIN11 Environment</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-bluetooth-shutdown-on-windows-10/"><u>Mastering Bluetooth Shutdown on Windows 10</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mending-audio-sync-problems-in-h264-mov/"><u>Mending Audio Sync Problems in H.264 MOV</u></a></li>
-<li><a href="https://driver-error.techidaily.com/navigating-through-the-maze-of-error-code-52/"><u>Navigating Through the Maze of Error Code 52</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-solutions-how-to-resolve-itbm-driver-unavailable-message/"><u>Quick Solutions: How To Resolve 'ITBM Driver Unavailable' Message</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reconciled-issue-number-45-in-devmgmt/"><u>Reconciled Issue Number 45 in DevMgmt</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reduced-lag-increased-speed-in-win11/"><u>Reduced Lag, Increased Speed in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reinstating-operational-right-click-on-windows-11-touchpad/"><u>Reinstating Operational Right Click on Windows 11 Touchpad</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-oppo-find-x6-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Oppo Find X6 Pro</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-acpi-drive-id-33a0-problems/"><u>Resolving Acpi Drive ID 33A0 Problems</u></a></li>
-<li><a href="https://fox-info.techidaily.com/securing-smooth-airdrop-transfers-across-various-apple-devices/"><u>Securing Smooth AirDrop Transfers Across Various Apple Devices</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-install-and-update-microsoft-drivers-on-windows-11-8-or-ebx/"><u>Step-by-Step Guide to Install & Update Microsoft Drivers on Windows 11, 8 or Ebx</u></a></li>
-<li><a href="https://driver-error.techidaily.com/successful-troubleshooting-of-broadcom-n-wireless-adapter-for-windows/"><u>Successful Troubleshooting of Broadcom N Wireless Adapter for Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/swift-strategies-to-overcome-directx-9-fail/"><u>Swift Strategies to Overcome 'DirectX 9 Fail'</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-quest-to-eradicate-code-52-from-cars/"><u>The Quest to Eradicate Code 52 From Cars</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooted-stable-connection-for-asus-webcam-on-win11/"><u>Troubleshooted Stable Connection for ASUS Webcam on Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-nvidia-geforce-gtx-950-code-43-errors-on-a-windows-10-pc/"><u>Troubleshooting and Fixing NVIDIA GeForce GTX 950 Code 43 Errors on a Windows 10 PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-the-blue-screen-mistake-with-error-0x0000007e-on-windows-7/"><u>Troubleshooting and Fixing the 'Blue Screen' Mistake with Error 0X0000007E on Windows 7</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-solutions-resolving-game-crashes-in-grand-theft-auto-v/"><u>Ultimate Solutions: Resolving Game Crashes in Grand Theft Auto V</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-87-fails-to-show-nvidia-gpus/"><u>Windows 8/7 Fails to Show Nvidia GPUs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-wireless-keyboard-issues-solve-common-connection-problems-now/"><u>Windows Wireless Keyboard Issues? Solve Common Connection Problems Now!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-enhance-your-discord-conversations-using-voicemod-effectively/"><u>[Updated] In 2024, Enhance Your Discord Conversations Using VoiceMod Effectively</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-guide-ripping-audio-cds-successfully-with-your-windows-pc/"><u>Easy Guide: Ripping Audio CDs Successfully with Your Windows PC</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/fastest-methods-to-convert-mov-files-into-wmv-format-top-5-tips-for-both-windows-and-mac/"><u>Fastest Methods to Convert MOV Files Into WMV Format: Top 5 Tips for Both Windows & Mac</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphical-interrupt-rejected-by-system-win11/"><u>Graphical Interrupt Rejected by System Win11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-on-december-3rd-google-play-announced-its-choice-and-also-presented-the-best-android-apps-that-were-selected-by-users-so-without-further-ado-let/"><u>New In 2024, On December 3Rd Google Play Announced Its Choice and Also Presented the Best Android Apps that Were Selected by Users. So without Further Ado Lets Take a Look at the Best and Most Popular And</u></a></li>
+<li><a href="https://driver-error.techidaily.com/perfect-precision-eradicating-delays-in-win10/"><u>Perfect Precision: Eradicating Delays in Win10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-step-by-step-correcting-error-e80240020-for-successful-windows-10-setup/"><u>Troubleshooting Step-by-Step: Correcting Error E80240020 for Successful Windows 10 Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wireless-keyboard-not-working-on-windows-solved/"><u>Wireless Keyboard Not Working on Windows [Solved]</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

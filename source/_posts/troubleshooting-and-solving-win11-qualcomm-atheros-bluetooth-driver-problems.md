@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Solving Win11 Qualcomm Atheros Bluetooth Driver Problems
-date: 2024-09-09T03:09:57.304Z
-updated: 2024-09-10T03:09:57.304Z
+date: 2024-09-11T00:07:48.053Z
+updated: 2024-09-14T23:49:07.668Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587848fa4952b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Windows 10 users have reported to have problems with their Atheros Bluetooth driver on and off for months since the upgrade. When Bluetooth driver is sloppy, your Bluetooth devices, wireless mouse, wireless keyboard, wireless headphone, are not working properly.
   
 Just relax, this is a very easy problem to solve. Just follow the instructions below to get it done!
@@ -40,34 +34,10 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878512a85d87.jpg)
   
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then choose**Update history** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878514d080da.jpg)
   
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Scroll down to see if you can find the**KB3061161** . It should be a rather old update, so it might cost you some time to locate.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587852a8ba348.jpg)
@@ -100,24 +70,12 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787077d9b1c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6) When the uninstall finishes, restart your computer.
   
 7) Now, go to the folder where you store the setup file of the Qualcomm Atheros Bluetooth driver, double the**setup file**and run the installation as instructed.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587857485a0a6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8) When the install finishes, reboot your computer for the change to take effect.
   
  **Option Three: Reinstall Bluetooth Driver Manually**
@@ -138,32 +96,14 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878797a95615.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Choose**Browse my computer for driver software** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787a96b276c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Choose **Let me pick from a list of the drivers on my computer** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787ac962e8f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6) Un-tick the box for **Show compatible hardware** . Then you should be able to see **Qualcomm Atheros** driver option on the left. On the right, choose one of the drivers listed. We go with**Qualcomm Atheros AR3011 Bluetooth 3.0** . You need to try them one by one by yourself to select the right one for your PC. When done picking, click**Next** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787b0460727.png)
@@ -186,12 +126,6 @@ Then the**Update**button next to the driver you need to update.
 
  ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76eb162d8c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 That’s all.
   
 Compare with the above methods, how easy is this?
@@ -209,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,55 +152,28 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-live-to-share-top-tech-for-high-quality-youtube-livestreams/"><u>[New] 2024 Approved  Live to Share  Top Tech For High-Quality YouTube Livestreams</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-best-practices-in-embedding-real-time-videos-from-fb-for-2024/"><u>[New] Best Practices in Embedding Real-Time Videos From FB for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-uniquely-branding-podcasts-expert-led-logo-insights/"><u>[New] Uniquely Branding Podcasts  Expert-Led Logo Insights</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-hardware-cant-communicate-due-to-boot-issue/"><u>[RESOLVED] Hardware Can't Communicate Due to Boot Issue</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-acpivenintanddev33a0-driver-issues/"><u>[Solved] ACPIVEN_INT&DEV_33A0 Driver Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-windows-11-100-disk-usage-in-task-manager/"><u>[SOLVED] Windows 11 100%% Disk Usage in Task Manager</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-step-by-step-guide-to-bordering-instagram-footage/"><u>[Updated] In 2024, Step-by-Step Guide to Bordering Instagram Footage</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cash-flow-curiosity-how-much-does-the-celebrity-make/"><u>Cash Flow Curiosity  How Much Does the Celebrity Make?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-load-problem-solved-correcting-the-battleye-error-1450/"><u>Driver Load Problem Solved: Correcting the BattlEye (Error 1450)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effortless-use-of-win11/"><u>Effortless Use of Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-tips-to-overcome-the-failed-to-install-hcmondriver-problem/"><u>Expert Tips to Overcome the 'Failed to Install Hcmondriver' Problem</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-guide-retrieving-required-drivers-for-devices-not-recognized-in-win1087-solved/"><u>Fix Guide: Retrieving Required Drivers for Devices Not Recognized in Win10/8/7 [SOLVED]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-pci-serial-port-driver-issues-on-windows/"><u>Fix PCI Serial Port Driver Issues on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-windows-10-for-swift-mousing-action/"><u>Fix Windows 10 for Swift Mousing Action</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-fixing-techniques-for-windows-11-users-expert-tips-and-tricks/"><u>GTX 950 'Code 43' Fixing Techniques for Windows 11 Users - Expert Tips & Tricks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hdr-audio-hub-fixed-complaint-addressed/"><u>HDR Audio Hub: Fixed Complaint Addressed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-pci-memory-controller-driver-issues/"><u>How to Fix PCI Memory Controller Driver Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-the-absent-coprocessor-driver-issue-in-windows-10-easy-guide/"><u>How to Fix the Absent Coprocessor Driver Issue in Windows 10 - Easy Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-video-updating-and-downloading-all-necessary-drivers-for-hps-envy-20-series/"><u>How-To Video: Updating and Downloading All Necessary Drivers for HP's Envy 20 Series</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-envy-20-pc-updates-unveiled-a-step-by-step-driver-download-and-installation-guide/"><u>HP Envy 20 PC Updates Unveiled: A Step-by-Step Driver Download & Installation Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-pavilion-g3-not-detected-by-ubuntu-1804-issue-resolved/"><u>HP Pavilion G3 Not Detected by Ubuntu 18.04 (Issue Resolved)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/idt-software-compatibility-issue-correcting-the-detected-hardware-is-not-supported-message/"><u>IDT Software Compatibility Issue: Correcting the Detected Hardware Is Not Supported Message</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/inspiring-abodes-for-minifigure-residences-for-2024/"><u>Inspiring Abodes for Minifigure Residences for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/kb-malfunction-detected-in-windows-10/"><u>Kb Malfunction Detected in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-device-compatibility-driver-installation-tips-for-windows-xp-to-10/"><u>Mastering Device Compatibility: Driver Installation Tips for Windows XP to 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-technology-toms-thorough-hardware-breakdowns/"><u>Mastering Technology: Tom's Thorough Hardware Breakdowns</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastery-of-windows-solving-ndis-fast-and-easy/"><u>Mastery of Windows: Solving NDIS Fast & Easy</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mending-non-functional-windows-enter-key/"><u>Mending Non-Functional Windows Enter Key</u></a></li>
-<li><a href="https://driver-error.techidaily.com/modernize-death-adder-drivers-in-win11/"><u>Modernize DeaTH Adder Drivers in WIN11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/motorolas-answer-to-the-iphone-dive-into-our-comprehvew-of-the-affordable-yet-stylish-motorola-one/"><u>Motorola's Answer to the iPhone? Dive Into Our Comprehvew of the Affordable Yet Stylish Motorola One</u></a></li>
-<li><a href="https://driver-error.techidaily.com/navigating-issue-52-drivers-at-a-crossroads/"><u>Navigating Issue #52: Drivers at a Crossroads</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-response-from-macbook-pro-retina-15-to-windows-vista-fix-ready/"><u>No Response From MacBook Pro Retina 15 to Windows Vista (Fix Ready)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/overcoming-uneven-sound-in-fb-video-playback/"><u>Overcoming Uneven Sound in FB Video Playback</u></a></li>
-<li><a href="https://driver-error.techidaily.com/preventing-sm-bus-errors-in-windows-1011-devices/"><u>Preventing SM Bus Errors in Windows 10/11 Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/proven-winners-the-top-5-tools-for-video-conference-recording-for-2024/"><u>Proven Winners  The Top 5 Tools for Video Conference Recording for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-unable-to-install-hcmond-device-driver-issues/"><u>Resolving 'Unable to Install Hcmond Device Driver' Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-service-inf-configuration-error/"><u>Resolving the Service INF Configuration Error</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-nubia-z50s-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Nubia Z50S Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-windows-1011-unifying-receiver-woes/"><u>Solve Windows 10/11 Unifying Receiver Woes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/stop-bluetooth-auto-connect-on-windows-10/"><u>Stop Bluetooth Auto-Connect on Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/streamlining-nvidia-driver-performance-issues/"><u>Streamlining Nvidia Driver Performance Issues</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-huawei-p60-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Huawei P60 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-iphone-usb-connectivity-overcoming-mtp-device-driver-challenges/"><u>Troubleshooting and Solving iPhone USB Connectivity: Overcoming MTP Device Driver Challenges</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-usb-connection-failures-deal-with-access-denied/"><u>Troubleshooting USB Connection Failures – Deal With 'Access Denied'</u></a></li>
-<li><a href="https://driver-error.techidaily.com/uncovering-stealthy-dvdcd-issues-on-win-oses/"><u>Uncovering Stealthy DVD/CD Issues on Win OSes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unveiling-secrets-to-overcome-asus-driver-issues/"><u>Unveiling Secrets to Overcome ASUS Driver Issues</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-silent-film-techniques-how-to-minimize-background-noise-in-your-mac-imovie-projects-for-2024/"><u>Updated Silent Film Techniques How to Minimize Background Noise in Your Mac iMovie Projects for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-bluetooth-reviving-lenovo-connectivity-magic/"><u>Win11 Bluetooth: Reviving Lenovo Connectivity Magic</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-10-missing-coprocessor-driver-solution-what-you-need-to-know/"><u>Windows 10 Missing Coprocessor Driver Solution - What You Need to Know</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-ndis-troubleshooting-done-in-a-flash/"><u>Windows NDIS Troubleshooting, Done in a Flash</u></a></li>
-<li><a href="https://driver-install.techidaily.com/xbox-one-controller-drivers-for-windows-10/"><u>Xbox One Controller Drivers for Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/internal-wifi-and-bluetooth-always-on-cant-turn-off-in-my-win10-laptop48-chars/"><u>“Internal WIFI & Bluetooth Always ON - Can't Turn OFF in My Win10 Laptop(48 Chars)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-efficient-video-downloading-vimeo-to-mp4-tutorial/"><u>[New] Efficient Video Downloading Vimeo to MP4 Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/business-slide-show-essentials-free-access-and-customization-for-2024/"><u>Business Slide Show Essentials Free Access & Customization for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-keyboard-mismatches-with-windows-10s-elan/"><u>Fixing Keyboard Mismatches with Windows 10'S Elan</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-lost-to-found-the-missing-touchpad-driver-fixes/"><u>From Lost to Found: The Missing Touchpad Driver Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-fixing-usb-setup-errors-caused-by-access-is-denied/"><u>Guide to Fixing USB Setup Errors Caused by 'Access Is Denied'</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-lenovo-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Lenovo</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-tecno-phantom-v-fold-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Tecno Phantom V Fold Phone Now with These Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-acceleration-trendsetting-with-likes-and-videos/"><u>Instagram Acceleration Trendsetting with Likes & Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mcpu-solving-intellme-crashes/"><u>MCPU: Solving IntellME Crashes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-communication-for-young-users-how-to-enable-parental-control-on-discord/"><u>Secure Communication for Young Users: How to Enable Parental Control on Discord</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stabilized-high-res-webcam-output-fixing-asuswin11/"><u>Stabilized High Res Webcam Output: Fixing ASUS/Win11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-complete-guide-to-essential-uav-upgrades-and-parts/"><u>The Complete Guide to Essential UAV Upgrades & Parts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsupported-device-type-lacking-intel-adapter/"><u>Unsupported Device Type - Lacking Intel Adapter</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

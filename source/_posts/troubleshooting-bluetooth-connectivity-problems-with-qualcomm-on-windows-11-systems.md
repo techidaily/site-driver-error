@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Bluetooth Connectivity Problems with Qualcomm on Windows 11 Systems
-date: 2024-09-09T03:10:00.704Z
-updated: 2024-09-10T03:10:00.704Z
+date: 2024-09-10T02:11:36.756Z
+updated: 2024-09-14T17:19:08.576Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587848fa4952b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Windows 10 users have reported to have problems with their Atheros Bluetooth driver on and off for months since the upgrade. When Bluetooth driver is sloppy, your Bluetooth devices, wireless mouse, wireless keyboard, wireless headphone, are not working properly.
   
 Just relax, this is a very easy problem to solve. Just follow the instructions below to get it done!
@@ -40,12 +34,6 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878512a85d87.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then choose**Update history** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878514d080da.jpg)
@@ -68,30 +56,12 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878567811d29.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note**: If your PC is rather old and there is no such Bluetooth driver that you can find for Windows 10, it is suggested that you give the latest version of driver that you can find a try, be it Windows 8.1, Windows 8, or Windows 7\. Then try [**install the driver in compatibility mode**](https://tools.techidaily.com/drivereasy/download/).
   
 3) Now press**Windows key**and**X**at the same time and choose**Device Manager**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878625e408ff.png)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Then locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Uninstall**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878700f160fd.jpg)
@@ -100,12 +70,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787077d9b1c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6) When the uninstall finishes, restart your computer.
   
 7) Now, go to the folder where you store the setup file of the Qualcomm Atheros Bluetooth driver, double the**setup file**and run the installation as instructed.
@@ -128,18 +92,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878625e408ff.png)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Update Driver Software**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878797a95615.png)
@@ -152,34 +104,10 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787ac962e8f.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6) Un-tick the box for **Show compatible hardware** . Then you should be able to see **Qualcomm Atheros** driver option on the left. On the right, choose one of the drivers listed. We go with**Qualcomm Atheros AR3011 Bluetooth 3.0** . You need to try them one by one by yourself to select the right one for your PC. When done picking, click**Next** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787b0460727.png)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7)Then follow the instructions on screen to get your Qualcomm Atheros Bluetooth drive installed.  
   
 8) When install finishes, please make sure to restart your computer for the change to take effect.  
@@ -194,12 +122,6 @@ Moreover, it is very easy to use. Just click the**Scan Now**button for**Driver E
   
  \\![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76e376da11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Then the**Update**button next to the driver you need to update.
 
  ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76eb162d8c.jpg)
@@ -221,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,52 +152,19 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/solved-struggling-to-run-rtx-gaming-weve-got-your-back/"><u>(Solved): Struggling to Run RTX Gaming? We've Got Your Back</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-gear-checklist-for-youtube-success/"><u>[New] 2024 Approved  Essential Gear Checklist for YouTube Success</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-step-by-step-to-a-tailored-facebook-memory-reel/"><u>[New] 2024 Approved  Step-by-Step to a Tailored Facebook Memory Reel</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-a-deep-dive-into-competitive-ar-stickers-outside-google/"><u>[New] In 2024, A Deep Dive Into Competitive AR Stickers Outside Google</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-conveniently-captivated-by-ifunnys-humor-hub/"><u>[New] In 2024, Conveniently Captivated by iFunny's Humor Hub</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/aximizing-your-creations-uploading-imovie-videos-to-youtube/"><u>[New] Maximizing Your Creations  Uploading IMovie Videos to YouTube</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-troubleshooting-obs-fullscreen-failure-for-2024/"><u>[New] Troubleshooting OBS Fullscreen Failure for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-cant-open-acpi-atk0100-kernel-mode-driver/"><u>[Solved] Can’t Open ACPI ATK0100 Kernel Mode Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-drivers-engaged-on-win-os/"><u>[Solved]: Drivers Engaged on Win OS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-best-builds-for-a-thriving-mc-village-homes-for-2024/"><u>[Updated] Best Builds for a Thriving MC Village Homes for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-bloodthirsty-horror-your-ultimate-8-zombie-game-compilation/"><u>[Updated] Bloodthirsty Horror  Your Ultimate 8 Zombie Game Compilation</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-leading-tools-top-6-fb-lite-video-extractors-for-2024/"><u>[Updated] Leading Tools  TOP 6 FB Lite Video Extractors for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-pause-autoplay-on-youtube-suggested-videos/"><u>2024 Approved  Pause Autoplay on YouTube Suggested Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-filmmakers-almanac-of-cinematic-mastery-in-24/"><u>2024 Approved  The Filmmaker's Almanac of Cinematic Mastery in '24</u></a></li>
-<li><a href="https://fox-info.techidaily.com/annotating-emotions-through-trailer-tunes/"><u>Annotating Emotions Through Trailer Tunes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/canon-sx530-revealed-the-best-camera-for-newbies/"><u>Canon SX530 Revealed: The Best Camera for Newbies</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-needs-more-available-resources/"><u>Device Needs More Available Resources</u></a></li>
-<li><a href="https://driver-error.techidaily.com/drivers-eye-ideport0-malfunction-notice/"><u>Driver's Eye: Ideport0 Malfunction Notice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevating-academic-inquiry-through-ai-exploring-four-effective-tools/"><u>Elevating Academic Inquiry Through AI: Exploring Four Effective Tools</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enable-unseen-logitech-brio-camera-post-windows-update-step-by-step-guide-solved/"><u>Enable Unseen Logitech Brio Camera Post Windows Update – Step by Step Guide [Solved!]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enabling-disc-drive-visibility-in-windows-10/"><u>Enabling Disc Drive Visibility in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/finding-lost-bluetooths-absence-from-device-list/"><u>Finding Lost: Bluetooth's Absence From Device List</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-asmedia-usb-30-extensible-host-controller-driver-issues-easily/"><u>Fix ASMedia USB 3.0 eXtensible Host Controller Driver Issues Easily</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-guide-resolving-the-absence-of-a-coprocessor-driver-in-windows-11/"><u>Fix Guide: Resolving the Absence of a Coprocessor Driver in Windows 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/foolproof-fixes-for-the-iphone-camera-icon-not-showing-problem/"><u>Foolproof Fixes for the 'iPhone Camera Icon Not Showing' Problem</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphics-module-blockage-in-windows-operating-system/"><u>Graphics Module Blockage in Windows Operating System</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-ensure-seamless-integration-with-classic-usb-composite-devices-issues-cleared/"><u>How to Ensure Seamless Integration With Classic USB Composite Devices [ISSUES CLEARED]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-radeon-wattman-defaults-collapse-and-recover-issue-ultimate-guide/"><u>How to Fix 'Radeon Wattman Defaults Collapse and Recover' Issue - Ultimate Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-f15-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy F15 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Stop Google Chrome from Tracking Your Location On Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-v30t-phone-without-google-account-by-drfone-android/"><u>How to Unlock Realme V30T Phone without Google Account?</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/how-to-use-emojis-on-windows/"><u>How to Use Emojis on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ideport0-fault-discovered-by-driver/"><u>Ideport0 Fault Discovered by Driver</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-se-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone SE Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-translate-instagram-videos-easily-a-step-by-step-guide/"><u>New 2024 Approved Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-drivers-installed-for-this-device-in-windows-1187-solved/"><u>No Drivers Installed for This Device in Windows 11/8/7 [SOLVED]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-response-from-hp-wireless-keyboard-follow-these-proven-methods-to-get-it-up-and-running-again/"><u>No Response From HP Wireless Keyboard? Follow These Proven Methods to Get It Up and Running Again</u></a></li>
-<li><a href="https://driver-error.techidaily.com/pcie-interrupt-gateway-issue-sorted/"><u>PCIe Interrupt Gateway Issue Sorted</u></a></li>
-<li><a href="https://driver-error.techidaily.com/secured-smooth-operation-of-asus-usb20-cam-in-windows-11/"><u>Secured Smooth Operation of ASUS USB2.0 Cam in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-cant-turn-bluetooth-off-in-windows/"><u>Solved: Can't Turn Bluetooth OFF in Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-inverter-related-blinking/"><u>Solving Inverter-Related Blinking</u></a></li>
-<li><a href="https://driver-error.techidaily.com/streamlined-methods-for-faulty-mtp-usbs/"><u>Streamlined Methods for Faulty MTP USBs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/swiftly-solve-bluetooth-connectivity-problems/"><u>Swiftly Solve Bluetooth Connectivity Problems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/understanding-and-resolving-problems-with-outdated-usb-composite-gadgets/"><u>Understanding and Resolving Problems With Outdated USB Composite Gadgets</u></a></li>
-<li><a href="https://driver-error.techidaily.com/understanding-and-solving-device-setup-error-with-code-1-insight/"><u>Understanding and Solving 'Device Setup Error' With Code 1 Insight</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unification-error-fix-windows-1110-recognition/"><u>Unification Error Fix: Windows 11/10 Recognition</u></a></li>
-<li><a href="https://driver-error.techidaily.com/usb-to-serial-restoring-functionality-in-windows/"><u>USB to Serial: Restoring Functionality in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drives-unseen-in-win-1011-resolved-guide/"><u>Drives Unseen in Win 10/11 - Resolved Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/handling-ac1st16dll-errors-a-detailed-guide-to-restore-dll-functionality/"><u>Handling ac1st16.dll Errors: A Detailed Guide to Restore DLL Functionality</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-y78t-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-drivers-wont-work-on-windows-10-discover-the-fix-now/"><u>Qualcomm Atheros Bluetooth Drivers Won't Work on Windows 10? Discover the Fix Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-lenovos-windows-10-bluetooth-woes/"><u>Resolved Lenovo's Windows 10 Bluetooth Woes</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-gaming-solving-gameplay-latency-issues-with-your-second-display-on-windows-11/"><u>Troubleshooting Gaming: Solving Gameplay Latency Issues with Your Second Display on Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-14-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 14? 5 Tips You Must Know</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

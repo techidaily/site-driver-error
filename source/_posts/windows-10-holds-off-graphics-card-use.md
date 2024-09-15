@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Holds Off Graphics Card Use
-date: 2024-09-09T03:10:03.133Z
-updated: 2024-09-10T03:10:03.133Z
+date: 2024-09-11T02:39:32.700Z
+updated: 2024-09-14T17:12:30.505Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Windows 10 Holds Off Graphics Card Use
 thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3d300d00e74bbaf1c0b88604.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows 10 Holds Off Graphics Card Use
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Snap4.jpg)
@@ -27,18 +21,6 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 
  First of all, don’t panic. It’s annoying… but you’re not the only one experiencing this problem. We’ve heard many reports of this error from Windows users. And luckily, it’s a problem you can easily fix by yourself.
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How do I Fix the Application that has been blocked from accessing Graphics hardware?
 
  This small guide covers 2 easy but effective ways to fix the problem.  If you try the first one and it doesn’t work for you, then you’ll hopefully have success with the second one.
@@ -46,12 +28,6 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 1. [**Run System File Checker and DISM commands**](https://bluetties.sjv.io/lxv4pm)
 2. [**Reinstall your display driver**](https://coinrule.sjv.io/rqzonv)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Run System File Checker and DISM commands
 
  This problem may occur if you have corrupted or damaged system files on your Windows computer.
@@ -62,30 +38,12 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7aea748d7a.png)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click**YES** when prompted by the User Account Control.
 
  2) Type**sfc /scannow**  and press **Enter** . Wait for the scanning to be **100%**  completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7af1a7f21e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Type the following commands and press **Enter**  after each.
 
 **DISM.exe /Online /Cleanup-image /Scanhealth**
@@ -112,12 +70,6 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509eed56b24.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. You can update the drivers one by one using the **Update**  button. But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can update all your drivers with one click — **Update All** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509f1432541.jpg)
@@ -135,8 +87,6 @@ Follow these steps to recover your system files:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,54 +96,24 @@ Follow these steps to recover your system files:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-charting-the-evolutionary-trajectory-of-mixed-reality/"><u>[New] Charting the Evolutionary Trajectory of Mixed Reality</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-mastering-lecture-capture-a-comprehensible-methodology-for-mac-users/"><u>[New] In 2024, Mastering Lecture Capture  A Comprehensible Methodology for Mac Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-peeking-into-apeaksofts-2023-screen-recording-features-for-2024/"><u>[New] Peeking Into Apeaksoft’s 2023 Screen Recording Features for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-yourwebcamunlocked-astep-by-steprecordingpath-for-2024/"><u>[New] YourWebcamUnlocked  AStep-by-StepRecordingPath for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-exclusive-twitter-gif-compiler-for-avid-scribes/"><u>2024 Approved  Exclusive Twitter GIF Compiler for Avid Scribes</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-se-2020-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/4-ways-to-record-ps3-gameplay-for-2024/"><u>4 Ways to Record PS3 Gameplay for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-asus-rog-phone-8-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Asus ROG Phone 8 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/decoding-technology-high-performance-insights-from-toms-world/"><u>Decoding Technology: High-Performance Insights From Tom's World</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-zexmte-bluetooth-adapter-driver-windows-1178/"><u>Download Zexmte Bluetooth Adapter Driver (Windows 11/7/8)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-troubleshooting-guide-for-installed-device-drivers-windows-10-8-and-7-issue-solved/"><u>Easy Troubleshooting Guide for Installed Device Drivers: Windows 10, 8 and 7 (ISSUE SOLVED)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-tutorial-for-enabling-safe-mode-and-updating-intel-gpu-software-on-win8-computers/"><u>Easy Tutorial for Enabling Safe Mode & Updating Intel GPU Software on Win8 Computers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-error-45-on-hardware-registry/"><u>Fixed Error 45 on Hardware Registry</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-missing-driver-notifications-compatible-drivers-for-windows-1187/"><u>Fixing Missing Driver Notifications: Compatible Drivers for Windows 11/8/7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-gtx-warton-950-code-43-problem-in-windows-11-comprehensive-guide/"><u>Fixing the GTX Warton 950 'Code 43' Problem in Windows 11 - Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-canon-mf3870-series-printer-installation-software-for-windows-pc/"><u>Free Canon MF3870 Series Printer Installation Software for Windows PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-address-and-fix-driver-validation-problems-during-computer-updates/"><u>How to Address and Fix Driver Validation Problems During Computer Updates</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-itel-p55-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Itel P55 5G Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-critical-process-died-snipped-0x0000007e-blue-screen-issue-on-windows-vista-and-7/"><u>How to Resolve Critical Process Died, Snipped 0X0000007E Blue Screen Issue on Windows Vista and 7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-update-your-idt-software-for-new-hardware-support-and-avoid-common-issues/"><u>How to Update Your IDT Software for New Hardware Support and Avoid Common Issues</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-foremost-zooid-beginnings-guide/"><u>In 2024, Foremost Zooid Beginnings Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-ultimate-guide-to-premium-gopro-case-selection/"><u>In 2024, Ultimate Guide to Premium GoPro Case Selection</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagram-video-loading-boosted-tricks-for-all-devices-for-2024/"><u>Instagram Video Loading Boosted  Tricks for All Devices for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/loading-wudfrd-driver-encountered-problem-id-219/"><u>Loading WudfRd Driver Encountered Problem (ID: 219)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastered-disk-drive-troubleshooting/"><u>Mastered Disk Drive Troubleshooting</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-reverse-video-tutorials/"><u>Mastering Instagram  Reverse Video Tutorials</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-of-the-best-top-10-free-game-download-websites-for-pc-and-android/"><u>New In 2024, Best of the Best Top 10 Free Game Download Websites for PC and Android</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/optimizing-engagement-on-igtv-through-thoughtful-dimension-tweaks/"><u>Optimizing Engagement on IGTV Through Thoughtful Dimension Tweaks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcome-radiosyncrasies-with-ease-windows-style/"><u>Overcome Radiosyncrasies with Ease, Windows Style!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-incompatibilities-fixing-unsupported-device-alerts-in-idt-software-systems/"><u>Overcoming Incompatibilities: Fixing Unsupported Device Alerts in IDT Software Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-not-responding-heres-how-to-get-it-running-in-windows-11/"><u>Qualcomm Atheros Bluetooth Not Responding? Here's How to Get It Running in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-c32-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of C32 on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-qualcomm-atheros-bluetooth-malfunction-on-windows-11-systems/"><u>Resolved: Qualcomm Atheros Bluetooth Malfunction on Windows 11 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revitalized-keyboard-works-flawlessly-post-fix-in-windows-11/"><u>Revitalized Keyboard, Works Flawlessly Post-Fix in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-screen-flip-issues-on-asus-notebooks-a-guide/"><u>Solving Screen Flip Issues on Asus Notebooks - A Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-the-itbm-driver-unavailable-issue-with-simple-steps/"><u>Solving the 'ITBM Driver Unavailable' Issue with Simple Steps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-windows-sm-bus-controller-hurdles/"><u>Solving Windows SM Bus Controller Hurdles</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solution-to-install-essential-device-drivers-missing-on-windows-computers/"><u>Step-by-Step Solution to Install Essential Device Drivers Missing on Windows Computers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-evolution-and-functionality-of-compatible-usb-composite-gadgets-final-answer/"><u>The Evolution and Functionality of Compatible USB Composite Gadgets [FINAL ANSWER]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-ultimate-guide-stop-windows-11s-persistent-bluetooth/"><u>The Ultimate Guide: Stop Windows 11'S Persistent Bluetooth</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-mtp-issues-in-iphones-for-smooth-usb-connectivity/"><u>Troubleshooting and Fixing MTP Issues in iPhones for Smooth USB Connectivity</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-the-absent-cpu-accelerator-driver-on-your-windows-10-machine-solved/"><u>Troubleshooting and Fixing the Absent CPU Accelerator Driver on Your Windows 10 Machine [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/universal-drivers-package-pci-windows-compatible/"><u>Universal Drivers Package (PCI Windows Compatible)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlocking-lenovos-full-potential-in-windows-11/"><u>Unlocking Lenovo's Full Potential in Windows 11</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-how-to-make-memes-on-iphone-and-android/"><u>Updated 2024 Approved How to Make Memes on iPhone and Android</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-upgrade-your-visuals-best-video-quality-improvement-software/"><u>Updated Upgrade Your Visuals Best Video Quality Improvement Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-mystery-of-missing-disk-drive-explained/"><u>Win11: Mystery of Missing Disk Drive Explained</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-1110-fix-pci-controller-loss/"><u>Windows 11/10: Fix PCI Controller Loss</u></a></li>
-<li><a href="https://driver-error.techidaily.com/winning-the-battle-against-broken-qualcomm-atheros-bluetooth-drivers-on-windows-10/"><u>Winning the Battle Against Broken Qualcomm Atheros Bluetooth Drivers on Windows 10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-pixelperfect-screener-chromes-native-tool-for-2024/"><u>[New] PixelPerfect Screener Chrome's Native Tool for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-key-strategies-for-fixing-common-iphone-autocorrect-issues-and-achieving-spelling-perfection/"><u>6 Key Strategies for Fixing Common iPhone AutoCorrect Issues & Achieving Spelling Perfection</u></a></li>
+<li><a href="https://games-able.techidaily.com/before-you-join-linkedin-games-heres-why-to-be-wary/"><u>Before You Join LinkedIn Games - Here's Why to Be Wary</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-omission-of-dvdcd-readers-on-win11/"><u>Fixing Omission of DVD/CD Readers on Win11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-motorola-edge-2023-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Motorola Edge 2023</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-boosting-detail-with-videoleaps-in-camera-zooming/"><u>In 2024, Boosting Detail with VideoLeap's In-Camera Zooming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-burst-life-into-slow-motion-with-top-android-apps/"><u>In 2024, Burst Life Into Slow Motion with Top Android Apps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-14-pro-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 14 Pro to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/masterclass-utilizing-chatgpt-to-improve-efficiency-in-teleconferences/"><u>Masterclass: Utilizing ChatGPT to Improve Efficiency in Teleconferences</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-how-to-install-missing-drivers-on-your-pc-for-windows-11-8-and-7/"><u>Resolved: How to Install Missing Drivers on Your PC for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stop-repeat-uninstalls-fix-nvidia-software-issue/"><u>Stop Repeat Uninstalls: Fix Nvidia Software Issue</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: HelpNeeded - Built-In Wifi and Bluetooth Not Responding on My PC.
-date: 2024-09-09T03:09:57.106Z
-updated: 2024-09-10T03:09:57.106Z
+date: 2024-09-13T21:41:58.672Z
+updated: 2024-09-15T05:05:26.295Z
 tags:
   - win11
   - win10
@@ -21,18 +21,6 @@ Windows 10 users have been complaining that they are**unable to turn off**the Bl
 
 The reason why this is happening is that Microsoft seems to have an odd logic. It will recognize laptops with battery on is the mobile devices, thus with the Bluetooth device toggle available and easy to access. But if you are with a desktop, or sometimes, an all-in-one, chances are Windows 10 will not see your computer as a mobile device, thus it will not let you have access to the Bluetooth devices management panel. Luckily, this is not a difficult question to solve, not at all. Follow the options below to fix your problem fast and easily ![**Option 1: Disable Bluetooth device driver**](https://boody-eco-wear.pxf.io/qyo4oo) [**Option 2: Update Bluetooth device driver**](https://propmoneyinc.pxf.io/q4jzdy) [**Option 3: Modify Registry settings**](https://united.elfm.net/zqobdx)   **Option 1: Disable Bluetooth device driver** 1) Open**Device Manager** by pressing**Windows key**and**R**at the same time. Then type in**devmgmt.msc** and hit**Enter**.
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/devmgmt-msc.png)
 
  2) In**Device Manager** , expand category Bluetooth, then right click the Bluetooth device that you want to temporarily disconnect and choose**Disable** .
@@ -49,20 +37,8 @@ The reason why this is happening is that Microsoft seems to have an odd logic. I
 
 3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of that driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of **_all_**  the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e613efeb2c3.jpg)   **Option 3: Modify Registry settings** **Note**: In this option, we will be making some changes to the Registry. Before doing that, it is very important for you to [**backup**](https://tools.techidaily.com/drivereasy/download/) the registry first, just in case any unwanted error happens. 1) Type**regedit**in the search box and then choose**regedit Run command** from the list of choice.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/regedit-run-command.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 When prompted for administrator permission, just click**Yes**to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uac.png)
@@ -71,34 +47,10 @@ When prompted for administrator permission, just click**Yes**to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/hkey_local_machinesoftwaremicrosoftwindowscurrentversionactioncenterquick-actionsallsystemsettings_device_bluetoothquickaction.png)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) On the right pane, locate and right click the file with the name **Type**and choose**Modify**. ![](https://images.drivereasy.com/wp-content/uploads/2016/11/modify-value.png) 4) Then change the**Value data**from 0 to**1**. Then hit**OK**to save and exit.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/value-data.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Restart your computer after the change.
 
 <ins class="adsbygoogle"
@@ -106,8 +58,6 @@ When prompted for administrator permission, just click**Yes**to continue.
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,42 +68,28 @@ When prompted for administrator permission, just click**Yes**to continue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-transition-to-quietude-guiding-gradual-volume-reduction-in-premiere/"><u>[New] 2024 Approved  Transition to Quietude  Guiding Gradual Volume Reduction In Premiere</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-ultimate-5-speedy-shot-strategies-right-from-your-living-room/"><u>[New] 2024 Approved  Ultimate 5 Speedy Shot Strategies Right From Your Living Room</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unveiling-tv-friendly-practices-for-facebook-lives/"><u>[New] 2024 Approved  Unveiling TV-Friendly Practices for Facebook Lives</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transforming-single-frames-into-motion-narratives/"><u>[New] Transforming Single Frames Into Motion Narratives</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-samsungs-rival-the-leading-cameras-to-match-your-gear-360-needs/"><u>[Updated] In 2024, Samsung’s Rival  The Leading Cameras to Match Your Gear 360 Needs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streamlining-script-conversion-from-text-formats-to-engaging-srt/"><u>[Updated] Streamlining Script Conversion  From Text Formats to Engaging SRT</u></a></li>
-<li><a href="https://driver-error.techidaily.com/warning-bluetooth-mouse-not-initializing-on-pc/"><u>[Warning] Bluetooth Mouse Not Initializing on PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/acemagic-commemorates-may-4th-with-a-special-edition-x-wing-themed-gaming-pc-for-enthusiasts/"><u>AceMagic Commemorates May 4Th with a Special Edition X-Wing Themed Gaming PC for Enthusiasts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-tutorial-for-turning-off-windows-11s-access-control-with-a-personal-identification-number-pin/"><u>Easy Tutorial for Turning Off Windows 11'S Access Control with a Personal Identification Number (PIN)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enhancing-system-bus-control-on-windows-11/"><u>Enhancing System Bus Control on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-no-driver-error-on-your-device-a-step-by-step-process-for-windows-10-8-and-7/"><u>Fix No Driver Error on Your Device – A Step-by-Step Process for Windows 10, 8 & 7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-directx-9-initialization-glitches-instantly/"><u>Fixing DirectX 9 Initialization Glitches Instantly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-qualcomm-atheros-bluetooth-issues-on-windows-10-solutions-inside/"><u>How to Fix Qualcomm Atheros Bluetooth Issues on Windows 10 - Solutions Inside</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-restore-your-qualcomm-atheros-bluetooth-driver-functionality-on-windows-10-problem-solved/"><u>How to Restore Your Qualcomm Atheros Bluetooth Driver Functionality on Windows 10 – Problem Solved</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-tweeting-videos-to-tweenish-animations-for-no-fee/"><u>In 2024, Tweeting Videos to Tweenish Animations for No Fee</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intels-opengl-icd-driver-whats-it-called/"><u>Intel's OpenGL ICD Driver, What's It Called?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/iphone-xs-not-detected-in-windows-server-r2-solved-it-here/"><u>IPhone XS Not Detected in Windows Server R2, Solved It Here</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-correct-driver-match-for-your-hardware/"><u>No Correct Driver Match for Your Hardware</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimize-your-well-being-journey-the-ultimate-guide-to-setting-goals-using-chatgpt/"><u>Optimize Your Well-Being Journey: The Ultimate Guide to Setting Goals Using ChatGPT</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reactivating-silenced-microphoneheadset-on-windows-10/"><u>Reactivating Silenced Microphone/Headset on Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-issues-with-the-most-recent-unrecognized-usb-hardware-on-windows-system/"><u>Resolving Issues With the Most Recent Unrecognized USB Hardware on Windows System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-sm-bus-conflicts-in-win1110/"><u>Resolving Sm Bus Conflicts in Win11/10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restore-your-touchpad-with-proven-driver-fixes/"><u>Restore Your Touchpad with Proven Driver Fixes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revive-missing-seagate-hard-drive-windows-10-guide/"><u>Revive Missing Seagate Hard Drive - Windows 10 Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/securing-smooth-operation-of-nvidia-drivers/"><u>Securing Smooth Operation of Nvidia Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-ethernet-adapter-crash-in-thinkcentre-3000/"><u>Solve Ethernet Adapter Crash in ThinkCentre 3000</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-iphone-driver-is-not-installed-waiting-for-windows-update/"><u>Solved: IPhone Driver Is Not Installed. Waiting for Windows Update</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-fix-for-missing-coprocessor-driver-warning-in-windows-11-systems/"><u>Step-by-Step Fix for 'Missing Coprocessor Driver' Warning in Windows 11 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/steps-to-stabilize-nvidia-graphics-codes/"><u>Steps to Stabilize Nvidia Graphics Codes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/this-is-an-article-for-this-case-the-daylightning-disease-of-the-other-handicaps/"><u>This Is an Article for This Case the Daylightning Disease of the Other Handicaps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-wireless-keyboard-on-pc/"><u>Troubleshooting Guide: Fixing a Non-Responsive Wireless Keyboard on PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-hp-wireless-keyboard-connectivity-issues/"><u>Troubleshooting Guide: Fixing HP Wireless Keyboard Connectivity Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-detected-hardware-not-recognized-by-idt-software/"><u>Troubleshooting Guide: Resolving 'Detected Hardware Not Recognized' By IDT Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-your-dell-webcam-fails-on-a-windows-pc/"><u>Troubleshooting Steps When Your Dell Webcam Fails on a Windows PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-enabling-safe-mode-and-discarding-gpu-drivers-in-windows-8-system/"><u>Troubleshooting Tips: Enabling Safe Mode and Discarding GPU Drivers in Windows 8 System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win1011-optimizing-sm-bus-drivers-efficiency/"><u>Win10/11: Optimizing Sm Bus Drivers Efficiency</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win1011-restoring-stability-in-sm-bus-drivers/"><u>Win10/11: Restoring Stability in SM Bus Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-and-qualcomm-atheros-bluetooth-woes-heres-your-ultimate-fix/"><u>Windows 11 and Qualcomm Atheros Bluetooth Woes? Here's Your Ultimate Fix</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-best-shots-from-the-2022-snowboard-x-games-for-2024/"><u>[Updated] Best Shots From the 2022 Snowboard X Games for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-lut-lovers-delight-complimentary-sets-for-djis-miniair2/"><u>2024 Approved LUT Lovers Delight Complimentary Sets for DJI's Mini/Air2</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-ultimate-guide-to-drone-racers-and-top-5-fpv-drones/"><u>2024 Approved Ultimate Guide to Drone Racers & Top 5 FPV Drones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensuring-reliable-sm-bus-driver-on-windows-1011/"><u>Ensuring Reliable SM Bus Driver on Windows 10/11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hd-drivers-win11-success-story/"><u>HD Drivers: Win11 Success Story</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-your-latest-cam-recognition-issue-post-windows-10-update-solutions-found-fixed/"><u>How to Fix Your Latest Cam Recognition Issue Post Windows 10 Update - Solutions Found [Fixed]</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-stepwise-guide-to-mastering-zoom-on-modern-windows-11/"><u>In 2024, Stepwise Guide to Mastering Zoom on Modern Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/mastering-stream-selection-a-top-10-tips-guide-for-2024/"><u>Mastering Stream Selection A Top 10 Tips Guide for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-drive-operation-anomaly/"><u>Resolved Drive Operation Anomaly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-windows-keystroke-issues-enter-key/"><u>Resolving Windows Keystroke Issues: Enter Key</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-windows-11-on-fresh-storage/"><u>Step-by-Step Guide: Setting Up Windows 11 on Fresh Storage</u></a></li>
+<li><a href="https://media-tips.techidaily.com/stop-youtube-from-taking-over-your-apple-tv-and-android-tv-desktop-backgrounds-simple-solutions-revealed/"><u>Stop YouTube From Taking Over Your Apple TV & Android TV Desktop Backgrounds: Simple Solutions Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/switch-touch-typing-onoff-with-this-windows-tutorial/"><u>Switch Touch Typing On/Off with This Windows Tutorial</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tweak-pointer-efficiency-for-dell-windows/"><u>Tweak Pointer Efficiency for Dell (Windows)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-install-realtek-ethernet-driver-error-resolved/"><u>Win11 Install: Realtek Ethernet Driver Error Resolved</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
