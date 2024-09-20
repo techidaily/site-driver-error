@@ -1,7 +1,7 @@
 ---
 title: Revive Missing Seagate Hard Drive - Windows 10 Guide
-date: 2024-09-07T23:32:50.164Z
-updated: 2024-09-15T03:50:35.615Z
+date: 2024-09-14T20:03:55.977Z
+updated: 2024-09-20T03:37:10.907Z
 tags:
   - win11
   - win10
@@ -101,18 +101,31 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/gpt-guid-partition-table.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right-click it again and click **New simple volume** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/new-simple-volume.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There you go, your Seagate external hard drive should be able to work without any problems.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 4: Assign Driver Letter to Seagate GoFlex**
 
@@ -128,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-drive-letter-and-paths.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) If your external hard drive doesn’t have a letter, press **Add…** to add a letter for this drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/add-a-letter.png)
@@ -142,13 +148,6 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
  5) Assign a letter to it and click**OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/ok.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 5: Disable Fast Startup**
 
@@ -161,10 +160,16 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/hardware-and-sound-600x450.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click **Power Options** .
@@ -175,21 +180,22 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-what-the-power-button-does.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Click   **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable-600x456.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Scroll down to the _**Shutdown** settings_ section and uncheck**Turn off fast startup (recommended)** . Click **Save changes**  . You might need to restart your computer after this change.
@@ -211,20 +217,16 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-a-simple-path-to-enhanced-youtube-sign-ups-create-animated-subscription-bar-using-filmora/"><u>[New] A Simple Path to Enhanced YouTube Sign-Ups - Create Animated Subscription Bar Using Filmora</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-photobooth-recording-stalls-whats-goin-on/"><u>[New] Photobooth Recording Stalls What's Goin' On?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-recording-hulu-episodes-on-multiple-devices/"><u>[New] The Ultimate Guide to Recording Hulu Episodes on Multiple Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-crafting-professionalism-the-best-practices-for-post-upload-editing/"><u>[Updated] In 2024, Crafting Professionalism The Best Practices for Post-Upload Editing</u></a></li>
-<li><a href="https://driver-error.techidaily.com/battleye-initialization-failure-resolving-the-driver-loading-error-code-1450/"><u>BattlEye Initialization Failure - Resolving the Driver Loading Error Code 1450</u></a></li>
-<li><a href="https://driver-error.techidaily.com/blackberry-z10-not-detected-by-debian-wheezy-issue-fixed/"><u>Blackberry Z10 Not Detected by Debian Wheezy - Issue Fixed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-steps-on-how-to-fetch-newest-driver-software-for-the-hp-envy-20/"><u>Easy Steps on How to Fetch Newest Driver Software for the HP Envy 20</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fast-tracking-your-way-through-windows-drivers/"><u>Fast-Tracking Your Way Through Windows Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/functional-reactivation-achieved/"><u>Functional Reactivation Achieved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/persistent-nvidia-driver-auto-uninstall-mystery-solved/"><u>Persistent Nvidia Driver Auto-Uninstall Mystery Solved</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pros-and-cons-gopro-hero-4-vs-drift-ghost-s-racing-edition/"><u>Pros & Cons GoPro Hero 4 Vs. Drift Ghost-S Racing Edition</u></a></li>
-<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-driver-fix-for-windows-11-expert-tips-and-tricks/"><u>Qualcomm Atheros Bluetooth Driver Fix for Windows 11: Expert Tips and Tricks!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-new-frontier-of-internet-exploration-via-ai/"><u>The New Frontier of Internet Exploration via AI</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/utilizing-cookiebot-technology-for-advanced-personalization/"><u>Utilizing Cookiebot Technology for Advanced Personalization</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/virtual-ventures-dive-into-wins11s-game-selection/"><u>Virtual Ventures Dive Into Wins11's Game Selection</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-wander-in-wealthy-web-words-worlds/"><u>[New] In 2024, Wander in Wealthy Web Words Worlds</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nline-video-arena-showdown-who-wins-vimeo-or-giants-like-youtubeplusdailymotion-for-2024/"><u>[New] Online Video Arena Showdown Who Wins – Vimeo or Giants Like YouTube+DailyMotion for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-smartphones-meet-virtual-worlds-top-10-headsets/"><u>[New] Smartphones Meet Virtual Worlds - Top 10 Headsets</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-realme-gt-5-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Realme GT 5 Pro Device SIM</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-mute-a-comprehensive-guide-to-addressing-sound-problems-in-evil-genius-2/"><u>Fixing Mute: A Comprehensive Guide to Addressing Sound Problems in Evil Genius 2</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-infinix-smart-8-plus-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Infinix Smart 8 Plus to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/missing-intel-adapters-cant-install-drivers/"><u>Missing Intel Adapters, Can't Install Drivers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unleashing-classic-psp-gaming-best-ios-emulators-ranked/"><u>Unleashing Classic PSP Gaming Best iOS Emulators Ranked</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlit-asus-keyboard-mystery/"><u>Unlit ASUS Keyboard Mystery</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-wireless-keyboard-issues-heres-what-you-can-do/"><u>Windows Wireless Keyboard Issues? Here's What You Can Do</u></a></li>
 </ul></div>
 

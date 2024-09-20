@@ -1,7 +1,7 @@
 ---
 title: Unlocking Solution to Error Code 52
-date: 2024-09-10T20:19:37.099Z
-updated: 2024-09-15T04:44:32.375Z
+date: 2024-09-18T12:24:46.687Z
+updated: 2024-09-20T05:31:19.829Z
 tags:
   - win11
   - win10
@@ -96,13 +96,6 @@ Here’s how to delete the values:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 3: Enable the ‘Disable driver signature enforcement’ feature
 
  If unfortunately, the above methods both fail to help, you can try to Enable the ‘**Disable driver signature enforcement’** feature to solve the error if your computer is running **Windows 8 and onwards** .
@@ -117,9 +110,23 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97906e91771.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9790a2dce62.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click **Startup Settings** , then **Restart** .
 
@@ -128,19 +135,6 @@ Here’s how you can do it:
  6) Once you see the Startup settings menu, press **F7** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b979135f28d1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your computer would then boot into the normal system. Go to the Device Manager to update the driver for the problem device. You can also try Driver Easy for updating drivers automatically.
 
@@ -166,20 +160,18 @@ Here’s how you can do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-transforming-stored-memories-into-dynamic-fb-livestreams-today-for-2024/"><u>[Updated] Transforming Stored Memories Into Dynamic FB Livestreams Today for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-vital-vittles-visuals-the-7-keys-to-creating-tasty-video-recipes/"><u>2024 Approved Vital Vittles Visuals - The 7 Keys to Creating Tasty Video Recipes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/dolby-advanced-audio-driver-not-working-in-windows-solved/"><u>Dolby Advanced Audio Driver Not Working in Windows [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-malfunction-in-win10-diagnosis-and-repair-solutions/"><u>GTX 950 'Code 43' Malfunction in Win10 - Diagnosis and Repair Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-update-and-protect-your-facebook-login-credentials/"><u>How To Update & Protect Your Facebook Login Credentials</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Realme 11 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/installation-complete-printer-drivers-installed/"><u>Installation Complete: Printer Drivers Installed</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-15-pro-max-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-dead-keys-a-comprehensive-fix-for-broken-wireless-keyboards-on-pcs-with-windows-os/"><u>No More Dead Keys – A Comprehensive Fix for Broken Wireless Keyboards on PCs with Windows OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/optimize-point-touch-response-time-dell-windows-7/"><u>Optimize Point-Touch Response Time (Dell, Windows 7)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/plain-fix-advice-no-current-gfx-with-nvidia/"><u>Plain Fix Advice: No Current GFX with NVIDIA</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reconnecting-devices-after-adb-failure/"><u>Reconnecting Devices After ADB Failure</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tackling-intermittent-nvidia-driver-crashes/"><u>Tackling Intermittent Nvidia Driver Crashes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tackling-windows-10-audio-issues-reinstalling-drivers/"><u>Tackling Windows 10 Audio Issues: Reinstalling Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098766767-quick-resolution-need-help-our-expert-found-a-fix-for-your-gpu-problem-in-gaming/"><u>(Quick-Resolution) Need Help? Our Expert Found a Fix for Your GPU Problem in Gaming.</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-social-network-savants-secret-for-downloading-chats/"><u>[New] The Social Network Savant’s Secret for Downloading Chats</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-transform-gameplay-into-a-masterpiece-using-fbx/"><u>[Updated] In 2024, Transform Gameplay Into a Masterpiece Using FBX</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-instagram-unfollow-detection/"><u>[Updated] Mastering Instagram Unfollow Detection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photoshop-hdr-mastery-from-basics-to-advanced-strategies/"><u>[Updated] Photoshop HDR Mastery From Basics to Advanced Strategies</u></a></li>
+<li><a href="https://driver-error.techidaily.com/complete-guide-updating-and-downloading-drivers-for-your-hp-envy-20-laptop/"><u>Complete Guide: Updating and Downloading Drivers for Your HP Envy 20 Laptop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-invalid-service-inf-details/"><u>Correcting Invalid Service INF Details</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cross-version-windows-hardware-installers/"><u>Cross-Version Windows Hardware Installers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-y36-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo Y36 Phone? Unlock It Now</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-gpt-4-immediate-chatgpt-integration-tips/"><u>Mastering GPT-4: Immediate ChatGPT Integration Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-pick-best-vr-devices-of-the-year/"><u>Prime Pick Best VR Devices of the Year</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105186418-quick-fixes-for-overcoming-the-missing-itbm-driver-error-get-back-online-now/"><u>Quick Fixes for Overcoming the Missing ITBM Driver Error – Get Back Online Now</u></a></li>
 </ul></div>
 

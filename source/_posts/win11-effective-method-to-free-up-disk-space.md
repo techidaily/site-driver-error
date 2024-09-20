@@ -1,7 +1,7 @@
 ---
 title: "Win11: Effective Method to Free Up Disk Space"
-date: 2024-09-09T07:35:09.431Z
-updated: 2024-09-14T17:48:19.554Z
+date: 2024-09-12T17:30:16.554Z
+updated: 2024-09-19T23:14:05.957Z
 tags:
   - win11
   - win10
@@ -117,24 +117,18 @@ If the 100% disk usage problem persists, try the next method, below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Perform a disk check
 
  1) On your keyboard, press**Windows key** and**X** at the same time, then choose**Command Prompt (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b3dfa5842c.png)
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Click **Yes**  at the**User Account Control** prompt.
 
@@ -147,6 +141,13 @@ chkdsk.exe /f /r
  4) Hit**Enter** on your keyboard, then type**Y** to confirm that you’d like to perform the disk check the next time you restart your computer. Please make sure you have closed all of your applications first.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594c79d06cf80.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **IMPORTANT:** Disk check will start the next time you boot your PC and it might take some time to complete (could be a day for some). If, when you restart, you don’t have time to wait for the disk check to complete, you can skip it. You’ll need to reschedule it again, as described above, though.
 
@@ -167,6 +168,13 @@ If the 100% disk usage problem persists, try the next method, below.
  1) On your keyboard, press**Windows key** and**Pause/ Break** key at the same time. Then choose **Advanced System Settings** on the left panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-35-27.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Go to the**Advanced** tab, then click **Settings** .
 
@@ -201,13 +209,6 @@ If the 100% disk usage problem persists, try the next method, below.
 
 ![100% disk usage resolved](https://images.drivereasy.com/wp-content/uploads/2016/08/100-disk-usage-resolved.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the 100% disk usage problem persists, try the next method, below.
 
 ---
@@ -232,13 +233,6 @@ If the 100% disk usage problem persists, try the next method, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Fix your StorAHCI.sys driver
 
 **Note** : A million thanks to our warm-hearted reader Javier for the following solution.
@@ -258,6 +252,13 @@ Here’s how to determine if this is your problem and fix it:
  3) Go to the **Driver** tab and click**Driver Details** . If you can see**storahci.sys** stored in a path of system32 folder, then you are running the inbox AHCI driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b4611132d9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Close the Driver Details window and go to**Details** tab. From the drop-down menu, select **Device Instance Path** . Make note of the path, starting from**VEN\_** .
 
@@ -283,6 +284,13 @@ Here’s how to determine if this is your problem and fix it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 8: Check the health of your disk
 
  You should also check if it’s a hardware problem, which could help you locate the culprit. You don’t need to be a professional to check for disk health, there’re solutions like HD Tune and CrystalDiskInfo in place that can help you find out the stats of your disk.
@@ -304,13 +312,6 @@ Here’s how you can check the disk health easily with HD Tune:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-4.jpg)
 2. Once it completes, check the graph and look for yellow or red blocks. If there’re any red (damaged) blocks, you should consider backing up your data and replace the faulty disk.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-6.jpg)
 3. Again, you can use the drop down menu on the top left corner to scan different disk. It’s recommended you scan all the disk to make sure all your hard drives are in good condiction.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-3.jpg)
@@ -320,13 +321,6 @@ Here’s how you can check the disk health easily with HD Tune:
 ### Fix 9: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -369,16 +363,20 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-unison-choirs-the-duet-experience-on-tiktok/"><u>[New] Unison Choirs The Duet Experience on TikTok</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-360-degree-gearing/"><u>2024 Approved Ultimate 360 Degree Gearing</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-xr-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone XR When Its Locked Within Seconds</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/breaking-barrier-error-52-in-car-systems/"><u>Breaking Barrier Error 52 in Car Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/missing-dvdcd-driver-on-win11-fixed/"><u>Missing DVD/CD Driver on Win11? Fixed!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resurrecting-disabled-windows-10-usb-earbuds/"><u>Resurrecting Disabled Windows 10 USB Earbuds</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/roaming-with-ease-how-to-utilize-your-roku-device-in-accommodations-abroad/"><u>Roaming with Ease: How to Utilize Your Roku Device in Accommodations Abroad</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-your-hcmon-driver-problems-effective-fixes-for-installation-errors/"><u>Solve Your HCMon Driver Problems: Effective Fixes for Installation Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-companyinfo-given-that-i-want-this-question-forensicinia1098-735-kmkm-so-far-as-to-be-able-to-find-out-which-of-these-numbers-in-i-in-order-for-differen3/"><u>The Company_info = 'Given that I Want This Question. Forensicinia,1098-735 Km/Km, so Far as to Be Able to Find Out Which of These Numbers in (I) In Order for Different Languages</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-checklist-for-starting-a-live-feed/"><u>The Ultimate Checklist for Starting a Live Feed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-blades-vivid-palette-now-in-stunning-4k-clarity/"><u>[New] 2024 Approved Blade's Vivid Palette, Now in Stunning 4K Clarity</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-download-your-favorite-videos-without-limits-for-2024/"><u>[Updated] Download Your Favorite Videos Without Limits for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/celebrating-connectivity-wacoms-win/"><u>Celebrating Connectivity: Wacom's Win</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hidef-audio-hub-alert-now-fixed/"><u>HiDef Audio Hub Alert Now Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-screen-flip-up-issue-on-asus-laptop-easy-solutions-for-horizontal-video-display/"><u>How To Fix Screen Flip-Up Issue On Asus Laptop - Easy Solutions for Horizontal Video Display</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-xr-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone XR online without SIM Card?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-streaming-gopro-on-social-platforms-a-step-by-step-guide/"><u>In 2024, Streaming GoPro on Social Platforms A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/latest-cams-not-detected-on-new-pc-version-no-longer-lost-heres-how-i-did-it-answered-fixed/"><u>Latest Cam's Not Detected on New PC Version – No Longer Lost, Here’s How I Did It - Answered [Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconnecting-seagate-hdd-to-windows-11-system/"><u>Reconnecting Seagate HDD to Windows 11 System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-touchpads-right-click-capability-in-windows-11/"><u>Restore Touchpad's Right-Click Capability in Windows 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/skillful-conversion-of-youtube-videos-to-interactive-gif-artistry/"><u>Skillful Conversion of YouTube Videos to Interactive GIF Artistry</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-a78-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo A78 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-12-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 12 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wacoms-joy-all-connected-no-more-struggles/"><u>Wacom's Joy: All Connected, No More Struggles</u></a></li>
 </ul></div>
 

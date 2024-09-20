@@ -1,7 +1,7 @@
 ---
 title: Disabled Issue Eliminated
-date: 2024-09-13T21:47:33.490Z
-updated: 2024-09-15T04:25:47.877Z
+date: 2024-09-14T16:08:14.930Z
+updated: 2024-09-19T16:55:11.485Z
 tags:
   - win11
   - win10
@@ -59,14 +59,14 @@ Uninstalling your device driver is another solution you can try to fix **This de
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ea2541557.jpg)
 2. Restart your computer, and Windows will automatically reinstall the driver for your device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset the BIOS settings
 
@@ -80,27 +80,34 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)  
  Example – CMOS battery on a desktop PC  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)  
  Example – CMOS battery on a laptop
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 6. Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -123,18 +130,13 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-construct-a-careerscape-on-camera-by-critiquing-closets-for-2024/"><u>[New] Construct a Careerscape on Camera by Critiquing Closets for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-visual-storytelling-crafting-compelling-narratives-in-youtube-videos-for-2024/"><u>[Updated] Visual Storytelling Crafting Compelling Narratives in YouTube Videos for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-art-of-influencing-amplifying-instagram-post-reach/"><u>2024 Approved The Art of Influencing Amplifying Instagram Post Reach</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-driver-update-secure-compatible-software-for-windows-7-users/"><u>AMD Radeon Driver Update: Secure Compatible Software for Windows 7 Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-guide-correcting-the-lack-of-printer-or-scanner-drivers-on-your-pc-windows-1087/"><u>Comprehensive Guide: Correcting the Lack of Printer or Scanner Drivers on Your PC (Windows 10/8/7)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-no-supported-software-for-amdintel-graphics-within-premiere-pro/"><u>Fixed: No Supported Software for AMD/Intel Graphics Within Premiere Pro</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-play-7twithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor Play 7Twith/without a PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-excel-2021-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert sign in Excel 2021 files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202901163-league-of-legends-boost-trick-get-your-game-running-faster-now/"><u>League of Legends Boost Trick - Get Your Game Running Faster Now</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/resolving-persistent-valheim-pc-crashes-tips-and-troubleshooting-steps/"><u>Resolving Persistent Valheim PC Crashes - Tips and Troubleshooting Steps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-how-to-adjust-screen-settings-when-videos-appear-inverted-on-your-asus-device/"><u>Step-by-Step Solutions: How to Adjust Screen Settings When Videos Appear Inverted on Your ASUS Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-windows-7s-blue-screen-with-error-0x0000007e/"><u>Troubleshooting Guide: Resolving Windows 7'S Blue Screen with Error 0X0000007E</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-sony-vegas-audio-editor-a-step-by-step-tutorial-for-professionals/"><u>Updated 2024 Approved Sony Vegas Audio Editor A Step-by-Step Tutorial for Professionals</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-androids-best-free-mp3-extraction-tools-for-2024/"><u>[Updated] Android's Best Free MP3 Extraction Tools for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/efficient-techniques-for-clearing-your-iphone-data-a-guide/"><u>Efficient Techniques for Clearing Your iPhone Data – A Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhanced-video-streaming-fixing-asus-webcam-on-win11/"><u>Enhanced Video Streaming: Fixing ASUS Webcam on Win11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-key-strategies-to-stream-and-record-youtube-events/"><u>In 2024, Key Strategies to Stream and Record YouTube Events</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104769659-intel-processor-driver-disappeared-on-windows-11-heres-how-you-can-quickly-restore-it/"><u>Intel Processor Driver Disappeared on Windows 11? Here's How You Can Quickly Restore It</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-pair-and-recognize-your-latest-cam-on-updated-pc-an-expert-guide-completely-solved-fixed/"><u>Re-Pair and Recognize Your Latest Cam on Updated PC: An Expert Guide, Completely Solved ![Fixed]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-essential-tips-for-maintaining-optimal-smartphone-performance/"><u>Top 8 Essential Tips for Maintaining Optimal Smartphone Performance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-gamers-guide-to-live-platforms-1-9-for-2024/"><u>Top Gamer's Guide to Live Platforms #1-#9 for 2024</u></a></li>
 </ul></div>
 

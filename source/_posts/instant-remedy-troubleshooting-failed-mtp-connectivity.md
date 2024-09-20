@@ -1,7 +1,7 @@
 ---
 title: "Instant Remedy: Troubleshooting Failed MTP Connectivity"
-date: 2024-09-12T01:14:08.616Z
-updated: 2024-09-15T03:40:43.099Z
+date: 2024-09-18T10:26:01.973Z
+updated: 2024-09-20T08:40:05.507Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/debugging.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2: Update the MTP USB Driver
 
  If no hardware device is at fault, it’s likely that you’re using the wrong driver altogether.
@@ -70,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afc071708b0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3: Run Command**
 
  If you don’t have the administrator permission to your PC, you’ll fail to use some functions. To fix it:
@@ -79,22 +79,15 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/cmd-run-command-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click **Yes** at the prompted window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57bd596db6742.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In**Command Prompt** window, copy and paste in the following command:
 
@@ -117,21 +110,22 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/regedit-in-start-panel.png)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click**Yes** at the prompt window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/registry-window-uac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Follow the path
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Contro l/Class.**
@@ -142,16 +136,16 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/portable-devices.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) On the right hand pane, you’ll see the**(Default)** value**Portable Devices** on the string.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/portable-devices-default-value.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) If you can see**UpperFilters** here, right-click it and click **delete.**
 
@@ -186,15 +180,18 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensive-io-recorder-explained-for-users/"><u>[New] Comprehensive IO Recorder Explained for Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104231373-demystifying-the-legacy-usb-composite-device-problems-now-fixed/"><u>Demystifying the Legacy USB Composite Device Problems - Now Fixed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/efficient-deathadder-drivers-on-new-windows-version/"><u>Efficient DeathAdder Drivers on New Windows Version</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-reno-8t-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo Reno 8T to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-s24plus-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy S24+ Phone? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-6s-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone 6s Plus and iPad?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-huawei-p60-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Huawei P60? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-unlocking-the-secrets-of-firefoxs-pip-mode/"><u>In 2024, Unlocking the Secrets of Firefox's PIP Mode</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unifying-experience-corrected-asus-webcam-link-to-w10-os/"><u>Unifying Experience: Corrected Asus Webcam Link to W10 OS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unlocking-the-power-of-shareable-internet-humor/"><u>[Updated] 2024 Approved Unlocking the Power of Shareable Internet Humor</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-hues-harmonized-implementing-color-strategies/"><u>2024 Approved Hues Harmonized Implementing Color Strategies</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-f23-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo F23 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-samsung-galaxy-a54-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Samsung Galaxy A54 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cracking-the-code-43-problem-effective-solutions-for-nvidia-gtx-950-on-windows-11-systems/"><u>Cracking the Code 43 Problem: Effective Solutions for NVIDIA GTX 950 on Windows 11 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-device-event-code-219-wudfrd-failure-load/"><u>Device Device Event Code 219: WudfRd Failure Load</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105119398-fix-pci-to-pci-bridge-driver-issue-easy-and-quick/"><u>Fix PCI-to-PCI Bridge Driver Issue Easy and Quick!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-asmtxhcisystem-error-resolving-microsofts-blue-screen-of-death-issues/"><u>Fixing the ASMTXHCISystem Error: Resolving Microsoft's Blue Screen of Death Issues</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-13-pro-max-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 13 Pro Max to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://tools.techidaily.com/stellarinfo/data-recovery-ios/"><u>iPhone Data Recovery Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ipod-video-factory-pro-seamlessly-convert-your-media-to-compatible-formats-for-ipod-ipod-touch-ipod-nano-5-and-more/"><u>IPod Video Factory Pro: Seamlessly Convert Your Media to Compatible Formats for iPod, iPod Touch, iPod Nano 5 & More</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-power-of-dfu-mode-to-resolve-these-5-iphone-malfunctions/"><u>Unlock the Power of DFU Mode to Resolve These 5 iPhone Malfunctions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721101427175-win-printer-drivers-found-and-fixed/"><u>Win Printer Drivers - Found & Fixed!</u></a></li>
 </ul></div>
 

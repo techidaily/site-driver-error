@@ -1,7 +1,7 @@
 ---
 title: Overcoming Broadcom 802.11N Adapter Issues on Windows
-date: 2024-09-08T19:22:19.614Z
-updated: 2024-09-14T20:54:07.130Z
+date: 2024-09-18T05:00:44.760Z
+updated: 2024-09-20T07:30:09.480Z
 tags:
   - win11
   - win10
@@ -91,19 +91,6 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
  Sometimes missing software updates and service packs could cause the Code 10 error in device manager. If you suspect this is the problem, it is suggested that you update and install the latest updates for Windows.
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4: Manually fix corrupted registry entries
 
  One of the causes of the code 10 error could be corrupted registry entries. To fix the problem, you might want to fix the registry entries by yourself. **Note** : To use this method, you must be logged on to Windows as an **administrator** . **IMPORTANT** : Follow the steps in this section carefully. Serious problems might occur if you modify the registry incorrectly. Before you modify it, **[back up the registry for restoration](https://tools.techidaily.com/drivereasy/download/)**  in case problems occur.
@@ -113,15 +100,22 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/ype-regedit-in-the-search-box.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Follow the path   **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\4D36E978-E325-11CE-BFC1-08002BE10318** and locate the the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/hkey_local_machinesystemcurrentcontrolsetcontrolclass4d36e978-e325-11ce-bfc1-08002be10318-600x494.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) On the right side of the pane, see if you can find options **UpperFilters** and **LowerFilters** . If you cannot see either of these two options, this method is not working for you. If these two options are available, right-click them and click **Delete** .
 
@@ -148,15 +142,16 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/avigating-video-uploads-on-youtube-a-comprehensive-tutorial-for-2024/"><u>[New] Navigating Video Uploads on YouTube A Comprehensive Tutorial for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-future-of-photography-at-your-fingertips-with-samsung/"><u>[Updated] 2024 Approved The Future of Photography at Your Fingertips with Samsung</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-enhance-airdrop-connectivity-tips-for-iphone-ipad-and-mac-users/"><u>[Updated] Enhance AirDrop Connectivity Tips for iPhone, iPad & Mac Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-microvid-recorder-critique-with-alternatives-for-2024/"><u>[Updated] MicroVid Recorder Critique with Alternatives for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-a34-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy A34 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/elite-facebook-file-fetcher-for-firefox-users/"><u>Elite Facebook File Fetcher For Firefox Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-code-43-errors-for-nvidia-geforce-gtx-950-on-windows-10-platform-guide/"><u>Fixing Code 43 Errors for NVIDIA GeForce GTX 950 on Windows 10 Platform [Guide]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/logitech-unifying-receiver-not-detected-in-windows-1110-solved/"><u>Logitech Unifying Receiver Not Detected in Windows 11/10 [Solved]</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/steps-to-ensure-whole-sound-in-fb-video-playbacks/"><u>Steps to Ensure Whole Sound in FB Video Playbacks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/universal-pci-drivers-bundle-windows-edition/"><u>Universal PCI Drivers Bundle: Windows Edition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-premier-screener-for-capturing-high-quality-videos/"><u>[New] 2024 Approved Premier Screener for Capturing High-Quality Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-best-mp4-player-you-should-know/"><u>[New] Best MP4 Player You Should Know</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/iscovering-6-distinct-icon-and-logo-providers/"><u>[New] Discovering 6 Distinct Icon and Logo Providers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-visionary-to-reality-the-4k-showcase-of-lgs-digital-cinema-31mu97-b/"><u>[New] From Visionary to Reality The 4K Showcase of LG's Digital Cinema 31MU97-B</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-spacious-mini-cities-with-oriental-flair/"><u>[New] Spacious Mini Cities with Oriental Flair</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-instagram-profit-the-ultimate-strategy-blueprint/"><u>2024 Approved Mastering Instagram Profit The Ultimate Strategy Blueprint</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breakthrough-strategies-for-rapid-fb-media-delivery/"><u>Breakthrough Strategies for Rapid FB Media Delivery</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-the-aged-usb-composite-apparatus-resolved-challenges-and-expert-advice/"><u>Decoding the Aged USB Composite Apparatus: Resolved Challenges and Expert Advice</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/easily-access-igtv-content-download-guide-for-pcmac-users/"><u>Easily Access IGTV Content Download Guide for PC/Mac Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-correct-the-improper-configuration-issue-in-devices-error-101-solution/"><u>How to Correct the 'Improper Configuration' Issue in Devices (Error 101 Solution)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-the-legacy-of-usb-composite-devices-a-detailed-explanation/"><u>Understanding the Legacy of USB Composite Devices - A Detailed Explanation</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revived Device Manager - Error 48
-date: 2024-09-12T05:31:26.814Z
-updated: 2024-09-14T17:32:25.220Z
+date: 2024-09-17T05:15:09.058Z
+updated: 2024-09-20T00:33:19.314Z
 tags:
   - win11
   - win10
@@ -68,8 +68,30 @@ Or
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-drivers-with-Driver-Easy.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and [manually install them, the normal Windows way](https://tools.techidaily.com/drivereasy/download/) .)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your PC and check if this issue persists.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -90,24 +112,24 @@ Or
 ![Turn Windows features on or off](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-Windows-features-on-or-off.jpg)
 3. In the Window that pops up,**uncheck the box** next to**Hyper-V** and click**OK** to disable the Hyper-V feature.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable the Hyper-V feature](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Hyper-V-feature.jpg)
 4. Restart Windows 10 to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this fix didn’t work, try the next fix to turn off Memory Integrity.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Turn off Memory Integrity in Core isolation
 
@@ -122,27 +144,14 @@ To turn off Memory Integrity, simply follow the steps below:
 2. **Turn off** the toggle under**Memory integrity** .  
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn off Memory integrity](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Memory-integrity.jpg)
 3. Restart Windows 10 and reinstall the latest driver of the problematic device.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 See if this fix works. If not, try the next fix, below.
 
@@ -157,13 +166,6 @@ See if this fix works. If not, try the next fix, below.
 **`sfc /scannow`**  
 ![run system file checker](https://images.drivereasy.com/wp-content/uploads/2021/04/run-system-file-checker.jpg)
 3. Close the Command Prompt window after the process ie complete.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **To run the Windows Memory Diagnostic Test:**
 
@@ -200,20 +202,21 @@ See if this fix works. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-ae-text-styles-the-ultimate-selection-for-2024/"><u>[New] AE Text Styles The Ultimate Selection for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-secrets-to-dynamic-and-effective-igtv-covers/"><u>[New] Secrets to Dynamic & Effective IGTV Covers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-intel-high-definition-audio-driver-issues-on-windows-11/"><u>[Solved] Intel High Definition Audio Driver Issues on Windows 11</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-infinite-quit-strategy-for-youtube-short-video-clips-for-2024/"><u>[Updated] Infinite Quit Strategy for YouTube Short Video Clips for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-getting-ahead-with-snapchats-latest-features/"><u>2024 Approved Getting Ahead with Snapchat's Latest Features</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comparative-analysis-of-ar-stickers-focusing-on-google-for-2024/"><u>Comparative Analysis of AR Stickers, Focusing on Google for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/download-samsungs-linux-compatibility/"><u>Download Samsung's Linux Compatibility</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-step-by-step-approach-to-mtp-driver-repair/"><u>Easy Step-by-Step Approach to MTP Driver Repair</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-insights-why-microsoft-surfaces-ergonomic-keyboard-stands-out-in-quality/"><u>Expert Insights: Why Microsoft Surface's Ergonomic Keyboard Stands Out in Quality</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-hd-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Infinix Smart 8 HD Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://driver-error.techidaily.com/missing-cd-readers-a-guide-for-windows-users/"><u>Missing CD Readers: A Guide for Windows Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/smooth-transition-to-updated-deathadder-drivers/"><u>Smooth Transition to Updated DeathAdder Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-tackling-the-missing-coprocessor-driver-error-on-windows-11-systems/"><u>Solved! Tackling The Missing Coprocessor Driver Error on Windows 11 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlocking-secrets-to-preventing-nvidia-failsafe/"><u>Unlocking Secrets to Preventing Nvidia Failsafe</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrading-your-game-mouse-effortless-installation-widow-7-style/"><u>Upgrading Your Game Mouse - Effortless Installation Widow 7 Style</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-premier-mp4-broadcast-converter/"><u>[Updated] 2024 Approved Premier MP4 Broadcast Converter</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/debunking-myth-no-legitimate-chatgpt-app-for-windows-beware-of-fake-versions/"><u>Debunking Myth: No Legitimate ChatGPT App for Windows - Beware of Fake Versions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/directx-9-hurdles-a-swift-fix-guidebook/"><u>DirectX 9 Hurdles: A Swift Fix Guidebook</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-incompatible-hardware-detection-warnings-on-idt-systems/"><u>How to Fix Incompatible Hardware Detection Warnings on IDT Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-update-or-reinstall-your-coprocessor-driver-on-windows-10-issue-resolved/"><u>How to Update or Reinstall Your Coprocessor Driver on Windows 10 [Issue Resolved]</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-elevating-your-videos-visual-impact-youtubthumbnail-design-on-macos/"><u>In 2024, Elevating Your Video's Visual Impact YoutubThumbnail Design on macOS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unleashing-imagination-the-top-lego-stop-motion-makers/"><u>In 2024, Unleashing Imagination The Top Lego Stop Motion Makers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-10-free-animated-logo-creators-for-stunning-brand-identities-for-2024/"><u>New Top 10 Free Animated Logo Creators for Stunning Brand Identities for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-movement-the-ghost-in-your-mouse-on-windows/"><u>No Movement: The Ghost in Your Mouse on Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/premier-gamers-streaming-software-for-2024/"><u>Premier Gamers' Streaming Software for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/razers-latest-gem-a-comprehensive-review-of-the-revolutionary-wi-fi-headset-for-gamers/"><u>Razer's Latest Gem: A Comprehensive Review of the Revolutionary Wi-Fi Headset for Gamers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smoothed-out-data-errors-in-drives/"><u>Smoothed Out Data Errors in Drives</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-non-functional-usb-audio-device-issue-in-win10/"><u>Solve Non-Functional USB Audio Device Issue in WIN10</u></a></li>
 </ul></div>
 

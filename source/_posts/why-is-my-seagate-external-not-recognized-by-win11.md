@@ -1,7 +1,7 @@
 ---
 title: Why Is My Seagate External Not Recognized by Win11?
-date: 2024-09-13T16:50:41.127Z
-updated: 2024-09-14T22:51:50.993Z
+date: 2024-09-13T21:47:19.294Z
+updated: 2024-09-20T07:51:16.542Z
 tags:
   - win11
   - win10
@@ -87,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apply-and-ok.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 3: Partition the Hard Drive**
 
  1) On your keyboard, press the**Windows logo key** and**S** at the same time. Type**apps: computer management** in and click **Computer Management** .
@@ -101,22 +94,15 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-computer-management.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, click**Disk Management** . Right-click **Seagate Central driver** , and click **Delete Volume…** . This will**delete all** the files from your Seagate hard drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/disk-management.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) You should be able to see **Disk 1** is available. Right-click it and click **GPT (GUID Partition Table)** .
 
@@ -138,19 +124,6 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57f9f9701ebe7-600x294.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click it and click **Change Drive Letter and Paths…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-drive-letter-and-paths.png)
@@ -163,12 +136,34 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/ok.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 5: Disable Fast Startup**
 
  1) On your keyboard, press the**Windows logo key**  and click **Control Panel.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/control-panel.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Hardware and Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/hardware-and-sound-600x450.jpg)
@@ -181,16 +176,16 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-what-the-power-button-does.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Click   **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable-600x456.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Scroll down to the _**Shutdown** settings_ section and uncheck**Turn off fast startup (recommended)** . Click **Save changes**  . You might need to restart your computer after this change.
 
@@ -211,15 +206,16 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-enhance-your-beats-free-luts-galore-on-mini-and-air-series/"><u>[New] 2024 Approved Enhance Your Beats - Free LUTS Galore on Mini & Air Series</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tech-support-bluetooth-mouse-refuses-to-communicate-with-os/"><u>[Tech Support] Bluetooth Mouse Refuses to Communicate with OS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-foundations-of-video-editing-in-the-gaming-world-for-2024/"><u>[Updated] Foundations of Video Editing in the Gaming World for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-highlighting-the-top-video-creation-apps-iphone-android-for-2024/"><u>[Updated] Highlighting the Top Video Creation Apps (iPhone, Android) for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-brighten-your-surroundings-with-21plus-collage-wonders/"><u>[Updated] In 2024, Brighten Your Surroundings with 21+ Collage Wonders</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-y36i-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo Y36i to iPhone | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-the-software-for-your-logitech-m510-mouse-a-user-friendly-manual/"><u>How to Update the Software for Your Logitech M510 Mouse: A User-Friendly Manual</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-audio-drivers-woes-in-win11/"><u>Overcoming Audio Drivers Woes in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reunion-rocks-all-wacom-devices-connected/"><u>Reunion Rocks: All Wacom Devices Connected</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-ai-prompt-platforms-the-ultimate-list-of-markets/"><u>Top 7 AI Prompt Platforms: The Ultimate List of Markets</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-cant-run-geforce-experience-games-smoothly-heres-how-we-resolved-it/"><u>[Fix] Can't Run GeForce Experience Games Smoothly - Here’s How We Resolved It</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exploring-media-top-ranking-camera-apps-for-iphonesandroid-devices/"><u>[New] In 2024, Exploring Media Top-Ranking Camera Apps for iPhones/Android Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-5-low-cost-solar-panels-powering-your-tech/"><u>[Updated] In 2024, Top 5 Low-Cost Solar Panels Powering Your Tech</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-free-easy-and-fast-youtubes-best-subtitle-getters/"><u>2024 Approved Free, Easy and Fast YouTube's Best Subtitle Getters</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-7-exclusive-tools-to-surpass-chatgpt-in-coding/"><u>Discover 7 Exclusive Tools to Surpass ChatGPT in Coding</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-for-enabling-safe-mode-and-disabling-graphic-card-software-in-win8-systems/"><u>Expert Tips for Enabling Safe Mode and Disabling Graphic Card Software in Win8 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-usb-cannot-be-installed-problem-due-to-access-issues/"><u>How to Fix the ‘USB Cannot Be Installed’ Problem Due to Access Issues</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-burn-photos-to-dvd-with-transitions-and-music/"><u>New 2024 Approved How to Burn Photos to DVD with Transitions and Music</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-functionality-to-ethernet-controller-in-new-os-version/"><u>Restoring Functionality to Ethernet Controller in New OS Version</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-connectivity-how-to-make-sure-you-never-experience-a-bluescreen-again-with-fixed-bluetooth-issues-guide-inside/"><u>Smooth Connectivity - How to Make Sure You Never Experience a Bluescreen Again with Fixed Bluetooth Issues [Guide Inside]</u></a></li>
 </ul></div>
 

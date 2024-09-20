@@ -1,7 +1,7 @@
 ---
 title: "Optical Drive Missing: Windows 11 Issue Addressed"
-date: 2024-09-10T21:02:40.361Z
-updated: 2024-09-14T21:22:14.742Z
+date: 2024-09-13T04:35:51.696Z
+updated: 2024-09-20T02:46:37.164Z
 tags:
   - win11
   - win10
@@ -105,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Follow the path:
@@ -120,31 +120,31 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Create a new**Controller0** key under**atapi** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -165,14 +165,18 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-online-hubs-capturing-sky-in-high-dynamic-range/"><u>[New] Best Online Hubs Capturing Sky in High Dynamic Range</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-essence-of-timelessness-instagrams-slow-motion-guide-for-2024/"><u>[Updated] The Essence of Timelessness Instagram's Slow-Motion Guide for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/breakdown-the-broadcasting-barrier-easy-windows-pc-guide-to-live-tv-recording-for-2024/"><u>Breakdown the Broadcasting Barrier Easy Windows PC Guide to Live TV Recording for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-disconnected-drives-in-windows-1110/"><u>How to Fix Disconnected Drives in Windows 11/10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-captivating-creativity-with-advanced-tiktok-filters/"><u>In 2024, Captivating Creativity with Advanced TikTok Filters</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-the-art-of-elan-pad-control-on-latest-windows-11/"><u>Mastering the Art of Elan Pad Control on Latest Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/rediscovering-hidden-cds-and-dvds/"><u>Rediscovering Hidden CDs & DVDs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721101110804-samsung-galaxy-tab-a5-not-recognized-by-kde-neon-solution-here/"><u>Samsung Galaxy Tab A5 Not Recognized by KDE Neon, Solution Here!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/simplifying-age-verification-on-tiktok-accounts-for-2024/"><u>Simplifying Age Verification on TikTok Accounts for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-detailed-study-of-frozen-delights-playback-gadgets-for-2024/"><u>[Updated] Detailed Study of Frozen Delights Playback Gadgets for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-spectacular-imagery-narrative-engine/"><u>[Updated] Spectacular Imagery Narrative Engine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/deciphering-and-fixing-incompatible-input-warnings-on-your-screen-display/"><u>Deciphering and Fixing Incompatible Input Warnings on Your Screen Display</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dissecting-the-graphics-presentation-of-ms-bda/"><u>Dissecting the Graphics Presentation of MS BDA</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhance-your-livestreams-with-manycam-advanced-features-for-professional-virtual-webcams/"><u>Enhance Your Livestreams with ManyCam: Advanced Features for Professional Virtual Webcams</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-45-dealt-with-efficiently/"><u>Error 45: Dealt with Efficiently</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-installation-problems-with-the-hcmon-driver-error/"><u>Fixing Installation Problems with the Hcmon Driver Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-alert-bcm20702a0-not-available/"><u>Hardware Alert: BCM20702A0 Not Available</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://driver-error.techidaily.com/simplified-fixes-for-the-itbm-driver-not-accessible-problem/"><u>Simplified Fixes for the 'ITBM Driver Not Accessible' Problem</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-gopro-hero-series-comparison/"><u>The GoPro Hero Series Comparison</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-the-gtx-ninescore-error-code-in-windows-eleven-a-complete-solution/"><u>Troubleshooting the GTX Ninescore Error Code in Windows Eleven - A Complete Solution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-turing-test-is-beating-it-achievable-in-modern-ai/"><u>Understanding the Turing Test: Is Beating It Achievable in Modern AI?</u></a></li>
 </ul></div>
 

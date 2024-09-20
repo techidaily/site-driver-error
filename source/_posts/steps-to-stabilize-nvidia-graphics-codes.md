@@ -1,7 +1,7 @@
 ---
 title: Steps to Stabilize Nvidia Graphics Codes
-date: 2024-09-11T17:57:48.233Z
-updated: 2024-09-14T22:39:26.389Z
+date: 2024-09-13T03:22:57.309Z
+updated: 2024-09-19T16:47:14.022Z
 tags:
   - win11
   - win10
@@ -89,16 +89,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In Nvidia Control Panel, click**Manage 3D settings** , then in the right panel, choose**Prefer maximum performance** in Power management mode and**Off** for Vertical sync accordingly. Once done, click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-225.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Close the window.
 
@@ -107,10 +107,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable antivirus programs temporarily
@@ -130,6 +130,13 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
  Once you’ve updated DirectX, check to see if the driver keeps crashing problem is solved. If yes, then great! If it’s still no joy, please move on to**Fix 6** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -154,13 +161,6 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -176,10 +176,10 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Yes** when prompted to confirm.
@@ -223,20 +223,20 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-craft-compelling-content-essential-youtube-short-video-edits-for-2024/"><u>[New] Craft Compelling Content Essential Youtube Short Video Edits for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/outube-playlists-reconfigured-step-by-step-instructions-for-2024/"><u>[New] YouTube Playlists Reconfigured Step-by-Step Instructions for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-enhance-engagement-with-these-essential-freegame-hashtags-for-youtube/"><u>[Updated] Enhance Engagement with These Essential FreeGame Hashtags for YouTube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-power-of-irecorder-in-action/"><u>2024 Approved The Power of iRecorder in Action</u></a></li>
-<li><a href="https://driver-error.techidaily.com/controller-alert-ideport0-fault-detected/"><u>Controller Alert: Ideport0 Fault Detected</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-truthgpt-elon-musks-new-frontier-in-artificial-intelligence/"><u>Decoding TruthGPT: Elon Musk's New Frontier in Artificial Intelligence</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-error-on-windows-11-solved/"><u>GTX 950 Code 43 Error on Windows 11 [Solved]</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-note-30-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Note 30 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-windows-11-coprocessor-missing-issue-solutions-guide/"><u>How to Fix Windows 11 Coprocessor Missing Issue - Solutions Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Zero 5G 2023 Turbo</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reversing-unstoppable-bluetooth-on-win11/"><u>Reversing Unstoppable Bluetooth on WIN11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/understanding-task-manager-full-disk-warning/"><u>Understanding Task Manager Full Disk Warning</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-hello-isnt-available-on-this-device-on-windows-10-solved/"><u>Windows Hello Isn’t Available on This Device on Windows 10 [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wudfrd-loading-failure-device-error-id-219/"><u>WudfRd Loading Failure - Device Error ID 219</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-how-to-embed-a-youtube-video-in-powerpoint-4-methods/"><u>[New] 2024 Approved How to Embed a YouTube Video in PowerPoint [4 Methods]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explaining-instagrams-spontaneous-video-pauses/"><u>2024 Approved Explaining Instagram's Spontaneous Video Pauses</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-cinematography-using-luts-for-polished-colors/"><u>2024 Approved Perfecting Cinematography Using Luts for Polished Colors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/harmonize-dell-touchpad-in-win7/"><u>Harmonize Dell Touchpad in Win7</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-repair-your-windows-windows-11-bluetooth-connection-fixing-qualcomm-atheros-drivers/"><u>How to Repair Your Windows ([Windows) 11 Bluetooth Connection: Fixing Qualcomm Atheros Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-not-working-solved/"><u>HP Wireless Keyboard Not Working [Solved]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Infinix GT 10 Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximize-zooms-value-triad-of-conversion-mastery/"><u>Maximize Zoom's Value Triad of Conversion Mastery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-website-visibility-strategies-for-effective-hyperlinking-and-interactive-comment-sections/"><u>Maximizing Website Visibility: Strategies for Effective Hyperlinking and Interactive Comment Sections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-your-systems-kickstart-area/"><u>Navigating to Your System's Kickstart Area</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-enex-driver-loading-problems-in-win11/"><u>Overcoming eNEX Driver Loading Problems in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-and-windows-11-effective-solutions-for-faulty-bluetooth-drivers/"><u>Qualcomm Atheros & Windows 11: Effective Solutions for Faulty Bluetooth Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-for-detected-hardware-not-compatible-with-current-device-management-suite/"><u>Solution for 'Detected Hardware Not Compatible with Current Device Management Suite'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-bsod-error-0x0000007e-on-microsofts-windows-7/"><u>Step-by-Step Solution for BSOD Error 0X0000007E on Microsoft's Windows 7</u></a></li>
 </ul></div>
 

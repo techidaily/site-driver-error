@@ -1,7 +1,7 @@
 ---
 title: Seagate External Drive Detection Issue Solved in Win11
-date: 2024-09-12T02:49:14.741Z
-updated: 2024-09-14T19:36:36.741Z
+date: 2024-09-13T06:47:09.569Z
+updated: 2024-09-20T04:09:02.628Z
 tags:
   - win11
   - win10
@@ -87,29 +87,22 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apply-and-ok.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 3: Partition the Hard Drive**
 
  1) On your keyboard, press the**Windows logo key** and**S** at the same time. Type**apps: computer management** in and click **Computer Management** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-computer-management.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, click**Disk Management** . Right-click **Seagate Central driver** , and click **Delete Volume…** . This will**delete all** the files from your Seagate hard drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/disk-management.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) You should be able to see **Disk 1** is available. Right-click it and click **GPT (GUID Partition Table)** .
 
@@ -120,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/new-simple-volume.jpg)
 
  There you go, your Seagate external hard drive should be able to work without any problems.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 4: Assign Driver Letter to Seagate GoFlex**
 
@@ -135,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-drive-letter-and-paths.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) If your external hard drive doesn’t have a letter, press **Add…** to add a letter for this drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/add-a-letter.png)
@@ -142,13 +149,6 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
  5) Assign a letter to it and click**OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/ok.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 5: Disable Fast Startup**
 
@@ -160,31 +160,31 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/hardware-and-sound-600x450.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Click **Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Click   **Change what the power button does.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-what-the-power-button-does.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Click   **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable-600x456.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Scroll down to the _**Shutdown** settings_ section and uncheck**Turn off fast startup (recommended)** . Click **Save changes**  . You might need to restart your computer after this change.
 
@@ -205,18 +205,19 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-elitescreensnap-for-windows-xxp/"><u>[New] 2024 Approved EliteScreenSnap for Windows X/XP</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-masterful-monikers-a-compendium-of-cool-channel-titles/"><u>[New] In 2024, Masterful Monikers A Compendium of Cool Channel Titles</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-ways-to-preserve-and-log-youtube-live-streams/"><u>[Updated] Top Ways to Preserve and Log YouTube Live Streams</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-clicks-big-grins-the-kinemaster-way/"><u>2024 Approved Quick Clicks, Big Grins The KineMaster Way</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/acceso-ahora-disponible-codificador-de-hardware-software-av1-listo-para-descarga/"><u>Acceso Ahora Disponible: Codificador De Hardware / Software AV1 Listo Para Descarga</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnose-and-repair-slimbooks-wi-fi-issue/"><u>Diagnose and Repair SlimBook's Wi-Fi Issue</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-nokia-105-classic-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Nokia 105 Classic Phones? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-se-2022-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone SE (2022) to Android | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-video-mastery-effortless-mp4-extraction/"><u>In 2024, FB Video Mastery Effortless MP4 Extraction</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keyboard-error-in-win-10-logic/"><u>Keyboard Error in Win 10 Logic</u></a></li>
-<li><a href="https://driver-error.techidaily.com/removing-autostart-of-win11s-bluetooth/"><u>Removing Autostart of Win11's Bluetooth</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/step-by-step-for-powerpoint-voiceover-excellence-for-2024/"><u>Step-by-Step for PowerPoint Voiceover Excellence for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unsighted-cddvd-in-win11-solution-found/"><u>Unsighted CD/DVD in Win11, Solution Found</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-navigating-through-samsungs-digital-picture-editing-app/"><u>[New] In 2024, Navigating Through Samsung's Digital Picture Editing App</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unleashing-creative-potential-in-minecraft-with-circles-and-spheres-for-2024/"><u>[New] Unleashing Creative Potential in Minecraft with Circles & Spheres for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-creator-to-business-transforming-your-youtube-experience/"><u>[Updated] 2024 Approved From Creator to Business Transforming Your YouTube Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-struggles-with-resource-allocation/"><u>Device Struggles with Resource Allocation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-broadcom-80211n-wi-fi-on-windows-solved/"><u>Fixing Broadcom 802.11N Wi-Fi on Windows [Solved]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-discord-blackout-solutions-to-overcome-screen-sharing-issues/"><u>Fixing Discord Blackout: Solutions to Overcome Screen Sharing Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gfx-analysis-the-role-of-ms-bda/"><u>GFX Analysis: The Role of MS BDA</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-v30t-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme V30T Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-compress-iphone-videos-how-to-shorten-without-quality-loss/"><u>In 2024, Compress iPhone Videos How to Shorten Without Quality Loss</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-how-to-install-missing-drivers-on-windows-10-8-and-7/"><u>Resolved: How to Install Missing Drivers on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/updating-razer-deathadder-bios-in-win10-a-step-by-step-guide/"><u>Updating Razer Deathadder BIOS in Win10: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

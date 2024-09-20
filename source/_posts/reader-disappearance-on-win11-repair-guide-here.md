@@ -1,7 +1,7 @@
 ---
 title: Reader Disappearance on Win11 - Repair Guide Here
-date: 2024-09-12T03:15:31.200Z
-updated: 2024-09-14T19:22:22.481Z
+date: 2024-09-13T08:02:11.301Z
+updated: 2024-09-20T02:50:23.710Z
 tags:
   - win11
   - win10
@@ -96,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **4: Create a registry subkey**
 
  If you can’t see**UpperFilters** and**LowerFilters** in the Registry pane, please follow the steps below.
@@ -111,28 +104,28 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Follow the path:
 **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\atapi\\**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd3791d37b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Create a new**Controller0** key under**atapi** key.
 
@@ -145,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -165,18 +165,13 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-identifying-top-video-capturing-tools-for-win11-for-2024/"><u>[New] Identifying Top Video Capturing Tools for Win11 for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/asterful-guide-to-professional-online-etiquette-on-youtube/"><u>[New] Masterful Guide to Professional Online Etiquette on YouTube</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-cant-find-the-name-of-intel-icd-opengl-driver/"><u>[SOLVED] Can't Find the Name of Intel ICD OpenGL Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-the-third-party-inf-does-not-contain-digital-signature-information/"><u>[SOLVED] The Third-Party INF Does Not Contain Digital Signature Information</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-android-slow-motion-video-magic-for-2024/"><u>[Updated] The Ultimate Guide to Android Slow Motion Video Magic for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-biometric-battleground-face-id-vs-samsungs-facial-identification/"><u>2024 Approved Biometric Battleground Face ID Vs. Samsung's Facial Identification</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bootloader-interrupt-process-improved/"><u>Bootloader Interrupt Process Improved</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/evaluating-the-value-of-minecraft-realms-for-players/"><u>Evaluating the Value of Minecraft Realms for Players</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-science-of-visual-appeal-crafting-stunning-youtube-shorts-templates/"><u>In 2024, The Science of Visual Appeal Crafting Stunning YouTube Shorts Templates</u></a></li>
-<li><a href="https://driver-error.techidaily.com/navigate-the-bios-tweaking-maze-razer-deathadder-in-windows-10/"><u>Navigate the BIOS Tweaking Maze: Razer Deathadder in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-issues-when-your-final-usb-peripheral-fails-and-windows-ignores/"><u>Resolving Issues When Your Final USB Peripheral Fails & Windows Ignores</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-unending-appeal-of-facebook-6-insights-for-users/"><u>The Unending Appeal of Facebook: 6 Insights for Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/confirmed-device-manager-crisis-averted/"><u>[CONFIRMED]: Device Manager Crisis Averted</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-launching-a-channel-heres-what-you-need/"><u>[New] 2024 Approved Launching a Channel? Here’s What You Need</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-high-definition-vision-saving-tech-for-2024/"><u>[Updated] High Definition Vision Saving Tech for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-discovering-new-dimensions-making-video-from-photographic-slices-with-pixiz/"><u>[Updated] In 2024, Discovering New Dimensions Making Video From Photographic Slices with Pixiz</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-ensuring-accurate-earnings-tracking-for-creators/"><u>2024 Approved Ensuring Accurate Earnings Tracking for Creators</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bypassing-the-access-denied-error-on-windows-for-successful-usb-installation/"><u>Bypassing the Access Denied Error on Windows for Successful USB Installation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098264911-fixing-iphone-usb-device-driver-problems-successful-guidance/"><u>Fixing iPhone USB Device Driver Problems - Successful Guidance!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-viewing-choice-leveraging-chatgpts-power/"><u>Next Viewing Choice: Leveraging ChatGPT's Power</u></a></li>
 </ul></div>
 

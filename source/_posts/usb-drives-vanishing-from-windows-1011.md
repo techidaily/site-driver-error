@@ -1,7 +1,7 @@
 ---
 title: USB Drives Vanishing From Windows 10/11
-date: 2024-09-11T04:06:11.616Z
-updated: 2024-09-14T20:03:17.253Z
+date: 2024-09-18T07:14:58.348Z
+updated: 2024-09-20T00:43:54.863Z
 tags:
   - win11
   - win10
@@ -110,36 +110,36 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd3791d37b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Create a new**Controller0** key under**atapi** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
@@ -165,18 +165,16 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-high-res-horizon-a-comprehensive-look-at-the-sony-xperia-xz/"><u>[New] In 2024, High-Res Horizon - A Comprehensive Look at the Sony Xperia XZ</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-exploring-easy-to-use-game-recording-and-edit-software/"><u>[Updated] 2024 Approved Exploring Easy-to-Use Game Recording & Edit Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-complete-thumbnail-playbook-from-creation-to-analysis/"><u>[Updated] The Complete Thumbnail Playbook From Creation to Analysis</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ax201-unresponsive-to-wi-fi-6-networks-now-fixed/"><u>Ax201 Unresponsive to Wi-Fi 6 Networks, Now Fixed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103291054-bypass-the-frustrating-itbm-driver-not-available-message-quick-and-effective-fixes-inside/"><u>Bypass the Frustrating 'ITBM Driver Not Available' Message – Quick and Effective Fixes Inside!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/charting-course-out-of-drivers-dilemma-52/"><u>Charting Course Out of Driver's Dilemma #52</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conquer-your-spreadsheets-mastering-excel-with-chatgpt/"><u>Conquer Your Spreadsheets: Mastering Excel with ChatGPT</u></a></li>
-<li><a href="https://driver-error.techidaily.com/dealing-with-unauthorized-access-issues-in-usb-device-setup-and-configuration/"><u>Dealing with Unauthorized Access Issues in USB Device Setup and Configuration</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/explore-your-watching-tendencies-the-ultimate-six-youtuber-categorization-challenges/"><u>Explore Your Watching Tendencies The Ultimate Six YouTuber Categorization Challenges</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-professional-path-to-broadcasting-full-dome-content-on-fb/"><u>In 2024, The Professional Path to Broadcasting Full-Dome Content on FB</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-light-functioning-on-asus-desk/"><u>No Light Functioning On ASUS Desk</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-activatedeactivate-built-in-keyboard-for-windows-10-users/"><u>The Ultimate Guide to Activate/Deactivate Built-In Keyboard for Windows 10 Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721101406254-troubleshooting-and-installing-missing-drivers-for-your-device-on-windows-operating-systems-11-8-and-aturdays-a-comprehensive-guide/"><u>Troubleshooting and Installing Missing Drivers for Your Device on Windows Operating Systems (11, 8 & Aturdays) - A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-practices-for-documenting-lol-playthroughs/"><u>Best Practices for Documenting LOL Playthroughs</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-12-pro-max-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 12 Pro Max GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-quantum-printer-speed-settings-in-win11/"><u>Improve Quantum Printer Speed Settings in Win11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-boost-visibility-with-customized-channel-names/"><u>In 2024, Boost Visibility with Customized Channel Names!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-12-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone 12 Pro Apple ID and Apple Pay</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-motorola-edgeplus-2023-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Motorola Edge+ (2023) Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-iphone-ringtone-updates-for-2024/"><u>Mastering iPhone Ringtone Updates for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-default-radeon-wattman-issues-a-comprehensive-fix-guide/"><u>Resolving the Default Radeon Wattman Issues: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-fix-amd-drivers-keep-hitting-issues/"><u>Swift Fix: AMD Drivers Keep Hitting Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/triumph-over-graphics-error-during-install/"><u>Triumph over Graphics Error During Install</u></a></li>
 </ul></div>
 

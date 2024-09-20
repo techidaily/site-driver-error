@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for When Your Computer Ignores the Latest Plugged-In USB
-date: 2024-09-12T23:08:55.816Z
-updated: 2024-09-14T19:15:00.545Z
+date: 2024-09-16T08:51:12.570Z
+updated: 2024-09-19T21:46:03.714Z
 tags:
   - win11
   - win10
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
  If your problem stops here, the USB port might be at fault, not your USB flash drive. Try to avoid using the same port next time, in case similar problem happens again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Update all possible device drivers
@@ -76,10 +76,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37721186152.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) You need to restart your PC for the updated drivers to work properly. Check if your USB device is recognized now.
@@ -100,29 +100,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3777c0a811b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377814e701a.png)
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click to expand**USB settings** and**USB selective suspend setting** .
 
@@ -146,6 +126,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3786b06277a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the top bar, click**View** and then**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378723b37b6.png)
@@ -159,21 +146,22 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37894943164.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3.1.2) Click**Uninstall** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37895fbce37.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3.1.3) When the uninstall finishes, restart your computer. Then repeat the same procedure with the rest of the USB controllers marked by yellow exclamation marks or question marks one by one.
 
@@ -206,19 +194,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-compelling-freefire-vids-with-strategy-guide/"><u>[New] 2024 Approved Crafting Compelling FreeFire Vids with Strategy Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/are-you-getting-your-moneys-worth-a-comprehveiw-on-the-mophie-powerstation-ac-charger/"><u>Are You Getting Your Money's Worth? A Comprehveiw on the Mophie Powerstation AC Charger</u></a></li>
-<li><a href="https://windows11.techidaily.com/bringing-windows-backups-back-to-basics/"><u>Bringing Windows Backups Back to Basics</u></a></li>
-<li><a href="https://driver-error.techidaily.com/check-for-any-conflicting-software-or-programs-running-in-the-background/"><u>Check for Any Conflicting Software or Programs Running in the Background</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-review-of-slomo-video-capture-tool/"><u>Comprehensive Review of SloMo Video Capture Tool</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-repairing-broken-samsung-tv-application-services/"><u>Expert Tips on Repairing Broken Samsung TV Application Services</u></a></li>
-<li><a href="https://driver-error.techidaily.com/exposing-ms-bda-through-graphical-display/"><u>Exposing MS BDA Through Graphical Display</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-12-pro-max-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From Apple iPhone 12 Pro Max Online</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-honor-play-8t-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Honor Play 8T Device SIM</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reconnecting-usb-gadgets-in-windows-78-after-disconnection/"><u>Reconnecting USB Gadgets in Windows 7/8 After Disconnection</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-hcmom-drive-not-installed-issues-a-step-by-step-guide/"><u>Resolving 'Hcmom Drive Not Installed' Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-correct-a-gtx-ninety-five-code-43-error-on-windows-eleven/"><u>Step-by-Step Guide to Correct a GTX Ninety-Five 'Code 43 Error' On Windows Eleven</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlocking-directx-9-startup-success-strategies/"><u>Unlocking DirectX 9 Startup Success Strategies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-fix-there-is-no-sound-on-twitter-videos/"><u>[Updated] 2024 Approved Fix There Is No Sound on Twitter Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-effortless-identity-masking-techniques-in-picscanner-for-2024/"><u>[Updated] Effortless Identity Masking Techniques in PicScanner for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtubers-advanced-toolkit-studio-selection-over-beta/"><u>[Updated] In 2024, YouTuber's Advanced Toolkit Studio Selection Over Beta</u></a></li>
+<li><a href="https://driver-error.techidaily.com/adjust-asus-computer-displays-to-stop-videos-from-playing-upside-down/"><u>Adjust ASUS Computer Displays to Stop Videos From Playing Upside Down</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-lights-off-unexpectedly/"><u>Asus Lights Off Unexpectedly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-ethernet-controller-issues-in-new-os-version/"><u>Correcting Ethernet Controller Issues in New OS Version</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-premium-visual-aids-for-business-professionals/"><u>FREE Premium Visual Aids for Business Professionals</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102283219-get-smooth-performance-with-our-nvidia-geforce-experience-troubleshoot-guide/"><u>Get Smooth Performance with Our Nvidia GeForce Experience Troubleshoot Guide!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-boosting-youtube-traffic-outsmarting-automated-viewers/"><u>In 2024, Boosting YouTube Traffic Outsmarting Automated Viewers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-five-star-sierra-video-processing-tools/"><u>In 2024, Five-Star Sierra Video Processing Tools</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-nokia-c12-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Nokia C12 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-6-fiscal-sensible-options-in-high-res-projection-for-2024/"><u>Leading 6 Fiscal Sensible Options in High-Res Projection for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-strategies-for-capturing-webinars-effectively/"><u>Top Strategies for Capturing Webinars Effectively</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105054975-troubleshoot-and-solve-not-available-itbm-driver-error-instantly/"><u>Troubleshoot and Solve 'Not Available' ITBM Driver Error Instantly</u></a></li>
 </ul></div>
 

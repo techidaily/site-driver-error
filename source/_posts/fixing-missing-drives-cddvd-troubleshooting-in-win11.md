@@ -1,7 +1,7 @@
 ---
 title: "Fixing Missing Drives: CD/DVD Troubleshooting in Win11"
-date: 2024-09-09T04:39:18.151Z
-updated: 2024-09-14T16:14:55.068Z
+date: 2024-09-15T10:02:37.578Z
+updated: 2024-09-20T07:06:52.982Z
 tags:
   - win11
   - win10
@@ -96,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4: Create a registry subkey**
 
  If you can’t see**UpperFilters** and**LowerFilters** in the Registry pane, please follow the steps below.
@@ -109,27 +116,27 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd3791d37b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Create a new**Controller0** key under**atapi** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
@@ -138,19 +145,6 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -171,20 +165,17 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/resolved-responsive-input-on-fixd-windows-11-pc/"><u>[Resolved]: Responsive Input on Fix'd Windows 11 PC</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-securely-shifting-snapchat-images-onto-your-device-storage-for-2024/"><u>[Updated] Securely Shifting SnapChat Images Onto Your Device Storage for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-easy-color-techniques-for-professional-outputs/"><u>2024 Approved Easy Color Techniques for Professional Outputs</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-asmr-sounds-promoting-deep-sleep/"><u>2024 Approved Top ASMR Sounds Promoting Deep Sleep</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discover-the-ace-of-virtual-worlds-top-oculus-headsets/"><u>Discover the Ace of Virtual Worlds Top Oculus Headsets</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-setup-windows-plus-samsung-driver/"><u>Easy Setup: Windows + Samsung Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-a-top-down-image-displacement-on-an-asus-desktoplaptop/"><u>Fixing a Top-Down Image Displacement on an ASUS Desktop/Laptop</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-civi-3-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Civi 3 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-fcp-like-a-pro-top-5-editing-techniques-to-take-your-videos-to-the-next-level/"><u>New 2024 Approved FCP Like a Pro Top 5 Editing Techniques to Take Your Videos to the Next Level</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ntdlldll-troubleshooting-a-comprehensive-fix-manual-for-windows-platforms/"><u>Ntdll.dll Troubleshooting: A Comprehensive Fix Manual for Windows Platforms</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-xiaomi-redmi-note-12r-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Xiaomi Redmi Note 12R</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-the-missing-pressed-button-in-windows/"><u>Solving the Missing Pressed Button in Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveil-windows-xp-professional-for-video-production-for-2024/"><u>Unveil Windows XP Professional for Video Production for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-hints-to-reveal-invisible-seagate-hd/"><u>Windows 11 Hints to Reveal Invisible Seagate HD</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-missing-coprocessor-drivers-fixes-and-guidance-provided/"><u>Windows 11 Missing Coprocessor Drivers - Fixes and Guidance Provided</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-tech-trends-spotlight-5-cutting-edge-camcorders-for-slow-motion-for-2024/"><u>[Updated] Tech Trends Spotlight 5 Cutting-Edge Camcorders for Slow Motion for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevate-your-content-a-guide-to-engaging-live-thumbnails/"><u>2024 Approved Elevate Your Content A Guide to Engaging Live Thumbnails</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-exclusive-selection-of-vr-for-drone-pilots/"><u>2024 Approved Exclusive Selection of VR for Drone Pilots</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-turnout-videos-backwards-easily-on-android/"><u>2024 Approved Turnout Videos Backwards Easily on Android</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-resolving-unable-to-install-hcmondrv-errors-successfully/"><u>Expert Advice: Resolving 'Unable to Install Hcmondrv' Errors Successfully</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-reno-10-proplus-5g-by-drfone-android/"><u>How to Bypass FRP on Oppo Reno 10 Pro+ 5G?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capturing-both-webcam-and-monitor-live-feed/"><u>In 2024, Capturing Both Webcam & Monitor Live Feed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721097549885-re-pair-and-recognize-your-latest-cam-on-updated-pc-an-expert-guide-completely-solved-fixed/"><u>Re-Pair and Recognize Your Latest Cam on Updated PC: An Expert Guide, Completely Solved! [Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-guide-correcting-issues-with-non-compatible-drivers-on-your-device/"><u>Solution Guide: Correcting Issues with Non-Compatible Drivers on Your Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-windows-notepad-notebook-errors/"><u>Solutions for Windows Notepad Notebook Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/speedily-correct-the-missing-itbm-driver-issue-with-simple-tips/"><u>Speedily Correct the Missing ITBM Driver Issue with Simple Tips!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/z2-masterclass-smartphone-smarter-than-ever-in-2024/"><u>Z2 Masterclass Smartphone Smarter Than Ever, In 2024</u></a></li>
 </ul></div>
 

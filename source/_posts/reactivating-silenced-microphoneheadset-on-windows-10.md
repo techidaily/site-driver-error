@@ -1,7 +1,7 @@
 ---
 title: Reactivating Silenced Microphone/Headset on Windows 10
-date: 2024-09-10T04:36:44.632Z
-updated: 2024-09-15T08:03:13.243Z
+date: 2024-09-19T06:32:00.753Z
+updated: 2024-09-20T11:10:46.775Z
 tags:
   - win11
   - win10
@@ -69,14 +69,15 @@ After that, check if your headset works properly now.
 1. Right-click on**Speakers/Headphone** icon at the bottom right of your taskbar. Then click **Playback devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.png)
 2. Highlight your headset, then click **Set** **Default** . Click **OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
 
 ```` ```` ```` Check if your headset works properly now.
 
@@ -93,16 +94,16 @@ After that, check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/SCAN.jpg)
 3. Click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note: You can also do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Sound-driver.jpg)
 4. Restart your computer and check to see if your headset works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -125,21 +126,21 @@ After that, check if your headset works properly now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-exploring-the-best-tools-for-snapshots-and-video-capture-for-2024/"><u>[New] Exploring the Best Tools for Snapshots and Video Capture for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-augmenting-youtube-video-space/"><u>[New] Step-by-Step Augmenting YouTube Video Space</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-pci-data-acquisition-and-signal-processing-controller-missing-on-windows-1110/"><u>[Solved] PCI Data Acquisition and Signal Processing Controller Missing on Windows 11/10</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-embracing-illusion-what-is-vrs-truth-in-2024/"><u>[Updated] Embracing Illusion What Is VR's Truth, In 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-is-there-a-science-to-youtubes-quick-subscribe-tactic/"><u>[Updated] Is There a Science to YouTube's Quick Subscribe Tactic?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/10-screen-recorders-for-youtube-for-2024/"><u>Best 10 Screen Recorders for YouTube for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cease-auto-uninstall-in-nvidia-driver-installations/"><u>Cease Auto-Uninstall in Nvidia Driver Installations</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-when-your-logitech-g430-microphone-stops-working/"><u>Effective Fixes When Your Logitech G430 Microphone Stops Working</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-22-addressed-device-now-online/"><u>Error 22 Addressed; Device Now Online</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-deactivate-bluetooth-without-issues-on-win11/"><u>How to Deactivate Bluetooth Without Issues on Win11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-v27-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo V27 Device</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-video-editing-face-off-final-cut-pro-vs-lumafusion-which-one-wins/"><u>New Video Editing Face-Off Final Cut Pro vs LumaFusion - Which One Wins?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/re-establishing-usb-recognition-on-older-windows-versions/"><u>Re-Establishing USB Recognition on Older Windows Versions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/remedy-fix-disabled-right-click-on-windows-11-touchpad/"><u>Remedy: Fix Disabled Right Click on Windows 11 Touchpad</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reviving-hidden-link-reclaim-missing-bluetooth-in-pc/"><u>Reviving Hidden Link: Reclaim Missing BlueTooth in PC</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unleashing-laughter-on-screen-essential-tactics-for-youtube-reaction-video-making-3-ways-for-2024/"><u>Unleashing Laughter on Screen Essential Tactics for YouTube Reaction Video Making (3 Ways) for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-guide-to-responding-with-grace-to-youtube-comments/"><u>[Updated] A Guide to Responding with Grace to YouTube Comments</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-becoming-a-top-youtuber-with-gaming-livestreams/"><u>[Updated] In 2024, Becoming a Top YouTuber with Gaming Livestreams</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-compelling-spotify-campaigns-a-practical-guide/"><u>2024 Approved Crafting Compelling Spotify Campaigns A Practical Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-unlock-your-farming-potential-with-top-valheim-seeds/"><u>2024 Approved Unlock Your Farming Potential with Top Valheim Seeds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-nubia-z50-ultra-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Nubia Z50 Ultra to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-c02-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from C02.</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-correcting-and-understanding-directx-device-creation-mishaps/"><u>Comprehensive Guide: Correcting and Understanding DirectX Device Creation Mishaps</u></a></li>
+<li><a href="https://media-tips.techidaily.com/critical-alert-more-than-15000-roku-logins-compromised-through-weak-password-habits/"><u>Critical Alert: More Than 15,000 Roku Logins Compromised Through Weak Password Habits</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhancing-win1110s-sm-bus-driver-reliability/"><u>Enhancing WIN11/10's Sm Bus Driver Reliability</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-disabling-graphics-card-on-windows-8-via-safe-mode-deletion/"><u>Guide: Disabling Graphics Card on Windows 8 via Safe Mode Deletion</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mending-the-disappearing-touchpad-driver-problem/"><u>Mending the Disappearing Touchpad Driver Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-unmountable-boot-volume-bug-error-0x0000007e-in-your-windows-vista7-pc/"><u>Overcoming the Unmountable Boot Volume Bug (Error 0X0000007E) in Your Windows Vista/7 PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/preventing-problematic-sm-bus-controllers-in-windows-1011/"><u>Preventing Problematic SM Bus Controllers in Windows 10/11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectification-of-service-section-in-inf-file/"><u>Rectification of Service Section in INF File</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-for-no-supported-device-found-on-apple-products/"><u>Solution Steps for 'No Supported Device Found' On Apple Products</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-driver-installation-for-windows-devices-windows-10-8-and-7-tips/"><u>Troubleshooting Driver Installation for Windows Devices: Windows 10, 8 & 7 Tips</u></a></li>
 </ul></div>
 

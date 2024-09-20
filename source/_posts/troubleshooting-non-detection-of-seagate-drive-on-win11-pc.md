@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Detection of Seagate Drive on Win11 PC
-date: 2024-09-07T21:40:02.783Z
-updated: 2024-09-14T18:50:30.739Z
+date: 2024-09-18T00:56:53.413Z
+updated: 2024-09-19T18:04:04.037Z
 tags:
   - win11
   - win10
@@ -105,20 +105,14 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/new-simple-volume.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There you go, your Seagate external hard drive should be able to work without any problems.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 4: Assign Driver Letter to Seagate GoFlex**
 
@@ -126,9 +120,24 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-computer-management.png)
   
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, click**Disk Management** . If you see a drive without a letter, check to make sure that it’s your**Seagate GoFlex drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57f9f9701ebe7-600x294.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click it and click **Change Drive Letter and Paths…** .
 
@@ -153,48 +162,34 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/hardware-and-sound-600x450.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click **Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Click   **Change what the power button does.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-what-the-power-button-does.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Click   **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable-600x456.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Scroll down to the _**Shutdown** settings_ section and uncheck**Turn off fast startup (recommended)** . Click **Save changes**  . You might need to restart your computer after this change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uncheck-turn-off-fast-startup-recommended-600x450.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -211,20 +206,19 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-endless-video-recording-program/"><u>[New] In 2024, Endless Video Recording Program</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-art-of-multi-platform-broadcasting-in-the-digital-age/"><u>[New] The Art of Multi-Platform Broadcasting in the Digital Age</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-the-art-of-small-image-creation-a-thumbnail-guide-for-2024/"><u>[Updated] Mastering the Art of Small Image Creation A Thumbnail Guide for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/eliminate-radio-driver-errors-in-windows-effortlessly/"><u>Eliminate Radio Driver Errors in Windows Effortlessly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ensured-n-adapter-functionality-in-windows-broadcoms-fix/"><u>Ensured N Adapter Functionality in Windows - Broadcom's Fix</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-malfunction-heres-how-to-restore-functionality-quickly/"><u>HP Wireless Keyboard Malfunction? Here's How to Restore Functionality Quickly!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-note-30-vip-racing-edition-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Note 30 VIP Racing Edition Phone Screen?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-surge-in-followers-swift-tiktok-growth-tricks-unveiled/"><u>In 2024, Surge in Followers Swift TikTok Growth Tricks Unveiled</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keyboard-malfunction-in-win-10/"><u>Keyboard Malfunction in Win 10</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/premium-wireless-mouse-selections-for-tech-enthusiasts-2024-edition/"><u>Premium Wireless Mouse Selections for Tech Enthusiasts, 2024 Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/red-eye-remover-how-to-remove-red-eye-from-photos-on-iphone-free-for-2024/"><u>Red Eye Remover| How to Remove Red Eye From Photos on iPhone [Free] for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/remedy-power-management-glitch/"><u>Remedy Power Management Glitch</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-issues-with-outdated-usb-composite-hardware-comprehensive-strategies-inside/"><u>Solving Issues with Outdated USB Composite Hardware - Comprehensive Strategies Inside</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-creative-possibilities-using-your-gpt-bots-for-image-generation-and-game-strategies/"><u>Unlocking Creative Possibilities: Using Your GPT Bots for Image Generation & Game Strategies</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-keyboard-error-now-corrected/"><u>Windows 11 - Keyboard Error Now Corrected</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-polarr-photo-magic-your-complete-image-processing-manual/"><u>[New] 2024 Approved Polarr Photo Magic Your Complete Image Processing Manual</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-vintage-video-card-patch-for-2024/"><u>[New] Vintage Video Card Patch for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-your-guide-to-affordable-cloud-collaboration-top-10-software-recommendations/"><u>[New] Your Guide to Affordable Cloud Collaboration Top 10 Software Recommendations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102239488-solved-generic-bluetooth-radio-driver-issues-in-windows-quickly-and-easily/"><u>[SOLVED] Generic Bluetooth Radio Driver Issues in Windows. Quickly & Easily</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-optimal-home-theater-choosing-the-right-3d-blu-ray-devices/"><u>2024 Approved Optimal Home Theater Choosing the Right 3D Blu-Ray Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eradicating-the-elan-pad-anomalies-in-win11/"><u>Eradicating the Elan Pad Anomalies in Win11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/guidelines-to-safely-download-and-store-facebook-vids-for-2024/"><u>Guidelines to Safely Download and Store Facebook Vids for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/high-impact-color-filters-expertly-curated-15-gopro-lut-picks/"><u>High-Impact Color Filters Expertly Curated 15 GoPro LUT Picks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-8-plus-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 8 Plus Without a Home Button</u></a></li>
+<li><a href="https://driver-error.techidaily.com/remedy-for-ignored-logitech-unifying-hub-in-oses/"><u>Remedy for Ignored Logitech Unifying Hub in OSes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackle-network-configuration-misstep-on-xps-one-27/"><u>Tackle Network Configuration Misstep on XPS One 27</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/o-gamers-monetization-guide/"><u>Techno Gamers' Monetization Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-cannot-identify-devices-driver/"><u>Windows Cannot Identify Device's Driver</u></a></li>
 </ul></div>
 
