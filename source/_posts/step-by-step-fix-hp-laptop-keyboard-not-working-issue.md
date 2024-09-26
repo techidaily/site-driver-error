@@ -1,7 +1,7 @@
 ---
 title: Step by Step Fix HP Laptop Keyboard Not Working Issue
-date: 2024-09-12T16:05:47.972Z
-updated: 2024-09-14T21:08:09.603Z
+date: 2024-09-19T20:15:34.806Z
+updated: 2024-09-26T03:48:35.329Z
 tags:
   - win11
   - win10
@@ -41,15 +41,36 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Step 2: Check Keyboard Settings**
 
 1) Click your**Start**button, then choose**Settings**icon from it. Then choose**Time & language**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcfa0068ce.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) On the left side of the pane, choose**Region & language**, then on the right side, make sure that the language is set to**English (United States)**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd71980796.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If not, click the**Options**button as shown in the screen shot.
 
@@ -65,14 +86,14 @@ If you have tried the above methods but they are not helpful, you may need to pl
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
-2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
 
 ## **Step 4:** **Perform a Hard Reset**
 
@@ -94,5 +115,20 @@ A hard reset will not remove any of your data in your computer, it is a move tha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-maximizing-your-influence-a-selection-of-expert-instagram-analytics-software-for-2024/"><u>[Updated] Maximizing Your Influence A Selection of Expert Instagram Analytics Software for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-save-the-day-linkinscapes-6-best-apps-for-video-downloading/"><u>[Updated] Save the Day Linkinscape's 6 Best Apps for Video Downloading</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sky-high-results-the-creme-de-la-liste-of-drone-editors/"><u>[Updated] Sky-High Results The Crème De La Liste of Drone Editors</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-top-beauty-brands-with-powerful-youtubers/"><u>2024 Approved The Top Beauty Brands with Powerful YouTubers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-webcam-functionality-restored-in-win10/"><u>ASUS Webcam Functionality Restored in Win10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-common-spelling-mistakes-on-iphone-with-these-6-autocorrection-fixes/"><u>Avoid Common Spelling Mistakes on iPhone with These 6 AutoCorrection Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-bluetooth-missing-from-device-manager/"><u>How to Fix Bluetooth Missing From Device Manager</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-real-time-vr-hardware-analysis/"><u>In 2024, Real-Time VR Hardware Analysis</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-me-software-troubleshooting-tips/"><u>Intel Me Software Troubleshooting Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/maximizing-visual-impact-expert-advice-on-amazon-prime-image-sizing-and-fixing-common-issues/"><u>Maximizing Visual Impact: Expert Advice on Amazon Prime Image Sizing and Fixing Common Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-t2x-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo T2x 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-the-complete-fix-for-a-missing-processor-coprocessor-in-windows-tenth/"><u>Resolved! The Complete Fix for a Missing Processor Coprocessor in Windows Tenth</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-irql-discrepinasy-bsod-solved/"><u>Windows IRQL Discrepinasy [BSOD] Solved</u></a></li>
+</ul></div>
 

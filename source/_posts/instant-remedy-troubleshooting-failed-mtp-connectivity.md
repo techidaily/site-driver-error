@@ -1,7 +1,7 @@
 ---
 title: "Instant Remedy: Troubleshooting Failed MTP Connectivity"
-date: 2024-09-18T10:26:01.973Z
-updated: 2024-09-20T08:40:05.507Z
+date: 2024-09-19T14:12:51.759Z
+updated: 2024-09-25T21:33:29.198Z
 tags:
   - win11
   - win10
@@ -63,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afc071708b0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **3: Run Command**
 
  If you don’t have the administrator permission to your PC, you’ll fail to use some functions. To fix it:
@@ -79,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/cmd-run-command-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click **Yes** at the prompted window.
@@ -110,48 +103,68 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/regedit-in-start-panel.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click**Yes** at the prompt window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/registry-window-uac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Follow the path
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Contro l/Class.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/registry-local-machine-control-class.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) On your keyboard, press the**Ctrl** **key** and **F** key at the same time. Type**Portable Devices** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/portable-devices.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) On the right hand pane, you’ll see the**(Default)** value**Portable Devices** on the string.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/portable-devices-default-value.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) If you can see**UpperFilters** here, right-click it and click **delete.**
 
  If you can’t see such an option, this method is not suitable for you, move on to next method.
 
  6)**Exit** Registry Editor.**Reboot** your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5: Install MTP Porting Kit**
 
@@ -178,5 +191,24 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/corrected-device-driver-issue/"><u>[Corrected: Device Driver Issue]</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-navigate-to-the-5-preferred-android-ps2-emulator-apps/"><u>[Updated] In 2024, Navigate to the 5 Preferred Android PS2 Emulator Apps</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-perfected-acoustic-parameters-for-electronics-optimization/"><u>2024 Approved Perfected Acoustic Parameters for Electronics Optimization</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-and-testimony-of-the-logitech-c920-superior-hd-cam/"><u>Comprehensive Review & Testimony of the Logitech C920 Superior HD Cam</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dialing-down-complication-e52-anomaly-explained/"><u>Dialing Down Complication: E52 Anomaly Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/digital-jesters-from-notebooks-to-vpn-guardians-in-action/"><u>Digital Jesters: From Notebooks to VPN Guardians in Action</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-made-easy-solutions-for-windows-11-8-and-7-device-compatibility/"><u>Driver Installation Made Easy - Solutions for Windows 11, 8 & 7 Device Compatibility</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-amazon-fire-hd-n-an-inclusive-media-tablet-reviewed/"><u>Exploring the Amazon Fire HD N - An Inclusive Media Tablet Reviewed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebook-group-video-downloader/"><u>Facebook Group Video Downloader</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-identify-and-fix-usb-device-issues-windows-78/"><u>How to Identify and Fix USB Device Issues Windows 7/8</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-apple-iphone-11-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your Apple iPhone 11? How to Fix</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-steadicams-to-elevate-uav-video-production-quality-for-2024/"><u>Prime Steadicams to Elevate UAV Video Production Quality for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fix-restoring-power-to-your-non-responsive-bluetooth-functionality-on-win11-done/"><u>Quick Fix: Restoring Power to Your Non-Responsive Bluetooth Functionality on Win11 (Done!)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-establish-connection-between-seagate-and-windows-10/"><u>Re-Establish Connection Between Seagate & Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-itel-p55plus-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Itel P55+</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unveiling-solutions-lenovo-bt-driver-on-win11/"><u>Unveiling Solutions: Lenovo BT Driver on WIN11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-80211n-wi-fi-adapter-successfully-repaired-by-broadcom/"><u>Win 802.11N Wi-Fi Adapter Successfully Repaired by Broadcom</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating W11's Elan Issues: A Resolution Guide"
-date: 2024-09-12T17:59:15.446Z
-updated: 2024-09-20T02:49:25.416Z
+date: 2024-09-20T11:54:43.530Z
+updated: 2024-09-26T11:46:13.182Z
 tags:
   - win11
   - win10
@@ -61,6 +61,19 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3: Stop automatic updates from Windows Update**
 
  A faulty or buggy driver from Windows Update could be the cause of this problem. You can disable the automatic update via:
@@ -69,13 +82,34 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-clickyour computer icon and click **Device installation settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
 
@@ -92,12 +126,26 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-easy-instagram-posting-for-gif-lovers-4-essential-tips/"><u>[New] 2024 Approved Easy Instagram Posting for GIF Lovers 4 Essential Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-the-art-of-affordable-data-storage-cloud-for-2024/"><u>[New] Mastering the Art of Affordable Data Storage (Cloud) for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/upercharge-your-media-download-sounds-for-editing/"><u>[New] Supercharge Your Media Download Sounds for Editing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-from-raw-footage-to-stunning-visuals-using-luts-in-obs-studio/"><u>[Updated] 2024 Approved From Raw Footage to Stunning Visuals Using LUTs in OBS Studio</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pioneering-strategies-for-success-in-the-spotify-ad-arena/"><u>[Updated] Pioneering Strategies for Success in the Spotify Ad Arena</u></a></li>
+<li><a href="https://driver-error.techidaily.com/address-usb-30-bandwidth-limit/"><u>Address USB 3.0 Bandwidth Limit</u></a></li>
+<li><a href="https://media-tips.techidaily.com/complete-tutorial-how-to-download-youtube-videos-onto-your-iphoneipad-or-android-for-easy-access-anywhere/"><u>Complete Tutorial: How to Download YouTube Videos Onto Your iPhone/iPad or Android for Easy Access Anywhere!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-disruption-drivers-enigma-52/"><u>Decoding Disruption: Driver's Enigma #52</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy M34? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhancing-win1110-performance-with-sm-bus-driver/"><u>Enhancing WIN11/10 Performance with SM Bus Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-issue-when-your-windows-10-lacks-a-coprocessor-driver/"><u>Fixing the Issue When Your Windows 10 Lacks a Coprocessor Driver</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-90-gt-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor 90 GT? Try These Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/inf-error-fixed-in-service-setup-process/"><u>INF Error Fixed in Service Setup Process</u></a></li>
+<li><a href="https://driver-error.techidaily.com/make-your-seagate-hard-disk-visible-again-in-w10/"><u>Make Your Seagate Hard Disk Visible Again in W10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-the-art-of-troubleshooting-asus-acpi/"><u>Mastering the Art of Troubleshooting Asus' ACPI</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-challenge-fixed-windows-11-touchpad-no-right-click/"><u>Overcoming the Challenge: Fixed Windows 11 Touchpad No Right Click</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-usb-errors-windows-78-not-recognizing-hardware/"><u>Resolving USB Errors: Windows 7/8 Not Recognizing Hardware</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-hogwarts-legacy-crashing-on-boot-discover-8-key-remedies/"><u>Stop Hogwarts Legacy Crashing on Boot - Discover 8 Key Remedies</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unhappy-with-vsdc-explore-these-top-mac-video-editing-options/"><u>Unhappy with VSDC? Explore These Top Mac Video Editing Options</u></a></li>
+</ul></div>
 

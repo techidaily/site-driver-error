@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Silent Illumination Issue - Asus"
-date: 2024-09-10T23:06:36.552Z
-updated: 2024-09-14T18:55:13.131Z
+date: 2024-09-19T22:30:36.279Z
+updated: 2024-09-25T17:16:18.785Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/1df433206ff11dec7faaaf54cae7b4a5f98f51a6c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-53.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, on your keyboard, press**Fn** and**F4** at the same time to test if the backlight of your keyboard can be turned on.
 
  If you cannot navigate to this program, then perhaps your ATK package is installed in another folder. In this case, you should search for “ATK Package” in File Explorer until you find Hcontrol.exe in a folder named ATK Hotkey.  
@@ -45,6 +52,19 @@ thumbnail: https://thmb.techidaily.com/1df433206ff11dec7faaaf54cae7b4a5f98f51a6c
  If this fix doesn’t work for you, please proceed to the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Way 2: Download and install the latest drivers**
 
@@ -69,6 +89,14 @@ OR
 3. On the next page, select your Windows version. Then you’ll be greeted with a list of drivers and programs available for download.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-25-19.jpg)
 4. Scroll through the list until you find the following two drivers:**Smart Gesture** driver and**ATK Package** driver. Then, click on the**DOWNLOAD** button next to each driver.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-31-49.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-45-12.jpg)
 5. Wait till the download process is complete. The two downloaded files are compressed, so you need to extract them to a desired location.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Open the extracted folders of the two drivers. Find**Setup.exe** in their folders respectively and click on it. Then, follow the onscreen instructions to install the drivers.
 7. When everything’s done, restart your computer for the changes to take effect. Then check to see if your keyboard backlight can be turned on properly (press**Fn+F4** on your keyboard to enable the backlight).
 
@@ -85,6 +113,13 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_19-17-09.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the ATK Package driver for now, simply click the **Update**  button next to it. ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_19-15-46.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -110,12 +145,18 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/updated-beautys-brightest-stars-youtube-personalities-to-follow/"><u>[Updated] Beauty's Brightest Stars YouTube Personalities to Follow</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-pagewide-pro-cu477a-driver-set-seamless-printing-on-windows-11-10-and-legacy-systems/"><u>Get the Latest HP PageWide Pro Cu477a Driver Set - Seamless Printing on Windows 11, 10 & Legacy Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-x50-gt-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor X50 GT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/maximizing-your-pc-gaming-experience-with-razer-driver-update/"><u>Maximizing Your PC Gaming Experience with Razer Driver Update</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/record-pc-sounds-effortlessly-with-x-recorder-for-2024/"><u>Record PC Sounds Effortlessly with X-Recorder for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/rediscovering-eliminated-reddit-discussions-efficiently-for-2024/"><u>Rediscovering Eliminated Reddit Discussions Efficiently for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsung-mobile-accessible-via-windows/"><u>Samsung Mobile: Accessible Via Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-absent-signal-proc-in-windows-devices/"><u>Solve Absent Signal Proc in Windows Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-for-iphone-usb-device-connection-error-successful-solutions/"><u>Troubleshooting Guide for iPhone USB Device Connection Error - Successful Solutions!</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/ultimate-list-of-high-performance-video-transcoding-software-for-pcs-running-windows-2023-edition/"><u>Ultimate List of High-Performance Video Transcoding Software for PCs Running Windows, 2023 Edition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-streamlined-bus-controller-operations/"><u>Win11: Streamlined Bus Controller Operations</u></a></li>
+</ul></div>
 
