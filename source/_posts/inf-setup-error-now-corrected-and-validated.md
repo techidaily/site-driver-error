@@ -1,7 +1,7 @@
 ---
 title: INF Setup Error - Now Corrected & Validated
-date: 2024-09-23T14:08:07.646Z
-updated: 2024-09-26T09:50:14.994Z
+date: 2024-09-27T16:03:30.570Z
+updated: 2024-10-01T16:10:35.892Z
 tags:
   - win11
   - win10
@@ -80,16 +80,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
@@ -103,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
@@ -114,16 +108,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -153,20 +141,19 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/solved-device-hubs-error-48/"><u>[SOLVED] Device Hub's Error 48</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-step-by-step-guide-to-crafting-an-effective-youtube-watch-later-playlist/"><u>[Updated] In 2024, A Step-by-Step Guide to Crafting an Effective YouTube Watch Later Playlist</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-trending-titles-navigating-through-facebooks-hot-takes/"><u>[Updated] Trending Titles Navigating Through Facebook's Hot Takes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitter-sharing-guide-for-tiktok-content/"><u>2024 Approved Twitter Sharing Guide for TikTok Content</u></a></li>
-<li><a href="https://driver-error.techidaily.com/careless-install-of-gpu-driver/"><u>Careless Install of GPU Driver?</u></a></li>
-<li><a href="https://solve-news.techidaily.com/cookiebot-enabled-sites-enhance-user-experience-with-smart-marketing/"><u>Cookiebot-Enabled Sites | Enhance User Experience with Smart Marketing</u></a></li>
-<li><a href="https://driver-error.techidaily.com/end-of-window-lags-and-pauses/"><u>End of Window Lags & Pauses</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-problem-of-non-detecting-controllers-by-steam-on-windows-os/"><u>Fixing the Problem of Non-Detecting Controllers by Steam on Windows OS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-depth-appraisal-does-inshot-rule-in-video-edits/"><u>In-Depth Appraisal Does InShot Rule in Video Edits?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/polaroid-cubeplus-action-camera-review-for-2024/"><u>Polaroid Cube+ Action Camera Review for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-fix-kinemaster-for-top-memes-for-2024/"><u>Quick-Fix KineMaster for Top Memes for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-restoring-functionality-when-your-pc-lacks-a-coprocessor-driver-in-windows-nt/"><u>Solved! Restoring Functionality When Your PC Lacks a Coprocessor Driver in Windows nT</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-windows-8-into-safe-mode-and-removing-your-graphics-drivers/"><u>Step-by-Step Guide: Booting Windows 8 Into Safe Mode & Removing Your Graphics Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-and-compressed-memory-high-disk-usage-on-windows-10-solved/"><u>System and Compressed Memory High Disk Usage on Windows 10 [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-evolution-and-functionality-of-usb-composite-devices-a-comprehensive-guide/"><u>The Evolution and Functionality of USB Composite Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-insta-wonders-top-9-habits-of-influencers-and-stars/"><u>[Updated] Insta Wonders Top 9 Habits of Influencers and Stars</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-integrating-gifs-into-your-iphone-life-with-ease/"><u>[Updated] Integrating GIFs Into Your iPhone Life with Ease</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-mastering-youtubes-feature-switch-between-commenting-states/"><u>[Updated] Mastering YouTube's Feature Switch Between Commenting States</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-prime-nintendo-switch-fighting-game-guide-max-156/"><u>2024 Approved Prime Nintendo Switch Fighting Game Guide (Max 156)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-advice-on-activating-all-functionalities-of-your-logitech-mx-master/"><u>Expert Advice on Activating All Functionalities of Your Logitech MX Master</u></a></li>
+<li><a href="https://driver-error.techidaily.com/help-my-latest-cams-not-recognized-after-pc-update-tips-and-fixes-for-quick-resolution-answered/"><u>Help, My Latest Cam’s Not Recognized After PC Update - Tips & Fixes for Quick Resolution! 😰 [Answered]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/launchpad-to-success-establishing-your-own-food-flavor-blogchannel/"><u>Launchpad to Success Establishing Your Own Food Flavor Blog/Channel</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102147633-qualcomm-atheros-bluetooth-connectivity-woes-with-windows-11-heres-your-comprehensive-fix/"><u>Qualcomm Atheros Bluetooth Connectivity Woes with Windows 11? Here's Your Comprehensive Fix!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-the-itbm-driver-not-found-problem-with-simple-fixes/"><u>Resolve the 'ITBM Driver Not Found' Problem with Simple Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-failed-to-install-hcmondriver-step-by-step-guide/"><u>Resolving 'Failed to Install Hcmondriver' - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-constant-bugs-in-thunders-top-tier-level-a-users-manual/"><u>Solving the Constant Bugs in Thunder's Top-Tier Level - A User's Manual</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlocking-full-disk-use-on-win1110/"><u>Unlocking Full Disk Use on Win11/10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unveiling-the-secret-to-resolving-asus-drivers-in-win10/"><u>Unveiling the Secret to Resolving ASUS Drivers in Win10</u></a></li>
 </ul></div>
 

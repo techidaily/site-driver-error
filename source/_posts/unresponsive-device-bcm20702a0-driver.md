@@ -1,7 +1,7 @@
 ---
 title: Unresponsive Device - BCM20702A0 Driver
-date: 2024-08-15T06:52:59.975Z
-updated: 2024-08-16T06:52:59.975Z
+date: 2024-09-26T16:05:38.112Z
+updated: 2024-10-01T16:03:15.589Z
 tags:
   - win11
   - win10
@@ -35,10 +35,25 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 2. Select the**Airplane mode** from the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/turn-on-and-off-airplane-mode-2.jpg)
 3. Under the Airplane mode,**toggle on** the button.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/turn-on-and-off-airplane-mode-3.jpg)
 4. Restart your computer and**disable the airplane mode** following the steps above.
 
 Check if your Bluetooth works. If not, continue to the second fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Run the Bluetooth troubleshooter
 
@@ -47,12 +62,30 @@ Check if your Bluetooth works. If not, continue to the second fix.
 1. In the Windows search box, type**troubleshoot** and click**Troubleshoot settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-1-2.jpg)
 2. Scroll down to find**Bluetooth** and click it. Then click**Run the troubleshooter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2-5.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2-5.jpg)
+
  It may take a couple of minutes for the process. Once done, you can follow the on-screen instructions to repair the detected problems and check if the driver error persists. If so, move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Reinstall/update your BCM20702A0 driver
 
@@ -75,23 +108,26 @@ Check if your Bluetooth works. If not, continue to the second fix.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the**Update** button next to the flagged Bluetooth driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/bcm20702a0-driver-update-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 
  After the driver updates, test your Bluetooth devices to see if it works normally. If not, there is one more fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Check the Bluetooth service
 
  Bluetooth needs to work on certain services on your PC. If it’s not starting or running properly, you may fail to connect your Bluetooth devices and run into the BCM20702A0 driver is unavailable error. To check for bluetooth-related services, follow these steps:
@@ -100,19 +136,10 @@ Check if your Bluetooth works. If not, continue to the second fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-1-1.jpg)
 2. Right-click the**Bluetooth Support Service** and click**Start** . If it’s already running, right-click it and click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. After the service restarts, right-click it again and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 4. Set the **Startup type** to **Automatic** and click **OK** to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Now test your device and see if the error gets fixed.
 
@@ -130,8 +157,6 @@ Now test your device and see if the error gets fixed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +164,17 @@ Now test your device and see if the error gets fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-comparing-recording-obs-studio-versus-bandicam/"><u>[Updated] 2024 Approved Comparing Recording OBS Studio Versus Bandicam</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-increase-attendance-and-engagement-with-strategic-zoom-recordings/"><u>[Updated] 2024 Approved Increase Attendance and Engagement with Strategic Zoom Recordings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-academic-archiving-ranking-the-top-10-educators-video-capturers-for-2024/"><u>[Updated] Academic Archiving Ranking the Top 10 Educator's Video Capturers for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-pushing-up-conversions-with-high-roi-animated-advertisements-on-fb/"><u>[Updated] In 2024, Pushing Up Conversions with High-ROI Animated Advertisements on FB</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-efficiency-battle-deciding-between-claude-and-chatgpt-for-your-routine-needs/"><u>AI Efficiency Battle: Deciding Between Claude and ChatGPT for Your Routine Needs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/capture-fb-hd-footage-easily/"><u>Capture FB HD Footage Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-asus-usb20-webcam-issue-in-windows-10/"><u>Fixed ASUS USB2.0 Webcam Issue in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-no-supported-software-for-amdintel-graphics-within-premiere-pro/"><u>Fixed: No Supported Software for AMD/Intel Graphics Within Premiere Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-how-to-adjust-screen-settings-when-videos-appear-inverted-on-your-asus-device/"><u>Step-by-Step Solutions: How to Adjust Screen Settings When Videos Appear Inverted on Your ASUS Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-windows-7s-blue-screen-with-error-0x0000007e/"><u>Troubleshooting Guide: Resolving Windows 7'S Blue Screen with Error 0X0000007E</u></a></li>
+</ul></div>
 

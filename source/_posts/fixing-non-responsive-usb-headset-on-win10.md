@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Responsive USB Headset on WIN10
-date: 2024-09-18T20:19:58.291Z
-updated: 2024-09-26T04:59:41.745Z
+date: 2024-09-26T16:08:10.512Z
+updated: 2024-10-01T16:10:44.897Z
 tags:
   - win11
   - win10
@@ -35,16 +35,10 @@ thumbnail: https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3
 Check if your headset works properly now.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run the Hardware Devices troubleshooter
@@ -57,27 +51,36 @@ Check if your headset works properly now.
 2. Click **Hardware and Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-12.png)  
 ```` ```` ````
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click **Hardware and Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-14.png)
 4. Click **Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-13.png)
 5. Now the troubleshooter starts detecting problems. Complete troubleshooting by following on-screen instructions.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After that, check if your headset works properly now.
 
@@ -90,20 +93,15 @@ After that, check if your headset works properly now.
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
-5. Relaunch your computer and check whether the issue is resolved or not.````
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Relaunch your computer and check whether the issue is resolved or not.````
 
 ### Fix 3: Set your USB headset as default device
 
@@ -111,14 +109,14 @@ After that, check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.png)
 2. Highlight your headset, then click **Set** **Default** . Click **OK** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
 
 ```` ```` ```` Check if your headset works properly now.
 
@@ -134,13 +132,6 @@ After that, check if your headset works properly now.
 2. Click **Scan Now** . It will quickly detect all driver problems of your computer. Your printer driver is no exception.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/SCAN.jpg)
 3. Click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note: You can also do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Sound-driver.jpg)
@@ -167,22 +158,24 @@ After that, check if your headset works properly now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-wireless-mouse-not-working-on-windows/"><u>[Fixed] Wireless Mouse Not Working on Windows</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-elite-no-price-fb-photovideo-magic-maker/"><u>[New] 2024 Approved Elite No-Price FB Photo/Video Magic Maker</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-youtube-live-recording-on-every-gadget/"><u>[New] In 2024, Mastering YouTube Live Recording on Every Gadget</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-quickshot-screen-grab-reviews/"><u>[Updated] 2024 Approved QuickShot Screen Grab Reviews</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/accelerate-book-browsing-efficient-strategies-using-flipbuilder-tools/"><u>Accelerate Book Browsing: Efficient Strategies Using FlipBuilder Tools</u></a></li>
-<li><a href="https://driver-error.techidaily.com/acpi-driver-fix-for-device-id-33a0/"><u>ACPI Driver Fix for Device ID 33A0</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cant-play-mov-files-on-samsung-galaxy-s24-ultra-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correcting-the-setup-of-your-gadget-overcoming-code-1-hurdles/"><u>Correcting the Setup of Your Gadget - Overcoming Code 1 Hurdles</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-atheros-bluetooth-issues-on-windows-10-complete-solution/"><u>Fixing Qualcomm Atheros Bluetooth Issues on Windows 10: Complete Solution</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>How to identify malfunctioning hardware drivers with Windows Device Manager in Windows 10</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need/"><u>In 2024, Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-enhanced-3d-printing-techniques/"><u>Leveraging ChatGPT for Enhanced 3D Printing Techniques</u></a></li>
-<li><a href="https://driver-error.techidaily.com/nexus-one-non-detection-in-linux-mint-cinnamon-solution-found/"><u>Nexus One Non-Detection in Linux Mint Cinnamon, Solution Found!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-bluetooth-issues-on-pcs-with-the-latest-os-update-easily-done/"><u>Overcoming Bluetooth Issues on PCs with the Latest OS Update [Easily Done]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ultimate-fixes-overcoming-wireless-keyboard-malfunctions-in-your-windows-workspace/"><u>Ultimate Fixes: Overcoming Wireless Keyboard Malfunctions in Your Windows Workspace</u></a></li>
-<li><a href="https://driver-error.techidaily.com/winning-against-the-notorious-code-43-error-on-your-gtx-950-while-using-windows-10-a-step-by-step-fix/"><u>Winning Against the Notorious Code 43 Error on Your GTX 950 While Using Windows 10 – A Step-by-Step Fix</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-chronoscope-effect-flip-your-snapchat-videos-right/"><u>[New] 2024 Approved Chronoscope Effect Flip Your Snapchat Videos Right</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-background-blur-101-boosting-video-clarity-on-youtube-for-2024/"><u>[New] Background Blur 101 Boosting Video Clarity on YouTube for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ultimate-selection-top-video-editors-for-webcams/"><u>[New] In 2024, Ultimate Selection Top Video Editors for Webcams</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-automate-your-snapshot-backup-from-snapchat-app-for-2024/"><u>[Updated] Automate Your Snapshot Backup From Snapchat App for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-transform-ideas-into-reality-get-movie-maker-for-w11-users/"><u>[Updated] In 2024, Transform Ideas Into Reality Get Movie Maker for W11 Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-precise-time-stamping-on-youtube-a-practical-approach/"><u>[Updated] Precise Time-Stamping on YouTube A Practical Approach</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-acpi-problems-in-windows-on-asus-systems/"><u>Addressing Acpi Problems in Windows on Asus Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/amend-broadcom-nic-error-on-precision-m65/"><u>Amend Broadcom NIC Error on Precision M65</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-notebook-display-issue-how-to-adjust-screen-orientation-back-to-normal/"><u>ASUS Notebook Display Issue: How to Adjust Screen Orientation Back to Normal</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-integration-mastery-in-windows-operating-system/"><u>Bluetooth Integration Mastery in Windows Operating System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/clarifying-how-to-fix-problems-with-obsolete-usb-composite-hardware/"><u>Clarifying How to Fix Problems with Obsolete USB Composite Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/clearing-the-path-for-code-52-resolution/"><u>Clearing the Path for Code 52 Resolution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/closed-issue-non-supported-intelamd-graphics-driver-compatibility-with-premier-pro/"><u>Closed Issue: Non-Supported Intel/AMD Graphics Driver Compatibility with Premier Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correct-the-vertically-oriented-video-malfunction-in-your-asus-laptop-with-these-steasy-tips/"><u>Correct the Vertically Oriented Video Malfunction in Your ASUS Laptop with These Steasy Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-simple-download-acme-bluetooth-drivers/"><u>Fast & Simple Download: Acme Bluetooth Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104114505-fixing-slow-graphics-on-pc-our-team-cracked-the-rtx-gaming-issue-check-out-this-quick-fix/"><u>Fixing Slow Graphics on PC? Our Team Cracked the RTX Gaming Issue - Check Out This Quick Fix!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterpiece-models-best-of-the-computer-world/"><u>In 2024, Masterpiece Models Best of the Computer World</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/web-enhancement-fb-stories-exporter-for-2024/"><u>Web Enhancement FB Stories Exporter for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing DirectX 9 Initialization Glitches Instantly
-date: 2024-09-18T19:07:10.773Z
-updated: 2024-09-26T10:11:59.595Z
+date: 2024-09-28T16:01:44.776Z
+updated: 2024-10-01T16:04:06.110Z
 tags:
   - win11
   - win10
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/unable-to-initialize-direct-9-device-gta5-warcraft-3-1024x701.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This error can occur for the following reasons:
@@ -41,13 +41,6 @@ This error can occur for the following reasons:
 * A specific DirectX file is missing.
 * Conflicting apps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Update your graphics card driver](https://aidotcom.pxf.io/nkz4kv)
@@ -55,6 +48,13 @@ This error can occur for the following reasons:
 3. [Enable DirectPlay](https://tokenmetrics.sjv.io/jrkzxp)
 4. [Reinstall DirectX Installer](https://printrendy.pxf.io/xyboy5)
 5. [Perform a clean boot](https://bluettiit.sjv.io/xkwq91)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
 
@@ -76,15 +76,22 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/DEvice-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Expand**Display adapters** \> right click your graphics driver > select**Uninstall device** , and check the box**Delete the driver software for this device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/uninstall-graphics-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** If you have two display adapters, try disabling the onboard/integrated one.
@@ -92,6 +99,13 @@ This error can occur for the following reasons:
 3) Install the new driver you just downloaded.
 
 4) Restart your PC and try running your game again to see if the problem still persists.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically
 
@@ -115,13 +129,6 @@ This error can occur for the following reasons:
 
 4) Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Direct3D Acceleration
 
  There might be something wrong with your DirectX settings. To see if this is the culprit, go to**DirectX Diagnostic Tool** to check if all your DirectX features are working normally (especially**Direct3D Acceleration**).
@@ -144,18 +151,18 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/turn-windows-feature-on-or-off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, you can go to**Control Panel** \>**Programs and Features** , then from the sidebar click**Turn Windows features on or off** (or**add/remove Windows Features**).
 
  2) Scroll down to**Legacy Components** , and check the box for**DirectPlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/turn-on-DirectPlay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If that doesn’t work then you’ll need to find the**DX9 runtime installer** . ie.**DirectX folder**
 
@@ -166,13 +173,6 @@ This error can occur for the following reasons:
  1) Go to Microsoft’s **[DirectX End-User Runtimes download site](https://www.microsoft.com/en-us/download/details.aspx?id=35)**  and download Microsoft’s DirectX installer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  _This is the only officially supported way to check if the correct DirectX files are currently installed._
 
@@ -186,13 +186,6 @@ This error can occur for the following reasons:
   
  Go to Steam > SteamApps > Common > GTA V > \_CommonRedist > DirectX > Jun2010 > DXSETUP
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Perform a clean boot
 
  Circumstances are there are other conflicting applications that prevent your game from working properly. To see if that’s your problem, try performing a clean boot.
@@ -202,15 +195,22 @@ This error can occur for the following reasons:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/msconfig.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click the**Service** s tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/disable-all.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Then click the**Startup** tab and select**Open Task Manager** .
 
@@ -253,18 +253,22 @@ This error can occur for the following reasons:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-making-magic-tiktok-dancing-masterclass-for-mac-users/"><u>[New] In 2024, Making Magic TikTok Dancing Masterclass for Mac Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unparalleled-screenplay-craftsmanship-across-varied-fields/"><u>[New] Unparalleled Screenplay Craftsmanship Across Varied Fields</u></a></li>
-<li><a href="https://driver-error.techidaily.com/address-realtek-lan-problem-post-windows-10-upgrade/"><u>Address Realtek LAN Problem Post-Windows 10 Upgrade</u></a></li>
-<li><a href="https://games-able.techidaily.com/akko-mod007b-for-gamers-hall-effect-keyboard-discovered/"><u>Akko MOD007B for Gamers: Hall Effect Keyboard Discovered</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/vate-community-interest-with-collaborative-lists-for-2024/"><u>Cultivate Community Interest With Collaborative Lists for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-and-fast-how-to-get-high-quality-mp3s-from-soundcloud-today/"><u>Easy & Fast: How To Get High-Quality MP3s From SoundCloud Today</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effortless-solutions-overcoming-the-itbm-driver-access-problem/"><u>Effortless Solutions: Overcoming the ITBM Driver Access Problem</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-gpts-hacking-potential-on-financial-systems/"><u>Exploring GPT's Hacking Potential on Financial Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphics-installer-maneuver-victory-achieved/"><u>Graphics Installer Maneuver – Victory Achieved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/secrets-to-silence-wired-bluetooth-on-windows/"><u>Secrets to Silence Wired Bluetooth on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-complaint-non-responsive-keyboard/"><u>System Complaint: Non-Responsive Keyboard</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-non-functional-qualcomm-atheros-bluetooth-in-windows-11-solved/"><u>Troubleshooting Non-Functional Qualcomm Atheros Bluetooth in Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-no-display-for-nvidia-graphics/"><u>[FIXED] No Display for Nvidia Graphics</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ls-pros-and-cons-firmware-versus-devices/"><u>[New] LS Pros & Cons Firmware Versus Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-mobile-audio-iphone-voice-memos-made-easy-for-2024/"><u>[New] Mastering Mobile Audio IPhone Voice Memos Made Easy for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-completing-the-process-of-disabling-your-linkedin-profile/"><u>[Updated] Completing the Process of Disabling Your LinkedIn Profile</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-fixes-to-address-the-bsod-stop-code-0x0000007e-on-windows/"><u>Comprehensive Fixes to Address the BSOD Stop Code 0X0000007E on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-load-error-device-event-no-219/"><u>Driver Load Error - Device Event No. 219</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-strategies-to-reset-and-reboot-your-iphone-15-smoothly/"><u>Expert Strategies to Reset and Reboot Your iPhone 15 Smoothly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-lenovo-y570-driver-issues-for-windows-10/"><u>Fix Lenovo Y570 Driver Issues for Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-bluetooth-disconnect-in-windows-11-quick-guide-solution-found/"><u>Fixing Bluetooth Disconnect in Windows 11 (Quick Guide) - Solution Found</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-omission-of-dvdcd-readers-on-win11/"><u>Fixing Omission of DVD/CD Readers on Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-potential-problems-with-windows-10-update-databases/"><u>How to Correct Potential Problems with Windows 10 Update Databases</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oppo-reno-11-pro-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Oppo Reno 11 Pro 5G Without PUK Codes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-time-sale-on-the-m3-macbook-air-speedy-16gb-and-elegant-13-for-just-1149-dont-miss-out/"><u>Limited Time Sale on the M3 MacBook Air: Speedy 16GB & Elegant 13 for Just $1,149 - Don't Miss Out!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-misidentification-fixes-in-your-apple-gallery-with-these-simple-steps/"><u>Master Misidentification Fixes in Your Apple Gallery with These Simple Steps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-device-hub-error-48/"><u>Resolved: Device Hub Error 48</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stop-repeat-uninstalls-fix-nvidia-software-issue/"><u>Stop Repeat Uninstalls: Fix Nvidia Software Issue</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/xsplit-exclusive-direct-split-insight-for-2024/"><u>XSplit Exclusive Direct Split Insight for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Win10 Solution: Lenovo BT Driver Malfunction"
-date: 2024-09-21T17:43:14.903Z
-updated: 2024-09-26T05:36:28.119Z
+date: 2024-09-25T16:10:59.424Z
+updated: 2024-10-01T16:08:42.412Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7a64714f6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Expand **Bluetooth Radios**  or **Bluetooth** .
 
 **Note** : If you **cannot** see any items listed under Network adapters or Bluetooth Radios, please proceed to **Option 2** .
@@ -47,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7d4daf634.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) If you see a down arrow, your Bluetooth device is disabled, just right-click the item and click **Enable** .
@@ -62,16 +69,10 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 2: Enable discovery mode
@@ -83,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 3: Update Bluetooth driver
 
@@ -98,23 +106,9 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver-scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 4: Perform a refresh
 
@@ -138,20 +132,20 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-high-quality-inexpensive-countdown-apps/"><u>[New] In 2024, High-Quality Inexpensive Countdown Apps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unleashing-win11s-potential-with-zoom-conferencing/"><u>[New] Unleashing Win11's Potential with Zoom Conferencing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-10-top-rated-digital-video-cutting-tools/"><u>[Updated] 10 Top-Rated Digital Video Cutting Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-apex-artistry-best-portable-machines-for-uhd-filmmaking/"><u>[Updated] In 2024, Apex Artistry Best Portable Machines for UHD Filmmaking</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bios-interrupt-resolution-complete/"><u>BIOS Interrupt Resolution Complete</u></a></li>
-<li><a href="https://driver-error.techidaily.com/broadcom-80211n-network-adapter-not-working-on-windows-solved/"><u>Broadcom 802.11N Network Adapter Not Working on Windows [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/conquering-drive-distress-the-story-of-e52/"><u>Conquering Drive Distress: The Story of E52</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-steps-to-updatedownload-hp-envy-ebowarders/"><u>Easy Steps to Update/Download HP Envy Ebowarders</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-venintanddev33a0-acpi-errors/"><u>Fixing VEN_INT&DEV_33A0 ACPI Errors</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-file-conversion-tool-by-movavi-seamlessly-change-avi-to-mp4-videos-online-without-hassle/"><u>Free File Conversion Tool by Movavi: Seamlessly Change AVI to MP4 Videos Online Without Hassle</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-video-loading-on-facebook/"><u>Mastering Video Loading on Facebook</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-slow-and-steady-wins-the-game-top-10-video-players-for-slow-motion-for-2024/"><u>New Slow and Steady Wins the Game Top 10 Video Players for Slow Motion for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-the-mystery-of-non-functional-dolby-sound-in-your-pc-heres-how/"><u>Solving the Mystery of Non-Functional Dolby Sound in Your PC – Here’s How! ✅</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-definitive-fixes-when-your-wireless-keyboard-fails-in-windows-environment/"><u>The Definitive Fixes When Your Wireless Keyboard Fails in Windows Environment</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-techniques-for-capturing-virtual-reality-gaming/"><u>[New] In 2024, Top Techniques for Capturing Virtual Reality Gaming</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bid-farewell-to-win11s-elan-touchpad-anomalies/"><u>Bid Farewell to Win11's Elan Touchpad Anomalies</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-unsupported-driver-issue-with-amd-and-intel-graphics-in-premier-pro/"><u>Corrected Unsupported Driver Issue with AMD & Intel Graphics in Premier Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-fixes-switching-to-safe-mode-and-deleting-graphics-card-drivers-in-windows-8/"><u>Effective Fixes: Switching to Safe Mode & Deleting Graphics Card Drivers in Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-on-repairing-iphone-mtp-usb-interface-driver-glitches-for-easy-data-transfer/"><u>Expert Advice on Repairing iPhone MTP USB Interface Driver Glitches for Easy Data Transfer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-effects-of-the-european-ai-governance-framework-on-next-gen-language-tools-like-chatgpt/"><u>Exploring Effects of the European AI Governance Framework on Next-Gen Language Tools Like ChatGPT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/garmins-ultra-30-camera-unveiled-a-comprehensive-guide-for-2024/"><u>Garmin's Ultra 30 Camera Unveiled A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-to-effortlessly-convert-your-favorite-live365-radio-channels-into-popular-audio-files-mp3-wav-or-aac-using-the-latest-download-tool/"><u>How to Effortlessly Convert Your Favorite Live365 Radio Channels Into Popular Audio Files: MP3, WAV, or AAC Using the Latest Download Tool</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-realme-c53-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Realme C53 without App | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-investment-in-streaming-comparative-evaluation/"><u>In 2024, Best Investment in Streaming Comparative Evaluation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-experience-the-virtual-reality-frontier-on-youtube/"><u>In 2024, Experience the Virtual Reality Frontier on Youtube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-samsung-galaxy-a34-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Samsung Galaxy A34 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/meltdown-and-spectre-intel-me-solutions/"><u>Meltdown & Spectre: Intel ME Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimize-bluetooth-drivers-make-windows-work-better/"><u>Optimize Bluetooth Drivers, Make Windows Work Better!</u></a></li>
+<li><a href="https://facebook.techidaily.com/reimagine-your-digital-life-4-key-strategies-to-refine-your-facebook-viewing/"><u>Reimagine Your Digital Life: 4 Key Strategies to Refine Your Facebook Viewing</u></a></li>
 </ul></div>
 

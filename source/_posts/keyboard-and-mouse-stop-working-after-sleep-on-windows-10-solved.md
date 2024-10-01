@@ -1,7 +1,7 @@
 ---
 title: Keyboard & Mouse Stop Working After Sleep on Windows 10 [Solved]
-date: 2024-08-15T06:52:58.964Z
-updated: 2024-08-16T06:52:58.964Z
+date: 2024-09-27T16:07:00.403Z
+updated: 2024-10-01T16:06:12.543Z
 tags:
   - win11
   - win10
@@ -55,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/never-install-driver-software-from-windows-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **2: Reinstall Mouse and Keyboard Drivers**
 
  Faulty or outdated mouse and keyboard drivers is very likely to be the cause of this problem. You should verify that your mouse and keyboard have the right drivers, and update if they don’t.
@@ -73,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da32fa64698.png)
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged mouse and keyboard devices to automatically download and install the correct versions of their drivers (you can do this with the FREE version).
 
@@ -84,8 +78,19 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da32ef108f4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3: Change the Settings in Power Management**
 
  Faulty settings in Power Management is also one of the likely reasons for this problem. You can change to a different setting mode to see if the problem is resolved:
@@ -94,25 +99,30 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf3b03a6678.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Expand **Mice and other pointing devices** . For keyboard driver, expand**Keyboards** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/mice-and-other-pointing-devices-keyboard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Right-click the device name of your mouse or keyboard driver and click **Properties** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/properties.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click **Power Management** , make sure the box for **Allow the computer to turn off his device to save power** option is un-checked and click**OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/allow-the-computer-to-turn-off-his-device-to-save-power.png)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Reboot your computer. See if this problem occurs again.
@@ -123,8 +133,6 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +140,26 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-cards-not-shown-on-windows-machine/"><u>[FIXED] Cards Not Shown on Windows Machine</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-conceptualizing-shorter-vids-for-instagram-with-mac/"><u>[New] Conceptualizing Shorter Vids for Instagram with Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-enhancing-live-skype-broadcasts-using-obs-software/"><u>[New] In 2024, Enhancing Live Skype Broadcasts Using OBS Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-filming-to-sharing-a-youtube-video-edition/"><u>[Updated] 2024 Approved From Filming to Sharing A YouTube Video Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-immediate-view-of-windows-pics/"><u>[Updated] Immediate View of Windows Pics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-fast-track-your-feed-mastering-instagram-likes-and-vids-artistry/"><u>[Updated] In 2024, Fast-Track Your Feed Mastering Instagram Likes & Vids Artistry</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-giggles-guide-to-sign-insign-out/"><u>2024 Approved Giggles Guide to Sign-In/Sign-Out</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-2024-picks-eight-parental-monitoring-solutions-for-safe-kids-online/"><u>Best 2024 Picks: Eight Parental Monitoring Solutions for Safe Kids Online</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-prowess-windows-made-simple-and-fast/"><u>Bluetooth Prowess: Windows Made Simple & Fast</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/breaking-down-the-science-behind-green-screen-filmmaking-for-starters/"><u>Breaking Down the Science Behind Green Screen Filmmaking for Starters</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-cut-content-how-to-minimize-unwanted-elements-in-video/"><u>Clear Cut Content How to Minimize Unwanted Elements in Video</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-absence-to-presence-touchpad-driver-reinstated/"><u>From Absence to Presence: Touchpad Driver Reinstated</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-efficiently-downloading-and-installing-new-drivers-for-your-hp-envy-20-computer/"><u>Guide to Efficiently Downloading and Installing New Drivers for Your HP ENVY 20 Computer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-an-hp-wireless-keyboard-that-isnt-responding-solutions-inside/"><u>How to Fix an HP Wireless Keyboard That Isn't Responding - Solutions Inside</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-iphones-external-storage-connectivity-via-usb-an-ultimate-guide/"><u>How to Fix iPhone's External Storage Connectivity via USB: An Ultimate Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-how-to-start-a-private-live-stream-on-youtube/"><u>In 2024, How To Start a Private Live Stream on YouTube</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-wireless-keyboard-on-windows/"><u>Troubleshooting Guide: Fixing a Nonfunctional Wireless Keyboard on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-issues-with-unrecognized-final-usb-device-on-windows/"><u>Troubleshooting Guide: Resolving Issues with Unrecognized Final USB Device on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103778364-your-pc-graphics-issues-let-us-fix-your-nvidia-rtx-gaming-woes/"><u>Your PC Graphics Issues? Let Us Fix Your Nvidia RTX Gaming Woes</u></a></li>
+</ul></div>
 

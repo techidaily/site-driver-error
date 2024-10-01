@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for When Your Computer Ignores the Latest Plugged-In USB
-date: 2024-09-19T20:07:05.067Z
-updated: 2024-09-26T03:31:21.702Z
+date: 2024-09-29T16:08:58.831Z
+updated: 2024-10-01T16:10:59.210Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
  Method 3: [**Disable USB selective suspend settings**](https://exvist.pxf.io/dkpnky)
  Method 4:[](https://homestyler.sjv.io/y209g3) [**Re-enable USB controller driver**](https://bluettifr.pxf.io/bax2bv)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Try another USB port
 
  If you are with a desktop, try to connect your USB device to your computer via the USB ports at the back of your computer case. The USB ports at the back usually have stronger electricity power coming through, which will allow a more stable power supply to your USB device.
@@ -49,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
  If your problem stops here, the USB port might be at fault, not your USB flash drive. Try to avoid using the same port next time, in case similar problem happens again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Update all possible device drivers
@@ -68,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37710b44342.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged drivers to automatically download and install the correct versions (you can do this with the **FREE** version).
 
@@ -89,23 +103,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377758f2bdc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Change plan settings** next to the plan option you’re having now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3777c0a811b.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
@@ -118,6 +118,13 @@ Or click **Update All**  to automatically download and install the correct versi
  5) Select**Disabled** from the drop-down option. Then click**Apply** and**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377b3cef938.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **NOTE** : If you’re using a laptop, click**On battery** , then**Disabled** from the drop-down menu.
 
@@ -152,16 +159,10 @@ Or click **Update All**  to automatically download and install the correct versi
  3.1.3) When the uninstall finishes, restart your computer. Then repeat the same procedure with the rest of the USB controllers marked by yellow exclamation marks or question marks one by one.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3.2) If you don’t see any drivers marked by yellow exclamation mark or question mark
@@ -170,22 +171,15 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e629ee28.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3.2.3) When the disable finishes, restart your PC. Repeat the same procedure as above, and if your USB controller driver is not enabled automatically, right-click it and click**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e29c15b5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Your USB device should be recognized now.
@@ -207,19 +201,15 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-optimal-steadicam-devices-for-professional-drone-cinematography/"><u>[New] In 2024, Optimal Steadicam Devices for Professional Drone Cinematography</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-premier-ios-applications-for-playstation-2-simulation-for-2024/"><u>[New] Premier IOS Applications for PlayStation 2 Simulation for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-how-to-add-custom-youtube-shorts-thumbnails-with-ease-in-2024/"><u>[Updated] How to Add Custom YouTube Shorts Thumbnails with Ease, In 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unveiling-the-cash-generated-by-every-viewed-stream/"><u>[Updated] In 2024, Unveiling the Cash Generated by Every Viewed Stream</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-most-advanced-gaming-motherboards-ranked-by-socket-configuration-and-processor-support/"><u>2024'S Most Advanced Gaming Motherboards Ranked by Socket Configuration & Processor Support</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mitigating-issues-with-acpi-device-33a0/"><u>Mitigating Issues with ACPI: DEVICE 33A0</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-pitfalls-when-ai-cant-replace-a-human-psychiatrist-or-therapist/"><u>Navigating the Pitfalls: When AI Can't Replace a Human Psychiatrist or Therapist</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-fix-unrecognized-usb-in-w78/"><u>Step by Step Guide to Fix Unrecognized USB in W7/8</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-10-substituts-pour-adobe-after-effects-options-libres-de-droit-et-paid/"><u>Top 10 Substituts Pour Adobe After Effects : Options Libres De Droit Et Paid</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-iphone-xs-max-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on iPhone XS Max</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104801174-ultimate-guide-updating-and-downloading-drivers-for-your-hp-envy-20/"><u>Ultimate Guide: Updating and Downloading Drivers for Your HP Envy 20</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-audio-post-production-in-fcp-a-beginners-guide-to-pro-results/"><u>Updated Audio Post-Production in FCP A Beginners Guide to Pro Results</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11s-high-disk-usage-explained-and-solved/"><u>Win11's High Disk Usage Explained & Solved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-8-and-7-device-driver-troubleshooting-and-resolution-steps/"><u>Windows 11, 8 & 7 Device Driver Troubleshooting and Resolution Steps</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-funflicks-full-evaluation-and-instructions-24/"><u>[Updated] 2024 Approved FunFlicks Full Evaluation & Instructions '24</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-vs-chatgpt-analyzing-which-chatbot-takes-the-lead-in-intelligent-conversations/"><u>Claude Vs. ChatGPT: Analyzing Which Chatbot Takes the Lead in Intelligent Conversations.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722969233847-download-the-ultimate-validity-fingerprint-sensor-software-fast-and-simple-installation/"><u>Download the Ultimate Validity Fingerprint Sensor Software: Fast and Simple Installation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-battleye-service-unable-to-initialize-due-to-error-1450-a-comprehensive-guide/"><u>Fixing 'BattlEye Service Unable To Initialize' Due To Error 1450 - A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-data-acquisition-issue-in-windows-os/"><u>Resolving Data Acquisition Issue in Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/simple-fixes-for-itbm-driver-not-found-errors-on-your-computer/"><u>Simple Fixes for ITBM Driver Not Found Errors on Your Computer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-to-prevent-videos-from-displaying-upside-down-on-an-asus-notebook/"><u>Step-by-Step Solutions to Prevent Videos From Displaying Upside Down on an ASUS Notebook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-ninja-techniques-for-instagram-reels/"><u>The Ultimate Ninja Techniques for Instagram Reels</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-zte-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your ZTE Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Nokia 105 Classic? | Dr.fone</u></a></li>
 </ul></div>
 

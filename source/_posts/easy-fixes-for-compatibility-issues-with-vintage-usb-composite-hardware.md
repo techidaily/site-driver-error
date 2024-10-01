@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for Compatibility Issues with Vintage USB Composite Hardware
-date: 2024-09-23T02:16:10.764Z
-updated: 2024-09-26T12:14:22.402Z
+date: 2024-09-26T16:03:12.151Z
+updated: 2024-10-01T16:10:39.403Z
 tags:
   - win11
   - win10
@@ -28,10 +28,16 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 3. **[Use the Windows USB Troubleshooter](https://ukaidot.sjv.io/daqnoj)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your USB Composite Device driver
@@ -51,13 +57,6 @@ Fortunately, this is one of the easiest problems to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb894ac5bd51.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb894ea5449a.jpg)
 4. Restart your computer and check if your USB Composite Device now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
@@ -76,19 +75,32 @@ Fortunately, this is one of the easiest problems to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b616832c16a0.jpg)
 3. In Device Manger, scroll down to find**Universal Serial Bus controllers** and expand the entry.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b61714f05a95.jpg)
 4. Right-click on the first USB device and select**Uninstall device**  to remove it.  
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Important:** Make sure you’ve saved any open files on your computer before you click**Uninstall device** , as you might need to force shutdown and restart later.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6171a9ae8b0.jpg)
 5. Repeat step 4) with every other USB device that is listed under the**Universal Serial Bus controllers** entry.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** Some USB devices have to do with your wired mouse, keyboard etc, which means uninstalling those devices will make them not working, don’t worry, just temporarily. As long as Windows restarts, it will automatically install the drivers again.
 6. Once you’ve uninstalled them all,**restart** your computer.  
@@ -99,10 +111,10 @@ Fortunately, this is one of the easiest problems to fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Use the Windows USB Troubleshooter
@@ -132,19 +144,19 @@ Fortunately, this is one of the easiest problems to fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-resonant-revelry-auditory-additions-to-whatsapp-statues/"><u>[Updated] 2024 Approved Resonant Revelry Auditory Additions to WhatsApp Statues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/a-deep-dive-into-retro-usb-systems-understanding-the-functionality-and-limitations-of-usb-composite-gadgets/"><u>A Deep Dive Into Retro USB Systems: Understanding the Functionality and Limitations of USB Composite Gadgets</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-unavailable-coprocessor-driver-issue-in-windows-10/"><u>Fixing the Unavailable Coprocessor Driver Issue in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-windows-inability-to-press-enter-key/"><u>Fixing Windows' Inability to Press Enter Key</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-redmi-12-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi 12 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-13-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi 13 Ultra without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Tecno Spark 20? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-reveal-new-dimensions-of-communication-access-free-vocal-effects-here/"><u>In 2024, Reveal New Dimensions of Communication - Access Free Vocal Effects Here</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-issues-when-starfield-game-crashes-or-fails-to-load-on-pc/"><u>Resolving Issues: When Starfield Game Crashes or Fails to Load on PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/smoothing-glitches-out-in-win10-elan-touchpad-setup/"><u>Smoothing Glitches Out in Win10, Elan Touchpad Setup</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-15-windows-10-recording-applications-reviewed-for-2024/"><u>Top 15 Windows 10 Recording Applications Reviewed for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-logitech-g533-microphone-issues-a-comprehensive-guide/"><u>Troubleshooting & Fixing Logitech G533 Microphone Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-device-not-properly-set-up-error-error-code-1/"><u>Troubleshooting Guide: Fixing 'Device Not Properly Set Up' Error (Error Code 1)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-getting-lost-ark-running-again/"><u>Ultimate Guide: Getting Lost Ark Running Again</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-beginners-overview-of-animation-trends-for-2024/"><u>[New] Beginner's Overview of Animation Trends for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-weaving-pictures-into-a-musical-tapestry-for-2024/"><u>[New] Weaving Pictures Into a Musical Tapestry for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-construct-playlist-with-film-assortments/"><u>[Updated] In 2024, Construct Playlist with Film Assortments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-unconnected-no-matching-software/"><u>Device Unconnected: No Matching Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-solutions-to-address-itbm-driver-access-problems-fast/"><u>Easy Solutions to Address ITBM Driver Access Problems Fast</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721099121150-ensure-that-the-latest-version-of-directx-is-installed/"><u>Ensure that the Latest Version of DirectX Is Installed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-stop-your-macbook-from-sleeping-when-you-close-the-lid/"><u>How to Stop Your MacBook From Sleeping When You Close the Lid</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photobooth-recording-stalls-whats-goin-on/"><u>In 2024, Photobooth Recording Stalls What's Goin' On?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-s-best-free-dvd-player-software-for-windows-10-pcs/"><u>New In 2024, S Best Free DVD Player Software for Windows 10 PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-privacy-in-bespoke-gpt-scenarios/"><u>Protecting Privacy in Bespoke GPT Scenarios</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-driver-troubleshooting-and-solutions-for-windows-10-users/"><u>Qualcomm Atheros Bluetooth Driver Troubleshooting and Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-fixes-for-non-functional-drag-and-drop-feature-on-pcs/"><u>Quick Fixes for Non-Functional Drag and Drop Feature on PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-invalid-inf-configuration/"><u>Resolving Invalid INF Configuration</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-installation-failed-overcoming-access-is-denied-challenges-on-your-computer-system/"><u>USB Installation Failed - Overcoming Access Is Denied Challenges on Your Computer System</u></a></li>
 </ul></div>
 

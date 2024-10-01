@@ -1,7 +1,7 @@
 ---
 title: "Service Section Fix: Validated INF"
-date: 2024-09-25T10:06:18.361Z
-updated: 2024-09-26T09:02:00.785Z
+date: 2024-09-24T16:10:07.178Z
+updated: 2024-10-01T16:10:19.559Z
 tags:
   - win11
   - win10
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
@@ -97,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
@@ -108,16 +108,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -147,18 +141,19 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-capture-the-thrill-choosing-superior-cam-accessories/"><u>[New] Capture the Thrill Choosing Superior Cam Accessories</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unveiling-top-5-mac-snippet-applications-for-2024/"><u>[New] Unveiling Top 5 Mac Snippet Applications for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-in-depth-analysis-top-15-youtube-channels-for-epic-product-reviews/"><u>[Updated] 2024 Approved In-Depth Analysis Top 15 YouTube Channels for Epic Product Reviews</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-multi-snapping-made-simple-in-snapchat-video-edits/"><u>[Updated] Multi-Snapping Made Simple in Snapchat Video Edits</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-smile-and-shine-transform-photos-at-no-expense/"><u>[Updated] Smile & Shine Transform Photos at No Expense</u></a></li>
-<li><a href="https://driver-error.techidaily.com/clarify-device-not-found-on-win98beta/"><u>Clarify 'Device Not Found' On Win98Beta</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-steps-to-repair-non-functional-laptoppc-keyboards-article-name-358-characters/"><u>Easy Steps to Repair Non-Functional Laptop/PC Keyboards - Article Name — 358 Characters</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-12t-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-12-miniipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone 12 mini/iPad Without Computer</u></a></li>
-<li><a href="https://driver-error.techidaily.com/missing-driver-detection-issue/"><u>Missing Driver Detection Issue</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-pinnacle-studio-for-mac-explore-these-excellent-alternative-options/"><u>New 2024 Approved Pinnacle Studio for Mac Explore These Excellent Alternative Options</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revealed-ms-bda-through-gfx-lens/"><u>Revealed: MS BDA Through GFX Lens</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-shelldll-file-absence-a-comprehensive-guide/"><u>Solving the 'Shell.DLL' File Absence: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-needed-blank-display-on-mouse-input-device/"><u>[Fix Needed]: Blank Display on Mouse Input Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-olympic-snowboard-x-sprint-highlights-22/"><u>[New] Olympic Snowboard X Sprint Highlights '22</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-minimca-manorettes-simple-and-sleek-homes-in-mc-world/"><u>[Updated] MiniMCA Manorettes Simple & Sleek Homes in MC World</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeos-global-distribution-guide-for-2024/"><u>[Updated] Vimeo's Global Distribution Guide for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tips-for-msi-bravo-driver-update/"><u>Essential Tips for MSI Bravo Driver Update</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-error-code-1-ensuring-proper-configuration-of-your-device/"><u>Fixing Error Code 1: Ensuring Proper Configuration of Your Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-correct-invalidly-installed-device-drivers-in-windows/"><u>How to Correct Invalidly Installed Device Drivers in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-disconnected-drives-in-windows-1110/"><u>How to Fix Disconnected Drives in Windows 11/10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-samsung-cf591-is-it-ideal-for-gamers/"><u>In-Depth Analysis of Samsung CF591: Is It Ideal for Gamers?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/invalid-section-overhauwed-service-inf-now-validated/"><u>Invalid Section Overhauwed - Service INF Now Validated</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726027680273-pc/"><u>PCおよびスマートフォンで動画に音声追加のコツ</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721101110804-samsung-galaxy-tab-a5-not-recognized-by-kde-neon-solution-here/"><u>Samsung Galaxy Tab A5 Not Recognized by KDE Neon, Solution Here!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/tp-link-archer-c80-evaluation-a-cost-effective-solution-for-high-performance-wireless-connectivity/"><u>TP-Link Archer C80 Evaluation: A Cost-Effective Solution for High-Performance Wireless Connectivity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-resolving-issues-with-netflix-title-playback/"><u>Troubleshooting Steps: Resolving Issues with Netflix Title Playback</u></a></li>
 </ul></div>
 

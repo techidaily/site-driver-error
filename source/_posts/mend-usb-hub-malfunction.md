@@ -1,7 +1,7 @@
 ---
 title: Mend USB Hub Malfunction
-date: 2024-08-15T06:53:05.172Z
-updated: 2024-08-16T06:53:05.172Z
+date: 2024-09-26T16:02:03.040Z
+updated: 2024-10-01T16:07:00.733Z
 tags:
   - win11
   - win10
@@ -44,8 +44,12 @@ Follow these steps:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 2: Update the Chipset Drivers
 
  To fix the problem, you can try updating the Chipset drivers. Chipset drivers are responsible for controlling communication between various components in your system like USB devices, which includes the USB drivers.
@@ -57,8 +61,18 @@ Follow these steps:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 3: Update All Drivers Automatically
 
  If the above methods don’t work for you, you can update all drivers automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -68,18 +82,26 @@ Follow these steps:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/Intel-9-series-chipset-family-sata-ahci-controller.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -93,8 +115,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +122,21 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/internal-wifi-and-bluetooth-always-on-cant-turn-off-in-my-win10-laptop48-chars/"><u>“Internal WIFI & Bluetooth Always ON - Can't Turn OFF in My Win10 Laptop(48 Chars)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-epic-assessment-and-alternative-measures-for-2024/"><u>[Updated] Epic Assessment & Alternative Measures for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quick-file-integration-from-pc-to-iphone/"><u>2024 Approved Quick File Integration From PC to iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-for-pc-overcoming-performance-problems-and-bugs/"><u>Cyberpunk 2077 for PC - Overcoming Performance Problems and Bugs</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/discover-the-ultimate-list-of-free-software-to-craft-iphone-ringtones-in-windows-11-ranked/"><u>Discover the Ultimate List of Free Software to Craft iPhone Ringtones in Windows 11 - Ranked!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-fetching-acer-aspire-5100-printer-drivers/"><u>Easy Steps to Fetching Acer Aspire 5100 Printer Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-lost-to-found-the-missing-touchpad-driver-fixes/"><u>From Lost to Found: The Missing Touchpad Driver Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-fixing-usb-setup-errors-caused-by-access-is-denied/"><u>Guide to Fixing USB Setup Errors Caused by 'Access Is Denied'</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-infinix-smart-8-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Infinix Smart 8</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-laugh-labs-free-comedy-creation-for-creative-souls/"><u>In 2024, Laugh Labs Free Comedy Creation for Creative Souls</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-nokia-c32-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Nokia C32 Phones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mcpu-solving-intellme-crashes/"><u>MCPU: Solving IntellME Crashes</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-how-to-change-volume-in-media-files-for-2024/"><u>New How to Change Volume in Media Files for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsupported-device-type-lacking-intel-adapter/"><u>Unsupported Device Type - Lacking Intel Adapter</u></a></li>
+</ul></div>
 

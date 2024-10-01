@@ -1,7 +1,7 @@
 ---
 title: "Navigating Issue #52: Drivers at a Crossroads"
-date: 2024-08-22T14:10:42.330Z
-updated: 2024-08-23T14:10:42.330Z
+date: 2024-09-26T16:01:13.406Z
+updated: 2024-10-01T16:04:12.346Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ Does this screenshot look similar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978b31ce5d8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support and** a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97921901b04.jpg)
@@ -63,9 +70,6 @@ Does this screenshot look similar?
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 2: Delete both the UpperFilters and LowerFilters Registry values
 
  The **UpperFilters** and **LowerFilters Registry values** may also cause Code 52\. You can delete them to try to solve the problem.
@@ -78,9 +82,6 @@ Here’s how to delete the values:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978ddf5949e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  3) Click **Yes** when prompted by **User Account Control** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978e1d8c395.jpg)
@@ -90,16 +91,17 @@ Here’s how to delete the values:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978e6de98f1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) ➡ **Important** : We highly recommend performing a backup for the registry keys in case any error occurs during the following process. Follow these simple steps:  
  Right-click on Class to select **Export** . Then give the export file a name, say, Class Backup. Proceed to select the backup folder, then **Save** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978ec11e9f5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  6) In the Class section, Click **{36FC9E60-C465-11CF-8056-444553540000}** , then on its edit pane on the right side, right-click **UpperFilters** to select **Delete** \> **OK** .
 
  7) On the same edit pane, right-click **LowerFilters** , then **Delete** \> **OK** .
@@ -122,24 +124,39 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97906e91771.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
  4) Click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9790a2dce62.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click **Startup Settings** , then **Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9790de2ea99.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Once you see the Startup settings menu, press **F7** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b979135f28d1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Your computer would then boot into the normal system. Go to the Device Manager to update the driver for the problem device. You can also try Driver Easy for updating drivers automatically.
 
 ---
@@ -155,8 +172,6 @@ Here’s how you can do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +179,23 @@ Here’s how you can do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-channel-command-center-mastering-your-digital-domain/"><u>[New] Channel Command Center Mastering Your Digital Domain</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-topic-titling-artisans-assistant/"><u>[New] In 2024, Topic Titling Artisan's Assistant</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-anitoonpro-detailed-2024-analysis/"><u>[Updated] AniToonPro Detailed 2024 Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-stardews-ultimate-enhancements-ranked-the-seven-best-mods/"><u>[Updated] Stardew's Ultimate Enhancements Ranked The Seven Best Mods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-investigating-magix-audio-mixer-mastery/"><u>2024 Approved Investigating MAGIX Audio Mixer Mastery</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-13t-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-of-the-linksys-ea8300-wifi-router-expertly-managing-connectivity-for-multiple-gadgets/"><u>Comprehensive Analysis of the Linksys EA8300 WiFi Router: Expertly Managing Connectivity for Multiple Gadgets</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-for-setting-up-your-device-correctly-and-fixing-mistakes-code-1/"><u>Easy Steps for Setting Up Your Device Correctly and Fixing Mistakes (Code 1)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-solutions-for-invalid-or-incompatible-drivers-on-your-windows-machine/"><u>Effective Solutions for Invalid or Incompatible Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhanced-privacy-with-protonvpn-new-stealth-feature-launch-for-windows-users/"><u>Enhanced Privacy with ProtonVPN: New Stealth Feature Launch for Windows Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-lava-yuva-3-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-windows-10-no-response-while-switching-bluetooth/"><u>Solve Windows 10 No-Response While Switching Bluetooth</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-your-computer-when-it-says-denied-access-while-installing-a-usb-drive/"><u>Solve Your Computer When It Says 'Denied Access' While Installing a USB Drive</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-code-3-the-driver-for-this-device-might-be-corrupted-in-device-manager/"><u>Solved: Code 3. The Driver for This Device Might Be Corrupted in Device Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-why-is-my-hp-wireless-keyboard-non-responsive/"><u>Troubleshooting Guide: Why Is My HP Wireless Keyboard Non-Responsive?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winning-against-windows-11-missing-processor-assist-software-quick-fixes-and-steps/"><u>Winning Against Windows 11 Missing Processor Assist Software - Quick Fixes and Steps</u></a></li>
+</ul></div>
 

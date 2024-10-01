@@ -1,7 +1,7 @@
 ---
 title: Revive Missing Seagate Hard Drive - Windows 10 Guide
-date: 2024-09-23T18:20:15.972Z
-updated: 2024-09-25T21:30:00.815Z
+date: 2024-09-30T16:06:18.925Z
+updated: 2024-10-01T16:05:40.598Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
 **[4: Assign Driver Letter to Seagate GoFlex](https://dreoaffiliateprogram.pxf.io/k0ezjl)**
 **[5: Disable Fast Startup](https://coinrule.sjv.io/rqzonv)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 1: Try A Different USB Port**
 
  Unplug your Seagate hard drive from its current port, and plug it into a working USB port, for instance, the one for your mouse.
@@ -60,22 +53,15 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/system-in-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Apps & features** . Click**Seagate software** and click the**Uninstall** button. (In the screenshot, we uninstall **Driver Easy** only as an example.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-and-features.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Go to the [**official website of Seagate**](http://www.seagate.com/gb/en/support/downloads/item/goflex-home-iso-software-master/) and download the software, create the install CD according to the instructions and then reinstall the software again on your computer.
@@ -109,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apply-and-ok.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 3: Partition the Hard Drive**
@@ -125,20 +111,27 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/disk-management.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) You should be able to see **Disk 1** is available. Right-click it and click **GPT (GUID Partition Table)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/gpt-guid-partition-table.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right-click it again and click **New simple volume** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/new-simple-volume.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There you go, your Seagate external hard drive should be able to work without any problems.
 
@@ -153,15 +146,22 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57f9f9701ebe7-600x294.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click it and click **Change Drive Letter and Paths…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-drive-letter-and-paths.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) If your external hard drive doesn’t have a letter, press **Add…** to add a letter for this drive.
 
@@ -179,22 +179,15 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Hardware and Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/hardware-and-sound-600x450.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Click **Power Options** .
 
@@ -207,6 +200,13 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
 5) Click   **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable-600x456.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Scroll down to the _**Shutdown** settings_ section and uncheck**Turn off fast startup (recommended)** . Click **Save changes**  . You might need to restart your computer after this change.
 
@@ -227,24 +227,20 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-error-45-in-system-settings/"><u>[FIXED] Error 45 in System Settings</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-analyzing-authenticity-point-in-visual-identity-sharing-platforms/"><u>[Updated] 2024 Approved Analyzing Authenticity’ Point in Visual Identity Sharing Platforms</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-superior-settings-visuals-that-stick-with-viewers/"><u>[Updated] 2024 Approved Superior Settings Visuals that Stick With Viewers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-new-to-vector-art-dive-into-basics-forms-and-software/"><u>[Updated] New to Vector Art? Dive Into Basics, Forms, and Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/access-denied-to-gpu-in-win11-os/"><u>Access Denied to GPU in Win11 OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/boost-your-gaming-game-in-win10-a-complete-razer-driver-update-guide/"><u>Boost Your Gaming Game in Win10: A Complete Razer Driver Update Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/decoding-usb-composite-devices-a-look-back-at-their-pioneering-role-in-tech-evolution/"><u>Decoding USB Composite Devices: A Look Back at Their Pioneering Role in Tech Evolution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/descargue-e-importe-archivos-gratis-desde-jpg-a-png-con-convertidor-de-imagenes-online-movavi/"><u>Descargue E Importe Archivos Gratis Desde JPG a PNG Con Convertidor De Imágenes Online - Movavi</u></a></li>
-<li><a href="https://driver-error.techidaily.com/direct-install-of-samsung-android-os-on-pc/"><u>Direct Install of Samsung Android OS on PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-transportation-costs-can-you-save-money-with-an-uber-instead-of-a-taxi/"><u>Exploring Transportation Costs: Can You Save Money with an Uber Instead of a Taxi?</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-12-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 12?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-the-blue-screen-of-death-with-error-0x00000e-on-windows-7-computers/"><u>How to Resolve the 'Blue Screen of Death' With Error 0X00000e on Windows 7 Computers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-xr-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone XR without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://win-best.techidaily.com/step-by-step-process-on-converting-and-restoring-mov-movie-files/"><u>Step-by-Step Process on Converting and Restoring MOV Movie Files</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solution-to-address-missing-coprocessor-drivers-on-your-windows-10-machine/"><u>Step-by-Step Solution to Address Missing Coprocessor Drivers on Your Windows 10 Machine</u></a></li>
-<li><a href="https://driver-error.techidaily.com/stop-repetitive-amd-software-malfunctions/"><u>Stop Repetitive AMD Software Malfunctions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/streamline-dell-input-device-in-win7/"><u>Streamline Dell Input Device in Win7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-3-metodos-para-crear-videos-a-partir-de-fotografias-una-guia-completa/"><u>Top 3 Métodos Para Crear Videos a Partir De Fotografías - Una Guía Completa</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-essential-guide-to-embedding-youtube-into-gslides/"><u>[New] 2024 Approved The Essential Guide to Embedding YouTube Into GSlides</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-magnetizing-meme-manufacturer/"><u>[New] Magnetizing Meme Manufacturer</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-educators-guide-to-thriving-youtube-channels-10-must-know-secrets/"><u>2024 Approved Educators' Guide to Thriving YouTube Channels – 10 Must-Know Secrets</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/demystifying-and-fixing-issues-related-to-vintage-usb-combined-devices/"><u>Demystifying and Fixing Issues Related to Vintage USB Combined Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enabling-sound-device-in-windows-10-via-usb-connection/"><u>Enabling Sound Device in Windows 10 via USB Connection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-netflix-inside-look-at-its-popular-streaming-platform/"><u>Exploring the World of Netflix: Inside Look at Its Popular Streaming Platform</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphic-exposure-ms-bda-interface/"><u>Graphic Exposure: MS BDA Interface</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-resolve-device-misconfigured-error-with-code-not-configured-correctly4/"><u>Guide to Resolve 'Device Misconfigured' Error with Code Not-Configured-Correctly(4)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-installing-essential-drivers-for-proper-device-functionality-on-windows-operating-systems-win1187/"><u>Guide: Installing Essential Drivers for Proper Device Functionality on Windows Operating Systems (Win11/8/7)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-issues-with-outdated-usb-composite-devices-expert-advice/"><u>How to Fix Issues with Outdated USB Composite Devices - Expert Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/illuminate-with-style-affordable-yet-stylish-solar-powered-patio-lighting-options/"><u>Illuminate with Style: Affordable Yet Stylish Solar-Powered Patio Lighting Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-lets-see-how-you-can-run-windows-and-mac-os-video-editing-apps-such-as-filmora-final-cut-pro-imovie-sony-vegas-pro-or-any-other-powerful-video-editi/"><u>In 2024, Lets See How You Can Run Windows and Mac OS Video Editing Apps, Such as Filmora, Final Cut Pro, iMovie, Sony Vegas Pro or Any Other Powerful Video Editing Software From Your Chromebook</u></a></li>
+<li><a href="https://driver-error.techidaily.com/missing-seagate-drive-troubleshooting-on-win11/"><u>Missing Seagate Drive: Troubleshooting on Win11</u></a></li>
 </ul></div>
 

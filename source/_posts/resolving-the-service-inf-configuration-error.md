@@ -1,7 +1,7 @@
 ---
 title: Resolving the Service INF Configuration Error
-date: 2024-08-22T14:10:40.064Z
-updated: 2024-08-23T14:10:40.064Z
+date: 2024-09-24T16:00:03.117Z
+updated: 2024-10-01T16:03:40.268Z
 tags:
   - win11
   - win10
@@ -79,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/a44de758792af2fb67431bc0cd10b70e0176e5a8a
 
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 3: Install the missing driver files manually
 
  If the built-in USB driver fiels**mdmcpq.inf** and usbser.sys are missing or corrupted, the problem could occur. So to fix the problem, you can try to install these two driver files. You can replace them with the same files on another computer. Follow the steps below：
@@ -89,9 +96,29 @@ thumbnail: https://thmb.techidaily.com/a44de758792af2fb67431bc0cd10b70e0176e5a8a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
 
@@ -111,8 +138,6 @@ thumbnail: https://thmb.techidaily.com/a44de758792af2fb67431bc0cd10b70e0176e5a8a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,8 +145,26 @@ thumbnail: https://thmb.techidaily.com/a44de758792af2fb67431bc0cd10b70e0176e5a8a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-tips-for-perfectly-timed-tiktok-video-captions/"><u>[New] 2024 Approved Tips for Perfectly Timed TikTok Video Captions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-capture-clarity-high-quality-screen-recordings-for-youtubers-pcmac/"><u>[New] In 2024, Capture Clarity High-Quality Screen Recordings for YouTubers (PC/Mac)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-reels-slow-motion-techniques-unveiled/"><u>[New] In 2024, Instagram Reels Slow-Motion Techniques Unveiled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-bcm20702a0-driver-is-unavailable-error/"><u>[SOLVED] BCM20702A0 Driver Is Unavailable Error</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-journey-through-podcast-land-iphoneipad-edition/"><u>[Updated] 2024 Approved Journey Through Podcast Land IPhone/iPad Edition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-affordable-online-meetings-plus-desktop-display/"><u>[Updated] 2024 Approved Ultimate Guide to Affordable Online Meetings + Desktop Display</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-c67-4g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme C67 4G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhance-gaming-performance-on-windows-10-via-razer-driver-update/"><u>Enhance Gaming Performance on Windows 10 via Razer Driver Update</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-renesas-usb-30-driver-issue-on-windows-11/"><u>Fix Renesas USB 3.0 Driver Issue on Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-adding-subtitles-in-fcpx-a-beginners-tutorial/"><u>In 2024, Adding Subtitles in FCPX A Beginners Tutorial</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-cutting-edge-techniques-for-your-instagram-story-success/"><u>In 2024, Cutting-Edge Techniques for Your Instagram Story Success</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-implementing-video-timelines-on-youtube/"><u>In 2024, Implementing Video Timelines on YouTube</u></a></li>
+<li><a href="https://driver-error.techidaily.com/making-the-most-out-of-your-elan-on-latest-windows-11/"><u>Making the Most Out of Your Elan on Latest Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/managing-100-disk-usage-in-win1110/"><u>Managing 100% Disk Usage in Win11/10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mouse-troubleshoot-invisible-hand-in-windows/"><u>Mouse Troubleshoot - Invisible Hand in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-missing-drivers-issue-on-windows-windows-11-8-and-7-guide/"><u>Resolving Missing Drivers Issue on Windows: Windows 11, 8 & 7 Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seagate-hdd-unseen-in-windows-10-resolution-guide/"><u>Seagate HDD Unseen in Windows 10 - Resolution Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/synchronize-win7-dell-touchpad-response/"><u>Synchronize Win7 Dell Touchpad Response</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

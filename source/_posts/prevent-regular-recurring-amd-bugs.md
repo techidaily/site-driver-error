@@ -1,7 +1,7 @@
 ---
 title: Prevent Regular Recurring AMD Bugs
-date: 2024-09-22T10:41:18.199Z
-updated: 2024-09-26T03:02:17.883Z
+date: 2024-09-26T16:09:35.225Z
+updated: 2024-10-01T16:02:15.160Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc92
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/12/AMD-Radeon-RX-6700-XT.jpg)
 4. After updating, restart your computer to take effect.
@@ -45,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc92
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Roll back the faulty AMD driver
 
@@ -65,7 +65,22 @@ Here’s how:
 3. Click the **Driver** tab and then click **Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-1.png)
 4. Click **Yes** to confirm. Then the driver will be restored to a previous version.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Restart** you computer and check if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Repair system files
 
@@ -91,19 +106,6 @@ Here’s how to use Fortect to repair system files on your PC:
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Run SFC scan
 
 **System File Checker** (**SFC**) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files(including those related to **BSOD**). To **run the SFC scan** :
@@ -112,21 +114,14 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/cmd-run-as-admin-1.jpg)
 2. Click**Yes** when prompted to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -154,22 +149,24 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/quick-resolution-need-help-our-expert-found-a-fix-for-your-gpu-problem-in-gaming/"><u>(Quick-Resolution) Need Help? Our Expert Found a Fix for Your GPU Problem in Gaming</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721098766767-quick-resolution-need-help-our-expert-found-a-fix-for-your-gpu-problem-in-gaming/"><u>(Quick-Resolution) Need Help? Our Expert Found a Fix for Your GPU Problem in Gaming.</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-best-motivational-films-to-fuel-your-ambition/"><u>[New] The Best Motivational Films to Fuel Your Ambition</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-flawless-transcription-mastery-with-googles-ai-for-2024/"><u>[Updated] Flawless Transcription Mastery with Google's AI for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-grandiose-photographic-epic-weaver-for-2024/"><u>[Updated] Grandiose Photographic Epic Weaver for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-peek-into-pixel-play-resolution-basics-explained/"><u>[Updated] Peek Into Pixel Play Resolution Basics Explained</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-non-competitive-front-row-fun-ranking-the-top-ten/"><u>2024 Approved Non-Competitive Front Row Fun Ranking the Top Ten</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-building-blocks-of-graphic-animation/"><u>2024 Approved The Building Blocks of Graphic Animation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-advice-resolving-unable-to-install-hcmondrv-errors-successfully/"><u>Expert Advice: Resolving 'Unable to Install Hcmondrv' Errors Successfully</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-honor-magic-6-lite-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Honor Magic 6 Lite?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Pro Max to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721105186418-quick-fixes-for-overcoming-the-missing-itbm-driver-error-get-back-online-now/"><u>Quick Fixes for Overcoming the Missing ITBM Driver Error – Get Back Online Now</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721097549885-re-pair-and-recognize-your-latest-cam-on-updated-pc-an-expert-guide-completely-solved-fixed/"><u>Re-Pair and Recognize Your Latest Cam on Updated PC: An Expert Guide, Completely Solved! [Fixed]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solution-guide-correcting-issues-with-non-compatible-drivers-on-your-device/"><u>Solution Guide: Correcting Issues with Non-Compatible Drivers on Your Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/speedily-correct-the-missing-itbm-driver-issue-with-simple-tips/"><u>Speedily Correct the Missing ITBM Driver Issue with Simple Tips!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-smooth-reliable-performance/"><u>Windows 11: Smooth, Reliable Performance</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-16-innovative-ways-to-archive-web-based-podcasts/"><u>[New] 2024 Approved 16 Innovative Ways to Archive Web-Based Podcasts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ow-to-get-paid-on-youtube-from-adsense-to-your-bank-account-for-2024/"><u>[New] How To Get Paid on YouTube - From AdSense to Your Bank Account for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-simple-guide-to-effective-and-smooth-iphone-screen-recordings/"><u>[New] Simple Guide to Effective & Smooth Iphone Screen Recordings</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-lava-storm-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Lava Storm 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/engineered-escape-plan-for-error-e52/"><u>Engineered Escape Plan for Error E52</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-on-correcting-the-hcmon-driver-installation-problem/"><u>Expert Advice on Correcting the HCMon Driver Installation Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/get-your-qualcomm-atheros-bluetooth-back-to-life-on-windows-10-step-by-step-solution/"><u>Get Your Qualcomm Atheros Bluetooth Back to Life on Windows 10 - Step by Step Solution</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oneplus-ace-2-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On OnePlus Ace 2 Pro?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-realme-narzo-n55-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Realme Narzo N55</u></a></li>
+<li><a href="https://driver-error.techidaily.com/inception-excitingly-and/"><u>Inception - Excitingly) And</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-why-the-anticipated-app-the-ascent-hasnt-debuted/"><u>Resolved: Why the Anticipated App 'The Ascent' Hasn't Debuted</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-missing-msvcrtdll-issues-step-by-step-guide/"><u>Resolving 'Missing msvcrt.dll' Issues: Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-driver-conflicts-in-windows-quickly/"><u>Resolving Driver Conflicts in Windows Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/software-lack-for-device-noticed-by-os/"><u>Software Lack for Device Noticed by OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-leaving-s-mode-on-win-1110/"><u>The Ultimate Guide: Leaving S Mode on Win 11/10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-solution-for-default-radeon-wattman-restoration-errors/"><u>The Ultimate Solution for Default Radeon Wattman Restoration Errors</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/tips-for-placing-the-toolbar-menu-atop-flipbooks-with-flipbuilder-best-practices-and-steps/"><u>Tips for Placing the Toolbar Menu Atop Flipbooks with FlipBuilder – Best Practices and Steps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-prevents-graphics-hardware-connection/"><u>Win11 Prevents Graphics Hardware Connection</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-update-what-to-do-when-you-encounter-a-missing-coprocessor-driver-problem/"><u>Windows 11 Update: What To Do When You Encounter a Missing Coprocessor Driver Problem</u></a></li>
 </ul></div>
 

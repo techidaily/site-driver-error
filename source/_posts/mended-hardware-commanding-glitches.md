@@ -1,7 +1,7 @@
 ---
 title: Mended Hardware Commanding Glitches
-date: 2024-09-21T13:10:24.794Z
-updated: 2024-09-25T19:57:31.677Z
+date: 2024-09-27T16:12:02.214Z
+updated: 2024-10-01T16:02:06.545Z
 tags:
   - win11
   - win10
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
  Some sectors in your computer may be damaged, and you can try**switching your USB drive to a different port** . It worked for some users. If it doesn’t solve your “ The driver detected a controller error on \\Device\\Harddisk1\\DR1″ problem,  try Solution 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 2: Update your USB driver
@@ -50,26 +50,20 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84c2843cf68.jpg)
 4. You may need to restart your computer to finish the process. Then check if your “The driver detected a controller error on \\Device\\Harddisk1\\DR1 ” problem is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -95,22 +89,17 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-top-10-free-graphics-websites-a-compreran-analysis/"><u>[New] 2024 Approved Top 10 FREE Graphics Websites A Compreran Analysis</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ree-online-tools-for-youtube-channel-starters-for-2024/"><u>[New] Free Online Tools for YouTube Channel Starters for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-effortless-engagement-how-to-craft-a-direct-subscribe-link/"><u>[New] In 2024, Effortless Engagement How to Craft a Direct Subscribe Link</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-rectifying-partial-muted-sounds-in-facebook-media-shows/"><u>[New] Rectifying Partial Muted Sounds in Facebook Media Shows</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-channel-up-your-wealth-profit-from-effective-use-of-youtube-shorts/"><u>[Updated] 2024 Approved Channel Up Your Wealth Profit From Effective Use of YouTube Shorts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-masterful-voice-modification-tools-for-smartphones/"><u>2024 Approved Masterful Voice Modification Tools for Smartphones</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-virtual-worlds-practical-applications/"><u>2024 Approved Virtual World's Practical Applications</u></a></li>
-<li><a href="https://driver-error.techidaily.com/balanced-hdd-control-mechanism/"><u>Balanced HDD Control Mechanism</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetoothusb-headset-not-recognized-windows-10-guide-to-solutions/"><u>Bluetooth/USB Headset Not Recognized: Windows 10 Guide to Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crucial-definitions-of-online-narrative-artistry/"><u>Crucial Definitions of Online Narrative Artistry</u></a></li>
-<li><a href="https://driver-error.techidaily.com/discovering-name-for-glplusicd-driver/"><u>Discovering Name for GL+ICD Driver</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhanced-conversion-rates-with-advanced-automated-bidding-inspired-by-cookiebot/"><u>Enhanced Conversion Rates with Advanced Automated Bidding - Inspired by Cookiebot</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-erratic-trackpad-behavior-in-dell-windows-7/"><u>Fix Erratic Trackpad Behavior in Dell-Windows 7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-download-andupdate-drivers-for-hp-envy-20-pc-series/"><u>How to Download &Update Drivers for HP ENVY 20 PC Series</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-get-your-qualcomm-atheros-bluetooth-working-again-on-a-windows-10-pc/"><u>How to Get Your Qualcomm Atheros Bluetooth Working Again on a Windows 10 PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/making-logitech-receptor-discoverable-on-pcs/"><u>Making Logitech Receptor Discoverable on PCs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-invisible-cddvd-on-windows-11/"><u>Resolving Invisible CD/DVD on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-wireless-mouse-not-working-on-windows/"><u>[Fixed] Wireless Mouse Not Working on Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-time-lapse-video-techniques-for-ipad-users-for-2024/"><u>[New] Time-Lapse Video Techniques for iPad Users for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/acpi-driver-fix-for-device-id-33a0/"><u>ACPI Driver Fix for Device ID 33A0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-the-setup-of-your-gadget-overcoming-code-1-hurdles/"><u>Correcting the Setup of Your Gadget - Overcoming Code 1 Hurdles</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-hp-zbook-15-g3-graphics-and-audio-drivers-on-your-pc-running-windows/"><u>Effortless Installation of HP ZBook 15 G3 Graphics & Audio Drivers on Your PC Running Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-atheros-bluetooth-issues-on-windows-10-complete-solution/"><u>Fixing Qualcomm Atheros Bluetooth Issues on Windows 10: Complete Solution</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/inshot-vs-other-editors-comprehensive-analysis/"><u>InShot vs Other Editors Comprehensive Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-no-sound-dilemma-heres-how-to-make-calls-audible-again/"><u>IPhone No Sound Dilemma? Here's How to Make Calls Audible Again!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-bluetooth-issues-on-pcs-with-the-latest-os-update-easily-done/"><u>Overcoming Bluetooth Issues on PCs with the Latest OS Update [Easily Done]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-windows-11s-intermittent-audio-problem-effective-solutions-and-tips/"><u>Solving Your Windows 11'S Intermittent Audio Problem: Effective Solutions and Tips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-creme-de-la-creme-live-streaming-services-for-2024/"><u>The Crème De La Créme Live Streaming Services for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-realme-gt-neo-5-se-by-drfone-android/"><u>Three Ways to Sim Unlock Realme GT Neo 5 SE</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Driver Recovery for a Working Touchpad
-date: 2024-08-15T06:53:35.900Z
-updated: 2024-08-16T06:53:35.900Z
+date: 2024-09-24T16:03:33.308Z
+updated: 2024-10-01T16:03:07.551Z
 tags:
   - win11
   - win10
@@ -27,6 +27,19 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 
  In some cases, the **touchpad driver will be missing** because the version that you have is not right for the operating system or perhaps because it did not install correctly in the first place. In most cases though, the problem **can be fixed by using one of the two following methods** :
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Perform an in-place Windows Update](https://sentrypc.7eer.net/dkpkgn)**
@@ -35,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 4. **[Check your battery](https://aidotcom.pxf.io/nkz4kv)**
 5. **[Restore your BIOS to default](https://aspironcom.sjv.io/kj14en)**
 6. **[Repair corrupt files](https://silver-cuisine.pxf.io/nlgolx)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1\. Perform an in-place Windows Update
 
@@ -45,27 +65,32 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
  1\. Type**check for updates** in the Search box and select**Check for updates** .
 
 ![check for updates](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 
  2\. Click the**Check for updates** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/check-for-updates.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. If your Windows system is already up to date, you can click**View optional updates** and check if there’re any new drivers listed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/optional.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
  4\. Check all the drivers that require updates, and click the**Download and install** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/download-and-install-drivers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5\. Once complete, restart your PC for the changes to take effect.
 
@@ -87,9 +112,23 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scannow-new.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Click the **Update** button next to the flagged AMD graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/download-touchpad-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support** and **a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
@@ -109,16 +148,10 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 **msdt.exe -id DeviceDiagnostic**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-17.png)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2\. Click**Next** to continue, and the troubleshooter tool will start detecting known issues with your touchpad.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-18-1200x934.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3\. If the Windows diagnostic tool finds you any fixes, click**Apply this fix** . You might need to restart your computer for the changes to take effect.
 
@@ -140,9 +173,6 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 
  If the battery is swelling up or pushing forward to the touchpad, it might cause your touchpad to not work. If that’s your case, you should replace your battery.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5\. Restore your BIOS to default
 
  If the fixes above didn’t help to solve your touchpad missing from the Device Manager issue, you might need to check your BIOS and set it to default to see if that helps.
@@ -167,17 +197,24 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
  3\. Use the arrow key to select **Yes** , then BIOS will be restored to default.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/defalts.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4\. Once done, press the key next to **Save** and **Exit** .
 
 5\. Reboot your computer and check to see if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6\. Repair corrupt files
 
  If none of these fixes above solved your problem, there might be some critical system files missing that prevent your touchpad from working.
@@ -219,9 +256,6 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -232,9 +266,6 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -284,8 +315,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -293,4 +322,22 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-mouse-and-keyboard-glitch-on-windows-11/"><u>[Fixed] Mouse & Keyboard Glitch on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repaired-responsive-keys-post-fixing-in-windows-11/"><u>[Repaired]: Responsive Keys Post-Fixing in Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-10-best-offline-android-games-to-pass-time-filmora/"><u>[Updated] In 2024, 10 Best Offline Android Games to Pass Time - Filmora</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-side-by-side-progopro-analysis/"><u>[Updated] Side by Side ProGoPro Analysis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/extensive-audit-unveiling-the-dji-inspire-1-drone-for-2024/"><u>Extensive Audit Unveiling the DJI Inspire 1 Drone for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-repairing-unverified-device-drivers-overcoming-installation-hurdles-on-computers/"><u>Guide to Repairing Unverified Device Drivers: Overcoming Installation Hurdles on Computers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-edge-40-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Edge 40 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-drivers-cant-be-removed-solution-discovered/"><u>Nvidia Drivers Can't Be Removed - Solution Discovered</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pixel-perfection-best-video-cameras-for-extended-recording-times-for-2024/"><u>Pixel Perfection Best Video Cameras for Extended Recording Times for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-missing-driver-alert-finding-and-installing-supported-drives-in-windows-1087/"><u>Resolve Missing Driver Alert: Finding & Installing Supported Drives in Windows 10/8/7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-missing-coprocessor-driver-issue-in-windows-10-a-step-by-step-guide/"><u>Resolving the 'Missing Coprocessor Driver' Issue in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/selecting-a-new-desktop-top-8-must-know-points-before-making-your-purchase/"><u>Selecting a New Desktop: Top 8 Must-Know Points Before Making Your Purchase</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-correcting-iphone-external-hardware-connection-error-via-mtp-usb-driver-restoration/"><u>Step-by-Step Guide to Correcting iPhone External Hardware Connection Error via MTP USB Driver Restoration</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-oppo-reno-11f-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Oppo Reno 11F 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/vrij-van-boodschappen-onlinemethode-om-je-m4b-aanvraag-in-avi-formaat-virtueel-te-veranderen/"><u>Vrij Van Boodschappen - Onlinemethode Om Je M4B-Aanvraag in Avi Formaat Virtueel Te Veranderen</u></a></li>
+</ul></div>
 

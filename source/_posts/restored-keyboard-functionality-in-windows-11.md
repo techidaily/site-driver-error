@@ -1,7 +1,7 @@
 ---
 title: "[Restored] Keyboard Functionality in Windows 11"
-date: 2024-09-23T16:08:05.209Z
-updated: 2024-09-26T06:23:05.953Z
+date: 2024-09-26T16:00:07.026Z
+updated: 2024-10-01T16:02:10.627Z
 tags:
   - win11
   - win10
@@ -54,24 +54,24 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Reinstall your keyboard driver
 
@@ -81,38 +81,30 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -130,11 +122,25 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -179,17 +185,24 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/solved-0x0000007e-blue-screen-of-death-error-on-windows-7/"><u>[Solved] 0X0000007E Blue Screen of Death Error on Windows 7</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-freezing-fun-at-the-beijing-olympics-2022-for-2024/"><u>[Updated] Freezing Fun at the Beijing Olympics 2022 for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-a-critical-look-at-huawei-p10-for-photography-enthusiasts/"><u>[Updated] In 2024, A Critical Look at Huawei P10 for Photography Enthusiasts</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-fix-addressing-missing-coprocessor-drivers-in-your-windows-10-machine/"><u>Comprehensive Fix: Addressing Missing Coprocessor Drivers in Your Windows 10 Machine</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/dominating-the-digital-realm-youtube-marketing-secrets/"><u>Dominating the Digital Realm YouTube Marketing Secrets</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fast-remediation-faulty-mtp-usb-cables/"><u>Fast Remediation: Faulty MTP USB Cables</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-tecno-spark-10-4g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Tecno Spark 10 4G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://driver-error.techidaily.com/key-errors-on-win-10-pc/"><u>Key Errors on Win 10 PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-qualcomm-atheros-bluetooth-driver-problems-in-windows-10-solved/"><u>Troubleshooting Qualcomm Atheros Bluetooth Driver Problems in Windows 10 - Solved</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-get-your-audio-fix-10-webm-to-mp3-converters-you-can-trust-for-2024/"><u>Updated Get Your Audio Fix 10 WebM to MP3 Converters You Can Trust for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unlocking-srt-expertise-essential-insights/"><u>[New] 2024 Approved Unlocking SRT Expertise Essential Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-advanced-techniques-to-silence-background-noise-in-media-for-2024/"><u>[New] Advanced Techniques to Silence Background Noise in Media for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-issue-failed-to-create-conexant-audio-factory-the-smartaudio-will-now-exit/"><u>[Solved] Issue: “Failed to Create Conexant Audio Factory, The SmartAudio Will Now Exit”</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-chorus-and-bass-macs-sound-control-for-2024/"><u>[Updated] Chorus & Bass Mac's Sound Control for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategic-broadcast-planning-youtube-and-the-top-30-networks/"><u>2024 Approved Strategic Broadcast Planning YouTube & The Top 30 Networks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-keyboard-brightness-problem/"><u>ASUS Keyboard Brightness Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bcm20702a0-non-responsive-driver/"><u>BCM20702A0 Non-Responsive Driver</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-breakdown-of-gigabytes-g6x-for-gamers-solid-execution-lackluster-uniqueness/"><u>Comprehensive Breakdown of Gigabyte's G6X for Gamers: Solid Execution, Lackluster Uniqueness</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-guide-to-fixing-your-non-functional-hp-wireless-keyboard/"><u>Comprehensive Guide to Fixing Your Non-Functional HP Wireless Keyboard</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-incompatible-driver-errors-for-a-smooth-computer-operation/"><u>Fixing Incompatible Driver Errors for a Smooth Computer Operation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-iphone-x-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from iPhone X or iPad?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-update-razer-deathadder-driver-on-windows-10/"><u>How to Update Razer Deathadder Driver on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/post-win11-upgrade-realtek-net-issue-addressed/"><u>Post-Win11 Upgrade, Realtek Net Issue Addressed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successful-nvidia-graphics-driver-setup-for-latest-os/"><u>Successful Nvidia Graphics Driver Setup for Latest OS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlocking-flawless-internet-connectivity-an-in-depth-look-at-the-google-nest-wi-fi-system/"><u>Unlocking Flawless Internet Connectivity: An In-Depth Look at the Google Nest Wi-Fi System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsupported-hardware-error-troubleshooting-guide-idt-software-compatibility-fix/"><u>Unsupported Hardware Error: Troubleshooting Guide - IDT Software Compatibility Fix</u></a></li>
+<li><a href="https://fox-access.techidaily.com/vidfx-tricks-top-10-text-transformations/"><u>VidFX Tricks Top 10 Text Transformations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Vivo Y02T | Dr.fone</u></a></li>
 </ul></div>
 

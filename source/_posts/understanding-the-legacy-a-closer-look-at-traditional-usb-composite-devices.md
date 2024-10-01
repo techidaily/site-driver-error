@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Legacy: A Closer Look at Traditional USB Composite Devices"
-date: 2024-09-24T23:47:08.018Z
-updated: 2024-09-25T22:15:41.600Z
+date: 2024-09-25T16:10:29.473Z
+updated: 2024-10-01T16:14:32.311Z
 tags:
   - win11
   - win10
@@ -27,6 +27,19 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 2. **[Reinstall your USB controller drivers](https://imp.i110150.net/r5bmpn)**
 3. **[Use the Windows USB Troubleshooter](https://ukaidot.sjv.io/daqnoj)**
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your USB Composite Device driver
 
  The most likely cause for your USB Composite Device error is a device driver problem.
@@ -47,13 +60,20 @@ Fortunately, this is one of the easiest problems to fix.
 4. Restart your computer and check if your USB Composite Device now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Reinstall your USB controller drivers
 
@@ -61,6 +81,14 @@ Fortunately, this is one of the easiest problems to fix.
 
 1. On your keyboard, press the   **Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62735e40ac6.png)**  
 **key**  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  and  
 **R**  
   key simultaneously to open the Run box.
@@ -68,33 +96,12 @@ Fortunately, this is one of the easiest problems to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b616832c16a0.jpg)
 3. In Device Manger, scroll down to find**Universal Serial Bus controllers** and expand the entry.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b61714f05a95.jpg)
 4. Right-click on the first USB device and select**Uninstall device**  to remove it.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Important:** Make sure you’ve saved any open files on your computer before you click**Uninstall device** , as you might need to force shutdown and restart later.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6171a9ae8b0.jpg)
 5. Repeat step 4) with every other USB device that is listed under the**Universal Serial Bus controllers** entry.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** Some USB devices have to do with your wired mouse, keyboard etc, which means uninstalling those devices will make them not working, don’t worry, just temporarily. As long as Windows restarts, it will automatically install the drivers again.
 6. Once you’ve uninstalled them all,**restart** your computer.  
@@ -131,19 +138,20 @@ Fortunately, this is one of the easiest problems to fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/levate-your-online-presence-audios-for-your-channel-for-2024/"><u>[New] Elevate Your Online Presence Audios for Your Channel for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-navigating-sierra-icloud-for-seamless-access/"><u>[New] In 2024, Navigating Sierra iCloud for Seamless Access</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-amplifying-your-youtube-presentation-size/"><u>[Updated] Amplifying Your YouTube Presentation Size</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-elite-tale-weaving-resource/"><u>[Updated] In 2024, Elite Tale Weaving Resource</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bring-back-life-to-your-unused-laptop-keyboard-article-name-358-characters/"><u>Bring Back Life to Your 'Unused' Laptop Keyboard - Article Name — 358 Characters</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-hp-wireless-button-driver-issues-on-windows-10/"><u>Fixed: HP Wireless Button Driver Issues on Windows 10</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-oppo-reno-11-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Oppo Reno 11 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-motorola-edge-40-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Edge 40 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-from-speech-to-storage-the-recorders-pathway/"><u>In 2024, From Speech to Storage The Recorder's Pathway</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-motorola-razr-40-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Motorola Razr 40 Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/iphone-xs-not-detected-on-red-hat-enterprise-linux-issue-solved/"><u>IPhone XS Not Detected on Red Hat Enterprise Linux (Issue Solved)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/lenovo-t400-not-recognized-by-windows-xp-professional-fixed/"><u>Lenovo T400 Not Recognized by Windows XP Professional - Fixed!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-windows-7-dell-pad-controller-glitch/"><u>Resolve Windows 7 Dell Pad Controller Glitch</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transform-your-thought-processes-mematic-app-for-2024/"><u>Transform Your Thought Processes - Mematic App for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-step-by-step-guide-to-forming-effective-youtube-partner-relationships/"><u>[New] 2024 Approved A Step-by-Step Guide to Forming Effective YouTube Partner Relationships</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-eradicating-pending-videos-on-your-youtube-queue/"><u>[Updated] 2024 Approved Guide Eradicating Pending Videos on Your YouTube Queue</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-screen-commanders-face-off/"><u>[Updated] In 2024, Screen Commanders Face-Off</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unlocking-advanced-vfx-techniques-expert-tips-on-chroma-key-kinemaster/"><u>[Updated] Unlocking Advanced VFX Techniques Expert Tips on Chroma Key (KineMaster)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-recognition-issues-in-windows-1187-solving-missing-driver-problems/"><u>Device Recognition Issues in Windows 11/8/7: Solving Missing Driver Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-fixes-for-missing-drivers-on-windows-guides-for-windows-11-8-and-7/"><u>Easy Fixes for Missing Drivers on Windows: Guides for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-eradicated-graphic-driver-installed-flawlessly/"><u>Error Eradicated: Graphic Driver Installed Flawlessly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-perfection-a-filmmakers-guide-to-cinematic-youtube-videos/"><u>Framing Perfection A Filmmaker's Guide to Cinematic YouTube Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-s17-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo S17 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/non-functional-keyboard-lights-on-asus-model/"><u>Non-Functional Keyboard Lights on ASUS Model</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-honor-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Honor .</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-windows-a-start-free-of-ads/"><u>Streamlined Windows: A Start Free of Ads</u></a></li>
+<li><a href="https://driver-error.techidaily.com/total-disk-utilization-fix-for-win11-and-10/"><u>Total Disk Utilization Fix for Win11 & 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubled-by-slow-graphics-on-pc-solve-your-gpu-issues-now-please/"><u>Troubled by Slow Graphics on PC? Solve Your GPU Issues Now, Please</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-honor-x50-gt-by-drfone-android/"><u>Universal Unlock Pattern for Honor X50 GT</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Invalid Installation Section in INF File
-date: 2024-08-15T06:55:20.178Z
-updated: 2024-08-16T06:55:20.178Z
+date: 2024-09-28T16:01:57.149Z
+updated: 2024-10-01T16:01:20.627Z
 tags:
   - win11
   - win10
@@ -80,8 +80,12 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 3: Install the missing driver files manually
 
  If the built-in USB driver fiels**mdmcpq.inf** and usbser.sys are missing or corrupted, the problem could occur. So to fix the problem, you can try to install these two driver files. You can replace them with the same files on another computer. Follow the steps below：
@@ -91,15 +95,29 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
  1) On the computer with no such problem (The computer can run any Windows version), locate file **mdmcpq.inf** in**C:\\Windows\\INF.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -120,8 +138,6 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +145,21 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-device-hubs-code-48/"><u>[FIXED] Device Hub's Code #48</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-professional-guide-expertise-in-vimeo-video-logging/"><u>[New] Professional Guide Expertise in Vimeo Video Logging</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mastering-tiktok-bios-adding-linktree-seamlessly/"><u>[Updated] 2024 Approved Mastering TikTok Bios Adding Linktree Seamlessly</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-social-media-presence-insta-videography/"><u>[Updated] Elevate Your Social Media Presence Insta-Videography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-10-cost-free-screen-capture-apps-for-mac-users-for-2024/"><u>[Updated] Top 10 Cost-Free Screen Capture Apps for Mac Users for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/help-can0t-connect-to-latest-cam-post-windows-10-update-fixed-solutions-found-fixed/"><u>Help! Can'0t Connect to Latest Cam Post Windows 10 Update - Fixed Solutions Found [Fixed]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-poco-c55-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Poco C55 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oneplus-ace-2-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-slowly-suppressing-audio-loudness/"><u>In 2024, Slowly Suppressing Audio Loudness</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-trouble-securely-installed-nvidia-drivers-2024/"><u>No Trouble: Securely Installed Nvidia Drivers 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/non-intel-adapter-unable-to-load-system-drivers/"><u>Non-Intel Adapter, Unable to Load System Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-high-disk-usage-in-windows-1110/"><u>Resolving High Disk Usage in Windows 11/10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tutorial-identifying-and-fixing-missing-drivers-for-devices-on-windows-versions-win1087-solution-found/"><u>Tutorial: Identifying & Fixing Missing Drivers for Devices on Windows Versions (Win10/8/7) - SOLUTION FOUND</u></a></li>
+</ul></div>
 

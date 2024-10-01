@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Windows Not Supporting Nvidia Cards"
-date: 2024-09-20T20:18:39.018Z
-updated: 2024-09-26T07:49:16.459Z
+date: 2024-09-30T16:05:33.818Z
+updated: 2024-10-01T16:08:04.514Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Show hidden devices
 
  If you recently got a new graphics card for your computer, then there’s a good chance it shows up as hidden. So we might have to un-hide it. Here’s a quick run-down:
@@ -36,21 +43,21 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91effe026eb.png)
 2. Click **View**   and then click **Show hidden devices** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/windows11showhiddendevices.jpg)
 3. Click **Action** \> **Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9234ccb8e93.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Check if your Nvidia graphics driver shows up under the **Display adapters** category as a gray-out device, i.e. it looks pale compared to other functioning devices. If so, right-click your Nvidia display card and select**Uninstall device** .  
@@ -61,6 +68,19 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 7. If the Nvidia display card remains disappeared when your computer restarts, don’t worry, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -74,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/nvidia-graphics.png)
 4. **Restart** your computer, then check if the**graphics card not detected** problem is resolved. If yes, then congrats! But if the issue remains, please move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -98,10 +111,10 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Repair corrupted system files
@@ -114,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 2. Open Fortectand run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
@@ -149,18 +155,15 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-hub-error-code-48/"><u>[FIXED] Hub Error Code 48</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-ios-and-android-techniques-to-record-live-video-chats/"><u>[New] 2024 Approved IOS & Android Techniques to Record Live Video Chats</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-in-game-recorder-faceoff/"><u>[Updated] 2024 Approved In-Game Recorder Faceoff</u></a></li>
-<li><a href="https://windows11.techidaily.com/11-common-windows-11-problems-with-easy-solutions/"><u>11 Common Windows 11 Problems With Easy Solutions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-city-escapades-games-paralleling-gta-v-adventure/"><u>2024 Approved City Escapades Games Paralleling GTA V Adventure</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-connectivity-fixes-solving-qualcomm-atheros-driver-problems-in-windows-11/"><u>Bluetooth Connectivity Fixes: Solving Qualcomm Atheros Driver Problems in Windows 11</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-ensure-your-iphones-history-is-gone-for-good-stellar-strategies-revealed/"><u>How to Ensure Your iPhone's History Is Gone for Good: Stellar Strategies Revealed</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repair-your-non-responsive-hp-laptop-keys-in-simple-easy-phases-a-step-byinan-action-plan-guide-tech-talker-382-chars/"><u>Repair Your Non-Responsive HP Laptop Keys in Simple, Easy Phases: A Step-Byinan Action Plan – Guide | Tech Talker 382 Chars</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-connectivity-problems-with-qualcomm-atheros-bluetooth-driver-in-windows-10-systems/"><u>Resolving Connectivity Problems with Qualcomm Atheros Bluetooth Driver in Windows 10 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restore-absent-signal-processor-in-windows/"><u>Restore Absent Signal Processor in Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/simple-steps-to-resolve-itbm-driver-missing-or-unavailable-errors/"><u>Simple Steps to Resolve 'ITBM Driver Missing or Unavailable' Errors</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oppo-reno-11f-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Oppo Reno 11F 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-minecraft-keeps-freezing-on-pc-2024-tips/"><u>[Solved] Minecraft Keeps Freezing on PC – 2024 Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capture-your-gaming-moments-xbox-one-screenshots-made-simple-for-2024/"><u>[Updated] Capture Your Gaming Moments Xbox One Screenshots Made Simple for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-remove-pending-videos-from-your-youtube-history/"><u>[Updated] In 2024, How to Remove Pending Videos From Your YouTube History</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-overcoming-youtube-buffering-a-step-by-step-guide/"><u>[Updated] Overcoming YouTube Buffering A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/amd-radeon-wattman-resets-solved-restoring-stability-on-your-graphics-card/"><u>AMD Radeon WattMan Resets Solved: Restoring Stability On Your Graphics Card</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-face-off-which-is-more-proficient-at-coding-chatgpt-or-gemini/"><u>Chatbot Face-Off: Which Is More Proficient at Coding, ChatGPT or Gemini?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hd-audio-a-win11-victory/"><u>HD Audio: A Win11 Victory</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-envy-20-series-update-and-download-driver-instructions/"><u>HP Envy 20 Series - Update & Download Driver Instructions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-port-communication-issue/"><u>Solve Port Communication Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-why-your-ipad-is-unable-to-locate-or-connect-to-a-printer/"><u>Troubleshooting: Why Your iPad Is Unable to Locate or Connect to a Printer</u></a></li>
 </ul></div>
 

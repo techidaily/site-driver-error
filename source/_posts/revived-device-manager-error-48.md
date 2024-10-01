@@ -1,7 +1,7 @@
 ---
 title: Revived Device Manager - Error 48
-date: 2024-09-24T01:29:18.421Z
-updated: 2024-09-26T12:55:33.990Z
+date: 2024-09-28T16:13:25.708Z
+updated: 2024-10-01T16:01:16.395Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ To check if the device is running into the error code 48:
 
 `"The driver for this device has been blocked from starting because it is known to have problems with Windows. Contact the hardware vendor for a new driver. (Code 48)"`
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Windows users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -37,19 +44,6 @@ To check if the device is running into the error code 48:
 2. **[Disable Hyper-V](https://godlikehost.sjv.io/vnbxzv)**
 3. **[Turn off Memory Integrity in Core isolation](https://aligracehair.sjv.io/y209r3)**
 4. **[Run the System File Checker and the Windows Memory Diagnostic Test](https://parisrhonecom.sjv.io/zqobqr)**
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 1: Update your driver
 
@@ -63,25 +57,11 @@ Or
 
 **[Option 2: Automatically (Recommended)](https://www.drivereasy.com/knowledge/asus-usb-bt500-bluetooth-5-0-usb-adapter-driver/#h-option-2-update-the-asus-usb-bt500-bluetooth-driver-automatically-recommended)**  – This might be the quickest and easiest way to get all the latest drivers for your computer. All you need is a few clicks.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1 – Download and install the driver manually
 
  The manufacturer of your computer keeps releasing new drivers on its official site. To get them, you need to go to the manufacturer’s site, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32-bit), and download the driver manually.
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2 – Automatically update drivers
 
@@ -124,6 +104,13 @@ Or
 
  If this fix didn’t work, try the next fix to turn off Memory Integrity.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Turn off Memory Integrity in Core isolation
 
  Memory Integrity is a security feature of Core isolation in Windows 10 settings. It is designed to prevent attacks from inserting malicious code into high-security processes and device drivers.
@@ -136,17 +123,24 @@ To turn off Memory Integrity, simply follow the steps below:
 ![Open Core isolation](https://images.drivereasy.com/wp-content/uploads/2021/04/Open-Core-isolation.jpg)
 2. **Turn off** the toggle under**Memory integrity** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off Memory integrity](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Memory-integrity.jpg)
 3. Restart Windows 10 and reinstall the latest driver of the problematic device.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 See if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Run the System File Checker and the Windows Memory Diagnostic Test
 
@@ -160,6 +154,13 @@ See if this fix works. If not, try the next fix, below.
 ![run system file checker](https://images.drivereasy.com/wp-content/uploads/2021/04/run-system-file-checker.jpg)
 3. Close the Command Prompt window after the process ie complete.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **To run the Windows Memory Diagnostic Test:**
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the**Run** dialog. Type**control admintools** and press**Enter** to open the**Administrator Tools** window in the**Control Panel** .  
@@ -167,21 +168,14 @@ See if this fix works. If not, try the next fix, below.
 2. Double-click**Windows Memory Diagnostic** to run it.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Windows Memory Diagnostic](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-Memory-Diagnostic.jpg)
 3. Select**Restart now and check for problems (recommended)** to run the test immediately. Before restarting, you need to save your work and close any open programs. It may take some time to complete the test.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Check your computer for memory problems](https://images.drivereasy.com/wp-content/uploads/2021/04/Check-your-computer-for-memory-problems.jpg)
 
@@ -211,20 +205,18 @@ See if this fix works. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-plain-definitions-in-storytelling-basics/"><u>[New] 2024 Approved Plain Definitions in Storytelling Basics</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-30plus-ways-to-convert-instagram-videos-onto-your-computer-iphone-or-android/"><u>[New] 30+ Ways To Convert Instagram Videos Onto Your Computer, iPhone or Android</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-ranking-top-tools-convert-srt-files-with-zero-charge/"><u>[New] Ranking Top Tools Convert Srt Files with Zero Charge</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-bedtime-companions-for-apple-watch-users-top-5-picks/"><u>Discover the Best Bedtime Companions for Apple Watch Users: Top 5 Picks</u></a></li>
-<li><a href="https://win-data.techidaily.com/discover-the-top-substitute-for-snaptube-in-just-a-click-compatible-with-windows-and-mac-os/"><u>Discover the Top Substitute for SnapTube in Just a Click – Compatible with Windows & Mac OS!</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/exploring-dynamic-blur-techniques-in-adobes-creative-suite/"><u>Exploring Dynamic Blur Techniques in Adobe's Creative Suite</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-high-definition-hub-alert-relax/"><u>Fixed High-Definition Hub Alert, Relax</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-slow-graphics-on-pc-our-team-cracked-the-rtx-gaming-issue-check-out-this-quick-fix/"><u>Fixing Slow Graphics on PC? Our Team Cracked the RTX Gaming Issue - Check Out This Quick Fix</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/hulu-viewing-made-simple-connect-and-watch-on-lg-smart-tvs/"><u>Hulu Viewing Made Simple: Connect and Watch on LG Smart TVs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-ultimate-guide-to-linking-fb-stories/"><u>In 2024, The Ultimate Guide to Linking FB Stories</u></a></li>
-<li><a href="https://driver-error.techidaily.com/lenovo-t460-drivers-download-and-update-on-windows-10/"><u>Lenovo T460 Drivers Download & Update on Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-persistent-nvidia-driver-failures/"><u>Resolving Persistent Nvidia Driver Failures</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-sysware-device-lacks-os-compatibility/"><u>Solved: SysWare Device Lacks OS Compatibility</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-restricts-external-graphics-support/"><u>System Restricts External Graphics Support</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-key-to-cinematic-excellence-mastering-the-art-of-shooting-stunning-slow-motion-media-on-instagram/"><u>[New] 2024 Approved The Key to Cinematic Excellence Mastering the Art of Shooting Stunning Slow-Motion Media on Instagram</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-top-affordable-camcorders-with-full-rotational-coverage/"><u>[New] Top Affordable Camcorders with Full Rotational Coverage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-head-to-head-evaluating-google-cardboard-and-samsungs-vr-world/"><u>[Updated] Head-to-Head Evaluating Google Cardboard and Samsung’s VR World</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easily-watch-mtsm2ts-movies-and-tv-shows-on-your-mac-with-these-top-ranked-free-tools/"><u>Easily Watch MTS/M2TS Movies and TV Shows on Your Mac with These Top-Ranked Free Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expertise-in-iphones-macro-photography-secrets-revealed/"><u>Expertise in iPhone's Macro Photography Secrets Revealed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hack-fast-drivers-on-windows-workaround/"><u>Hack Fast: Drivers on Windows Workaround</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-nvidia-geforce-gtx-950-code-43-errors-on-windows-11-step-by-step-solutions/"><u>How to Resolve NVIDIA GeForce GTX 950 Code 43 Errors on Windows 11: Step-by-Step Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-motorola-defy-2-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Motorola Defy 2 Phone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/leveraging-likeability-for-business-profits-on-fb-for-2024/"><u>Leveraging Likeability for Business Profits on FB for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-beginners-paradise-the-best-free-and-paid-video-editing-software/"><u>New In 2024, Beginners Paradise The Best Free and Paid Video Editing Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/os-attempting-to-locate-missing-drivers/"><u>OS Attempting to Locate Missing Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-enex-driver-not-loading-issue-on-windows-11/"><u>Resolving eNEX Driver Not Loading Issue on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-and-solving-the-incorrect-device-configuration-problem-error-code-1-explained/"><u>Understanding and Solving the 'Incorrect Device Configuration' Problem - Error Code 1 Explained</u></a></li>
 </ul></div>
 

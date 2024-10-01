@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot AMD Drivers for Smooth Operation
-date: 2024-09-24T00:39:59.491Z
-updated: 2024-09-26T03:47:20.698Z
+date: 2024-09-30T16:06:34.553Z
+updated: 2024-10-01T16:14:55.567Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/12/AMD-Radeon-RX-6700-XT.jpg)
 4. After updating, restart your computer to take effect.
@@ -45,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Roll back the faulty AMD driver
 
@@ -65,13 +65,6 @@ Here’s how:
 3. Click the **Driver** tab and then click **Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-1.png)
 4. Click **Yes** to confirm. Then the driver will be restored to a previous version.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. **Restart** you computer and check if the problem is resolved.
 
@@ -100,10 +93,10 @@ Here’s how to use Fortect to repair system files on your PC:
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Run SFC scan
@@ -113,14 +106,22 @@ Here’s how to use Fortect to repair system files on your PC:
 1. On your keyboard, press the**Windows logo key**  and type **cmd** . Then click **Run as administrator** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/cmd-run-as-admin-1.jpg)
 2. Click**Yes** when prompted to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -148,21 +149,21 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-premier-video-editing-choices-for-online-sessions-for-2024/"><u>[New] Premier Video Editing Choices for Online Sessions for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-video-reverse-technique-iphone-expertise-guide/"><u>2024 Approved Video Reverse Technique IPhone Expertise Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-your-path-to-picture-perfection-with-snapseed/"><u>2024 Approved Your Path to Picture Perfection with Snapseed</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/a-step-by-step-guide-to-embedding-timestamp-metadata/"><u>A Step-by-Step Guide to Embedding Timestamp Metadata</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoid-ai-chatbots-safe-windows-11-key-creation-methods/"><u>Avoid AI Chatbots: Safe Windows 11 Key Creation Methods</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cant-switch-bluetooth-off-my-laptop-is-frozen/"><u>Can't Switch Bluetooth OFF - My Laptop Is Frozen</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effortlessly-fixing-windows-11s-elan-tap-mishaps/"><u>Effortlessly Fixing Windows 11'S Elan Tap Mishaps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-wireless-network-adapter-issues-on-windows-11-a-comprehensive-guide/"><u>Fixing Qualcomm Wireless Network Adapter Issues on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy S24? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/immediate-solutions-for-driver-not-available-on-itbm-system-effortless-troubleshooting-guide/"><u>Immediate Solutions for 'Driver Not Available' On ITBM System - Effortless Troubleshooting Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-note-30-vip-racing-edition-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Infinix Note 30 VIP Racing Edition Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mass-effect-legendary-edition-patch-update-for-smoother-gameplay-experience/"><u>Mass Effect Legendary Edition Patch Update for Smoother Gameplay Experience</u></a></li>
-<li><a href="https://driver-error.techidaily.com/pci-simple-communications-controller-driver-issue-solved/"><u>PCI Simple Communications Controller Driver Issue [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/released-irql-anomaly-in-win11/"><u>Released: Irql Anomaly in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restore-your-hp-laptops-keyboard-functionality-quick-fix-for-the-inactive-keys-syndrome-article-name-356-characters/"><u>Restore Your HP Laptop's Keyboard Functionality: Quick Fix For the 'Inactive Keys’ Syndrome - Article Name — 356 Characters</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-navigating-the-world-of-omegle-an-overview-and-safety-concerns-for-2024/"><u>Updated Navigating the World of Omegle An Overview and Safety Concerns for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beyond-the-basics-a-compreran-comparative-analysis/"><u>[Updated] Beyond the Basics A Compreran Comparative Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-driven-networking-the-top-19-ways-to-use-chatgpt-and-land-a-dream-role-on-linkedin/"><u>AI-Driven Networking: The Top 1([=9]) Ways to Use ChatGPT and Land a Dream Role on LinkedIn</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-fixes-for-unstable-airpods-connectivity-when-paired-with-an-iphone/"><u>Essential Fixes for Unstable AirPods Connectivity When Paired With an iPhone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/failed-driver-initialization-for-wudfrd-id-219/"><u>Failed Driver Initialization for WudfRd (ID: 219)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-error-code-1-comprehensive-guide-to-proper-configuration-of-your-device/"><u>Fixing Error Code 1: Comprehensive Guide to Proper Configuration of Your Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-atheros-the-ultimate-guide-to-repairing-your-windows-10-bluetooth-driver-issues/"><u>Fixing Qualcomm Atheros: The Ultimate Guide to Repairing Your Windows 10 Bluetooth Driver Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-capturing-still-shots-from-video-using-photos-app/"><u>In 2024, Capturing Still Shots From Video Using Photos App</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/instant-directx-setup-for-windows-11-and-10-users-a-seamless-guide/"><u>Instant DirectX Setup for Windows 11 and 10 Users: A Seamless Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-invalid-driver-alerts-during-software-setup-processes/"><u>Resolving Invalid Driver Alerts During Software Setup Processes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-your-gpu-settings-glitch-solve-radeon-wattman-default-restoration-woes-here/"><u>Resolving Your GPU Settings Glitch: Solve Radeon WattMan Default Restoration Woes Here</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rocky-linux-receives-major-backing-with-ciq-as-principal-supporter-insights-from-the-tech-community/"><u>Rocky Linux Receives Major Backing with CIQ as Principal Supporter - Insights From the Tech Community</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-nubia-red-magic-8s-proplus-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Nubia Red Magic 8S Pro+ Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-fixing-code-1-incorrect-device-configuration/"><u>Troubleshooting Steps: Fixing Code 1 - Incorrect Device Configuration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleashing-media-prime-video-players-on-windows-mobile-for-2024/"><u>Unleashing Media Prime Video Players on Windows Mobile for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-37-now-supports-all-hardware/"><u>Win 37 Now Supports All Hardware</u></a></li>
 </ul></div>
 

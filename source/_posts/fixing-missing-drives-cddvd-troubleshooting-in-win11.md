@@ -1,7 +1,7 @@
 ---
 title: "Fixing Missing Drives: CD/DVD Troubleshooting in Win11"
-date: 2024-09-25T09:31:18.809Z
-updated: 2024-09-25T21:11:53.685Z
+date: 2024-09-25T16:08:18.475Z
+updated: 2024-10-01T16:04:37.600Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2: Update drivers**
 
  If uninstalling the IDE ATA/ ATAPI controller drivers doesn’t solve the problem for you, it’s likely that you’re using the wrong driver altogether.
@@ -74,10 +81,17 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
@@ -99,23 +113,9 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55543336b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) **Delete**  them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
 
@@ -126,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Follow the path:
@@ -140,13 +140,6 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Create a new**Controller0** key under**atapi** key.
 
@@ -159,6 +152,13 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -179,16 +179,18 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-charting-the-course-of-monetization-for-creator-economy-on-youtubeshorts/"><u>[New] 2024 Approved Charting the Course of Monetization for Creator Economy on YouTubeshorts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-hot-takes-highlight-twitters-trending-topics/"><u>[New] In 2024, Hot Takes Highlight Twitter's Trending Topics</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/5-best-voice-recorders-for-mac-devices/"><u>5 Best Voice Recorders for Mac Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/immediate-remedy-to-amd-driver-errors/"><u>Immediate Remedy to AMD Driver Errors</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-a05s-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy A05s Phones</u></a></li>
-<li><a href="https://driver-error.techidaily.com/logitech-brio-webcam-doesnt-show-in-windows-after-recent-update-a-quick-fix-for-you-all-105-answered/"><u>Logitech Brio Webcam Doesn't Show in Windows After Recent Update - A Quick Fix for You All (10/5) [Answered]</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/master-the-monitor-game-samsungs-ue590-review-inside-out/"><u>Master the Monitor Game - Samsung's UE590 Review Inside Out</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-non-recognized-device-hurdles-in-win-78/"><u>Overcoming Non-Recognized Device Hurdles in Win 7/8</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reinstating-windows-scan-tool-efficiency/"><u>Reinstating Windows Scan Tool Efficiency</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/visionary-artists-top-5-innovative-photographers-plus-videographers-w-music/"><u>Visionary Artists Top 5 Innovative Photographers + Videographers W/ Music</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win1110-resolving-issues-with-stable-sm-bus-drivers/"><u>Win11/10: Resolving Issues with Stable Sm Bus Drivers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-detailed-methods-for-seamless-wirecast-livestreams-on-youtube/"><u>[New] In 2024, Detailed Methods for Seamless WireCast Livestreams on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-azure-profile-snapshot-analysis-resolution-codec-timeframe-for-2024/"><u>[Updated] AZURE Profile Snapshot Analysis Resolution, Codec, Timeframe for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-street-fighter-6-ping-issues-on-pc-step-by-step-tutorials-and-best-practices/"><u>Fixing Street Fighter 6 Ping Issues on PC - Step-by-Step Tutorials & Best Practices</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-poco-x6-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Poco X6 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-windows-11-coprocessor-missing-issue-solutions-guide/"><u>How to Fix Windows 11 Coprocessor Missing Issue - Solutions Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/masterclass-creating-alluring-vlogging-storylines-for-2024/"><u>Masterclass Creating Alluring Vlogging Storylines for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-issues-with-unrecognized-or-invalid-driver-installations-on-pcs/"><u>Resolving Issues With Unrecognized or Invalid Driver Installations on PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reversing-unstoppable-bluetooth-on-win11/"><u>Reversing Unstoppable Bluetooth on WIN11</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secrets-of-blending-into-steam-backgrounds/"><u>The Secrets of Blending Into Steam Backgrounds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-repairing-damaged-video-game-data-in-windows/"><u>Ultimate Guide: Repairing Damaged Video Game Data in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-task-manager-full-disk-warning/"><u>Understanding Task Manager Full Disk Warning</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wudfrd-loading-failure-device-error-id-219/"><u>WudfRd Loading Failure - Device Error ID 219</u></a></li>
 </ul></div>
 

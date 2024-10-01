@@ -1,7 +1,7 @@
 ---
 title: Fix Your Non-Functional HP Laptop Keys Step By Step Guide – 356 Chars
-date: 2024-09-25T14:13:04.034Z
-updated: 2024-09-26T00:44:06.869Z
+date: 2024-09-24T16:07:05.317Z
+updated: 2024-10-01T16:04:45.929Z
 tags:
   - win11
   - win10
@@ -42,10 +42,10 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Step 2: Check Keyboard Settings**
@@ -53,6 +53,13 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 1) Click your**Start**button, then choose**Settings**icon from it. Then choose**Time & language**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcfa0068ce.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) On the left side of the pane, choose**Region & language**, then on the right side, make sure that the language is set to**English (United States)**.
 
@@ -62,22 +69,15 @@ If not, click the**Options**button as shown in the screen shot.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd7a070a5e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then make sure the Keyboards is selected as**US**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Step 3: Try an External Keyboard**
@@ -86,14 +86,14 @@ If you have tried the above methods but they are not helpful, you may need to pl
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
-2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
 
 ## **Step 4:** **Perform a Hard Reset**
 
@@ -117,16 +117,18 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-premier-video-call-alternatives-zooms-rivalry-explained-for-2024/"><u>[New] Premier Video Call Alternatives Zoom's Rivalry Explained for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-intel-high-definition-audio-driver-issues-on-windows-11/"><u>[Solved] Intel High Definition Audio Driver Issues on Windows 11</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-realtime-recording-titans/"><u>[Updated] RealTime Recording Titans</u></a></li>
-<li><a href="https://driver-error.techidaily.com/download-samsungs-linux-compatibility/"><u>Download Samsung's Linux Compatibility</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-step-by-step-approach-to-mtp-driver-repair/"><u>Easy Step-by-Step Approach to MTP Driver Repair</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-quickly-refresh-battery-drivers-on-windows-systems/"><u>How to Quickly Refresh Battery Drivers on Windows Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-audio-drivers-woes-in-win11/"><u>Overcoming Audio Drivers Woes in Win11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/prime-choices-webcams-on-windows-10-for-2024/"><u>Prime Choices Webcams on Windows 10 for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reunion-rocks-all-wacom-devices-connected/"><u>Reunion Rocks: All Wacom Devices Connected</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revolutionizing-efficiency-find-out-why-this-tool-is-exceptionally-swift/"><u>Revolutionizing Efficiency: Find Out Why This Tool Is Exceptionally Swift</u></a></li>
-<li><a href="https://extra-information.techidaily.com/say-it-see-it-speech-recognition-techniques-with-word/"><u>Say It, See It Speech Recognition Techniques with Word</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-instagram-meets-tiktok-syncing-social-media/"><u>[New] In 2024, Instagram Meets TikTok Syncing Social Media</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-boosting-video-impact-integrating-free-luts-into-your-obs-workflow/"><u>[Updated] Boosting Video Impact Integrating Free LUTs Into Your OBS Workflow</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-insiders-tactics-for-creating-gripping-puzzle-posts-on-instagram/"><u>[Updated] The Insider's Tactics for Creating Gripping Puzzle Posts on Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/ditch-the-online-top-mobile-gaming-hacks/"><u>Ditch the Online - Top Mobile Gaming Hacks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hdr-audio-hub-no-more-glitches/"><u>HDR Audio Hub: No More Glitches</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-12-pro-max-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone 12 Pro Max Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-qualcomm-atheros-bluetooth-issues-on-windows-10/"><u>How to Fix Qualcomm Atheros Bluetooth Issues on Windows 10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-instagram-3-key-caption-techniques-for-videos/"><u>In 2024, Mastering Instagram 3 Key Caption Techniques for Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/movavis-leap-forward-the-2024-edition-of-video-proplus/"><u>Movavi's Leap Forward The 2024 Edition of Video Pro+</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-issue-unrecognized-or-invalid-drivers-installation-on-your-pc/"><u>Resolving the Issue: Unrecognized or Invalid Drivers Installation on Your PC</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/top-choice-for-remote-shooting-discover-manycam-live-broadcast-capabilities/"><u>Top Choice for Remote Shooting: Discover ManyCam Live Broadcast Capabilities</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrading-your-logitech-c920-detailed-instructions-for-windows-11-10-and-8-users/"><u>Upgrading Your Logitech C920: Detailed Instructions for Windows 11, 10 & 8 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/xbox-360-controller-driver-not-working-on-windows-10-solved/"><u>Xbox 360 Controller Driver Not Working on Windows 10 [Solved]</u></a></li>
 </ul></div>
 

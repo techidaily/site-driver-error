@@ -1,7 +1,7 @@
 ---
 title: China to Accelerate Government Compute Performance, Aim for 30%% Growth and 300 Exaflops Capacity by 2025
-date: 2024-08-15T06:52:18.250Z
-updated: 2024-08-16T06:52:18.250Z
+date: 2024-09-30T16:07:25.031Z
+updated: 2024-10-01T16:04:20.447Z
 tags:
   - desktop
 categories:
@@ -57,14 +57,11 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -73,8 +70,36 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-streamline-video-content-delivery-a-curated-list-of-players-for-2024/"><u>[New] Streamline Video Content Delivery A Curated List of Players for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-high-performance-desktop-pcs-for-2024/"><u>[New] Ultimate High-Performance Desktop PCs for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-flash-vids-unpacked-whats-inside/"><u>[Updated] Flash Vids Unpacked What's Inside?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/address-udma-driver-failure/"><u>Address UDMA Driver Failure</u></a></li>
+<li><a href="https://extra-information.techidaily.com/balancing-visual-elements-with-ideal-video-ratios/"><u>Balancing Visual Elements with Ideal Video Ratios</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-usb-install-failures-due-to-access-denied-errors/"><u>How to Overcome USB Install Failures Due to Access Denied Errors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y77t-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y77t</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-asus-rog-phone-8-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Asus ROG Phone 8 Phone Hassle-Free</u></a></li>
+<li><a href="https://driver-error.techidaily.com/key-malfunction-report-for-windows-10/"><u>Key Malfunction Report for Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-uninstalled-device-drivers-in-windows-1187-with-easy-fixes/"><u>Resolve Uninstalled Device Drivers in Windows 11/8/7 With Easy Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-steps-to-retrieve-and-install-device-drivers-on-windows-10-8-and-7-systems/"><u>Resolved! Steps to Retrieve and Install Device Drivers on Windows 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-vertical-display-problem-correcting-upward-facing-videos-on-your-asus-notebook/"><u>Resolving the Vertical Display Problem: Correcting Upward-Facing Videos on Your ASUS Notebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/simplified-methods-to-screen-record-instagrams-story-feature-for-2024/"><u>Simplified Methods to Screen Record Instagram's Story Feature for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-new-frontier-understanding-ars-role-for-2024/"><u>The New Frontier Understanding AR's Role for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-components-with-toms-gear-guide/"><u>Unveiling the Latest in PC Components with Tom's Gear Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unveiling-the-secret-to-flawless-elan-pad-on-win11/"><u>Unveiling the Secret to Flawless Elan Pad on Win11</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

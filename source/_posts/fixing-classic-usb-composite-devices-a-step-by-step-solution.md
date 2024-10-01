@@ -1,7 +1,7 @@
 ---
 title: "Fixing Classic USB Composite Devices: A Step-by-Step Solution"
-date: 2024-09-22T10:28:08.596Z
-updated: 2024-09-26T14:12:43.180Z
+date: 2024-09-27T16:02:21.310Z
+updated: 2024-10-01T16:00:40.802Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/f2d9a0df990eba4814a4cbbd3bd0e18b69c14ac68
 3. **[Use the Windows USB Troubleshooter](https://ukaidot.sjv.io/daqnoj)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your USB Composite Device driver
@@ -56,10 +56,10 @@ Fortunately, this is one of the easiest problems to fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Reinstall your USB controller drivers
@@ -75,21 +75,14 @@ Fortunately, this is one of the easiest problems to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b616832c16a0.jpg)
 3. In Device Manger, scroll down to find**Universal Serial Bus controllers** and expand the entry.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b61714f05a95.jpg)
 4. Right-click on the first USB device and select**Uninstall device**  to remove it.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Important:** Make sure you’ve saved any open files on your computer before you click**Uninstall device** , as you might need to force shutdown and restart later.  
@@ -103,6 +96,13 @@ Fortunately, this is one of the easiest problems to fix.
 7. When you’ve logged on to your Windows desktop, plug your USB composite device into your computer and test.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Use the Windows USB Troubleshooter
 
@@ -131,20 +131,22 @@ Fortunately, this is one of the easiest problems to fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-inquiry-how-to-view-all-media-sharing-in-app-messages/"><u>[New] In 2024, Inquiry How to View All Media Sharing in App Messages?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ranch-raiders-best-friendly-farmers-game-roster/"><u>[Updated] 2024 Approved Ranch Raiders Best Friendly Farmer's Game Roster</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-jumpstarting-your-marketing-the-essentials-of-telegram-advertising/"><u>[Updated] Jumpstarting Your Marketing The Essentials of Telegram Advertising</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-citizens-guide-to-c-span-video-downloads/"><u>2024 Approved A Citizen's Guide to C-Span Video Downloads</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-failed-to-start-battleye-addressing-the-1450-driver-load-issue/"><u>How to Fix 'Failed to Start BattlEye': Addressing the 1450 Driver Load Issue</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ignore-the-google-bard-download-warning-a-hidden-malware-threat-lurks-inside/"><u>Ignore the Google Bard Download Warning – A Hidden Malware Threat Lurks Inside</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-trim-videos-with-flair-in-windows-11-photo-apps/"><u>In 2024, Trim Videos with Flair in Windows 11 Photo Apps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-the-challenge-of-a-nonfunctional-coprocessor-module-for-windows-10-users-solutions-unveiled/"><u>Overcoming the Challenge of a Nonfunctional Coprocessor Module for Windows 10 Users – Solutions Unveiled</u></a></li>
-<li><a href="https://driver-error.techidaily.com/printer-driver-issue-resolved-quickly/"><u>Printer Driver Issue Resolved Quickly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/silent-keyboard-lights-asus/"><u>Silent Keyboard Lights ASUS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-nvidiaamd-gpu-drivers-on-windows-8/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing NVIDIA/AMD GPU Drivers on Windows 8</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-role-of-tech-savvy-staff-in-accelerating-business-transformation/"><u>The Role of Tech-Savvy Staff in Accelerating Business Transformation</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-poco-f5-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Poco F5 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-adb-error-on-windows-xp/"><u>Troubleshooting ADB Error on Windows XP</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-system-recovery-from-initial-boot-failure/"><u>[CORRECTED] System Recovery From Initial Boot Failure</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-android-sound-recording-without-root-simple-guide/"><u>[New] 2024 Approved Android Sound Recording Without Root [Simple Guide]</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-immediate-stop-of-automatic-video-capture-in-qt-player/"><u>[New] Immediate Stop of Automatic Video Capture in QT Player</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-haunting-scenes-next-gen-cam-tech/"><u>2024 Approved Haunting Scenes Next-Gen Cam Tech</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-realme-11-5g-frp-bypass-by-drfone-android/"><u>About Realme 11 5G FRP Bypass</u></a></li>
+<li><a href="https://driver-error.techidaily.com/battleye-initialization-issue-how-to-fix-driver-loading-errors-and-compatibility-issues/"><u>BattlEye Initialization Issue - How to Fix Driver Loading Errors and Compatibility Issues</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/boosting-engagement-uploading-and-sharing-on-instagram-desktop-for-2024/"><u>Boosting Engagement Uploading and Sharing on Instagram Desktop for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/closed-case-unsupported-intelligentamd-graphics-in-premier-pro/"><u>Closed Case: Unsupported Intelligent/AMD Graphics in Premier Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-troubleshooting-for-nvidia-geforce-gtx-950-error-code-43-in-windows-10/"><u>Comprehensive Troubleshooting for Nvidia GeForce GTX 950 Error Code 43 in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-no-driver-issue-in-sysware-setup/"><u>Fixing No-Driver Issue in SysWare Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-rejuvenate-your-malfunctioning-dolby-headphone-feature-solution-found/"><u>How to Rejuvenate Your Malfunctioning Dolby Headphone Feature? Solution Found</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Spy on Text Messages from Computer & Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/installing-nvidia-drivers-problem-solved/"><u>Installing Nvidia Drivers: Problem Solved</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-vcompdll-file-absence-on-your-computer-a-step-by-step-guide/"><u>Resolving vcomp.dll File Absence on Your Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-process-to-access-your-locked-ipad-without-password/"><u>Step-by-Step Process to Access Your Locked iPad without Password</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-voice-chat-issues-in-destiny-2/"><u>Troubleshooting Guide: Fixing Voice Chat Issues in Destiny 2</u></a></li>
+<li><a href="https://driver-error.techidaily.com/whats-hidden-steps-for-spotting-seagate-drive-on-win10/"><u>What's Hidden? Steps for Spotting Seagate Drive on Win10</u></a></li>
 </ul></div>
 

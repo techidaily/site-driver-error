@@ -1,7 +1,7 @@
 ---
 title: Service Install Error - Solution Found
-date: 2024-09-04T12:51:33.213Z
-updated: 2024-09-05T12:51:33.213Z
+date: 2024-09-24T16:01:54.102Z
+updated: 2024-10-01T16:02:28.424Z
 tags:
   - win11
   - win10
@@ -79,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 3: Install the missing driver files manually
 
  If the built-in USB driver fiels**mdmcpq.inf** and usbser.sys are missing or corrupted, the problem could occur. So to fix the problem, you can try to install these two driver files. You can replace them with the same files on another computer. Follow the steps below：
@@ -89,9 +96,23 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
 
@@ -111,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,11 +139,20 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-turning-screen-time-into-cash-the-youtube-way/"><u>[New] Turning Screen Time Into Cash The YouTube Way</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-in-depth-study-of-audafreedomaudiotools/"><u>2024 Approved The In-Depth Study of AudaFreedomAudioTools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/5-best-mid-range-gaming-keyboards-for-enthusiasts-for-2024/"><u>5 Best Mid-Range Gaming Keyboards for Enthusiasts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/complete-guide-burning-dvds-onto-your-macs-hard-drive-using-free-software/"><u>Complete Guide: Burning DVDs Onto Your Mac's Hard Drive Using Free Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-signal-ideport0-system-alert/"><u>Error Signal: Ideport0 System Alert</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-motorola-edge-40-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Motorola Edge 40 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share/Fake Location on WhatsApp for Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-windows-11-elan-touchpad-malfunctions/"><u>Mastering Windows 11 Elan Touchpad Malfunctions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-bluetooth-interference-asus-webcam-plus-windows-11/"><u>Resolved Bluetooth Interference: ASUS Webcam + Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/strategies-for-fixing-nvidia-driver-crashes/"><u>Strategies for Fixing Nvidia Driver Crashes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-v30-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme V30 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-drivers-acquired-for-missing-hardware/"><u>Win Drivers Acquired For Missing Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windowstechissue-my-pc-wont-stop-responding-to-my-built-in-wifibluetooth-commands/"><u>WindowsTechIssue - My PC Won’t Stop Responding to My Built-In WIFI/Bluetooth Commands.</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
