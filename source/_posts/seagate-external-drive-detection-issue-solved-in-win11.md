@@ -1,7 +1,7 @@
 ---
 title: Seagate External Drive Detection Issue Solved in Win11
-date: 2024-09-29T16:13:02.922Z
-updated: 2024-10-01T16:08:21.107Z
+date: 2024-10-05T17:42:28.635Z
+updated: 2024-10-06T18:30:53.282Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
  If your Seagate external hard drive won’t work in either situation, your hard drive could be at fault. You might need to consult the technical support of Seagate to see if your data in the hard drive can be retrieved somehow.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 2: Reinstall Seagate Programs**
@@ -77,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e4afa92a309.jpg)
   
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) If your Seagate external hard drive still doesn’t work after you reinstall the software and update the drivers,you should reinstall**Paragon driver**  in compatibility mode. Here is how:
 
  1) Go to**Settings > System> Apps & features** window, remove **Paragon driver** .
@@ -91,15 +98,35 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-this-program-in-compatibility-mode-for.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**Apply** and**OK** to save and then run the setup again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apply-and-ok.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 3: Partition the Hard Drive**
@@ -111,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
  2) On the left side of the pane, click**Disk Management** . Right-click **Seagate Central driver** , and click **Delete Volume…** . This will**delete all** the files from your Seagate hard drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/disk-management.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) You should be able to see **Disk 1** is available. Right-click it and click **GPT (GUID Partition Table)** .
 
@@ -143,40 +163,20 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-drive-letter-and-paths.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) If your external hard drive doesn’t have a letter, press **Add…** to add a letter for this drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/add-a-letter.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Assign a letter to it and click**OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/ok.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 5: Disable Fast Startup**
 
@@ -184,6 +184,13 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/control-panel.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click **Hardware and Sound** .
 
@@ -197,13 +204,6 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-what-the-power-button-does.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Click   **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable-600x456.jpg)
@@ -213,10 +213,10 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uncheck-turn-off-fast-startup-recommended-600x450.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -234,15 +234,16 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/irqlfix-bsod-error-on-windows-11/"><u>[IRQL_FIX] BSOD Error on Windows 11</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-cutting-edge-strategies-for-instagram-video-cropping/"><u>[New] 2024 Approved Cutting-Edge Strategies for Instagram Video Cropping</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-approaches-to-vector-graphics-using-the-best-software/"><u>[New] Innovative Approaches to Vector Graphics Using the Best Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-chasing-victories-olympics-year-2022/"><u>2024 Approved Chasing Victories Olympics, Year 2022</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enable-recognition-of-misidentified-usb-devices-on-w78-os/"><u>Enable Recognition of Misidentified USB Devices on W7/8 OS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-uplifting-films-for-boosting-your-drive/"><u>In 2024, Top 10 Uplifting Films for Boosting Your Drive</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-your-final-usb-error-on-windows-tips-and-solutions/"><u>Troubleshooting Your Final USB Error on Windows - Tips & Solutions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unraveled-and-resolved-error-number-45/"><u>Unraveled and Resolved Error Number 45</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y100a-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-free-green-screen-effects-from-4-youtube-channels/"><u>[New] 2024 Approved Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-persistent-amd-driver-failures-quickly/"><u>Fix Persistent AMD Driver Failures Quickly</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-iphone-15-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On iPhone 15 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-13-mini-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 13 mini Without Previous Owner?</u></a></li>
+<li><a href="https://facebook.techidaily.com/shaping-digital-dialogues-survey-on-social-media-feed-influence/"><u>Shaping Digital Dialogues: Survey on Social Media Feed Influence</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-steps-correcting-the-idt-software-package-unable-to-support-detected-hardware-issue/"><u>Solution Steps: Correcting the IDT Software Package Unable to Support Detected Hardware Issue</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/sound-recording-with-studio-mac-guide-for-2024/"><u>Sound Recording with Studio Mac Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-ever-approved-reddit-threads-a-historical-list-for-2024/"><u>Top 10 Ever-Approved Reddit Threads A Historical List for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-sm-bus-controller-errors-on-windows-1011/"><u>Troubleshooting SM Bus Controller Errors on Windows 10/11</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-vivo-y27s-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo Y27s Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winnt-addressing-disconnected-peripherals-issue/"><u>WinNT: Addressing Disconnected Peripherals Issue</u></a></li>
 </ul></div>
 

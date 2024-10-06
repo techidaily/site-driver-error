@@ -1,7 +1,7 @@
 ---
 title: Fixing Missing Seagate Hard Drive on Win11 PC
-date: 2024-09-24T16:02:14.258Z
-updated: 2024-10-01T16:01:16.591Z
+date: 2024-10-03T23:19:50.814Z
+updated: 2024-10-06T17:51:09.511Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 **[5: Disable Fast Startup](https://coinrule.sjv.io/rqzonv)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 1: Try A Different USB Port**
@@ -61,22 +61,15 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/system-in-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Apps & features** . Click**Seagate software** and click the**Uninstall** button. (In the screenshot, we uninstall **Driver Easy** only as an example.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-and-features.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Go to the [**official website of Seagate**](http://www.seagate.com/gb/en/support/downloads/item/goflex-home-iso-software-master/) and download the software, create the install CD according to the instructions and then reinstall the software again on your computer.
 
@@ -100,9 +93,23 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/properties.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the**Compatibility** tab, and tick the box for**Run this program in compatibility mode for:** . Select an older version of Windows. You might need to try a couple of times before you fix this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-this-program-in-compatibility-mode-for.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click**Apply** and**OK** to save and then run the setup again.
 
@@ -114,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-computer-management.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, click**Disk Management** . Right-click **Seagate Central driver** , and click **Delete Volume…** . This will**delete all** the files from your Seagate hard drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/disk-management.jpg)
@@ -129,25 +129,11 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/gpt-guid-partition-table.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Right-click it again and click **New simple volume** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/new-simple-volume.jpg)
 
  There you go, your Seagate external hard drive should be able to work without any problems.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 4: Assign Driver Letter to Seagate GoFlex**
 
@@ -159,6 +145,13 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57f9f9701ebe7-600x294.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click it and click **Change Drive Letter and Paths…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-drive-letter-and-paths.png)
@@ -167,16 +160,16 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/add-a-letter.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Assign a letter to it and click**OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/ok.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 5: Disable Fast Startup**
 
@@ -192,22 +185,16 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Click   **Change what the power button does.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-what-the-power-button-does.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Click   **Change settings that are currently unavailable** .
 
@@ -216,6 +203,13 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
  6) Scroll down to the _**Shutdown** settings_ section and uncheck**Turn off fast startup (recommended)** . Click **Save changes**  . You might need to restart your computer after this change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uncheck-turn-off-fast-startup-recommended-600x450.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -232,16 +226,18 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-meme-march-unstoppable-videos-hit-the-tweetsphere/"><u>[New] 2024 Approved Meme March Unstoppable Videos Hit the Tweetsphere</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-audiovisual-harmony-incorporating-audio-into-powerpoint-presentations/"><u>[New] Audiovisual Harmony Incorporating Audio Into PowerPoint Presentations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-key-10-plug-ins-for-elevating-your-fcp-workflow/"><u>[New] Key 10 Plug-Ins for Elevating Your FCP Workflow</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-how-to-record-audio-on-windows-10/"><u>2024 Approved How To Record Audio on Windows 10?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/end-automatic-uninstall-cycle-for-drivers-solution-found/"><u>End Automatic Uninstall Cycle for Drivers: Solution Found</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-missing-driver-issues-on-windows-10-8-and-7-a-comprehensive-guide/"><u>Fixing Missing Driver Issues on Windows 10, 8, and 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-the-microphone-problems-encountered-with-oculus-quest-2-vr-headsets/"><u>How to Repair the Microphone Problems Encountered with Oculus Quest 2 VR Headsets</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y100-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y100 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-choices-pro-shake-free-cameras-for-video-streams/"><u>In 2024, Top Choices Pro Shake-Free Cameras for Video Streams</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-logitech-brio-webcam-unrecognized-post-windows-10-update-solved/"><u>Troubleshooting Logitech Brio Webcam Unrecognized Post-Windows 10 Update [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-10-streamline-your-bluetooth-drivers/"><u>Windows 10: Streamline Your Bluetooth Drivers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-unlocking-maximum-potential-screen-recording-on-anymac/"><u>[New] 2024 Approved Unlocking Maximum Potential Screen Recording on AnyMac</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unleashing-adventures-in-samsung-gear-vr-worlds/"><u>[Updated] Unleashing Adventures in Samsung Gear VR Worlds</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-zoom-audio-settings-for-getting-audio-quality-in-zoom-meeting/"><u>Best Zoom Audio Settings for Getting Audio Quality in Zoom Meeting</u></a></li>
+<li><a href="https://driver-error.techidaily.com/discover-top-tier-computer-specs-with-toms-hardware-your-essential-gadget-companion/"><u>Discover Top-Tier Computer Specs with Tom's Hardware - Your Essential Gadget Companion</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-correcting-discord-instability-problems/"><u>Expert Advice on Correcting Discord Instability Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-guide-to-overcoming-gtx-nine-fifty-zero-code-43-problems-on-winten-platforms/"><u>Expert Guide to Overcoming GTX Nine-Fifty Zero Code 43 Problems on WinTen Platforms</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-generic-pnp-monitor-driver-issue-easily/"><u>Fix Generic PnP Monitor Driver Issue. Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-error-codes-deciphering-the-code-43-glitch-in-windows-10-environments-solution-included/"><u>GTX 950 Error Codes: Deciphering the 'Code 43' Glitch in Windows 10 Environments (Solution Included)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-elan-driver-woes-on-windows-11/"><u>Overcoming Elan Driver Woes on Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-15-pro-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 15 Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionizing-smartphone-photography-the-rise-of-liquid-lenses-and-what-it-means-for-you/"><u>Revolutionizing Smartphone Photography: The Rise of Liquid Lenses and What It Means for You</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlocking-secrets-to-resolve-asus-driver-conflicts/"><u>Unlocking Secrets to Resolve ASUS Driver Conflicts</u></a></li>
 </ul></div>
 

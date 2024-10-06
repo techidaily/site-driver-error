@@ -1,7 +1,7 @@
 ---
 title: Swift Solutions for Frequent AMD Issues
-date: 2024-09-25T16:02:17.149Z
-updated: 2024-10-01T16:08:42.984Z
+date: 2024-10-02T19:15:43.451Z
+updated: 2024-10-06T21:51:07.866Z
 tags:
   - win11
   - win10
@@ -42,16 +42,16 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 ![](https://www.drivereasy.com/wp-content/uploads/2020/12/AMD-Radeon-RX-6700-XT.jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Roll back the faulty AMD driver
 
@@ -62,9 +62,25 @@ Here’s how:
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 2. Locate on **the faulty AMD driver** and double-click on it.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click the **Driver** tab and then click **Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-1.png)
 4. Click **Yes** to confirm. Then the driver will be restored to a previous version.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Restart** you computer and check if the problem is resolved.
 
 ## Fix 3: Repair system files
@@ -88,23 +104,9 @@ Here’s how to use Fortect to repair system files on your PC:
 4. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 5. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Check your computer to see if the driver crash issue is fixed.
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Run SFC scan
 
@@ -114,21 +116,15 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/cmd-run-as-admin-1.jpg)
 2. Click**Yes** when prompted to confirm.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 4. Restart your computer for the changes to take effect.
@@ -155,20 +151,20 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-transformative-tiktok-editing-three-ways-to-alter-video-borders/"><u>[New] 2024 Approved Transformative TikTok Editing Three Ways to Alter Video Borders</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-intel-high-definition-audio-driver-issues-on-windows-10/"><u>[Solved] Intel High Definition Audio Driver Issues on Windows 10</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unlock-the-power-of-instagram-reels-with-these-strategies-for-2024/"><u>[Updated] Unlock the Power of Instagram Reels with These Strategies for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-your-storytelling-on-snapchat-with-top-tips/"><u>2024 Approved Elevate Your Storytelling on Snapchat with Top Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quintessential-vr-cinematic-treasures/"><u>2024 Approved Quintessential VR Cinematic Treasures</u></a></li>
-<li><a href="https://driver-error.techidaily.com/amd-radeon-r7-250-graphics-driver-problems-on-windows-10-solved/"><u>AMD Radeon R7 250 Graphics Driver Problems on Windows 10 [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/battleye-initialization-failure-resolving-the-driver-loading-error-code-1450/"><u>BattlEye Initialization Failure - Resolving the Driver Loading Error Code 1450</u></a></li>
-<li><a href="https://driver-error.techidaily.com/blackberry-z10-not-detected-by-debian-wheezy-issue-fixed/"><u>Blackberry Z10 Not Detected by Debian Wheezy - Issue Fixed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/functional-reactivation-achieved/"><u>Functional Reactivation Achieved</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-reno-11f-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo Reno 11F 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-content-compromise-rapid-deletion-dilemma/"><u>In 2024, Content Compromise Rapid Deletion Dilemma</u></a></li>
-<li><a href="https://facebook.techidaily.com/networking-neutrality-right-to-suspend-trump-but-for-how-long/"><u>Networking Neutrality: Right to Suspend Trump, But for How Long?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/nvidia-unseen-in-multiple-oses/"><u>Nvidia Unseen in Multiple OSes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/overcoming-virtual-negativity-a-content-makers-guide-for-2024/"><u>Overcoming Virtual Negativity A Content Maker's Guide for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/persistent-nvidia-driver-auto-uninstall-mystery-solved/"><u>Persistent Nvidia Driver Auto-Uninstall Mystery Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-input-device-status-normalized-on-windows-11/"><u>[Fixed] Input Device Status Normalized on Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-reviewing-multiple-cameras-are-there-upgrades-in-2024/"><u>[New] Reviewing Multiple Cameras Are There Upgrades, In 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-application-has-been-blocked-from-accessing-graphics-hardware-windows-10/"><u>[SOLVED] Application Has Been Blocked From Accessing Graphics Hardware Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/broadcom-wi-fi-adapter-enhanced-for-windows-with-n-compatibility/"><u>Broadcom Wi-Fi Adapter Enhanced for Windows with N Compatibility</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-the-key-ingredient-in-boosting-website-engagement-and-personalization/"><u>Cookiebot: The Key Ingredient in Boosting Website Engagement and Personalization</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-mend-your-nonworking-hp-laptop-keys-one-step-at-a-time-how-to-guide-tech-talker-358-chars/"><u>Easy Steps to Mend Your Nonworking HP Laptop Keys, One Step at a Time – How-To Guide | Tech Talker 358 Chars</u></a></li>
+<li><a href="https://driver-error.techidaily.com/elan-touchpad-driver-issues-in-windows-10-solved/"><u>Elan Touchpad Driver Issues in Windows 10 [Solved]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-techniques-in-post-production-of-gopro-clips/"><u>Essential Techniques in Post-Production of GoPro Clips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fix-when-your-sc2-graphics-device-is-not-accessible-anymore/"><u>Guide to Fix When Your SC2 Graphics Device Is Not Accessible Anymore</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-handle-missing-d3dx927dll-dll-files-on-computers/"><u>How to Correctly Handle Missing d3dx9_27.dll DLL Files on Computers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-monetizing-content-how-much-adsense-pays-you-per-thousand-video-hits/"><u>In 2024, Monetizing Content How Much AdSense Pays You Per Thousand Video Hits?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-look-at-the-google-pixel-6s-photographic-capabilities-and-image-quality/"><u>Inside Look at the Google Pixel 6'S Photographic Capabilities and Image Quality</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-bluetooth-driver-challenges-optimizing-qualcomm-atheros-on-the-latest-windows-platform/"><u>Overcoming Bluetooth Driver Challenges: Optimizing Qualcomm Atheros on the Latest Windows Platform</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-startech-printer-driver-complications-on-windows-10-8-and-7/"><u>Resolving StarTech Printer Driver Complications on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://facebook.techidaily.com/secrets-to-enhancing-your-social-followings-participation/"><u>Secrets to Enhancing Your Social Following's Participation</u></a></li>
 </ul></div>
 

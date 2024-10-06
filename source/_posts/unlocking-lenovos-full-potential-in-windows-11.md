@@ -1,7 +1,7 @@
 ---
 title: Unlocking Lenovo's Full Potential in Windows 11
-date: 2024-08-15T06:47:28.104Z
-updated: 2024-08-16T06:47:28.104Z
+date: 2024-09-29T18:22:10.957Z
+updated: 2024-10-06T17:18:45.427Z
 tags:
   - win11
   - win10
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 * [Option 3: Update Bluetooth driver](https://lightailing.sjv.io/k0ez0m)
 * [Option 4: Perform a refresh](https://collovinc.sjv.io/jrkzwp)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Option 1: Enable Bluetooth hardware
 
 **NOTE** : Please make sure that your computer has the necessary hardware and your wireless is turned on. Also, check the support website of Lenovo to make sure that your device is Bluetooth capable.
@@ -49,36 +46,52 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7d4daf634.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) If you see a down arrow, your Bluetooth device is disabled, just right-click the item and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b810d497f1.png)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
  5) If you see a yellow exclamation mark next to your Bluetooth driver, your Bluetooth hardware is not responding or set up correctly. You can refer to **Option 3** for more help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Option 2: Enable discovery mode
 
  1) On your keyboard, press the Windows logo key and S at the same time, then type **change bluetooth** . Click **Change Bluetooth** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e564dcca0a6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Option 3: Update Bluetooth driver
 
  If, after trying the above, your Bluetooth still refuses to work, it’s time to update your device driver.
@@ -96,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ## Option 4: Perform a refresh
 
@@ -113,8 +123,6 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +130,26 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/internal-wifi-and-bluetooth-always-on-cant-turn-off-in-my-win10-laptop48-chars/"><u>“Internal WIFI & Bluetooth Always ON - Can't Turn OFF in My Win10 Laptop(48 Chars)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-android-video-enhancement-strategies/"><u>[New] In 2024, Android Video Enhancement Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-photo-realism-in-artwork-illustrator-motion-magic/"><u>[New] Photo Realism in Artwork Illustrator Motion Magic</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-angular-adjustments-on-youtube-videos-the-ultimate-2023-guide-for-2024/"><u>[Updated] Angular Adjustments on YouTube Videos - The Ultimate 2023 Guide for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-driving-income-from-views-on-youtube-for-2024/"><u>[Updated] Driving Income From Views on YouTube for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exemplary-directors-dialogue-compilation/"><u>2024 Approved Exemplary Directors' Dialogue Compilation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-bargain-4k-camera-deals-for-2024/"><u>Best Bargain 4K Camera Deals for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/constructing-a-secure-social-media-network/"><u>Constructing a Secure Social Media Network</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-lost-to-found-the-missing-touchpad-driver-fixes/"><u>From Lost to Found: The Missing Touchpad Driver Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-fixing-usb-setup-errors-caused-by-access-is-denied/"><u>Guide to Fixing USB Setup Errors Caused by 'Access Is Denied'</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-performance-tips-to-stop-stuttering-and-increase-fps-in-valorant/"><u>Improving Performance: Tips to Stop Stuttering & Increase FPS in VALORANT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mcpu-solving-intellme-crashes/"><u>MCPU: Solving IntellME Crashes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-solutions-resolving-driver-unavailable-issues-in-itbm/"><u>Quick Solutions: Resolving 'Driver Unavailable' Issues in ITBM</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/quick-tips-simplified-techniques-for-capturing-google-meets/"><u>Quick Tips Simplified Techniques for Capturing Google Meets</u></a></li>
+<li><a href="https://driver-error.techidaily.com/right-click-doesnt-work-on-touchpad-windows-11-solved/"><u>Right Click Doesn't Work on Touchpad Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-driver-support-failure-for-intel-and-amd-in-premier-pro/"><u>Solved Driver Support Failure for Intel & AMD in Premier Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stabilized-high-res-webcam-output-fixing-asuswin11/"><u>Stabilized High Res Webcam Output: Fixing ASUS/Win11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-anatomy-of-apple-m1-chip-redefining-tech-for-2024/"><u>The Anatomy of Apple M1 Chip, Redefining Tech for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsupported-device-type-lacking-intel-adapter/"><u>Unsupported Device Type - Lacking Intel Adapter</u></a></li>
+</ul></div>
 

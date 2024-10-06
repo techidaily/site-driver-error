@@ -1,7 +1,7 @@
 ---
 title: Intermittent Button Presses - Windows Mouse Woes
-date: 2024-08-09T08:56:17.557Z
-updated: 2024-08-10T08:56:17.557Z
+date: 2024-10-04T18:22:14.754Z
+updated: 2024-10-06T19:02:51.438Z
 tags:
   - win11
   - win10
@@ -46,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/99b109a018ec790ad915859b13c869439cc17a979
 
  1) On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Type**devmgmt.msc** and hit Enter.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
 2) Expand **Mice and other pointing devices**  . Right-click your wireless mouse and click**Update Driver** .
@@ -57,23 +54,14 @@ thumbnail: https://thmb.techidaily.com/99b109a018ec790ad915859b13c869439cc17a979
 
  3) Click **Browse my computer for driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-Browse-my-computer-for-drivers.jpg)
 
  4) Click **Let me pick from a list of device drivers on my computer** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-Browse-my-computer-for-drivers.jpg)
 
  5)**Uncheck** the box**Show compatible hardware** . Select your device. Click**Next** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-Select-the-device-driver-you-want-to-install-for-this-hardware.jpg)
 
  6) Wait for it to download and install the latest driver for your system. Once finished, reboot your device.
@@ -102,13 +90,17 @@ thumbnail: https://thmb.techidaily.com/99b109a018ec790ad915859b13c869439cc17a979
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-drivers-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged mouse device to automatically download and install the correct version of its driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-drivers-2-1.jpg)
 
  4) Restart your computer and check to see if Windows 10 can now detect your wireless mouse.
@@ -123,9 +115,6 @@ thumbnail: https://thmb.techidaily.com/99b109a018ec790ad915859b13c869439cc17a979
 
  4) **Try on a different computer** . If the same problem happens on a second computer, then your wireless mouse might be defective. In that case, you might want to contact the manufacturer of your wireless mouse for more suggestions.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4: Disable the fast startup option
 
  The fast startup feature is reported to be one of the causes of this problem. So you can disable it to see if the problem is resolved:
@@ -136,17 +125,24 @@ thumbnail: https://thmb.techidaily.com/99b109a018ec790ad915859b13c869439cc17a979
 
  2) Click on**System and Security** . If you don’t see it, make sure you’ve set **Category** as your view-by.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Control-Panel-System-and-Security.jpg)
 
  3) Click **Power Options** .
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Control-Panel-System-and-Security-Power-Options.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) In the left pane, click on**Choose what the power buttons do** .
 
@@ -163,8 +159,12 @@ thumbnail: https://thmb.techidaily.com/99b109a018ec790ad915859b13c869439cc17a979
  5) Restart your computer. All drivers will be initialized on startup now. So the time needed to start your computer might be longer.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5: Repair system files
 
  If all else fails, it’s time to check if the issue stems from**corrupted system files** .
@@ -179,12 +179,23 @@ thumbnail: https://thmb.techidaily.com/99b109a018ec790ad915859b13c869439cc17a979
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Fortect-START-SCAN.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) If it detects any issues on your PC, click Start Repair to start the repair process.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. Should you encounter any issues, do not hesitate to reach out to their support team at [support@fortect.com](https://lenovo-in.zlvv.net/kj14kn) .
 
@@ -203,8 +214,6 @@ thumbnail: https://thmb.techidaily.com/99b109a018ec790ad915859b13c869439cc17a979
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +221,24 @@ thumbnail: https://thmb.techidaily.com/99b109a018ec790ad915859b13c869439cc17a979
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/irqlfixed-win11-os-blue-screen-issue/"><u>[IRQL_FIXED]: Win11 OS Blue Screen Issue</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fundamental-blueprints-to-enhance-facebook-ad-engagement/"><u>[New] In 2024, Fundamental Blueprints to Enhance Facebook Ad Engagement</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-keep-the-conversation-flowing-on-discord/"><u>[Updated] 2024 Approved How to Keep the Conversation Flowing on Discord</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-effectively-share-youtube-links-on-instagrams-story-feature/"><u>[Updated] In 2024, How to Effectively Share YouTube Links on Instagram's Story Feature</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/cutting-edge-screen-recording-free-from-lag-frames-for-2024/"><u>Cutting-Edge Screen Recording Free From Lag Frames for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-dilemma-solved-smooth-installation/"><u>Driver Dilemma Solved – Smooth Installation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/drone-titans-the-ultimate-industrial-heavylifters/"><u>Drone Titans The Ultimate Industrial Heavylifters</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-unregistered-dll-problems-in-windows-aturin/"><u>Easy Solutions for Unregistered DLL Problems in Windows Aturin</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-usb-mass-storage-device-driver-issue/"><u>Fix USB Mass Storage Device Driver Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/for-a-chtmlity-subtractionedited-from-fill-in-the-following-questions-which-is-not-only-to-be-continued-relevant-parts-for-more-than-two-handcrafted/"><u>For a) C:‘.htmlity | [Subtraction(edited From: Fill in the Following Questions, Which Is Not only to Be Continued... (Relevant Parts for More than Two-Handcrafted.)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-envy-20-pc-series-how-to-fetch-and-install-latest-drivers-effortlessly/"><u>HP ENVY 20 PC Series - How to Fetch and Install Latest Drivers Effortlessly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-poco-x6-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Poco X6 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-samsung-galaxy-f34-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Samsung Galaxy F34 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackled-device-control-crash/"><u>Tackled Device Control Crash</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/timeless-tales-of-summer-delight-top-10-kids-movies-for-2024/"><u>Timeless Tales of Summer Delight Top 10 Kid's Movies for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unresponsive-mouse-lurking-in-windows-settings/"><u>Unresponsive Mouse Lurking in Windows Settings</u></a></li>
+<li><a href="https://driver-error.techidaily.com/where-did-my-nvidia-driver-go/"><u>Where Did My Nvidia Driver Go?</u></a></li>
+</ul></div>
 

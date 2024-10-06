@@ -1,7 +1,7 @@
 ---
 title: "Fixed Issue: Intel/AMD Drivers Not Supported by Premiere Pro"
-date: 2024-09-25T16:01:39.158Z
-updated: 2024-10-01T16:00:40.202Z
+date: 2024-10-04T20:38:14.485Z
+updated: 2024-10-06T19:07:43.617Z
 tags:
   - win11
   - win10
@@ -23,24 +23,18 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
  The “Unsupported Video Driver” error message suggests that your current graphics driver is not compatible with Premiere Pro. An outdated or faulty video driver could cause this problem. Or, in some cases, Premiere Pro fails to recognize your driver which is actually functional and thus triggers the error.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes…
 
 [1: Update your video driver](https://ukaidot.sjv.io/daqnoj)
 
 [2: Update Premiere Pro](https://ukaidot.sjv.io/daqnoj)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Update your video driver
 
@@ -54,21 +48,14 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged video driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -84,14 +71,22 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 2. Type in**dxdiag** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Run-dxdiag.jpg)
 3. Click**Display** (I have two monitors so it’s shown as Display 1.) You’ll find your graphics card information here. Mark down the**name** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-25_15-01-41.png)
 4. Go to the official sites and search for your video driver. Make sure you download only the driver that’s compatible with your Windows version.  
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/)  
@@ -132,22 +127,22 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-sideways-to-symmetry-the-ultimate-manual-of-visual-storytelling-through-rotations-on-social-media/"><u>[New] In 2024, From Sideways to Symmetry The Ultimate Manual of Visual Storytelling Through Rotations on Social Media</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-face-changing-software-iphone-and-android/"><u>2024 Approved Excellent Face-Changing Software, iPhone & Android</u></a></li>
-<li><a href="https://driver-error.techidaily.com/asus-zenbook-laptop-non-detection-in-lubuntu-1804-fixed-it-56-characters/"><u>Asus ZenBook Laptop Non-Detection in Lubuntu 18.04 - Fixed It (56 Characters)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ring-12-premium-cameras-for-professional-vloggers/"><u>Exploring 12 Premium Cameras for Professional Vloggers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fabricate-personalized-viral-memes-for-2024/"><u>Fabricate Personalized Viral Memes for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-razer-barracuda-x-microphone-step-by-step-guide-on-win10-and-win11/"><u>Fix Your Razer Barracuda X Microphone - Step-by-Step Guide on Win10 & Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphic-error-overcome-driver-restored-successfully/"><u>Graphic Error Overcome, Driver Restored Successfully</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-usb-installer-problems-when-you-get-an-access-is-denied/"><u>How to Resolve USB Installer Problems When You Get an 'Access Is Denied'</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-samsung-galaxy-a14-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Samsung Galaxy A14 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Poco M6 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/live-action-9-the-ultimate-guide/"><u>Live Action, #9 The Ultimate Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-fix-for-asus-acpi-and-drivers-in-win10/"><u>Quick Fix for Asus ACPI and Drivers in Win10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/swift-solution-to-mtp-driver-complications/"><u>Swift Solution to MTP Driver Complications</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-struggles-with-resource-management/"><u>System Struggles with Resource Management</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/tackle-intermittent-fb-reels-display-for-2024/"><u>Tackle Intermittent FB Reels Display for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-how-to-deal-with-a-missing-amdintel-coprocessor-driver-in-windows-10/"><u>Troubleshooting: How to Deal with a Missing AMD/Intel Coprocessor Driver in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-and-10-strategies-for-low-disk-space-alerts/"><u>Win11 & 10: Strategies for Low Disk Space Alerts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-high-quality-vector-graphics-top-10-sources-for-2024/"><u>[New] High-Quality Vector Graphics Top 10 Sources for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-precision-video-correction-eradicating-fish-eye-from-gopro/"><u>[New] Precision Video Correction Eradicating Fish Eye From GoPro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-day-jobs-and-digital-passion-striking-a-balance/"><u>[Updated] 2024 Approved Day Jobs & Digital Passion Striking a Balance</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-top-8-innovative-affordable-online-srt-services-exposed/"><u>2024 Approved Top 8 Innovative, Affordable Online SRT Services Exposed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/a-step-by-step-approach-for-using-zoom-in-email-apps-like-gmail-for-2024/"><u>A Step-by-Step Approach for Using Zoom in Email Apps Like Gmail for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-on-addressing-and-correcting-radeon-wattman-configuration-failures/"><u>Expert Advice on Addressing and Correcting Radeon WattMan Configuration Failures</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-resolving-non-working-bluetooth-devices-with-qualcomm-atheros-on-windows-10-systems/"><u>Expert Advice: Resolving Non-Working Bluetooth Devices with Qualcomm Atheros on Windows 10 Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/finding-the-most-economical-streaming-apps-for-your-phone/"><u>Finding the Most Economical Streaming Apps for Your Phone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-limitation-alert-graphic-driver-on-window/"><u>Hardware Limitation Alert: Graphic Driver on Window</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-battleye-initialization-failure-and-driver-error-1450/"><u>How to Overcome BattlEye Initialization Failure & Driver Error 1450</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-apple-iphone-8-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your Apple iPhone 8 and iPad?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-achieving-excellence-in-work-and-online-content/"><u>In 2024, Achieving Excellence in Work and Online Content</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-your-skills-with-the-groundbreaking-destiny-2s-broccoli-confrontation-fix/"><u>Master Your Skills with the Groundbreaking Destiny 2'S Broccoli Confrontation Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/realtek-ethernet-controller-driver-not-working-after-windows-10-upgrade-solved/"><u>Realtek Ethernet Controller Driver Not Working After Windows 10 Upgrade [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repair-completed-for-hdr-audio-system/"><u>Repair Completed for HDR Audio System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-check-intel-adapter-not-included/"><u>System Check: Intel Adapter Not Included</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-with-safe-mode-in-windows-8-plus-deleting-graphic-driver-issues/"><u>Troubleshoot with Safe Mode in Windows 8 – Plus, Deleting Graphic Driver Issues</u></a></li>
 </ul></div>
 

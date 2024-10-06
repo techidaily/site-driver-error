@@ -1,7 +1,7 @@
 ---
 title: "Solve This Problem: Last USB Malfunction and Lack of Recognition by Windows - A Step-by-Step Approach"
-date: 2024-09-28T16:04:09.831Z
-updated: 2024-10-01T16:00:55.007Z
+date: 2024-10-04T20:56:13.936Z
+updated: 2024-10-06T21:20:07.329Z
 tags:
   - win11
   - win10
@@ -41,16 +41,10 @@ thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc
  Method 4:[](https://homestyler.sjv.io/y209g3) [**Re-enable USB controller driver**](https://bluettifr.pxf.io/bax2bv)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1: Try another USB port
@@ -60,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc
  If you are with a laptop, try unplugging your USB device from its current port and plug it into a different one. Try not to use any USB hubs.
 
  If your problem stops here, the USB port might be at fault, not your USB flash drive. Try to avoid using the same port next time, in case similar problem happens again.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Update all possible device drivers
 
@@ -76,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37710b44342.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged drivers to automatically download and install the correct versions (you can do this with the **FREE** version).
@@ -102,6 +103,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377758f2bdc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Change plan settings** next to the plan option you’re having now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3777c0a811b.png)
@@ -113,19 +121,6 @@ Or click **Update All**  to automatically download and install the correct versi
  4) Click to expand**USB settings** and**USB selective suspend setting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3778a48905d.png)
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Select**Disabled** from the drop-down option. Then click**Apply** and**OK** to save the change.
 
@@ -145,16 +140,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3786b06277a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the top bar, click**View** and then**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378723b37b6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click to expand**Universal Serial Bus controllers.**
 
@@ -169,10 +164,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37895fbce37.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3.1.3) When the uninstall finishes, restart your computer. Then repeat the same procedure with the rest of the USB controllers marked by yellow exclamation marks or question marks one by one.
@@ -186,13 +181,6 @@ Or click **Update All**  to automatically download and install the correct versi
  3.2.3) When the disable finishes, restart your PC. Repeat the same procedure as above, and if your USB controller driver is not enabled automatically, right-click it and click**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e29c15b5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Your USB device should be recognized now.
 
@@ -213,22 +201,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-conquer-recording-challenges-using-ezvides-screencasting/"><u>[New] In 2024, Conquer Recording Challenges Using EZvide's Screencasting</u></a></li>
-<li><a href="https://driver-error.techidaily.com/addressing-usb-not-detected-issue-in-windows-7-and-8/"><u>Addressing USB Not Detected Issue in Windows 7 & 8</u></a></li>
-<li><a href="https://driver-error.techidaily.com/audio-prowess-in-windows-11-redefined/"><u>Audio Prowess in Windows 11 Redefined</u></a></li>
-<li><a href="https://driver-error.techidaily.com/beat-the-ninex-fifty-gtx-malfunction-in-windows-eleven-uncover-the-full-guide-to-fixing-codes-forty-three/"><u>Beat the Ninex Fifty GTX Malfunction in Windows Eleven - Uncover the Full Guide to Fixing Codes Forty-Three</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721098253699-bluetooth-wont-turn-off-on-win-10-troubleshooting-steps/"><u>Bluetooth Won't Turn Off on Win 10 - Troubleshooting Steps!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/clearing-the-air-for-users-facing-elan-issues-on-win10/"><u>Clearing the Air for Users Facing Elan Issues on Win10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/code-37-solved-hardware-and-dev-driver-connected/"><u>Code 37 Solved: Hardware & Dev Driver Connected</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/easy-to-follow-guide-recording-non-root-android-sounds-for-2024/"><u>Easy-to-Follow Guide Recording Non-Root Android Sounds for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-techniques-to-correct-arduino-uno-driver-issues-on-windows-platforms/"><u>Effective Techniques to Correct Arduino Uno Driver Issues on Windows Platforms</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-advanced-audio-softening-techniques-for-the-proficient-user-on-lumafusion/"><u>In 2024, Advanced Audio Softening Techniques for the Proficient User on Lumafusion</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-redmi-13c-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-mastering-cross-platform-communication-twitch-and-whatsapp-synergy/"><u>In 2024, Mastering Cross-Platform Communication Twitch & WhatsApp Synergy</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-shut-down-instagram-suggestions/"><u>In 2024, Shut Down Instagram Suggestions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/introduce-a-cost-effective-localized-chatbot-model/"><u>Introduce a Cost-Effective Localized Chatbot Model</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721098655562-overcome-itbm-not-available-driver-glitch-without-a-hitch/"><u>Overcome ITBM 'Not Available' Driver Glitch Without a Hitch!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721097739479-overcoming-the-missing-coprocessor-driver-error-on-your-windows-10-machine-solutions-inside/"><u>Overcoming the Missing Coprocessor Driver Error on Your Windows 10 Machine - Solutions Inside</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/cket-viewer-count-efficient-templated-content-creation-in-youtube-descs/"><u>Skyrocket Viewer Count Efficient Templated Content Creation in YouTube Descs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-harmonizing-the-social-scene-adding-chords-to-your-fb-content/"><u>2024 Approved Harmonizing the Social Scene Adding Chords to Your FB Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722873353061-deciphering-the-tech-buzz-samsung-galaxy-s25-pricing-launch-date-and-advanced-features/"><u>Deciphering the Tech Buzz: Samsung Galaxy S25 Pricing, Launch Date & Advanced Features</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-effectiveness-of-cyberpowers-entry-level-cp685avrg-backup-power-unit/"><u>Evaluating the Effectiveness of Cyberpower's Entry-Level CP685AVRG Backup Power Unit</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-a-non-responsive-wireless-keyboard-on-windows-computers/"><u>How to Fix a Non-Responsive Wireless Keyboard on Windows Computers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-xiaomi-redmi-note-13-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Xiaomi Redmi Note 13 5G Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-restore-functionality-of-non-responsive-wireless-keyboards-in-windows-environments/"><u>How to Restore Functionality of Non-Responsive Wireless Keyboards in Windows Environments</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-making-engaging-youtube-video-thumbnails-with-phones/"><u>In 2024, The Ultimate Guide to Making Engaging YouTube Video Thumbnails with Phones</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-realme-narzo-60x-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Realme Narzo 60x 5G FRP</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/optimal-handbrake-rf-values-mastering-constant-quality-conversion-for-hd-and-ultra-hd-media/"><u>Optimal Handbrake RF Values: Mastering Constant Quality Conversion for HD and Ultra HD Media</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-failed-to-install-hcmondriver-issues-a-step-by-step-guide/"><u>Resolving 'Failed to Install Hcmondriver' Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/service-section-inf-error-resolved/"><u>Service Section: INF Error Resolved</u></a></li>
+<li><a href="https://article-posts.techidaily.com/simplifying-the-image-blur-process-for-iphone-enthusiasts/"><u>Simplifying the Image Blur Process for iPhone Enthusiasts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solutions-to-intel-wireless-bluetooth-drivers-not-working-on-your-windows-11-device/"><u>Solutions to Intel Wireless Bluetooth Drivers Not Working on Your Windows 11 Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/taming-the-unknown-code-52-in-drive-systems/"><u>Taming the Unknown: Code 52 in Drive Systems</u></a></li>
 </ul></div>
 

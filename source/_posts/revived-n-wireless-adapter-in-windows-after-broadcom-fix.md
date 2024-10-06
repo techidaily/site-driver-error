@@ -1,7 +1,7 @@
 ---
 title: Revived N Wireless Adapter in Windows After Broadcom Fix
-date: 2024-08-15T06:46:32.490Z
-updated: 2024-08-16T06:46:32.490Z
+date: 2024-10-01T16:45:51.015Z
+updated: 2024-10-06T16:56:34.405Z
 tags:
   - win11
   - win10
@@ -40,16 +40,10 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
  2) Expand **Network adapters**  and double-click **Broadcom 802.11n network adapter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/broadcom-802-11n-network-adapter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to the **Driver** tab and click **Update Driver…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/update-driver-option.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
  4) Click **Browse my computer for driver software** .
 
@@ -58,43 +52,41 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
  5) Click   **Let me pick from a list of device drivers on my computer.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/let-me-pick-from-a-list-of-device-drivers-on-my-computer.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Click **Have Disk…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/have-disk.jpg)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Browse to **C:/(the name of your laptop manufacture)/drivers** and look for folder with the name similar to **R274634** . Double-click the folder and find the appropriate **.inf** file for your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/cthe-name-of-your-laptop-manufacturedrivers.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
  You should be able to see the name of the file ends with**.inf** .
 
  The screenshot is but an example. Your file name should be different from mine.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/inf-file.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8) Then you will be lead back to the **Install From Disk** window, press **OK** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/install-from-disk.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the correct driver to be installed.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## 2: Update Device Drivers
 
  If reinstalling the network adapter driver fails to solve the problem for you, you should update your network card driver instead. If you don’t have the time, patience, or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -109,6 +101,20 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3: Update Software and Operating System
 
  Sometimes missing software updates and service packs could cause the Code 10 error in device manager. If you suspect this is the problem, it is suggested that you update and install the latest updates for Windows.
@@ -120,8 +126,12 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke a **Run** command. Then type **regedit** in the search box and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/ype-regedit-in-the-search-box.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Follow the path   **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\4D36E978-E325-11CE-BFC1-08002BE10318** and locate the the folder.
@@ -132,11 +142,22 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/delete-upperfilter-and-lowerfilter.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) If prompted to confirm the delete, click **Yes** . 5) Exit Registry Editor and restart the computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Hardware Compatibility Issues
 
  Windows 10 operating system has long been reported by its users to have compatibility issues with Broadcom 802.11n network adapters, but there seems to be no exact solution to tackle this problem from Microsoft. If this problem has caused you tremendous troubles, it is suggested that you report this error to Microsoft and to your laptop manufacturer to see if they can be of help, but the response speed is not guaranteed.
@@ -147,8 +168,6 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +175,20 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/s-it-lawful-to-screen-capture-youtube-content-in-2024/"><u>[New] Is It Lawful to Screen-Capture YouTube Content, In 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-high-quality-sound-on-win11/"><u>[Solved] High-Quality Sound on Win11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-elevate-your-twitch-stream-game-with-these-5-steps/"><u>[Updated] 2024 Approved Elevate Your Twitch Stream Game with These 5 Steps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-smart-sync-strategy-transferring-photos-from-iphone-to-snapchat-correctly/"><u>[Updated] In 2024, Smart Sync Strategy Transferring Photos From iPhone to Snapchat Correctly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-optimal-viewing-experience-for-facebook-video-playback/"><u>2024 Approved Optimal Viewing Experience for Facebook Video Playback</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-spreadsheets-excels-edge-in-calculations-vs-conversation/"><u>Advanced Spreadsheets: Excel’s Edge in Calculations Vs. Conversation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-ensure-optimal-performance-updating-and-downloading-drivers-for-the-hp-envy-eby-series/"><u>How To Ensure Optimal Performance: Updating and Downloading Drivers for The HP Envy Eby Series</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-samsung-galaxy-z-fold-5-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Samsung Galaxy Z Fold 5 Phone? Unlock It Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-to-address-logitech-receptor-errors/"><u>Steps to Address Logitech Receptor Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-cant-find-appropriate-hardware-drivers/"><u>System Can't Find Appropriate Hardware Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-recourse-and-resource-conflicts/"><u>System Recourse and Resource Conflicts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-oses-not-acknowledging-graphics-cards/"><u>Win OSes Not Acknowledging Graphics Cards</u></a></li>
+</ul></div>
 

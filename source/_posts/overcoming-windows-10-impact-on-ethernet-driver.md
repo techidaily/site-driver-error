@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows 10 Impact on Ethernet Driver
-date: 2024-08-15T06:50:40.040Z
-updated: 2024-08-16T06:50:40.040Z
+date: 2024-09-30T21:08:46.001Z
+updated: 2024-10-06T17:52:24.951Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ netsh int ip reset c:\resetlog.txt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de65b229a9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Go to**Advanced** tab, then choose**Speed & Duplex** option on the left side of the pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de6ed4d026.png)
@@ -67,25 +74,37 @@ netsh int ip reset c:\resetlog.txt
  5) On the**Value** bar, change the default Auto Negotiation to **100 Mbps Full Duplex**  or some other options accordingly. We chose**100 Mbps Full Duplex** here, but yours could be different.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587deb007e7e1.png)
+
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Now on the left side of the pane, choose**Energy Efficient Ethernet** option, then change the Value to**Disabled** . After the changes, hit**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587deab52d9e0.png)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Still, in the**Properties** window, this time, let’s go to**Power Management** tab. Un-tick the box for**Allow the computer to turn off this device to save power** . Then hit**OK** to save and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587decc3276b5.png)
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option Three:** **Reinstall or Rollback Realtek Adapter Driver**
 
@@ -94,25 +113,28 @@ netsh int ip reset c:\resetlog.txt
  2) Locate and click the arrow to expand the category**Network adapters** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  3) Then right-click click**Realtek PCIe GBE Family Controller** option and then choose**Uninstall** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee15b99f3.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hit**OK** to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee50286a0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Go to the menu bar on the top and click the button for **Scan for hardware changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee9a707c2.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  5) Windows will help you automatically install the correct driver that it can find. But there is no guarantee that the new driver is going to work since Windows has provided the not working one originally.
 
@@ -120,23 +142,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### **Option Four: Update the Realtek Driver**
 
  The steps above may help you resolve the issue, but if they don’t, you can try to update the Realtek driver. If you don’t have time, patience, or computer skills to update the driver manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**
@@ -158,18 +163,6 @@ Key features:
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-network-adapter-driver.jpg)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully the tips above help you fix the Realtek Ethernet Controller driver not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
@@ -181,8 +174,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +181,23 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-dive-deep-into-color-science-top-11-essential-editing-techniques/"><u>[New] 2024 Approved Dive Deep Into Color Science Top 11 Essential Editing Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-game-on-in-reality-discover-the-top-5-samsung-vr-titles/"><u>[Updated] In 2024, Game On in Reality! Discover the Top 5 Samsung VR Titles</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unlock-video-editing-mastery-using-lut-filters-in-obs-studio/"><u>[Updated] In 2024, Unlock Video Editing Mastery Using LUT Filters in OBS Studio</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-f15-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy F15 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-cut-costs-on-downloads-with-this-list-of-20-free-youtube-sound-rippers/"><u>2024 Approved Cut Costs on Downloads with This List of 20 Free YouTube Sound Rippers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-error-system-search-failed/"><u>Driver Error: System Search Failed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/error-free-gaming-correcting-your-the-sims-4-gpu-problems/"><u>Error-Free Gaming: Correcting Your The Sims 4 GPU Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-windows-7-bsod-issue-guide-to-resolve-error-code-0x0000007e/"><u>Fixing the Windows 7 BSOD Issue: Guide to Resolve Error Code 0X0000007E</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-device-driver-error-code-43-solved/"><u>Graphics Device Driver Error Code 43 [SOLVED]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On OnePlus Open? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620255552-iphone-users-beware-combat-anonymous-calls-with-these-proven-5-techniques/"><u>IPhone Users Beware: Combat Anonymous Calls with These Proven 5 Techniques!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restored-functionality-to-windows-for-broadcom-80211n-adapter/"><u>Restored Functionality to Windows for Broadcom 802.11N Adapter</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stop-bluetooth-from-turning-on-automatically/"><u>Stop Bluetooth From Turning On Automatically</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tricking-out-the-intellme-glitches/"><u>Tricking Out the IntellME Glitches</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-podcasters-blueprint-for-smooth-and-hassle-free-audio-recording/"><u>Updated The Podcasters Blueprint for Smooth and Hassle-Free Audio Recording</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-bootup-flaw-bsod-irql-disparity/"><u>Win11 Bootup Flaw: [BSOD] Irql Disparity</u></a></li>
+</ul></div>
 

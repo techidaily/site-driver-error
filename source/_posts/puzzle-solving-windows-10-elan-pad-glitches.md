@@ -1,7 +1,7 @@
 ---
 title: "Puzzle-Solving: Windows 10 Elan Pad Glitches"
-date: 2024-08-15T06:49:45.713Z
-updated: 2024-08-16T06:49:45.713Z
+date: 2024-10-03T18:30:35.030Z
+updated: 2024-10-06T20:37:06.399Z
 tags:
   - win11
   - win10
@@ -42,9 +42,12 @@ thumbnail: https://thmb.techidaily.com/9caf09d90581e3a94b158683bfe9026f493c02c1c
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2: Reinstall your drivers
 
  Faulty drivers provided by Microsoft could be the reason why your touchpad stops working properly. To tackle this problem, you should reinstall the driver.
@@ -64,22 +67,7 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  3) Click the**Update** button next to an ELAN touchpad driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click_**Update All**_ to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **3: Stop automatic updates from Windows Update**
 
  A faulty or buggy driver from Windows Update could be the cause of this problem. You can disable the automatic update via:
@@ -87,22 +75,34 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  1) Type**device and printers** in the search bar, then click **Device and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Right-clickyour computer icon and click **Device installation settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
@@ -113,8 +113,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +120,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-posts-with-4-effective-video-loop-techniques/"><u>[New] Elevate Your Posts with 4 Effective Video Loop Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-next-level-hd-screen-recording-best-brands-showcased-for-2024/"><u>[New] Next-Level HD Screen Recording Best Brands Showcased for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-auto-loading-dilemma/"><u>[Resolved] Auto-Loading Dilemma</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-transform-your-videos-into-revenue-streams-with-smart-vimeo-tactics-for-2024/"><u>[Updated] Transform Your Videos Into Revenue Streams with Smart Vimeo Tactics for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/discover-cutting-edge-hardware-the-toms-guide-to-tech-excellence/"><u>Discover Cutting-Edge Hardware - The Tom's Guide to Tech Excellence</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-no-detect-logitech-receiver-in-latest-windows/"><u>Fix: No Detect Logitech Receiver in Latest Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-logitech-g402-keyboard-software-and-system-requirements-for-optimal-performance/"><u>Get the Latest Logitech G402 Keyboard Software & System Requirements for Optimal Performance</u></a></li>
+<li><a href="https://driver-error.techidaily.com/harmonizing-bluetooth-lenovo-with-windows-10/"><u>Harmonizing Bluetooth, Lenovo with Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-11-pro-max-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone 11 Pro Max Display? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-update-or-replace-an-obsolete-usb-composite-device-for-better-performance/"><u>How to Update or Replace an Obsolete USB Composite Device for Better Performance</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-phantom-v-flip-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Phantom V Flip to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mend-wireless-module-issue-in-latitude-laptop/"><u>Mend Wireless Module Issue in Latitude Laptop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/realtek-adapter-malfunction-after-win11-rollout-fixed/"><u>Realtek Adapter Malfunction After Win11 Rollout Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconnecting-all-wacoms-happy-moment/"><u>Reconnecting All: Wacom's Happy Moment</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-xiaomi-redmi-k70-pro-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Xiaomi Redmi K70 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-success-with-effective-video-praise-techniques-for-2024/"><u>Unlocking Success with Effective Video Praise Techniques for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-rich-world-of-assassins-creed-valhalla-a-gripping-tale-through-medieval-norsemen-history/"><u>Unveiling the Rich World of Assassin’s Creed: Valhalla - A Gripping Tale Through Medieval Norsemen History</u></a></li>
+</ul></div>
 

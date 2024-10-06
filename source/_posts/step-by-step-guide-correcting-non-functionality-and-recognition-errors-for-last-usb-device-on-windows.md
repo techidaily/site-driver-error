@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Correcting Non-Functionality & Recognition Errors for Last USB Device on Windows"
-date: 2024-08-15T06:45:37.977Z
-updated: 2024-08-16T06:45:37.977Z
+date: 2024-10-02T20:23:46.534Z
+updated: 2024-10-06T18:34:47.460Z
 tags:
   - win11
   - win10
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 
  As mentioned, the exact cause could be very different in different situations, but there are some general resolutions that you should try before you turn to technicians. And one of the solutions below is bound to fix the problem for you. No worries, we’ve got you covered.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## How can I fix it?
 
  Here are 4 solutions for you to try. You may not have to try them all; just work your way down until you find the one works for you.
@@ -42,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
  Method 2:[**Update all possible device drivers**](https://bluettifr.pxf.io/bax2bv)
  Method 3: [**Disable USB selective suspend settings**](https://exvist.pxf.io/dkpnky)
  Method 4:[](https://homestyler.sjv.io/y209g3) [**Re-enable USB controller driver**](https://bluettifr.pxf.io/bax2bv)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 1: Try another USB port
 
@@ -70,8 +74,12 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the [**Pro**](https://tools.techidaily.com/drivereasy/download/) version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37721186152.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) You need to restart your PC for the updated drivers to work properly. Check if your USB device is recognized now.
@@ -88,12 +96,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377758f2bdc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Change plan settings** next to the plan option you’re having now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3777c0a811b.png)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
@@ -106,9 +118,6 @@ Or click **Update All**  to automatically download and install the correct versi
  5) Select**Disabled** from the drop-down option. Then click**Apply** and**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377b3cef938.png)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **NOTE** : If you’re using a laptop, click**On battery** , then**Disabled** from the drop-down menu.
 
@@ -123,10 +132,6 @@ Or click **Update All**  to automatically download and install the correct versi
  1) On your keyboard, press the**Windows logo key** and**R** at the same time. Type**devmgmt.msc** in and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3786b06277a.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 
  2) On the top bar, click**View** and then**Show hidden devices** .
 
@@ -134,9 +139,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
  3) Click to expand**Universal Serial Bus controllers.**
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### 3.1) If you see any device drivers marked by**yellow exclamation marks** or**question marks:**
 
  3.1.1) Right-click them and click**Uninstall device** .
@@ -146,27 +148,39 @@ Or click **Update All**  to automatically download and install the correct versi
  3.1.2) Click**Uninstall** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37895fbce37.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3.1.3) When the uninstall finishes, restart your computer. Then repeat the same procedure with the rest of the USB controllers marked by yellow exclamation marks or question marks one by one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3.2) If you don’t see any drivers marked by yellow exclamation mark or question mark
 
  3.2.1) Right-click the first option you see here and click**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e629ee28.png)
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3.2.3) When the disable finishes, restart your PC. Repeat the same procedure as above, and if your USB controller driver is not enabled automatically, right-click it and click**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e29c15b5.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
 4) Your USB device should be recognized now.
 
@@ -178,8 +192,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +199,23 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/solved-intel-corporation-driver-update-for-intelr-hd-graphics-4400-failed-issue/"><u>[Solved] Intel Corporation Driver Update for Intel(R) HD Graphics 4400 Failed Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-you-have-to-install-atk0100-driver/"><u>[Solved] You Have to Install ATK0100 Driver</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-precise-plot-points-in-a-snapshot/"><u>[Updated] Precise Plot Points in a Snapshot</u></a></li>
+<li><a href="https://some-skills.techidaily.com/amazfit-gts-unveiled-stylish-design-with-questionable-fitness-features/"><u>Amazfit GTS Unveiled: Stylish Design with Questionable Fitness Features?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/amend-crosslinking-usb-conflict/"><u>Amend Crosslinking USB Conflict</u></a></li>
+<li><a href="https://driver-error.techidaily.com/beat-the-gtx-950s-code-43-glitch-in-windows-10-with-these-expert-troubleshooting-tips-now-solved/"><u>Beat the GTX 950'S Code 43 Glitch in Windows 10 with These Expert Troubleshooting Tips - Now Solved!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/chromebook-pixel-non-detection-on-centos-linux-fix-applied/"><u>Chromebook Pixel Non-Detection on CentOS Linux (Fix Applied)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comparing-mp4-and-mp3-a-comprehensive-guide-to-their-distinct-characteristics-file-formats-audio-clarity-applications-flexibility-utilization-and-how-to-con24/"><u>Comparing MP4 and MP3: A Comprehensive Guide to Their Distinct Characteristics, File Formats, Audio Clarity, Applications, Flexibility, Utilization, and How to Convert Them Efficiently</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/al-info-every-asmr-viewer-should-absorb/"><u>Crucial Info Every ASMR Viewer Should Absorb</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/face-the-future-with-elite-iphone-and-android-modifiers-for-2024/"><u>Face the Future with Elite iPhone & Android Modifiers for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-m-audio-m-track-2x2-driver-issue-easily-and-quickly/"><u>Fix M-Audio M-Track 2X2 Driver Issue Easily & Quickly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-15-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone 15 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-troubleshoot-and-overcome-obsolete-usb-composite-device-challenges/"><u>How to Troubleshoot and Overcome Obsolete USB Composite Device Challenges</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-picks-the-ultimate-gopro-upgrades-for-2024/"><u>Premium Picks The Ultimate Gopro Upgrades for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-honor-play-8t-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Honor Play 8T Location | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-file-history-error-on-windows-devices/"><u>Troubleshooting File History Error on Windows Devices</u></a></li>
+</ul></div>
 

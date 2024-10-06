@@ -1,7 +1,7 @@
 ---
 title: Fixing eNEX Driver Load Failures on Windows 11 OS
-date: 2024-08-09T08:57:04.237Z
-updated: 2024-08-10T08:57:04.237Z
+date: 2024-10-05T16:45:54.847Z
+updated: 2024-10-06T16:48:32.548Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Turn off the memory Integrity setting
 
  ene.sys is a system file related to EneTechIo or EneIo, developed by ENE Technology, usually installed with driver software for ENE Technology’s hardware products. If you don’t have a hardware device from ENE specifically but still have the error message about ene.sys, then please check to see if there’s a program controlling the RGB lighting on your keyboard and/or mouse.
@@ -40,13 +47,17 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
  If you don’t recall such an RGB lighting control software either, you can try to turn off Momory Integrity for this error message to disappear. To do so:
 
 1. On your keyboard, press the**Windows** key and type**core isolation** , then select**Core Isolation** from the list.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-36.png)
 2. Toggle off the option for Memory integrity.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-37.png)
 3. Restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then see if the_**ene.sys driver cannot load error**_ still remains. If the error message is still seen, please repeat the above to toggle on the option for Memory Integrity, then move on to the next step.
 
@@ -64,9 +75,14 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
 4. Rename the ene.sys file to something like**eneold.sys** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-38.png)
 5. When asked for permission, click**Continue** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-39.png)
 6. When this is done, restart your computer into normal mode as instructed in the post shared in step 1, then see if the ene.sys driver cannot load error is fixed.
 
@@ -74,27 +90,23 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 3\. Uninstall the last Windows update patch
 
  Many users reported that the ene.sys driver cannot load error happened after a Windows update. If this is your case as well, please do the following to uninstall the last update to see if it helps. To do so:
 
 1. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-9.png)
 2. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 3. Click**View installed updates** on the right pane.  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-40.png)
 4. Click the**Uninstall** button to remove the latest Windows update patch before the**_ene.sys driver cannot load error_** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-41.png)
@@ -104,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 4\. Run Program Compatibility Troubleshooter
 
  If the above still doesn’t help to fix the ene.sys driver cannot load error, you can try to run the program compatibility troubleshooter to see if Windows can fix this problem. Program compatibility troubleshooter helps older programs to run properly on newer OSs like Windows 11\. To run this troubleshooter:
@@ -114,19 +123,18 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
 1. On your keyboard, press the**Windows** key and the**R** key together. Copy and paste**ms-settings:troubleshoot** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-42.png)
 2. Select**Other troubleshooters** .  
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-43.png)
 3. Find**Program Compatibility Troubleshooter** , and click the**Run** button next to it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-44.png)
 4. See if you can find any**ene.sys** \-related app from the list. If not, select**Not listed** and click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-45.png)
 5. **Browse** to the location where your ene.sys file is, and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-46.png)
@@ -149,13 +157,24 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-scan.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -171,8 +190,6 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +197,18 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-reverse-video-magic-online-step-by-step-guides/"><u>[Updated] In 2024, Reverse Video Magic Online Step-by-Step Guides</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-apple-turn-things-around-for-disheartened-sonos-owners-expert-analysis-and-tips-by-zdnet/"><u>Can Apple Turn Things Around for Disheartened Sonos Owners? Expert Analysis and Tips by ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/detailed-overview-assessing-features-and-usability-of-line-app/"><u>Detailed Overview: Assessing Features & Usability of Line App</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-non-functional-dts-truehd-and-e628-drivers-on-windows-after-failed-upgrade-now-solved/"><u>Fix Non-Functional DTS TrueHD and E628 Drivers on Windows After Failed Upgrade - Now Solved!✅</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-execution-hiccups-in-malwarebytes-for-windows-1110-pcs/"><u>Fixing Execution Hiccups in Malwarebytes for Windows 11/10 PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-idt-high-definition-audio-codec-driver-problem/"><u>How to Fix IDT High Definition Audio CODEC Driver Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-iphone-data-transfer-hurdles-essential-usb-driver-fixes/"><u>Overcoming iPhone Data Transfer Hurdles: Essential USB Driver Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-vs-fake-chatgpt-tools-on-apple-devices/"><u>Real Vs. Fake ChatGPT Tools on Apple Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/sysware-printer-driver-successfully-installed/"><u>SysWare Printer Driver - Successfully Installed</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-essential-sound-editing-apps-for-mobile-iphone-and-ipad-edition-2023-edition/"><u>Updated 2024 Approved Essential Sound Editing Apps for Mobile IPhone & iPad Edition, 2023 Edition</u></a></li>
+</ul></div>
 

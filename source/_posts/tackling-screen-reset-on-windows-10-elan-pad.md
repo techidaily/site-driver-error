@@ -1,7 +1,7 @@
 ---
 title: Tackling Screen Reset on Windows 10, Elan Pad
-date: 2024-08-09T08:56:11.120Z
-updated: 2024-08-10T08:56:11.121Z
+date: 2024-10-02T16:16:25.362Z
+updated: 2024-10-06T21:51:06.994Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/64ebd0c332825585bbf71b718defd7fd5f0995165
 
  1) On your keyboard, press the**Windows logo key** and**I** at the same time. Click **Devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-settings-devices.png)
 
 2) Click **Mouse & touchpad,**  then click **Additional mouse options** .
@@ -45,8 +42,12 @@ thumbnail: https://thmb.techidaily.com/64ebd0c332825585bbf71b718defd7fd5f0995165
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2: Reinstall your drivers
 
  Faulty drivers provided by Microsoft could be the reason why your touchpad stops working properly. To tackle this problem, you should reinstall the driver.
@@ -65,39 +66,50 @@ thumbnail: https://thmb.techidaily.com/64ebd0c332825585bbf71b718defd7fd5f0995165
 
  3) Click the**Update** button next to an ELAN touchpad driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click_**Update All**_ to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3: Stop automatic updates from Windows Update**
 
  A faulty or buggy driver from Windows Update could be the cause of this problem. You can disable the automatic update via:
 
  1) Type**device and printers** in the search bar, then click **Device and Printers** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
  2) Right-clickyour computer icon and click **Device installation settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
 
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
 
@@ -107,8 +119,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +126,23 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonize-your-imovie-projects-with-youtubes-melodies/"><u>[New] In 2024, Harmonize Your iMovie Projects With YouTube's Melodies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-3dr-a-personal-perspective-on-printing-alone/"><u>[New] Unveiling '3DR' A Personal Perspective on Printing Alone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-your-rtx-gaming-problem-heres-the-fix/"><u>[Solved]: Your RTX Gaming Problem – Here’s The Fix</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-20-timeless-anime-themes-making-a-mark-on-tiktok/"><u>[Updated] In 2024, 20 Timeless Anime Themes Making a Mark on TikTok</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-unleashing-content-extract-vimeo-videos-as-mp4/"><u>2024 Approved Unleashing Content Extract Vimeo Videos as MP4</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-solutions-for-when-qualcomm-atheros-bluetooth-driver-stops-working-on-windows-10-machines/"><u>Comprehensive Solutions for When Qualcomm Atheros Bluetooth Driver Stops Working on Windows 10 Machines</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-methods-to-overcome-hcom-monitor-driver-error-during-installation/"><u>Effective Methods to Overcome Hcom Monitor Driver Error During Installation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/essential-strategies-for-win10-asus-acpi-troubleshooting/"><u>Essential Strategies for Win10 Asus ACPI Troubleshooting</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-issues-when-steam-installs-or-updates-games/"><u>How to Fix Issues When Steam Installs or Updates Games</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-win10-issues-with-elan-touchpad/"><u>Mastering Win10 Issues with Elan Touchpad</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/optimal-techniques-to-record-your-snapchat-stories/"><u>Optimal Techniques to Record Your Snapchat Stories</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-identify-disconnected-devices-windows-nt-workstation/"><u>Re-Identify Disconnected Devices Windows NT Workstation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-moto-g-stylus-unveiled-an-in-depth-analysis-of-an-economical-touchscreen-device/"><u>The Moto G Stylus Unveiled: An In-Depth Analysis of an Economical Touchscreen Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlocking-reclaim-missing-bluetooth-links-device-hub/"><u>Unlocking: Reclaim Missing BlueTooth Links, Device Hub</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>Updated How To Translate Videos in Tamil for a Wider Reach</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tackling Erratic Behavior: Windows 10 and Elan Pad"
-date: 2024-09-27T16:00:23.038Z
-updated: 2024-10-01T16:00:55.640Z
+date: 2024-10-01T21:48:14.194Z
+updated: 2024-10-06T22:33:46.251Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2: Reinstall your drivers
 
  Faulty drivers provided by Microsoft could be the reason why your touchpad stops working properly. To tackle this problem, you should reinstall the driver.
@@ -62,23 +69,10 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3: Stop automatic updates from Windows Update**
@@ -90,32 +84,26 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Right-clickyour computer icon and click **Device installation settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
 
@@ -134,15 +122,20 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-elite-cameras-for-windows-11-pro-review-of-the-latest-gear/"><u>[Updated] 2024 Approved Elite Cameras for Windows 11 - Pro Review of the Latest Gear</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-pushing-boundaries-in-video-production-acquire-free-green-screen-expertise-from-4-youtube-gurus/"><u>[Updated] Pushing Boundaries in Video Production Acquire Free Green Screen Expertise From 4 YouTube Gurus</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-instantaneous-picture-viewing-on-windows-11/"><u>2024 Approved Instantaneous Picture Viewing on Windows 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-5-strategies-for-copying-files-to-your-system/"><u>2024 Approved Master 5 Strategies for Copying Files to Your System</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-refining-your-tiktok-end-screen-elements/"><u>2024 Approved Refining Your TikTok End Screen Elements</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluray-non-display-issue-resolved-in-windows-11/"><u>BluRay Non-Display Issue Resolved in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/broadcoms-solution-enhanced-functionality-for-n-adapter-in-windows/"><u>Broadcom's Solution: Enhanced Functionality for N Adapter in Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/controller-error-notice-at-idedevice/"><u>Controller Error Notice at Idedevice</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721097739479-overcoming-the-missing-coprocessor-driver-error-on-your-windows-10-machine-solutions-inside/"><u>Overcoming the Missing Coprocessor Driver Error on Your Windows 10 Machine - Solutions Inside</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-indicator-of-a-block-no-snapshots-received-for-2024/"><u>The Indicator of a Block No Snapshots Received for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-best-free-video-viewing-software-guide-top-16-for-2024/"><u>[Updated] Best Free Video Viewing Software Guide - Top 16 for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-actionable-tips-on-how-to-post-on-reddit-step-by-step-guide/"><u>[Updated] In 2024, Actionable Tips On How to Post on Reddit - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-perfect-your-youtube-experience-add-timestamps-efficiently/"><u>[Updated] In 2024, Perfect Your YouTube Experience Add Timestamps Efficiently</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-macs-top-tier-gif-recorder-tools-reviewed/"><u>[Updated] Mac's Top-Tier GIF Recorder Tools Reviewed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-voice-transformation-on-the-move-best-audio-modification-tools-for-smartphones/"><u>[Updated] Voice Transformation on the Move Best Audio Modification Tools for Smartphones</u></a></li>
+<li><a href="https://win-dash.techidaily.com/compatible-windows-11-7-and-8-drivers-free-downloads-for-the-techkey-bluetooth-adapter/"><u>Compatible Windows 11, 7, and 8 Drivers: Free Downloads for the Techkey Bluetooth Adapter</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-steps-to-correct-the-unavailable-itbm-driver-mistake/"><u>Immediate Steps to Correct the Unavailable ITBM Driver Mistake</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/netgear-nighthawk-rax80-router-review/"><u>Netgear Nighthawk RAX80 Router Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/red-dead-redemption-2-visuals-at-stake-overcoming-the-errgfxstate-bug/"><u>Red Dead Redemption 2 Visuals at Stake: Overcoming the ERR_GFX_STATE Bug</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-for-qualcomm-atheros-bluetooth-driver-failures-on-windows-11-pcs/"><u>Step-by-Step Solutions for Qualcomm Atheros Bluetooth Driver Failures on Windows 11 PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/take-back-the-magic-of-seamless-connectivity-a-simple-fixed-to-bluetooth-issues-on-latest-os-update-guide-inside/"><u>Take Back the Magic of Seamless Connectivity- A Simple Fixed to Bluetooth Issues on Latest OS Update [Guide Inside!]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-your-disconnected-bluetooth-keyboard-for-windows-solutions-unveiled/"><u>Troubleshooting Your Disconnected Bluetooth Keyboard for Windows: Solutions Unveiled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-win-support-for-pci-devices/"><u>Ultimate Win Support for PCI Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-driver-crisis-for-print-hardware/"><u>Windows Driver Crisis for Print Hardware</u></a></li>
 </ul></div>
 

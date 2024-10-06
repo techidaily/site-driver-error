@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Silent Illumination Issue - Asus"
-date: 2024-09-27T16:07:25.513Z
-updated: 2024-10-01T16:08:20.943Z
+date: 2024-10-01T18:45:37.661Z
+updated: 2024-10-06T18:29:06.088Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/1df433206ff11dec7faaaf54cae7b4a5f98f51a6c
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Way 1: Start the HControl.exe** program
 
  Before you try this fix, make sure that you have installed the ATK package in your ASUS notebook. The ATK package, containing drivers that control your hotkeys, backlight and some other optional functionality, is usually pre-installed in every new ASUS laptop. And the HControl.exe program we need to start is also within this ATK package. In most cases you can navigate to HControl.exe through the following path:
@@ -54,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/1df433206ff11dec7faaaf54cae7b4a5f98f51a6c
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Way 2: Download and install the latest drivers**
@@ -83,20 +76,21 @@ OR
 3. On the next page, select your Windows version. Then you’ll be greeted with a list of drivers and programs available for download.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-25-19.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Scroll through the list until you find the following two drivers:**Smart Gesture** driver and**ATK Package** driver. Then, click on the**DOWNLOAD** button next to each driver.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-31-49.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-45-12.jpg)
 5. Wait till the download process is complete. The two downloaded files are compressed, so you need to extract them to a desired location.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Open the extracted folders of the two drivers. Find**Setup.exe** in their folders respectively and click on it. Then, follow the onscreen instructions to install the drivers.
 7. When everything’s done, restart your computer for the changes to take effect. Then check to see if your keyboard backlight can be turned on properly (press**Fn+F4** on your keyboard to enable the backlight).
@@ -116,10 +110,10 @@ OR
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the ATK Package driver for now, simply click the **Update**  button next to it. ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_19-15-46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -148,22 +142,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-step-up-your-game-techniques-for-bordered-instagram-videos/"><u>[New] Step Up Your Game Techniques for Bordered Instagram Videos</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-amp-up-your-media-get-free-soundtracks/"><u>[Updated] Amp Up Your Media Get Free Soundtracks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-highlighting-the-best-ios-psp-emulators-1-5/"><u>2024 Approved Highlighting the Best iOS PSP Emulators #1-5</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/5-pro-audio-techniques-for-windows-10-users/"><u>5 Pro Audio Techniques for Windows 10 Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-tips-solving-last-usb-malfunction-and-recognition-issues-on-your-computer-with-windows/"><u>Expert Tips: Solving Last USB Malfunction & Recognition Issues on Your Computer with Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/harmonize-dell-device-in-windows-7-environment/"><u>Harmonize Dell Device in Windows 7 Environment</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-lava-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Lava ?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oneplus-ace-3-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to OnePlus Ace 3 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-art-of-smooth-gameplay-strategies-for-tackling-fps-drops-on-a-computer-system/"><u>Master the Art of Smooth Gameplay: Strategies for Tackling FPS Drops on a Computer System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-invalid-driver-errors-during-computer-software-updates/"><u>Resolving Invalid Driver Errors During Computer Software Updates</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restoring-bluetooth-addition-to-device-control-panel/"><u>Restoring: Bluetooth Addition to Device Control Panel</u></a></li>
-<li><a href="https://driver-error.techidaily.com/samsung-phone-os-win-setup-guide/"><u>Samsung Phone OS: Win Setup Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/sound-symphony-music-within-whatsapp-statuses/"><u>Sound Symphony Music Within WhatsApp Statuses</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-the-common-code-43-error-on-your-windows-11-with-gtx-950-gpu/"><u>Troubleshooting the Common 'Code 43' Error on Your Windows 11 with GTX 950 GPU</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ultimate-playlist-for-bike-enthusiasts-for-2024/"><u>Ultimate Playlist for Bike Enthusiasts for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-vista-cant-recognize-acer-aspire-e1-572-laptop-solved/"><u>Windows Vista Can't Recognize Acer Aspire E1-572 Laptop [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/winning-against-windows-how-to-restore-functionality-of-your-wireless-keyboard/"><u>Winning Against Windows: How to Restore Functionality of Your Wireless Keyboard</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-windows-11-100-disk-usage-in-task-manager/"><u>[SOLVED] Windows 11 100% Disk Usage in Task Manager</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-masterful-video-analytics-unlocking-potential-with-social-blade-and-youtube/"><u>[Updated] Masterful Video Analytics Unlocking Potential with Social Blade & YouTube</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-google-pixel-8-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Google Pixel 8 to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oppo-a2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Oppo A2 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-from-mono-to-vivid-blades-transformation-into-the-4k-era/"><u>In 2024, From Mono to Vivid Blade's Transformation Into the 4K Era</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/preventing-sm-bus-errors-in-windows-1011-devices/"><u>Preventing SM Bus Errors in Windows 10/11 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reinvigorating-windows-faded-scanning-abilities/"><u>Reinvigorating Windows' Faded Scanning Abilities</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-service-inf-configuration-error/"><u>Resolving the Service INF Configuration Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-windows-1011-unifying-receiver-woes/"><u>Solve Windows 10/11 Unifying Receiver Woes</u></a></li>
 </ul></div>
 

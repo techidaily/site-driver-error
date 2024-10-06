@@ -1,7 +1,7 @@
 ---
 title: "Restored: Functioning Keyboard on Windows 11 PC"
-date: 2024-08-15T06:45:13.699Z
-updated: 2024-08-16T06:45:13.699Z
+date: 2024-09-30T23:14:26.009Z
+updated: 2024-10-06T20:14:31.805Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/fa0f0d9aa480a84d4958b92625d7efd743147dd9e
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Adjust your keyboard settings
 
  Windows has a setting, called Filter Keys, that allows you to control how it deals with accidental repeated keystrokes. Unfortunately, if turned on, this setting has been known to cause some keyboards to stop working in Windows 10\. So you should check if it’s turned on. If it is, you should turn it off and see if that resolves the problem.
@@ -44,8 +51,12 @@ thumbnail: https://thmb.techidaily.com/fa0f0d9aa480a84d4958b92625d7efd743147dd9e
  1) On your PC desktop, click the**Action Center** icon in the lower-right corner and click**All settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Ease of Access** .
@@ -55,19 +66,20 @@ thumbnail: https://thmb.techidaily.com/fa0f0d9aa480a84d4958b92625d7efd743147dd9e
  3) Click**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Method 3: Reinstall your keyboard driver
 
  If your keyboard driver has developed a fault, your keyboard may stop working. To fix it:
@@ -75,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/fa0f0d9aa480a84d4958b92625d7efd743147dd9e
  1) Right-click the**Start** button, then click**Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
@@ -86,13 +95,17 @@ thumbnail: https://thmb.techidaily.com/fa0f0d9aa480a84d4958b92625d7efd743147dd9e
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -109,9 +122,6 @@ thumbnail: https://thmb.techidaily.com/fa0f0d9aa480a84d4958b92625d7efd743147dd9e
  2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
 
@@ -121,12 +131,16 @@ thumbnail: https://thmb.techidaily.com/fa0f0d9aa480a84d4958b92625d7efd743147dd9e
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 5: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -156,8 +170,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +177,24 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-turn-your-screen-time-into-earnings/"><u>[Updated] 2024 Approved Turn Your Screen Time Into Earnings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-perfect-meeting-aesthetics-how-to-blur-video-backgrounds/"><u>[Updated] In 2024, Perfect Meeting Aesthetics How to Blur Video Backgrounds</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-quick-guide-downloading-tiktok-for-mac-users-for-2024/"><u>[Updated] Quick Guide Downloading TikTok for Mac Users for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-gain-currency-with-500-youtube-followers/"><u>2024 Approved Gain Currency with 500 YouTube Followers</u></a></li>
+<li><a href="https://games-able.techidaily.com/adjust-language-preference-on-steam-app/"><u>Adjust Language Preference on Steam App</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-tips-on-commanding-chatgpt-ai-for-successful-car-modification-solutions/"><u>Expert Tips on Commanding ChatGPT AI for Successful Car Modification Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hands-on-remedy-for-disrupted-mtp-functionality/"><u>Hands-On Remedy for Disrupted MTP Functionality</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-unrecognized-device-warnings-with-this-idt-software-package/"><u>How to Overcome Unrecognized Device Warnings with This IDT Software Package</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-chart-a-course-to-higher-views-with-top-optimization-tactics/"><u>In 2024, Chart a Course to Higher Views with Top Optimization Tactics</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-bluetooth-hurdles-repairing-the-qualcomm-atheros-driver-for-optimal-performance-on-windows-10/"><u>Overcoming Bluetooth Hurdles: Repairing the Qualcomm Atheros Driver for Optimal Performance on Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rapid-installation-guide-for-your-pioneer-dj-ddj-sx2-software/"><u>Rapid Installation Guide for Your Pioneer DJ DDJ-SX2 Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-issues-with-restored-defaults-on-your-amd-radeons-gpu-software/"><u>Resolving Issues with Restored Defaults on Your AMD Radeon's GPU Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-eradicating-the-blue-screen-error-0x0000007e-in-windows-7/"><u>Step-by-Step Guide: Eradicating the Blue Screen Error 0X0000007E in Windows 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-device-configuration-woes-a-step-by-step-solution-for-error-code-1/"><u>Tackling Device Configuration Woes - A Step-by-Step Solution for Error Code 1</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-usb-serial-link-resolving-nonoperational-issues/"><u>Win USB-Serial Link: Resolving Nonoperational Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102277438-wireless-harmony-windows-and-bluetooth-unite/"><u>Wireless Harmony: Windows & Bluetooth Unite!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Lenovo Bluetooth Issues in Win11
-date: 2024-08-15T06:47:02.502Z
-updated: 2024-08-16T06:47:02.502Z
+date: 2024-10-01T16:15:37.090Z
+updated: 2024-10-06T21:27:17.563Z
 tags:
   - win11
   - win10
@@ -29,8 +29,18 @@ thumbnail: https://thmb.techidaily.com/5c0564abc19ad999dbb49e540552fe121e13db8ef
 * [Option 4: Perform a refresh](https://collovinc.sjv.io/jrkzwp)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Option 1: Enable Bluetooth hardware
 
 **NOTE** : Please make sure that your computer has the necessary hardware and your wireless is turned on. Also, check the support website of Lenovo to make sure that your device is Bluetooth capable.
@@ -42,8 +52,12 @@ thumbnail: https://thmb.techidaily.com/5c0564abc19ad999dbb49e540552fe121e13db8ef
  2) Press the Windows logo key and **X** at the same time, then click **Device Manager.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7a64714f6.png)
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Expand **Bluetooth Radios**  or **Bluetooth** .
@@ -51,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/5c0564abc19ad999dbb49e540552fe121e13db8ef
 **Note** : If you **cannot** see any items listed under Network adapters or Bluetooth Radios, please proceed to **Option 2** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7d4daf634.png)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) If you see a down arrow, your Bluetooth device is disabled, just right-click the item and click **Enable** .
 
@@ -62,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/5c0564abc19ad999dbb49e540552fe121e13db8ef
  5) If you see a yellow exclamation mark next to your Bluetooth driver, your Bluetooth hardware is not responding or set up correctly. You can refer to **Option 3** for more help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ## Option 2: Enable discovery mode
 
@@ -75,6 +83,19 @@ thumbnail: https://thmb.techidaily.com/5c0564abc19ad999dbb49e540552fe121e13db8ef
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 3: Update Bluetooth driver
 
@@ -89,17 +110,18 @@ thumbnail: https://thmb.techidaily.com/5c0564abc19ad999dbb49e540552fe121e13db8ef
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver-scan.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Option 4: Perform a refresh
 
  If none of the above options help, you might need to perform a refresh to get your Bluetooth devices working again. For more information as to how to perform a refresh on Windows 10, please visit the following post: **[How to refresh my Windows 10?](https://tools.techidaily.com/drivereasy/download/)**
@@ -113,8 +135,6 @@ thumbnail: https://thmb.techidaily.com/5c0564abc19ad999dbb49e540552fe121e13db8ef
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +142,21 @@ thumbnail: https://thmb.techidaily.com/5c0564abc19ad999dbb49e540552fe121e13db8ef
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-expert-insights-top-insta-management-tools-reviewed/"><u>[Updated] Expert Insights Top Insta Management Tools Reviewed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ultimate-selection-of-cost-free-excellent-video-player-software-on-pc-and-mobile/"><u>[Updated] Ultimate Selection of Cost-Free, Excellent Video Player Software on PC and Mobile</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-driver-blocked-on-windows-11/"><u>Graphics Driver Blocked on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/identifying-missing-seagate-external-hd-in-windows-11/"><u>Identifying Missing Seagate External HD in Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-become-a-trending-sensation-with-these-effective-youtube-seo-strategies/"><u>In 2024, Become a Trending Sensation with These Effective YouTube SEO Strategies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-mastering-the-art-of-digital-recording-for-gotomeet-sessions/"><u>In 2024, Mastering the Art of Digital Recording for GoToMeet Sessions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/insight-into-openais-advanced-language-models-gpt-14/"><u>Insight Into OpenAI’s Advanced Language Models (GPT-1–4)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/radeon-wattman-reset-solved-restoring-stability-to-your-graphics-settings/"><u>Radeon Wattman Reset Solved: Restoring Stability to Your Graphics Settings</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-access-denied-errors-during-usb-installation/"><u>Resolving 'Access Denied' Errors During USB Installation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-your-bluetech-journey-a-simple-fix-for-unresponsive-bluetooth-devices-on-latest-operating-system-revealed/"><u>Smooth Your BlueTech Journey: A Simple Fix for Unresponsive Bluetooth Devices on Latest Operating System [Revealed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/streamlining-windows-10-with-lenovo-bt-driver/"><u>Streamlining Windows 10 with Lenovo BT Driver</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/utilizing-social-networks-for-effective-hiring/"><u>Utilizing Social Networks for Effective Hiring</u></a></li>
+<li><a href="https://facebook.techidaily.com/zuckerberg-discloses-pet-goats-name-is-blockchain/"><u>Zuckerberg Discloses: Pet Goat's Name Is 'Blockchain'</u></a></li>
+</ul></div>
 

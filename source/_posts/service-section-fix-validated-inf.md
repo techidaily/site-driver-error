@@ -1,7 +1,7 @@
 ---
 title: "Service Section Fix: Validated INF"
-date: 2024-09-24T16:10:07.178Z
-updated: 2024-10-01T16:10:19.559Z
+date: 2024-10-04T21:54:53.134Z
+updated: 2024-10-06T19:53:55.558Z
 tags:
   - win11
   - win10
@@ -80,10 +80,16 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
@@ -97,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
@@ -108,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -141,19 +147,16 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fix-needed-blank-display-on-mouse-input-device/"><u>[Fix Needed]: Blank Display on Mouse Input Device</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-olympic-snowboard-x-sprint-highlights-22/"><u>[New] Olympic Snowboard X Sprint Highlights '22</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-minimca-manorettes-simple-and-sleek-homes-in-mc-world/"><u>[Updated] MiniMCA Manorettes Simple & Sleek Homes in MC World</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-vimeos-global-distribution-guide-for-2024/"><u>[Updated] Vimeo's Global Distribution Guide for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-tips-for-msi-bravo-driver-update/"><u>Essential Tips for MSI Bravo Driver Update</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-error-code-1-ensuring-proper-configuration-of-your-device/"><u>Fixing Error Code 1: Ensuring Proper Configuration of Your Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-correct-invalidly-installed-device-drivers-in-windows/"><u>How to Correct Invalidly Installed Device Drivers in Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-disconnected-drives-in-windows-1110/"><u>How to Fix Disconnected Drives in Windows 11/10</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-samsung-cf591-is-it-ideal-for-gamers/"><u>In-Depth Analysis of Samsung CF591: Is It Ideal for Gamers?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/invalid-section-overhauwed-service-inf-now-validated/"><u>Invalid Section Overhauwed - Service INF Now Validated</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/1726027680273-pc/"><u>PCおよびスマートフォンで動画に音声追加のコツ</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721101110804-samsung-galaxy-tab-a5-not-recognized-by-kde-neon-solution-here/"><u>Samsung Galaxy Tab A5 Not Recognized by KDE Neon, Solution Here!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/tp-link-archer-c80-evaluation-a-cost-effective-solution-for-high-performance-wireless-connectivity/"><u>TP-Link Archer C80 Evaluation: A Cost-Effective Solution for High-Performance Wireless Connectivity</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-resolving-issues-with-netflix-title-playback/"><u>Troubleshooting Steps: Resolving Issues with Netflix Title Playback</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-crafting-visual-narratives-with-premium-text-tools-in-ae-for-2024/"><u>[New] Crafting Visual Narratives with Premium Text Tools in AE for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-itop-screen-recorder-essential-or-excessive/"><u>[Updated] ITop Screen Recorder - Essential or Excessive?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-success-overcoming-the-lack-of-support-for-devices-on-windows-10-8-and-7/"><u>Driver Installation Success: Overcoming the Lack of Support for Devices on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-eliminate-packet-loss-when-using-discord-tips-and-tricks/"><u>How To Eliminate Packet Loss When Using Discord – Tips & Tricks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-recover-from-a-missing-coprocessor-driver-error-on-windows-11-a-comprehensive-solution/"><u>How to Recover From a Missing Coprocessor Driver Error on Windows 11 - A Comprehensive Solution</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-make-lip-sync-video-without-installing-any-app/"><u>In 2024, How to Make Lip Sync Video Without Installing Any App</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-drive-error-quick-fix-for-windows-device/"><u>No-Drive Error: Quick Fix for Windows Device</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ated-income-status-for-content-makers/"><u>Pro-Rated Income Status for Content Makers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-witcher-3-pc-crashes-optimization-tips-for-smooth-gaming-experience/"><u>Solving The Witcher 3 PC Crashes - Optimization Tips for Smooth Gaming Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-correcting-the-absent-coprocessor-driver-problem-on-windows-11/"><u>Troubleshooting Tips: Correcting the Absent Coprocessor Driver Problem on Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unifying-photo-collections-of-the-same-persons-across-various-apple-device-albums/"><u>Unifying Photo Collections of the Same Persons Across Various Apple Device Albums</u></a></li>
 </ul></div>
 

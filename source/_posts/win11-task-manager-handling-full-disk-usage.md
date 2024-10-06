@@ -1,7 +1,7 @@
 ---
 title: "Win11 Task Manager: Handling Full Disk Usage"
-date: 2024-09-30T16:04:18.563Z
-updated: 2024-10-01T16:14:18.985Z
+date: 2024-09-30T23:07:02.786Z
+updated: 2024-10-06T16:43:54.449Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d6
 
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Disable SuperFetch
 
  SuperFetch helps to decrease boot time and make must-load programs more efficiently. However, it has been identified as a potential cause of disk performance issues in Windows 8 and later versions of Windows, including Windows 10\. Here’s how to stop this service:
@@ -51,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d6
  1) On your keyboard, press**Windows logo key** , type**command prompt** , then select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-19_11-01-38.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Click **Yes**  at the**User Account Control** prompt.
 
@@ -73,10 +73,10 @@ net.exe stop superfetch
 ![100% disk usage resolved](https://images.drivereasy.com/wp-content/uploads/2016/08/100-disk-usage-resolved.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If the 100% disk usage problem persists, try the next method, below.
@@ -100,13 +100,6 @@ With Driver Easy, updating drivers only takes 2 clicks:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/DE-update-all-6.0.jpg)
 4. Check your computer’s disk usage: Type “task manager” in the Windows search bar and select**Task Manager** , then in the Processes tab, look at the % at the top of the Disk column. If it’s no longer 100%, you’ve fixed the problem!  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![100% disk usage resolved](https://www.drivereasy.com/wp-content/uploads/2016/08/100-disk-usage-resolved.png)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -122,13 +115,6 @@ If the 100% disk usage problem persists, try the next method, below.
 [**Fortect**](https://tools.techidaily.com/drivereasy/download/) is a professional Windows repair tool that can scan your system’s overall status, diagnose your system configuration, identify faulty system files, and repair them automatically. It gives you entirely fresh system components with just one click, so you don’t have to reinstall Windows and all your programs, and you don’t lose any personal data or settings. (Read **[Fortect Trustpilot reviews](https://www.trustpilot.com/review/fortect.com)**  .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/Fortect-tp-reviews.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here’s how to use Fortect to check for broken system components in just one click:
 
@@ -170,6 +156,13 @@ chkdsk.exe /f /r
 
 ![100% disk usage resolved](https://images.drivereasy.com/wp-content/uploads/2016/08/100-disk-usage-resolved.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the 100% disk usage problem persists, try the next method, below.
 
 ---
@@ -185,15 +178,22 @@ If the 100% disk usage problem persists, try the next method, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-35-27.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Go to the**Advanced** tab, then click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-36-39.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Go to the **Advanced** tab again, and choose**Change…**  in the Virtual memory section.
 
@@ -260,6 +260,13 @@ Here’s how to determine if this is your problem and fix it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b453d7e242.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Expand the **IDE ATA/ATAPI Controllers**  category, and double-click the**AHCI controller** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b45719881f.png)
@@ -267,6 +274,13 @@ Here’s how to determine if this is your problem and fix it:
  3) Go to the **Driver** tab and click**Driver Details** . If you can see**storahci.sys** stored in a path of system32 folder, then you are running the inbox AHCI driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b4611132d9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Close the Driver Details window and go to**Details** tab. From the drop-down menu, select **Device Instance Path** . Make note of the path, starting from**VEN\_** .
 
@@ -305,6 +319,14 @@ Here’s how you can check the disk health easily with HD Tune:
  Here you can see the S.M.A.R.T info of your disk. (S.M.A.R.T is a monitoring system providing a series of attributes or diagnostics for each disk model.) At this moment, you don’t need to figure out each entry’s meaning — simply check if there’s any one of them has a**Status** that is not “**Ok** “. If you see a warning, you may need to google the entry label and determine your next step.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-2.jpg)
 3. On the top left corner, you can toggle the drop down menu to select the disk (if you have multiple). This will allow you to check the health of each disk.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-3.jpg)
 
  You’d also need to check if the disk has bad blocks. **Before you start, note that this process could take hours to complete.** You may want to try other fixes before this one.
@@ -315,30 +337,9 @@ Here’s how you can check the disk health easily with HD Tune:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-6.jpg)
 3. Again, you can use the drop down menu on the top left corner to scan different disk. It’s recommended you scan all the disk to make sure all your hard drives are in good condiction.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Tips to secure your data** : Since hard drives have a finite lifetime and can fail without a warning, consider using a free backup software like AOMEI Backupper to [create a system image](https://prf.hn/click/camref:1011l3x6jb/pubref:drivereasyen2039/ar:drivereasyen2039/[p%5Fid:1100l557026]/destination:https%3A%2F%2Fwww.ubackup.com%2Ffeatures%2Fcreate-system-image.html) , especially when the disk carries important data. A backup system protects you against random disk failures.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Switch to ChromeOS
 
@@ -385,16 +386,19 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-engage-audiences-with-these-inspiring-free-templates-for-slideshows/"><u>[New] Engage Audiences with These Inspiring, Free Templates for Slideshows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-engaging-with-srt-soundfiles-on-pc-and-mac/"><u>[New] Engaging with SRT Soundfiles on PC & Mac</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-hitting-1080p-quality-with-facebook-broadcasting-for-2024/"><u>[Updated] Hitting 1080P Quality with Facebook Broadcasting for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-quick-and-painless-ways-to-screen-record-stories/"><u>[Updated] In 2024, Quick & Painless Ways to Screen Record Stories</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-what-you-must-watch-a-close-look-at-todays-top-8-social-media-clips/"><u>[Updated] What You Must Watch! - A Close Look at Today's Top 8 Social Media Clips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-devmgr-error-code-48/"><u>Fixed: DevMgr - Error Code #48</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-issue-resolution-guide-for-windows-10/"><u>GTX 950 'Code 43' Issue Resolution Guide for Windows 10</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-the-process-of-clearing-up-browsers-watched-videos/"><u>In 2024, Navigating the Process of Clearing Up Browser's Watched Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-bluetooth-connectivity-problems-with-qualcomm-atheros-on-windows-10-systems/"><u>Resolving Bluetooth Connectivity Problems with Qualcomm Atheros on Windows 10 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restoring-operational-status-of-enex-driver-on-win11/"><u>Restoring Operational Status of eNEX Driver on Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/streamlining-deathadder-driver-update-on-windows-11/"><u>Streamlining Deathadder Driver Update on Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-sky-perfection-11-must-have-enhancements-for-phantom-drone/"><u>[New] 2024 Approved Sky Perfection 11 Must-Have Enhancements for Phantom Drone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-real-time-recording-made-easy-for-your-skype-sessions-for-2024/"><u>[New] Real-Time Recording Made Easy for Your Skype Sessions for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fix-facing-issues-with-rtx-gaming-on-pc-heres-how-we-tackled-it/"><u>[Quick-Fix] Facing Issues with RTX Gaming on PC - Here's How We Tackled It</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-premier-mp4-to-fb-video-transforming-tools/"><u>2024 Approved Premier MP4 to FB Video Transforming Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-motorola-moto-e13-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Motorola Moto E13 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-samsung-galaxy-a23-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Samsung Galaxy A23 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/demystifying-the-instagram-video-constraint-for-2024/"><u>Demystifying the Instagram Video Constraint for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-htc-u23-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-usb-drive-not-showing-up-in-windows-11-issue/"><u>How to Fix USB Drive Not Showing Up in Windows 11 Issue</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-guide-to-taming-nonstop-buzzing-of-bluetooth-devices-on-latest-os-update-fix-revealed/"><u>Quick Guide to Taming Nonstop Buzzing of Bluetooth Devices on Latest OS Update ![Fix Revealed]</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-more-than-you-could-dream-or-imagine-final-cut-pro-x-is-a-powerful-software-one-such-hidden-feature-from-fcpx-is-jump-cuts-and-we-shal/"><u>Updated 2024 Approved More than You Could Dream or Imagine, Final Cut Pro X Is a Powerful Software. One Such Hidden Feature From FCPX Is Jump Cuts, and We Shall Know More About Final Cut Pro Jump Cuts in This Article</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-80211n-broadcom-wi-fi-adapter-now-working-again/"><u>Win 802.11N Broadcom Wi-Fi Adapter Now Working Again</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-upgrading-deathadder-hat-drivers/"><u>Win11: Upgrading DeathAdder HAT Drivers</u></a></li>
 </ul></div>
 

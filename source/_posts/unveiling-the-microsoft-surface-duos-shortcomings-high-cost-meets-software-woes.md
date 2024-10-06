@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Microsoft Surface Duo's Shortcomings: High Cost Meets Software Woes"
-date: 2024-09-26T16:07:41.259Z
-updated: 2024-10-01T16:02:46.582Z
+date: 2024-09-30T20:11:58.249Z
+updated: 2024-10-06T23:04:54.879Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Microsoft Surface Duo's Shortcomings: High Cost Meets Software Woes"
@@ -39,16 +39,16 @@ Lifewire / Andy Zahn
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Star Wars: Squadrons
 
 ![Star Wars: Squadron](https://www.lifewire.com/thmb/ymdujoeG8lwdw1L7OD6l0EFi1ug=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Star-Wars-Squadrons-1-daa1e236365f4a4a8831cce59004223a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -72,13 +72,6 @@ Lifewire / Andy Zahn
 * [Specs](https://www.lifewire.com/#toc-full-spec)
 
  Chances are, whether you grew up with Star Wars or discovered the franchise later in life, you’ve considered just how awesome it would be to swing a lightsaber or pilot your very own X-Wing fighter. Star Wars: Squadrons grants you the second of these fantasies to a never before seen degree. This long-overdue follow up to the 1993 classic Star Wars: X-Wing aims to offer the same intense dogfighting, but with the advantages of modern tech. I reviewed the PC version.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Setup: Some tinkering required**
 
@@ -109,10 +102,10 @@ Star Wars: Squadrons is drop-dead gorgeous.
  In between story missions you are fixed in place in different rooms, where you click on different characters to talk to them. I found these sequences to be very linear and I found that they tended to drag on. I’d certainly have preferred to be able to walk around rather than teleport between locations on the ship. This is probably due to this game being intended to be played in VR where the fixed positioning makes more sense due to the limitations of VR, but the game would've been well served by separate control schemes. This is a minor gripe; if desired you can just skip through these sequences pretty quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Gameplay: Refined and surprisingly deep**
@@ -135,6 +128,13 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
  There’s also ship customization, which allows you to alter various aspects of your aircraft such as armament, hull, and engines to enhance various attributes, though this usually comes at a cost to other capabilities. For example, you can trade speed for extra agility and vice versa. It requires a deep understanding of the ship you’re customizing so you’ll probably want to wait to touch this till you’ve had plenty of practice in battle. There are also cosmetic customizations, such as paint jobs and ornaments. Both gameplay and cosmetic customizations are purchased with separate types of in-game currency.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Graphics: Attention to detail**
 
  Star Wars: Squadrons is drop-dead gorgeous. Ships are lovingly rendered and great detail was paid to getting the lighting, environments, and effects just right. The cockpits of the different ships you pilot are fully realized and mesmerizing in their realism. It’s easy to get sucked into ogling a grand alien vista or just reveling in the experience of being in the cockpit of an honest to goodness X-Wing. Explosions, lasers, enemy ships tearing apart in fiery gouts of flame, and the realistic damage to your own ship, provoke many tense situations that hit home and are bound to get your heart racing.
@@ -150,10 +150,10 @@ Star Wars: Squadrons is drop-dead gorgeous.
  With the vast majority of video games, your experience is almost as dependent on what you hear as what you see. In this regard, Squadrons is a masterpiece. This game perfectly replicates the epic feel of classic Star Wars space combat from the laser fire, to the roar of your engines, to the exhilarating whoosh of grazing an asteroid. There’s also the unforgettable John Williams soundtrack, which is fully present here and is just as vital to the experience of the game as it is to the films.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Performance: Solid on moderately powerful PCs**
@@ -163,16 +163,10 @@ Star Wars: Squadrons is drop-dead gorgeous.
  Dogfights are fast, brutal, and thanks to a wide variation in map design, each match feels remarkably fresh and non-repetitive.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Controls: Wide support for different inputs**
@@ -193,6 +187,13 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
  With an MSRP of just $40 Star Wars: Squadrons is a surprisingly reasonably priced game that bucks the trend of modern AAA games uniformly releasing for $60 regardless of what content they are able to offer. It’s not the longest game, and there is a limit to end-game multiplayer content, so $40 is pretty much the exact right price for Squadrons. It’s refreshing to see a distinct lack of any extra monetization in the game, with no annoying microtransactions or loot boxes.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Star Wars: Squadrons vs. Elite Dangerous**
 
  If you’re looking for a deeper, more daunting, complex space sim, Elite Dangerous is the next step. Squadrons is far more exciting, being laser-focused on intense aerial combat. Elite Dangerous is a more methodical game, with a focus on exploration and trading, though there’s also exciting combat there if you want it.
@@ -202,13 +203,6 @@ Star Wars: Squadrons is drop-dead gorgeous.
  An exhilarating space combat experience that is particularly well suited to VR.
 
  Star Wars: Squadrons is a fine successor to classic space combat games, and is an undeniably exciting and realistic experience. It’s best if played with a VR headset, but is worth your time and money on a traditional screen as well. The memory of my first flight at the helm of a TIE Fighter in this game has stuck with me with surprising clarity in a way that few moments in video games do, and it’s something you really have to experience for yourself to understand.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -233,15 +227,21 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-live-broadcast-showdown-obs-or-streamlabs-which-is-superior-in-2024/"><u>[New] Live Broadcast Showdown OBS or Streamlabs – Which Is Superior, In 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-prime-captures-of-apples-hd-video-screenshots-under-156-chars-for-2024/"><u>[New] Prime Captures of Apple's HD Video Screenshots (Under 156 Chars) for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/addressing-unresponsive-right-click-issue-for-windows-11-touchpads/"><u>Addressing Unresponsive Right Click Issue for Windows 11 Touchpads</u></a></li>
-<li><a href="https://driver-error.techidaily.com/eliminate-nonstop-windows-11-bluetooth-connection/"><u>Eliminate Nonstop Windows 11 Bluetooth Connection</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-flawed-usb-c-input-for-asus-cam-with-win10/"><u>Fixing Flawed USB-C Input for ASUS Cam with Win10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-hp-wireless-keyboard-issues-troubleshooting-guide-and-solutions/"><u>Fixing HP Wireless Keyboard Issues: Troubleshooting Guide & Solutions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-interactive-cosmos-explored-metaverse-versus-omniverse-discussed/"><u>In 2024, Interactive Cosmos Explored Metaverse Versus Omniverse Discussed</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-maximizing-impact-crafting-free-ad-videos-for-youtube/"><u>In 2024, Maximizing Impact Crafting Free Ad Videos for YouTube</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-c12-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after C12 has been deleted</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revolutionize-your-connections-with-tangos-unlimited-text-voice-and-video-calling-no-charge/"><u>Revolutionize Your Connections with Tango's Unlimited Text, Voice, & Video Calling - No Charge!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-force-to-reinstall-graphics-driver-error/"><u>[Solved] 'Force to Reinstall Graphics Driver' Error</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-11-useful-youtube-seo-tips-to-help-rank-your-video-high/"><u>[Updated] 11 Useful YouTube SEO Tips to Help Rank Your Video High</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-formulating-a-heartfelt-tiktok-epilogue/"><u>2024 Approved Formulating a Heartfelt TikTok Epilogue</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-perfectly-prepared-videos-a-guide-to-instagram-fitness/"><u>2024 Approved Perfectly Prepared Videos A Guide to Instagram Fitness</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-on-resolving-a-408-request-timeout-issue/"><u>Comprehensive Guide on Resolving a 408 Request Timeout Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dissolve-ongoing-bluetooth-link-issue-in-windows/"><u>Dissolve Ongoing Bluetooth Link Issue in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-for-rectifying-vertical-video-problems-on-your-asus-device/"><u>Expert Tips for Rectifying Vertical Video Problems on Your ASUS Device</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/first-impressions-intova-x-in-the-spotlight/"><u>First Impressions Intova X in the Spotlight</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-detected-no-intelladapter-on-board/"><u>Hardware Detected: No IntellAdapter on Board</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-access-denied-error-on-usb-device-setup/"><u>How to Overcome 'Access Denied' Error on USB Device Setup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/leverage-automated-tracking-with-the-cookiebot-platform-for-enhanced-user-experience/"><u>Leverage Automated Tracking with the Cookiebot Platform for Enhanced User Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-base64-encodingdecoding-in-linux-a-step-by-step-guide/"><u>Mastering Base64 Encoding/Decoding in Linux: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-gionee-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Gionee Phone? Unlock It Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-manor-lords-crash-issue-in-your-windows-computer/"><u>Solving the Manor Lords Crash Issue in Your Windows Computer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-the-aging-usb-composite-device-resolved-issues-and-solutions/"><u>Understanding the Aging USB Composite Device: Resolved Issues and Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unresponsive-keys-on-pc/"><u>Unresponsive Keys on PC</u></a></li>
 </ul></div>
 

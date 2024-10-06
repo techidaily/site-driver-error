@@ -1,7 +1,7 @@
 ---
 title: Overcoming Missing Press Function on Windows
-date: 2024-08-15T06:51:58.927Z
-updated: 2024-08-16T06:51:58.927Z
+date: 2024-10-01T17:21:30.863Z
+updated: 2024-10-06T21:00:30.710Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/4d8b9cd04159907d6ffd8170ace131d919d2ce436
 3. [**Reinstall the keyboard driver**](https://twopages.pxf.io/21em1d)
 4. **[Update the keyboard driver](https://bluettieu.pxf.io/nlgoka)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Restart your computer
 
  Sometimes, a simple reboot can fix the issue. This is the first thing you should try when the Enter key is not working.
@@ -49,12 +46,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-66.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the status of**Sticky Keys** ,**Toggle Keys,** and**Filter Keys** are all set to**Off** . If any one of them is on, switch it to**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-49.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
 3) Test the Enter key on your keyboard to see if it works.
 
@@ -65,19 +66,20 @@ Here is how to do it:
  2) Select**Accessibility** from the left panel. From the right, scroll down and click on**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-adjust-keyboard-settings-Windows-settings-1200x664.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
  3) Toggle off**Sticky keys** ,**Filter keys** ,**Toggle keys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Sticky-Filter-and-Toggle-keys-Off-1200x664.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Test the Enter key on your keyboard to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### Fix 3: Reinstall the keyboard driver
 
  The Enter key may not work if you are using the wrong keyboard driver or it’s out of date. To fix it, you can try reinstalling the keyboard driver with Device Manager.
@@ -89,9 +91,6 @@ Here is how to do it:
  2) Double click**Keyboards** , right-click your keyboard device and select**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-46.png)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) After uninstalling, restart your computer to let Windows reinstall the keyboard driver automatically.
 
@@ -100,8 +99,12 @@ Here is how to do it:
  Your Enter key should be working perfectly again now. If not, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Update the keyboard driver
 
  If reinstalling the keyboard driver doesn’t work, you should update your keyboard driver to see if it fixes your problem. There are two ways you can update your keyboard driver:
@@ -123,6 +126,13 @@ Here is how to do it:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro Version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -149,8 +159,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +166,24 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-enhancing-macs-live-performance-with-mixer/"><u>[New] In 2024, Enhancing Mac's Live Performance with Mixer</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/layback-in-reverse-the-ultimate-youtube-playlist-technique-for-2024/"><u>[New] Playback in Reverse The Ultimate YouTube Playlist Technique for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-creative-expressions-building-stories-from-photos-in-pixiz/"><u>[New] Unlock Creative Expressions Building Stories From Photos in Pixiz</u></a></li>
+<li><a href="https://driver-error.techidaily.com/update-wdcsam64prewin8sys-core-isolation-deactivated/"><u>[Update] wdcsam64_prewin8.sys: Core Isolation Deactivated</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-finding-the-right-wordmark-for-your-personalized-tiktok-stream/"><u>[Updated] 2024 Approved Finding the Right Wordmark for Your Personalized TikTok Stream</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unleash-your-creativity-innovative-online-crop-strategies/"><u>[Updated] Unleash Your Creativity - Innovative Online Crop Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-successfully-managing-intel-hd-graphics-630-drivers-on-window-systems-solution-details/"><u>Comprehensive Guide: Successfully Managing Intel HD Graphics 630 Drivers on Window Systems [SOLUTION DETAILS]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/directx-9-hurdles-a-swift-fix-guidebook/"><u>DirectX 9 Hurdles: A Swift Fix Guidebook</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-incompatible-hardware-detection-warnings-on-idt-systems/"><u>How to Fix Incompatible Hardware Detection Warnings on IDT Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-update-or-reinstall-your-coprocessor-driver-on-windows-10-issue-resolved/"><u>How to Update or Reinstall Your Coprocessor Driver on Windows 10 [Issue Resolved]</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-nokia-c12-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Nokia C12 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-11-pro-max-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 11 Pro Max without Apple ID?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-newest-drivers-to-unlock-full-potential-of-your-huion-h610-pro-digital-artboard/"><u>Install the Newest Drivers to Unlock Full Potential of Your Huion H610 Pro Digital Artboard</u></a></li>
+<li><a href="https://driver-error.techidaily.com/razers-latest-gem-a-comprehensive-review-of-the-revolutionary-wi-fi-headset-for-gamers/"><u>Razer's Latest Gem: A Comprehensive Review of the Revolutionary Wi-Fi Headset for Gamers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-non-functional-usb-audio-device-issue-in-win10/"><u>Solve Non-Functional USB Audio Device Issue in WIN10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-elan-tablet-glitches-on-windows-10/"><u>Solving Elan Tablet Glitches on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-repairing-itbm-driver-accessibility-problems/"><u>Troubleshooting and Repairing ITBM Driver Accessibility Problems</u></a></li>
+</ul></div>
 

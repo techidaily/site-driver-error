@@ -1,7 +1,7 @@
 ---
 title: Overcoming Elan Driver Woes on Windows 11
-date: 2024-09-30T16:02:48.556Z
-updated: 2024-10-01T16:01:51.128Z
+date: 2024-10-05T22:02:16.796Z
+updated: 2024-10-06T16:31:27.967Z
 tags:
   - win11
   - win10
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2: Reinstall your drivers
@@ -69,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3: Stop automatic updates from Windows Update**
@@ -83,32 +83,26 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-clickyour computer icon and click **Device installation settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
@@ -128,14 +122,18 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/outubes-premier-gatherings-top-events-beyond-vidcon/"><u>[New] Youtube's Premier Gatherings Top Events Beyond VidCon</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-adb-device-not-found-error-on-windows/"><u>[Solved] ADB Device Not Found Error on Windows</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-contrasting-youtubes-ownership-norms-with-cc-ideals/"><u>[Updated] 2024 Approved Contrasting YouTube's Ownership Norms with CC Ideals</u></a></li>
-<li><a href="https://driver-error.techidaily.com/coprocessor-driver-missing-on-windows-11-solved/"><u>Coprocessor Driver Missing on Windows 11 [Solved]</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/cutting-edge-pfp-trends-enhancing-your-tiktok-impact-for-2024/"><u>Cutting-Edge PFP Trends Enhancing Your TikTok Impact for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-vertical-playback-problems-correcting-the-orientation-of-videos-on-your-asus-notebook/"><u>Resolving Vertical Playback Problems: Correcting the Orientation of Videos on Your ASUS Notebook</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-dell-inspiron-3671-a-middle-of-the-road-desktop-examined-for-budget-conscious-users/"><u>The Dell Inspiron 3671: A Middle-of-the-Road Desktop Examined for Budget-Conscious Users</u></a></li>
-<li><a href="https://article-tips.techidaily.com/tiktok-linking-made-simple-and-irreversible/"><u>TikTok Linking Made Simple and Irreversible</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-usb-installation-problems-overcoming-access-denied/"><u>Troubleshooting USB Installation Problems: Overcoming 'Access Denied'</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716069796141-new-2024-approved-utilizing-inbuilt-cameras-for-screen-recording-on-mate-and-p-series-smartphones-mate-10-mate-20-p20-p10/"><u>[New] 2024 Approved Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10).</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-effective-obs-transitions-to-facebook-live-for-2024/"><u>[New] Effective OBS Transitions to Facebook Live for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-selfie-to-sensation-vloggers-choice-of-top-9-camera-accessories/"><u>[Updated] In 2024, From Selfie to Sensation Vloggers' Choice of Top 9 Camera Accessories</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-reel-downloads-quick-save-methods/"><u>[Updated] In 2024, Instagram Reel Downloads Quick Save Methods</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-tailored-techniques-to-cut-off-unwanted-youtube-content-on-devices/"><u>[Updated] In 2024, Tailored Techniques to Cut Off Unwanted YouTube Content on Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/audio-device-on-high-definition-audio-bus-driver-error-fixed/"><u>Audio Device on High Definition Audio Bus Driver Error [Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-your-windows-10-missing-coprocessor-driver-problem-today/"><u>Fix Your Windows 10 Missing Coprocessor Driver Problem Today</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-apple-iphone-15-pro-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from Apple iPhone 15 Pro or iPad?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721099245282-internal-wifi-and-bluetooth-not-working-on-win-10-quick-fix/"><u>Internal Wifi and Bluetooth Not Working on Win 10 – Quick Fix!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-diagnosing-and-fixing-a-non-starting-pc/"><u>Step-by-Step Guide to Diagnosing and Fixing a Non-Starting PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-fixed-bsod-irql-not-equal/"><u>Win11 Fixed: BSOD - Irql Not Equal</u></a></li>
 </ul></div>
 

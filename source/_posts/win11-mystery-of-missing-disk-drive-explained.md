@@ -1,7 +1,7 @@
 ---
 title: "Win11: Mystery of Missing Disk Drive Explained"
-date: 2024-08-15T06:47:35.610Z
-updated: 2024-08-16T06:47:35.610Z
+date: 2024-10-04T22:46:10.909Z
+updated: 2024-10-06T16:19:53.387Z
 tags:
   - win11
   - win10
@@ -51,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## **2: Update drivers**
 
  If uninstalling the IDE ATA/ ATAPI controller drivers doesn’t solve the problem for you, it’s likely that you’re using the wrong driver altogether.
@@ -85,8 +82,12 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke a**Run** command. Type **regedit** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Follow the path:
@@ -101,14 +102,14 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
  4) **Delete**  them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **4: Create a registry subkey**
 
  If you can’t see**UpperFilters** and**LowerFilters** in the Registry pane, please follow the steps below.
@@ -121,8 +122,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\atapi\\**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd3791d37b.png)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
@@ -132,20 +137,34 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  4) Create a new**Controller0** key under**atapi** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -157,8 +176,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +183,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-optimizing-color-palette-with-luts-a-guide-to-premiere/"><u>[Updated] In 2024, Optimizing Color Palette with LUTs A Guide to Premiere</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-10-podcast-gear-excellent-microphones/"><u>[Updated] In 2024, Top 10 Podcast Gear Excellent Microphones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-started-with-magic-mouse-downloading-and-setting-up-for-windows-systems/"><u>Getting Started with Magic Mouse: Downloading and Setting Up for Windows Systems</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/grau-gmbh-hardware-and-software-excellence-the-ultimate-toolkit-for-fixing-your-videos/"><u>Grau GmbH Hardware and Software Excellence: The Ultimate Toolkit for Fixing Your Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-v30-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme V30</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-music-a-guide-to-coherence/"><u>In 2024, YouTube Music A Guide to Coherence</u></a></li>
+<li><a href="https://driver-error.techidaily.com/make-your-computer-listen-a-quick-guide-to-fix-unresponsive-bluetooth-on-latest-os-update-guide-inside/"><u>Make Your Computer Listen: A Quick Guide To Fix Unresponsive Bluetooth on Latest OS Update [Guide Inside]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-fixing-qualcomm-atheros-bluetooth-connectivity-on-windows-11/"><u>Step-by-Step Solution: Fixing Qualcomm Atheros Bluetooth Connectivity on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-the-legacy-of-usb-composite-devices-insights-and-solutions/"><u>Understanding the Legacy of USB Composite Devices: Insights and Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-speaker-lacks-volume-how-to-fix-it-on-win10/"><u>USB Speaker Lacks Volume - How to Fix It on Win10</u></a></li>
+</ul></div>
 

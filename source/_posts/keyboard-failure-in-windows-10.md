@@ -1,7 +1,7 @@
 ---
 title: Keyboard Failure in Windows 10
-date: 2024-08-15T06:45:23.447Z
-updated: 2024-08-16T06:45:23.448Z
+date: 2024-09-29T18:02:32.099Z
+updated: 2024-10-06T20:50:44.525Z
 tags:
   - win11
   - win10
@@ -37,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/ab0e7af2ea47dc9a130667c482825dec2796c60b3
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2: Adjust your keyboard settings
 
  Windows has a setting, called Filter Keys, that allows you to control how it deals with accidental repeated keystrokes. Unfortunately, if turned on, this setting has been known to cause some keyboards to stop working in Windows 10\. So you should check if it’s turned on. If it is, you should turn it off and see if that resolves the problem.
@@ -48,12 +45,16 @@ thumbnail: https://thmb.techidaily.com/ab0e7af2ea47dc9a130667c482825dec2796c60b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click**Keyboard** .
 
@@ -62,15 +63,9 @@ thumbnail: https://thmb.techidaily.com/ab0e7af2ea47dc9a130667c482825dec2796c60b3
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Reinstall your keyboard driver
 
  If your keyboard driver has developed a fault, your keyboard may stop working. To fix it:
@@ -79,24 +74,32 @@ thumbnail: https://thmb.techidaily.com/ab0e7af2ea47dc9a130667c482825dec2796c60b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Method 4: Update your keyboard and USB driver (recommended)
 
  One of the most common causes of an unresponsive keyboard is an outdated keyboard or USB driver.
@@ -119,14 +122,25 @@ thumbnail: https://thmb.techidaily.com/ab0e7af2ea47dc9a130667c482825dec2796c60b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 5: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -156,8 +170,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +177,22 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-level-strategies-for-photo-color-enhancement/"><u>[New] Pro-Level Strategies for Photo Color Enhancement</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-discovering-the-best-10-online-tools-for-vimeo-videos/"><u>2024 Approved Discovering the Best 10 Online Tools for Vimeo Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-solutions-to-overcome-failed-to-instalh-hcmon-driver-problem/"><u>Comprehensive Solutions to Overcome 'Failed to InstalH' HcMon Driver Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensuring-smooth-connection-lenovo-on-windows-10/"><u>Ensuring Smooth Connection: Lenovo on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-iphone-usb-connection-detailed-guide-on-resolving-mtp-device-driver-problems/"><u>Fixing the iPhone USB Connection: Detailed Guide on Resolving MTP Device Driver Problems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-to-install-and-operate-handbrake-video-converter-for-windows-1011-users/"><u>Guide to Install and Operate HandBrake Video Converter for Windows 10/11 Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-honor-magic-6-lite-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Honor Magic 6 Lite to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-xr-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone XR Location | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/long-lasting-joy-the-panic-playdate-remains-an-engaging-gadget-after-two-years/"><u>Long-Lasting Joy: The Panic Playdate Remains an Engaging Gadget After Two Years</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-disabled-right-click-issue-in-windows-11-touchpad-environment/"><u>Resolve Disabled Right Click Issue in Windows 11 Touchpad Environment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-connectivity-issues-a-users-handbook-to-fixing-wireless-keyboards-on-windows-machines/"><u>Resolving Connectivity Issues: A User's Handbook to Fixing Wireless Keyboards on Windows Machines</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-realme-gt-5-240w-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Realme GT 5 (240W) FRP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-poco-x5-by-drfone-android/"><u>Three Ways to Sim Unlock Poco X5</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-tips-for-stable-fifa-21-gameplay-on-your-pc/"><u>Ultimate Troubleshooting Tips for Stable FIFA 21 Gameplay on Your PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/upgraded-video-feeds-asus-webcam-and-windows-1e-connection/"><u>Upgraded Video Feeds: ASUS Webcam & Windows 1E Connection</u></a></li>
+</ul></div>
 

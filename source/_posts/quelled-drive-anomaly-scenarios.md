@@ -1,7 +1,7 @@
 ---
 title: Quelled Drive Anomaly Scenarios
-date: 2024-09-26T16:01:45.011Z
-updated: 2024-10-01T16:00:01.865Z
+date: 2024-10-01T19:48:15.588Z
+updated: 2024-10-06T20:36:19.090Z
 tags:
   - win11
   - win10
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/0c4fe2df3501ab3d12aff4159eef3a635fdab9589
  Some sectors in your computer may be damaged, and you can try**switching your USB drive to a different port** . It worked for some users. If it doesn’t solve your “ The driver detected a controller error on \\Device\\Harddisk1\\DR1″ problem,  try Solution 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 2: Update your USB driver
@@ -50,20 +50,26 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84c2843cf68.jpg)
 4. You may need to restart your computer to finish the process. Then check if your “The driver detected a controller error on \\Device\\Harddisk1\\DR1 ” problem is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -89,24 +95,16 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-streamlining-photo-editing-processes-a-guide/"><u>[New] 2024 Approved Streamlining Photo Editing Processes A Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-mastering-youtube-timestamp-addition-for-desktop-and-mobile-devices/"><u>[Updated] 2024 Approved Mastering YouTube Timestamp Addition for Desktop & Mobile Devices</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-understanding-and-assessing-cloud-cost-variability/"><u>[Updated] 2024 Approved Understanding & Assessing Cloud Cost Variability</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-guide-to-increasing-fb-likes-with-top-apps-for-2024/"><u>[Updated] The Ultimate Guide to Increasing FB Likes with Top Apps for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/a-step-by-step-guide-to-fixing-invalid-or-unverified-driver-installs-on-computers/"><u>A Step-by-Step Guide to Fixing Invalid or Unverified Driver Installs on Computers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/access-denied-graphics-hardware-on-windows-os/"><u>Access Denied: Graphics Hardware on Windows OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/battleye-service-startup-trouble-correcting-the-error-caused-by-missing-driver-code-1450/"><u>BattlEye Service Startup Trouble: Correcting the Error Caused by Missing Driver (Code 1450)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/boost-hat-performance-update-to-win11-driver/"><u>Boost HAT Performance: Update to Win11 Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/corrective-steps-for-handling-non-compatible-hardware-messages-in-driver-packs/"><u>Corrective Steps for Handling Non-Compatible Hardware Messages in Driver Packs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/crafting-stable-nvidia-graphics-software/"><u>Crafting Stable Nvidia Graphics Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/effective-spending-tips-for-youtubers/"><u>Effective Spending Tips for YouTubers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-resolving-error-code-0xc1900208-in-your-latest-windows-11-installation/"><u>Expert Advice: Resolving Error Code 0xC1900208 in Your Latest Windows 11 Installation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-tips-resolve-dvd-playback-issues-with-these-10-reliable-methods-for-smooth-viewing-experience/"><u>Expert Tips: Resolve DVD Playback Issues with These 10 Reliable Methods for Smooth Viewing Experience</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratis-omzettingen-van-caf-bestandjes-online-professioneel-met-movavi/"><u>Gratis Omzettingen Van CAF-Bestandjes Online - Professioneel Met Movavi</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102799552-resolve-your-cpu-co-processor-compatibility-errors-in-windows-11-quickly/"><u>Resolve Your CPU Co-Processor Compatibility Errors in Windows 11 Quickly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/strategies-for-verifying-health-advice-from-chatgpt-and-other-artificial-intelligence/"><u>Strategies for Verifying Health Advice From ChatGPT and Other Artificial Intelligence</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102331051-successfully-repair-iphone-and-android-mtp-connectivity-issues-with-ease/"><u>Successfully Repair iPhone and Android MTP Connectivity Issues with Ease</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721101803807-windows-navigate-and-fix-your-qualcomm-atheros-bluetooth-driver-problems-now/"><u>Windows Navigate and Fix Your Qualcomm Atheros Bluetooth Driver Problems Now!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unlock-6-figure-videos-top-hashtag-trends/"><u>[New] In 2024, Unlock 6-Figure Videos Top Hashtag Trends</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unraveling-the-secrets-of-recording-hulu-across-computersmobile/"><u>[Updated] In 2024, Unraveling the Secrets of Recording Hulu Across Computers/Mobile</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easily-combine-identical-personal-photographs-with-your-iphone-or-mac-software/"><u>Easily Combine Identical Personal Photographs With Your iPhone or Mac Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harness-natural-light-for-iphone-photography-for-2024/"><u>Harness Natural Light for iPhone Photography for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/instantly-revamp-your-gaming-setup-windows-10-deadriver-update/"><u>Instantly Revamp Your Gaming Setup: Windows 10 DeaDriver Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-lg-channels-with-ease-vital-knowledge-everyone-should-have/"><u>Navigating LG Channels with Ease: Vital Knowledge Everyone Should Have</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/precision-scheduling-for-peak-performance-a-guide-to-slack-filmora-meetings/"><u>Precision Scheduling for Peak Performance A Guide to Slack-Filmora Meetings</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-your-games-battleye-startup-issue-understanding-the-driver-loading-problem-error-1450/"><u>Solve Your Game's BattlEye Startup Issue: Understanding the Driver Loading Problem (Error 1450)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-instructions-to-resolve-coprocessor-detection-problems-on-windows-10/"><u>Step-by-Step Instructions to Resolve Coprocessor Detection Problems on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unveiling-the-microsoft-surface-duos-shortcomings-high-cost-meets-software-woes/"><u>Unveiling the Microsoft Surface Duo's Shortcomings: High Cost Meets Software Woes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-task-manager-handling-full-disk-usage/"><u>Win11 Task Manager: Handling Full Disk Usage</u></a></li>
 </ul></div>
 

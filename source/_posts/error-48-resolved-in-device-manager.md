@@ -1,7 +1,7 @@
 ---
 title: Error 48 Resolved in Device Manager
-date: 2024-08-15T06:45:12.668Z
-updated: 2024-08-16T06:45:12.668Z
+date: 2024-10-03T16:08:47.161Z
+updated: 2024-10-06T17:38:46.115Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ To check if the device is running into the error code 48:
 3. **[Turn off Memory Integrity in Core isolation](https://aligracehair.sjv.io/y209r3)**
 4. **[Run the System File Checker and the Windows Memory Diagnostic Test](https://parisrhonecom.sjv.io/zqobqr)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your driver
 
  According to Microsoft, the recommended resolution for the error code 48 in Device Manager is to contact the hardware vendor for a new driver. In other words, you should be able to fix this issue by updating the driver of your problematic device to the latest version.
@@ -51,8 +58,12 @@ Or
 **[Option 2: Automatically (Recommended)](https://www.drivereasy.com/knowledge/asus-usb-bt500-bluetooth-5-0-usb-adapter-driver/#h-option-2-update-the-asus-usb-bt500-bluetooth-driver-automatically-recommended)**  – This might be the quickest and easiest way to get all the latest drivers for your computer. All you need is a few clicks.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 1 – Download and install the driver manually
 
  The manufacturer of your computer keeps releasing new drivers on its official site. To get them, you need to go to the manufacturer’s site, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32-bit), and download the driver manually.
@@ -60,8 +71,12 @@ Or
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2 – Automatically update drivers
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) .
@@ -75,9 +90,6 @@ Or
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 ![Update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-drivers-with-Driver-Easy.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and [manually install them, the normal Windows way](https://tools.techidaily.com/drivereasy/download/) .)
 4. Restart your PC and check if this issue persists.
 
@@ -87,9 +99,6 @@ Or
 
  If not, you may need to try the fixes below one by one and then reinstall the latest drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Disable Hyper-V
 
  Some Windows users reported that Windows 10 works fine with the device when [the Hyper-V feature](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) is disabled. The error code 48 appears only when the Hyper-V feature is enabled.
@@ -101,14 +110,19 @@ Or
 2. Click**Turn Windows features on or off** .  
 ![Turn Windows features on or off](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-Windows-features-on-or-off.jpg)
 3. In the Window that pops up,**uncheck the box** next to**Hyper-V** and click**OK** to disable the Hyper-V feature.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disable the Hyper-V feature](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Hyper-V-feature.jpg)
 4. Restart Windows 10 to see if the issue persists.
 
  If this fix didn’t work, try the next fix to turn off Memory Integrity.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Turn off Memory Integrity in Core isolation
 
  Memory Integrity is a security feature of Core isolation in Windows 10 settings. It is designed to prevent attacks from inserting malicious code into high-security processes and device drivers.
@@ -126,8 +140,12 @@ To turn off Memory Integrity, simply follow the steps below:
 See if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Run the System File Checker and the Windows Memory Diagnostic Test
 
  The error code 48 in Device Manager may also be triggered by corrupted system files or memory issues. If none of the fixes above works, give this fix a shot, since running these scans and tests won’t do any harm.
@@ -138,23 +156,22 @@ See if this fix works. If not, try the next fix, below.
 2. Type in the command below and press Enter to execute the command. The process will take some time.  
 **`sfc /scannow`**  
 ![run system file checker](https://images.drivereasy.com/wp-content/uploads/2021/04/run-system-file-checker.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 3. Close the Command Prompt window after the process ie complete.
 
 **To run the Windows Memory Diagnostic Test:**
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the**Run** dialog. Type**control admintools** and press**Enter** to open the**Administrator Tools** window in the**Control Panel** .  
 ![open control panel from Run](https://images.drivereasy.com/wp-content/uploads/2021/04/open-control-panel-from-Run.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Double-click**Windows Memory Diagnostic** to run it.  
-![Windows Memory Diagnostic](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-Memory-Diagnostic.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Windows Memory Diagnostic](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-Memory-Diagnostic.jpg)
 3. Select**Restart now and check for problems (recommended)** to run the test immediately. Before restarting, you need to save your work and close any open programs. It may take some time to complete the test.  
 ![Check your computer for memory problems](https://images.drivereasy.com/wp-content/uploads/2021/04/Check-your-computer-for-memory-problems.jpg)
 
@@ -175,8 +192,6 @@ See if this fix works. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +199,18 @@ See if this fix works. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-ax201-not-linking-to-intel-wi-fi-6-networks/"><u>[FIXED] AX201 Not Linking to Intel Wi-Fi 6 Networks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-can-you-view-all-shared-videos-and-photos-on-messenger/"><u>[New] How Can You View All Shared Videos And Photos on Messenger?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-proven-strategies-for-picking-the-most-accurate-free-srt-tools/"><u>[Updated] Proven Strategies for Picking the Most Accurate Free SRT Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-web-based-gag-generator/"><u>[Updated] Web-Based Gag Generator</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cease-perpetual-bluetooth-signal-in-win10/"><u>Cease Perpetual Bluetooth Signal in Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/computer-trouble-keyboard-non-working/"><u>Computer Trouble: Keyboard Non-Working</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortlessly-fix-bluetooth-radios-on-windows/"><u>Effortlessly Fix Bluetooth Radios on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pinpointing-missing-signal-processor-on-win/"><u>Pinpointing Missing Signal Processor on Win</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/podcast-spotlight-listen-and-like-instantly/"><u>Podcast Spotlight Listen and Like Instantly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-converting-mkv-videos-into-high-quality-apple-tv-format/"><u>Ultimate Guide: Converting MKV Videos Into High-Quality Apple TV Format</u></a></li>
+</ul></div>
 

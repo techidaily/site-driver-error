@@ -1,7 +1,7 @@
 ---
 title: "Driver Notified: Ideport0 Controller Issue"
-date: 2024-08-15T06:46:08.742Z
-updated: 2024-08-16T06:46:08.742Z
+date: 2024-10-01T17:56:58.041Z
+updated: 2024-10-06T21:53:43.774Z
 tags:
   - win11
   - win10
@@ -54,12 +54,30 @@ OR
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b920d759d33e.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b920e62afcac.jpg)
 4. Restart your computer and check if your “The driver detected a controller error on \\Device\\Ide\\Ideport0” problem is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 3, below.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your BIOS
 
  Some users fixed their   **The driver detected a controller error on \\Device\\Ide\\Ideport0**  issue with a BIOS upgrade. If the above steps didn’t work for you, you might as well give it a go. Here’s how to update your BIOS:
@@ -67,34 +85,34 @@ OR
 1. Go to**System Information** to get detailed information about your computer:  
    1. Type **msinfo32**  in the Windows search box and press**Enter** on your keyboard.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type your system’s manufacturer name, your system’s model name and “BIOS” in the Google search box, then select the matching result to go to the manufacturer’s official website and download BIOS update.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.**Note:** If you find there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
@@ -119,8 +137,6 @@ Hopefully this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +144,20 @@ Hopefully this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-an-exhaustive-feature-analysis-of-du-recorder/"><u>[New] 2024 Approved An Exhaustive Feature Analysis of Du Recorder</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-best-ways-to-screen-record-on-android/"><u>[New] In 2024, Best Ways to Screen Record on Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-expert-advice-on-logging-google-voice-chats/"><u>[Updated] In 2024, Expert Advice on Logging Google Voice Chats</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-nikon-j5-sets-new-standards-in-4k-video-capture/"><u>2024 Approved Nikon J5 Sets New Standards in 4K Video Capture</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dell-latitude-e4300-unsupported-in-debian-jessie-solved/"><u>Dell Latitude E4300 Unsupported in Debian Jessie [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-correcting-asus-windows-10-acpi-fails/"><u>Diagnosing & Correcting Asus Windows 10 Acpi Fails</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-windows-failure-to-recognize-your-most-recent-usb-device/"><u>Diagnosing and Repairing Windows' Failure to Recognize Your Most Recent USB Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhancing-convenience-with-fixed-win11-bluescreen-a-step-by-step-guide-resolved/"><u>Enhancing Convenience with Fixed Win11 Bluescreen - A Step-By-Step Guide [Resolved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-no-official-support-for-amdintel-drivers-in-premiere-pro-software/"><u>Fixed: No Official Support for AMD/Intel Drivers in Premiere Pro Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-problems-with-your-iphone-tethering-connection-expert-advice/"><u>Fixing Problems with Your iPhone Tethering Connection – Expert Advice</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-tecno-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Tecno IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/multi-generation-driver-set-for-pci-cards/"><u>Multi-Generation Driver Set for PCI Cards</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719161479393-transform-your-playtime-claim-deals/"><u>Transform Your Playtime, Claim Deals</u></a></li>
+</ul></div>
 

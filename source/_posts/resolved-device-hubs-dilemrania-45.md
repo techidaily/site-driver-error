@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED]: Device Hub's Dilemrania #45"
-date: 2024-08-15T06:46:30.356Z
-updated: 2024-08-16T06:46:30.356Z
+date: 2024-10-04T17:48:29.463Z
+updated: 2024-10-06T22:38:32.675Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 6. [Run a DISM scan](https://jalbum-affiliate-program.sjv.io/mmjynq)
 7. [Update your device drivers](https://versadesk.pxf.io/xyboxx)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Reconnect your device
 
  If the device having the code 45 error in Device Manager is a Bluetooth or a wireless adapter, then as the error message suggested, you may just need to reconnect it so your system can recognize your device again. You can try the steps below to reconnect:
@@ -44,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 5. **Reconnect** your device to the computer.
 6. Check the device status in**Device Manager** to see if it’s been back on track. If it is, you’ll see the**This device is working properly** message as illustrated below.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-21.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -63,36 +67,31 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-3.png)
 5. In Device Manager, click**Action** on the menu bar and select**Scan for hardware changes** . This should refresh the system, then reinstall the device and its corresponding driver.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-5.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 6. Restart your computer, then open Device Manager to check if the Code 45 issue has been fixed.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Fix 3: Run the Windows Hardware and Devices Troubleshooter
 
  Microsoft offers you a**Hardware and Devices Troubleshooter** to diagnose and fix hardware issues. So try this built-in tool if any hardware problems happen to your device. To use it:
 
 1. On your keyboard, hit the**Windows** key and type**power** . When**Windows PowerShell** shows up and is highlighted from the list, click**Run as Administrator** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/poweshell.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Copy and paste**_msdt.exe -id DeviceDiagnostic_** in the Powershell, then hit**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-12.png)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Now you should see the Hardware and Devices Troubleshooter. Click**Next** to continue.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-13.png)
 4. Follow the on-screen instructions to finish troubleshooting.
 5. Restart your computer and your problem should be resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Run System File Checker
 
@@ -102,10 +101,15 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 2. Right-click **Command Prompt** to select **Run as administrator** , and then click **Yes** if prompted for permission.  
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 3. Once you see the command prompt, type **`sfc /scannow`**  and press **Enter** .  
-![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-15.png)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-15.png)
 4. Windows will now verify the system files and automatically fix any detected issues.
 5. Once the verification is complete, exit the Command Prompt.
 6. Reconnect your hardware device and see if it’s working properly.
@@ -119,16 +123,17 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 1. On your keyboard, press the**Windows logo key** . Then enter**cmd** .
 2. Right-click **Command Prompt** to select **Run as administrator** .  
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 3. The command prompt will once again display. Type in the command:`**chkdsk.exe /f /r**` and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-16.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 4. Type **Y** to confirm that you’d like to perform the disk check the next time you restart your computer. Please make sure you have closed all of your applications first.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-17.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : Running a disk check could take some time to complete. So if you don’t have the time to run the disk check the next time you boot, you can skip it and reschedule again by following the steps above.
 
@@ -137,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
  If this method doesn’t resolve your issue, don’t worry. There is something else to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Run a DISM scan
 
@@ -148,17 +160,26 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 3. Click **Yes** if prompted for permission.
 4. The command prompt will once again display. Type in the command`**DISM /Online /Cleanup-Image /RestoreHealth**` and press**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-18.png)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Wait for the scan to finish (it may take up to 20 minutes).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Restart your computer and relaunch Device Manager. Check to see if Code 45 has been fixed; if it has, then congrats! Otherwise, please move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 7: Update your device drivers
 
  Sometimes your Code 45 issue may be caused by a missing or outdated driver. To find out whether that’s the root cause, you should try updating your device drivers and see if that makes a difference.
@@ -176,19 +197,18 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/graphics-card-and-chipset..jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -204,8 +224,6 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +231,20 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-the-driver-driverwudfrd-failed-to-load-for-the-device-event-id-219/"><u>[Fixed] The Driver DriverWudfRd Failed to Load for the Device Event ID 219</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-1st-place-video-saver-download-anywhere-anytime/"><u>[Updated] 1St Place Video Saver - Download Anywhere, Anytime</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-from-scenes-to-screenings-filming-across-os-ecosystems-for-2024/"><u>[Updated] From Scenes to Screenings Filming Across OS Ecosystems for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-vivid-twitter-visuals-the-journey-to-full-hd-viewing-for-2024/"><u>[Updated] Vivid Twitter Visuals The Journey to Full HD Viewing for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ps1-reimagined-the-best-emulators-for-game-revival-on-pc/"><u>2024 Approved PS1 Reimagined The Best Emulators for Game Revival on PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-repair-processes-screen-absent/"><u>Effortless Repair Processes, Screen Absent</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hd-audio-harmony-windows-11-style/"><u>HD Audio Harmony, Windows 11 Style</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-understanding-and-proficiently-implementing-cc-rights/"><u>In 2024, Understanding and Proficiently Implementing CC Rights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/realtek-network-issue-post-windows-10-update-resolved/"><u>Realtek Network Issue Post-Windows 10 Update - Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103163615-resolution-zero-connection-woes-wacom-fixed/"><u>Resolution: Zero-Connection Woes, Wacom Fixed!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/silent-keysight-in-asus-laptop/"><u>Silent Keysight in ASUS Laptop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-guide-adding-required-drivers-in-windows-operating-systems/"><u>Solution Guide: Adding Required Drivers in Windows Operating Systems</u></a></li>
+</ul></div>
 

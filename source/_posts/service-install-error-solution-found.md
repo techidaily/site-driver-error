@@ -1,7 +1,7 @@
 ---
 title: Service Install Error - Solution Found
-date: 2024-09-24T16:01:54.102Z
-updated: 2024-10-01T16:02:28.424Z
+date: 2024-10-01T21:36:24.664Z
+updated: 2024-10-06T22:47:45.745Z
 tags:
   - win11
   - win10
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
@@ -97,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
@@ -108,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -141,18 +141,20 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-turning-screen-time-into-cash-the-youtube-way/"><u>[New] Turning Screen Time Into Cash The YouTube Way</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-in-depth-study-of-audafreedomaudiotools/"><u>2024 Approved The In-Depth Study of AudaFreedomAudioTools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/5-best-mid-range-gaming-keyboards-for-enthusiasts-for-2024/"><u>5 Best Mid-Range Gaming Keyboards for Enthusiasts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/complete-guide-burning-dvds-onto-your-macs-hard-drive-using-free-software/"><u>Complete Guide: Burning DVDs Onto Your Mac's Hard Drive Using Free Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-signal-ideport0-system-alert/"><u>Error Signal: Ideport0 System Alert</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-motorola-edge-40-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Motorola Edge 40 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share/Fake Location on WhatsApp for Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-windows-11-elan-touchpad-malfunctions/"><u>Mastering Windows 11 Elan Touchpad Malfunctions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-bluetooth-interference-asus-webcam-plus-windows-11/"><u>Resolved Bluetooth Interference: ASUS Webcam + Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/strategies-for-fixing-nvidia-driver-crashes/"><u>Strategies for Fixing Nvidia Driver Crashes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-v30-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme V30 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-drivers-acquired-for-missing-hardware/"><u>Win Drivers Acquired For Missing Hardware</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windowstechissue-my-pc-wont-stop-responding-to-my-built-in-wifibluetooth-commands/"><u>WindowsTechIssue - My PC Won’t Stop Responding to My Built-In WIFI/Bluetooth Commands.</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/est-7-live-streaming-apps-to-amplify-your-youtube-presence-on-iphone-and-android-for-2024/"><u>[New] Best 7 LIVE Streaming Apps to Amplify Your YouTube Presence on iPhone and Android for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-exclusive-choice-of-cost-free-chat-apps-plus-desktop-viewing/"><u>[Updated] In 2024, Exclusive Choice of Cost-Free Chat Apps + Desktop Viewing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-twitch-time-warp-strategies/"><u>2024 Approved Twitch Time Warp Strategies</u></a></li>
+<li><a href="https://driver-error.techidaily.com/6081975-february/"><u>6081975 (February</u></a></li>
+<li><a href="https://driver-error.techidaily.com/auditory-bliss-achieved-with-win11/"><u>Auditory Bliss Achieved with Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquering-the-not-charging-woes-of-a-microsoft-surface-a-step-by-nstep-guide/"><u>Conquering the Not-Charging Woes of a Microsoft Surface: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-14-pro-max-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 14 Pro Max to Computer? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-revealing-the-top-10-secret-story-admirers/"><u>In 2024, Revealing the Top 10 Secret Story Admirers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-honor-magic5-ultimate-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/optimized-with-cookiebot-revolutionizing-digital-strategies-in-seo-and-analytics/"><u>Optimized with Cookiebot: Revolutionizing Digital Strategies in SEO and Analytics</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsung-galaxy-tab-pro-lte-skip-detection-on-fedora-edge-solution-available/"><u>Samsung Galaxy Tab Pro LTE Skip Detection on Fedora Edge, Solution Available</u></a></li>
+<li><a href="https://driver-install.techidaily.com/third-party-info-unsigned-issue-resolved/"><u>Third-Party Info Unsigned: Issue Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooted-stable-connection-for-asus-webcam-on-win11/"><u>Troubleshooted Stable Connection for ASUS Webcam on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-non-responsive-windows-enter-key/"><u>Troubleshooting Non-Responsive Windows Enter Key</u></a></li>
+<li><a href="https://driver-error.techidaily.com/united-win11-with-hd-audio-success/"><u>United Win11 with HD Audio Success</u></a></li>
 </ul></div>
 

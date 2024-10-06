@@ -1,7 +1,7 @@
 ---
 title: Unresponsive Keys on PC
-date: 2024-08-15T06:46:50.848Z
-updated: 2024-08-16T06:46:50.848Z
+date: 2024-09-29T16:39:39.267Z
+updated: 2024-10-06T22:47:27.036Z
 tags:
   - win11
   - win10
@@ -44,15 +44,16 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
  1) On your PC desktop, click the**Action Center** icon in the lower-right corner and click**All settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Keyboard** .
@@ -62,15 +63,16 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Reinstall your keyboard driver
 
  If your keyboard driver has developed a fault, your keyboard may stop working. To fix it:
@@ -79,16 +81,27 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
@@ -109,9 +122,6 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
  2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
 
@@ -122,8 +132,12 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 5: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
@@ -156,8 +170,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +177,26 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-master-video-editing-on-a-shoestring-budget-top-9-picks/"><u>[Updated] 2024 Approved Master Video Editing on a Shoestring Budget - Top 9 Picks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-best-gopro-hero5-black-batteries-and-chargers-official-and-3rd-party-for-2024/"><u>[Updated] Best GoPro Hero5 Black Batteries & Chargers Official and 3Rd Party for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-your-content-game-with-these-powerful-youtube-shortcuts/"><u>[Updated] Elevate Your Content Game with These Powerful YouTube Shortcuts</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-caught-in-resource-loophole/"><u>Device Caught in Resource Loophole</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-ninety-five-alpha-error-code-43-fix-for-windows-eleven-users/"><u>GTX Ninety-Five Alpha Error Code 43 Fix for Windows Eleven Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/halting-the-self-uninstall-phenomenon-nvidias-case/"><u>Halting the Self-Uninstall Phenomenon - Nvidia's Case</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-xiaomi-redmi-note-13-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Xiaomi Redmi Note 13 Pro 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-blue-screen-error-code-0x0000007e-on-your-windows-7-computer-a-detailed-guide/"><u>How to Fix Blue Screen Error Code 0X0000007E on Your Windows 7 Computer – A Detailed Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-install-necessary-drivers-for-your-device-on-windows-1187-quick-fixes/"><u>How to Install Necessary Drivers for Your Device on Windows 11/8/7 - Quick Fixes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-synopsis-gopro-slr4-sliver-camera-review/"><u>In 2024, In-Depth Synopsis GoPro SLR4 Sliver Camera Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/perfect-dell-trackpad-on-windows-7/"><u>Perfect Dell Trackpad on Windows 7</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-guide-to-concisely-editing-youtube-videos-for-2024/"><u>Quick Guide to Concisely Editing YouTube Videos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/removing-content-file-lock-error-from-windows-steam-account/"><u>Removing Content File Lock Error From Windows Steam Account</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revealing-opengl-compatible-intel-chipset-name/"><u>Revealing OpenGL-Compatible Intel Chipset Name</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-operations-ending-stuttering-pcs/"><u>Smooth Operations: Ending Stuttering PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862771438-title-elevate-your-gaming-with-the-asus-rog-strix-xg27acs-a-review-of-its-dynamic-qhd-display-and-robust-accuracy/"><u>Title: Elevate Your Gaming with the Asus ROG Strix XG27ACS: A Review of Its Dynamic QHD Display and Robust Accuracy.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforming-sound-waves-into-data-files-mastery-of-movavi-audio-converters/"><u>Transforming Sound Waves Into Data Files: Mastery of Movavi Audio Converters</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-and-lenovo-bt-common-fixes-shared-here/"><u>Win11 & Lenovo BT: Common Fixes Shared Here</u></a></li>
+</ul></div>
 

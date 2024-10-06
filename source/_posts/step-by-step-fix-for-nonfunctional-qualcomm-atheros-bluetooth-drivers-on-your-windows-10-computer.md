@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Nonfunctional Qualcomm Atheros Bluetooth Drivers on Your Windows 10 Computer
-date: 2024-08-09T08:56:02.787Z
-updated: 2024-08-10T08:56:02.787Z
+date: 2024-09-29T20:12:23.248Z
+updated: 2024-10-06T20:15:38.689Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ## Step-by-Step Fix for Nonfunctional Qualcomm Atheros Bluetooth Drivers on Your Windows 10 Computer
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587848fa4952b.png)
 
 Windows 10 users have reported to have problems with their Atheros Bluetooth driver on and off for months since the upgrade. When Bluetooth driver is sloppy, your Bluetooth devices, wireless mouse, wireless keyboard, wireless headphone, are not working properly.
@@ -39,9 +36,6 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
  Then choose**Update history** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878514d080da.jpg)
   
  Scroll down to see if you can find the**KB3061161** . It should be a rather old update, so it might cost you some time to locate.
@@ -56,25 +50,16 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
  1) Go to the support website of the manufacture of your PC. We are using**ASUS** as an example. Then locate the support page of your PC by entering the model of your product.
   
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587854520d556.jpg)
 
 2) Then go to drivers section. (The name of the section could be different on different manufacturers’ websites.) You will be asked to select what operating system that you are using (we are going**Windows 10 64-bit**), and then a list of device drivers will be shown. Scroll down a little to choose**Qualcomm Atheros Bluetooth**driver under Bluetooth category. Then hit the**Global**button to get it downloaded.
   
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878567811d29.png)
 
 **Note**: If your PC is rather old and there is no such Bluetooth driver that you can find for Windows 10, it is suggested that you give the latest version of driver that you can find a try, be it Windows 8.1, Windows 8, or Windows 7\. Then try [**install the driver in compatibility mode**](https://tools.techidaily.com/drivereasy/download/).
   
 3) Now press**Windows key**and**X**at the same time and choose**Device Manager**.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878625e408ff.png)
 
 4) Then locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Uninstall**.
@@ -109,16 +94,10 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 3) Locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Update Driver Software**.
   
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878797a95615.png)
 
  4) Choose**Browse my computer for driver software** .
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787a96b276c.jpg)
 
  5) Choose **Let me pick from a list of the drivers on my computer** .
@@ -145,9 +124,6 @@ Moreover, it is very easy to use. Just click the**Scan Now**button for**Driver E
 
 Then the**Update**button next to the driver you need to update.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76eb162d8c.jpg)
 
 That’s all.
@@ -167,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +150,31 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-focused-frames-eliminating-jitterbugs/"><u>[New] In 2024, Focused Frames Eliminating Jitterbugs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-vs-yi-updated-battle-for-ultimate-action-recording/"><u>[Updated] GoPro Vs. YI Updated Battle for Ultimate Action Recording</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-avi-viewer-mobile-and-desktop-edition/"><u>2024 Approved Ideal AVI Viewer Mobile & Desktop Edition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-the-cannot-access-this-destination-problem-when-adding-a-usb-device/"><u>Fix the 'Cannot Access This Destination' Problem When Adding a USB Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-and-windows-10-demystifying-the-code-43-error-and-how-to-fix-it-successfully/"><u>GTX 950 and Windows 10: Demystifying the 'Code 43' Error and How to Fix It Successfully</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-p40-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Itel P40 Phone | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-a-missing-cpu-co-processor-driver-on-your-windows-11-system/"><u>How to Fix a Missing CPU Co-Processor Driver on Your Windows 11 System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-usb-drive-not-showing-up-in-windows-10-issue/"><u>How to Fix USB Drive Not Showing Up in Windows 10 Issue</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-x-fold-2-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo X Fold 2</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-poco-m6-pro-4g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Poco M6 Pro 4G Phone Screen?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-email-management-linking-gmail-account-with-apple-watch/"><u>Mastering Email Management: Linking Gmail Account with Apple Watch</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-frustration-quickly-fix-driver-not-available-for-itbm/"><u>No More Frustration – Quickly Fix 'Driver Not Available' For ITBM</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-elan-device-crashes-in-windows-10/"><u>Overcoming Elan Device Crashes in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolution-achieved-enablement-successful/"><u>Resolution Achieved: Enablement Successful</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-visuals-integrating-filters-into-videos-pcmobile-for-2024/"><u>Streamline Visuals Integrating Filters Into Videos (PC/Mobile) for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-handbook-audio-notes-101-for-2024/"><u>The Ultimate Handbook Audio Notes 101 for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-how-to-fix-compatibility-issues-with-legacy-usb-composite-devices/"><u>Troubleshooting: How to Fix Compatibility Issues with Legacy USB Composite Devices</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

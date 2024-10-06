@@ -1,7 +1,7 @@
 ---
 title: Restore Operational Capacity in Flawed USB-Serial Cables, Windows
-date: 2024-09-28T16:04:21.517Z
-updated: 2024-10-01T16:14:20.295Z
+date: 2024-10-03T17:54:14.344Z
+updated: 2024-10-06T16:49:30.658Z
 tags:
   - win11
   - win10
@@ -26,6 +26,19 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 1. **[Update your Prolific USB to Serial driver to the latest version](https://bluettide.pxf.io/ekmjb2)**
 2. **[Roll your Prolific USB to Serial driver back to an older version](https://pish-posh-baby.sjv.io/g1jg15)**
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Update your Prolific USB to Serial driver to the latest version
 
  Your not working Prolific USB to Serial driver problem could be caused by the**corrupted, missing, or outdated driver itself** . So it would help if you update the driver to the latest version.
@@ -36,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 2. **Automatic driver update –** If you don’t have the time, patience, or computer skills to update your Prolific USB to Serial driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your exact Prolific adapter, and your Windows version, and it will download and install them correctly:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
@@ -48,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back** guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb072bf3dffe.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 2: Roll your Prolific USB to Serial driver back to an older version
@@ -67,26 +80,19 @@ Here’s how you can do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. Double-click**Ports(COM & LPT)** , then**right-click** on your Prolific USB to Serial driver to select**Update driver** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075701f308.jpg)
 4. Click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075c361cc6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Select**Let me pick from a list of available drivers on my computer** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075da68269.png)
 
 6. Select an older version on the Model list. Then**Next** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb076059c302.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then the driver you select would be installed on your Windows 10 computer automatically.
 
@@ -114,16 +120,20 @@ Once it’s done, connect your device again and see if it goes well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/bsod-overcoming-windows-irql-exception/"><u>[BSOD]: Overcoming Windows IRQL Exception</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/youtube3/"><u>優れた YouTubeコンテンツを音源に変換する3つの最適手段</u></a></li>
-<li><a href="https://driver-error.techidaily.com/addressing-windows-1011-sm-bus-controller-discrepaninas/"><u>Addressing Windows 10/11 SM Bus Controller Discrepaninas</u></a></li>
-<li><a href="https://driver-error.techidaily.com/confronting-constant-bluetooth-in-windows-11/"><u>Confronting Constant Bluetooth in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/dvd-mp4/"><u>DVDコピーワラジ脱出 MP4への変換手順</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721096910208-hp-wireless-keyboard-malfunction-heres-what-you-need-to-know/"><u>HP Wireless Keyboard Malfunction? Here's What You Need to Know!</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-unveil-the-secrets-to-excellent-youtube-thumbnails/"><u>In 2024, Unveil the Secrets to Excellent YouTube Thumbnails</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-to-3d-text-effects-in-photos/"><u>Step-by-Step Guide to 3D Text Effects in PHOTOS</u></a></li>
-<li><a href="https://win-best.techidaily.com/transformar-wmv-para-wav-online-sem-custo-com-a-ferramenta-do-movavi/"><u>Transformar WMV Para WAV Online Sem Custo Com a Ferramenta Do Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-windows-security-tool-canary-channel/"><u>Unveiling Windows' Security Tool: Canary Channel</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-easiest-way-to-edit-flv-files-on-windows-8-expert-tips-and-tools/"><u>Updated In 2024, The Easiest Way to Edit FLV Files on Windows 8 Expert Tips and Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-prime-tips-for-soundless-videography/"><u>[New] In 2024, Prime Tips for Soundless Videography</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-behind-the-shoot-spots-seeking-budget-friendly-stunning-tiktok-backdrops-for-2024/"><u>[Updated] Behind-the-Shoot Spots Seeking Budget-Friendly, Stunning TikTok Backdrops for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-live-online-broadcasts-recording-techniques/"><u>[Updated] In 2024, Mastering Live Online Broadcasts Recording Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-navigating-the-best-mobile-asmr-worldwide-for-2024/"><u>[Updated] Navigating the Best Mobile ASMR Worldwide for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-accessingexiting-iphone-recovery-mode/"><u>Comprehensive Tutorial on Accessing/Exiting iPhone Recovery Mode</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v30-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V30 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/master-performance-and-elegance-with-the-sleek-acer-aspire-c27-desktop-system/"><u>Master Performance and Elegance with the Sleek Acer Aspire C27 Desktop System</u></a></li>
+<li><a href="https://solve-news.techidaily.com/mastering-vob-conversion-make-your-footage-work-with-imovie-seamlessly/"><u>Mastering VOB Conversion: Make Your Footage Work with iMovie Seamlessly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/missing-touchpad-driver-resolved-steps-explored/"><u>Missing Touchpad Driver Resolved - Steps Explored</u></a></li>
+<li><a href="https://driver-error.techidaily.com/perfect-installation-despite-past-errors/"><u>Perfect Installation Despite Past Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-driver-error-code-52/"><u>Solved: Driver Error Code 52</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-bluetooth-errors-with-lenovo-on-windows-10/"><u>Solving Bluetooth Errors with Lenovo on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/success-wireless-n-adapter-issue-on-windows-fixed/"><u>Success: Wireless N Adapter Issue on Windows Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-unify-latency-in-windows-xp-20/"><u>Troubleshooting Unify Latency in Windows XP-20</u></a></li>
+<li><a href="https://driver-error.techidaily.com/what-to-do-when-dolby-digital-sound-isnt-playing-on-windows-answer-found/"><u>What to Do When Dolby Digital® Sound Isn’t Playing on Windows – Answer Found!🔧</u></a></li>
 </ul></div>
 

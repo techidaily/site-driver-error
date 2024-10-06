@@ -1,7 +1,7 @@
 ---
 title: Solve the 'Broken' Or Stuck Keys on Your HP Notebook with These Steps, Step by Step (Article Title) – How-To Guide | Tech Talker—406 Chars
-date: 2024-08-15T06:45:44.218Z
-updated: 2024-08-16T06:45:44.218Z
+date: 2024-10-04T17:12:36.973Z
+updated: 2024-10-06T17:45:10.040Z
 tags:
   - win11
   - win10
@@ -46,29 +46,38 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 1) Click your**Start**button, then choose**Settings**icon from it. Then choose**Time & language**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcfa0068ce.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) On the left side of the pane, choose**Region & language**, then on the right side, make sure that the language is set to**English (United States)**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd71980796.jpg)
-<!-- affiliate ads begin -->
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If not, click the**Options**button as shown in the screen shot.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd7a070a5e.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Then make sure the Keyboards is selected as**US**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Step 3: Try an External Keyboard**
@@ -76,15 +85,16 @@ Then make sure the Keyboards is selected as**US**.
 If you have tried the above methods but they are not helpful, you may need to plug in a USB external keyboard and see if the second keyboard works. 1) If the external keyboard**works perfectly**, then you need to consider searching and downloading the latest version of the laptop driver from HP support. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). You can try its Free version, and update your drivers one by one. Or you can update all your missing and outdated drivers automatically with just one-click with Driver Easy [**Pro version**](https://tools.techidaily.com/drivereasy/download/). No worry to try it as it comes with a no-questions-asked 30-day money-back guarantee and professional tech support 24/7\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Step 4:** **Perform a Hard Reset**
 
 A hard reset will not remove any of your data in your computer, it is a move that decreases the amount of power stored in hardware components. Please consider following this option when you **cannot log** into your desktop or cannot go to **Advanced Startup Options** panel.  1) Turn off the computer and make sure you have disabled or disconnected all unnecessary external devices. Remove the computer from any port replicator or docking station.  2) Unplug the AC adapter from the computer and remove the battery from the battery compartment. 3) Press and hold the **Power**  button for about 15 seconds to drain any residual electrical charge from the capacitors that protect the memory.  4) Insert the battery and AC adapter back into the laptop, but make sure you don’t connect any external devices just yet. 5) Press **Power** button to turn on the computer.  If the startup menu opens, use the arrow key to select**Start Windows Normally** and press**Enter** key on your keyboard.
@@ -98,8 +108,6 @@ A hard reset will not remove any of your data in your computer, it is a move tha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +115,19 @@ A hard reset will not remove any of your data in your computer, it is a move tha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-best-practice-for-incorporating-gopro-clips-into-360-video-tapestries-for-2024/"><u>[Updated] Best Practice for Incorporating GoPro Clips Into 360 Video Tapestries for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-xiaomi-redmi-k70-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi Redmi K70 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/failed-driver-setup-absence-of-intel-interface/"><u>Failed Driver Setup - Absence of Intel Interface</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-for-missing-win-pci-data-collector/"><u>Fix for Missing Win PCI Data Collector</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-htc-u23-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the HTC U23 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721100040439-how-to-get-my-latest-cam-back-in-sight-post-windows-10-creators-update-all-fixed-fixed/"><u>How to Get My Latest Cam Back in Sight Post-Windows 10 Creators Update - All Fixed ![Fixed]</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For OnePlus Ace 2? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimal-steadicam-devices-for-professional-drone-cinematography/"><u>Optimal Steadicam Devices for Professional Drone Cinematography</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solve-laggy-video-pacing-a-comprehensive-guide/"><u>Solve Laggy Video Pacing: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-nvidiaamd-gpu-drivers-on-windows-8/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing NVIDIA/AMD GPU Drivers on Windows 8</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-quality-adjustments-optimizing-your-4k-television-display-with-leading-brand-models/"><u>Top Quality Adjustments: Optimizing Your 4K Television Display with Leading Brand Models</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-adb-error-on-windows-xp/"><u>Troubleshooting ADB Error on Windows XP</u></a></li>
+</ul></div>
 

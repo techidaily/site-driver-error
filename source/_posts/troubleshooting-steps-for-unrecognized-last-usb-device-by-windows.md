@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Unrecognized Last USB Device by Windows
-date: 2024-09-28T16:08:41.932Z
-updated: 2024-10-01T16:01:12.125Z
+date: 2024-09-30T21:07:55.821Z
+updated: 2024-10-06T16:40:18.786Z
 tags:
   - win11
   - win10
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
  Method 4:[](https://homestyler.sjv.io/y209g3) [**Re-enable USB controller driver**](https://bluettifr.pxf.io/bax2bv)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1: Try another USB port
@@ -75,13 +75,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37721186152.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) You need to restart your PC for the updated drivers to work properly. Check if your USB device is recognized now.
 
 ##
@@ -97,37 +90,30 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377758f2bdc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Change plan settings** next to the plan option you’re having now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3777c0a811b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377814e701a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click to expand**USB settings** and**USB selective suspend setting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3778a48905d.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Select**Disabled** from the drop-down option. Then click**Apply** and**OK** to save the change.
 
@@ -148,10 +134,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3786b06277a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the top bar, click**View** and then**Show hidden devices** .
@@ -160,11 +146,25 @@ Or click **Update All**  to automatically download and install the correct versi
 
  3) Click to expand**Universal Serial Bus controllers.**
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.1) If you see any device drivers marked by**yellow exclamation marks** or**question marks:**
 
  3.1.1) Right-click them and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37894943164.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3.1.2) Click**Uninstall** to continue.
 
@@ -201,24 +201,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-essential-strategies-for-capturing-your-best-moments-in-snapchat/"><u>[New] 2024 Approved Essential Strategies for Capturing Your Best Moments in Snapchat</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-the-craft-of-looped-visuals-for-social-media-success/"><u>[New] 2024 Approved Mastering the Craft of Looped Visuals for Social Media Success</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-turn-discord-livestreams-into-lasting-digital-memories/"><u>[New] How to Turn Discord Livestreams Into Lasting Digital Memories</u></a></li>
-<li><a href="https://driver-error.techidaily.com/addressing-glitch-e52-road-to-smooth-drives/"><u>Addressing Glitch E52: Road to Smooth Drives</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/best-algorithms-how-to-securely-purge-filesfolders-forever/"><u>Best Algorithms: How To Securely Purge Files/Folders Forever</u></a></li>
-<li><a href="https://driver-error.techidaily.com/finalized-nvidia-driver-installation-for-latest-os/"><u>Finalized Nvidia Driver Installation for Latest OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-non-functional-dts-truehd-and-e628-drivers-on-windows-after-failed-upgrade-now-solved/"><u>Fix Non-Functional DTS TrueHD and E628 Drivers on Windows After Failed Upgrade - Now Solved!✅</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-idt-high-definition-audio-codec-driver-problem/"><u>How to Fix IDT High Definition Audio CODEC Driver Problem</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-get-your-wireless-keyboard-working-again-on-a-pc-with-windows/"><u>How to Get Your Wireless Keyboard Working Again on a PC with Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oneplus-ace-2v-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your OnePlus Ace 2V Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-hdr-basics-for-everyday-shooting-enthusiasts/"><u>In 2024, IPhone HDR Basics for Everyday Shooting Enthusiasts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-t2-pro-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo T2 Pro 5G Phones</u></a></li>
-<li><a href="https://driver-error.techidaily.com/lenovo-bd-driver-troubles-resolved-in-windows-10/"><u>Lenovo BD-Driver Troubles: Resolved in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-iphone-data-transfer-hurdles-essential-usb-driver-fixes/"><u>Overcoming iPhone Data Transfer Hurdles: Essential USB Driver Fixes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/sysware-printer-driver-successfully-installed/"><u>SysWare Printer Driver - Successfully Installed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unblock-wi-fi-on-dell-workstation/"><u>Unblock Wi-Fi on Dell Workstation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-a-free-chatgpt-clone-a-step-by-step-guide-for-windows-users/"><u>Unleashing a Free ChatGPT Clone: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-dji-phantom-4-pro-v-20-almost-flawless-performance-reviewed/"><u>Unveiling The DJI Phantom #4 Pro V. 2.0 - Almost Flawless Performance Reviewed!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/confirmed-device-recognition-after-driver-update-fixes/"><u>[CONFIRMED] Device Recognition After Driver Update Fixes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-skills-editing-blurring-and-background-removal/"><u>[New] The Essential Skills Editing, Blurring, and Background Removal</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-top-10-igtv-edit-apps-maximize-your-video-content-for-2024/"><u>[New] Top 10 IGTV Edit Apps Maximize Your Video Content for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-getting-started-with-action-cams-latest-2023-insights-for-2024/"><u>[Updated] Getting Started with Action Cams – Latest 2023 Insights for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-spark-interest-fast-unique-bios-and-hashtags-for-tinder-success/"><u>[Updated] Spark Interest Fast Unique Bios and Hashtags for Tinder Success</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-potential-in-social-media-storytelling-fb-slideshows/"><u>[Updated] Unlock Potential in Social Media Storytelling FB Slideshows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/access-android-os-through-your-windows-machine/"><u>Access Android OS Through Your Windows Machine</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ax201-intels-wi-fi-6-network-failure-addressed/"><u>AX201: Intel's Wi-Fi 6 Network Failure Addressed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/broad-support-platform-pci-hardware-drivers/"><u>Broad Support Platform: PCI Hardware Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bypassing-the-code-43-fault-when-installing-drivers-for-gtx-graphics-in-windows-10-guide/"><u>Bypassing the 'Code 43' Fault when Installing Drivers for GTX Graphics in Windows 10 [Guide]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/computer-logic-error-with-kbs-on-10/"><u>Computer Logic Error with KBs on 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dealing-with-access-is-denied-error-a-guide-to-successful-usb-installations/"><u>Dealing With 'Access Is Denied' Error - A Guide to Successful USB Installations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dev-drivers-operating-on-windows-37/"><u>Dev Drivers Operating on Windows 37</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-potential-security-risks-in-using-chatgpt-services/"><u>Exploring Potential Security Risks in Using ChatGPT Services</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/lenovo-savvy-efficient-screencasting-made-simple-for-2024/"><u>Lenovo Savvy Efficient Screencasting Made Simple for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-8-best-zombie-games/"><u>The 8 Best Zombie Games</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-tecno-pova-6-pro-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Tecno Pova 6 Pro 5G to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

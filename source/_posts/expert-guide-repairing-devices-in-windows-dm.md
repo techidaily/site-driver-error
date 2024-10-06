@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Repairing Devices in Windows DM"
-date: 2024-08-15T06:48:47.952Z
-updated: 2024-08-16T06:48:47.952Z
+date: 2024-09-29T22:45:32.023Z
+updated: 2024-10-06T20:45:40.287Z
 tags:
   - win11
   - win10
@@ -42,8 +42,12 @@ You can update the drivers through manager. Follow these steps:
  Windows may not provide the latest driver for the device. If this way doesn’t work for you, you can use [Method 2](https://zebaoaffiliateprogram.pxf.io/xkwqe1) or [Method 3](https://printrendy.pxf.io/xyboy5) .
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Method 2: Update the Base System Device driver manually**
 
  Usually, you can go to the device manufacturer’s website or the PC manufacturer’s website to download the latest driver. But for Base System Device, it is impossible to know what the specific device is. The good news is you can get its device name and its vendor name to determine what it is.
@@ -53,33 +57,42 @@ You can update the drivers through manager. Follow these steps:
  1) In Device Manager, right-click the device and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785dc645de0d.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Details** tab, then select**Hardware Ids** from the drop-down menu of**Property** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785de836c928.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) The Hardware Id Value should be like follows. The VEN code means vendor and the DEV code means device. (In the example below, the VEN code is 15AD and the device is 0740.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785df1376590.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Go to [https://pci-ids.ucw.cz/.](https://pci-ids.ucw.cz/) Then you can use the VEN code and the DEV code to figure out what the Base System Device stands for.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56e54a4e7b7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) After you figure out what the device is, you can go to the PC manufacturer’s website or the device manufacturer’s website to download the driver. It’s recommended to go to the PC manufacturer’s website first, as they may customize the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Method 3: Update the Base System Device driver automatically**
 
  Updating drivers manually requires time and computer skills. If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -93,10 +106,6 @@ You can update the drivers through manager. Follow these steps:
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_all_ the drivers.  
  (You can upgrade to the [Pro version](https://tools.techidaily.com/drivereasy/download/) right now with a discount, or activate the 7-day free trial version. With the trial version, you will have access to_all features_ of the Pro version such as high-speed download and one-click install. You won’t be charged before your 7-day trial ends and you can easily cancel any time during the trial period.)
@@ -116,8 +125,6 @@ You can update the drivers through manager. Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +132,22 @@ You can update the drivers through manager. Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-essential-insights-on-asmr-videos-unveiled/"><u>[New] In 2024, Essential Insights on ASMR Videos Unveiled</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-recording-real-time-google-meetings-for-2024/"><u>[New] Recording Real-Time Google Meetings for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-stay-up-to-date-with-facebooks-latest-watched-content/"><u>[Updated] 2024 Approved Stay Up-to-Date with Facebook's Latest Watched Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-richest-resource-of-zero-price-ae-templates/"><u>[Updated] In 2024, The Richest Resource of Zero-Price AE Templates</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-what-is-instagram-story-highlight/"><u>[Updated] In 2024, What Is Instagram Story Highlight?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-non-responsive-usb-headset-on-win10/"><u>Fixing Non-Responsive USB Headset on WIN10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-steps-to-correct-the-unavailable-itbm-driver-mistake/"><u>Immediate Steps to Correct the Unavailable ITBM Driver Mistake</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-improvements-and-fixes-in-the-driver-update-for-logitech-extreme-3d-pro/"><u>Latest Improvements & Fixes in the Driver Update for Logitech Extreme 3D Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-errors-code-37-resolved/"><u>No More Errors, Code 37 Resolved</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-zte-nubia-flip-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing ZTE Nubia Flip 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/take-back-the-magic-of-seamless-connectivity-a-simple-fixed-to-bluetooth-issues-on-latest-os-update-guide-inside/"><u>Take Back the Magic of Seamless Connectivity- A Simple Fixed to Bluetooth Issues on Latest OS Update [Guide Inside!]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/text-messaging-tips-that-avoid-data-plans/"><u>Text Messaging Tips That Avoid Data Plans</u></a></li>
+<li><a href="https://driver-error.techidaily.com/touchpad-driver-rediscovered-with-easy-solutions/"><u>Touchpad Driver Rediscovered with Easy Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-your-disconnected-bluetooth-keyboard-for-windows-solutions-unveiled/"><u>Troubleshooting Your Disconnected Bluetooth Keyboard for Windows: Solutions Unveiled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-reconnecting-bluetooth-and-usb-headsets/"><u>Windows 10: Reconnecting Bluetooth and USB Headsets</u></a></li>
+</ul></div>
 

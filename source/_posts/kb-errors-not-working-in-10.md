@@ -1,7 +1,7 @@
 ---
 title: Kb Errors, Not Working in 10
-date: 2024-09-30T16:09:04.688Z
-updated: 2024-10-01T16:06:07.530Z
+date: 2024-09-29T17:09:47.367Z
+updated: 2024-10-06T17:44:49.179Z
 tags:
   - win11
   - win10
@@ -53,25 +53,25 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Reinstall your keyboard driver
 
@@ -81,38 +81,26 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
@@ -148,16 +136,10 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
@@ -197,20 +179,24 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-eating-entertainment-tiktoks-top-culinary-shows/"><u>[New] In 2024, Eating Entertainment TikTok's Top Culinary Shows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-irqlnotlessorequal-bsod-in-windows-11/"><u>[Solved] IRQL_NOT_LESS_OR_EQUAL BSOD in Windows 11</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-secrets-unlocked-starting-your-own-hit-gaming-stream/"><u>[Updated] 2024 Approved Secrets Unlocked Starting Your Own Hit Gaming Stream</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-chime-chronicles-compilation-of-top-ringtone-sources/"><u>[Updated] Chime Chronicles Compilation of Top Ringtone Sources</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-how-to-be-a-good-interviewer/"><u>2024 Approved How To Be A Good Interviewer</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-ultimate-rankings-top-11-streaming-audio-gear/"><u>2024 Approved Ultimate Rankings Top 11 Streaming Audio Gear</u></a></li>
-<li><a href="https://driver-error.techidaily.com/banish-endless-connectivity-of-bluetooth-in-win10/"><u>Banish Endless Connectivity of Bluetooth in Win10</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-12-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 12 with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-invalid-service-installation-parameters-in-inf/"><u>Fixing Invalid Service Installation Parameters in INF</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-successfully-fix-failed-hcom-monitor-driver-setup-errors/"><u>How to Successfully Fix Failed HCOM Monitor Driver Setup Errors</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-plus-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-breathing-new-life-into-anime-with-impactful-tiktoks/"><u>In 2024, Breathing New Life Into Anime with Impactful TikToks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-no-initialization-directx-9-issue-quickly/"><u>Overcoming 'No Initialization DirectX 9' Issue Quickly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/stop-windows-11-bluetooth-from-self-activating/"><u>Stop Windows 11 Bluetooth From Self-Activating</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-from-chaos-to-clarity-combining-obs-with-zoom/"><u>[New] From Chaos to Clarity Combining OBS with Zoom</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-dive-into-4k-splendor-with-nikon-1j5-videography-for-2024/"><u>[Updated] Dive Into 4K Splendor with Nikon 1J5 Videography for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-ace-your-valorant-soundscape-exclusive-access-to-the-top-voice-changer-at-no-cost/"><u>[Updated] In 2024, Ace Your Valorant Soundscape - Exclusive Access to the Top Voice Changer at No Cost</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-video-voyages-venturing-into-the-vlog-profit-world/"><u>[Updated] Video Voyages Venturing Into the Vlog Profit World</u></a></li>
+<li><a href="https://driver-error.techidaily.com/983eplus-english-to-solve-the-first-step-and-i-amended-may/"><u>983E+ (English: To Solve the First Step, and I Amended May</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ace-your-tech-needs-with-ease-fixing-unresponsive-bluetech-in-windows-11-no-headache/"><u>Ace Your Tech Needs With Ease-Fixing Unresponsive BlueTech in Windows 11 (No Headache!)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-laptop-troubleshooting-how-to-adjust-when-videos-appear-sideways-or-upward/"><u>ASUS Laptop Troubleshooting: How to Adjust When Videos Appear Sideways or Upward</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104922327-bluetooth-woes-windows-solutions-ready/"><u>Bluetooth Woes? Windows Solutions Ready!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105166381-cant-switch-bluetooth-off-my-laptop-is-frozen/"><u>Can't Switch Bluetooth OFF - My Laptop Is Frozen!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-walkthrough-for-activating-safe-mode-and-detaching-graphics-card-driver-on-windows-8/"><u>Comprehensive Walkthrough for Activating Safe Mode and Detaching Graphics Card Driver on Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-conflict-conqueror-error-45/"><u>Device Conflict Conqueror: Error 45</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-limitation-notified-for-graphics-hardware/"><u>Device Limitation Notified for Graphics Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102066954-how-to-install-necessary-drivers-for-your-hardware-in-windows-1187-solutions-inside/"><u>How to Install Necessary Drivers for Your Hardware in Windows 11/8/7 - Solutions Inside!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-excel-2007-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to make a digital signature for Excel 2007 files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-15-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 15 (4 Methods) | Stellar</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-safely-extract-accidentally-erased-photographs-from-your-iphone-device/"><u>How To Safely Extract Accidentally Erased Photographs From Your iPhone Device</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unlock-old-facebook-memories-with-a-click/"><u>In 2024, Unlock Old Facebook Memories with a Click</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/live-streaming-and-video-editing-with-vlc-for-2024/"><u>Live Streaming & Video Editing with VLC for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/step-by-step-guide-to-learning-10-essential-spanish-salutations/"><u>Step-By-Step Guide to Learning 10 Essential Spanish Salutations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Holds Off Graphics Card Use
-date: 2024-09-24T16:15:17.059Z
-updated: 2024-10-01T16:05:28.738Z
+date: 2024-09-30T16:52:20.232Z
+updated: 2024-10-06T23:30:14.389Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 1. [**Run System File Checker and DISM commands**](https://bluetties.sjv.io/lxv4pm)
 2. [**Reinstall your display driver**](https://coinrule.sjv.io/rqzonv)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run System File Checker and DISM commands
 
  This problem may occur if you have corrupted or damaged system files on your Windows computer.
@@ -38,18 +45,18 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7aea748d7a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click**YES** when prompted by the User Account Control.
 
  2) Type**sfc /scannow**  and press **Enter** . Wait for the scanning to be **100%**  completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7af1a7f21e.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Type the following commands and press **Enter**  after each.
 
@@ -59,20 +66,13 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Reboot Windows 10 and run your game software to see if it works. If it doesn’t work, you can try our other fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
@@ -91,16 +91,16 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509eed56b24.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. You can update the drivers one by one using the **Update**  button. But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can update all your drivers with one click — **Update All** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509f1432541.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Reboot your Windows 10 PC and run your game software to see if it works.
 
@@ -124,16 +124,24 @@ Follow these steps to recover your system files:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-apowersoft-screen-recording-the-ultimate-pc-guide-for-2024/"><u>[New] Apowersoft Screen Recording The Ultimate PC Guide for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-navigating-the-world-of-spotify-marketing-for-2024/"><u>[New] Navigating the World of Spotify Marketing for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagrams-time-travelling-method-master-reversal-of-videos/"><u>[Updated] Instagram's Time-Travelling Method Master Reversal of Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-the-last-usb-device-malfunctioned-and-windows-doesnt-recognize-it/"><u>How to Fix The Last USB Device Malfunctioned and Windows Doesn’t Recognize It</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-not-working-solved/"><u>HP Wireless Keyboard Not Working [Solved]</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 mini Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcome-auto-uninstall-anomaly-in-nvidia-driver/"><u>Overcome Auto-Uninstall Anomaly in Nvidia Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-and-windows-11-effective-solutions-for-faulty-bluetooth-drivers/"><u>Qualcomm Atheros & Windows 11: Effective Solutions for Faulty Bluetooth Drivers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-6-plus-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 6 Plus You Should Try Out</u></a></li>
-<li><a href="https://driver-error.techidaily.com/understanding-and-fixing-incorrect-device-configuration-overcoming-code-1-problems/"><u>Understanding and Fixing Incorrect Device Configuration: Overcoming Code 1 Problems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-compact-and-cost-effective-mirrorless-4k-cameras-(1000/"><u>[New] Compact and Cost-Effective Mirrorless 4K Cameras <$1,000</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-5-innovative-yt-tales-share-your-life-journey/"><u>[Updated] 2024 Approved 5 Innovative YT Tales Share Your Life Journey</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-infinix-smart-8-hd-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726221980675-movavi-webm-swf/"><u>無成本在線 MOVAVI 轉換 WEBM 為 SWF 工具</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-battleye-driver-loading-mishaps-for-smooth-gaming-sessions/"><u>Diagnosing and Repairing BattlEye Driver Loading Mishaps for Smooth Gaming Sessions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-hp-wireless-keyboard-connection-issues-a-step-by-step-guide/"><u>Fixing HP Wireless Keyboard Connection Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-v29-pro-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo V29 Pro Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nubia-red-magic-8s-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nubia Red Magic 8S Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-nord-ce-3-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Nord CE 3 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/instant-response-beating-windows-lag/"><u>Instant Response: Beating Windows Lag</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconnecting-non-detected-usb-on-windows-7-and-8-systems/"><u>Reconnecting Non-Detected USB on Windows 7 & 8 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reestablish-network-stability-in-dell-latitude-xt2/"><u>Reestablish Network Stability in Dell Latitude XT2</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reinstate-silenced-bluetooth-back-in-control-panel/"><u>Reinstate: Silenced Bluetooth, Back in Control Panel</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionize-virtual-reality-with-our-expertise-for-2024/"><u>Revolutionize Virtual Reality with Our Expertise for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-wireless-keyboard-issues-with-windows-computers/"><u>Troubleshooting Guide: Fixing Wireless Keyboard Issues with Windows Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-what-to-do-when-your-software-doesnt-recognize-installed-hardware/"><u>Troubleshooting Guide: What to Do When Your Software Doesn't Recognize Installed Hardware</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unveiling-the-mystery-behind-professional-looking-time-lapses-in-gopro/"><u>Unveiling the Mystery Behind Professional-Looking Time Lapses in GoPro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/versatile-pci-drivers-series-windows-8-7/"><u>Versatile PCI Drivers Series (Windows 8, 7)</u></a></li>
 </ul></div>
 

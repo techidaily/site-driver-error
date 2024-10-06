@@ -1,7 +1,7 @@
 ---
 title: Why Is My Seagate External Not Recognized by Win11?
-date: 2024-09-26T16:14:23.889Z
-updated: 2024-10-01T16:07:28.507Z
+date: 2024-09-29T22:18:51.701Z
+updated: 2024-10-06T18:50:58.606Z
 tags:
   - win11
   - win10
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-and-features.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Go to the [**official website of Seagate**](http://www.seagate.com/gb/en/support/downloads/item/goflex-home-iso-software-master/) and download the software, create the install CD according to the instructions and then reinstall the software again on your computer.
 
  5) You might need to update the drivers for this software and your hard drive.
@@ -79,34 +86,13 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/properties.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the**Compatibility** tab, and tick the box for**Run this program in compatibility mode for:** . Select an older version of Windows. You might need to try a couple of times before you fix this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-this-program-in-compatibility-mode-for.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click**Apply** and**OK** to save and then run the setup again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apply-and-ok.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 3: Partition the Hard Drive**
 
@@ -115,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-computer-management.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, click**Disk Management** . Right-click **Seagate Central driver** , and click **Delete Volume…** . This will**delete all** the files from your Seagate hard drive.
@@ -133,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/new-simple-volume.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There you go, your Seagate external hard drive should be able to work without any problems.
 
 ## **Method 4: Assign Driver Letter to Seagate GoFlex**
@@ -145,6 +138,19 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57f9f9701ebe7-600x294.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click it and click **Change Drive Letter and Paths…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-drive-letter-and-paths.png)
@@ -153,23 +159,9 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/add-a-letter.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Assign a letter to it and click**OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/ok.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 5: Disable Fast Startup**
 
@@ -182,21 +174,22 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/hardware-and-sound-600x450.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click **Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Click   **Change what the power button does.**
@@ -208,15 +201,28 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable-600x456.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Scroll down to the _**Shutdown** settings_ section and uncheck**Turn off fast startup (recommended)** . Click **Save changes**  . You might need to restart your computer after this change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uncheck-turn-off-fast-startup-recommended-600x450.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -233,16 +239,18 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-in-depth-look-at-fraps-screen-capture/"><u>2024 Approved In-Depth Look at Fraps Screen Capture</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-manager-error-48-resolved/"><u>Device Manager Error #48 Resolved</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/efficient-techniques-for-personalizing-and-updating-social-media-coverage/"><u>Efficient Techniques for Personalizing and Updating Social Media Coverage</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-usb-xhci-compliant-host-controller-error-code-10/"><u>Fix: USB xHCI Compliant Host Controller Error Code 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-macs-screenflow-insights-complete-coverage/"><u>In 2024, Mac's ScreenFlow Insights - Complete Coverage</u></a></li>
-<li><a href="https://facebook.techidaily.com/methods-for-finding-lost-facebook-tweets/"><u>Methods for Finding Lost Facebook Tweets</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/talent-acquisition-treasure-trove-top-10-video-series-for-2024/"><u>Talent Acquisition Treasure Trove - Top 10 Video Series for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-overcoming-the-hcmon-driver-installation-error/"><u>Troubleshooting Tips: Overcoming the HCMon Driver Installation Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-5-effective-methods-for-repairing-touchscreen-issues-on-windows-11/"><u>Ultimate Guide: 5 Effective Methods for Repairing Touchscreen Issues on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/winning-back-control-over-your-device-a-simplified-guide-to-fixing-bluetooth-issues-on-latest-os-step-by-step/"><u>Winning Back Control Over Your Device: A Simplified Guide to Fixing Bluetooth Issues on Latest OS [Step-By-Step]</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-stealthy-surveillance-erasing-sensitive-elements-from-footage/"><u>[New] Stealthy Surveillance Erasing Sensitive Elements From Footage</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-geforce-gtx-1070-driver-issue-on-windows-10-solved/"><u>Fix GeForce GTX 1070 Driver Issue on Windows 10 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-mass-storage-controller-driver-issue-on-windows-10-solved/"><u>Fix Mass Storage Controller Driver Issue on Windows 10 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/get-mobile-os-downloadable-samsung-driver-for-windows/"><u>Get Mobile OS: Downloadable Samsung Driver for Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-y17s-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo Y17s Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pova-5-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Tecno Pova 5 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-update-or-replace-incompatible-hardware-with-current-drivers/"><u>How to Update or Replace Incompatible Hardware with Current Drivers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/keep-your-kitty-cozy-from-anywhere-with-petcube/"><u>Keep Your Kitty Cozy From Anywhere with Petcube</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-the-windows-10-missing-cpu-co-processor-drivers-issue/"><u>Step-by-Step Solution for the 'Windows 10 Missing CPU Co-Processor Drivers' Issue</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/taking-screenshots-on-mac-5-methods-for-2024/"><u>Taking Screenshots on Mac [5 Methods] for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-movie-magic-for-kids-a-step-by-step-guide/"><u>Updated 2024 Approved Movie Magic for Kids A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wudfrd-not-functioning-device-event-id-219/"><u>WudfRd Not Functioning - Device Event ID 219</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp4top6-for-windowsmac-pc/"><u>ベストMP4ビデオプレイヤーTOP6 for WindowsとMac - シンプルにPCでの再生</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unify Latency in Windows XP-20
-date: 2024-08-15T06:49:30.143Z
-updated: 2024-08-16T06:49:30.143Z
+date: 2024-10-02T21:08:26.400Z
+updated: 2024-10-06T18:37:52.479Z
 tags:
   - win11
   - win10
@@ -32,9 +32,12 @@ thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a4
  You should get a working mouse or touchpad to do the instructions below. The following screenshots are shown on Windows 11, but all the fixes apply to Windows 10, and 8&7 as well.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **1: Copy the driver file from a well-functioning computer**
 
  If your current PC lacks the needed driver file, your mouse receiver won’t work as well as it should. To fix it:
@@ -49,6 +52,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  4) If you can find the**usb.inf** and**usb.PNF** files, still, copy and paste them to the folder **C:\\Windows\\inf\\** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2: Remove possible conflict applications**
 
  If you have MotionInJoy installed on your PC, it could be the culprit. It’s reported to conflict with Logitech unifying receiver. You can remove it:
@@ -56,9 +66,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  1) On your keyboard, hold down the Windows logo key and press R to open the Run window. Then type in**control** and hit Enter to open the**Control Panel** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) View by**Category** and click **Uninstall a program** .
 
@@ -67,9 +74,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  3) Right-lick **MotionInJoy** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57830b6e39c32.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
  4) Type in**regedit** in the search bar and then open it.
 
@@ -78,15 +82,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  5) On your keyboard, press the **Ctrl key** and **F** at the same time to open a search window. Type **DS3** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-registry-editor-ds3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Delete all the DS3 files that you can see, especially the DS3.exe file.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/registry-delete-ds3.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Unplug your**Logitech Unifying Receiver** .
@@ -94,6 +106,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  8) Restart your computer and then plug in your Logitech Unifying Receiver.
 
  9) Wait for Windows Update to help you find the correct driver.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3: Update Mouse and USB Drivers**
 
@@ -117,10 +136,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db63d8ac59f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## **4: Run Logitech Unifying Receiver as administrator**
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time. Type**devmgmt.msc** and press**Enter** .
@@ -130,23 +145,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  2) Expand **Mice and other pointing devices,** right-click the**HID-compliant mouse** and click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57834599bc659.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 
  3) Download [Logitech Unifying Software](http://support.logitech.com/en%5Fus/software/unifying) . After the download, right-click the icon and click **Run as administrator** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-logi-run-as-adm.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) After the installation, right-click**Logitech Unifying Software** in the**Start** panel and click **Run as administrator** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-logi-run-as-adm-start.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Your Logitech receiver should be able to work now.
@@ -182,8 +194,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +201,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-theme-wizards-at-work-bestdiscords-top-picks/"><u>[New] 2024 Approved Theme Wizards at Work BestDiscord’s Top Picks</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-optimizing-twitter-video-shares-for-facebook-users/"><u>[Updated] 2024 Approved Optimizing Twitter Video Shares for Facebook Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-bridging-gaps-transforming-trend-data-into-video-concepts/"><u>2024 Approved Bridging Gaps Transforming Trend Data Into Video Concepts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-remedies-correcting-itbm-error-code-driver-unavailable/"><u>Immediate Remedies: Correcting ITBm Error Code 'Driver Unavailable'</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-htc-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of HTC? Try These Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/keep-it-under-wraps-the-risks-of-using-ai-like-chatgpt-for-private-matters/"><u>Keep It Under Wraps: The Risks of Using AI Like ChatGPT for Private Matters</u></a></li>
+<li><a href="https://driver-error.techidaily.com/recover-lost-data-acquisitor-on-pc-os/"><u>Recover Lost Data Acquisitor on PC OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repaired-flaky-video-recording-asus-usb-webcam-and-windows-11-sync/"><u>Repaired Flaky Video Recording: Asus USB Webcam & Windows 11 Sync</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-gtx-amoled128gb6000-degree-artificial-sparklechipcode43-issue-in-windows-10-complete-guide/"><u>Resolving the GTX Amoled_128GB_6000-Degree-Artificial-Sparkle_Chip_Code_43 Issue in Windows 10 - Complete Guide</u></a></li>
+</ul></div>
 

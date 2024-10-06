@@ -1,7 +1,7 @@
 ---
 title: Easy Repair Pathway for USB MTP Devices
-date: 2024-08-09T08:56:39.780Z
-updated: 2024-08-10T08:56:39.780Z
+date: 2024-10-01T21:45:05.795Z
+updated: 2024-10-06T22:11:17.536Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 
 ## Easy Repair Pathway for USB MTP Devices
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/mtp-usb-device-wan-not-successfully-installed.png)
 
  If you’re connecting your mobile phone to your computer, and you see a message saying_**MTP USB Device Failed**_ , you’re not alone. Many Windows users are reporting it. No worries, it’s possible to fix. Here are 5 fixes for you to try.
@@ -44,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/debugging.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2: Update the MTP USB Driver
 
  If no hardware device is at fault, it’s likely that you’re using the wrong driver altogether.
@@ -61,14 +55,6 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afb613d5cdb.png)
 
  3) Click the Update button next to the flagged USB device to automatically download and install the correct version of its driver (you can do this with the FREE version).
@@ -77,22 +63,30 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afc071708b0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3: Run Command**
 
  If you don’t have the administrator permission to your PC, you’ll fail to use some functions. To fix it:
 
  1) On your keyboard, press the **Start** button, then type**cmd.exe** . Right-click**cmd** and click **Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/cmd-run-command-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click **Yes** at the prompted window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57bd596db6742.jpg)
 
  2) In**Command Prompt** window, copy and paste in the following command:
@@ -113,17 +107,25 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 
  1) On your keyboard, click the **Start**  button. Type **regedit** and press **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/regedit-in-start-panel.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click**Yes** at the prompt window.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/registry-window-uac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Follow the path
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Contro l/Class.**
@@ -132,16 +134,17 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 
  3) On your keyboard, press the**Ctrl** **key** and **F** key at the same time. Type**Portable Devices** and press **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/portable-devices.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) On the right hand pane, you’ll see the**(Default)** value**Portable Devices** on the string.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/portable-devices-default-value.jpg)
 
  5) If you can see**UpperFilters** here, right-click it and click **delete.**
@@ -149,6 +152,13 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
  If you can’t see such an option, this method is not suitable for you, move on to next method.
 
  6)**Exit** Registry Editor.**Reboot** your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5: Install MTP Porting Kit**
 
@@ -168,8 +178,6 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +185,24 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/titled-successful-installation-of-essential-hardware-drivers/"><u>[TITLED] Successful Installation of Essential Hardware Drivers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebook-verification-how-to-get-the-blue-verified-badge-easily/"><u>[Updated] 2024 Approved Facebook Verification How to Get the Blue Verified Badge (Easily)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-top-iphone-ios-vr-games-you-should-try/"><u>[Updated] In 2024, Top Iphone IOS VR Games You Should Try</u></a></li>
+<li><a href="https://driver-error.techidaily.com/conquer-directx-9-startup-issues-in-5-minutes/"><u>Conquer DirectX 9 Startup Issues in 5 Minutes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cutting-through-disk-space-errors-on-win1110/"><u>Cutting Through Disk Space Errors on Win11/10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-fixing-win1011-sm-bus-drivers/"><u>Diagnosing and Fixing Win10/11 Sm Bus Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/endless-bluetooth-woes-no-more-win10-edition/"><u>Endless Bluetooth Woes, No More! - Win10 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-screens-to-shelves-a-game-owners-goal/"><u>From Screens to Shelves: A Game Owner's Goal</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-latest-nvidia-geforce-940mx-graphics-card-driver-download-now/"><u>Get Latest Nvidia GeForce 940MX Graphics Card Driver - Download Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-choose-a-motherboard-7-factors-to-consider/"><u>How to Choose a Motherboard: 7 Factors to Consider</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-enter-key-not-working-on-windows/"><u>How to Fix Enter Key Not Working on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/htc-one-mini-bluetooth-failure-on-elementary-os-4-loki-resolved-37-characters/"><u>HTC One Mini Bluetooth Failure on Elementary OS 4 Loki, Resolved! (37 Characters)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-xcover-7-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-x50i-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-lags-streamlined-windows-control/"><u>No More Lags: Streamlined Windows Control</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/prodigy-playgrounds-top-10-roguelike-creations-for-2024/"><u>Prodigy Playgrounds Top 10 Roguelike Creations for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-muted-slack-on-windows-easy-steps-to-resuscitate-alerts/"><u>Revive Muted Slack on Windows: Easy Steps to Resuscitate Alerts</u></a></li>
+</ul></div>
 

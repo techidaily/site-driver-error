@@ -1,7 +1,7 @@
 ---
 title: Rejected Graphic Card Use by OS Win11
-date: 2024-09-29T16:08:39.632Z
-updated: 2024-10-01T16:11:41.651Z
+date: 2024-10-04T16:45:57.900Z
+updated: 2024-10-06T22:15:12.452Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 2. [**Reinstall your display driver**](https://coinrule.sjv.io/rqzonv)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Run System File Checker and DISM commands
@@ -45,18 +45,18 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7aea748d7a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click**YES** when prompted by the User Account Control.
 
  2) Type**sfc /scannow**  and press **Enter** . Wait for the scanning to be **100%**  completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7af1a7f21e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Type the following commands and press **Enter**  after each.
 
@@ -67,13 +67,20 @@ Follow these steps to recover your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Reboot Windows 10 and run your game software to see if it works. If it doesn’t work, you can try our other fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
 
@@ -90,13 +97,6 @@ Follow these steps to recover your system files:
  2) Click **Scan Now** . It will quickly detect all driver problems of your computer. This includes your display driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509eed56b24.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. You can update the drivers one by one using the **Update**  button. But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can update all your drivers with one click — **Update All** .
 
@@ -124,17 +124,15 @@ Follow these steps to recover your system files:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-streaming-success-seekers-deciphering-the-platform-winner-vimeo-vs-youtubeplusdailymotion/"><u>[New] Streaming Success Seekers Deciphering The Platform Winner - Vimeo vs YouTube+Dailymotion?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-x-recorder-your-companion-for-high-quality-pc-recording-for-2024/"><u>[New] X-Recorder Your Companion for High-Quality PC Recording for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-snag-soundwaves-from-fb-topics-for-2024/"><u>[Updated] Snag Soundwaves From Fb Topics for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-morphvox-mastery-a-complete-voice-modification-companion/"><u>2024 Approved MorphVOX Mastery A Complete Voice Modification Companion</u></a></li>
-<li><a href="https://driver-error.techidaily.com/corrected-nonfunctional-realtek-interface-after-upgrade/"><u>Corrected Nonfunctional Realtek Interface After Upgrade</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-tips-handling-failed-to-install-the-hcmon-driver-error-on-windows-systems/"><u>Expert Tips: Handling 'Failed To Install The Hcmon Driver' Error on Windows Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-solve-itunes-recognition-failure-for-iphones-mtp-usb-driver-troubleshooting-tips/"><u>How to Solve iTunes Recognition Failure for iPhones: MTP USB Driver Troubleshooting Tips</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-m14-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy M14 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installation-guide-the-latest-brother-mfc-l2690dw-printing-driver/"><u>Installation Guide: The Latest Brother MFC-L2690DW Printing Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/issue-settled-amdintel-graphics-not-backed-by-premiere-pro/"><u>Issue Settled: AMD/Intel Graphics Not Backed by Premiere Pro</u></a></li>
-<li><a href="https://driver-error.techidaily.com/realtek-ethernet-controller-driver-not-working-after-windows-11-upgrade-solved/"><u>Realtek Ethernet Controller Driver Not Working After Windows 11 Upgrade [Solved]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailor-your-tech-timetable-optimizing-windows-11s-update-processes/"><u>Tailor Your Tech Timetable: Optimizing Windows 11'S Update Processes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capture-the-internets-attention-craft-with-kapwing/"><u>2024 Approved Capture the Internet’s Attention – Craft with Kapwing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-usb-not-detected-issue-in-windows-7-and-8/"><u>Addressing USB Not Detected Issue in Windows 7 & 8</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-aerial-fun-comprehensive-review-of-the-syma-107g-remote-controlled-helicopter/"><u>Affordable Aerial Fun: Comprehensive Review of the Syma 107G Remote Controlled Helicopter</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098253699-bluetooth-wont-turn-off-on-win-10-troubleshooting-steps/"><u>Bluetooth Won't Turn Off on Win 10 - Troubleshooting Steps!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/code-37-solved-hardware-and-dev-driver-connected/"><u>Code 37 Solved: Hardware & Dev Driver Connected</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuito-conversione-da-mov-ad-avi-su-internet-servizi-di-movavi/"><u>Gratuito Conversione Da MOV Ad AVI Su Internet - Servizi Di Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-itel-a70-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Itel A70 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098655562-overcome-itbm-not-available-driver-glitch-without-a-hitch/"><u>Overcome ITBM 'Not Available' Driver Glitch Without a Hitch!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unveiling-the-best-youtube-channel-titles-a-must-have-guide-for-vloggers-limit-to-156-characters/"><u>Unveiling the Best Youtube Channel Titles A Must-Have Guide for Vloggers (Limit to 156 Characters)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-chorus-questers-a-comprehensive-search-engine-for-todays-popular-music-hits/"><u>Updated In 2024, Chorus Questers A Comprehensive Search Engine for Todays Popular Music Hits</u></a></li>
 </ul></div>
 

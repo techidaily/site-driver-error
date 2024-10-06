@@ -1,7 +1,7 @@
 ---
 title: Device Refuses Vehicle Charge
-date: 2024-08-15T06:50:50.566Z
-updated: 2024-08-16T06:50:50.566Z
+date: 2024-10-05T22:57:41.931Z
+updated: 2024-10-06T22:11:17.082Z
 tags:
   - win11
   - win10
@@ -39,8 +39,12 @@ thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1\. Update related driver via Windows Update
 
  If your system isn’t updated regularly, or if you deliberately disable or delay Windows Update, the mentioned driver might not get updated in time, and thus the**_A driver cannot load on this device_** error. So one of the first things you need to do is to make sure that you’ve installed all available Windows Update patches. To do so:
@@ -48,20 +52,43 @@ thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Restart your computer, and see if the**_A driver cannot load on this device_** error still remains. If the problem persists, please move on.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Update related driver via its manufacturer
 
  If Windows Update can’t help to install the mentioned driver, you’ll need to see if you can download and install the driver via its manufacturer manually. And you can get more detailed information from the driver description in the error message.
@@ -73,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d
  When I Google_**CY3014.X64**_ , I see that it’s a file for the**Elgato Game Capture HD60 S device** . By searching the device name plus driver (i.e. Elgato Game Capture HD60 S driver), I land on this page:[https://help.elgato.com/hc/en-us/articles/360027961152-Elgato-Gaming-Hardware-Drivers](https://help.elgato.com/hc/en-us/articles/360027961152-Elgato-Gaming-Hardware-Drivers) , where I can download and later install the correct driver for my computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-69.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 
 So in all, to download and install the driver manually, you need to:
 
@@ -91,9 +114,6 @@ So in all, to download and install the driver manually, you need to:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -104,9 +124,6 @@ So in all, to download and install the driver manually, you need to:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## 3\. Run Program Compatibility Troubleshooter
 
  If the above two methods don’t help to fix the**_A driver cannot load on this device_** error for you, it’s time to run the program compatibility troubleshooter, which helps older programs to run properly on newer operating systems like Windows 11 and Windows 10, since as mentioned, the error is usually related to older drivers that can’t run well on newer systems.
@@ -116,28 +133,31 @@ To run this troubleshooter:
 1. On your keyboard, press the **Windows** key and the **R**  key together. Copy and paste **ms-settings:troubleshoot** and hit **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-42.png)
 2. Select **Other troubleshooters** .  
-![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-43.png)
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-43.png)
 3. Find **Program Compatibility Troubleshooter** , and click the **Run** button next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-44.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. See if you can find the related app mentioned in the error message from the list. If not, select **Not listed** and click **Next** .  
-![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-45.png)
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-45.png)
 5. Then**Browse** to the location where your related system file is, and click Next.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-46.png)
 6. Tick the boxes that fit your description, and click Next.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-47.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 7. Then follow the on-screen instructions to run the troubleshooter.
 
  Then see if the**_A driver cannot load on this device_** error is fixed. If not, please move further.
@@ -155,6 +175,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. On your keyboard, press the **Windows**  key and type **core isolation** , then select **Core Isolation** from the list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-36.png)
 2. Toggle off the option for Memory integrity.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-37.png)
 3. Restart your computer for the change to take effect.
 
@@ -172,8 +200,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +207,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-proven-strategies-to-capture-and-archive-ps3-games/"><u>[New] 2024 Approved Proven Strategies to Capture and Archive PS3 Games</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/roubleshooting-made-easy-youtube-shorts-edition/"><u>[New] Troubleshooting Made Easy YouTube Shorts Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choosing-screen-clarity-is-ultrawide-or-uhd-4k-better/"><u>[Updated] Choosing Screen Clarity Is UltraWide or UHD 4K Better?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-exclusive-communication-apps-post-discord-for-2024/"><u>[Updated] Exclusive Communication Apps Post-Discord for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-leveraging-a-3-step-writing-system-for-social-media-success-with-fb-ads/"><u>2024 Approved Leveraging a 3-Step Writing System for Social Media Success with FB Ads</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-troubleshooting-guide-for-installed-device-drivers-windows-10-8-and-7-issue-solved/"><u>Easy Troubleshooting Guide for Installed Device Drivers: Windows 10, 8 and 7 (ISSUE SOLVED)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-tutorial-for-enabling-safe-mode-and-updating-intel-gpu-software-on-win8-computers/"><u>Easy Tutorial for Enabling Safe Mode & Updating Intel GPU Software on Win8 Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-content-creation-with-ai-driven-dialogue-systems-insightful-techniques/"><u>Enhancing Content Creation with AI-Driven Dialogue Systems: Insightful Techniques</u></a></li>
+<li><a href="https://solve-news.techidaily.com/enhancing-your-online-presence-with-cookiebot-technology/"><u>Enhancing Your Online Presence with Cookiebot Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210734782-google-chrome-freezing-problems-now-fixed/"><u>Google Chrome Freezing Problems – Now Fixed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-transformative-typography-in-after-effects/"><u>In 2024, Transformative Typography in After Effects</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-qualcomm-atheros-bluetooth-malfunction-on-windows-11-systems/"><u>Resolved: Qualcomm Atheros Bluetooth Malfunction on Windows 11 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revitalized-keyboard-works-flawlessly-post-fix-in-windows-11/"><u>Revitalized Keyboard, Works Flawlessly Post-Fix in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-screen-flip-issues-on-asus-notebooks-a-guide/"><u>Solving Screen Flip Issues on Asus Notebooks - A Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-guide-stop-windows-11s-persistent-bluetooth/"><u>The Ultimate Guide: Stop Windows 11'S Persistent Bluetooth</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlocking-lenovos-full-potential-in-windows-11/"><u>Unlocking Lenovo's Full Potential in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-mystery-of-missing-disk-drive-explained/"><u>Win11: Mystery of Missing Disk Drive Explained</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-1110-fix-pci-controller-loss/"><u>Windows 11/10: Fix PCI Controller Loss</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Troubleshooting for Correct Device Configurations (Error Code 1)
-date: 2024-08-15T06:48:13.771Z
-updated: 2024-08-16T06:48:13.771Z
+date: 2024-09-29T16:07:32.215Z
+updated: 2024-10-06T17:25:25.515Z
 tags:
   - win11
   - win10
@@ -42,8 +42,18 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 3) Check to see if the yellow mark next to the device is gone.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Method 2: Update the driver automatically
 
  If Method 1 doesn’t work for you, or if you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -57,19 +67,23 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97796ac519e.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the problem device to automatically download and install the correct version of the driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a9779737fc89.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After updating the driver, check to see if the yellow mark next to the device is gone.
@@ -82,8 +96,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +103,23 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-prime-picks-for-classroom-audio/"><u>[New] 2024 Approved Prime Picks for Classroom Audio</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-superior-online-speech-recorders/"><u>[New] In 2024, Superior Online Speech Recorders</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restored-keyboard-functionality-in-windows-11/"><u>[Restored] Keyboard Functionality in Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-establishing-an-enthralling-facecover/"><u>[Updated] 2024 Approved Establishing an Enthralling FACEcover</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-guide-to-personalizing-whatsapp-ringtone-on-all-devices/"><u>2024 Approved The Ultimate Guide to Personalizing WhatsApp Ringtone on All Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-tips-for-reconfiguring-wifi-bluetooth-and-mobile-data-settings-on-samsung-smartphones/"><u>Expert Tips for Reconfiguring WiFi, Bluetooth & Mobile Data Settings on Samsung Smartphones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-windows-10-creators-update-issue-with-non-detected-logitech-brio-webcam-answered/"><u>Fixing Windows 10 Creators Update Issue with Non-Detected Logitech Brio Webcam [Answered]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/i-understand-that-this-will-be-able-to-find-a-good-time-in-python-40-of-its-positive-integers-pknowledge-a-px-plus-mongodb-markup-1s-are-you-interested-in-l8/"><u>I Understand that This Will Be Able to Find a Good Time in Python 40% of Its Positive Integers $pKnowledge: A) P(x + mongoDB Markup #1'S`^] Are You Interested in Learning How, and It Is the Same Day-Grown for Each Termination.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oneplus-12-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For OnePlus 12</u></a></li>
+<li><a href="https://os-tips.techidaily.com/introducing-nomads-innovative-portable-rechargeable-tracking-device-in-compact-form/"><u>Introducing Nomad's Innovative Portable Rechargeable Tracking Device in Compact Form</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/lost-storage-sectors-made-accessible-again-top-tier-software-expertise-in-recovering-deleted-disk-segments/"><u>Lost Storage Sectors Made Accessible Again - Top-Tier Software Expertise in Recovering Deleted Disk Segments</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-mobile-mindfulness-bid-farewell-to-incessant-notifications-with-these-4-strategies/"><u>Mastering Mobile Mindfulness: Bid Farewell to Incessant Notifications with These 4 Strategies</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quieten-unwanted-bluetooth-in-windows-10/"><u>Quieten Unwanted Bluetooth in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-unsupported-device-errors-in-your-it-driver-setup/"><u>Resolving Unsupported Device Errors in Your IT Driver Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tech-constraint-auto-unloadable/"><u>Tech Constraint: Auto Unloadable</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-1110-solve-pci-controller-gone-awol/"><u>Win 11/10: Solve PCI Controller Gone AWOL</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] BCM20702A0 Driver Is Unavailable Error"
-date: 2024-08-15T06:46:36.704Z
-updated: 2024-08-16T06:46:36.704Z
+date: 2024-10-02T16:22:04.599Z
+updated: 2024-10-06T16:48:11.259Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 3. [**Reinstall/update your BCM20702A0 driver**](https://uperfect.sjv.io/g1jgba)
 4. **[Check the Bluetooth service](https://oneplusfr.sjv.io/lxv4am)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1 – Turn on and off the Airplane mode
 
  As many users reported, turning on and then off the Airplane mode can address the BCM20702A0 driver issue. So before you go on with some complicated steps, try this trick and see if it works for you.
@@ -37,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/turn-on-and-off-airplane-mode-1.jpg)
 2. Select the**Airplane mode** from the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/turn-on-and-off-airplane-mode-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 3. Under the Airplane mode,**toggle on** the button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/turn-on-and-off-airplane-mode-3.jpg)
 4. Restart your computer and**disable the airplane mode** following the steps above.
@@ -53,16 +47,18 @@ Check if your Bluetooth works. If not, continue to the second fix.
 1. In the Windows search box, type**troubleshoot** and click**Troubleshoot settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-1-2.jpg)
 2. Scroll down to find**Bluetooth** and click it. Then click**Run the troubleshooter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2-5.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2-5.jpg)
 
  It may take a couple of minutes for the process. Once done, you can follow the on-screen instructions to repair the detected problems and check if the driver error persists. If so, move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Reinstall/update your BCM20702A0 driver
 
  The BCM20702A0 driver unavailable error usually occurs when the driver is corrupted, missing or outdated. To fix it, you could try reinstalling or updating the BCM20702A0 driver. And there are mainly two ways to do this:**[manually](https://uperfect.sjv.io/g1jgba)** or**[automatically](https://tokenmetrics.sjv.io/jrkzxp)** .
@@ -84,16 +80,17 @@ Check if your Bluetooth works. If not, continue to the second fix.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Click the**Update** button next to the flagged Bluetooth driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/bcm20702a0-driver-update-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  After the driver updates, test your Bluetooth devices to see if it works normally. If not, there is one more fix below.
 
@@ -106,11 +103,31 @@ Check if your Bluetooth works. If not, continue to the second fix.
 2. Right-click the**Bluetooth Support Service** and click**Start** . If it’s already running, right-click it and click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2.jpg)
 3. After the service restarts, right-click it again and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-3.jpg)
 4. Set the **Startup type** to **Automatic** and click **OK** to apply the changes.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-4.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now test your device and see if the error gets fixed.
@@ -129,8 +146,6 @@ Now test your device and see if the error gets fixed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +153,20 @@ Now test your device and see if the error gets fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/resolved-responsive-input-on-fixd-windows-11-pc/"><u>[Resolved]: Responsive Input on Fix'd Windows 11 PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-definitive-12-tycoon-titles-unmissable-gaming-delights/"><u>2024 Approved The Definitive 12 Tycoon Titles - Unmissable Gaming Delights</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-which-apple-m1-machine-suits-your-lifestyle-more/"><u>2024 Approved Which Apple M1 Machine Suits Your Lifestyle More?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dolby-advanced-audio-driver-not-working-in-windows-solved/"><u>Dolby Advanced Audio Driver Not Working in Windows [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-setup-windows-plus-samsung-driver/"><u>Easy Setup: Windows + Samsung Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-malfunction-in-win10-diagnosis-and-repair-solutions/"><u>GTX 950 'Code 43' Malfunction in Win10 - Diagnosis and Repair Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 with a Mask On</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-nokia-g310-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Nokia G310 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-audio-clarity-simplified-techniques-for-noise-elimination-in-audacity-and-filmorapro/"><u>New Mastering Audio Clarity Simplified Techniques for Noise Elimination in Audacity & FilmoraPro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reinstate-windows-photo-viewer-quickly-on-your-windows-10-pc-for-2024/"><u>Reinstate Windows Photo Viewer Quickly on Your Windows 10 PC for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tutorial-tracking-down-your-youtube-comments-for-2024/"><u>Tutorial Tracking Down Your YouTube Comments for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-hints-to-reveal-invisible-seagate-hd/"><u>Windows 11 Hints to Reveal Invisible Seagate HD</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-missing-coprocessor-drivers-fixes-and-guidance-provided/"><u>Windows 11 Missing Coprocessor Drivers - Fixes and Guidance Provided</u></a></li>
+</ul></div>
 

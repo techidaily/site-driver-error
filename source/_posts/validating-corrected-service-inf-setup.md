@@ -1,7 +1,7 @@
 ---
 title: Validating Corrected Service INF Setup
-date: 2024-08-15T06:51:09.590Z
-updated: 2024-08-16T06:51:09.590Z
+date: 2024-10-02T22:57:09.235Z
+updated: 2024-10-06T20:53:09.814Z
 tags:
   - win11
   - win10
@@ -80,8 +80,12 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 3: Install the missing driver files manually
 
  If the built-in USB driver fiels**mdmcpq.inf** and usbser.sys are missing or corrupted, the problem could occur. So to fix the problem, you can try to install these two driver files. You can replace them with the same files on another computer. Follow the steps below：
@@ -91,15 +95,23 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
  1) On the computer with no such problem (The computer can run any Windows version), locate file **mdmcpq.inf** in**C:\\Windows\\INF.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -120,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +139,22 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-intel-wi-fi-6ax201-not-connecting/"><u>[FIXED] Intel Wi-Fi 6Ax201 Not Connecting</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-diy-tips-for-instant-custom-youtube-shorts-coverage/"><u>[New] DIY Tips for Instant Custom YouTube Shorts Coverage</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-pioneering-gear-for-ultimate-vr-glove-experience/"><u>[New] Pioneering Gear for Ultimate VR Glove Experience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-journey-through-lut-based-color-enhancement-methods/"><u>2024 Approved Journey Through LUT-Based Color Enhancement Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-honor-x9b-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor X9b FRP Bypass Instantly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/efficient-sm-bus-operations-in-upgraded-os/"><u>Efficient SM Bus Operations in Upgraded OS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-acquiring-personalized-tracks-for-beat-saber-compatible-with-pc-and-quest-earphones/"><u>Guide: Acquiring Personalized Tracks for Beat Saber - Compatible with PC and Quest Earphones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-the-missing-coprocessor-driver-issue-in-windows-11/"><u>How to Resolve the 'Missing Coprocessor Driver' Issue in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-solve-detected-hardware-not-recognized-message-in-idt-software-packages/"><u>How To Solve 'Detected Hardware Not Recognized' Message in IDT Software Packages</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-hot-30-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Hot 30 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lenovo-bluetooth-streamlined-in-the-era-of-windows-11/"><u>Lenovo Bluetooth Streamlined in the Era of Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mend-quickly-persistent-amd-glitches/"><u>Mend Quickly: Persistent AMD Glitches</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-experts-list-of-tools-for-accelerating-your-facebook-vids/"><u>The Expert's List of Tools for Accelerating Your Facebook Vids</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unknown-usb-device-link-in-compliance-mode-solved/"><u>Unknown USB Device Link in Compliance Mode [SOLVED]</u></a></li>
+</ul></div>
 

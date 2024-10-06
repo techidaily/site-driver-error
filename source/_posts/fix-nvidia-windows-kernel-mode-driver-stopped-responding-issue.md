@@ -1,7 +1,7 @@
 ---
 title: Fix NVIDIA Windows Kernel Mode Driver Stopped Responding Issue
-date: 2024-08-15T06:44:48.540Z
-updated: 2024-08-16T06:44:48.540Z
+date: 2024-10-03T16:16:42.974Z
+updated: 2024-10-06T21:51:05.785Z
 tags:
   - win11
   - win10
@@ -48,8 +48,12 @@ The full error message is as follows:
  4) Check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Update the NVIDIA graphics driver
 
  If Method 1 doesn’t work for you, you can try to update the NVIDIA graphics driver. If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -63,9 +67,6 @@ The full error message is as follows:
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-26.png)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged NVIDIA graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
@@ -86,15 +87,19 @@ The full error message is as follows:
  Type**regedit** and click**OK** to open Registry Editor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-28.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 2) Browse to and then click the following registry subkey:
 
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-29.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) On the Edit menu in the right pane,**right-click on the blank place** . Click**New** , and then select the following registry value from the drop-down menu specific to your version of Windows.
 
@@ -103,9 +108,6 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
  a) Select**DWORD (32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-30.png)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 
  b) Type**TdrDelay** as the Name and click**Enter** .
 
@@ -120,21 +122,28 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
  a) Select**QWORD (64-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-33.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 
  b) Type**TdrDelay** as the Name and click**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-34.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  c)**Double-click TdrDelay** and add**“8”** for the Value data and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-36.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Restart your PC and check to see if the problem is resolved.  
 
@@ -152,8 +161,6 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +168,26 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-mastermind-mind-games-trivia-channel-hunt-for-24/"><u>[New] 2024 Approved Mastermind Mind Games - Trivia Channel Hunt for '24</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-uninterrupted-entertainment-with-our-12-live-networks/"><u>[New] In 2024, Uninterrupted Entertainment with Our 12 Live Networks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-alteration-a-guide-to-video-color-correction-11-parts/"><u>[Updated] The Art of Alteration A Guide to Video Color Correction (11 Parts)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/a-fixers-guide-to-intellme-failures/"><u>A Fixer's Guide to IntellME Failures</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-tecno-camon-20-pro-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Tecno Camon 20 Pro 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/complete-guide-to-optimizing-your-picsart-experience/"><u>Complete Guide to Optimizing Your PicsArt Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/efficient-h264-format-video-editing-tool-smoothly-streamline-your-h264-file-edits/"><u>Efficient H.264 Format Video Editing Tool: Smoothly Streamline Your H.264 File Edits</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-for-fixing-hp-wireless-keyboard-malfunctions-successfully/"><u>Expert Tips for Fixing HP Wireless Keyboard Malfunctions Successfully</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-graphics-device-driver-error-code-14-issue/"><u>Fix Graphics Device Driver Error Code 14 Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-correct-invalidly-installed-device-drivers-in-windows/"><u>How to Correct Invalidly Installed Device Drivers in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-disconnected-drives-in-windows-1110/"><u>How to Fix Disconnected Drives in Windows 11/10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-qualcomm-atheros-bluetooth-issues-in-windows-11-a-complete-guide/"><u>How to Fix Qualcomm Atheros Bluetooth Issues in Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-honor-magic-6-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Honor Magic 6 Pro Lock Screen Password</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-turbocharge-your-fb-search-game/"><u>In 2024, Turbocharge Your FB Search Game</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-the-art-of-elan-pad-control-on-latest-windows-11/"><u>Mastering the Art of Elan Pad Control on Latest Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rediscovering-hidden-cds-and-dvds/"><u>Rediscovering Hidden CDs & DVDs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reigniting-wireless-network-detection-on-windows-11/"><u>Reigniting Wireless Network Detection on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721101110804-samsung-galaxy-tab-a5-not-recognized-by-kde-neon-solution-here/"><u>Samsung Galaxy Tab A5 Not Recognized by KDE Neon, Solution Here!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-tech-journey-with-tom-advanced-review-and-troubleshooting-tips/"><u>The Tech Journey with Tom: Advanced Review and Troubleshooting Tips</u></a></li>
+</ul></div>
 

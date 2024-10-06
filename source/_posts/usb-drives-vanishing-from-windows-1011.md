@@ -1,7 +1,7 @@
 ---
 title: USB Drives Vanishing From Windows 10/11
-date: 2024-09-24T16:14:12.172Z
-updated: 2024-10-01T16:02:53.763Z
+date: 2024-10-02T19:14:41.714Z
+updated: 2024-10-06T23:26:05.202Z
 tags:
   - win11
   - win10
@@ -74,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
@@ -89,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke a**Run** command. Type **regedit** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Follow the path:
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\ {4D36E965-E325-11CE-BFC1-08002BE10318}**
@@ -110,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4: Create a registry subkey**
 
  If you can’t see**UpperFilters** and**LowerFilters** in the Registry pane, please follow the steps below.
@@ -117,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke a**Run** command. Type **regedit** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Follow the path:
 **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\atapi\\**
@@ -128,32 +135,31 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Create a new**Controller0** key under**atapi** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
@@ -179,21 +185,21 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-gpu-recognition-failure-windows/"><u>[FIXED] GPU Recognition Failure Windows</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-tactical-approaches-to-youtube-revenue-with-adsense/"><u>[New] 2024 Approved Tactical Approaches to YouTube Revenue with AdSense</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-beyondbasics-futurecameraspost-mycam-for-2024/"><u>[New] BeyondBasics FutureCamerasPost-MyCam for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-cutting-edge-camera-replacements-for-your-samsung-gear-360-for-2024/"><u>[Updated] Cutting-Edge Camera Replacements for Your Samsung Gear 360 for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-evaluating-frame-rates-the-decision-on-30-vs-60hz-for-2024/"><u>[Updated] Evaluating Frame Rates The Decision on 30 Vs. 60Hz for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/game-on-and-store-more-top-5-ssd-reviews-for-xbox/"><u>Game On & Store More Top 5 SSD Reviews for Xbox</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103983065-how-to-install-necessary-drivers-for-your-device-on-windows-1187-quick-fixes/"><u>How to Install Necessary Drivers for Your Device on Windows 11/8/7 - Quick Fixes!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-restore-physxloaderdll-fixes-for-a-missing-or-damaged-file/"><u>How To Restore PhysXLoader.dll: Fixes for a Missing or Damaged File</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-maximizing-twitter-video-quality-full-hd-tips/"><u>In 2024, Maximizing Twitter Video Quality Full HD Tips</u></a></li>
-<li><a href="https://techidaily.com/is-your-honor-90-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor 90 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/nullifying-flawed-inf-setup-clause-for-service/"><u>Nullifying Flawed INF Setup Clause for Service</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-drive-errors-acpi-id-33a0/"><u>Resolving Drive Errors - Acpi ID 33A0</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restore-normal-operation-of-right-click-on-windows-11-mousepad/"><u>Restore Normal Operation of Right Click on Windows 11 Mousepad</u></a></li>
-<li><a href="https://driver-error.techidaily.com/samsung-galaxy-tab-a5-not-recognized-by-kde-neon-solution-here/"><u>Samsung Galaxy Tab A5 Not Recognized by KDE Neon, Solution Here</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-memory-dump-files-on-windows-10/"><u>Step-by-Step Guide: Removing Memory Dump Files on Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-solving-hcmon-driver-installation-issues/"><u>Troubleshooting Tips: Solving HCMON Driver Installation Issues</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/0-tips-for-teachers-creating-a-youtube-channel-for-2024/"><u>[New] 10 Tips for Teachers Creating a YouTube Channel for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-science-of-video-sizing-by-imovie/"><u>[New] The Science of Video Sizing by iMovie</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/10-indispensable-instagram-video-editing-apps-for-marketers/"><u>10 Indispensable Instagram Video Editing Apps for Marketers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-ultimate-editing-strategies-for-viral-tiktoks/"><u>10 Ultimate Editing Strategies for Viral TikToks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-samsung-galaxy-m34-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung Galaxy M34 FRP</u></a></li>
+<li><a href="https://driver-error.techidaily.com/discovering-the-missed-nvidia-on-pcs/"><u>Discovering the Missed Nvidia on PCs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-tips-for-glow-in-the-dark-portraiture/"><u>Essential Tips for Glow-in-the-Dark Portraiture</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-atheros-bluetooth-issues-on-windows-10-step-by-step-guide/"><u>Fixing Qualcomm Atheros Bluetooth Issues on Windows 10: Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/high-quality-sound-system-all-good-now/"><u>High-Quality Sound System: All Good Now</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-infinix-hot-40-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Infinix Hot 40 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/my-laptops-built-in-wifibluetooth-is-not-responding-on-windows/"><u>My Laptop’s Built-In Wifi/Bluetooth Is Not Responding on Windows.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-driver-not-working-on-windows-11-solved/"><u>Qualcomm Atheros Bluetooth Driver Not Working on Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reinstate-your-pcs-audio-functionality-fixed-troubleshooting-the-non-functioning-dts-truehd-and-e628-solved/"><u>Reinstate Your PC's Audio Functionality, Fixed: Troubleshooting the Non-Functioning DTS™ TrueHD and E628 – Solved! ✅</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-fix-for-nonfunctional-qualcomm-atheros-bluetooth-drivers-on-your-windows-10-computer/"><u>Step-by-Step Fix for Nonfunctional Qualcomm Atheros Bluetooth Drivers on Your Windows 10 Computer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fix: Invisible Disc Readers in Windows"
-date: 2024-08-15T06:48:24.615Z
-updated: 2024-08-16T06:48:24.615Z
+date: 2024-10-01T17:24:35.915Z
+updated: 2024-10-06T19:24:27.407Z
 tags:
   - win11
   - win10
@@ -51,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **2: Update drivers**
 
  If uninstalling the IDE ATA/ ATAPI controller drivers doesn’t solve the problem for you, it’s likely that you’re using the wrong driver altogether.
@@ -76,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3: Manually fix corrupted registry entries**
 
 **IMPORTANT** : Before we move on, it’s strongly recommended that you [back-up and restore your registry](https://tools.techidaily.com/drivereasy/download/) first.
@@ -86,31 +90,33 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Follow the path:
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\ {4D36E965-E325-11CE-BFC1-08002BE10318}**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55543336b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) **Delete**  them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **4: Create a registry subkey**
 
  If you can’t see**UpperFilters** and**LowerFilters** in the Registry pane, please follow the steps below.
@@ -127,8 +133,12 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Create a new**Controller0** key under**atapi** key.
@@ -139,13 +149,16 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -157,8 +170,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +177,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-your-guide-to-flawless-solo-livestreaming-operations/"><u>[New] 2024 Approved Your Guide to Flawless, Solo Livestreaming Operations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-no-price-tag-on-adventure-top-10-gratuitous-online-rpgs/"><u>[Updated] 2024 Approved No Price Tag On Adventure Top 10 Gratuitous Online RPGs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-takes-on-spotify-revolutionary-update-allows-seamless-transfer-of-playlists-insights/"><u>Apple Takes On Spotify: Revolutionary Update Allows Seamless Transfer of Playlists - Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722996183893-call-of-duty-bokw-frozen-glitch-heres-how-to-thaw-out-the-performance-issues/"><u>Call of Duty: BOKW Frozen Glitch? Here’s How to Thaw Out the Performance Issues</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-market-reach-the-cookiebot-way-to-digital-mastery/"><u>Elevate Your Market Reach – The Cookiebot Way to Digital Mastery</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensuring-smooth-gaming-regularly-update-windows-10s-deadrivers/"><u>Ensuring Smooth Gaming: Regularly Update Windows 10'S DeaDrivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-inoperative-right-click-not-working-on-windows-11-touchpad/"><u>Fix: Inoperative Right-Click Not Working on Windows 11 Touchpad</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hd-audio-bus-driver-problem-solved/"><u>HD Audio Bus Driver: Problem Solved</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/stepwise-addition-of-language-overlays-in-igtv-videos-for-2024/"><u>Stepwise Addition of Language Overlays in IGTV Videos for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-non-functional-qualcomm-atheros-bluetooth-driver-on-windows-10-systems/"><u>Troubleshooting and Solving Non-Functional Qualcomm Atheros Bluetooth Driver on Windows 10 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-10-amd-radeon-driver-update-guide/"><u>Windows 10 AMD Radeon Driver Update Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-and-nvidia-geforce-gtx-950-code-43-error-solutions-and-workarounds/"><u>Windows 11 and NVIDIA GeForce GTX 950 Code 43 Error: Solutions and Workarounds</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: INF Setup Error - Now Corrected & Validated
-date: 2024-09-27T16:03:30.570Z
-updated: 2024-10-01T16:10:35.892Z
+date: 2024-10-05T17:32:42.992Z
+updated: 2024-10-06T17:01:38.714Z
 tags:
   - win11
   - win10
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
@@ -97,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
@@ -108,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -141,19 +141,22 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-insta-wonders-top-9-habits-of-influencers-and-stars/"><u>[Updated] Insta Wonders Top 9 Habits of Influencers and Stars</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-integrating-gifs-into-your-iphone-life-with-ease/"><u>[Updated] Integrating GIFs Into Your iPhone Life with Ease</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-mastering-youtubes-feature-switch-between-commenting-states/"><u>[Updated] Mastering YouTube's Feature Switch Between Commenting States</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-prime-nintendo-switch-fighting-game-guide-max-156/"><u>2024 Approved Prime Nintendo Switch Fighting Game Guide (Max 156)</u></a></li>
-<li><a href="https://win-dash.techidaily.com/expert-advice-on-activating-all-functionalities-of-your-logitech-mx-master/"><u>Expert Advice on Activating All Functionalities of Your Logitech MX Master</u></a></li>
-<li><a href="https://driver-error.techidaily.com/help-my-latest-cams-not-recognized-after-pc-update-tips-and-fixes-for-quick-resolution-answered/"><u>Help, My Latest Cam’s Not Recognized After PC Update - Tips & Fixes for Quick Resolution! 😰 [Answered]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/launchpad-to-success-establishing-your-own-food-flavor-blogchannel/"><u>Launchpad to Success Establishing Your Own Food Flavor Blog/Channel</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102147633-qualcomm-atheros-bluetooth-connectivity-woes-with-windows-11-heres-your-comprehensive-fix/"><u>Qualcomm Atheros Bluetooth Connectivity Woes with Windows 11? Here's Your Comprehensive Fix!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-the-itbm-driver-not-found-problem-with-simple-fixes/"><u>Resolve the 'ITBM Driver Not Found' Problem with Simple Fixes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-failed-to-install-hcmondriver-step-by-step-guide/"><u>Resolving 'Failed to Install Hcmondriver' - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-constant-bugs-in-thunders-top-tier-level-a-users-manual/"><u>Solving the Constant Bugs in Thunder's Top-Tier Level - A User's Manual</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlocking-full-disk-use-on-win1110/"><u>Unlocking Full Disk Use on Win11/10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unveiling-the-secret-to-resolving-asus-drivers-in-win10/"><u>Unveiling the Secret to Resolving ASUS Drivers in Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-wdcsam64prewin8sys-turned-off-core-isolation/"><u>[Fixed] wdcsam64_prewin8.sys Turned Off Core Isolation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-discovering-old-content-on-facebook-via-your-smartphonecomputer/"><u>[New] 2024 Approved Discovering Old Content on Facebook via Your Smartphone/Computer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-everyday-snaps-to-professional-videos-the-top-9-mobile-filmmaking-gadgets-for-2024/"><u>[New] From Everyday Snaps to Professional Videos - The Top 9 Mobile Filmmaking Gadgets for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-microsoft-teredo-tunneling-adapter-missing/"><u>[Solved] Microsoft Teredo Tunneling Adapter Missing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-integrating-cognitive-science-into-organizational-leadership-practices/"><u>[Updated] Integrating Cognitive Science Into Organizational Leadership Practices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-load-not-achieved-for-device-id-219/"><u>Driver Load Not Achieved for Device (ID: 219)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-error-code-43-explained-easy-fixes-for-a-smooth-windows-11-experience/"><u>GTX 950 Error Code 43 Explained - Easy Fixes for a Smooth Windows 11 Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-access-is-denied-when-setting-up-your-usb-device/"><u>How to Overcome 'Access Is Denied' When Setting Up Your USB Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-work-with-outdated-usb-composite-devices-a-step-by-step-guide/"><u>How to Work with Outdated USB Composite Devices - A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-itel-s23plus-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Itel S23+ Through Google Earth?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pixilation-protocols-for-personal-privacy-in-photography/"><u>In 2024, Pixilation Protocols for Personal Privacy in Photography</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mastering-response-etiquette-discord-messaging-guide-for-2024/"><u>Mastering Response Etiquette Discord Messaging Guide for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-fix-amd-drivers-keep-hitting-issues/"><u>Swift Fix: AMD Drivers Keep Hitting Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-basics-of-dynamic-media-artistry-for-2024/"><u>The Basics of Dynamic Media Artistry for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/triumph-over-graphics-error-during-install/"><u>Triumph over Graphics Error During Install</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-bass-management-systems-principles-and-functionality/"><u>Understanding Bass Management Systems - Principles & Functionality</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/winxvideo-ai-3/"><u>WinxVideo AIを使った高度な動画加工技術集: カット・結合・トリミング・音声分離 - 第3章解説</u></a></li>
 </ul></div>
 

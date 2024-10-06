@@ -1,7 +1,7 @@
 ---
 title: Reader Disappearance on Win11 - Repair Guide Here
-date: 2024-09-29T16:10:44.790Z
-updated: 2024-10-01T16:05:35.769Z
+date: 2024-10-02T18:06:54.426Z
+updated: 2024-10-06T21:48:47.775Z
 tags:
   - win11
   - win10
@@ -51,6 +51,19 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2: Update drivers**
 
  If uninstalling the IDE ATA/ ATAPI controller drivers doesn’t solve the problem for you, it’s likely that you’re using the wrong driver altogether.
@@ -66,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a61a4afa.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
@@ -90,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Follow the path:
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\ {4D36E965-E325-11CE-BFC1-08002BE10318}**
 
@@ -111,10 +110,16 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
@@ -135,15 +140,22 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Create a new**Controller0** key under**atapi** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
@@ -154,10 +166,10 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7) Exit Registry Editor.
@@ -179,20 +191,20 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-fostering-creativity-for-impressive-mac-produced-tiktok-beginnings-for-2024/"><u>[New] Fostering Creativity for Impressive Mac-Produced TikTok Beginnings for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-a-narrative-template-for-online-educational-videos/"><u>[New] In 2024, Crafting a Narrative Template for Online Educational Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unleashing-speed-in-facebook-videos-the-best-tools-and-tips/"><u>[New] Unleashing Speed in Facebook Videos The Best Tools and Tips</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-secrets-to-dominating-your-social-networks-featured-pages/"><u>[Updated] In 2024, Secrets to Dominating Your Social Network's Featured Pages</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-channel-king-and-queen-academy-youtube-excellence/"><u>2024 Approved Channel King & Queen Academy YouTube Excellence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-productivity-the-power-of-chatgpt-in-onlyoffice-docspace/"><u>Boost Your Productivity: The Power of ChatGPT in ONLYOFFICE DocSpace</u></a></li>
-<li><a href="https://driver-error.techidaily.com/drivers-not-recognized-by-os/"><u>Drivers Not Recognized by OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-steps-to-repair-nonworking-laptop-keys-one-step-at-a-time-article-name-358-characters/"><u>Easy Steps to Repair Nonworking Laptop Keys, One Step at a Time - Article Name — 358 Characters</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/imagecraft-tools-for-2024/"><u>ImageCraft Tools for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-lava-agni-2-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/prime-selection-8-best-free-mobile-mp3-downloaders/"><u>Prime Selection - 8 Best Free Mobile MP3 Downloaders</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tackling-elan-tablet-hurdles-on-windows-10/"><u>Tackling Elan Tablet Hurdles on Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-to-fix-devices-improper-configuration-error-1/"><u>Troubleshooting Tips to Fix Device's Improper Configuration (Error 1)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlock-your-system-potential-razer-bios-updates-in-win10/"><u>Unlock Your System Potential: Razer BIOS Updates in Win10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-bus-management-problem-solved/"><u>Win11 Bus Management: Problem Solved</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-maximizing-your-broadcast-obs-on-android-devices/"><u>[New] 2024 Approved Maximizing Your Broadcast OBS on Android Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fiscally-flourishing-through-film-reviewing-retail-relics-for-2024/"><u>[New] Fiscally Flourishing Through Film Reviewing Retail Relics for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-10-emulator-selections-for-mobile-gba-players/"><u>[New] Top 10 Emulator Selections for Mobile GBA Players</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-the-driver-detected-a-controller-error-on-deviceharddisk1dr1-or-dr3/"><u>[Solved] The Driver Detected a Controller Error on DeviceHarddisk1DR1 or DR3</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-look-into-magix-graphic-designer/"><u>A Look Into MAGIX Graphic Designer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/drafting-a-powerful-post-for-online-fundraising/"><u>Drafting a Powerful Post for Online Fundraising</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-yts-best-practices-for-choosing-images-that-drive-view-count-updates/"><u>In 2024, YT's Best Practices for Choosing Images That Drive View Count Updates</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-drivers-installed-smoothly/"><u>Nvidia Drivers Installed Smoothly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/parental-regulation-strategies-for-windows-11-users/"><u>Parental Regulation Strategies for Windows 11 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/purging-illegal-configurations-from-inf-service-section/"><u>Purging Illegal Configurations From INF Service Section</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-adding-the-required-drivers-to-operate-devices-on-windows-1187-systems/"><u>Resolved: Adding the Required Drivers to Operate Devices on Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/silenced-hard-drive-error-signals/"><u>Silenced Hard Drive Error Signals</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successful-resolution-of-asus-webcam-on-windows-10/"><u>Successful Resolution of ASUS Webcam on Windows 10</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-editors-for-virtual-backgrounds-spectrumswitch-studio/"><u>Top Editors for Virtual Backgrounds SpectrumSwitch Studio</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ng-whirlwind-writings-for-2024/"><u>Weaving Whirlwind Writings for 2024</u></a></li>
 </ul></div>
 

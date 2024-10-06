@@ -1,7 +1,7 @@
 ---
 title: Resolving USB Network Driver Not Working After Update
-date: 2024-08-15T06:45:05.184Z
-updated: 2024-08-16T06:45:05.184Z
+date: 2024-10-02T18:15:25.573Z
+updated: 2024-10-06T21:35:17.594Z
 tags:
   - win11
   - win10
@@ -53,15 +53,16 @@ netsh int ip reset c:\resetlog.txt
 
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de5537df74.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  2) Locate and click the arrow to expand category**Network adapters** .
 
-![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
 3) Then right-click Realtek PCIe GBE Family Controller option and choose **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de65b229a9.png)
@@ -69,8 +70,18 @@ netsh int ip reset c:\resetlog.txt
  4) Go to**Advanced** tab, then choose**Speed & Duplex** option on the left side of the pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de6ed4d026.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) On the**Value** bar, change the default Auto Negotiation to **100 Mbps Full Duplex**  or some other options accordingly. We chose**100 Mbps Full Duplex** here, but yours could be different.
@@ -85,37 +96,50 @@ netsh int ip reset c:\resetlog.txt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587decc3276b5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ### **Option Three:** **Reinstall or Rollback Realtek Adapter Driver**
 
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de5537df74.png)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Locate and click the arrow to expand the category**Network adapters** .
 
-![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
  3) Then right-click click**Realtek PCIe GBE Family Controller** option and then choose**Uninstall** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee15b99f3.png)
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hit**OK** to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee50286a0.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
  4) Go to the menu bar on the top and click the button for **Scan for hardware changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee9a707c2.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Windows will help you automatically install the correct driver that it can find. But there is no guarantee that the new driver is going to work since Windows has provided the not working one originally.
@@ -156,8 +180,6 @@ netsh int ip reset c:\resetlog.txt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +187,18 @@ netsh int ip reset c:\resetlog.txt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/solved-adb-device-not-found-error-on-windows/"><u>[Solved] ADB Device Not Found Error on Windows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-bridging-the-gap-from-rgb-to-standardized-srgb-for-2024/"><u>[Updated] Bridging the Gap From Rgb to Standardized Srgb for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-exploring-trending-video-reactions/"><u>[Updated] In 2024, Exploring Trending Video Reactions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-redefine-your-viewing-habits-6-leading-cost-free-video-downloaders-for-youtube-shorts/"><u>2024 Approved Redefine Your Viewing Habits 6 Leading, Cost-Free Video Downloaders for YouTube Shorts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/coprocessor-driver-missing-on-windows-11-solved/"><u>Coprocessor Driver Missing on Windows 11 [Solved]</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-nk-2077-how-to-eliminate-stuttering-and-smooth-performance/"><u>Cyberpunk Nk 2077: How to Eliminate Stuttering and Smooth Performance</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-not-found-bcm20702a0/"><u>Driver Not Found: BCM20702A0</u></a></li>
+<li><a href="https://fox-access.techidaily.com/stepwise-adjustment-fins-speech-on-win-os-devices-for-2024/"><u>Stepwise Adjustment Fins Speech on Win-OS Devices for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-power-of-codegpt-can-this-innovative-tech-write-reliable-code-for-you/"><u>The Power of CodeGPT: Can This Innovative Tech Write Reliable Code For You?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-non-functional-dts-truehd-in-windows-post-failed-update-solution-found/"><u>Troubleshooting Non-Functional DTS™ TrueHD in Windows Post Failed Update – Solution Found!✅</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-usb-installation-problems-overcoming-access-denied/"><u>Troubleshooting USB Installation Problems: Overcoming 'Access Denied'</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Hardware Mgmt: Error #45 Resolved"
-date: 2024-09-27T16:08:06.250Z
-updated: 2024-10-01T16:05:48.310Z
+date: 2024-10-04T17:31:55.337Z
+updated: 2024-10-06T22:06:19.394Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 6. [Run a DISM scan](https://jalbum-affiliate-program.sjv.io/mmjynq)
 7. [Update your device drivers](https://versadesk.pxf.io/xyboxx)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Reconnect your device
 
  If the device having the code 45 error in Device Manager is a Bluetooth or a wireless adapter, then as the error message suggested, you may just need to reconnect it so your system can recognize your device again. You can try the steps below to reconnect:
@@ -66,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 4. Tick the checkbox for**Delete the driver software for this device** and click**Uninstall** (if you’re prompted for confirmation).  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-3.png)
@@ -79,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Run the Windows Hardware and Devices Troubleshooter
 
  Microsoft offers you a**Hardware and Devices Troubleshooter** to diagnose and fix hardware issues. So try this built-in tool if any hardware problems happen to your device. To use it:
@@ -94,15 +80,15 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/poweshell.png)
 2. Copy and paste**_msdt.exe -id DeviceDiagnostic_** in the Powershell, then hit**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-12.png)
 3. Now you should see the Hardware and Devices Troubleshooter. Click**Next** to continue.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-13.png)
 4. Follow the on-screen instructions to finish troubleshooting.
@@ -121,16 +107,10 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 3. Once you see the command prompt, type **`sfc /scannow`**  and press **Enter** .  
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-15.png)
@@ -149,21 +129,14 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 3. The command prompt will once again display. Type in the command:`**chkdsk.exe /f /r**` and hit Enter.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-16.png)
 4. Type **Y** to confirm that you’d like to perform the disk check the next time you restart your computer. Please make sure you have closed all of your applications first.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-17.png)
@@ -176,6 +149,19 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Run a DISM scan
 
 **DISM** stands for **Deployment Image Servicing and Management** . Running a DISM scan can help fix computer errors. Here’s how to run a DISM scan:
@@ -184,9 +170,30 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 2. Right-click **Command Prompt** to select **Run as administrator** .  
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 3. Click **Yes** if prompted for permission.
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. The command prompt will once again display. Type in the command`**DISM /Online /Cleanup-Image /RestoreHealth**` and press**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-18.png)
 5. Wait for the scan to finish (it may take up to 20 minutes).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Restart your computer and relaunch Device Manager. Check to see if Code 45 has been fixed; if it has, then congrats! Otherwise, please move on to the next fix.
 
@@ -211,16 +218,22 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/graphics-card-and-chipset..jpg)
 4. After updating, restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -245,24 +258,21 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-crafting-visuals-with-precision-5-top-tips-for-pros/"><u>[Updated] Crafting Visuals with Precision 5 Top Tips for Pros</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-10-easy-strategies-for-capturing-youtube-content/"><u>2024 Approved 10 Easy Strategies for Capturing YouTube Content</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-streamlined-processes-from-camera-roll-to-snapchat-posting/"><u>2024 Approved Streamlined Processes From Camera Roll to Snapchat Posting</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bring-back-lost-lfe-channel-with-your-pcs-audio-system-after-dolby-driver-installation-fixed-yes/"><u>Bring Back Lost LFE Channel with Your PC’s Audio System After Dolby Driver Installation, Fixed - Yes!✔️</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-resource-for-downloading-and-upgrading-canons-mx492-and-mx-series-printer-drivers-on-windows-pcs/"><u>Comprehensive Resource for Downloading and Upgrading Canon's MX492 & MX Series Printer Drivers on Windows PCs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-in-need-of-more-free-resources/"><u>Device in Need of More Free Resources</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fwu-enhancement-for-winos-release-version-e1659/"><u>FWU Enhancement for WINOS - Release Version E1659</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-6s-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 6s to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quicklut-tweaks-for-perfect-video-output/"><u>In 2024, QuickLUT Tweaks for Perfect Video Output</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-infinix-hot-40-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Infinix Hot 40 for Parents | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/lenovo-bluetooth-driver-not-working-issues-on-windows-10-solved/"><u>Lenovo Bluetooth Driver Not Working Issues on Windows 10 [Solved]</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quick-tips-for-transforming-pinterest-videos-into-mp3s-for-2024/"><u>Quick Tips for Transforming Pinterest Videos Into MP3s for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-the-driver-not-found-issue-in-your-itbm-with-simple-steps/"><u>Resolve the 'Driver Not Found' Issue in Your ITBM with Simple Steps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-access-denied-errors-during-usb-installation-on-windows/"><u>Resolving 'Access Denied' Errors During USB Installation on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-complete-walkthrough-downloading-and-installing-new-drivers-on-hps-envy-laptops/"><u>The Complete Walkthrough: Downloading and Installing New Drivers on HP'S Envy Laptops</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-failed-to-initialize-battleye-service-due-to-driver-loading-issues/"><u>Troubleshooting Guide: Resolving 'Failed to Initialize BattlEye Service' Due to Driver Loading Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-for-device-misconfiguration-warning-code-1-resolved/"><u>Troubleshooting Tips for Device Misconfiguration Warning - Code 1 Resolved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-advanced-sm-bus-driver-functionality/"><u>Win11: Advanced SM Bus Driver Functionality</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-intel-wi-fi-6ax201-not-connecting/"><u>[FIXED] Intel Wi-Fi 6Ax201 Not Connecting</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-differences-between-standard-and-premium-youtube-viewing/"><u>[New] 2024 Approved The Differences Between Standard and Premium YouTube Viewing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-7-3d-modeling-software-for-animation/"><u>[New] 7 3D Modeling Software for Animation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-shocking-news-titles-expert/"><u>[New] Crafting Shocking News Titles Expert</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revolutionizing-your-photo-video-experience/"><u>[New] Revolutionizing Your Photo-Video Experience</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-professional-prowess-best-webcams-to-upgrade-your-podcasting/"><u>[Updated] 2024 Approved Professional Prowess Best Webcams to Upgrade Your Podcasting</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-odins-last-hope-the-ragnarok-revelation/"><u>[Updated] Odin's Last Hope The Ragnarok Revelation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/efficient-sm-bus-operations-in-upgraded-os/"><u>Efficient SM Bus Operations in Upgraded OS</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/find-and-save-your-deleted-iphone-photosvideos-premium-data-retrieval-software-available-for-sale/"><u>Find and Save Your Deleted iPhone Photos/Videos: Premium Data Retrieval Software Available for Sale</u></a></li>
+<li><a href="https://win-answers.techidaily.com/five-effective-techniques-to-repair-a-malfunctioning-touchscreen-on-windows-10/"><u>Five Effective Techniques to Repair a Malfunctioning Touchscreen on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-the-missing-coprocessor-driver-issue-in-windows-11/"><u>How to Resolve the 'Missing Coprocessor Driver' Issue in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-solve-detected-hardware-not-recognized-message-in-idt-software-packages/"><u>How To Solve 'Detected Hardware Not Recognized' Message in IDT Software Packages</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lenovo-bluetooth-streamlined-in-the-era-of-windows-11/"><u>Lenovo Bluetooth Streamlined in the Era of Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mend-quickly-persistent-amd-glitches/"><u>Mend Quickly: Persistent AMD Glitches</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optimizacion-vidrio-del-flujo-de-trabajo-cortador-mp4-con-windows-no-se-recodifica/"><u>Optimización Vidrio Del Flujo De Trabajo: Cortador MP4 Con Windows, No Se Recodifica</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unknown-usb-device-link-in-compliance-mode-solved/"><u>Unknown USB Device Link in Compliance Mode [SOLVED]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enabling Disc Drive Visibility in Windows 10
-date: 2024-08-15T06:47:49.635Z
-updated: 2024-08-16T06:47:49.635Z
+date: 2024-09-29T16:12:27.297Z
+updated: 2024-10-06T19:38:43.613Z
 tags:
   - win11
   - win10
@@ -51,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/d7b6adca8f0a081f06c342aa5482b37710319db21
 
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## **2: Update drivers**
 
  If uninstalling the IDE ATA/ ATAPI controller drivers doesn’t solve the problem for you, it’s likely that you’re using the wrong driver altogether.
@@ -69,17 +66,18 @@ thumbnail: https://thmb.techidaily.com/d7b6adca8f0a081f06c342aa5482b37710319db21
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a61a4afa.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
@@ -91,18 +89,6 @@ thumbnail: https://thmb.techidaily.com/d7b6adca8f0a081f06c342aa5482b37710319db21
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke a**Run** command. Type **regedit** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Follow the path:
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\ {4D36E965-E325-11CE-BFC1-08002BE10318}**
@@ -113,13 +99,30 @@ thumbnail: https://thmb.techidaily.com/d7b6adca8f0a081f06c342aa5482b37710319db21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55543336b.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) **Delete**  them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **4: Create a registry subkey**
 
  If you can’t see**UpperFilters** and**LowerFilters** in the Registry pane, please follow the steps below.
@@ -127,16 +130,17 @@ thumbnail: https://thmb.techidaily.com/d7b6adca8f0a081f06c342aa5482b37710319db21
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke a**Run** command. Type **regedit** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  2) Follow the path:
 **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\atapi\\**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd3791d37b.png)
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
@@ -146,6 +150,13 @@ thumbnail: https://thmb.techidaily.com/d7b6adca8f0a081f06c342aa5482b37710319db21
  4) Create a new**Controller0** key under**atapi** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
@@ -165,8 +176,6 @@ thumbnail: https://thmb.techidaily.com/d7b6adca8f0a081f06c342aa5482b37710319db21
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +183,26 @@ thumbnail: https://thmb.techidaily.com/d7b6adca8f0a081f06c342aa5482b37710319db21
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-a-tweet-to-snap-showcase-video-posting-techniques/"><u>[New] A Tweet-to-Snap Showcase Video Posting Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-photographers-list-of-top-10-lenses/"><u>[New] The Photographer's List of Top 10 Lenses</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nleash-youtube-potential-with-imaginative-splitscreens/"><u>[New] Unleash YouTube Potential with Imaginative Splitscreens</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-enhance-your-tiktok-videos-with-expert-numeric-manipulation-skills/"><u>[Updated] 2024 Approved Enhance Your TikTok Videos with Expert Numeric Manipulation Skills</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pinnacle-ios-solutions-the-best-ps2-game-emulators/"><u>[Updated] 2024 Approved Pinnacle IOS Solutions The Best PS2 Game Emulators</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-tips-to-handle-unintended-self-presence-in-video-conversations/"><u>[Updated] 2024 Approved Tips to Handle Unintended Self-Presence in Video Conversations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correct-dell-laptops-ethernet-anomaly/"><u>Correct Dell Laptop's Ethernet Anomaly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/direct-correction-methods-for-usb-mtp-errors/"><u>Direct Correction Methods for USB MTP Errors</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/enhance-your-website-with-creatively-timed-django-template-packages-and-themes/"><u>Enhance Your Website with Creatively Timed Django Template Packages and Themes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-diagnosing-and-correcting-error-0x0000007e-bsod-issue-on-windows-7-systems/"><u>Expert Advice: Diagnosing and Correcting Error 0X0000007E BSOD Issue on Windows 7 Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-redefined-6-revolutionary-reasons-to-experience-its-metaverse/"><u>Facebook Redefined: 6 Revolutionary Reasons to Experience Its Metaverse</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-get-your-qualcomm-atheros-bluetooth-driver-up-and-running-on-windows-10/"><u>How to Get Your Qualcomm Atheros Bluetooth Driver Up and Running on Windows 10</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-6s-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone 6s without Security Questions?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-reno-9a-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Reno 9A</u></a></li>
+<li><a href="https://driver-error.techidaily.com/insufficient-resources-on-system/"><u>Insufficient Resources on System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-issue-solved-functional-on-windows-11/"><u>Keyboard Issue Solved: Functional on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcome-hot-plugging-shortfall/"><u>Overcome Hot-Plugging Shortfall</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-guide-fixing-the-driver-load-error-for-battleye-service-initiation-problem-error-1450/"><u>Solution Guide: Fixing the Driver Load Error for BattlEye Service Initiation Problem (Error 1450)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-acpi-driver-fault-id-33a0/"><u>Solving Acpi Driver Fault ID 33A0</u></a></li>
+</ul></div>
 

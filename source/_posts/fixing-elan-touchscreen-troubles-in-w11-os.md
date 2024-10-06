@@ -1,7 +1,7 @@
 ---
 title: Fixing Elan Touchscreen Troubles in W11 OS
-date: 2024-08-15T06:51:15.927Z
-updated: 2024-08-16T06:51:15.927Z
+date: 2024-10-02T17:56:23.653Z
+updated: 2024-10-06T19:54:05.847Z
 tags:
   - win11
   - win10
@@ -42,8 +42,12 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2: Reinstall your drivers
 
  Faulty drivers provided by Microsoft could be the reason why your touchpad stops working properly. To tackle this problem, you should reinstall the driver.
@@ -63,13 +67,21 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
  3) Click the**Update** button next to an ELAN touchpad driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click_**Update All**_ to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **3: Stop automatic updates from Windows Update**
 
  A faulty or buggy driver from Windows Update could be the cause of this problem. You can disable the automatic update via:
@@ -77,22 +89,20 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
  1) Type**device and printers** in the search bar, then click **Device and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 
  2) Right-clickyour computer icon and click **Device installation settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
@@ -103,8 +113,6 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +120,20 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-premium-recording-solutions-windows-edition/"><u>[New] 2024 Approved Premium Recording Solutions Windows Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-crafting-a-personalized-auditory-experience-on-ios/"><u>[New] In 2024, Crafting a Personalized Auditory Experience on iOS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/status-update-device-recognition-success/"><u>[Status Update: Device Recognition Success]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieve-longer-bluetooth-connections-strategies-for-windows-11-systems/"><u>Achieve Longer Bluetooth Connections: Strategies for Windows 11 Systems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/capture-action-the-complete-technique-for-adding-motion-blur-in-photos/"><u>Capture Action The Complete Technique for Adding Motion Blur in Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-endorsed-techniques-for-iphone-audio-retrieval/"><u>Expert-Endorsed Techniques for iPhone Audio Retrieval</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-a-supported-tablet-was-not-found-on-the-system/"><u>Fixed: A Supported Tablet Was Not Found on the System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/invalid-inf-service-setup-resolved/"><u>Invalid INF Service Setup - Resolved</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/kostenlose-konvertierung-von-palregion-2-dvds-ins-moderne-videostandard-umwandeln/"><u>Kostenlose Konvertierung Von PAL/Region-2 DVDs Ins Moderne Videostandard Umwandeln</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-endless-bluetooth-in-win10/"><u>Solving Endless Bluetooth in Win10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722989683988-war-thunder-2024-stability-issues-proven-fixes-for-constant-game-crashes-now/"><u>War Thunder 2024 Stability Issues? Proven Fixes for Constant Game Crashes Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/widest-issue-flawed-usb-serial-interface-in-windows/"><u>Widest Issue: Flawed USB-Serial Interface in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wma-naar-online-converteren-voor-gratuit-movavis-ultieme-leermeester-voor-bestanden-draaien-in-beeldvormige-muziek/"><u>WMA Naar Online Converteren Voor Gratuit - Movavi's Ultieme Leermeester Voor Bestanden Draaien in Beeldvormige Muziek</u></a></li>
+</ul></div>
 

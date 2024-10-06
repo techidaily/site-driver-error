@@ -1,7 +1,7 @@
 ---
 title: How To Make USB Audio Device Work in Windows 10
-date: 2024-08-15T06:50:56.212Z
-updated: 2024-08-16T06:50:56.212Z
+date: 2024-10-02T17:19:59.885Z
+updated: 2024-10-06T17:01:10.569Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/0313aeb6801c4ad054aee4b20ba488ff337dac52c
 
 **Note:** Before we go, plug your headset into different USB ports and replace your USB headset with another one to check if the issue is due to the headset. If it doesn’t work either, then go with the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Do not plug your USB headset while Windows 10 is booting
 
  Some conflicts could exist between your USB headset and other USB devices. To avoid this conflict, please be sure to plug your USB headset in after your computer gets into Windows 10.```` ``
@@ -40,10 +47,21 @@ Check if your headset works properly now.
 
 1. Type **troubleshooting**  in the search box from the Start menu. Then click **Find and fix problems**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-14.png)  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ```` ```` ````
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Click **Hardware and Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-12.png)  
 ```` ```` ````
@@ -51,22 +69,14 @@ Check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-14.png)
 4. Click **Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-13.png)
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Now the troubleshooter starts detecting problems. Complete troubleshooting by following on-screen instructions.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After that, check if your headset works properly now.
@@ -76,30 +86,20 @@ After that, check if your headset works properly now.
 1. Right-click on the**Start** button, then click**Windows PowerShell (Admin)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_15-52-49.jpg)
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Follow the on-screen instructions to finish the process.
 5. Relaunch your computer and check whether the issue is resolved or not.````
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Fix 3: Set your USB headset as default device
 
 1. Right-click on**Speakers/Headphone** icon at the bottom right of your taskbar. Then click **Playback devices** .  
@@ -110,8 +110,12 @@ After that, check if your headset works properly now.
 ```` ```` ```` Check if your headset works properly now.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your audio driver
 
  An old, corrupted, or missing audio driver can also cause your USB headset not to work. You can update your driver to solve this problem.```` ``
@@ -124,11 +128,16 @@ After that, check if your headset works properly now.
 2. Click **Scan Now** . It will quickly detect all driver problems of your computer. Your printer driver is no exception.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/SCAN.jpg)
 3. Click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note: You can also do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Sound-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 4. Restart your computer and check to see if your headset works.
 
 ---
@@ -143,8 +152,6 @@ After that, check if your headset works properly now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +159,19 @@ After that, check if your headset works properly now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-complete-guide-to-screen-capturing-in-minecraft/"><u>[New] 2024 Approved Complete Guide to Screen Capturing in Minecraft</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-leading-ways-streaming-and-recording-real-time-sport-events/"><u>[New] 2024 Approved Leading Ways Streaming and Recording Real-Time Sport Events</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fix-facing-issues-with-rtx-gaming-on-pc-heres-how-we-tackled-it/"><u>[Quick-Fix] Facing Issues with RTX Gaming on PC - Here's How We Tackled It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/detecting-and-repairing-top-10-tips-to-resolve-invisible-steam-vr-setup-problems/"><u>Detecting and Repairing: Top 10 Tips to Resolve Invisible Steam VR Setup Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-usb-drive-not-showing-up-in-windows-11-issue/"><u>How to Fix USB Drive Not Showing Up in Windows 11 Issue</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-your-minecraft-black-screen-woes-expert-advice-and-fixes-by-solved/"><u>Overcome Your Minecraft Black Screen Woes: Expert Advice and Fixes by [SOLVED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-lenovo-bluetooth-issues-in-win11/"><u>Overcoming Lenovo Bluetooth Issues in Win11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/er-productions-leading-free-editors-on-android/"><u>Pioneer Productions Leading Free Editors on Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/select-the-best-free-mobile-video-platforms-of-2023-for-2024/"><u>Select the Best Free Mobile Video Platforms of 2023 for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-80211n-broadcom-wi-fi-adapter-now-working-again/"><u>Win 802.11N Broadcom Wi-Fi Adapter Now Working Again</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-upgrading-deathadder-hat-drivers/"><u>Win11: Upgrading DeathAdder HAT Drivers</u></a></li>
+</ul></div>
 

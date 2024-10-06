@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Unsupported Graphics in Premiere Pro with AMD/Intel"
-date: 2024-09-24T16:10:38.009Z
-updated: 2024-10-01T16:11:48.235Z
+date: 2024-10-01T18:45:08.417Z
+updated: 2024-10-06T17:26:03.433Z
 tags:
   - win11
   - win10
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
  The “Unsupported Video Driver” error message suggests that your current graphics driver is not compatible with Premiere Pro. An outdated or faulty video driver could cause this problem. Or, in some cases, Premiere Pro fails to recognize your driver which is actually functional and thus triggers the error.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
 [1: Update your video driver](https://ukaidot.sjv.io/daqnoj)
@@ -34,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
  There are two ways to update your video driver: Automatically (recommended!) and manually.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Automatic update
@@ -54,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Manual update
 
  You can also update your graphics driver manually. The common way to update a driver on your PC is via the Device Manager (a Windows feature). But Windows may not detect the latest available update for your video card because the database is huge and the updates could be delayed.
@@ -76,10 +76,16 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 4. Go to the official sites and search for your video driver. Make sure you download only the driver that’s compatible with your Windows version.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/)  
@@ -93,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
  After you install the latest video driver, restart your PC and test if Premiere Pro still shows you the error message. If the problem persists, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Update Premiere Pro
@@ -127,22 +133,24 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/repaired-initial-error-of-non-booting-device-addressed/"><u>[REPAIRED] Initial Error of Non-Booting Device Addressed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazon-echo-show-10-gen-3-features-unveiled-an-in-depth-overview-and-performance-review/"><u>Amazon Echo Show 10 (Gen 3) Features Unveiled: An In-Depth Overview and Performance Review</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-guide-to-repairing-older-usb-composite-device-connections-fixed/"><u>Comprehensive Guide to Repairing Older USB Composite Device Connections [FIXED]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/corrected-audio-video-sync-errors-asus-and-windows-11-compatibility/"><u>Corrected Audio-Video Sync Errors: ASUS & Windows 11 Compatibility</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-driver-problems-in-windows-7811-follow-these-steps-to-get-it-solved-now/"><u>Device Driver Problems in Windows 7/8/11? Follow These Steps to Get It Solved Now</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-your-non-working-hp-keyboard-a-step-by-step-tutorial/"><u>Fix Your Non-Working HP Keyboard: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/free-online-ocr-and-voc-extraction-service-by-movavi-avi-convert/"><u>Free Online OCR and VOC Extraction Service by Movavi - Avi Convert</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-streamlining-youtube-content-onto-insta-feed/"><u>In 2024, Streamlining YouTube Content Onto Insta Feed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/key-lights-off-on-asus-laptop/"><u>Key Lights Off on ASUS Laptop</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-child-online-security-the-best-8-tools-for-parents/"><u>Navigating Child Online Security: The Best 8 Tools for Parents</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-windows-enter-failure-case/"><u>Solving Windows Enter Failure Case</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-converting-aax-audio-files-to-mp3-on-windows-10/"><u>Step-by-Step Guide: Converting AAX Audio Files to MP3 on Windows 10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-magic-vs-2-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor Magic Vs 2</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unraveling-the-mystery-of-driver-52-troubles/"><u>Unraveling the Mystery of Driver #52 Troubles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-arch-bluetooth-mouse-not-working-after-windows-10-creators-update/"><u>[FIXED] Arch Bluetooth Mouse Not Working After Windows 10 Creators Update</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-elevating-your-speech-to-text-experience-using-googles-tools/"><u>[New] In 2024, Elevating Your Speech to Text Experience Using Google's Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-yourwebcamrecordingbasics/"><u>[New] In 2024, Mastering YourWebcam RecordingBasics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-make-a-living-with-reddit-even-for-novices-top-13-easy-strategies/"><u>[Updated] 2024 Approved Make a Living with Reddit (Even for Novices!) Top 13 Easy Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-picks-for-kids-and-first-time-fliers-easy-drone-models/"><u>[Updated] Top Picks for Kids & First-Time Fliers Easy Drone Models</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevate-your-content-top-10-must-use-hashtags-on-ig/"><u>2024 Approved Elevate Your Content Top 10 Must-Use Hashtags on IG</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disabling-permanent-bluetooth-issue-fixed/"><u>Disabling Permanent Bluetooth Issue (Fixed)</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/1725286005533-dvd-dvd/"><u>DVDへのダウンロード再生ビデオ変換テクニック | 無償ストリーミング全動画DVD化ガイド</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-ways-to-fix-the-qualcomm-atheros-bluetooth-driver-errors-in-windows-10-computers/"><u>Effective Ways to Fix the Qualcomm Atheros Bluetooth Driver Errors in Windows 10 Computers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-8k-capture-the-ultimate-camera-guide/"><u>In 2024, Premier 8K Capture The Ultimate Camera Guide</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/know-before-its-too-late-discover-the-last-support-day-for-various-windows-and-office-releases-on-microsoft/"><u>Know Before It's Too Late: Discover the Last Support Day for Various Windows & Office Releases on Microsoft.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-solving-the-issue-when-microsoft-store-doesnt-launch/"><u>Resolved: Solving the Issue When Microsoft Store Doesn't Launch</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-usb-network-driver-not-working-after-update/"><u>Resolving USB Network Driver Not Working After Update</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stabilized-windows-11-display/"><u>Stabilized Windows 11 Display</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-to-solve-windows-78-unsupported-usb-errors/"><u>Steps to Solve Windows 7/8 Unsupported USB Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/triumph-over-hardware-conflict-45/"><u>Triumph Over Hardware Conflict #45</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-the-absent-coprocessor-in-windows-11-guide/"><u>Troubleshooting and Fixing the Absent Coprocessor in Windows 11 [Guide]</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-pro-animation-studio-top-8-software-picks-for-mac-and-windows-for-2024/"><u>Updated Pro Animation Studio Top 8 Software Picks for Mac and Windows for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-irql-glitch-resolved/"><u>Windows 11 IRQL Glitch Resolved</u></a></li>
 </ul></div>
 

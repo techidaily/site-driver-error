@@ -1,7 +1,7 @@
 ---
 title: Restoring USB Functionality Post ADB Error
-date: 2024-09-28T16:12:57.915Z
-updated: 2024-10-01T16:07:57.259Z
+date: 2024-09-30T21:15:43.886Z
+updated: 2024-10-06T18:49:14.818Z
 tags:
   - win11
   - win10
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) When finish installing the driver, plug in your Android device.
@@ -63,25 +63,18 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-6.jpg)
  8) Go on to click **Let me pick from a list of device drivers on my computer** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  9) Click **Have Disk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  10) Click **Browse**  to choose the Google USB Driver you downloaded at the beginning. Or you can enter the following address into the box.  
  **C:\\Program Files (x86)\\Android\\android-sdk\\extras\\google\\usb\_driver**
@@ -89,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-4.jpg)
  11) Double-click on **Android ADB Interface** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-5.jpg)
 
@@ -107,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b457d42d6959.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged ADB device driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -141,21 +141,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-no-distractions-just-high-quality-webcam-recording/"><u>[Updated] 2024 Approved No Distractions, Just High-Quality Webcam Recording</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capturing-still-moments-from-clips-on-windows-11-for-2024/"><u>Capturing Still Moments From Clips on Windows 11 for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correct-usb-to-ethernet-connector-glitch-optiplex/"><u>Correct USB-to-Ethernet Connector Glitch, OptiPlex</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721909306646-discover-all-thats-fresh-with-apples-latest-ai-innovations-spotted-at-wwdc-2024/"><u>Discover All That's Fresh with Apple’s Latest AI Innovations - Spotted at WWDC 2024!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-advice-overcoming-0x0000007e-bsod-issue-in-windows-7-computers/"><u>Expert Advice: Overcoming 0X0000007E BSoD Issue in Windows 7 Computers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-overview-the-robust-halo-bolt-portable-charger-and-jump-starter/"><u>Expert Overview: The Robust Halo Bolt Portable Charger & Jump Starter</u></a></li>
-<li><a href="https://driver-error.techidaily.com/flawless-pc-interaction-without-freezes/"><u>Flawless PC Interaction without Freezes</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-picks-top-10-live-broadcast-apps-for-basketball-and-soccer-fans/"><u>In 2024, Expert Picks Top 10 Live-Broadcast Apps for Basketball and Soccer Fans</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/in-2024-the-top-10-ai-avatar-generators/"><u>In 2024, The Top 10 AI Avatar Generators</u></a></li>
-<li><a href="https://driver-error.techidaily.com/install-missing-hardware-drivers-for-your-pc-a-comprehensive-guide-to-windows-1087/"><u>Install Missing Hardware Drivers for Your PC: A Comprehensive Guide to Windows 10/8/7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-resolve-mtp-usb-issue/"><u>Quick Resolve: MTP USB Issue</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/razer-blade-18-premium-laptop-for-professionals-featuring-nvidias-geforce-rtx-4090-graphics-card-priced-at-4799/"><u>Razer Blade 18: Premium Laptop for Professionals Featuring Nvidia's GeForce RTX 4090 Graphics Card, Priced at $4,799</u></a></li>
-<li><a href="https://driver-error.techidaily.com/stop-repeated-crashes-from-amd-software/"><u>Stop Repeated Crashes From AMD Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719327094876-top-4-solutions-for-troubleshooting-full-screen-capture-issues-in-windows-snipping-tool/"><u>Top 4 Solutions for Troubleshooting Full-Screen Capture Issues in Windows Snipping Tool.</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-hd-driver-harmony-achieved/"><u>Win11 HD Driver Harmony Achieved</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excellent-5-add-ons-to-amplify-oceanic-shoots/"><u>[New] Excellent 5 Add-Ons to Amplify Oceanic Shoots</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-musical-integration-for-social-storytelling-platforms/"><u>[New] Musical Integration for Social Storytelling Platforms</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-automate-your-iphone-messaging-schedules/"><u>Easy Steps to Automate Your iPhone Messaging Schedules</u></a></li>
+<li><a href="https://driver-error.techidaily.com/get-your-android-on-pc-samsung-edition/"><u>Get Your Android on PC - Samsung Edition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-restoring-lost-intel-coprocessor-drivers-on-windows-10-devices/"><u>Guide to Restoring Lost Intel Coprocessor Drivers on Windows 10 Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/increasing-ram-to-achieve-peak-performance-in-minecraft/"><u>Increasing RAM to Achieve Peak Performance in Minecraft</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-latest-techkey-bluetooth-driver-on-windows-11-7-or-nvitek-2023-win7810/"><u>Install the Latest Techkey Bluetooth Driver on Windows 11, 7 or Nvitek-2023-Win7/8/10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intermittent-button-presses-windows-mouse-woes/"><u>Intermittent Button Presses - Windows Mouse Woes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/iphone-external-storage-troubles-fix-your-usb-mtp-drivers-now/"><u>IPhone External Storage Troubles? Fix Your USB MTP Drivers Now!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphones-role-in-creating-immersive-vr-content-for-2024/"><u>IPhone's Role in Creating Immersive VR Content for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/master-the-art-of-bios-tweaking-with-new-razer-deathadder-driver/"><u>Master the Art of BIOS Tweaking with New Razer Deathadder Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reinstating-enex-drivers-after-unsuccessful-load-on-windows-11/"><u>Reinstating eNEX Drivers After Unsuccessful Load on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsuccessful-graphics-attempt-on-windows-11/"><u>Unsuccessful Graphics Attempt on Windows 11</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need-for-2024/"><u>Updated Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-bluetooth-refuses-to-shutdown/"><u>Win11: Bluetooth Refuses to Shutdown</u></a></li>
 </ul></div>
 

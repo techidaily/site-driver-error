@@ -1,7 +1,7 @@
 ---
 title: Eradicating Invalid Configuration Segment in INF
-date: 2024-08-15T06:45:09.383Z
-updated: 2024-08-16T06:45:09.383Z
+date: 2024-10-01T21:03:43.824Z
+updated: 2024-10-06T21:32:09.295Z
 tags:
   - win11
   - win10
@@ -80,8 +80,12 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 3: Install the missing driver files manually
 
  If the built-in USB driver fiels**mdmcpq.inf** and usbser.sys are missing or corrupted, the problem could occur. So to fix the problem, you can try to install these two driver files. You can replace them with the same files on another computer. Follow the steps below：
@@ -91,16 +95,23 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
  1) On the computer with no such problem (The computer can run any Windows version), locate file **mdmcpq.inf** in**C:\\Windows\\INF.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -121,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +139,22 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-3-copywriting-structure-for-facebook-ads-for-2024/"><u>[New] 3 Copywriting Structure for Facebook Ads for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-leverage-the-power-of-visual-storytelling-with-your-own-facebook-slideshows/"><u>[Updated] 2024 Approved Leverage the Power of Visual Storytelling with Your Own Facebook Slideshows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-football-film-study-premier-insights-infographic/"><u>2024 Approved Football Film Study Premier Insights Infographic</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-quickcapturewin-instant-screenshots-for-pcs/"><u>2024 Approved QuickCaptureWin Instant Screenshots for PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-host-controller-accessibility/"><u>Fix Host Controller Accessibility</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-click-jams-in-windows-10/"><u>Fixing Click Jams in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/happy-hours-wacom-all-systems-go/"><u>Happy Hours: Wacom, All Systems Go</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-restore-functionality-of-your-malfunctioning-hp-bluetooth-keypad/"><u>How To Restore Functionality of Your Malfunctioning HP Bluetooth Keypad?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-successfully-update-and-install-drivers-for-your-device-on-microsoft-windows-10-8-7-solved/"><u>How to Successfully Update and Install Drivers for Your Device on Microsoft Windows (10, 8, 7) [SOLVED]</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-in-depth-asmr-video-insights/"><u>In 2024, In-Depth ASMR Video Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-lenovo-keyboard-solutions-for-unresponsive-keys/"><u>Reviving Your Lenovo Keyboard: Solutions for Unresponsive Keys</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/simple-android-voice-capture-no-root-access-for-2024/"><u>Simple Android Voice Capture - No Root Access for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ultimate-guide-to-high-quality-avi-file-combination-without-compromise/"><u>Ultimate Guide to High-Quality AVI File Combination Without Compromise</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-guide-updating-and-downloading-drivers-for-your-hp-envy-20-laptop/"><u>Ultimate Guide: Updating and Downloading Drivers for Your HP Envy 20 Laptop</u></a></li>
+</ul></div>
 

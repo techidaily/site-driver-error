@@ -1,7 +1,7 @@
 ---
 title: Rectifying Devices Within Windows Manager
-date: 2024-09-26T16:15:10.945Z
-updated: 2024-10-01T16:16:43.669Z
+date: 2024-10-01T22:13:00.226Z
+updated: 2024-10-06T17:18:26.822Z
 tags:
   - win11
   - win10
@@ -51,45 +51,39 @@ You can update the drivers through manager. Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785dc645de0d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Details** tab, then select**Hardware Ids** from the drop-down menu of**Property** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785de836c928.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) The Hardware Id Value should be like follows. The VEN code means vendor and the DEV code means device. (In the example below, the VEN code is 15AD and the device is 0740.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785df1376590.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Go to [https://pci-ids.ucw.cz/.](https://pci-ids.ucw.cz/) Then you can use the VEN code and the DEV code to figure out what the Base System Device stands for.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56e54a4e7b7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) After you figure out what the device is, you can go to the PC manufacturer’s website or the device manufacturer’s website to download the driver. It’s recommended to go to the PC manufacturer’s website first, as they may customize the driver.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 3: Update the Base System Device driver automatically**
@@ -106,17 +100,23 @@ You can update the drivers through manager. Follow these steps:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_all_ the drivers.  
  (You can upgrade to the [Pro version](https://tools.techidaily.com/drivereasy/download/) right now with a discount, or activate the 7-day free trial version. With the trial version, you will have access to_all features_ of the Pro version such as high-speed download and one-click install. You won’t be charged before your 7-day trial ends and you can easily cancel any time during the trial period.)
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/graphic-chipset.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) After updating the driver, check to see if you still see the yellow mark in Device Manager.
 
@@ -140,22 +140,18 @@ You can update the drivers through manager. Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-make-youtube-videos-on-your-smartphone/"><u>[New] How To Make YouTube Videos on Your Smartphone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-strategies-for-efficiently-configuring-facebooks-instream-ads-for-2024/"><u>[New] Strategies for Efficiently Configuring Facebook's Instream Ads for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-leveraging-vocal-charisma-to-enrich-ppt-storytelling/"><u>[Updated] In 2024, Leveraging Vocal Charisma to Enrich PPT Storytelling</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unlock-ig-success-with-expert-insights-on-loop-videos/"><u>[Updated] Unlock IG Success with Expert Insights on Loop Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978490565-download-intel-processor-drivers-fast-and-simple-get-them-now/"><u>Download Intel Processor Drivers Fast and Simple - Get Them Now!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-troubleshooting-guide-resolving-itbm-driver-errors-instantly/"><u>Easy Troubleshooting Guide: Resolving ITBM Driver Errors Instantly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-asus-webcam-connectivity-problem-in-win11/"><u>Fixed ASUS Webcam Connectivity Problem in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-iphone-usb-device-driver-problems-successful-guidance/"><u>Fixing iPhone USB Device Driver Problems - Successful Guidance</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-13-pro-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 13 Pro without Password?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-y02t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo Y02T Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-driver-updates-on-the-hp-envy-2n-pc-series-a-user-friendly-guide/"><u>Mastering Driver Updates on the HP ENVY 2N PC Series - A User-Friendly Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/save-big-leading-discounts-on-computers-and-notebooks-this-year/"><u>Save Big: Leading Discounts on Computers and Notebooks This Year</u></a></li>
-<li><a href="https://driver-error.techidaily.com/sounds-clear-driver-issue-resolved-hidef/"><u>Sounds Clear: Driver Issue Resolved (HiDef)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/steps-towards-a-reliable-nvidia-driver-setup/"><u>Steps Towards a Reliable Nvidia Driver Setup</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-apple-airpods-pro-gear-and-supplies/"><u>Top-Rated Apple AirPods Pro Gear & Supplies</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-and-resolve-unrecognized-devices-on-windows-11-8-and-e/"><u>Troubleshoot and Resolve Unrecognized Devices on Windows 11, 8 & E</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disk-issue-100-usage-on-windows-10/"><u>[Disk] Issue: 100% Usage on Windows 10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-ringtone-riches-where-to-acquire-vintage-melodies-online/"><u>[New] Ringtone Riches Where to Acquire Vintage Melodies Online</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repaired-no-light-on-asus-keys/"><u>[REPAIRED] No Light on ASUS Keys</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-art-of-perfect-sound-recording-zooming-into-excellence-for-podcasts/"><u>[Updated] 2024 Approved The Art of Perfect Sound Recording Zooming Into Excellence for Podcasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-charting-course-videos-as-catalysts-in-teaching/"><u>[Updated] Charting Course Videos as Catalysts in Teaching</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-the-art-of-remote-podcast-production/"><u>2024 Approved Mastering the Art of Remote Podcast Production</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-art-of-introducing-your-podcast/"><u>2024 Approved The Art of Introducing Your Podcast</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-tips-for-when-your-creative-pebble-bass-boost-speaker-fails-to-work/"><u>DIY Repair Tips for When Your Creative Pebble Bass Boost Speaker Fails to Work</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-driver-issues-resolved-solutions-for-devices-unsupported-by-windows-10-8-and-7/"><u>Fixing Driver Issues: Resolved Solutions for Devices Unsupported by Windows 10, 8 & 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-problem-of-undetected-usb-hardware-in-windows-operating-system/"><u>Fixing the Problem of Undetected USB Hardware in Windows Operating System</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfectly-pitched-headlines-maker-for-2024/"><u>Perfectly Pitched Headlines Maker for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-process-driver-downloads-and-updates-for-your-hp-envy-laptop/"><u>Step-by-Step Process: Driver Downloads & Updates for Your HP Envy Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-cast-to-device-problems-effective-fixes-revealed/"><u>Troubleshooting Windows 10 Cast to Device Problems – Effective Fixes Revealed</u></a></li>
 </ul></div>
 

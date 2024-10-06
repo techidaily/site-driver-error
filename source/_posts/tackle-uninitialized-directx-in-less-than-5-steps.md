@@ -1,7 +1,7 @@
 ---
 title: Tackle 'Uninitialized DirectX' In Less Than 5 Steps
-date: 2024-08-15T06:49:35.305Z
-updated: 2024-08-16T06:49:35.305Z
+date: 2024-10-02T21:01:50.237Z
+updated: 2024-10-06T20:42:51.617Z
 tags:
   - win11
   - win10
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
 ## Why does this error occur?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/unable-to-initialize-direct-9-device-gta5-warcraft-3-1024x701.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This error can occur for the following reasons:
 
@@ -62,12 +69,16 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/DEvice-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Expand**Display adapters** \> right click your graphics driver > select**Uninstall device** , and check the box**Delete the driver software for this device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/uninstall-graphics-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **Note:** If you have two display adapters, try disabling the onboard/integrated one.
 
@@ -75,9 +86,6 @@ This error can occur for the following reasons:
 
 4) Restart your PC and try running your game again to see if the problem still persists.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically
 
  If you don’t have the time, patience or computer skills to update your graphics card driver manually, you can**do it automatically** with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -90,6 +98,13 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update** next to the flagged graphics card driver to automatically download and install the correct version of the driver (you can do this with the FREE version).
 
 **OR**
@@ -97,15 +112,16 @@ This error can occur for the following reasons:
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click_Update All_ .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Direct3D Acceleration
 
  There might be something wrong with your DirectX settings. To see if this is the culprit, go to**DirectX Diagnostic Tool** to check if all your DirectX features are working normally (especially**Direct3D Acceleration**).
@@ -115,9 +131,6 @@ This error can occur for the following reasons:
  2) Go to the**Display** tab and check if**Direct3D Acceleration** is Enabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/direct-3D-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **Note:** If you have more than one video adapter, check each Display tab in the DirectX Diagnostic Tool.
 
@@ -125,9 +138,6 @@ This error can occur for the following reasons:
 
  If it shows**Disabled** or**Not Available** , then head to **[Direct3D Acceleration Not Available](https://tools.techidaily.com/drivereasy/download/)**  to further solve your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Enable DirectPlay
 
  1) In the Search bar, type**turn windows** , then click**Turn Windows feature on or off** .
@@ -140,7 +150,21 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/turn-on-DirectPlay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If that doesn’t work then you’ll need to find the**DX9 runtime installer** . ie.**DirectX folder**
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall DirectX Installer
 
@@ -149,9 +173,6 @@ This error can occur for the following reasons:
  1) Go to Microsoft’s **[DirectX End-User Runtimes download site](https://www.microsoft.com/en-us/download/details.aspx?id=35)**  and download Microsoft’s DirectX installer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 
  _This is the only officially supported way to check if the correct DirectX files are currently installed._
 
@@ -176,9 +197,18 @@ This error can occur for the following reasons:
  2) Click the**Service** s tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/disable-all.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Then click the**Startup** tab and select**Open Task Manager** .
@@ -188,9 +218,6 @@ This error can occur for the following reasons:
  4) Select every startup application and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/disable-all-startups.png)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Restart your PC and launch your game again.
 
@@ -204,8 +231,12 @@ This error can occur for the following reasons:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Good to go?
 
  Hopefully, one of the fixes above fixed your**Unable to initiate DirectX 9 device** problem. But if none of these worked for you, you can verify your game files in Steam or clean reinstall your game to fix the issue.
@@ -219,8 +250,6 @@ This error can occur for the following reasons:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,4 +257,21 @@ This error can occur for the following reasons:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeo-end-screen-how-to-add-end-screen-to-video-on-vimeo/"><u>[New] 2024 Approved Vimeo End Screen How to Add End Screen to Video on Vimeo?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-echo-chambers-advanced-mac-audio-techniques/"><u>[New] Echo Chambers Advanced Mac Audio Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-essential-tips-for-choosing-fpv-drone-blades/"><u>[New] Essential Tips for Choosing FPV Drone Blades</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-fix-for-devices-without-proper-drivers-in-windows-10-8-and-operating-systems/"><u>Easy Fix for Devices Without Proper Drivers in Windows 10, 8 & ^ Operating Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/experience-portable-power-the-new-minisforum-ti-touchscreen-mini-pc-ultra-9-cpu-inside/"><u>Experience Portable Power: The New MinisForum Ti Touchscreen Mini PC - Ultra 9 CPU Inside</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-s24-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-woes-masterful-fixes-for-a-seamless-typing-experience/"><u>HP Wireless Keyboard Woes? Masterful Fixes for a Seamless Typing Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extensive-analysis-the-complete-gear-360-camera-experience/"><u>In 2024, Extensive Analysis The Complete Gear 360 Camera Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-nonfunctional-right-click-windows-11-touchpad-armageddon-reversed/"><u>Overcoming Nonfunctional Right Click - Windows 11 Touchpad Armageddon Reversed</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-setup-of-microsoft-works-on-windows-10-and-11/"><u>Seamless Setup of Microsoft Works on WIndows 10 and 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/speedy-shutterbugs-iphones-quick-time-lapse-guide/"><u>Speedy Shutterbugs IPhone's Quick Time-Lapse Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-tutorial-on-activating-safe-mode-and-deleting-nvidiaamd-graphics-drivers-from-windows-8/"><u>Ultimate Tutorial on Activating Safe Mode and Deleting Nvidia/AMD Graphics Drivers From Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wdcsam64prewin8sys-core-isolation-not-active/"><u>wdcsam64_prewin8.sys: Core Isolation Not Active</u></a></li>
+</ul></div>
 

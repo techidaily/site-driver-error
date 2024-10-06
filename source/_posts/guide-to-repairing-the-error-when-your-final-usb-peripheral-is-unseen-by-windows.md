@@ -1,7 +1,7 @@
 ---
 title: Guide to Repairing the Error When Your Final USB Peripheral Is Unseen by Windows
-date: 2024-08-15T06:50:00.696Z
-updated: 2024-08-16T06:50:00.696Z
+date: 2024-09-30T23:13:14.732Z
+updated: 2024-10-06T20:25:20.121Z
 tags:
   - win11
   - win10
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/2b507e99a3bf554781726874cc0f5a38265095ead
 
  As mentioned, the exact cause could be very different in different situations, but there are some general resolutions that you should try before you turn to technicians. And one of the solutions below is bound to fix the problem for you. No worries, we’ve got you covered.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## How can I fix it?
 
  Here are 4 solutions for you to try. You may not have to try them all; just work your way down until you find the one works for you.
@@ -43,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/2b507e99a3bf554781726874cc0f5a38265095ead
  Method 3: [**Disable USB selective suspend settings**](https://exvist.pxf.io/dkpnky)
  Method 4:[](https://homestyler.sjv.io/y209g3) [**Re-enable USB controller driver**](https://bluettifr.pxf.io/bax2bv)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Try another USB port
 
  If you are with a desktop, try to connect your USB device to your computer via the USB ports at the back of your computer case. The USB ports at the back usually have stronger electricity power coming through, which will allow a more stable power supply to your USB device.
@@ -51,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/2b507e99a3bf554781726874cc0f5a38265095ead
 
  If your problem stops here, the USB port might be at fault, not your USB flash drive. Try to avoid using the same port next time, in case similar problem happens again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Method 2: Update all possible device drivers
 
  Another possibility for your not-recognized USB device is outdated, missing and/or faulty drivers. You should verify that all your devices have the right drivers, and update those that don’t. This is especially true for your motherboard driver, your USB port drivers, and your external hard drive driver.
@@ -68,13 +69,24 @@ thumbnail: https://thmb.techidaily.com/2b507e99a3bf554781726874cc0f5a38265095ead
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37710b44342.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged drivers to automatically download and install the correct versions (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the [**Pro**](https://tools.techidaily.com/drivereasy/download/) version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37721186152.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) You need to restart your PC for the updated drivers to work properly. Check if your USB device is recognized now.
@@ -91,30 +103,42 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377758f2bdc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Change plan settings** next to the plan option you’re having now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3777c0a811b.png)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377814e701a.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 
  4) Click to expand**USB settings** and**USB selective suspend setting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3778a48905d.png)
+
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Select**Disabled** from the drop-down option. Then click**Apply** and**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377b3cef938.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **NOTE** : If you’re using a laptop, click**On battery** , then**Disabled** from the drop-down menu.
 
@@ -133,9 +157,6 @@ Or click **Update All**  to automatically download and install the correct versi
  2) On the top bar, click**View** and then**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378723b37b6.png)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click to expand**Universal Serial Bus controllers.**
 
@@ -144,17 +165,10 @@ Or click **Update All**  to automatically download and install the correct versi
  3.1.1) Right-click them and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37894943164.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3.1.2) Click**Uninstall** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37895fbce37.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
  3.1.3) When the uninstall finishes, restart your computer. Then repeat the same procedure with the rest of the USB controllers marked by yellow exclamation marks or question marks one by one.
 
@@ -178,8 +192,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +199,20 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-a-step-by-step-approach-add-a-linked-url-to-your-tiktok-profile/"><u>[New] A Step-by-Step Approach Add a Linked URL to Your TikTok Profile</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-simple-steps-for-android-voice-recording-no-root/"><u>[New] In 2024, Simple Steps for Android Voice Recording (No Root)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-discovering-digital-dominance-which-is-superior-youtubes-shorts-or-tiktoks/"><u>[Updated] In 2024, Discovering Digital Dominance Which Is Superior, YouTubes Shorts or TikToks?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/cutting-edge-screen-recording-free-from-lag-frames-for-2024/"><u>Cutting-Edge Screen Recording Free From Lag Frames for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gadget-disallows-car-load/"><u>Gadget Disallows Car Load</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-final-step-guide-free-yourself-from-youtube-shorts/"><u>In 2024, Final Step Guide Free Yourself From YouTube Shorts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-fixed-operating-smoothly-on-windows-11/"><u>Keyboard Fixed, Operating Smoothly on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/no-account-necessary-a-guide-to-watching-instagram-stories/"><u>No-Account Necessary: A Guide to Watching Instagram Stories</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-windows-1110-blue-error-woes/"><u>Overcoming Windows 11/10 Blue Error Woes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successfully-repairing-non-functional-qualcomm-atheros-bluetooth-drivers-for-windows-10/"><u>Successfully Repairing Non-Functional Qualcomm Atheros Bluetooth Drivers for Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-solution-for-the-inoperative-keyboard-on-your-beloved-hp-notebook-fix-it-today-article-title-article-title-with-phase-descriptions402-character5/"><u>The Ultimate Solution for the 'Inoperative' Keyboard on Your Beloved HP Notebook - Fix It Today! (Article Title) — Article Title with Phase Descriptions—402 Characters</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-non-responsive-bluetooth-keyboards-in-windows-environments/"><u>Troubleshooting Non-Responsive Bluetooth Keyboards in Windows Environments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-system-stabilized-keyboard-ok/"><u>Windows 11 System Stabilized: Keyboard OK</u></a></li>
+</ul></div>
 

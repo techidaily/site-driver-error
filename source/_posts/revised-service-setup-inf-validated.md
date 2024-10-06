@@ -1,7 +1,7 @@
 ---
 title: "Revised Service Setup: INF Validated"
-date: 2024-08-09T08:56:50.173Z
-updated: 2024-08-10T08:56:50.173Z
+date: 2024-09-30T22:03:42.703Z
+updated: 2024-10-06T20:19:14.742Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/edd57a156bbf7df4d7711f42029b2540d33e03363
 
 ## Revised Service Setup: INF Validated
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/a-service-installation-section-in-this-inf-is-invalid.jpg)
 
  Fix a Service Installation Section in this INF is Invalid issue. Follow the steps in this article.
@@ -32,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/edd57a156bbf7df4d7711f42029b2540d33e03363
 2. [**Update the driver manually**](https://technitya.sjv.io/dkpn02)
 3. [**Install the missing driver files manually**](https://dhgate.sjv.io/5g6yb2)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Solution 1: Update the driver automatically
 
  Since you can’t update the driver via Windows Update, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to update the driver automatically.
@@ -47,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/edd57a156bbf7df4d7711f42029b2540d33e03363
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
 
  3) Click the **Update** button next to a flagged MTP USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -74,28 +65,26 @@ thumbnail: https://thmb.techidaily.com/edd57a156bbf7df4d7711f42029b2540d33e03363
 
  4) Select**Let me pick from a list of available drivers on my computer** and click**Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68744ea8804.png)
 
  5) In Device Manager, if you see the device shown as MTP USB device. You’ll see**MTP USB Device** listed in the list.**Highlight** it then click**Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687724c3ed9.jpg)
 
  If you see the device shown as Unknown Device. You’ll see an Android phone or Android device in the long list.**Highlight** it and click**Next** then select**MTP USB device** .
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68796507b2b.png)
 
  6) The driver will install automatically. You just need to wait for a while until the installation completes.
 
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
 
@@ -107,9 +96,23 @@ thumbnail: https://thmb.techidaily.com/edd57a156bbf7df4d7711f42029b2540d33e03363
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
 
@@ -129,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/edd57a156bbf7df4d7711f42029b2540d33e03363
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +139,20 @@ thumbnail: https://thmb.techidaily.com/edd57a156bbf7df4d7711f42029b2540d33e03363
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-deciding-on-the-best-upgrade-for-your-4k-vision/"><u>[New] 2024 Approved Deciding on the Best Upgrade for Your 4K Vision</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-zero-to-hero-crafting-an-authoritative-online-self/"><u>[New] From Zero to Hero Crafting an Authoritative Online Self</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-turning-still-memories-into-moments-in-motion/"><u>[New] Turning Still Memories Into Moments in Motion</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-error-code-48-in-device-manager/"><u>[SOLVED] Error Code 48 in Device Manager</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-spotlight-on-professional-shoots-innovative-lighting-techniques/"><u>[Updated] Spotlight on Professional Shoots Innovative Lighting Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-navigating-the-landscape-intricacies-of-using-the-background-eraser-feature/"><u>2024 Approved Navigating the Landscape Intricacies of Using the Background Eraser Feature</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/free-download-diverse-collection-of-escapist-entertainment-games-movies-series-and-more/"><u>Free Download: Diverse Collection of Escapist Entertainment - Games, Movies, Series & More!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-harnessing-creative-energy-for-impactful-lyric-videos-and-lyric-video-maker/"><u>In 2024, Harnessing Creative Energy for Impactful Lyric Videos & Lyric Video Maker</u></a></li>
+<li><a href="https://driver-error.techidaily.com/iphone-usb-connection-fixed-resolving-the-mtp-device-driver-problem/"><u>IPhone USB Connection Fixed: Resolving the MTP Device Driver Problem</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/scriptwriting-mastery-conveying-emotions-through-words/"><u>Scriptwriting Mastery Conveying Emotions Through Words</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-usb-wire-connection-problem-poweredge/"><u>Troubleshoot USB-WIRE Connection Problem, PowerEdge</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-windows-7-bsod-with-stop-code-0x0000007e/"><u>Troubleshooting Guide: Resolving Windows 7 BSOD with Stop Code 0X0000007E</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-os-missing-data-acquisition-device/"><u>Win OS Missing Data Acquisition Device</u></a></li>
+</ul></div>
 

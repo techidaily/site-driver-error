@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Changes Impact Realtek LAN Driver
-date: 2024-08-15T06:51:40.537Z
-updated: 2024-08-16T06:51:40.537Z
+date: 2024-10-05T22:39:00.377Z
+updated: 2024-10-06T19:03:40.137Z
 tags:
   - win11
   - win10
@@ -49,16 +49,10 @@ netsh int ip reset c:\resetlog.txt
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### **Option Two:** **Change Settings in Network Adapter Properties**
 
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de5537df74.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  2) Locate and click the arrow to expand category**Network adapters** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
@@ -70,11 +64,22 @@ netsh int ip reset c:\resetlog.txt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de6ed4d026.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) On the**Value** bar, change the default Auto Negotiation to **100 Mbps Full Duplex**  or some other options accordingly. We chose**100 Mbps Full Duplex** here, but yours could be different.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587deb007e7e1.png)
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Now on the left side of the pane, choose**Energy Efficient Ethernet** option, then change the Value to**Disabled** . After the changes, hit**OK** to save.
@@ -85,32 +90,34 @@ netsh int ip reset c:\resetlog.txt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587decc3276b5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Option Three:** **Reinstall or Rollback Realtek Adapter Driver**
 
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de5537df74.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
  2) Locate and click the arrow to expand the category**Network adapters** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
  3) Then right-click click**Realtek PCIe GBE Family Controller** option and then choose**Uninstall** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee15b99f3.png)
+
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hit**OK** to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee50286a0.png)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Go to the menu bar on the top and click the button for **Scan for hardware changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee9a707c2.png)
@@ -122,8 +129,12 @@ netsh int ip reset c:\resetlog.txt
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option Four: Update the Realtek Driver**
 
  The steps above may help you resolve the issue, but if they don’t, you can try to update the Realtek driver. If you don’t have time, patience, or computer skills to update the driver manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**
@@ -146,6 +157,13 @@ netsh int ip reset c:\resetlog.txt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-network-adapter-driver.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hopefully the tips above help you fix the Realtek Ethernet Controller driver not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 * [Realtek](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
@@ -156,8 +174,6 @@ netsh int ip reset c:\resetlog.txt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +181,18 @@ netsh int ip reset c:\resetlog.txt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-illuminated-keyback-not-working-asus/"><u>[FIXED] Illuminated Keyback Not Working - ASUS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-how-to-screen-record-netflix-on-mac/"><u>[Updated] How to Screen Record Netflix on Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-reclaiming-windows-photo-viewer-in-windows-10-methods-demystified/"><u>[Updated] Reclaiming Windows Photo Viewer in Windows 10 - Methods Demystified</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-review-of-the-latest-facetune-features-and-fixes/"><u>2024 Approved Full Review of the Latest Facetune Features and Fixes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-the-airwaves-lenovo-in-win10/"><u>Mastering the Airwaves: Lenovo in Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-lenovo-connectivity-woes-on-windows-11/"><u>Resolving Lenovo Connectivity Woes on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-firmware-conflict-on-precision-3252/"><u>Solve Firmware Conflict on Precision 3252</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-how-to-fix-unrecognized-hardware-warnings-in-idt-software-packages/"><u>Troubleshooting Guide: How to Fix Unrecognized Hardware Warnings in IDT Software Packages</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-expert-approved-highlight-video-makers-for-any-device/"><u>Updated 2024 Approved Expert-Approved Highlight Video Makers for Any Device</u></a></li>
+</ul></div>
 

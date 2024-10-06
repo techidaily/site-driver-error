@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Windows Not Supporting Nvidia Cards"
-date: 2024-09-30T16:05:33.818Z
-updated: 2024-10-01T16:08:04.514Z
+date: 2024-10-05T20:50:59.466Z
+updated: 2024-10-06T16:22:52.060Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Show hidden devices
@@ -46,40 +46,28 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/windows11showhiddendevices.jpg)
 3. Click **Action** \> **Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9234ccb8e93.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Check if your Nvidia graphics driver shows up under the **Display adapters** category as a gray-out device, i.e. it looks pale compared to other functioning devices. If so, right-click your Nvidia display card and select**Uninstall device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-30.png)
 5. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-32.png)
 6. Then restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. If the Nvidia display card remains disappeared when your computer restarts, don’t worry, move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
@@ -110,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Repair corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -128,7 +109,21 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -155,15 +150,20 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/solved-minecraft-keeps-freezing-on-pc-2024-tips/"><u>[Solved] Minecraft Keeps Freezing on PC – 2024 Tips</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-capture-your-gaming-moments-xbox-one-screenshots-made-simple-for-2024/"><u>[Updated] Capture Your Gaming Moments Xbox One Screenshots Made Simple for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-remove-pending-videos-from-your-youtube-history/"><u>[Updated] In 2024, How to Remove Pending Videos From Your YouTube History</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-overcoming-youtube-buffering-a-step-by-step-guide/"><u>[Updated] Overcoming YouTube Buffering A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/amd-radeon-wattman-resets-solved-restoring-stability-on-your-graphics-card/"><u>AMD Radeon WattMan Resets Solved: Restoring Stability On Your Graphics Card</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbot-face-off-which-is-more-proficient-at-coding-chatgpt-or-gemini/"><u>Chatbot Face-Off: Which Is More Proficient at Coding, ChatGPT or Gemini?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hd-audio-a-win11-victory/"><u>HD Audio: A Win11 Victory</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-envy-20-series-update-and-download-driver-instructions/"><u>HP Envy 20 Series - Update & Download Driver Instructions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-port-communication-issue/"><u>Solve Port Communication Issue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-why-your-ipad-is-unable-to-locate-or-connect-to-a-printer/"><u>Troubleshooting: Why Your iPad Is Unable to Locate or Connect to a Printer</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-free-online-conversion-6-best-tiktop-to-mp3-extractors/"><u>[New] In 2024, Free Online Conversion 6 Best TikTop to MP3 Extractors</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-millions-watch-but-how-much-do-they-earn-for-2024/"><u>[Updated] Millions Watch, But How Much Do They Earn for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-the-veil-insta-story-exploration-without-trace/"><u>[Updated] Unveiling the Veil Insta Story Exploration without Trace</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/capturing-dynamic-action-sequences-on-iphone-for-2024/"><u>Capturing Dynamic Action Sequences on iPhone for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cheer-up-wacom-says-goodbye-to-connection-troubles/"><u>Cheer Up! Wacom Says Goodbye to Connection Troubles</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-15-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 15 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-keyboard-shortcuts-that-power-up-win11/"><u>In 2024, Keyboard Shortcuts That Power Up Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-bluetooth-auto-activation-in-win11/"><u>Overcoming Bluetooth Auto-Activation in Win11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-visual-issues-restoring-color-accuracy-and-flat-images-on-your-desktop-display/"><u>Overcoming Visual Issues: Restoring Color Accuracy & Flat Images on Your Desktop Display</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-and-windows-10-fixing-your-unresponsive-bluetooth-driver-step-by-step-solutions/"><u>Qualcomm Atheros and Windows 10: Fixing Your Unresponsive Bluetooth Driver - Step-by-Step Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-os-anomaly-windows-irql-fix/"><u>Resolving OS Anomaly: Windows IRQL Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solutions-to-correctly-install-hcmon-device-drivers-after-failure/"><u>Solutions to Correctly Install HCMON Device Drivers After Failure</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-usb-installation-failures-caused-by-access-denied-messages/"><u>Troubleshooting USB Installation Failures Caused by Access Denied Messages</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unwanted-bluetooth-stayin-fix-for-windows-11/"><u>Unwanted Bluetooth Stayin': Fix for Windows 11</u></a></li>
 </ul></div>
 

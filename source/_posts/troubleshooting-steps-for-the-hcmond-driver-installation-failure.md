@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for the ‘Hcmond Driver Installation Failure’
-date: 2024-08-09T08:57:00.066Z
-updated: 2024-08-10T08:57:00.066Z
+date: 2024-09-29T20:53:12.328Z
+updated: 2024-10-06T21:25:05.423Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/b95ff97ef31c24150b8b202a85720fb4906b9c98a
 
  If you get error “Failed to install the hcmon driver” during installing the VMware products (vSphere, Remote Console, etc.),  don’t worry. You can fix the problem with one of the solutions in this article.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What is the HCMON driver?
 
  HCMON driver is a virtual USB driver. It allows your physical USB ports to connect to the virtual machines.
@@ -36,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/b95ff97ef31c24150b8b202a85720fb4906b9c98a
  Solution 4:**[Install the product using PowerShell](https://printrendy.pxf.io/xyboy5)**
  Solution 5: **[Install .NET Framework 3.5.1](https://ursime.pxf.io/r5bm57)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Solution 1: Install the product as an administrator
 
  When you install the product, you’re required to install the hcmon driver. Windows may see this as a user adding hardware to the PC. But this user doesn’t have the permission to do that. In this case, this error may occur. Try to install the product as an administrator:
@@ -47,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/b95ff97ef31c24150b8b202a85720fb4906b9c98a
 
 2) Click**Run as administrator** . If you don’t see the option “Run as administrator”, this solution doesn’t apply to you. Skip then move on to other solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca09694f9d6.png)
 
 ##
@@ -72,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/b95ff97ef31c24150b8b202a85720fb4906b9c98a
 
  3) Click the **Update** button next to the flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca0a7166942.jpg)
 
 ##
@@ -88,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/b95ff97ef31c24150b8b202a85720fb4906b9c98a
  2) Click**View** \>**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca0ccee9685.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Double-click**Non-Plug and Play Drivers.**
 
@@ -105,12 +100,14 @@ Try to install the product in PowerShell. Follow steps below:
 
  1) Type “powershell” in the search field. Right-click**Windows PowerShell** (The name may be different depending on the Windows version you’re using.) and click**Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca0f0ca0506.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Go to the location where you saved the setup file. This is to get the msi name.
 
@@ -118,20 +115,41 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 In my case, my file is “VMware-VMRC-10.0.1-5898794”:
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca1311509ab.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 So I typed “.\\VMware-VMRC-10.0.1-5898794.msi”:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca13ea65f0f.png)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 5:Install .NET Framework 3.5.1
 
  To install the product successfully, ensure your computer has installed .NET Framework 3.5.1\. If not, install it.
@@ -147,8 +165,6 @@ So I typed “.\\VMware-VMRC-10.0.1-5898794.msi”:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +172,24 @@ So I typed “.\\VMware-VMRC-10.0.1-5898794.msi”:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-pixels-perfection-leading-online-photo-correction-tech/"><u>[New] Pixels Perfection Leading Online Photo Correction Tech</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-xs-100-i-bring-your-movies-to-life-with-revolutionary-technology/"><u>[Updated] In 2024, XS 100 I Bring Your Movies to Life with Revolutionary Technology</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-perfect-loop-technique-for-all-your-youtube-favorites/"><u>[Updated] The Perfect Loop Technique for All Your YouTube Favorites</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-sony-xperia-1-v-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-insider-secrets-for-smarter-pixlr-usage/"><u>10 Insider Secrets for Smarter Pixlr Usage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-making-popular-tiktok-sounds-your-ringtone/"><u>2024 Approved Mastering the Art of Making Popular TikTok Sounds Your Ringtone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/core-isolation-disabled-wdcsam64prewin8sys-fixed/"><u>Core Isolation Disabled: wdcsam64_prewin8.sys Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/end-of-the-line-for-mouse-stutters/"><u>End of the Line for Mouse Stutters</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhancing-bluetooth-compatibility-lenovo-and-win10/"><u>Enhancing Bluetooth Compatibility: Lenovo and Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-sidestep-directx-9-initialization-snags/"><u>How to Sidestep DirectX 9 Initialization Snags</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-6s-plus-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 6s Plus to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-revolutionizing-communication-real-time-ai-voice-changer/"><u>New Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/techniques-to-overcome-enex-driver-launch-issue-in-win11/"><u>Techniques to Overcome eNEX Driver Launch Issue in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/universal-compatible-pci-device-suite/"><u>Universal Compatible PCI Device Suite</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unleash-your-potential-on-telegram-a-comprehensive-marketing-guide/"><u>Unleash Your Potential on Telegram A Comprehensive Marketing Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-keys-unresponsive/"><u>Windows 10: Keys Unresponsive</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-and-gtx-950-code-43-error-a-detailed-guide-to-finding-a-solution/"><u>Windows 11 and GTX 950 Code 43 Error: A Detailed Guide to Finding a Solution</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solved Error #48 on Device Hub
-date: 2024-09-25T16:00:26.024Z
-updated: 2024-10-01T16:04:15.738Z
+date: 2024-10-02T17:21:05.220Z
+updated: 2024-10-06T21:02:06.189Z
 tags:
   - win11
   - win10
@@ -39,10 +39,10 @@ To check if the device is running into the error code 48:
 4. **[Run the System File Checker and the Windows Memory Diagnostic Test](https://parisrhonecom.sjv.io/zqobqr)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Update your driver
@@ -56,13 +56,6 @@ To check if the device is running into the error code 48:
 Or
 
 **[Option 2: Automatically (Recommended)](https://www.drivereasy.com/knowledge/asus-usb-bt500-bluetooth-5-0-usb-adapter-driver/#h-option-2-update-the-asus-usb-bt500-bluetooth-driver-automatically-recommended)**  – This might be the quickest and easiest way to get all the latest drivers for your computer. All you need is a few clicks.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1 – Download and install the driver manually
 
@@ -84,20 +77,20 @@ Or
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-drivers-with-Driver-Easy.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and [manually install them, the normal Windows way](https://tools.techidaily.com/drivereasy/download/) .)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your PC and check if this issue persists.
@@ -107,6 +100,13 @@ Or
  Normally, the error code 48 in Device Manager will be fixed after you update the drivers to the latest version.
 
  If not, you may need to try the fixes below one by one and then reinstall the latest drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Disable Hyper-V
 
@@ -125,13 +125,6 @@ Or
 4. Restart Windows 10 to see if the issue persists.
 
  If this fix didn’t work, try the next fix to turn off Memory Integrity.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Turn off Memory Integrity in Core isolation
 
@@ -163,10 +156,16 @@ See if this fix works. If not, try the next fix, below.
 3. Close the Command Prompt window after the process ie complete.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **To run the Windows Memory Diagnostic Test:**
@@ -177,6 +176,19 @@ See if this fix works. If not, try the next fix, below.
 
 ![Windows Memory Diagnostic](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-Memory-Diagnostic.jpg)
 3. Select**Restart now and check for problems (recommended)** to run the test immediately. Before restarting, you need to save your work and close any open programs. It may take some time to complete the test.  
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Check your computer for memory problems](https://images.drivereasy.com/wp-content/uploads/2021/04/Check-your-computer-for-memory-problems.jpg)
 
@@ -206,24 +218,21 @@ See if this fix works. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-accurate-ranking-of-top-tools-for-free-srt-transformations/"><u>[New] Accurate Ranking of Top Tools for FREE Srt Transformations</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-pixelpreserve-a-comprehensive-screen-record-review/"><u>[New] In 2024, 'PixelPreserve' A Comprehensive Screen Record Review</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-lenovos-secrets-to-effortless-screenshots/"><u>[New] In 2024, Lenovo's Secrets to Effortless Screenshots</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-navigating-the-ginger-isle-of-stardew-for-2024/"><u>[New] Navigating the Ginger Isle of Stardew for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-fix-for-iphone-video-length-and-scope-reduction/"><u>2024 Approved Quick-Fix for iPhone Video Length & Scope Reduction</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-your-computer-when-it-says-access-is-denied-during-usb-setup/"><u>Fix Your Computer When It Says Access Is Denied During USB Setup</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-hcom-monitor-drivers-installation-failures-efficiently/"><u>How to Resolve HCOM Monitor Drivers Installation Failures Efficiently</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-acclaimed-melody-hub-for-android-devices/"><u>In 2024, Acclaimed Melody Hub for Android Devices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-easy-guide-turning-your-favorite-youtube-videos-into-animated-gifs/"><u>In 2024, Easy Guide Turning Your Favorite YouTube Videos Into Animated GIFs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gentle-fading-audio-paths-in-live/"><u>In 2024, Gentle Fading Audio Paths in Live</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-micro-snippet-analysis-at-a-glance/"><u>In 2024, Micro Snippet Analysis at a Glance</u></a></li>
-<li><a href="https://driver-error.techidaily.com/post-windows-10-creators-update-my-prodigy-brio-webcam-vanished-here-are-solved-steps-to-reconnect-it-answered/"><u>Post Windows 10 Creators Update: My Prodigy Brio Webcam Vanished? Here Are Solved Steps to Reconnect It (Answered)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repair-bluetooth-nic-defects-in-optiplex/"><u>Repair Bluetooth NIC Defects in OptiPlex</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reviving-missing-data-collector-pci-win/"><u>Reviving Missing Data Collector PCI Win</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-fix-for-nonfunctional-qualcomm-atheros-bluetooth-in-windows-10/"><u>Step-by-Step Fix for Nonfunctional Qualcomm Atheros Bluetooth in Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-15-dolby-atmos-films-ultimate-selection-for-your-home-theater-experience/"><u>Top 15 Dolby Atmos Films: Ultimate Selection for Your Home Theater Experience</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solutions-for-hcmondriver-installation-issues/"><u>Troubleshooting and Solutions for Hcmondriver Installation Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/universal-device-compatibility-software/"><u>Universal Device Compatibility Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unveiling-the-causes-of-hardware-malfunctions-dm/"><u>Unveiling the Causes of Hardware Malfunctions (DM)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-zero-to-hero-achieving-1k-insta-buddies-in-30-days/"><u>[New] In 2024, From Zero to Hero Achieving 1K Insta Buddies in 30 Days</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-obs-full-screen-fix-announced/"><u>[New] In 2024, Obs Full-Screen Fix Announced</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-quick-tips-turning-off-igtv/"><u>2024 Approved Quick Tips Turning Off IGTV</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/beat-the-frustration-a-comprehensive-fix-for-nvidia-gtx-950-code-43-in-windows-10-environment/"><u>Beat the Frustration: A Comprehensive Fix for NVIDIA GTX 950 'Code 43' In Windows 10 Environment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/controller-fault-notification-at-idedevice/"><u>Controller Fault Notification at Idedevice</u></a></li>
+<li><a href="https://driver-error.techidaily.com/crafting-stable-nvidia-graphics-software/"><u>Crafting Stable Nvidia Graphics Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-ms-bda-with-gpu-display/"><u>Decoding MS BDA with GPU Display</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-mpow-bluetooth-driver-for-windows-1187-free-guide/"><u>Download and Update MPOW Bluetooth Driver for Windows 11/8/7 - Free Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortlessly-enhance-your-game-mouse-widow-7/"><u>Effortlessly Enhance Your Game Mouse Widow 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/huawei-p10-analysis-unveiling-performance-and-design-for-2024/"><u>Huawei P10 Analysis Unveiling Performance & Design for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/immerse-yourself-in-sound-how-logitechs-chorus-add-on-elevates-the-meta-quest-2-vr-experience-zdnet-insights/"><u>Immerse Yourself in Sound: How Logitech's Chorus Add-On Elevates the Meta Quest 2 VR Experience | ZDNET Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105199614-nexus-one-non-detection-in-linux-mint-cinnamon-solution-found/"><u>Nexus One Non-Detection in Linux Mint Cinnamon, Solution Found</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-ultimate-guide-to-professional-streaming-on-fb/"><u>The Ultimate Guide to Professional Streaming on FB</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721101803807-windows-navigate-and-fix-your-qualcomm-atheros-bluetooth-driver-problems-now/"><u>Windows Navigate and Fix Your Qualcomm Atheros Bluetooth Driver Problems Now!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105019442-windows-pc-no-response-when-trying-to-mute-or-disable-bluetooth/"><u>Windows PC: No Response when Trying to Mute or Disable Bluetooth</u></a></li>
 </ul></div>
 

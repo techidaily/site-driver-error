@@ -1,7 +1,7 @@
 ---
 title: Unresponsive Keys Issue in 10
-date: 2024-09-27T16:05:54.448Z
-updated: 2024-10-01T16:05:34.562Z
+date: 2024-10-03T19:53:18.110Z
+updated: 2024-10-06T16:24:43.222Z
 tags:
   - win11
   - win10
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Adjust your keyboard settings
@@ -52,22 +52,16 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Keyboard** .
 
@@ -87,30 +81,37 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
@@ -128,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
  2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
 
@@ -185,22 +179,17 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/days-gone-officially-released-on-pc-discover-the-updated-first-person-shooter-experience-now/"><u>'Days Gone': Officially Released on PC - Discover the Updated First-Person Shooter Experience Now</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-crop-companion-chronicles-ultimate-agrigames-to-bond-with-buddies/"><u>[New] 2024 Approved Crop Companion Chronicles Ultimate AgriGames to Bond with Buddies</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-game-changing-homes-in-blocktown-for-2024/"><u>[Updated] Game Changing Homes in Blocktown for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/celebrating-connectivity-wacoms-win/"><u>Celebrating Connectivity: Wacom's Win</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-hs60-mic-issue-heres-how-to-restore-its-functionality/"><u>Corsair HS60 Mic Issue? Here's How to Restore Its Functionality</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721105317336-fixing-the-unexpected-reset-of-your-radeon-wattman-stable-performance-now-achievable/"><u>Fixing the Unexpected Reset of Your Radeon Wattman - Stable Performance Now Achievable</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722960499017-get-your-windows-compatible-epson-et-2750-printing-drivers-instantly/"><u>Get Your Windows Compatible Epson ET-2750 Printing Drivers Instantly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hidef-audio-hub-alert-now-fixed/"><u>HiDef Audio Hub Alert Now Fixed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-screen-flip-up-issue-on-asus-laptop-easy-solutions-for-horizontal-video-display/"><u>How To Fix Screen Flip-Up Issue On Asus Laptop - Easy Solutions for Horizontal Video Display</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-7-advanced-mobile-applications-transforming-voice-clarity/"><u>In 2024, 7 Advanced Mobile Applications Transforming Voice Clarity</u></a></li>
-<li><a href="https://driver-error.techidaily.com/latest-cams-not-detected-on-new-pc-version-no-longer-lost-heres-how-i-did-it-answered-fixed/"><u>Latest Cam's Not Detected on New PC Version – No Longer Lost, Here’s How I Did It - Answered [Fixed]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reconnecting-seagate-hdd-to-windows-11-system/"><u>Reconnecting Seagate HDD to Windows 11 System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restore-touchpads-right-click-capability-in-windows-11/"><u>Restore Touchpad's Right-Click Capability in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-and-resolve-windows-10-taskbar-problems-a-comprehensive-step-by-step-guide/"><u>Troubleshoot and Resolve Windows 10 Taskbar Problems: A Comprehensive, Step-by-Step Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-unleash-your-creativity-the-top-10-free-webm-video-editors-for-2024/"><u>Updated Unleash Your Creativity The Top 10 Free WebM Video Editors for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wacoms-joy-all-connected-no-more-struggles/"><u>Wacom's Joy: All Connected, No More Struggles</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-comprehensive-look-at-apeaksofts-recording-software/"><u>[Updated] 2024 Approved The Comprehensive Look at Apeaksoft’s Recording Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-5-easy-steps-to-record-voice-on-your-windows-11-pc-for-2024/"><u>[Updated] 5 Easy Steps to Record Voice on Your Windows 11 PC for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-tips-for-uninterrupted-obs-video-playback-for-2024/"><u>[Updated] Tips for Uninterrupted OBS Video Playback for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/captivating-concepts-explore-14-innovative-text-movements-for-2024/"><u>Captivating Concepts Explore 14 Innovative Text Movements for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-honor-magic-v2-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Honor Magic V2</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-solutions-for-resolving-access-is-denied-a-comprehveiw-of-usb-installation-issues/"><u>Effective Solutions for Resolving 'Access Is Denied': A Comprehveiw of USB Installation Issues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-tecno-spark-20-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Tecno Spark 20 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-lenovo-connectivity-woes-on-windows-11/"><u>Resolving Lenovo Connectivity Woes on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-firmware-conflict-on-precision-3252/"><u>Solve Firmware Conflict on Precision 3252</u></a></li>
+<li><a href="https://driver-error.techidaily.com/taming-the-waves-lenovos-win10-bluetooth-fixes/"><u>Taming the Waves: Lenovo's Win10 Bluetooth Fixes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-6-best-free-divx-video-cutters-for-2024/"><u>Top 6 Best Free Divx Video Cutters for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-how-to-fix-unrecognized-hardware-warnings-in-idt-software-packages/"><u>Troubleshooting Guide: How to Fix Unrecognized Hardware Warnings in IDT Software Packages</u></a></li>
 </ul></div>
 

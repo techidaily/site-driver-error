@@ -1,7 +1,7 @@
 ---
 title: Reviving Lenovo BT with Win11 Expertise and Know-How
-date: 2024-09-24T16:04:35.760Z
-updated: 2024-10-01T16:08:07.154Z
+date: 2024-10-01T21:04:14.977Z
+updated: 2024-10-06T17:25:50.388Z
 tags:
   - win11
   - win10
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 2: Enable discovery mode
@@ -68,28 +68,15 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e564dcca0a6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 3: Update Bluetooth driver
 
@@ -105,16 +92,23 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver-scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 4: Perform a refresh
 
@@ -138,21 +132,16 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-comparing-streaming-tools-the-verdict-on-xsplit-and-obs/"><u>[New] Comparing Streaming Tools The Verdict on XSplit & OBS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-to-updating-your-hp-asters-drivers-with-the-latest-version-for-model-840-g3/"><u>Complete Guide to Updating Your HP Asters' Drivers with the Latest Version for Model 840 G3.</u></a></li>
-<li><a href="https://driver-error.techidaily.com/default-amd-wattman-settings-collapse-and-recovery-complete-solution-guide/"><u>Default AMD Wattman Settings Collapse & Recovery: Complete Solution Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-ways-to-resolve-the-zlibdll-file-not-found-issue/"><u>Effective Ways to Resolve the 'zlib.dll File Not Found' Issue</u></a></li>
-<li><a href="https://driver-error.techidaily.com/faulty-driver-bcm20702a0-not-found/"><u>Faulty Driver - BCM20702A0 Not Found</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104314262-fix-cannot-disable-bluetooth-functionality-in-my-laptop-using-cortana/"><u>Fix: Cannot Disable Bluetooth Functionality in My Laptop Using Cortana.</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-8-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 8 System? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-15-pro-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 15 Pro</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-iphone-6-plus-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 6 Plus Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-review-the-full-story-of-theta-s-technology-for-2024/"><u>In-Depth Review The Full Story of Theta S Technology for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/prevent-regular-amd-driver-failures/"><u>Prevent Regular AMD Driver Failures</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-11-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 11 Pro Max Data From iTunes | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-fixes-for-windows-10s-asus-drivers/"><u>Step-By Step Fixes For Windows 10'S Asus Drivers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stuck-at-installing-apps-on-your-iphone-here-are-10-quick-fixes-to-get-them-working-again/"><u>Stuck at Installing Apps on Your iPhone? Here Are 10 Quick Fixes to Get Them Working Again.</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unblocking-stuck-usb-to-serial-connections/"><u>Unblocking Stuck USB to Serial Connections</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wudfrd-not-booting-device-event-id-219/"><u>WudfRd Not Booting, Device Event ID: 219</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-future-of-social-media-innovating-with-facebook-reels/"><u>[New] The Future of Social Media Innovating with Facebook Reels</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-leading-android-and-ios-timer-tools-reviewed-your-big-day-planners-must-haves/"><u>[Updated] 2024 Approved Leading Android & iOS Timer Tools Reviewed Your Big Day Planner's Must-Haves</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dvd-non-discovery-in-windows-11-resolved-quickly/"><u>DVD Non-Discovery in Windows 11 - Resolved Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eradicating-invalid-configuration-segment-in-inf/"><u>Eradicating Invalid Configuration Segment in INF</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-itel-p55-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Itel P55</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-safe-boot-in-windows-8-a-complete-guide-to-disable-and-reinstall-display-adapters/"><u>Mastering Safe Boot in Windows 8 - A Complete Guide to Disable and Reinstall Display Adapters</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-addressing-upgrade-issues-windows-11s-0x80246007/"><u>Swiftly Addressing Upgrade Issues: Windows 11'S 0X80246007</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-free-video-editing-made-easy-a-wax-tutorial-for-beginners/"><u>Updated 2024 Approved Free Video Editing Made Easy A Wax Tutorial for Beginners</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-compatibility-solving-broadcom-wi-fi-n-adapter-problems/"><u>Win Compatibility: Solving Broadcom Wi-Fi N Adapter Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-supports-asus-usb-camera-better-now/"><u>Windows 10 Supports ASUS USB Camera Better Now</u></a></li>
 </ul></div>
 

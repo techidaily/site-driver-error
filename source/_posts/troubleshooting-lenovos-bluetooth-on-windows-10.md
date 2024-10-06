@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Lenovo's Bluetooth on Windows 10
-date: 2024-09-27T16:08:06.399Z
-updated: 2024-10-01T16:01:13.892Z
+date: 2024-10-03T20:41:41.164Z
+updated: 2024-10-06T20:29:49.488Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7a64714f6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Expand **Bluetooth Radios**  or **Bluetooth** .
 
 **Note** : If you **cannot** see any items listed under Network adapters or Bluetooth Radios, please proceed to **Option 2** .
@@ -47,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7d4daf634.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) If you see a down arrow, your Bluetooth device is disabled, just right-click the item and click **Enable** .
@@ -67,16 +74,16 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e564dcca0a6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 3: Update Bluetooth driver
 
@@ -93,22 +100,15 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver-scan.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 4: Perform a refresh
 
@@ -132,18 +132,22 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-smartphone-solutions-top-voice-changer-applications/"><u>[New] Smartphone Solutions Top Voice Changer Applications</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-step-by-step-setting-up-snapchat-on-mac-for-2024/"><u>[Updated] Step-by-Step Setting Up Snapchat on Mac for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-utilizing-fb-features-for-broadcasting-historical-video-footage-for-2024/"><u>[Updated] Utilizing FB Features for Broadcasting Historical Video Footage for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-essential-online-locations-for-promoting-youtube-content/"><u>2024 Approved Essential Online Locations for Promoting YouTube Content</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-unlocking-tiktoks-pfp-secrets/"><u>2024 Approved Unlocking TikTok's PFP Secrets</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/a-game-changer-how-bandicams-2023-update-transforms-capturing-games-for-2024/"><u>A Game Changer How Bandicam's 2023 Update Transforms Capturing Games for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enhancing-acpi-functionality-in-asus-with-win10/"><u>Enhancing Acpi Functionality in ASUS with Win10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-how-to-fix-your-broken-logiteche-g633-headset-microphone/"><u>Expert Advice on How to Fix Your Broken Logiteche G633 Headset Microphone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-the-art-of-repairing-nvidia-codes/"><u>Mastering the Art of Repairing Nvidia Codes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-network-interface-misbehavior-dell-vostro/"><u>Resolve Network Interface Misbehavior, Dell Vostro</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-evolution-of-usb-technology-addressing-issues-with-usb-composite-devices/"><u>The Evolution of USB Technology: Addressing Issues with USB Composite Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/triumph-over-windows-11-solving-elan-driver-conflicts/"><u>Triumph Over Windows 11: Solving Elan Driver Conflicts</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-the-reign-of-your-online-photographs/"><u>Unveiling the Reign of Your Online Photographs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dive-into-the-world-of-youtube-shorts-mastering-video-creation/"><u>[New] 2024 Approved Dive Into the World of YouTube Shorts Mastering Video Creation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-mobile-mastery-in-thumbnail-creation-for-engaging-youtube-videos/"><u>[New] 2024 Approved Mobile Mastery in Thumbnail Creation for Engaging YouTube Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-windows-ignores-nvidia-graphics/"><u>[RESOLVED] Windows Ignores Nvidia Graphics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ice-cream-video-recorder-exploration-in-depth/"><u>[Updated] Ice Cream Video Recorder Exploration in Depth</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-virtual-visage-creation-shaping-your-exaggerated-image-for-2024/"><u>[Updated] Virtual Visage Creation Shaping Your Exaggerated Image for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/android-and-iphone-users-benefit-from-revamped-google-drive-interface/"><u>Android & iPhone Users Benefit From Revamped Google Drive Interface</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-infinix-note-30-vip-racing-edition-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Infinix Note 30 VIP Racing Edition to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/end-automatic-uninstall-cycle-for-drivers-solution-found/"><u>End Automatic Uninstall Cycle for Drivers: Solution Found</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-missing-driver-issues-on-windows-10-8-and-7-a-comprehensive-guide/"><u>Fixing Missing Driver Issues on Windows 10, 8, and 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/halt-the-cycle-no-more-nvidia-driver-deletions/"><u>Halt the Cycle: No More Nvidia Driver Deletions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-windows-photos-experience-with-music-and-aesthetic-filters/"><u>In 2024, Streamlining Windows Photos Experience with Music and Aesthetic Filters</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/innovative-design-meets-practicality-experience-the-comfort-of-using-a-foldable-moko-bluetooth-keyboard-anywhere/"><u>Innovative Design Meets Practicality – Experience the Comfort of Using a Foldable MoKo Bluetooth Keyboard Anywhere</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-how-to-install-missing-drivers-on-your-windows-10-8-or-7-machine/"><u>Resolved: How to Install Missing Drivers on Your Windows 10, 8 or 7 Machine</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-best-value-smartwatch-an-in-depth-look-at-fitbit-versa-reviews/"><u>The Best Value Smartwatch? An In-Depth Look at Fitbit Versa Reviews</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-logitech-brio-webcam-unrecognized-post-windows-10-update-solved/"><u>Troubleshooting Logitech Brio Webcam Unrecognized Post-Windows 10 Update [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tutorial-keeping-your-hp-envy-20-series-device-current-with-latest-drivers/"><u>Tutorial: Keeping Your HP Envy 20 Series Device Current with Latest Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-streamline-your-bluetooth-drivers/"><u>Windows 10: Streamline Your Bluetooth Drivers</u></a></li>
 </ul></div>
 

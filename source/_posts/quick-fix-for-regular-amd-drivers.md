@@ -1,7 +1,7 @@
 ---
 title: Quick Fix for Regular AMD Drivers
-date: 2024-08-09T08:56:46.116Z
-updated: 2024-08-10T08:56:46.116Z
+date: 2024-10-04T23:24:26.811Z
+updated: 2024-10-06T16:43:32.429Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 2. [**Roll back the faulty AMD driver**](https://zebaoaffiliateprogram.pxf.io/xkwqe1)
 3. **[Repair system files](https://newchic.sjv.io/jzg4zq)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Update the faulty AMD driver (nearly always fixes the problem)
 
  Perhaps the most common cause of the**AMD driver crash** error is an outdated or corrupt AMD driver. So you should update your AMD drivers to see if it fixes the problem.  If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -39,11 +46,15 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/12/AMD-Radeon-RX-6700-XT.jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -56,22 +67,34 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 Here’s how:
 
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 2. Locate on **the faulty AMD driver** and double-click on it.
-3. Click the **Driver** tab and then click **Roll Back Driver** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. Click the **Driver** tab and then click **Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-1.png)
 4. Click **Yes** to confirm. Then the driver will be restored to a previous version.
 5. **Restart** you computer and check if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Repair system files
 
  Missing, corrupt or damaged system files may cause display drivers to crash. To eliminate this issue as a possible cause, you can try the 2 ways below to repair possible system file issues.
@@ -79,10 +102,6 @@ Here’s how:
 1. [**Repair & replace corrupt system files with Fortect**](https://tinyland.pxf.io/org4ra)
 2. [**Run SFC scan**](https://homestyler.sjv.io/y209g3)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Repair & replace corrupt system files with Fortect
 
  The driver crashing issue could be caused by corrupt system files.[**Fortect**](https://tools.techidaily.com/drivereasy/download/) is a tool that specializes in Windows repairing and fixes corrupt files automatically.
@@ -108,9 +127,6 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/cmd-run-as-admin-1.jpg)
 2. Click**Yes** when prompted to confirm.
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -129,8 +145,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +152,23 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-streaming-software-showdown-choosing-between-obs-and-streamlabs/"><u>[New] 2024 Approved Streaming Software Showdown Choosing Between OBS and Streamlabs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-revolutionize-your-gaming-by-recording-on-win10-for-2024/"><u>[New] Revolutionize Your Gaming by Recording on Win10 for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-affordable-android-chat-options-rated-top-ten/"><u>[Updated] In 2024, Affordable Android Chat Options Rated Top Ten</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-uncomplicated-walkthrough-of-easy-iphone-screen-capture/"><u>[Updated] Uncomplicated Walkthrough of Easy iPhone Screen Capture</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-revenue-realization-strategies-for-successful-monetization-on-youtube-mobile/"><u>2024 Approved Revenue Realization Strategies for Successful Monetization on YouTube Mobile</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capture-the-world-through-the-lens-of-mi-11/"><u>Capture the World Through the Lens of Mi 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-iphone-15-plus-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From iPhone 15 Plus</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gfx-analysis-the-role-of-basic-display-adapter-bda/"><u>GFX Analysis: The Role of Basic Display Adapter (BDA)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/installation-errors-correct-missing-drivers-on-windows-1187-here-solved/"><u>Installation Errors? Correct Missing Drivers on Windows 11/8/7 Here [SOLVED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104830483-no-more-bluesetbacks-windows-fixes-here/"><u>No More Bluesetbacks: Windows Fixes Here</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-invalid-installation-warnings-what-to-do-when-drivers-fail-on-your-pc/"><u>Resolving Invalid Installation Warnings: What To Do When Drivers Fail on Your PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-touchpad-functionality-after-driver-loss/"><u>Restoring Touchpad Functionality After Driver Loss</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solutions-to-common-driver-problems-in-dm/"><u>Solutions to Common Driver Problems in DM</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-using-steelseries-keyboards-engine-driver/"><u>Step-by-Step Guide to Downloading and Using SteelSeries Keyboard's Engine Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-quick-and-easy-method-to-solve-a-nonworking-or-stuck-pclaptop-keyboard-guide-for-fixed-up-article-title-step-descriptions409-chars/"><u>The Quick & Easy Method to Solve a Nonworking or Stuck PC/Laptop Keyboard – Guide for Fixed-Up (Article Title)– Step Descriptions—409 Chars</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/windows-1011-grab-your-desk-view/"><u>Windows 10/11 Grab Your Desk View</u></a></li>
+</ul></div>
 

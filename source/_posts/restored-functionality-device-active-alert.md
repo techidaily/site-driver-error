@@ -1,7 +1,7 @@
 ---
 title: "Restored Functionality: Device Active Alert"
-date: 2024-09-25T16:04:15.237Z
-updated: 2024-10-01T16:09:40.381Z
+date: 2024-10-03T22:48:00.405Z
+updated: 2024-10-06T18:20:20.685Z
 tags:
   - win11
   - win10
@@ -39,10 +39,10 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 If the problem persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -57,14 +57,14 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 3. Click the **Update** button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).Or click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall your device driver
 
@@ -73,13 +73,6 @@ Uninstalling your device driver is another solution you can try to fix **This de
 1. In Device Manager, right-click your device and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ea2541557.jpg)
 2. Restart your computer, and Windows will automatically reinstall the driver for your device.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -94,15 +87,29 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
  On desktop PCs, the CMOS battery is usually located in an exposed housing on the motherboard (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)  
  Example – CMOS battery on a desktop PC  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)  
  Example – CMOS battery on a laptop
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
@@ -111,10 +118,10 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
 7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -138,24 +145,24 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-expert-tips-download-youtube-playlists-in-minutes/"><u>[Updated] 2024 Approved Expert Tips Download YouTube Playlists in Minutes</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-benefits-of-upgrading-to-a-youtube-premium-account/"><u>[Updated] The Benefits of Upgrading to a YouTube Premium Account</u></a></li>
-<li><a href="https://driver-error.techidaily.com/asus-zenbook-laptop-non-detection-in-lubuntu-1804-fixed-it-56-characters/"><u>Asus ZenBook Laptop Non-Detection in Lubuntu 18.04 - Fixed It (56 Characters)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/audio-device-controller-issue-resolved/"><u>Audio Device Controller Issue Resolved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/compatibility-issue-overcome-n-adapter-fixed-on-windows-platform/"><u>Compatibility Issue Overcome: N Adapter Fixed on Windows Platform</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000093871-death-stranding-fixed-pc-version-stability-improvements/"><u>Death Stranding Fixed: PC Version Stability Improvements</u></a></li>
-<li><a href="https://driver-error.techidaily.com/decoding-windows-10-asus-acpi-errors-a-guide/"><u>Decoding Windows 10 Asus Acpi Errors: A Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-lacks-necessary-software/"><u>Device Lacks Necessary Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-nvidia-gpu-up-to-date-free-driver-downloads-for-windows-users-vista-7-10/"><u>Get Your NVIDIA GPU Up-to-Date: Free Driver Downloads for Windows Users (Vista, 7, 10)</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-6s-plus-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 6s Plus without Password?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-usb-installer-problems-when-you-get-an-access-is-denied/"><u>How to Resolve USB Installer Problems When You Get an 'Access Is Denied'</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-camstudio-screen-recorder-review-2023/"><u>In 2024, CamStudio Screen Recorder Review 2023</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-free-your-feed-beating-fbs-vids/"><u>In 2024, Free Your Feed Beating FB's Vids</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oneplus-ace-2v-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent OnePlus Ace 2V Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-v30t-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme V30T Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721096618625-qualcomm-atheros-bluetooth-drivers-wont-work-on-windows-10-discover-the-fix-now/"><u>Qualcomm Atheros Bluetooth Drivers Won't Work on Windows 10? Discover the Fix Now!</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-essential-guide-to-exploring-youtube-comments/"><u>The Essential Guide to Exploring YouTube Comments</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-how-to-deal-with-a-missing-amdintel-coprocessor-driver-in-windows-10/"><u>Troubleshooting: How to Deal with a Missing AMD/Intel Coprocessor Driver in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104552408-windows-10-missing-coprocessor-driver-solution-what-you-need-to-know/"><u>Windows 10 Missing Coprocessor Driver Solution - What You Need to Know!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-access-your-in-depth-look-at-fcp/"><u>[New] Full Access Your In-Depth Look at FCP</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-art-of-live-action-sims-4-playback/"><u>[New] The Art of Live-Action Sims 4 Playback</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-gearing-up-for-youtube-success-cross-platform-strategies/"><u>[Updated] Gearing Up for YouTube Success Cross-Platform Strategies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-proven-strategies-for-successful-youtube-shorts/"><u>[Updated] Proven Strategies for Successful YouTube Shorts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-opening-and-playing-srt-on-pcmac/"><u>2024 Approved Expert Tips Opening and Playing SRT on PC/Mac</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-y56-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo Y56 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/convert-youtube-to-mp3-safely-top-3-guided-approaches-for-2024/"><u>Convert YouTube to MP3 Safely Top 3 Guided Approaches for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevated-authenticity-meta-golden-star-vs-twitters-platinum-badge/"><u>Elevated Authenticity: Meta Golden Star Vs. Twitter's Platinum Badge</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensuring-smooth-recognition-of-unify-device-in-pcs/"><u>Ensuring Smooth Recognition of Unify Device in PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-to-correct-failed-to-install-hcmom-driver-mistakes/"><u>Expert Tips to Correct 'Failed to Install Hcmom Driver' Mistakes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphic-interpretation-of-ms-bda-functionality/"><u>Graphic Interpretation of MS BDA Functionality</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-enter-safe-mode-and-uninstall-graphics-card-driver-in-window-8/"><u>How to Enter Safe Mode and Uninstall Graphics Card Driver in Window 8?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/make-latest-oses-recognize-logitech-unifying-hub/"><u>Make Latest OSes Recognize Logitech Unifying Hub</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-the-adjustment-of-video-playback-direction-a-users-manual-for-asus-laptops-and-notebooks/"><u>Mastering the Adjustment of Video Playback Direction: A User's Manual for ASUS Laptops and Notebooks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/screenshot-synopsis-study-for-2024/"><u>ScreenShot Synopsis Study for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-qualcomm-atheros-bluetooth-connectivity-problems-on-windows-10/"><u>Solving Qualcomm Atheros Bluetooth Connectivity Problems on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-updating-and-downloading-drivers-for-your-hp-envy-20/"><u>Step-by-Step Guide: Updating and Downloading Drivers for Your HP Envy 20</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-resolving-wireless-keyboard-connectivity-problems-on-windows-systems/"><u>Step-by-Step Solution for Resolving Wireless Keyboard Connectivity Problems on Windows Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-essential-guide-to-youtube-time-tracking-for-2024/"><u>The Essential Guide to YouTube Time Tracking for 2024</u></a></li>
 </ul></div>
 

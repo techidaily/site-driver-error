@@ -1,7 +1,7 @@
 ---
 title: Reinstating eNEX Drivers After Unsuccessful Load on Windows 11
-date: 2024-08-09T08:56:18.657Z
-updated: 2024-08-10T08:56:18.657Z
+date: 2024-10-02T17:23:01.882Z
+updated: 2024-10-06T19:56:27.694Z
 tags:
   - win11
   - win10
@@ -34,8 +34,12 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1\. Turn off the memory Integrity setting
 
  ene.sys is a system file related to EneTechIo or EneIo, developed by ENE Technology, usually installed with driver software for ENE Technology’s hardware products. If you don’t have a hardware device from ENE specifically but still have the error message about ene.sys, then please check to see if there’s a program controlling the RGB lighting on your keyboard and/or mouse.
@@ -45,8 +49,23 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 1. On your keyboard, press the**Windows** key and type**core isolation** , then select**Core Isolation** from the list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-36.png)
 2. Toggle off the option for Memory integrity.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-37.png)
 3. Restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then see if the_**ene.sys driver cannot load error**_ still remains. If the error message is still seen, please repeat the above to toggle on the option for Memory Integrity, then move on to the next step.
 
@@ -55,8 +74,12 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Rename the ene.sys file
 
  As mentioned, ene.sys is a file that comes with a third-party hardware device. From what we know, it’s not a malicious file or driver: Windows Defender can be a bit sensitive about this issue. So to fix the ene.sys driver cannot load error, you can try to rename this file, so Windows Defender will skip it when running another scan. To rename ene.sys:
@@ -65,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 2. On your keyboard, press the**Windows** key and the**E** key at the same time to open**File Explorer** .
 3. Then go to**`C:\Windows\System32\drivers`** , and find the**ene.sys** file there.
 4. Rename the ene.sys file to something like**eneold.sys** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-38.png)
 5. When asked for permission, click**Continue** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-39.png)
@@ -86,20 +106,28 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 2. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 3. Click**View installed updates** on the right pane.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-40.png)
 4. Click the**Uninstall** button to remove the latest Windows update patch before the**_ene.sys driver cannot load error_** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-41.png)
 5. Restart your computer afterward.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if the ene.sys driver cannot load error still remains after uninstalling the last Windows update. If so, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run Program Compatibility Troubleshooter
 
@@ -108,29 +136,22 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 1. On your keyboard, press the**Windows** key and the**R** key together. Copy and paste**ms-settings:troubleshoot** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-42.png)
 2. Select**Other troubleshooters** .  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-43.png)
 3. Find**Program Compatibility Troubleshooter** , and click the**Run** button next to it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-44.png)
 4. See if you can find any**ene.sys** \-related app from the list. If not, select**Not listed** and click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-45.png)
 5. **Browse** to the location where your ene.sys file is, and click**Next** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-46.png)
 6. Tick the boxes that fits your description, and click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-47.png)
 7. Then follow the on-screen instructions to run the tourbleshooter.
 
@@ -151,9 +172,6 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
 
@@ -171,8 +189,6 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +196,24 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-apowersoft-revisited-comparative-review-of-screen-recording-tech/"><u>[New] Apowersoft Revisited Comparative Review of Screen Recording Tech</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-slapstick-selection-twitters-funny-threads/"><u>[Updated] Slapstick Selection Twitter's Funny Threads</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-best-meme-text-generators-to-use/"><u>2024 Approved Best Meme Text Generators to Use</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/crucial-top-5-compact-action-recorder-recommendations-for-2024/"><u>Crucial Top 5 Compact Action Recorder Recommendations for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-how-to-address-the-absent-coprocessor-driver-error-on-windows-11/"><u>Fix Guide: How to Address the Absent Coprocessor Driver Error on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-card-interrupt-handling-optimized/"><u>Graphics Card Interrupt Handling Optimized</u></a></li>
+<li><a href="https://win11.techidaily.com/ifas-big-unveil-top-laptop-selections-of-2023/"><u>IFA's Big Unveil - Top Laptop Selections of 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inject-vibrance-into-your-workspace-with-win11-backdrops/"><u>Inject Vibrance Into Your Workspace with Win11 Backdrops</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-functional-after-fixing-windows-11-error/"><u>Keyboard Functional After Fixing Windows 11 Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigating-high-disk-usage-in-task-manager/"><u>Navigating High Disk Usage in Task Manager</u></a></li>
+<li><a href="https://fox-links.techidaily.com/no-money-no-problem-heres-your-list-of-vfx-pages-for-2024/"><u>No Money, No Problem! Here's Your List of VFX Pages for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-struggle-graphic-setup-now-perfect/"><u>No More Struggle: Graphic Setup Now Perfect</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/optimizing-live-recording-with-chromebooks-and-hp-for-2024/"><u>Optimizing Live Recording with Chromebooks & HP for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-mouse-and-window-lag-woes/"><u>Overcoming Mouse & Window Lag Woes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/resolving-face-swap-glitches-in-facebook-chat/"><u>Resolving Face Swap Glitches in Facebook Chat</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-your-qualcomm-bluetooth-driver-woes-in-windows-11-step-by-step-solutions/"><u>Solving Your Qualcomm Bluetooth Driver Woes in Windows 11 – Step-by-Step Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-fix-qualcomm-atheros-bluetooth-driver-issues-in-windows-10-os/"><u>Step-by-Step Guide to Fix Qualcomm Atheros Bluetooth Driver Issues in Windows 10 OS</u></a></li>
+</ul></div>
 

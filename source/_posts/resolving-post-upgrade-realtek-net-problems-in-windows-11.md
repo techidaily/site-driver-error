@@ -1,7 +1,7 @@
 ---
 title: Resolving Post-Upgrade Realtek Net Problems in Windows 11
-date: 2024-08-15T06:46:04.528Z
-updated: 2024-08-16T06:46:04.528Z
+date: 2024-10-05T19:56:06.662Z
+updated: 2024-10-06T20:09:44.407Z
 tags:
   - win11
   - win10
@@ -49,25 +49,29 @@ netsh int ip reset c:\resetlog.txt
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Option Two:** **Change Settings in Network Adapter Properties**
 
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de5537df74.png)
  2) Locate and click the arrow to expand category**Network adapters** .
 
-![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
 3) Then right-click Realtek PCIe GBE Family Controller option and choose **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de65b229a9.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Go to**Advanced** tab, then choose**Speed & Duplex** option on the left side of the pane.
@@ -78,12 +82,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587deb007e7e1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Now on the left side of the pane, choose**Energy Efficient Ethernet** option, then change the Value to**Disabled** . After the changes, hit**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587deab52d9e0.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 
  7) Still, in the**Properties** window, this time, let’s go to**Power Management** tab. Un-tick the box for**Allow the computer to turn off this device to save power** . Then hit**OK** to save and exit.
 
@@ -95,32 +103,37 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de5537df74.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  2) Locate and click the arrow to expand the category**Network adapters** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Then right-click click**Realtek PCIe GBE Family Controller** option and then choose**Uninstall** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee15b99f3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hit**OK** to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee50286a0.png)
 
  4) Go to the menu bar on the top and click the button for **Scan for hardware changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee9a707c2.png)
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 
  5) Windows will help you automatically install the correct driver that it can find. But there is no guarantee that the new driver is going to work since Windows has provided the not working one originally.
 
  If you clearly remember that your Ethernet stops working after you update to a certain version of the driver, it is suggested that you roll it back to the stage where it was working well.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option Four: Update the Realtek Driver**
 
@@ -143,8 +156,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-network-adapter-driver.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hopefully the tips above help you fix the Realtek Ethernet Controller driver not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
@@ -157,8 +180,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +187,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-acquiring-unmarked-visuals-for-your-business/"><u>[New] Acquiring Unmarked Visuals for Your Business</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-communication-incorporating-fun-with-emojis/"><u>2024 Approved YouTube Communication Incorporating Fun with Emojis</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-fixes-for-installation-warnings-validating-drivers-on-your-pc/"><u>Comprehensive Fixes for Installation Warnings: Validating Drivers on Your PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/direct-android-bridge-to-your-windows-device-samsung/"><u>Direct Android Bridge to Your Windows Device (Samsung)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/healed-touchpad-drive-6-fixes-for-a-smooth-experience/"><u>Healed Touchpad Drive - 6 Fixes for a Smooth Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-safe-are-external-chatgpt-plugins-for-browsers/"><u>How Safe Are External ChatGPT Plugins for Browsers?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/improve-system-with-newly-updated-death-driver-for-win11/"><u>Improve System with Newly Updated DeaTH Driver for WIN11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-premium-mac-programming-solutions-excluded-from-bandicam/"><u>In 2024, Premium Mac Programming Solutions Excluded From Bandicam</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-quick-setup-obs-and-zoom-coexistence-made-simple/"><u>In 2024, Quick Setup OBS & Zoom Coexistence Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-desktop-spaces-optimal-size-in-win11/"><u>Perfecting Desktop Spaces: Optimal Size in Win11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/retail-analysis-shows-intel-13th-gen-cpus-suffering-higher-returns-by-factor-of-four-rma-figures-exceed-amd-competition/"><u>Retail Analysis Shows Intel 13Th Gen CPUs Suffering Higher Returns by Factor of Four - RMA Figures Exceed AMD Competition</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-motorola-edge-40-neo-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Motorola Edge 40 Neo Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successfully-pairing-your-iphone-with-pcmac-using-revamped-usb-drivers/"><u>Successfully Pairing Your iPhone with PC/Mac Using Revamped USB Drivers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/top-10-trending-tiktok-battles-you-should-join-in/"><u>Top 10 Trending TikTok Battles You Should Join In</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unraveling-the-mystery-behind-nvidia-crashes/"><u>Unraveling the Mystery Behind Nvidia Crashes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-microphonespeaker-troubleshooting-for-win10-users/"><u>USB Microphone/Speaker Troubleshooting for WIN10 Users</u></a></li>
+</ul></div>
 

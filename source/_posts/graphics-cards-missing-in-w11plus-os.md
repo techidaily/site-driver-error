@@ -1,7 +1,7 @@
 ---
 title: Graphics Cards Missing in W11+ OS
-date: 2024-09-24T16:02:04.554Z
-updated: 2024-10-01T16:00:25.390Z
+date: 2024-10-01T19:21:19.178Z
+updated: 2024-10-06T17:04:36.134Z
 tags:
   - win11
   - win10
@@ -28,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Show hidden devices
 
  If you recently got a new graphics card for your computer, then there’s a good chance it shows up as hidden. So we might have to un-hide it. Here’s a quick run-down:
@@ -50,16 +37,10 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 2. Click **View**   and then click **Show hidden devices** .  
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/windows11showhiddendevices.jpg)
@@ -67,26 +48,27 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 4. Check if your Nvidia graphics driver shows up under the **Display adapters** category as a gray-out device, i.e. it looks pale compared to other functioning devices. If so, right-click your Nvidia display card and select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-30.png)
 5. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-32.png)
 6. Then restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. If the Nvidia display card remains disappeared when your computer restarts, don’t worry, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -104,16 +86,10 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 ---
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your BIOS
@@ -128,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 * **[How to Update BIOS in Windows 11](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Repair corrupted system files
 
@@ -166,19 +149,19 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-critical-review-best-bargain-video-call-apps-ios-and-android/"><u>[New] 2024 Approved Critical Review Best Bargain Video Call Apps - iOS & Android</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-system-bootback-initiated-without-errors/"><u>[RESOLVED] System Bootback Initiated Without Errors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-using-adobe-and-finding-substitutes/"><u>2024 Approved The Ultimate Guide to Using Adobe and Finding Substitutes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-downloading-and-installing-your-hp-m452dn-printer-drivers-correctly/"><u>Complete Guide to Downloading & Installing Your HP M452dn Printer Drivers Correctly</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-s24plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy S24+ Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/heart-of-iron-iv-stability-fixes-how-to-overcome-frequent-crashes/"><u>Heart of Iron IV Stability Fixes: How to Overcome Frequent Crashes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-review-the-full-story-of-theta-s-technology/"><u>In 2024, In-Depth Review The Full Story of Theta S Technology</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/screenplay-foundations-a-guide/"><u>Screenplay Foundations A Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-qualcomm-atheros-bluetooth-driver-problems-in-windows-10/"><u>Step-by-Step Solution for Qualcomm Atheros Bluetooth Driver Problems in Windows 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-poco-c50-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Poco C50 Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-qualcomm-atheros-bluetooth-driver-problems-for-windows-10-users/"><u>Troubleshooting Qualcomm Atheros Bluetooth Driver Problems for Windows 10 Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-to-recognize-usb-devices-on-w78/"><u>Troubleshooting Steps to Recognize USB Devices on W7/8</u></a></li>
-<li><a href="https://driver-error.techidaily.com/understanding-the-legacy-how-usb-composite-devices-differ-from-modern-usbs/"><u>Understanding the Legacy: How USB Composite Devices Differ From Modern USBs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unpacking-ms-bda-via-gpu-showcase/"><u>Unpacking MS BDA via GPU Showcase</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-retro-reel-upgrade-converting-photographs-to-videos/"><u>[New] Retro Reel Upgrade Converting Photographs to Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-best-vr-applications-for-phones/"><u>[New] Unveiling the Best VR Applications for Phones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-tips-on-inserting-captions-into-youtube-videos-for-2024/"><u>[Updated] Expert Tips on Inserting Captions Into YouTube Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-harnessing-instagram-video-power-strategizing-for-impact-for-2024/"><u>[Updated] Harnessing Instagram Video Power Strategizing for Impact for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-from-soil-to-success-selecting-the-top-valheim-seeds/"><u>[Updated] In 2024, From Soil to Success Selecting the Top Valheim Seeds</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-your-morning-routine-with-philips-hf3505-daylight-wake-up-system-reviews-and-tips/"><u>Evaluating Your Morning Routine with Philips HF3505 Daylight Wake-Up System - Reviews & Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-realme-12-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme 12 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/helpneeded-built-in-wifi-and-bluetooth-not-responding-on-my-pc/"><u>HelpNeeded - Built-In Wifi and Bluetooth Not Responding on My PC.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-iphone-external-drive-access-errors-via-updated-device-drivers/"><u>How to Resolve iPhone External Drive Access Errors via Updated Device Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-installation-hurdles-solutions-for-the-hcmon-driver-error/"><u>Overcoming Installation Hurdles: Solutions for the HCMon Driver Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overhauled-peripheral-controller-fixes/"><u>Overhauled Peripheral Controller Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revive-your-wireless-keyboard-on-a-windows-pc-solutions-that-work/"><u>Revive Your Wireless Keyboard on a Windows PC – Solutions That Work!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamlined-techniques-to-record-screen-dialogue-for-2024/"><u>Streamlined Techniques to Record Screen Dialogue for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-effective-method-to-free-up-disk-space/"><u>Win11: Effective Method to Free Up Disk Space</u></a></li>
 </ul></div>
 

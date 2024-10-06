@@ -1,7 +1,7 @@
 ---
 title: Unlocking Solution to Error Code 52
-date: 2024-09-27T16:04:00.372Z
-updated: 2024-10-01T16:10:38.800Z
+date: 2024-10-01T21:40:31.761Z
+updated: 2024-10-06T22:00:34.696Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ Does this screenshot look similar?
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 1: Install the correct driver for your device
@@ -61,28 +61,15 @@ Does this screenshot look similar?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978b31ce5d8.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support and** a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97921901b04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note: You can do it **for free** if you like, but it’s partly manual.
 
@@ -105,13 +92,6 @@ Here’s how to delete the values:
  3) Click **Yes** when prompted by **User Account Control** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978e1d8c395.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Go to **Computer** \> **HKEY\_LOCAL\_MACHINE** \> **SYSTEM** \> **CurrentControlSet** \> **Control** \> **Class** .
 
@@ -144,24 +124,44 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97906e91771.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9790a2dce62.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click **Startup Settings** , then **Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9790de2ea99.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Once you see the Startup settings menu, press **F7** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b979135f28d1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Your computer would then boot into the normal system. Go to the Device Manager to update the driver for the problem device. You can also try Driver Easy for updating drivers automatically.
 
@@ -187,20 +187,22 @@ Here’s how you can do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-picsart-remove-bg-comprehensive-tutorial/"><u>[New] Picsart Remove Bg Comprehensive Tutorial</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-unbeatable-mobilized-game-slowdowns-for-2024/"><u>[New] Unbeatable Mobilized Game Slowdowns for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-discovering-10-ultimate-pic-finder-portals-for-2024/"><u>[Updated] Discovering 10 Ultimate Pic Finder Portals for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-livestream-elite-top-equipment-for-youtube-content-creators/"><u>[Updated] Livestream Elite Top Equipment For YouTube Content Creators</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/amplify-your-videos-impact-increasing-view-count-on-youtube-shorts/"><u>Amplify Your Video's Impact Increasing View Count on YouTube Shorts</u></a></li>
-<li><a href="https://driver-error.techidaily.com/beat-iphones-connection-hurdles-expert-solutions-to-overcome-mtp-drivers-glitches/"><u>Beat iPhones' Connection Hurdles - Expert Solutions to Overcome MTP Drivers Glitches</u></a></li>
-<li><a href="https://driver-error.techidaily.com/controller-alert-ideport0-fault-detected/"><u>Controller Alert: Ideport0 Fault Detected</u></a></li>
-<li><a href="https://techidaily.com/decoding-your-listening-choices-exploring-distinct-features-of-home-theaters-vs-stereo-receivers/"><u>Decoding Your Listening Choices: Exploring Distinct Features of Home Theaters Vs. Stereo Receivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/drivers-not-available-no-sign-of-intel-card/"><u>Drivers Not Available; No Sign of Intel Card</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-22-addressed-device-now-online/"><u>Error 22 Addressed; Device Now Online</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-error-on-windows-11-solved/"><u>GTX 950 Code 43 Error on Windows 11 [Solved]</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oneplus-11-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From OnePlus 11 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-max-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro Max Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/understanding-the-usb-composite-device-features-and-history/"><u>Understanding the USB Composite Device: Features and History</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-hello-isnt-available-on-this-device-on-windows-10-solved/"><u>Windows Hello Isn’t Available on This Device on Windows 10 [Solved]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-many-viewers-to-target-for-a-youtube-earning-journey-in-2024/"><u>[New] How Many Viewers to Target for a YouTube Earning Journey, In 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-websites-for-painless-jpeg-to-gif-changeover/"><u>[Updated] Ideal Websites for Painless JPEG to GIF Changeover</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-tactics-3-ways-to-record-and-keep-your-live-discord-events-alive/"><u>[Updated] In 2024, Top Tactics 3 Ways to Record and Keep Your Live Discord Events Alive</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-realtime-replay-recorder-for-2024/"><u>[Updated] RealTime Replay Recorder for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-avi-to-gif-filmora-guide-for-pcmac/"><u>2024 Approved Mastering AVI to GIF Filmora Guide for PC/Mac</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/building-a-professional-e-catalog-a-step-by-step-guide-using-flipbuilder/"><u>Building a Professional E-Catalog: A Step-by-Step Guide Using FlipBuilder</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cant-switch-bluetooth-off-my-laptop-is-frozen/"><u>Can't Switch Bluetooth OFF - My Laptop Is Frozen</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortlessly-fixing-windows-11s-elan-tap-mishaps/"><u>Effortlessly Fixing Windows 11'S Elan Tap Mishaps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-cleaned-correctly-configuring-your-device-code-1-explanation/"><u>Error Cleaned: Correctly Configuring Your Device (Code 1 Explanation)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-phone-knowledge-for-expanded-gear-vr-experiences/"><u>Essential Phone Knowledge for Expanded Gear VR Experiences</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-action-plan-for-mtp-connection-errors/"><u>Immediate Action Plan for MTP Connection Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-solutions-for-driver-not-available-on-itbm-system-effortless-troubleshooting-guide/"><u>Immediate Solutions for 'Driver Not Available' On ITBM System - Effortless Troubleshooting Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-premium-webcast-systems-and-applications/"><u>In 2024, Premium Webcast Systems & Applications</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pci-simple-communications-controller-driver-issue-solved/"><u>PCI Simple Communications Controller Driver Issue [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/released-irql-anomaly-in-win11/"><u>Released: Irql Anomaly in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/responsive-clicks-no-freezing-on-pc/"><u>Responsive Clicks, No Freezing on PC</u></a></li>
 </ul></div>
 

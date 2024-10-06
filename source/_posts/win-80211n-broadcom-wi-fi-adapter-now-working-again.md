@@ -1,7 +1,7 @@
 ---
 title: Win 802.11N Broadcom Wi-Fi Adapter Now Working Again
-date: 2024-08-15T06:47:00.402Z
-updated: 2024-08-16T06:47:00.402Z
+date: 2024-10-04T22:52:27.857Z
+updated: 2024-10-06T18:21:17.630Z
 tags:
   - win11
   - win10
@@ -30,8 +30,12 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 * [Hardware Compatibility Issues](https://bluettifr.pxf.io/bax2bv)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1: Reinstall Device Driver
 
  Faulty driver is very likely to be the reason for your not working network adapter. You can reinstall its driver to get this problem fixed:
@@ -39,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, type **devmgmt.msc** in and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c37a43891ed.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Expand **Network adapters**  and double-click **Broadcom 802.11n network adapter** .
 
@@ -51,24 +62,38 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
  4) Click **Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/browse-my-computer-for-driver-software.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  5) Click   **Let me pick from a list of device drivers on my computer.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/let-me-pick-from-a-list-of-device-drivers-on-my-computer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Click **Have Disk…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/have-disk.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Browse to **C:/(the name of your laptop manufacture)/drivers** and look for folder with the name similar to **R274634** . Double-click the folder and find the appropriate **.inf** file for your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/cthe-name-of-your-laptop-manufacturedrivers.png)
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You should be able to see the name of the file ends with**.inf** .
 
@@ -79,15 +104,16 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
  8) Then you will be lead back to the **Install From Disk** window, press **OK** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/install-from-disk.png)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for the correct driver to be installed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 2: Update Device Drivers
 
  If reinstalling the network adapter driver fails to solve the problem for you, you should update your network card driver instead. If you don’t have the time, patience, or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -97,21 +123,29 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
  1) [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy. 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/DE-scan-10.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged network card device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3: Update Software and Operating System
 
  Sometimes missing software updates and service packs could cause the Code 10 error in device manager. If you suspect this is the problem, it is suggested that you update and install the latest updates for Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4: Manually fix corrupted registry entries
 
  One of the causes of the code 10 error could be corrupted registry entries. To fix the problem, you might want to fix the registry entries by yourself. **Note** : To use this method, you must be logged on to Windows as an **administrator** . **IMPORTANT** : Follow the steps in this section carefully. Serious problems might occur if you modify the registry incorrectly. Before you modify it, **[back up the registry for restoration](https://tools.techidaily.com/drivereasy/download/)**  in case problems occur.
@@ -123,9 +157,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
  2) Follow the path   **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\4D36E978-E325-11CE-BFC1-08002BE10318** and locate the the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/hkey_local_machinesystemcurrentcontrolsetcontrolclass4d36e978-e325-11ce-bfc1-08002be10318-600x494.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
  3) On the right side of the pane, see if you can find options **UpperFilters** and **LowerFilters** . If you cannot see either of these two options, this method is not working for you. If these two options are available, right-click them and click **Delete** .
 
@@ -133,9 +164,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
  4) If prompted to confirm the delete, click **Yes** . 5) Exit Registry Editor and restart the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Hardware Compatibility Issues
 
  Windows 10 operating system has long been reported by its users to have compatibility issues with Broadcom 802.11n network adapters, but there seems to be no exact solution to tackle this problem from Microsoft. If this problem has caused you tremendous troubles, it is suggested that you report this error to Microsoft and to your laptop manufacturer to see if they can be of help, but the response speed is not guaranteed.
@@ -146,8 +174,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +181,21 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-comprehensive-approach-to-integrating-whiteboards-in-zoom-sessions/"><u>[New] In 2024, Comprehensive Approach to Integrating Whiteboards in Zoom Sessions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-streamline-your-instagram-feeds-with-macs-video-resizing/"><u>[New] Streamline Your Instagram Feeds with Mac's Video Resizing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-speak-with-synthetic-voices-chromebooks-leading-online-text-to-speech-apps/"><u>[Updated] 2024 Approved Speak with Synthetic Voices Chromebook's Leading Online Text-to-Speech Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-rhythm-revelations-mastering-music-for-visual-storytelling/"><u>[Updated] In 2024, Rhythm Revelations Mastering Music for Visual Storytelling</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-allocating-budget-for-youtube-video-success/"><u>2024 Approved Allocating Budget for YouTube Video Success</u></a></li>
+<li><a href="https://driver-error.techidaily.com/a-comprehensible-guide-to-updating-razers-bios-driver-for-pc-users/"><u>A Comprehensible Guide to Updating Razer's BIOS Driver for PC Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-vivo-y17s-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo Y17s Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/cross-social-video-broadcasting-from-twitter-to-snapchat-for-2024/"><u>Cross-Social Video Broadcasting From Twitter, To Snapchat for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-integration-limitation-for-graphic-driver/"><u>Hardware Integration Limitation for Graphic Driver</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-mastering-youtubes-video-comment-features/"><u>In 2024, Mastering YouTube's Video Comment Features</u></a></li>
+<li><a href="https://driver-error.techidaily.com/name-seek-opengl-drivers-for-intels-chipset/"><u>Name Seek: OpenGL Drivers for Intel's Chipset</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-common-problems-with-hp-keyboards-a-comprehensive-guide/"><u>Resolving Common Problems with HP Keyboards: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-unsupported-hardware-errors-with-your-current-software-suite/"><u>Resolving Unsupported Hardware Errors with Your Current Software Suite</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-nokia-g42-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Nokia G42 5G without Them Knowing | Dr.fone</u></a></li>
+</ul></div>
 

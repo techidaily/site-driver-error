@@ -1,7 +1,7 @@
 ---
 title: "Mend Quickly: Persistent AMD Glitches"
-date: 2024-08-15T06:45:29.678Z
-updated: 2024-08-16T06:45:29.678Z
+date: 2024-10-04T17:42:29.817Z
+updated: 2024-10-06T23:20:50.434Z
 tags:
   - win11
   - win10
@@ -36,16 +36,10 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/12/AMD-Radeon-RX-6700-XT.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. After updating, restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -60,27 +54,32 @@ Here’s how:
 
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Locate on **the faulty AMD driver** and double-click on it.
 3. Click the **Driver** tab and then click **Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-1.png)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click **Yes** to confirm. Then the driver will be restored to a previous version.
 5. **Restart** you computer and check if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Repair system files
 
  Missing, corrupt or damaged system files may cause display drivers to crash. To eliminate this issue as a possible cause, you can try the 2 ways below to repair possible system file issues.
 
 1. [**Repair & replace corrupt system files with Fortect**](https://tinyland.pxf.io/org4ra)
 2. [**Run SFC scan**](https://homestyler.sjv.io/y209g3)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Repair & replace corrupt system files with Fortect
 
@@ -94,13 +93,37 @@ Here’s how to use Fortect to repair system files on your PC:
 2. Fire up Fortect and run a free scan.
 3. Once finished, Fortect will generate a detailed report of your computer health, which includes all possible issues detected.
 4. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 5. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Check your computer to see if the driver crash issue is fixed.
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Run SFC scan
 
@@ -128,8 +151,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +158,19 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-obs-screen-recorder-review/"><u>[New] 2024 Approved OBS Screen Recorder Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-unresponsive-keys-in-windows-11-system/"><u>[Resolved] Unresponsive Keys in Windows 11 System</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-transformative-power-of-vlc-from-mp4-to-a-multitude-of-formats/"><u>[Updated] Transformative Power of VLC From MP4 to a Multitude of Formats</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-achieving-financial-independence-on-youtube-via-views/"><u>2024 Approved Achieving Financial Independence on YouTube via Views</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-to-overcome-unsupported-by-this-software-error-in-your-idt-setup/"><u>Expert Tips to Overcome 'Unsupported by This Software' Error in Your IDT Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guaranteeing-successful-enex-driver-operation-in-win11/"><u>Guaranteeing Successful eNEX Driver Operation in Win11</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-razr-40-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-hp-laptop-speakers-complete-guide-to-fixing-silent-screens/"><u>How To Restore HP Laptop Speakers: Complete Guide to Fixing Silent Screens</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intels-opengl-driver-a-quest-for-its-name/"><u>Intel's OpenGL Driver, A Quest for Its Name</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fixes-for-driver-cannot-be-found-in-itbm-software/"><u>Quick Fixes for 'Driver Cannot Be Found' In ITBM Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Tecno Pop 8? | Dr.fone</u></a></li>
+</ul></div>
 

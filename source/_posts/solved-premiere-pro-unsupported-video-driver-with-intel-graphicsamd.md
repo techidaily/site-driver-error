@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Premiere Pro Unsupported Video Driver with Intel Graphics/AMD"
-date: 2024-08-15T06:49:37.491Z
-updated: 2024-08-16T06:49:37.491Z
+date: 2024-09-29T18:47:32.460Z
+updated: 2024-10-06T17:10:27.687Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
 
 [2: Update Premiere Pro](https://ukaidot.sjv.io/daqnoj)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Update your video driver
 
  There are two ways to update your video driver: Automatically (recommended!) and manually.
@@ -42,23 +39,34 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to the flagged video driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Manual update
 
  You can also update your graphics driver manually. The common way to update a driver on your PC is via the Device Manager (a Windows feature). But Windows may not detect the latest available update for your video card because the database is huge and the updates could be delayed.
@@ -68,12 +76,24 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
 1. Press the**Windows key** and**R** on your keyboard to invoke the Run box.
 2. Type in**dxdiag** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Run-dxdiag.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Display** (I have two monitors so it’s shown as Display 1.) You’ll find your graphics card information here. Mark down the**name** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-25_15-01-41.png)
 4. Go to the official sites and search for your video driver. Make sure you download only the driver that’s compatible with your Windows version.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/)  
 [INTEL](https://downloadcenter.intel.com/product/80939/Graphics)  
@@ -85,9 +105,6 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
 
  After you install the latest video driver, restart your PC and test if Premiere Pro still shows you the error message. If the problem persists, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Fix 2: Update Premiere Pro
 
  If your driver is up-to-date but you still get the “Unsupported Video Driver” error, you may need to update your Premiere Pro. New Adobe updates usually fix known bugs and may release new features that are compatible with the latest driver, so it may solve the “Unsupported Video Driver” error.
@@ -107,8 +124,6 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +131,21 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-dxgierrordeviceremoved-error-of-battlefield-arma-crysis/"><u>[Fixed] DXGI_ERROR_DEVICE_REMOVED Error of Battlefield, ArmA, Crysis</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-navigating-tiktok-to-perfect-your-digital-twin/"><u>[Updated] 2024 Approved Navigating TikTok to Perfect Your Digital Twin</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-correcting-unsteady-flight-footage-artifacts/"><u>[Updated] Correcting Unsteady Flight Footage Artifacts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-navigating-video-uploads-on-youtube-a-comprehensive-tutorial/"><u>2024 Approved Navigating Video Uploads on YouTube A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bass-bridges-and-high-beats-understanding-sound-mixing-for-2024/"><u>Bass Bridges & High Beats Understanding Sound Mixing for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-no-48-in-devmgr-fixed/"><u>Error No. 48 in DevMgr - Fixed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-ai-rust-language-with-linus-torvalds-why-the-linux-core-reigns-supreme-tech-insights/"><u>Exploring AI, Rust Language with Linus Torvalds: Why the Linux Core Reigns Supreme | Tech Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-invalid-installation-section-in-inf-file/"><u>Fixing Invalid Installation Section in INF File</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-social-scoop-twitters-trending-talks/"><u>In 2024, Social Scoop Twitter’s Trending Talks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/loading-issue-car-not-fit-device/"><u>Loading Issue: Car Not Fit Device</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/melhor-software-de-edicao-de-videos-para-youtubers-top-10-escolhas-para-sistemas-windows-e-mac/"><u>Melhor Software De Edição De Vídeos Para YouTubers: Top 10 Escolhas Para Sistemas Windows E Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-selection-of-innovative-vr-cycling-games-for-2024/"><u>Prime Selection of Innovative VR Cycling Games for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/recover-lost-signal-proc-on-windows-pc/"><u>Recover Lost Signal Proc on Windows PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-successful-startup-of-gta-5-game-installations/"><u>Troubleshooting Steps for Successful Startup of GTA 5 Game Installations</u></a></li>
+</ul></div>
 

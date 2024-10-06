@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Mouse & Keyboard Glitch on Windows 11"
-date: 2024-09-29T16:04:46.956Z
-updated: 2024-10-01T16:01:24.367Z
+date: 2024-10-05T21:54:14.108Z
+updated: 2024-10-06T20:32:43.364Z
 tags:
   - win11
   - win10
@@ -46,16 +46,10 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Ease of Access** .
@@ -63,32 +57,25 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -101,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
@@ -112,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -140,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ## Method 5: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -185,22 +179,22 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/need-immediate-assistance-cant-stop-my-pcs-bluetooth-from-working75-chars/"><u>“Need Immediate Assistance, Can't Stop My PC’s Bluetooth From Working!”(75 Chars)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-the-driver-driverwudfrd-failed-to-load-for-the-device-event-id-219/"><u>[Fixed] The Driver DriverWudfRd Failed to Load for the Device Event ID 219</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-image-jest-inc-punpictures-pro/"><u>[Updated] Image Jest Inc PunPictures Pro</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/practices-in-digital-image-creation-for-youtube/"><u>Best Practices in Digital Image Creation for YouTube</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/boost-your-wireless-connection-using-the-ourlink-u631-usb-wi-fi-adapter-high-performance-in-a-tiny-package/"><u>Boost Your Wireless Connection Using the Ourlink U631 USB Wi-Fi Adapter - High Performance in a Tiny Package</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-twitch-account-security-with-2fa-tips-and-tricks-for-easy-configuration/"><u>Enhance Your Twitch Account Security with 2FA: Tips & Tricks for Easy Configuration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/financial-tips-from-emojis-unraveling-activisions-cybersecurity-issues-and-the-future-of-ai-in-employment-stability/"><u>Financial Tips From Emojis, Unraveling Activision's Cybersecurity Issues & the Future of AI in Employment Stability</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hd-audio-harmony-windows-11-style/"><u>HD Audio Harmony, Windows 11 Style</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-effortless-enhancements-how-to-amplify-your-image-edits-on-pc/"><u>In 2024, Effortless Enhancements How to Amplify Your Image Edits on PC</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-x-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone X</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leading-20-creative-anime-music-starts/"><u>Leading 20 Creative Anime Music Starts</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-the-challenge-of-gtx-950-error-43-in-windows-11-your-ultimate-troubleshooting-manual/"><u>Overcoming the Challenge of GTX 950 Error 43 in Windows 11 - Your Ultimate Troubleshooting Manual</u></a></li>
-<li><a href="https://driver-error.techidaily.com/realtek-network-issue-post-windows-10-update-resolved/"><u>Realtek Network Issue Post-Windows 10 Update - Resolved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103163615-resolution-zero-connection-woes-wacom-fixed/"><u>Resolution: Zero-Connection Woes, Wacom Fixed!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/silent-keysight-in-asus-laptop/"><u>Silent Keysight in ASUS Laptop</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solution-guide-adding-required-drivers-in-windows-operating-systems/"><u>Solution Guide: Adding Required Drivers in Windows Operating Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-freelancers-guide-to-affordable-animation-methods-for-2024/"><u>The Freelancer's Guide to Affordable Animation Methods for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-sharing-youtube-content-on-facebook-a-step-by-step-guide-for-2024/"><u>[New] Sharing YouTube Content on Facebook A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-science-of-attractiveness-building-engaging-audio-introductions-for-2024/"><u>[New] The Science of Attractiveness Building Engaging Audio Introductions for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-snippetsnapper-a-close-look-at-micro-recorders/"><u>[Updated] 2024 Approved SnippetSnapper A Close Look at Micro-Recorders</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-identifying-the-worlds-top-8-youtube-surges/"><u>[Updated] Identifying the World's Top 8 YouTube Surges</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-magnification-methods-for-ios-devices/"><u>2024 Approved Ideal Magnification Methods for iOS Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bios-interrupt-resolution-complete/"><u>BIOS Interrupt Resolution Complete</u></a></li>
+<li><a href="https://driver-error.techidaily.com/broadcom-80211n-network-adapter-not-working-on-windows-solved/"><u>Broadcom 802.11N Network Adapter Not Working on Windows [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-instructions-on-how-to-fresh-install-driver-packs-for-the-hp-envy-laptop-gen89-models/"><u>Easy Instructions on How to Fresh Install Driver Packs for the HP ENVY Laptop Gen8/9 Models</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-updatedownload-hp-envy-ebowarders/"><u>Easy Steps to Update/Download HP Envy Ebowarders</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-editing-tools-best-phones-options-for-gopro-videos/"><u>Ideal Editing Tools Best Phones' Options for GoPro Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/identifying-opengl-enabled-icd-graphics-cards/"><u>Identifying OpenGL-Enabled ICD Graphics Cards</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-fix-guide-unplugged-mtp-drivers/"><u>Immediate Fix Guide: Unplugged MTP Drivers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-lava-storm-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Lava Storm 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-13-ultra-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 13 Ultra Phone without Any Data Loss</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-11-5-ways-to-get-into-a-locked-iphone-11-drfone-by-drfone-ios/"><u>Locked Out of iPhone 11? 5 Ways to get into a Locked iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-the-mystery-of-non-functional-dolby-sound-in-your-pc-heres-how/"><u>Solving the Mystery of Non-Functional Dolby Sound in Your PC – Here’s How! ✅</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-definitive-fixes-when-your-wireless-keyboard-fails-in-windows-environment/"><u>The Definitive Fixes When Your Wireless Keyboard Fails in Windows Environment</u></a></li>
 </ul></div>
 

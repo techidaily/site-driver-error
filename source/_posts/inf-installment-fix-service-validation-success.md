@@ -1,7 +1,7 @@
 ---
 title: "INF Installment Fix: Service Validation Success"
-date: 2024-08-15T06:48:20.499Z
-updated: 2024-08-16T06:48:20.499Z
+date: 2024-10-01T21:38:10.511Z
+updated: 2024-10-06T22:34:22.434Z
 tags:
   - win11
   - win10
@@ -80,8 +80,12 @@ thumbnail: https://thmb.techidaily.com/9687aa834ae00807e9d2f77ee77a3ac9fdfd8db29
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 3: Install the missing driver files manually
 
  If the built-in USB driver fiels**mdmcpq.inf** and usbser.sys are missing or corrupted, the problem could occur. So to fix the problem, you can try to install these two driver files. You can replace them with the same files on another computer. Follow the steps below：
@@ -91,15 +95,23 @@ thumbnail: https://thmb.techidaily.com/9687aa834ae00807e9d2f77ee77a3ac9fdfd8db29
  1) On the computer with no such problem (The computer can run any Windows version), locate file **mdmcpq.inf** in**C:\\Windows\\INF.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -120,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/9687aa834ae00807e9d2f77ee77a3ac9fdfd8db29
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +139,20 @@ thumbnail: https://thmb.techidaily.com/9687aa834ae00807e9d2f77ee77a3ac9fdfd8db29
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-elite-setup-pieces-for-uninterrupted-streaming/"><u>[New] Elite Setup Pieces for Uninterrupted Streaming</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-constructing-home-made-vr-headgear-with-google-cards/"><u>[New] In 2024, Constructing Home-Made VR Headgear with Google Cards</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-experience-all-episodes-offline-with-our-top-10-savers-apps-for-2024/"><u>[Updated] Experience All Episodes Offline with Our Top 10 Savers Apps for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-visualvault-overview-in-depth-assessment/"><u>2024 Approved VisualVault Overview – In-Depth Assessment</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-gionee-f3-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Gionee F3 Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-hurdle-cleared-successful-run/"><u>Driver Installation Hurdle Cleared – Successful Run</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-best-10-free-srt-converter-apps-online-for-2024/"><u>Explore Best 10 Free Srt Converter Apps Online for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-printer-access-management-on-windows-11/"><u>Mastering Printer Access Management on Windows 11</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-5-best-chrome-extensions-you-can-use-to-translate-videos/"><u>New 5 Best Chrome Extensions You Can Use to Translate Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-driver-update-successful-installation/"><u>Nvidia Driver Update: Successful Installation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-error-48-on-device-hub/"><u>Solved Error #48 on Device Hub</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-setup-error-intelladapter-not-recognized/"><u>System Setup Error: IntellAdapter Not Recognized</u></a></li>
+</ul></div>
 

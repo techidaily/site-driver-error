@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Arch Bluetooth Mouse Not Working After Windows 10 Creators Update"
-date: 2024-08-15T06:44:58.784Z
-updated: 2024-08-16T06:44:58.784Z
+date: 2024-10-03T16:48:39.598Z
+updated: 2024-10-06T17:51:14.492Z
 tags:
   - win11
   - win10
@@ -46,33 +46,42 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f6e1d72d8f0.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Expand the category **Mice and other pointing devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f6e401a0d77.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right click the device name and choose**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f6e3d5bf031.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  4) Go to**Power Management** tab, and make sure the**Allow the computer to turn off his device to save power** option is**unchecked** and then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/allow-the-computer-to-turn-off-his-device-to-save-power.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
 5) Reboot your computer. See if this problem occurs again.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Fix 3: Update Your Mouse Driver**
 
  When it comes to updating mouse driver, you can always choose from download and update drivers by yourself or do it automatically.
@@ -89,30 +98,22 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/Driver-Easy-Scan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/DE-update-mouse-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Fix 4: Restore Your Computer**
 
  As mentioned earlier, it is suggested by tech support from Microsoft that users should perform a system restore to get this problem fixed. To some extent, Microsoft has admitted that this problem is one of the bugs in Windows 10 Creators Update.
@@ -129,8 +130,6 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +137,23 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-empowering-audiences-the-playlist-sharing-approach/"><u>[New] In 2024, Empowering Audiences The Playlist Sharing Approach</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unveiling-the-game-changer-samsung-ue590-4k-monitor/"><u>[New] Unveiling the Game Changer - Samsung UE590 4K Monitor</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-elevate-your-ae-projects-with-top-10-texts/"><u>2024 Approved Elevate Your AE Projects with Top 10 Texts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-venintanddev33a0-acpi-faults/"><u>Addressing VEN_INT&DEV_33A0 Acpi Faults</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-initialization-no-more-an-issue/"><u>Driver Initialization No More an Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-device-issues-in-windows-driver-hub/"><u>Fixing Device Issues in Windows Driver Hub</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-ndis-errors-on-windows-fast/"><u>Fixing NDIS Errors on Windows Fast</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-earnings-per-thousand-views-explained/"><u>In 2024, YouTube Earnings Per Thousand Views Explained</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-asus-revolutionary-nuc-tiny-pc-lineup-featuring-advanced-rtx-4000-gpu-technology/"><u>Introducing ASUS' Revolutionary NUC Tiny PC Lineup Featuring Advanced RTX 4000 GPU Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/miniaturize-game-boy-fun-with-a-psp-modification-protocol/"><u>Miniaturize Game Boy Fun with a PSP Modification Protocol</u></a></li>
+<li><a href="https://driver-error.techidaily.com/simple-solution-set-for-disconnected-usb-mtps/"><u>Simple Solution Set for Disconnected USB MTPs</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/step-by-step-tutorial-preserving-dvd-video-quality-while-transforming-them-into-wmv-files-on-windows-pcs/"><u>Step-by-Step Tutorial: Preserving DVD Video Quality While Transforming Them Into WMV Files on Windows PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-and-fix-why-isnt-my-hp-wireless-keyboard-working-step-by-step/"><u>Troubleshoot and Fix: Why Isn't My HP Wireless Keyboard Working? Step by Step</u></a></li>
+<li><a href="https://driver-error.techidaily.com/update-and-fix-nvidia-driver-not-installed/"><u>Update & Fix: Nvidia Driver Not Installed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/yahoo-mail-deletion-simplified-a-comprehensive-walkthrough-for-a-final-goodbye/"><u>Yahoo Mail Deletion Simplified: A Comprehensive Walkthrough for a Final Goodbye</u></a></li>
+</ul></div>
 

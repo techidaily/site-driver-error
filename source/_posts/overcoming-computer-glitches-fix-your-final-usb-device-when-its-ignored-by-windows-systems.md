@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Computer Glitches: Fix Your Final USB Device When It's Ignored By Windows Systems"
-date: 2024-08-15T06:48:31.850Z
-updated: 2024-08-16T06:48:31.850Z
+date: 2024-09-29T22:35:59.381Z
+updated: 2024-10-06T23:06:09.871Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
  Method 3: [**Disable USB selective suspend settings**](https://exvist.pxf.io/dkpnky)
  Method 4:[](https://homestyler.sjv.io/y209g3) [**Re-enable USB controller driver**](https://bluettifr.pxf.io/bax2bv)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Try another USB port
 
  If you are with a desktop, try to connect your USB device to your computer via the USB ports at the back of your computer case. The USB ports at the back usually have stronger electricity power coming through, which will allow a more stable power supply to your USB device.
@@ -62,11 +69,31 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37710b44342.png)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged drivers to automatically download and install the correct versions (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the [**Pro**](https://tools.techidaily.com/drivereasy/download/) version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37721186152.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) You need to restart your PC for the updated drivers to work properly. Check if your USB device is recognized now.
 
@@ -81,9 +108,6 @@ Or click **Update All**  to automatically download and install the correct versi
  1) On your keyboard, press the**Windows logo key** and**S** at the same time, type in the search box**power plan** and click**Choose a power plan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377758f2bdc.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
  2) Click**Change plan settings** next to the plan option you’re having now.
 
@@ -92,9 +116,6 @@ Or click **Update All**  to automatically download and install the correct versi
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377814e701a.png)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click to expand**USB settings** and**USB selective suspend setting** .
 
@@ -103,6 +124,13 @@ Or click **Update All**  to automatically download and install the correct versi
  5) Select**Disabled** from the drop-down option. Then click**Apply** and**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377b3cef938.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **NOTE** : If you’re using a laptop, click**On battery** , then**Disabled** from the drop-down menu.
 
@@ -117,56 +145,44 @@ Or click **Update All**  to automatically download and install the correct versi
  1) On your keyboard, press the**Windows logo key** and**R** at the same time. Type**devmgmt.msc** in and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3786b06277a.png)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) On the top bar, click**View** and then**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378723b37b6.png)
+
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click to expand**Universal Serial Bus controllers.**
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.1) If you see any device drivers marked by**yellow exclamation marks** or**question marks:**
 
  3.1.1) Right-click them and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37894943164.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 
  3.1.2) Click**Uninstall** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37895fbce37.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
  3.1.3) When the uninstall finishes, restart your computer. Then repeat the same procedure with the rest of the USB controllers marked by yellow exclamation marks or question marks one by one.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3.2) If you don’t see any drivers marked by yellow exclamation mark or question mark
 
  3.2.1) Right-click the first option you see here and click**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e629ee28.png)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3.2.3) When the disable finishes, restart your PC. Repeat the same procedure as above, and if your USB controller driver is not enabled automatically, right-click it and click**Enable device** .
 
@@ -182,8 +198,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +205,24 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-youtube-chat-insights/"><u>[New] Unlocking YouTube Chat Insights</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-video-posting-on-twitter-and-tumblr-connection/"><u>[Updated] 2024 Approved Video Posting on Twitter and Tumblr Connection</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-craft-impeccable-sequences-editor-supreme-for-vimeo/"><u>2024 Approved Craft Impeccable Sequences Editor Supreme for Vimeo</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-y200-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Y200</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-voice-alteration-morphvox-inside-out/"><u>Elevate Voice Alteration MorphVOX Inside Out</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-no-driver-error-on-your-device-a-step-by-step-process-for-windows-10-8-and-7/"><u>Fix No Driver Error on Your Device – A Step-by-Step Process for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-qualcomm-atheros-bluetooth-issues-on-windows-10-solutions-inside/"><u>How to Fix Qualcomm Atheros Bluetooth Issues on Windows 10 - Solutions Inside</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone 14 Pro</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-a05s-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy A05s FRP?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/iphone-xs-not-detected-in-windows-server-r2-solved-it-here/"><u>IPhone XS Not Detected in Windows Server R2, Solved It Here</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mastering-the-art-of-resolving-system-errors-in-windows-10-operating-systems/"><u>Mastering the Art of Resolving System Errors in Windows 10 Operating Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximizing-gpu-performance-via-reinstallation-guide/"><u>Maximizing GPU Performance via Reinstallation Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-correct-driver-match-for-your-hardware/"><u>No Correct Driver Match for Your Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-issues-with-the-most-recent-unrecognized-usb-hardware-on-windows-system/"><u>Resolving Issues With the Most Recent Unrecognized USB Hardware on Windows System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-sm-bus-conflicts-in-win1110/"><u>Resolving Sm Bus Conflicts in Win11/10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-fix-for-missing-coprocessor-driver-warning-in-windows-11-systems/"><u>Step-by-Step Fix for 'Missing Coprocessor Driver' Warning in Windows 11 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win1011-restoring-stability-in-sm-bus-drivers/"><u>Win10/11: Restoring Stability in SM Bus Drivers</u></a></li>
+</ul></div>
 

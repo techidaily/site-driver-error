@@ -1,7 +1,7 @@
 ---
 title: Where Did My Nvidia Card Go Windows?
-date: 2024-08-15T06:45:43.186Z
-updated: 2024-08-16T06:45:43.186Z
+date: 2024-10-01T17:40:26.053Z
+updated: 2024-10-06T19:11:50.611Z
 tags:
   - win11
   - win10
@@ -34,40 +34,48 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91effe026eb.png)
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 2. Click **View**   and then click **Show hidden devices** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/windows11showhiddendevices.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/windows11showhiddendevices.jpg)
 3. Click **Action** \> **Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9234ccb8e93.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Check if your Nvidia graphics driver shows up under the **Display adapters** category as a gray-out device, i.e. it looks pale compared to other functioning devices. If so, right-click your Nvidia display card and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-30.png)
 5. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-32.png)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Then restart your computer.
 7. If the Nvidia display card remains disappeared when your computer restarts, don’t worry, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -78,18 +86,19 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/nvidia-graphics.png)
 4. **Restart** your computer, then check if the**graphics card not detected** problem is resolved. If yes, then congrats! But if the issue remains, please move on to**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Fix 3: Update your BIOS
 
 **BIOS**   (**Basic Input/Output System**) performs the hardware initialization and jumpstarts the processes during the booting process of your computer. So we can try updating our **BIOS**   to see if it solves this   **graphics card not showing up in Device Manager in Windows 10/8/7**   issue.
@@ -112,9 +121,6 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Open Fortectand run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
@@ -134,8 +140,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +147,20 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-reframe-twitter-video-box-icon/"><u>[New] 2024 Approved Reframe Twitter Video Box Icon</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ideal-approaches-to-mobile-content-preservation/"><u>2024 Approved Ideal Approaches to Mobile Content Preservation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-quick-tips-efficiently-capturing-moments-with-snap-features-in-meet/"><u>2024 Approved Quick Tips Efficiently Capturing Moments with Snap Features in Meet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/codec-confrontation-who-takes-the-victory-av1-or-vp9/"><u>Codec Confrontation Who Takes the Victory, AV1 or VP9?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-install-realtek-hd-audio-driver-failure-easily/"><u>Fix Install Realtek HD Audio Driver Failure. Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-failed-to-start-battleye-addressing-the-1450-driver-load-issue/"><u>How to Fix 'Failed to Start BattlEye': Addressing the 1450 Driver Load Issue</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-xiaomi-redmi-k70e-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Xiaomi Redmi K70E Phone that is Locked?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-stealth-minimize-your-digital-footprints/"><u>Mastering Stealth: Minimize Your Digital Footprints</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-challenge-of-a-nonfunctional-coprocessor-module-for-windows-10-users-solutions-unveiled/"><u>Overcoming the Challenge of a Nonfunctional Coprocessor Module for Windows 10 Users – Solutions Unveiled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/printer-driver-issue-resolved-quickly/"><u>Printer Driver Issue Resolved Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/silent-keyboard-lights-asus/"><u>Silent Keyboard Lights ASUS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/spotlight-on-professional-shoots-innovative-lighting-techniques/"><u>Spotlight on Professional Shoots Innovative Lighting Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oneplus-nord-n30-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On OnePlus Nord N30 5G Device</u></a></li>
+</ul></div>
 

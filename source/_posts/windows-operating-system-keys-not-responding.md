@@ -1,7 +1,7 @@
 ---
 title: "Windows Operating System: Keys Not Responding"
-date: 2024-08-15T06:50:18.664Z
-updated: 2024-08-16T06:50:18.664Z
+date: 2024-10-04T21:18:02.383Z
+updated: 2024-10-06T22:09:21.478Z
 tags:
   - win11
   - win10
@@ -45,12 +45,16 @@ thumbnail: https://thmb.techidaily.com/149d291e46cccdb5fbde53e3ccc5e323925f68f6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 
  3) Click**Keyboard** .
 
@@ -59,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/149d291e46cccdb5fbde53e3ccc5e323925f68f6d
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -73,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/149d291e46cccdb5fbde53e3ccc5e323925f68f6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
@@ -80,17 +88,11 @@ thumbnail: https://thmb.techidaily.com/149d291e46cccdb5fbde53e3ccc5e323925f68f6d
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 4: Update your keyboard and USB driver (recommended)
 
  One of the most common causes of an unresponsive keyboard is an outdated keyboard or USB driver.
@@ -107,34 +109,37 @@ thumbnail: https://thmb.techidaily.com/149d291e46cccdb5fbde53e3ccc5e323925f68f6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 5: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
@@ -165,8 +170,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +177,21 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-capturing-ppt-slides-via-webcam-2023-techniques-for-2024/"><u>[Updated] Capturing PPT Slides via Webcam 2023 Techniques for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-initial-steps-in-vlogging-essential-hardwaresoftware/"><u>[Updated] Initial Steps in Vlogging Essential Hardware/Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-showtime-showdown-who-wins-in-obstwitch-arena-for-2024/"><u>[Updated] Showtime Showdown Who Wins in OBS/Twitch Arena for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-art-of-analytic-assessment-in-the-youtube-sphere/"><u>[Updated] The Art of Analytic Assessment in the YouTube Sphere</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-upgrading-visual-appeal-a-how-to-guide-for-twitter-video-image-changes/"><u>2024 Approved Upgrading Visual Appeal A How-To Guide for Twitter Video Image Changes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-unrecognized-devices-in-windows-11-8-or-7-easy-guide/"><u>How To Fix Unrecognized Devices in Windows 11, 8 or 7 - Easy Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-huawei-nova-y71-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Huawei Nova Y71 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-official-wifi-driver-installation-pack-for-windows-users/"><u>Intel's Official WiFi Driver Installation Pack for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-crashing-problems-in-rainbow-six-siege-for-windows-users/"><u>Resolving Crashing Problems in Rainbow Six Siege for Windows Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-graphics-setup-installer-triumphs-over-force/"><u>Seamless Graphics Setup – Installer Triumphs Over Force</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/simple-steps-for-attaching-hp-wireless-door-mounted-printers/"><u>Simple Steps for Attaching HP Wireless Door Mounted Printers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-tackling-itbm-missing-driver-problems-swiftly/"><u>Step-by-Step Guide to Tackling ITBM Missing Driver Problems Swiftly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/toms-tech-reviews-in-depth-computer-hardware-insights/"><u>Tom's Tech Reviews: In-Depth Computer Hardware Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-compatible-get-samsungs-mobile-os/"><u>Windows Compatible: Get Samsung's Mobile OS</u></a></li>
+</ul></div>
 

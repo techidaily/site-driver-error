@@ -1,7 +1,7 @@
 ---
 title: Fix Your Non-Functional HP Laptop Keys Step By Step Guide – 356 Chars
-date: 2024-09-24T16:07:05.317Z
-updated: 2024-10-01T16:04:45.929Z
+date: 2024-10-04T16:43:53.932Z
+updated: 2024-10-06T16:36:58.386Z
 tags:
   - win11
   - win10
@@ -41,29 +41,22 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Step 2: Check Keyboard Settings**
 
 1) Click your**Start**button, then choose**Settings**icon from it. Then choose**Time & language**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcfa0068ce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) On the left side of the pane, choose**Region & language**, then on the right side, make sure that the language is set to**English (United States)**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd71980796.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If not, click the**Options**button as shown in the screen shot.
 
@@ -74,10 +67,17 @@ Then make sure the Keyboards is selected as**US**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Step 3: Try an External Keyboard**
@@ -87,10 +87,10 @@ If you have tried the above methods but they are not helpful, you may need to pl
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
@@ -117,18 +117,24 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-instagram-meets-tiktok-syncing-social-media/"><u>[New] In 2024, Instagram Meets TikTok Syncing Social Media</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-boosting-video-impact-integrating-free-luts-into-your-obs-workflow/"><u>[Updated] Boosting Video Impact Integrating Free LUTs Into Your OBS Workflow</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-insiders-tactics-for-creating-gripping-puzzle-posts-on-instagram/"><u>[Updated] The Insider's Tactics for Creating Gripping Puzzle Posts on Instagram</u></a></li>
-<li><a href="https://games-able.techidaily.com/ditch-the-online-top-mobile-gaming-hacks/"><u>Ditch the Online - Top Mobile Gaming Hacks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hdr-audio-hub-no-more-glitches/"><u>HDR Audio Hub: No More Glitches</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-12-pro-max-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone 12 Pro Max Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-qualcomm-atheros-bluetooth-issues-on-windows-10/"><u>How to Fix Qualcomm Atheros Bluetooth Issues on Windows 10</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-instagram-3-key-caption-techniques-for-videos/"><u>In 2024, Mastering Instagram 3 Key Caption Techniques for Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/movavis-leap-forward-the-2024-edition-of-video-proplus/"><u>Movavi's Leap Forward The 2024 Edition of Video Pro+</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-issue-unrecognized-or-invalid-drivers-installation-on-your-pc/"><u>Resolving the Issue: Unrecognized or Invalid Drivers Installation on Your PC</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/top-choice-for-remote-shooting-discover-manycam-live-broadcast-capabilities/"><u>Top Choice for Remote Shooting: Discover ManyCam Live Broadcast Capabilities</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/upgrading-your-logitech-c920-detailed-instructions-for-windows-11-10-and-8-users/"><u>Upgrading Your Logitech C920: Detailed Instructions for Windows 11, 10 & 8 Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/xbox-360-controller-driver-not-working-on-windows-10-solved/"><u>Xbox 360 Controller Driver Not Working on Windows 10 [Solved]</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-digital-comedy-in-the-metaverse/"><u>[New] Mastering the Art of Digital Comedy in the Metaverse</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-combating-an-unresponsive-obs-camera-input-stream/"><u>[Updated] 2024 Approved Combating an Unresponsive OBS Camera Input Stream</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-ultimate-race-realism-5-favorites/"><u>[Updated] Ultimate Race Realism 5 Favorites</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1725286963743-digiarty-dvd/"><u>Digiarty 소프트웨어: DVD 및 비디오 변환에 대한 전문가 팀</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disc-dvd-cd-drives-not-showing-missing-on-windows-1011-solved/"><u>Disc/ DVD/ CD Drives Not Showing/ Missing on Windows 10/11 [SOLVED]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvd-winx-dvd-isodvd/"><u>DVD 備份制作指南：如何使用WinX DVD抄版器将 ISO/DVD复制</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-vertical-lines-on-the-computer-screen/"><u>Fix Vertical Lines on the Computer Screen</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-adjust-and-restore-correct-video-playback-direction-on-an-asus-notebook/"><u>How to Adjust and Restore Correct Video Playback Direction on an ASUS Notebook</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-correctly-install-drivers-if-they-dont-match-your-computer-specifications/"><u>How To Correctly Install Drivers If They Don't Match Your Computer Specifications</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-google-pixel-fold-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Google Pixel Fold?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-xcover-7-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy XCover 7 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-premier-5-web-titlers-shaping-industry-norms/"><u>In 2024, Unveiling the Premier 5 Web Titlers Shaping Industry Norms</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-display-optical-drives-in-win11-resolved/"><u>No Display: Optical Drives in Win11 - Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-configuration-challenges-for-device-with-error-code-1/"><u>Overcoming Configuration Challenges for Device with Error Code 1</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-the-ultimate-solution-for-wireless-keyboards-on-windows-computers/"><u>Troubleshooting the Ultimate Solution for Wireless Keyboards on Windows Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-the-legacy-how-usb-composite-devices-shaped-modern-connectivity/"><u>Understanding the Legacy: How USB Composite Devices Shaped Modern Connectivity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-os-data-gathering-hiccup-resolved/"><u>Win OS Data Gathering Hiccup Resolved</u></a></li>
 </ul></div>
 

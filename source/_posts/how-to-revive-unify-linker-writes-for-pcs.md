@@ -1,7 +1,7 @@
 ---
 title: How to Revive Unify Linker' Writes for PCs
-date: 2024-08-15T06:50:03.928Z
-updated: 2024-08-16T06:50:03.928Z
+date: 2024-09-30T19:12:28.882Z
+updated: 2024-10-06T18:02:46.405Z
 tags:
   - win11
   - win10
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
 
  You should get a working mouse or touchpad to do the instructions below. The following screenshots are shown on Windows 11, but all the fixes apply to Windows 10, and 8&7 as well.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## **1: Copy the driver file from a well-functioning computer**
 
  If your current PC lacks the needed driver file, your mouse receiver won’t work as well as it should. To fix it:
@@ -41,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
  1) Go to   **C:\\Windows\\inf\\**  to find the**usb.PNF** and**usb.inf** files. If you can see them on your current PC, then move on to the methods below.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-usb-inf.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) If you can’t see them,**copy** them from another computer whose USB receiver is working properly and **paste** them onto this folder.
 
@@ -59,36 +63,25 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
  2) View by**Category** and click **Uninstall a program** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-control-category-uninstall.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Right-lick **MotionInJoy** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57830b6e39c32.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Type in**regedit** in the search bar and then open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae4aa24870a.png)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) On your keyboard, press the **Ctrl key** and **F** at the same time to open a search window. Type **DS3** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-registry-editor-ds3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Delete all the DS3 files that you can see, especially the DS3.exe file.
 
@@ -99,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
  8) Restart your computer and then plug in your Logitech Unifying Receiver.
 
  9) Wait for Windows Update to help you find the correct driver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3: Update Mouse and USB Drivers**
 
@@ -115,9 +115,6 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db63a8174fd.png)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged mouse device and/or USB port to automatically download and install the correct version of that driver (you can do this with the FREE version).
 
@@ -125,38 +122,47 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db63d8ac59f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **4: Run Logitech Unifying Receiver as administrator**
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time. Type**devmgmt.msc** and press**Enter** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Expand **Mice and other pointing devices,** right-click the**HID-compliant mouse** and click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57834599bc659.png)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Download [Logitech Unifying Software](http://support.logitech.com/en%5Fus/software/unifying) . After the download, right-click the icon and click **Run as administrator** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-logi-run-as-adm.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After the installation, right-click**Logitech Unifying Software** in the**Start** panel and click **Run as administrator** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-logi-run-as-adm-start.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
 5) Your Logitech receiver should be able to work now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **5: Perform a hard reset**
 
 **Note:**  When performing a**hard reset** , you must disconnect or remove all peripheral devices. You should start and test the computer by itself, and then reconnect one peripheral device at a time.
@@ -188,8 +194,6 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +201,22 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-excellence-in-management-top-8-fb-planners-for-productivity-boost/"><u>[New] 2024 Approved Excellence in Management Top 8 FB Planners for Productivity Boost</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-from-flat-to-framed-achieving-realistic-text-effects-in-photoshop/"><u>[New] In 2024, From Flat to Framed Achieving Realistic Text Effects in Photoshop</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-grab-free-video-profile-backgrounds/"><u>[New] In 2024, Grab Free Video Profile Backgrounds</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-maximizing-monetary-gains-with-youtubes-short-form-videos/"><u>[New] In 2024, Maximizing Monetary Gains with YouTube's Short-Form Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-thrifty-filmmaker-best-economical-camera-lineup/"><u>[Updated] Thrifty Filmmaker Best Economical Camera Lineup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/china-to-accelerate-government-compute-performance-aim-for-30-growth-and-300-exaflops-capacity-by-2025/"><u>China to Accelerate Government Compute Performance, Aim for 30% Growth and 300 Exaflops Capacity by 2025</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essentials-of-picking-up-free-pictorial-frames/"><u>Essentials of Picking Up Free Pictorial Frames</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-on-correcting-battleye-system-launch-failures-due-to-missing-or-incorrect-drivers-error-1450/"><u>Expert Tips on Correcting BattlEye System Launch Failures Due to Missing or Incorrect Drivers (Error 1450)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-device-disabled-by-windows-10/"><u>Graphics Device Disabled by Windows 10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-enrich-viewers-experience-a-comprehensive-guide-to-youtube-end-screens/"><u>In 2024, Enrich Viewers' Experience A Comprehensive Guide to Youtube End Screens</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-world-of-drawing-on-your-chromebook-today/"><u>In 2024, Explore the World of Drawing on Your Chromebook Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-full-success-dvd-deciphering-on-mac-a-step-by-step-guide/"><u>Mastering Full-Success DVD Deciphering on Mac - A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-usb-installation-failure-resolving-access-denied-issues/"><u>Overcoming 'USB Installation Failure': Resolving Access Denied Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/where-are-my-nvidia-cards/"><u>Where Are My Nvidia Cards?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-patches-asus-camera-compatibility/"><u>Windows 10 Patches ASUS Camera Compatibility</u></a></li>
+</ul></div>
 

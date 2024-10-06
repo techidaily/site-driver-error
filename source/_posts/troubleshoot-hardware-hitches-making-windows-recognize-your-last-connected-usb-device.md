@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Hardware Hitches: Making Windows Recognize Your Last Connected USB Device"
-date: 2024-08-15T06:50:20.181Z
-updated: 2024-08-16T06:50:20.181Z
+date: 2024-10-05T16:27:08.981Z
+updated: 2024-10-06T17:20:46.761Z
 tags:
   - win11
   - win10
@@ -32,9 +32,12 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
  As mentioned, the exact cause could be very different in different situations, but there are some general resolutions that you should try before you turn to technicians. And one of the solutions below is bound to fix the problem for you. No worries, we’ve got you covered.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How can I fix it?
 
  Here are 4 solutions for you to try. You may not have to try them all; just work your way down until you find the one works for you.
@@ -45,8 +48,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Method 4:[](https://homestyler.sjv.io/y209g3) [**Re-enable USB controller driver**](https://bluettifr.pxf.io/bax2bv)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 1: Try another USB port
 
  If you are with a desktop, try to connect your USB device to your computer via the USB ports at the back of your computer case. The USB ports at the back usually have stronger electricity power coming through, which will allow a more stable power supply to your USB device.
@@ -54,6 +61,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If you are with a laptop, try unplugging your USB device from its current port and plug it into a different one. Try not to use any USB hubs.
 
  If your problem stops here, the USB port might be at fault, not your USB flash drive. Try to avoid using the same port next time, in case similar problem happens again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Update all possible device drivers
 
@@ -88,9 +102,6 @@ Or click **Update All**  to automatically download and install the correct versi
  1) On your keyboard, press the**Windows logo key** and**S** at the same time, type in the search box**power plan** and click**Choose a power plan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377758f2bdc.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  2) Click**Change plan settings** next to the plan option you’re having now.
 
@@ -100,19 +111,27 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377814e701a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click to expand**USB settings** and**USB selective suspend setting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3778a48905d.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Select**Disabled** from the drop-down option. Then click**Apply** and**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377b3cef938.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **NOTE** : If you’re using a laptop, click**On battery** , then**Disabled** from the drop-down menu.
 
@@ -131,9 +150,6 @@ Or click **Update All**  to automatically download and install the correct versi
  2) On the top bar, click**View** and then**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378723b37b6.png)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click to expand**Universal Serial Bus controllers.**
 
@@ -142,13 +158,17 @@ Or click **Update All**  to automatically download and install the correct versi
  3.1.1) Right-click them and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37894943164.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3.1.2) Click**Uninstall** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37895fbce37.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3.1.3) When the uninstall finishes, restart your computer. Then repeat the same procedure with the rest of the USB controllers marked by yellow exclamation marks or question marks one by one.
 
@@ -157,16 +177,10 @@ Or click **Update All**  to automatically download and install the correct versi
  3.2.1) Right-click the first option you see here and click**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e629ee28.png)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3.2.3) When the disable finishes, restart your PC. Repeat the same procedure as above, and if your USB controller driver is not enabled automatically, right-click it and click**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e29c15b5.png)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Your USB device should be recognized now.
 
@@ -178,8 +192,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +199,22 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/restored-device-functionality-post-driver-update/"><u>[RESTORED] Device Functionality Post Driver Update</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-digital-chimes-discover-the-top-tone-websites/"><u>[Updated] In 2024, Digital Chimes Discover the Top Tone Websites</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-ultimate-windows-art-apps-review-dollar-free-to-charged/"><u>[Updated] In 2024, Ultimate Windows Art Apps Review Dollar-Free to Charged</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1-mastering-microsoft-excel-step-by-step-guide-to-crafting-the-perfect-data-input-spreadsheet/"><u>1. Mastering Microsoft Excel: Step-by-Step Guide to Crafting the Perfect Data Input Spreadsheet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/2024s-top-ranked-cable-free-audio-buds/"><u>2024'S Top-Ranked, Cable-Free Audio Buds</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oneplus-nord-n30-se-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor OnePlus Nord N30 SE Activity | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-content-sharing-between-pc-and-iphone/"><u>In 2024, Streamlining Content Sharing Between PC and iPhone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/is-there-a-cash-incentive-in-critique-videos/"><u>Is There a Cash Incentive in Critique Videos?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/operational-normality-restored/"><u>Operational Normality Restored</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-windows-10-impact-on-ethernet-driver/"><u>Overcoming Windows 10 Impact on Ethernet Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-the-error-when-your-usb-device-wont-install-access-denied/"><u>Resolve the Error When Your USB Device Won't Install - 'Access Denied'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-detected-hardware-not-supported-issues-in-idt-software-packages/"><u>Resolving 'Detected Hardware Not Supported' Issues in IDT Software Packages</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-on-correcting-ps4-nat-problems-for-optimal-connectivity/"><u>Step-by-Step Tutorial on Correcting PS4 NAT Problems for Optimal Connectivity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/transform-your-pc-visual-experience-by-updating-intels-graphics-software-in-windows-10/"><u>Transform Your PC Visual Experience by Updating Intel's Graphics Software in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-xp-cant-locate-lenovo-legion-y520-solved/"><u>Windows XP Can't Locate Lenovo Legion Y520 [Solved]</u></a></li>
+</ul></div>
 

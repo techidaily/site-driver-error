@@ -1,7 +1,7 @@
 ---
 title: Fixing Nonfunctional Ethernet Controller in New OS Version
-date: 2024-09-24T16:16:42.709Z
-updated: 2024-10-01T16:01:19.684Z
+date: 2024-09-30T23:17:48.718Z
+updated: 2024-10-06T18:26:51.304Z
 tags:
   - win11
   - win10
@@ -56,10 +56,10 @@ netsh int ip reset c:\resetlog.txt
  2) Locate and click the arrow to expand category**Network adapters** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
@@ -67,16 +67,16 @@ netsh int ip reset c:\resetlog.txt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de65b229a9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Go to**Advanced** tab, then choose**Speed & Duplex** option on the left side of the pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de6ed4d026.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) On the**Value** bar, change the default Auto Negotiation to **100 Mbps Full Duplex**  or some other options accordingly. We chose**100 Mbps Full Duplex** here, but yours could be different.
 
@@ -86,25 +86,18 @@ netsh int ip reset c:\resetlog.txt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587deab52d9e0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Still, in the**Properties** window, this time, let’s go to**Power Management** tab. Un-tick the box for**Allow the computer to turn off this device to save power** . Then hit**OK** to save and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587decc3276b5.png)
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### **Option Three:** **Reinstall or Rollback Realtek Adapter Driver**
 
@@ -112,22 +105,29 @@ netsh int ip reset c:\resetlog.txt
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de5537df74.png)
  2) Locate and click the arrow to expand the category**Network adapters** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
  3) Then right-click click**Realtek PCIe GBE Family Controller** option and then choose**Uninstall** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee15b99f3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hit**OK** to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee50286a0.png)
 
  4) Go to the menu bar on the top and click the button for **Scan for hardware changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee9a707c2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Windows will help you automatically install the correct driver that it can find. But there is no guarantee that the new driver is going to work since Windows has provided the not working one originally.
 
@@ -151,18 +151,18 @@ netsh int ip reset c:\resetlog.txt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the Realtek PCIe driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-network-adapter-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully the tips above help you fix the Realtek Ethernet Controller driver not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
@@ -183,20 +183,18 @@ netsh int ip reset c:\resetlog.txt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2023s-leading-choices-for-downloading-facebook-lite-videos/"><u>[New] 2023'S Leading Choices for Downloading Facebook Lite Videos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-guide-updating-and-downloading-hp-envy-20-laptop-drivers/"><u>Easy Guide: Updating and Downloading HP ENVY 20 Laptop Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-tips-to-overcome-gtx-950-error-codes-resolving-issues-on-windows-10-systems/"><u>Expert Tips to Overcome GTX 950 Error Codes: Resolving Issues on Windows 10 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hardware-restriction-alert-win11s-decision/"><u>Hardware Restriction Alert: Win11's Decision</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/high-impact-setting-techniques-for-live-media/"><u>High-Impact Setting Techniques for Live Media</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-reno-11-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Reno 11 Pro 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-smart-7-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Smart 7 to PC? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-ultimate-list-of-free-video-editing-software-for-newcomers/"><u>In 2024, The Ultimate List of Free Video Editing Software for Newcomers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/integrate-android-system-samsung-and-windows-compatible/"><u>Integrate Android System: Samsung & Windows Compatible</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-drives-management-on-windows-1110/"><u>Mastering Drives Management on Windows 11/10</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-your-computer-potential-upgrade-to-corsairs-icue-link-and-see-the-difference/"><u>Maximize Your Computer Potential - Upgrade to Corsair's iCUE Link and See the Difference</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-fix-persistent-amd-driver-glitches/"><u>Quick FIX: Persistent AMD Driver Glitches</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-troubleshooting-for-quality-bluetooth-connectivity-with-qualcomm-atheros-on-windows-11/"><u>Step-by-Step Troubleshooting for Quality Bluetooth Connectivity with Qualcomm Atheros on Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/thorough-evaluation-hero4-black-innovations/"><u>Thorough Evaluation Hero4 Black Innovations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-intel-wi-fi-ax201-lack-of-connectivity/"><u>[FIXED] Intel Wi-Fi AX201 Lack of Connectivity</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-leading-techs-browser-recording-software-roundup-2023-edition/"><u>[New] 2024 Approved Leading Tech's Browser Recording Software Roundup, 2023 Edition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revamping-educational-experiences-through-vr/"><u>[New] Revamping Educational Experiences Through VR</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminating-device-issues-acpi-venint33a0/"><u>Eliminating Device Issues: ACPI VEN_INT33A0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-on-refreshing-your-hp-envy-20-laptop-with-updated-drivers/"><u>Expert Advice on Refreshing Your HP Envy 20 Laptop with Updated Drivers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-nubia-red-magic-9-proplus-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Nubia Red Magic 9 Pro+ Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-v30-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo V30</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-me-driver-recovery-protocols/"><u>Intel Me Driver Recovery Protocols</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/solving-the-starfield-high-cpu-consumption-problem-top-strategies-of-2024/"><u>Solving the Starfield High CPU Consumption Problem: Top Strategies of 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-new-age-of-compact-computing-unveiling-the-potential-of-the-corsair-one-i500/"><u>The New Age of Compact Computing: Unveiling the Potential of the Corsair ONE I500</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/ultimate-social-media-analysis-manual-for-decoding-ig-engagement-and-more-for-2024/"><u>Ultimate Social Media Analysis Manual for Decoding IG Engagement and More for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722880494184-understanding-the-503-service-temporarily-unavailable-error-and-solutions/"><u>Understanding the '503 Service Temporarily Unavailable' Error & Solutions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-retro-revival-achieve-vhs-style-in-final-cut-pro/"><u>Updated In 2024, Retro Revival Achieve VHS Style in Final Cut Pro</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optical Device Vanished: Windows 11 Armored Solution"
-date: 2024-09-24T16:00:56.082Z
-updated: 2024-10-01T16:10:31.409Z
+date: 2024-10-05T18:57:34.643Z
+updated: 2024-10-06T17:34:34.375Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2: Update drivers**
 
  If uninstalling the IDE ATA/ ATAPI controller drivers doesn’t solve the problem for you, it’s likely that you’re using the wrong driver altogether.
@@ -74,10 +81,17 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
@@ -90,32 +104,32 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Follow the path:
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\ {4D36E965-E325-11CE-BFC1-08002BE10318}**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55543336b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) **Delete**  them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
 
@@ -125,19 +139,6 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Follow the path:
 **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\atapi\\**
 
@@ -146,13 +147,6 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Create a new**Controller0** key under**atapi** key.
 
@@ -185,15 +179,16 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-gopro-hero4-black-vs-drift-ghost-s/"><u>[Updated] GoPro Hero4 Black VS Drift Ghost-S</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-pro-tips-for-efficient-and-effective-use-of-siri-on-tiktok/"><u>[Updated] In 2024, Pro Tips for Efficient and Effective Use of Siri on TikTok</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-wilderness-of-creativity-my-review-on-campfire-tales-skins-for-minecraft/"><u>Exploring the Wilderness of Creativity: My Review on Campfire Tales Skins for Minecraft</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-find-x7-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo Find X7 Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-repair-an-unresponsive-hp-bluetooth-keypad/"><u>How to Repair an Unresponsive HP Bluetooth Keypad</u></a></li>
-<li><a href="https://driver-error.techidaily.com/incompatible-driver-not-found-by-os/"><u>Incompatible Driver Not Found by OS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-5-high-quality-low-speed-video-gear/"><u>Top 5 High-Quality Low-Speed Video Gear</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-and-resolve-when-windows-doesnt-identify-the-latest-connected-usb-apparatus/"><u>Troubleshoot and Resolve: When Windows Doesn't Identify the Latest Connected USB Apparatus.</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-list-5-free-online-tone-generators-for-quick-results/"><u>Updated 2024 Approved The Ultimate List 5 Free Online Tone Generators for Quick Results</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-keyboard-operates-smoothly-again/"><u>Windows 11 Keyboard Operates Smoothly Again</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-recording-facebook-video-calls-4-methods/"><u>2024 Approved Recording Facebook Video Calls [4 Methods]</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlocking-the-full-potential-of-igtv-a-step-by-step-guide/"><u>2024 Approved Unlocking the Full Potential of IGTV A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-nvidia-windows-kernel-mode-driver-stopped-responding-issue/"><u>Fix NVIDIA Windows Kernel Mode Driver Stopped Responding Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-a-supported-tablet-was-not-found-on-the-system/"><u>Fixed: A Supported Tablet Was Not Found on the System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-a-missing-intel-processor-driver-error-on-windows-11-instantly-solved/"><u>How to Fix a Missing Intel Processor Driver Error on Windows 11 (Instantly Solved)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-note-30-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Note 30 Pro?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-11-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-success-youtubes-keyword-research-secrets-revealed/"><u>In 2024, Unlocking Success YouTube's Keyword Research Secrets Revealed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/invalid-inf-service-setup-resolved/"><u>Invalid INF Service Setup - Resolved</u></a></li>
+<li><a href="https://video-capture.techidaily.com/simple-guides-for-recording-vimeo-content-for-2024/"><u>Simple Guides for Recording Vimeo Content for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/widest-issue-flawed-usb-serial-interface-in-windows/"><u>Widest Issue: Flawed USB-Serial Interface in Windows</u></a></li>
 </ul></div>
 

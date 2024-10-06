@@ -1,7 +1,7 @@
 ---
 title: Making the Most Out of Your Elan on Latest Windows 11
-date: 2024-08-15T06:46:40.997Z
-updated: 2024-08-16T06:46:40.997Z
+date: 2024-10-03T19:10:41.116Z
+updated: 2024-10-06T21:46:44.596Z
 tags:
   - win11
   - win10
@@ -42,8 +42,12 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2: Reinstall your drivers
 
  Faulty drivers provided by Microsoft could be the reason why your touchpad stops working properly. To tackle this problem, you should reinstall the driver.
@@ -63,13 +67,21 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
  3) Click the**Update** button next to an ELAN touchpad driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click_**Update All**_ to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **3: Stop automatic updates from Windows Update**
 
  A faulty or buggy driver from Windows Update could be the cause of this problem. You can disable the automatic update via:
@@ -77,23 +89,26 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
  1) Type**device and printers** in the search bar, then click **Device and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 
  2) Right-clickyour computer icon and click **Device installation settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
@@ -104,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +126,24 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-aperture-allstars-the-best-camera-lenses-to-capture-the-moment-ranked-1-10/"><u>[New] In 2024, Aperture Allstars The Best Camera Lenses to Capture the Moment, Ranked #1-10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-social-media-excellence-a-practical-approach/"><u>[New] In 2024, Social Media Excellence A Practical Approach</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/duo-monitor-integration-for-laptops-a-comprehensive-guide/"><u>Duo Monitor Integration for Laptops - A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-correctly-fix-the-itbm-driver-not-found-error-a-step-by-step-guide/"><u>How to Correctly Fix the ITBM Driver Not Found Error - A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-honor-100-pro-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Honor 100 Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-complete-guide-to-capturing-and-storing-youtube-livestreams-seamlessly/"><u>In 2024, The Complete Guide to Capturing and Storing YouTube Livestreams Seamlessly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keybacklight-dark-issue-asus/"><u>Keybacklight Dark Issue - ASUS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keys-locked-in-win-10-system/"><u>Keys Locked in Win 10 System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/loading-device-conflict-car-and-equipment/"><u>Loading Device Conflict: Car & Equipment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-error-code-48-on-device-hub/"><u>No More Error Code 48 on Device Hub</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-detection-problem-in-win-oses/"><u>Nvidia Detection Problem in WIN OSes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-usb-connectivity-problems-in-windows-when-new-devices-go-undetected/"><u>Overcoming USB Connectivity Problems in Windows When New Devices Go Undetected</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-data-keepers-expert-top-10-selections-for-2024/"><u>Prime Data Keepers Expert Top 10 Selections for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105092287-troubleshooting-radeon-wattmans-sudden-crash-and-recovery-expert-solutions-revealed/"><u>Troubleshooting Radeon Wattman's Sudden Crash and Recovery – Expert Solutions Revealed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/virtual-safari-androids-ultimate-animals-game-list/"><u>Virtual Safari Android's Ultimate Animals Game List</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Eradicated Disk Read/Write Problems
-date: 2024-08-15T06:46:29.241Z
-updated: 2024-08-16T06:46:29.241Z
+date: 2024-10-01T23:13:09.360Z
+updated: 2024-10-06T16:12:52.171Z
 tags:
   - win11
   - win10
@@ -24,8 +24,12 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
  Some sectors in your computer may be damaged, and you can try**switching your USB drive to a different port** . It worked for some users. If it doesn’t solve your “ The driver detected a controller error on \\Device\\Harddisk1\\DR1″ problem,  try Solution 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 2: Update your USB driver
 
  If Solution 1 didn’t work for you, the most likely cause is a USB driver problem.
@@ -43,15 +47,24 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84c1f61c961.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84c2843cf68.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84c2843cf68.jpg)
 4. You may need to restart your computer to finish the process. Then check if your “The driver detected a controller error on \\Device\\Harddisk1\\DR1 ” problem is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -67,8 +80,6 @@ Hopefully this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -76,4 +87,18 @@ Hopefully this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-banish-youtube-shorts-forever-with-ease/"><u>[New] In 2024, Banish YouTube Shorts Forever with Ease</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-speaking-through-slides-total-ppt-tutorial-for-2024/"><u>[New] Speaking Through Slides Total PPT Tutorial for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-struggling-with-nvidia-based-pc-games-heres-how-fix-them-instantly/"><u>[Resolved] Struggling with Nvidia-Based PC Games? Here's How Fix Them Instantly</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-quick-guide-initiating-and-managing-android-zoom-calls/"><u>[Updated] 2024 Approved Quick Guide Initiating & Managing Android Zoom Calls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-charting-the-course-from-scale-to-submillions-in-youtube-for-2024/"><u>[Updated] Charting the Course From Scale to Submillions in Youtube for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cddvd-non-detect-in-win11-repair-complete/"><u>CD/DVD Non-Detect in Win11 - Repair Complete</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-access-denied-when-setting-up-a-new-usb-device/"><u>How to Overcome 'Access Denied' When Setting Up a New USB Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-vehicle-load-for-this-equipment/"><u>No Vehicle Load for This Equipment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-challenge-of-gtx-950-error-43-in-windows-11-your-ultimate-troubleshooting-manual/"><u>Overcoming the Challenge of GTX 950 Error 43 in Windows 11 - Your Ultimate Troubleshooting Manual</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-charge-your-playlist-exposure-youtube-style-for-2024/"><u>Turbo-Charge Your Playlist Exposure, YouTube Style for 2024</u></a></li>
+</ul></div>
 

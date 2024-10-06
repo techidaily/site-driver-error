@@ -1,7 +1,7 @@
 ---
 title: Operational Normality Restored
-date: 2024-08-15T06:50:43.124Z
-updated: 2024-08-16T06:50:43.124Z
+date: 2024-10-05T18:00:42.813Z
+updated: 2024-10-06T17:34:41.476Z
 tags:
   - win11
   - win10
@@ -27,27 +27,40 @@ If you encounter**This device is disabled. (Code 22)**in Device Manager, here ar
 4. **[Reset the BIOS settings](https://bluettius.sjv.io/dkpnv2)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Enable your device driver
 
 Code 22 occurs usually because your device is manually disabled. Then manually enabling it should solve the problem. Here’s how to do so：
 
 1. On your keyboard, press the**Windows** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png) key and**R** at the same time to open the Run box.
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Type **devmgmt.msc** and press**Enter**  to access Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e3f572c04.png)
 3. Expand the category that your device belongs to, right-click your device and select**Enable device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your device driver
 
 Driver errors like Code 22 can often be fixed by updating device drivers. You can do so via Device Manager, or go to the device manufacturer’s official website to find the exactly right driver online, download it and install it step by step. If you don’t have the time, patience or computer skills to update your device driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.  You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
@@ -57,15 +70,9 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecd845a65.jpg)
 3. Click the **Update** button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).Or click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Uninstall your device driver
 
 Uninstalling your device driver is another solution you can try to fix **This device is disabled (Code 22).**Here’s how:
@@ -77,13 +84,12 @@ Uninstalling your device driver is another solution you can try to fix **This de
 ---
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Reset the BIOS settings
 
 If the above steps don’t work for you, to fix driver error code 22, you can try removing the CMOS battery to reset BIOS to its default settings, which sounds like an ultimate fix. It requires some skills. You can follow the instructions below:
@@ -95,11 +101,16 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
  On desktop PCs, the CMOS battery is usually located in an exposed housing on the motherboard (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)  
  Example – CMOS battery on a desktop PC  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Example – CMOS battery on a laptop
 5. Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 6. Wait for about one or two minutes for the CMOS to reset itself to its defaults.
@@ -117,8 +128,6 @@ Please do reply if you got your problem fixed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +135,24 @@ Please do reply if you got your problem fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-slapstick-selection-twitters-funny-threads/"><u>[Updated] 2024 Approved Slapstick Selection Twitter's Funny Threads</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-zoom-substitutes-for-pcs-tablets-for-2024/"><u>[Updated] Essential Zoom Substitutes for PCs, Tablets for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-quick-guide-converting-vimeo-footage-to-eye-catching-gifs/"><u>2024 Approved Quick Guide Converting Vimeo Footage to Eye-Catching GIFs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/educational-visuals-expertise-in-video-cutting/"><u>Educational Visuals Expertise in Video Cutting</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-guide-to-repairing-default-settings-collapsed-in-radeon-wattman-and-restored/"><u>Expert Guide to Repairing 'Default Settings Collapsed in Radeon WattMan & Restored'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-invisible-disc-readers-in-windows/"><u>Fix: Invisible Disc Readers in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-radeon-wattman-settings-crash-issue-effectively/"><u>How to Fix the Radeon Wattman Settings Crash Issue Effectively</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-2-phone-without-pin-by-drfone-android/"><u>How to Unlock Lava Yuva 2 Phone without PIN</u></a></li>
+<li><a href="https://driver-error.techidaily.com/inf-installment-fix-service-validation-success/"><u>INF Installment Fix: Service Validation Success</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-install-latest-logitech-mouse-drivers/"><u>Instantly Install Latest Logitech Mouse Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-audiovisual-mastery-on-a-budget-the-ultimate-list-of-free-audio-mixers/"><u>New 2024 Approved Audiovisual Mastery on a Budget The Ultimate List of Free Audio Mixers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-enumeration-errors-in-usb/"><u>Resolve Enumeration Errors in USB</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-alternatives-to-chatgpt-enhance-your-ai-conversations/"><u>Top 10 Alternatives to ChatGPT: Enhance Your AI Conversations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-fixing-hcmondriver-installation-errors/"><u>Troubleshooting Steps for Fixing Hcmondriver Installation Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-resolving-hcom-driver-installation-issues/"><u>Troubleshooting Steps for Resolving HCOM Driver Installation Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-unrecognized-usb-devices-on-windows-7-and-8/"><u>Troubleshooting Unrecognized USB Devices on Windows 7 & 8</u></a></li>
+</ul></div>
 

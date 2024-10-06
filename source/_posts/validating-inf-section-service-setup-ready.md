@@ -1,7 +1,7 @@
 ---
 title: Validating INF Section - Service Setup Ready
-date: 2024-08-15T06:50:17.596Z
-updated: 2024-08-16T06:50:17.596Z
+date: 2024-10-04T18:55:30.043Z
+updated: 2024-10-06T16:27:43.578Z
 tags:
   - win11
   - win10
@@ -80,8 +80,12 @@ thumbnail: https://thmb.techidaily.com/3a0ff2475a3d988ca582620a3d23548d82c16dbdf
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 3: Install the missing driver files manually
 
  If the built-in USB driver fiels**mdmcpq.inf** and usbser.sys are missing or corrupted, the problem could occur. So to fix the problem, you can try to install these two driver files. You can replace them with the same files on another computer. Follow the steps below：
@@ -91,15 +95,23 @@ thumbnail: https://thmb.techidaily.com/3a0ff2475a3d988ca582620a3d23548d82c16dbdf
  1) On the computer with no such problem (The computer can run any Windows version), locate file **mdmcpq.inf** in**C:\\Windows\\INF.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -120,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/3a0ff2475a3d988ca582620a3d23548d82c16dbdf
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +139,16 @@ thumbnail: https://thmb.techidaily.com/3a0ff2475a3d988ca582620a3d23548d82c16dbdf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-complete-youtube-video-editor-reference-manual/"><u>[Updated] The Complete YouTube Video Editor Reference Manual</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-refuses-vehicle-charge/"><u>Device Refuses Vehicle Charge</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-the-wireless-keyboard-failure-in-microsofts-operating-system/"><u>Diagnosing and Repairing the Wireless Keyboard Failure in Microsoft's Operating System</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-zte-nubia-z60-ultra-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track ZTE Nubia Z60 Ultra by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-restore-missing-watch-artwork/"><u>In 2024, Restore Missing Watch Artwork</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-vloggers-guide-to-choosing-camgear-the-top-9-innovations/"><u>In 2024, The Vlogger's Guide To Choosing CamGear - The Top 9 Innovations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-default-radeon-wattman-glitches-with-easy-fix-steps/"><u>Overcoming Default Radeon Wattman Glitches with Easy Fix Steps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixes-for-hp-wireless-keyboard-connectivity-issues/"><u>Troubleshooting Guide: Fixes for HP Wireless Keyboard Connectivity Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-steps-for-fixing-battlenet-startup-problems/"><u>Ultimate Troubleshooting Steps for Fixing Battle.net Startup Problems</u></a></li>
+</ul></div>
 

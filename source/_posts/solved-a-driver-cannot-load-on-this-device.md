@@ -1,7 +1,7 @@
 ---
 title: "[Solved] A Driver Cannot Load on This Device"
-date: 2024-08-15T06:49:11.128Z
-updated: 2024-08-16T06:49:11.128Z
+date: 2024-10-04T22:45:06.198Z
+updated: 2024-10-06T19:22:12.779Z
 tags:
   - win11
   - win10
@@ -39,32 +39,49 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1\. Update related driver via Windows Update
 
  If your system isn’t updated regularly, or if you deliberately disable or delay Windows Update, the mentioned driver might not get updated in time, and thus the**_A driver cannot load on this device_** error. So one of the first things you need to do is to make sure that you’ve installed all available Windows Update patches. To do so:
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer, and see if the**_A driver cannot load on this device_** error still remains. If the problem persists, please move on.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Update related driver via its manufacturer
 
  If Windows Update can’t help to install the mentioned driver, you’ll need to see if you can download and install the driver via its manufacturer manually. And you can get more detailed information from the driver description in the error message.
@@ -76,11 +93,6 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
  When I Google_**CY3014.X64**_ , I see that it’s a file for the**Elgato Game Capture HD60 S device** . By searching the device name plus driver (i.e. Elgato Game Capture HD60 S driver), I land on this page:[https://help.elgato.com/hc/en-us/articles/360027961152-Elgato-Gaming-Hardware-Drivers](https://help.elgato.com/hc/en-us/articles/360027961152-Elgato-Gaming-Hardware-Drivers) , where I can download and later install the correct driver for my computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-69.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
 So in all, to download and install the driver manually, you need to:
 
@@ -95,10 +107,15 @@ So in all, to download and install the driver manually, you need to:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -123,15 +140,17 @@ To run this troubleshooter:
 4. See if you can find the related app mentioned in the error message from the list. If not, select **Not listed** and click **Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-45.png)
 5. Then**Browse** to the location where your related system file is, and click Next.  
-![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-46.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-46.png)
 6. Tick the boxes that fit your description, and click Next.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-47.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 7. Then follow the on-screen instructions to run the troubleshooter.
 
  Then see if the**_A driver cannot load on this device_** error is fixed. If not, please move further.
@@ -148,15 +167,16 @@ To run this troubleshooter:
 
 1. On your keyboard, press the **Windows**  key and type **core isolation** , then select **Core Isolation** from the list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-36.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Toggle off the option for Memory integrity.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-37.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then see if the _**A driver cannot load on this device**_  error still remains.
 
@@ -172,8 +192,6 @@ To run this troubleshooter:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +199,23 @@ To run this troubleshooter:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-achieve-impact-innovative-imovie-techniques-for-youtube-startups/"><u>[New] 2024 Approved Achieve Impact Innovative iMovie Techniques for YouTube Startups</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-unveiled-content-tweeting-high-definition-for-everyone/"><u>[New] In 2024, Unveiled Content Tweeting High Definition for Everyone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-5-browser-screen-recorders-2023/"><u>[New] Top 5 Browser Screen Recorders 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-endless-video-on-iphone-for-2024/"><u>[Updated] How-To Create Endless Video on iPhone for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-lowering-sounds-strength-progressively-with-lumafusion/"><u>[Updated] In 2024, Lowering Sounds' Strength Progressively with Lumafusion</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-unwinding-upside-down-asmr-to-support-zzzs/"><u>2024 Approved Unwinding Upside-Down ASMR to Support Zzz's</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-poco-f5-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Poco F5 5G PC | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-wf-3640-printer-drivers-for-your-windows-pc/"><u>Download the Latest Epson WF-3640 Printer Drivers for Your Windows PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ease-your-way-through-windows-ndis-issues/"><u>Ease Your Way Through Windows NDIS Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-correctly-install-the-hcmon-driver-and-overcome-common-issues/"><u>Guide to Correctly Install the Hcmon Driver and Overcome Common Issues</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-force-needed-to-set-up-graphics-correctly/"><u>No Force Needed to Set Up Graphics Correctly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pci-compliant-driver-packs-win-versions-11-7/"><u>PCI-Compliant Driver Packs: Win Versions 11-7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-and-resolving-problems-in-aging-usb-composite-device-connections/"><u>Understanding and Resolving Problems in Aging USB Composite Device Connections</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-the-aging-of-usb-composite-devices-issues-resolved/"><u>Understanding the Aging of USB Composite Devices - Issues Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-keyboard-functioning-correctly-now/"><u>Windows 11 Keyboard Functioning Correctly Now</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Service Section: INF Error Resolved"
-date: 2024-08-15T06:51:26.893Z
-updated: 2024-08-16T06:51:26.893Z
+date: 2024-10-02T19:11:03.634Z
+updated: 2024-10-06T17:11:59.895Z
 tags:
   - win11
   - win10
@@ -80,13 +80,12 @@ thumbnail: https://thmb.techidaily.com/5447d4b1d6c26ac1013cfb2d49090f8ec42a2498f
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 3: Install the missing driver files manually
 
  If the built-in USB driver fiels**mdmcpq.inf** and usbser.sys are missing or corrupted, the problem could occur. So to fix the problem, you can try to install these two driver files. You can replace them with the same files on another computer. Follow the steps below：
@@ -96,16 +95,23 @@ thumbnail: https://thmb.techidaily.com/5447d4b1d6c26ac1013cfb2d49090f8ec42a2498f
  1) On the computer with no such problem (The computer can run any Windows version), locate file **mdmcpq.inf** in**C:\\Windows\\INF.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -126,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/5447d4b1d6c26ac1013cfb2d49090f8ec42a2498f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +139,23 @@ thumbnail: https://thmb.techidaily.com/5447d4b1d6c26ac1013cfb2d49090f8ec42a2498f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-essential-screen-capture-tips-for-mi-11-users-for-2024/"><u>[Updated] Essential Screen Capture Tips for Mi 11 Users for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-ultimate-list-11-premium-sound-recording-tools/"><u>[Updated] In 2024, The Ultimate List 11 Premium Sound Recording Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-drone-evolution-a-deep-look-at-djis-mavic-pro/"><u>2024 Approved The Drone Evolution A Deep Look at DJI's Mavic Pro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/apowersoft-free-screen-recorder-review-for-2024/"><u>Apowersoft Free Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/diy-approach-building-a-customized-nintendo-identity-for-seamless-gaming-experience-on-your-3ds/"><u>DIY Approach: Building a Customized Nintendo Identity for Seamless Gaming Experience on Your 3DS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-alerted-ideport0-control-issue/"><u>Driver Alerted: Ideport0 Control Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/extensive-device-drivers-collection-windows-10-7/"><u>Extensive Device Drivers Collection (Windows 10, 7)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-restoring-lost-intel-coprocessor-drivers-on-windows-10-devices/"><u>Guide to Restoring Lost Intel Coprocessor Drivers on Windows 10 Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-tales-leading-academies-for-aspiring-narrators/"><u>In 2024, Mastering Tales Leading Academies for Aspiring Narrators</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-superior-performance-of-microsofts-latest-laptop-the-surface-laptop-n4/"><u>In-Depth Look at the Superior Performance of Microsoft's Latest Laptop - The Surface Laptop N°4</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intermittent-button-presses-windows-mouse-woes/"><u>Intermittent Button Presses - Windows Mouse Woes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/master-the-art-of-bios-tweaking-with-new-razer-deathadder-driver/"><u>Master the Art of BIOS Tweaking with New Razer Deathadder Driver</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-a-comprehensive-guide-for-free-video-translator-downloading-for-2024/"><u>New A Comprehensive Guide for Free Video Translator Downloading for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-repair-damaged-pdf-files-stellar-by-stellar-guide/"><u>Quickly Repair Damaged PDF Files | Stellar</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reinstating-enex-drivers-after-unsuccessful-load-on-windows-11/"><u>Reinstating eNEX Drivers After Unsuccessful Load on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsuccessful-graphics-attempt-on-windows-11/"><u>Unsuccessful Graphics Attempt on Windows 11</u></a></li>
+</ul></div>
 

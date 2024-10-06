@@ -1,7 +1,7 @@
 ---
 title: "Win Troubleshooting: Nonfunctional Broadcom Wireless N Adapter"
-date: 2024-08-15T06:48:30.802Z
-updated: 2024-08-16T06:48:30.802Z
+date: 2024-09-30T20:36:44.141Z
+updated: 2024-10-06T16:57:45.513Z
 tags:
   - win11
   - win10
@@ -36,15 +36,16 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, type **devmgmt.msc** in and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c37a43891ed.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
  2) Expand **Network adapters**  and double-click **Broadcom 802.11n network adapter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/broadcom-802-11n-network-adapter.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Go to the **Driver** tab and click **Update Driver…** .
@@ -54,35 +55,51 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
  4) Click **Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/browse-my-computer-for-driver-software.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Click   **Let me pick from a list of device drivers on my computer.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/let-me-pick-from-a-list-of-device-drivers-on-my-computer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Click **Have Disk…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/have-disk.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Browse to **C:/(the name of your laptop manufacture)/drivers** and look for folder with the name similar to **R274634** . Double-click the folder and find the appropriate **.inf** file for your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/cthe-name-of-your-laptop-manufacturedrivers.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You should be able to see the name of the file ends with**.inf** .
 
  The screenshot is but an example. Your file name should be different from mine.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/inf-file.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8) Then you will be lead back to the **Install From Disk** window, press **OK** to continue.
@@ -100,17 +117,11 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
  1) [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy. 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/DE-scan-10.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged network card device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3: Update Software and Operating System
 
  Sometimes missing software updates and service packs could cause the Code 10 error in device manager. If you suspect this is the problem, it is suggested that you update and install the latest updates for Windows.
@@ -123,11 +134,28 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/ype-regedit-in-the-search-box.png)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Follow the path   **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\4D36E978-E325-11CE-BFC1-08002BE10318** and locate the the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/hkey_local_machinesystemcurrentcontrolsetcontrolclass4d36e978-e325-11ce-bfc1-08002be10318-600x494.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) On the right side of the pane, see if you can find options **UpperFilters** and **LowerFilters** . If you cannot see either of these two options, this method is not working for you. If these two options are available, right-click them and click **Delete** .
@@ -146,8 +174,6 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +181,20 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-unveiling-the-art-of-perfectly-synchronized-android-time-lapses-for-2024/"><u>[New] Unveiling the Art of Perfectly Synchronized Android Time-Lapses for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-instagram-success-4-looping-video-strategies/"><u>[Updated] Unlocking Instagram Success 4 Looping Video Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-guide-to-harnessing-gpt-3s-full-capabilities-in-openai-arena/"><u>A Guide to Harnessing GPT-3's Full Capabilities in OpenAI Arena</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/jdi-unveils-2vd-screen-tech-transformative-dual-touch-display-and-user-specific-visuals-for-enhanced-interactivity/"><u>JDI Unveils 2VD Screen Tech: Transformative Dual Touch Display and User-Specific Visuals for Enhanced Interactivity</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/pioneering-innovation-with-abbyy-how-our-strategic-alliance-elevates-eucon-to-new-heights-in-technology-solutions/"><u>Pioneering Innovation with ABBYY: How Our Strategic Alliance Elevates Eucon to New Heights in Technology Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revive-missing-seagate-hard-drive-windows-10-guide/"><u>Revive Missing Seagate Hard Drive - Windows 10 Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722865256300-the-comprehensive-strategy-for-broadcasting-spoken-messages-on-apple-devices/"><u>The Comprehensive Strategy for Broadcasting Spoken Messages on Apple Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-tradeoff-between-size-and-speeds-netgears-1200-mbps-powerline-adapter-reviewed/"><u>The Tradeoff Between Size and Speeds: Netgear's 1200 Mbps Powerline Adapter Reviewed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/this-is-an-article-for-this-case-the-daylightning-disease-of-the-other-handicaps/"><u>This Is an Article for This Case the Daylightning Disease of the Other Handicaps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-hp-wireless-keyboard-connectivity-issues/"><u>Troubleshooting Guide: Fixing HP Wireless Keyboard Connectivity Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-enabling-safe-mode-and-discarding-gpu-drivers-in-windows-8-system/"><u>Troubleshooting Tips: Enabling Safe Mode and Discarding GPU Drivers in Windows 8 System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win1011-optimizing-sm-bus-drivers-efficiency/"><u>Win10/11: Optimizing Sm Bus Drivers Efficiency</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-and-qualcomm-atheros-bluetooth-woes-heres-your-ultimate-fix/"><u>Windows 11 and Qualcomm Atheros Bluetooth Woes? Here's Your Ultimate Fix</u></a></li>
+</ul></div>
 

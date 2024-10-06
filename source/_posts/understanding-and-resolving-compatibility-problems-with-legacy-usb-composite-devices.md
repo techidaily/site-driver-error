@@ -1,7 +1,7 @@
 ---
 title: Understanding and Resolving Compatibility Problems with Legacy USB Composite Devices
-date: 2024-09-28T16:02:30.475Z
-updated: 2024-10-01T16:09:27.932Z
+date: 2024-10-01T18:58:53.649Z
+updated: 2024-10-06T17:57:44.481Z
 tags:
   - win11
   - win10
@@ -47,14 +47,14 @@ Fortunately, this is one of the easiest problems to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb894ea5449a.jpg)
 4. Restart your computer and check if your USB Composite Device now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 2: Reinstall your USB controller drivers
 
@@ -63,19 +63,20 @@ Fortunately, this is one of the easiest problems to fix.
 1. On your keyboard, press the   **Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62735e40ac6.png)**  
 **key**  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  and  
 **R**  
   key simultaneously to open the Run box.
 2. Type **devmgmt.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b616832c16a0.jpg)
 3. In Device Manger, scroll down to find**Universal Serial Bus controllers** and expand the entry.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b61714f05a95.jpg)
 4. Right-click on the first USB device and select**Uninstall device**  to remove it.  
 
@@ -84,10 +85,10 @@ Fortunately, this is one of the easiest problems to fix.
 5. Repeat step 4) with every other USB device that is listed under the**Universal Serial Bus controllers** entry.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** Some USB devices have to do with your wired mouse, keyboard etc, which means uninstalling those devices will make them not working, don’t worry, just temporarily. As long as Windows restarts, it will automatically install the drivers again.
@@ -99,10 +100,10 @@ Fortunately, this is one of the easiest problems to fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Use the Windows USB Troubleshooter
@@ -132,22 +133,16 @@ Fortunately, this is one of the easiest problems to fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-melody-filled-visuals-the-fusion-project/"><u>[Updated] 2024 Approved Melody-Filled Visuals The Fusion Project</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-dominate-your-digital-space-with-these-10-follower-boosting-hacks-for-2024/"><u>[Updated] Dominate Your Digital Space with These 10 Follower-Boosting Hacks for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-global-scripts-windows-font-acquisition-guide/"><u>Accessing Global Scripts: Windows Font Acquisition Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluray-non-display-issue-resolved-in-windows-11/"><u>BluRay Non-Display Issue Resolved in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/broadcoms-solution-enhanced-functionality-for-n-adapter-in-windows/"><u>Broadcom's Solution: Enhanced Functionality for N Adapter in Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cant-find-your-prodigy-brio-webcam-after-windows-update-here-are-solved-fixes-for-you-answered/"><u>Can’t Find Your Prodigy Brio Webcam After Windows Update? Here Are Solved Fixes for You (Answered)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/conduct-dell-point-touch-diagnostics-win7/"><u>Conduct Dell Point-Touch Diagnostics (Win7)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/controller-error-notice-at-idedevice/"><u>Controller Error Notice at Idedevice</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correcting-the-windows-enter-key-breakdown/"><u>Correcting the Windows Enter Key Breakdown</u></a></li>
-<li><a href="https://driver-download.techidaily.com/expert-tutorial-keeping-your-acer-nitro-5s-software-up-to-date/"><u>Expert Tutorial: Keeping Your Acer Nitro 5'S Software Up-to-Date</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-infinix-note-30-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Infinix Note 30 Pro to Another | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103580978-i-am-also-known-as-a/"><u>I Am Also Known as A:</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/improve-your-pcs-graphics-efficiency-tackling-dwm-related-gpu-overuse-in-windows-11/"><u>Improve Your PC's Graphics Efficiency: Tackling DWM-Related GPU Overuse in Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-v29e-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo V29e Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-guide-to-adding-subtitles-in-wmp/"><u>In 2024, Step-by-Step Guide to Adding Subtitles in WMP</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-and-implementing-file-permissions-with-linux-acls/"><u>Understanding and Implementing File Permissions with Linux ACLs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103903270-weve-found-a-quick-resolution-for-your-gpu-related-gaming-woes/"><u>We've Found a Quick Resolution for Your GPU-Related Gaming Woes!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-inside-the-monetization-maze-dailymotion-vs-youtube/"><u>[New] 2024 Approved Inside the Monetization Maze Dailymotion vs YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-edge-youtube-end-card-tactics-and-layouts-for-2024/"><u>[New] Cutting Edge Youtube End Card Tactics & Layouts for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-is-it-possible-to-see-all-chatted-content-of-others-for-2024/"><u>[New] Is It Possible to See All Chatted Content of Others for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-macs-top-5-mkv-decoder-software/"><u>[Updated] 2024 Approved Mac's Top 5 MKV Decoder Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-optimizing-your-whiteboard-use-on-desktopiosandroid-devices-in-a-zoom-environment-for-2024/"><u>[Updated] Optimizing Your Whiteboard Use on Desktop/iOS/Android Devices in a Zoom Environment for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/conversione-free-dal-formato-f4v-a-mov-su-internet-utilizzando-movavi-guida-completa/"><u>Conversione FREE Dal Formato F4V a MOV Su Internet Utilizzando Movavi - Guida Completa</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-icd-identifying-the-opengl-driver/"><u>Intel ICD: Identifying the OpenGL Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pchelp-i-need-to-turn-off-the-built-in-bluetooth-on-my-windows-10-machine/"><u>PCHelp I Need to Turn Off the Built-In Bluetooth on My Windows 10 Machine</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-frequent-amd-driver-crashes-fast/"><u>Resolve Frequent AMD Driver Crashes Fast</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-made-dns-strategies-for-windows-11-enthusiasts/"><u>Tailor-Made DNS Strategies for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-restoring-functionality-of-your-non-responsive-hp-wireless-keyboard/"><u>Troubleshooting Guide: Restoring Functionality of Your Non-Responsive HP Wireless Keyboard</u></a></li>
 </ul></div>
 

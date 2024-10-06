@@ -1,7 +1,7 @@
 ---
 title: Resolved Device Manager Mishap #45
-date: 2024-09-24T16:13:19.600Z
-updated: 2024-10-01T16:04:44.827Z
+date: 2024-10-04T19:54:31.896Z
+updated: 2024-10-06T20:09:59.000Z
 tags:
   - win11
   - win10
@@ -45,6 +45,19 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 6. Check the device status in**Device Manager** to see if it’s been back on track. If it is, you’ll see the**This device is working properly** message as illustrated below.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-21.png)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ## Fix 2: Manually uninstall and reinstall your device driver
@@ -56,15 +69,22 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 2. In the**Device Manager** window, locate the device that’s giving you Code 45.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Right-click on that device entry and select**Uninstall device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-2.png)
 4. Tick the checkbox for**Delete the driver software for this device** and click**Uninstall** (if you’re prompted for confirmation).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-3.png)
 5. In Device Manager, click**Action** on the menu bar and select**Scan for hardware changes** . This should refresh the system, then reinstall the device and its corresponding driver.  
@@ -73,19 +93,25 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 6. Restart your computer, then open Device Manager to check if the Code 45 issue has been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Run the Windows Hardware and Devices Troubleshooter
@@ -114,26 +140,12 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 3. Once you see the command prompt, type **`sfc /scannow`**  and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-15.png)
 4. Windows will now verify the system files and automatically fix any detected issues.
 5. Once the verification is complete, exit the Command Prompt.
 6. Reconnect your hardware device and see if it’s working properly.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Run CHKDSK
 
@@ -144,17 +156,24 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 3. The command prompt will once again display. Type in the command:`**chkdsk.exe /f /r**` and hit Enter.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-16.png)
 4. Type **Y** to confirm that you’d like to perform the disk check the next time you restart your computer. Please make sure you have closed all of your applications first.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-17.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : Running a disk check could take some time to complete. So if you don’t have the time to run the disk check the next time you boot, you can skip it and reschedule again by following the steps above.
 
@@ -179,19 +198,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 7: Update your device drivers
 
  Sometimes your Code 45 issue may be caused by a missing or outdated driver. To find out whether that’s the root cause, you should try updating your device drivers and see if that makes a difference.
@@ -212,10 +218,10 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
@@ -245,19 +251,17 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-free-speech-to-text-conversion-software/"><u>[Updated] In 2024, Free Speech-to-Text Conversion Software</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-unique-tiktok-fp-concepts-for-eye-catching-profiles/"><u>[Updated] In 2024, Unique TikTok FP Concepts for Eye-Catching Profiles</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1-top-5-no-cost-asf-to-mp4-format-converter-tools/"><u>1. Top 5 No-Cost ASF to MP4 Format Converter Tools</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effective-strategies-to-fetch-latest-drivers-for-your-hp-envy-20-laptop/"><u>Effective Strategies to Fetch Latest Drivers for Your HP Envy 20 Laptop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-on-adding-snippets-of-source-code-to-a-word-doc-efficiently/"><u>Expert Tips on Adding Snippets of Source Code to a Word Doc Efficiently</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-frustrating-access-is-denied-during-usb-installation-process/"><u>Fixing the Frustrating 'Access Is Denied' During USB Installation Process</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-device-error-repair-in-dm/"><u>Mastering Device Error Repair in DM</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-safe-mode-a-users-manual-to-uninstall-graphics-card-drivers-on-windows-ebox/"><u>Mastering Safe Mode: A User's Manual to Uninstall Graphics Card Drivers on Windows Ebox</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/navigating-through-microsoft-flight-simulator-2020s-update-problem-solutions-inside/"><u>Navigating Through Microsoft Flight Simulator 2020'S Update Problem – Solutions Inside</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/prime-microphones-for-high-resolution-4k-video-shooting-for-2024/"><u>Prime Microphones for High-Resolution 4K Video Shooting for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-absent-coprocessor-driver-on-your-windows-10-system-guide/"><u>Resolving the Absent Coprocessor Driver on Your Windows 10 System [Guide]</u></a></li>
-<li><a href="https://fox-http.techidaily.com/visionmeld-digital-artistry-at-your-fingertips/"><u>VisionMeld Digital Artistry at Your Fingertips</u></a></li>
-<li><a href="https://win-best.techidaily.com/what-is-a-png-file-discover-extension-and-features-for-optimal-use/"><u>What Is a PNG File? Discover Extension and Features for Optimal Use</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-crafting-comedy-mastering-kinemaster/"><u>[New] 2024 Approved Crafting Comedy Mastering KineMaster</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-elevating-your-business-navigating-tiktok-trends-and-techniques/"><u>[New] 2024 Approved Elevating Your Business Navigating TikTok Trends & Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-full-screen-perfection-the-top-4-pcmac-screen-recorders-for-2024/"><u>[New] Full-Screen Perfection The Top 4 PC/Mac Screen Recorders for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-infinix-zero-30-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leveraging-predictive-analytics-anticipating-future-consumer-trends/"><u>2024 Approved Leveraging Predictive Analytics Anticipating Future Consumer Trends</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disabled-error-cleared-status-greenlit/"><u>Disabled Error Cleared - Status Greenlit</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-repair-pathway-for-usb-mtp-devices/"><u>Easy Repair Pathway for USB MTP Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-battleye-configuration-overcoming-initialization-challenges-and-error-code-1450/"><u>Mastering BattlEye Configuration: Overcoming Initialization Challenges and Error Code 1450</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pcie-lanes-interruption-remedy-found/"><u>PCIe Lanes Interruption Remedy Found</u></a></li>
+<li><a href="https://blog-min.techidaily.com/professionelle-video-downsamming-techniken-erfolgreich-mit-kleinen-grossen/"><u>Professionelle Video Downsamming-Techniken: Erfolgreich Mit Kleinen Größen</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-itel-a05s-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel A05s Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-pc-intro-maker-showdown-top-online-and-offline-tools-for-2024/"><u>Updated PC Intro Maker Showdown Top Online and Offline Tools for 2024</u></a></li>
 </ul></div>
 

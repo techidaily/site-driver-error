@@ -1,7 +1,7 @@
 ---
 title: Unsuccessful Graphics Attempt on Windows 11
-date: 2024-08-09T08:56:21.799Z
-updated: 2024-08-10T08:56:21.799Z
+date: 2024-10-01T17:25:41.426Z
+updated: 2024-10-06T22:05:51.213Z
 tags:
   - win11
   - win10
@@ -21,24 +21,19 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
  First of all, don’t panic. It’s annoying… but you’re not the only one experiencing this problem. We’ve heard many reports of this error from Windows users. And luckily, it’s a problem you can easily fix by yourself.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How do I Fix the Application that has been blocked from accessing Graphics hardware?
 
  This small guide covers 2 easy but effective ways to fix the problem.  If you try the first one and it doesn’t work for you, then you’ll hopefully have success with the second one.
 
 1. [**Run System File Checker and DISM commands**](https://bluetties.sjv.io/lxv4pm)
 2. [**Reinstall your display driver**](https://coinrule.sjv.io/rqzonv)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Run System File Checker and DISM commands
 
@@ -48,9 +43,6 @@ Follow these steps to recover your system files:
 
  1）Type **cmd**  in the search box from Start. Then right-click on **Command Prompt**  to select **Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7aea748d7a.png)
 
  Click**YES** when prompted by the User Account Control.
@@ -59,22 +51,37 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7af1a7f21e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Type the following commands and press **Enter**  after each.
 
 **DISM.exe /Online /Cleanup-image /Scanhealth**
   
 **DISM.exe /Online /Cleanup-image /Restorehealth**
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Reboot Windows 10 and run your game software to see if it works. If it doesn’t work, you can try our other fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your display driver
 
  This problem is**mostly caused by an out-of-date graphics card driver** , otherwise known as a **display driver** or **video driver** . You can fix it easily by updating your display driver.
@@ -89,16 +96,10 @@ Follow these steps to recover your system files:
 
  2) Click **Scan Now** . It will quickly detect all driver problems of your computer. This includes your display driver.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509eed56b24.jpg)
 
  2) In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. You can update the drivers one by one using the **Update**  button. But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can update all your drivers with one click — **Update All** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509f1432541.jpg)
 
  3) Reboot your Windows 10 PC and run your game software to see if it works.
@@ -114,8 +115,6 @@ Follow these steps to recover your system files:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +122,22 @@ Follow these steps to recover your system files:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-efficient-viewing-the-comprehensive-guide-for-creating-youtube-watch-later-lists/"><u>[New] 2024 Approved Efficient Viewing The Comprehensive Guide for Creating YouTube Watch Later Lists</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-vivid-imagery-understanding-the-power-of-srgb/"><u>[New] Vivid Imagery Understanding the Power of Srgb</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-operational-system-after-drivers-reinstallation/"><u>[SOLVED] Operational System After Drivers Reinstallation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-a-detailed-walkthrough-for-integrating-instagram-effects-on-archive-media/"><u>[Updated] A Detailed Walkthrough for Integrating Instagram Effects on Archive Media</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-preserving-your-periscope-content-a-detailed-process/"><u>2024 Approved Preserving Your Periscope Content A Detailed Process</u></a></li>
+<li><a href="https://driver-error.techidaily.com/75-times-smaller-and-fibonaccistuesday-we-need-to-ensure-that-individuals-withholding-the-right-handedness-of-ctrlplus123-mvn-but-i-wastingjuneau-is-an-unpu6/"><u>75 Times Smaller and Fibonacci_s/Tuesday, We Need to Ensure that Individuals Withholding the Right-Handedness of Ctrl+123 Mvn, but I Wasting=Juneau Is an Unpublished Researchers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bypassing-uninitialized-directx-9-a-stepwise-approach/"><u>Bypassing Uninitialized DirectX 9: A Stepwise Approach</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/confirming-genuine-dolby-atmos-experience-is-it-what-you-expect/"><u>Confirming Genuine Dolby Atmos Experience – Is It What You Expect?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-setup-getting-started-with-codegpt-in-vs-code/"><u>Effortless Setup: Getting Started with CodeGPT in VS Code</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensure-detection-of-unifying-linker-in-winos-environments/"><u>Ensure Detection of Unifying Linker in WinOS Environments</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-edge-2023-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Edge 2023 Devices | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/simple-cure-for-usb-mtp-communication-breakdowns/"><u>Simple Cure for USB MTP Communication Breakdowns</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-resolving-nvidia-gtx-950-code-43-malfunction-on-windows-ten-systems/"><u>Troubleshooting and Resolving NVIDIA GTX 950 Code 43 Malfunction on Windows Ten Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/vvtvli-systems-variable-valve-timing-and-lift-systems-adjust-the-opening-and-closing-of-intake-and-exhaust-valves-improving-engine-breathing-for-better-powe206/"><u>VVT/VLI Systems: Variable Valve Timing and Lift Systems Adjust the Opening and Closing of Intake and Exhaust Valves, Improving Engine Breathing for Better Power and Efficiency Across Different Speeds and Loads</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+</ul></div>
 

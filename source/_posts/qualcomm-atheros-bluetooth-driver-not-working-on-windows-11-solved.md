@@ -1,7 +1,7 @@
 ---
 title: Qualcomm Atheros Bluetooth Driver Not Working on Windows 11 [Solved]
-date: 2024-08-09T08:55:58.171Z
-updated: 2024-08-10T08:55:58.171Z
+date: 2024-10-04T20:45:06.627Z
+updated: 2024-10-06T16:17:31.878Z
 tags:
   - win11
   - win10
@@ -32,9 +32,6 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
 **KB3061161** is auto updated via Windows Update. So you can follow the path:**Start button > Settings > Update & security** .
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878512a85d87.jpg)
   
  Then choose**Update history** .
@@ -53,9 +50,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
  1) Go to the support website of the manufacture of your PC. We are using**ASUS** as an example. Then locate the support page of your PC by entering the model of your product.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587854520d556.jpg)
 
 2) Then go to drivers section. (The name of the section could be different on different manufacturers’ websites.) You will be asked to select what operating system that you are using (we are going**Windows 10 64-bit**), and then a list of device drivers will be shown. Scroll down a little to choose**Qualcomm Atheros Bluetooth**driver under Bluetooth category. Then hit the**Global**button to get it downloaded.
@@ -66,9 +60,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 3) Now press**Windows key**and**X**at the same time and choose**Device Manager**.
   
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878625e408ff.png)
 
 4) Then locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Uninstall**.
@@ -83,9 +74,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 7) Now, go to the folder where you store the setup file of the Qualcomm Atheros Bluetooth driver, double the**setup file**and run the installation as instructed.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587857485a0a6.png)
 
 8) When the install finishes, reboot your computer for the change to take effect.
@@ -106,16 +94,10 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 3) Locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Update Driver Software**.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878797a95615.png)
 
  4) Choose**Browse my computer for driver software** .
   
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787a96b276c.jpg)
 
  5) Choose **Let me pick from a list of the drivers on my computer** .
@@ -138,17 +120,10 @@ Why not have a try at [**Driver Easy**](https://tools.techidaily.com/drivereasy/
   
 Moreover, it is very easy to use. Just click the**Scan Now**button for**Driver Easy**to help you with the scan for missing or outdated drivers;
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  \\![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76e376da11.png)
 
 Then the**Update**button next to the driver you need to update.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76eb162d8c.jpg)
 
 That’s all.
@@ -168,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +150,30 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-dive-into-the-world-of-caption-creation-a-tiktok-video-guidebook/"><u>[New] 2024 Approved Dive Into the World of Caption Creation A TikTok Video Guidebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-streamline-your-media-convert-fb-videos-to-mp4-hd1080p-for-free/"><u>[New] 2024 Approved Streamline Your Media - Convert FB Videos to MP4 HD/1080P for Free</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-immersive-chronicles-a-brief-history/"><u>[New] The Immersive Chronicles A Brief History</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-lava-yuva-2-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Lava Yuva 2 Pro FRP</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhancing-acpi-functionality-in-asus-with-win10/"><u>Enhancing Acpi Functionality in ASUS with Win10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-upgraded-chatgpt-plus-with-cutting-edge-pdf-insight-and-dynamic-modality-controls/"><u>Explore the Upgraded ChatGPT Plus with Cutting-Edge PDF Insight and Dynamic Modality Controls</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-tecno-camon-20-pro-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Tecno Camon 20 Pro 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-the-art-of-repairing-nvidia-codes/"><u>Mastering the Art of Repairing Nvidia Codes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-windows-amobluetooth-struggles-with-this-simple-step-by-step-guide-for-windows-11-users/"><u>Overcome Windows amoBluetooth Struggles with This Simple Step-by-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-network-interface-misbehavior-dell-vostro/"><u>Resolve Network Interface Misbehavior, Dell Vostro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-gtx/"><u>Resolving the GTX</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-evolution-of-usb-technology-addressing-issues-with-usb-composite-devices/"><u>The Evolution of USB Technology: Addressing Issues with USB Composite Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/triumph-over-windows-11-solving-elan-driver-conflicts/"><u>Triumph Over Windows 11: Solving Elan Driver Conflicts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-overcoming-failed-to-install-hcmon-driver-issues/"><u>Troubleshooting Tips: Overcoming 'Failed to Install HCMon Driver' Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-5-best-free-mpeg-video-splitters-for-2024/"><u>Updated Top 5 Best Free MPEG Video Splitters for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

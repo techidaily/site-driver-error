@@ -1,7 +1,7 @@
 ---
 title: "Fixing Qualcomm Atheros Bluetooth Issues on Windows 10: Step-by-Step Guide"
-date: 2024-08-09T08:56:00.763Z
-updated: 2024-08-10T08:56:00.763Z
+date: 2024-10-02T16:27:11.819Z
+updated: 2024-10-06T21:09:11.120Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
  Scroll down to see if you can find the**KB3061161** . It should be a rather old update, so it might cost you some time to locate.
   
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587852a8ba348.jpg)
 
 If you don’t see such an update, don’t freak out, just go to Microsoft and get in downloaded and installed, and you will be fine.
@@ -53,16 +50,10 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
  1) Go to the support website of the manufacture of your PC. We are using**ASUS** as an example. Then locate the support page of your PC by entering the model of your product.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587854520d556.jpg)
 
 2) Then go to drivers section. (The name of the section could be different on different manufacturers’ websites.) You will be asked to select what operating system that you are using (we are going**Windows 10 64-bit**), and then a list of device drivers will be shown. Scroll down a little to choose**Qualcomm Atheros Bluetooth**driver under Bluetooth category. Then hit the**Global**button to get it downloaded.
   
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878567811d29.png)
 
 **Note**: If your PC is rather old and there is no such Bluetooth driver that you can find for Windows 10, it is suggested that you give the latest version of driver that you can find a try, be it Windows 8.1, Windows 8, or Windows 7\. Then try [**install the driver in compatibility mode**](https://tools.techidaily.com/drivereasy/download/).
@@ -73,16 +64,10 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 4) Then locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Uninstall**.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878700f160fd.jpg)
 
 5) When prompted with the following notification, tick the box for**Delete the driver software for this device**and then hit**OK**to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787077d9b1c.png)
 
 6) When the uninstall finishes, restart your computer.
@@ -109,25 +94,10 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 3) Locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Update Driver Software**.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878797a95615.png)
 
  4) Choose**Browse my computer for driver software** .
   
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787a96b276c.jpg)
 
  5) Choose **Let me pick from a list of the drivers on my computer** .
@@ -150,9 +120,6 @@ Why not have a try at [**Driver Easy**](https://tools.techidaily.com/drivereasy/
   
 Moreover, it is very easy to use. Just click the**Scan Now**button for**Driver Easy**to help you with the scan for missing or outdated drivers;
   
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  \\![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76e376da11.png)
 
 Then the**Update**button next to the driver you need to update.
@@ -176,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +150,35 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capture-the-essence-choose-from-these-top-9-gif-recipes-for-windows-for-2024/"><u>[New] Capture the Essence Choose From These Top 9 GIF Recipes for Windows for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-holistic-health-approaches-with-tech/"><u>[New] Holistic Health Approaches with Tech</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-hardware-and-drivers-sync/"><u>[Solved: Hardware & Drivers Sync</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-earths-highest-paid-online-video-personality/"><u>[Updated] 2024 Approved Earth's Highest-Paid Online Video Personality</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-symphony-of-screens-how-music-enhances-vimeo-content/"><u>[Updated] In 2024, Symphony of Screens How Music Enhances Vimeo Content</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-gif-transformation-to-stickers-on-whatsapp-discord-and-telegram-for-2024/"><u>[Updated] Mastering GIF Transformation To Stickers on WhatsApp, Discord & Telegram for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bcm20702a0-component-failure-notice/"><u>BCM20702A0 Component Failure Notice</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decrypting-opengl-integration-in-intels-driver/"><u>Decrypting OpenGL Integration in Intel's Driver</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-iphone-6s-plus-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For iPhone 6s Plus?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-lava-yuva-2-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Lava Yuva 2 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimized-sm-bus-drives-with-win11-update/"><u>Optimized SM Bus Drives with Win11 Update</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resource-shortage-unavailable-for-utilization/"><u>Resource Shortage: Unavailable for Utilization</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-realme-narzo-n53-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Realme Narzo N53</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unwanted-windows-11-screensaver-bsod-irql-fixed/"><u>Unwanted Windows 11 Screensaver: [BSOD] IRQL Fixed</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Realtek Ethernet Controller Driver Not Working After Windows 10 Upgrade [Solved]
-date: 2024-09-24T16:02:49.410Z
-updated: 2024-10-01T16:07:30.802Z
+date: 2024-10-02T21:51:48.778Z
+updated: 2024-10-06T18:51:03.081Z
 tags:
   - win11
   - win10
@@ -55,24 +55,17 @@ netsh int ip reset c:\resetlog.txt
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de5537df74.png)
  2) Locate and click the arrow to expand category**Network adapters** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
 3) Then right-click Realtek PCIe GBE Family Controller option and choose **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de65b229a9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Go to**Advanced** tab, then choose**Speed & Duplex** option on the left side of the pane.
 
@@ -82,6 +75,13 @@ netsh int ip reset c:\resetlog.txt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587deb007e7e1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Now on the left side of the pane, choose**Energy Efficient Ethernet** option, then change the Value to**Disabled** . After the changes, hit**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587deab52d9e0.png)
@@ -90,13 +90,20 @@ netsh int ip reset c:\resetlog.txt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587decc3276b5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option Three:** **Reinstall or Rollback Realtek Adapter Driver**
@@ -105,26 +112,20 @@ netsh int ip reset c:\resetlog.txt
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de5537df74.png)
  2) Locate and click the arrow to expand the category**Network adapters** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
  3) Then right-click click**Realtek PCIe GBE Family Controller** option and then choose**Uninstall** .
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee15b99f3.png)
 
  Hit**OK** to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee50286a0.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Go to the menu bar on the top and click the button for **Scan for hardware changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee9a707c2.png)
@@ -136,10 +137,10 @@ netsh int ip reset c:\resetlog.txt
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option Four: Update the Realtek Driver**
@@ -183,22 +184,15 @@ netsh int ip reset c:\resetlog.txt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-ace-the-art-of-youtube-reactions-3-innovative-approaches-unveiled/"><u>[New] In 2024, Ace the Art of YouTube Reactions - 3 Innovative Approaches Unveiled</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-bypass-samsungs-vr-camera-here-are-your-top-alternatives/"><u>[Updated] 2024 Approved Bypass Samsung’s VR Camera - Here Are Your Top Alternatives</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-obs-guide-seamless-youtube-and-twitch-streaming/"><u>[Updated] In 2024, OBS Guide Seamless YouTube and Twitch Streaming</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-crafting-vivid-visuals-for-spotify-video-ads/"><u>2024 Approved Crafting Vivid Visuals for Spotify Video Ads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-logitech-drivers-fast-seamless-setup-for-windows-users/"><u>Download Logitech Drivers Fast: Seamless Setup for Windows Users</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ting-your-vlog-through-proper-lighting/"><u>Elevating Your Vlog Through Proper Lighting</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/galaxy-s23plus-examined-does-this-new-release-truly-enhance-your-smartphone-experience/"><u>Galaxy S23+ Examined: Does This New Release Truly Enhance Your Smartphone Experience?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gfx-analysis-the-role-of-basic-display-adapter-bda/"><u>GFX Analysis: The Role of Basic Display Adapter (BDA)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-reconnecting-usb-devices-in-win-78-os/"><u>Guide to Reconnecting USB Devices in Win 7/8 OS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-everything-you-should-know-about-instagram-video-length/"><u>In 2024, Everything You Should Know About Instagram Video Length</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-poco-c65-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Poco C65 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/installation-errors-correct-missing-drivers-on-windows-1187-here-solved/"><u>Installation Errors? Correct Missing Drivers on Windows 11/8/7 Here [SOLVED]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-invalid-installation-warnings-what-to-do-when-drivers-fail-on-your-pc/"><u>Resolving Invalid Installation Warnings: What To Do When Drivers Fail on Your PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restoring-touchpad-functionality-after-driver-loss/"><u>Restoring Touchpad Functionality After Driver Loss</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solutions-to-common-driver-problems-in-dm/"><u>Solutions to Common Driver Problems in DM</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-restoring-bluetooth-functionality-with-qualcomm-atheros-driver-in-windows-11/"><u>Step-by-Step Guide to Restoring Bluetooth Functionality with Qualcomm Atheros Driver in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-quick-and-easy-method-to-solve-a-nonworking-or-stuck-pclaptop-keyboard-guide-for-fixed-up-article-title-step-descriptions409-chars/"><u>The Quick & Easy Method to Solve a Nonworking or Stuck PC/Laptop Keyboard – Guide for Fixed-Up (Article Title)– Step Descriptions—409 Chars</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-dual-screen-playback-recording/"><u>[New] 2024 Approved Dual-Screen Playback Recording</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-beats-at-breakneck-speed-the-fastest-rising-tiktok-hits-for-2024/"><u>[New] Beats at Breakneck Speed The Fastest-Rising TikTok Hits for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-expert-strategies-in-nvidia-screen-capturing/"><u>[New] Expert Strategies in NVIDIA Screen Capturing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-prime-screen-capture-tools-no-lag-just-clarity/"><u>[New] Prime Screen Capture Tools - No Lag, Just Clarity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/2-in-the-nextteacherbmwits/"><u>2 in the nextTeacher_BMWits</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-unveils-revolutionary-on-device-ai-realmsurpasses-gpt-4-in-performance-zdnet/"><u>Apple Unveils Revolutionary On-Device AI, ReaLMSurpasses GPT-4 in Performance - ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-persists-in-win11-resolved-issue/"><u>Bluetooth Persists in Win11: Resolved Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bus-controller-protocols-streamlined-in-win11/"><u>Bus Controller Protocols Streamlined in Win11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102978547-how-to-fix-unable-to-initialize-directx-9-device-in-5-easy-steps/"><u>How to Fix 'Unable to Initialize DirectX 9 Device' In 5 Easy Steps</u></a></li>
 </ul></div>
 

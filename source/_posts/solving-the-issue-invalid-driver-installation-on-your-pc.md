@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Invalid Driver Installation on Your PC"
-date: 2024-08-15T06:45:22.401Z
-updated: 2024-08-16T06:45:22.401Z
+date: 2024-10-04T20:45:52.343Z
+updated: 2024-10-06T17:46:39.321Z
 tags:
   - win11
   - win10
@@ -36,17 +36,18 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
  Way 3: **[Install the driver manually using the .inf file](https://technitya.sjv.io/dkpn02)**
 
 <!-- affiliate ads begin -->
-
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 1: Install the driver from computer manufacturer
 
  Since you can’t install the Intel generic graphics driver, go to the computer manufacturer’s website to check and download the new driver.
 
 **NOTE:** The computer manufacturer may have stopped providing support for your PC model. In this case, this way doesn’t work for you. Move on and use another way.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Way 2: Install the driver automatically using Driver Easy
 
  Install the driver manually may cause failure installation like this. So to install the driver successfully,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -76,47 +77,47 @@ Refer steps below.
  2) Expand the**Display adapters** branch. Right-click the Intel graphics card and click**Update driver** (In your case, the name might be**Update Driver Software…**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cf264951788.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cf2689c1796.png)
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Let me pick from a list of available drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cf2d7f32a0a.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 
  5) Click the**Have Disk** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cf2db9ceaef.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Click the**Browse** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cf2df6c9bae.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Navigate to folder where you saved the downloaded Intel driver file. (If you download the driver in .zip file, you need to extract it first.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cf2e37bae24.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) Go to the “**Graphics** ” sub-folder.
 
@@ -137,8 +138,6 @@ Refer steps below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +145,26 @@ Refer steps below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-scout-platforms-securing-partnerships-with-youtube-content-creators/"><u>[New] 2024 Approved Scout Platforms Securing Partnerships with YouTube Content Creators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-redefining-schooling-with-virtual-reality/"><u>[New] Redefining Schooling with Virtual Reality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-sound-of-success-audio-recording-guide/"><u>[New] The Sound of Success Audio Recording Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-depth-look-techniques-for-screen-capturing-on-android-for-2024/"><u>[Updated] In-Depth Look Techniques for Screen Capturing on Android for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-image-potential-with-editors-essentials/"><u>[Updated] Unlock Image Potential with Editor's Essentials</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-unwanted-in-windows-11-solution-found/"><u>Bluetooth Unwanted in Windows 11: Solution Found</u></a></li>
+<li><a href="https://driver-error.techidaily.com/click-without-delay-the-win10-fix/"><u>Click Without Delay - The Win10 Fix</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-automation-boost-your-sites-visibility/"><u>Cookiebot-Driven Automation: Boost Your Site's Visibility!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminating-errors-in-inf-service-configuration-sections/"><u>Eliminating Errors in INF Service Configuration Sections</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hidef-audio-resolved-successful-fix/"><u>HiDef Audio Resolved: Successful Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105051033-how-to-fix-no-driver-found-error-on-your-device-with-windows-11-8-or-7-solved/"><u>How to Fix 'No Driver Found' Error on Your Device with Windows 11, 8 or 7 – Solved!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-qualcomm-atheros-bluetooth-issues-in-windows-11/"><u>How to Fix Qualcomm Atheros Bluetooth Issues in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-qualcomm-wireless-ace-bluetooth-driver-issues-in-windows-11/"><u>How to Fix Qualcomm Wireless Ace Bluetooth Driver Issues in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-nubia-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Nubia</u></a></li>
+<li><a href="https://solve-info.techidaily.com/iphone-scanning-app-convert-documents-and-images-into-pdf-using-ocr-technology/"><u>IPhone Scanning App: Convert Documents & Images Into PDF Using OCR Technology</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-and-mouse-stop-working-after-sleep-on-windows-11-solved/"><u>Keyboard & Mouse Stop Working After Sleep on Windows 11 [Solved]</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/motorola-one-review-looks-like-an-iphone-costs-a-fraction-of-one/"><u>Motorola One Review: Looks Like an iPhone, Costs a Fraction of One</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ssential-manual-to-creating-youtube-playlists-for-2024/"><u>The Essential Manual to Creating YouTube Playlists for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-fixes-to-get-your-qualcomm-atheros-devices-bluetooth-up-and-running-on-windows-11/"><u>Ultimate Fixes to Get Your Qualcomm Atheros Device's Bluetooth Up and Running on Windows 11</u></a></li>
+</ul></div>
 

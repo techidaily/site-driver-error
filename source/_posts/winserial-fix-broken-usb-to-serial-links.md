@@ -1,7 +1,7 @@
 ---
 title: "Winserial: Fix Broken USB to Serial Links"
-date: 2024-08-15T06:45:59.301Z
-updated: 2024-08-16T06:45:59.301Z
+date: 2024-10-03T23:00:09.437Z
+updated: 2024-10-06T20:34:55.091Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
  You can update your Prolific USB to Serial driver to the latest version either manually or automatically.
 
 1. **Manual driver update –** You can update your Prolific USB to Serial driver manually by going to the official [Prolific website](http://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41&showlevel=0041-0041) , and searching for the most recent correct driver. Be sure to choose the only driver that is compatible with your Windows version.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb06e0d6f148.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 2. **Automatic driver update –** If you don’t have the time, patience, or computer skills to update your Prolific USB to Serial driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your exact Prolific adapter, and your Windows version, and it will download and install them correctly:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb0704ce6b75.jpg)
@@ -47,8 +40,12 @@ No advertising on the website.
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back** guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb072bf3dffe.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 2: Roll your Prolific USB to Serial driver back to an older version
 
  You may note that up-to-date drivers always keep your devices working in the best condition. But sometimes the latest driver doesn’t work with old hardware.
@@ -62,20 +59,31 @@ Here’s how you can do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. Double-click**Ports(COM & LPT)** , then**right-click** on your Prolific USB to Serial driver to select**Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075701f308.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075c361cc6.png)
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Select**Let me pick from a list of available drivers on my computer** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075da68269.png)
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Select an older version on the Model list. Then**Next** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb076059c302.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then the driver you select would be installed on your Windows 10 computer automatically.
@@ -95,8 +103,6 @@ Once it’s done, connect your device again and see if it goes well.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +110,19 @@ Once it’s done, connect your device again and see if it goes well.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-quickscreen-recorder-for-professionals/"><u>[New] 2024 Approved QuickScreen Recorder for Professionals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-identifying-the-optimal-cloud-data-vaults/"><u>[New] Identifying the Optimal Cloud Data Vaults</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-0x0000007e-blue-screen-of-death-error-on-windows-7/"><u>[Solved] 0X0000007E Blue Screen of Death Error on Windows 7</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-becoming-a-top-youtuber-with-gaming-livestreams-for-2024/"><u>[Updated] Becoming a Top YouTuber with Gaming Livestreams for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-detailed-framework-elevating-your-mobile-screenshots-using-mobizen-for-2024/"><u>[Updated] Detailed Framework Elevating Your Mobile Screenshots Using Mobizen for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-fix-addressing-missing-coprocessor-drivers-in-your-windows-10-machine/"><u>Comprehensive Fix: Addressing Missing Coprocessor Drivers in Your Windows 10 Machine</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-compatibility-error-wudfrd-loading-failure/"><u>Device Compatibility Error: WudfRd Loading Failure</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-troubleshooting-expert-tips-for-windows-11-users/"><u>GTX 950 Code 43 Troubleshooting: Expert Tips for Windows 11 Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-top-30-inspirational-ideas-fusing-animated-themes-and-social-media/"><u>In 2024, Top 30 Inspirational Ideas Fusing Animated Themes and Social Media</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mvp-stellar-repair-a-deep-dive-into-ms-sql/"><u>MVP Stellar Repair: A Deep Dive Into MS SQL</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-qualcomm-atheros-bluetooth-driver-problems-in-windows-10-solved/"><u>Troubleshooting Qualcomm Atheros Bluetooth Driver Problems in Windows 10 - Solved</u></a></li>
+</ul></div>
 

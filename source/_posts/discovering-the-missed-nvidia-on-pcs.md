@@ -1,7 +1,7 @@
 ---
 title: Discovering the Missed Nvidia on PCs
-date: 2024-08-09T08:56:04.908Z
-updated: 2024-08-10T08:56:04.908Z
+date: 2024-10-01T19:01:07.158Z
+updated: 2024-10-06T16:10:19.980Z
 tags:
   - win11
   - win10
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Show hidden devices
 
  If you recently got a new graphics card for your computer, then there’s a good chance it shows up as hidden. So we might have to un-hide it. Here’s a quick run-down:
@@ -39,11 +36,16 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91effe026eb.png)
 2. Click **View**   and then click **Show hidden devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/windows11showhiddendevices.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click **Action** \> **Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9234ccb8e93.jpg)
 4. Check if your Nvidia graphics driver shows up under the **Display adapters** category as a gray-out device, i.e. it looks pale compared to other functioning devices. If so, right-click your Nvidia display card and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-30.png)
 5. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-32.png)
@@ -60,22 +62,20 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/nvidia-graphics.png)
 4. **Restart** your computer, then check if the**graphics card not detected** problem is resolved. If yes, then congrats! But if the issue remains, please move on to**Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Update your BIOS
 
 **BIOS**   (**Basic Input/Output System**) performs the hardware initialization and jumpstarts the processes during the booting process of your computer. So we can try updating our **BIOS**   to see if it solves this   **graphics card not showing up in Device Manager in Windows 10/8/7**   issue.
@@ -89,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Repair corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -97,15 +104,24 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Open Fortectand run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -123,8 +139,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +146,22 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-expert-recommendations-the-very-best-ways-to-watch-cricket-on-screen/"><u>[New] 2024 Approved Expert Recommendations The Very Best Ways to Watch Cricket on Screen</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-chromatic-wonders-bridging-color-knowledge/"><u>[New] Chromatic Wonders Bridging Color Knowledge</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-streamlabs-versus-obs-the-ultimate-showdown/"><u>[Updated] 2024 Approved Streamlabs Versus OBS The Ultimate Showdown</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-elite-5-cameras-for-slow-motion-magic/"><u>[Updated] Elite 5 Cameras for Slow Motion Magic</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pursuit-of-visual-excellence-10-essential-iphone-composition-techniques/"><u>[Updated] Pursuit of Visual Excellence 10 Essential iPhone Composition Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-complete-guide-to-sourcing-elite-instagram-ringtones-and-designing-noteworthy-ringtone-alarms-for-2024/"><u>A Complete Guide to Sourcing Elite Instagram Ringtones & Designing Noteworthy Ringtone Alarms for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bypass-the-frustrating-itbm-driver-not-available-message-quick-and-effective-fixes-inside/"><u>Bypass the Frustrating 'ITBM Driver Not Available' Message – Quick and Effective Fixes Inside</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-disabled-to-enabled-status/"><u>From Disabled to Enabled Status</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-play-40c-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor Play 40C?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104423599-iphone-xs-not-detected-in-windows-server-r2-solved-it-here/"><u>IPhone XS Not Detected in Windows Server R2, Solved It Here!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectify-broadcom-nic-problem-dell-pc/"><u>Rectify Broadcom NIC Problem, Dell PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revamp-razer-driver-setup-on-windows-11-os/"><u>Revamp Razer Driver Setup on Windows 11 OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-sailing-addressing-windows-drivers-swiftly/"><u>Smooth Sailing: Addressing Windows Drivers Swiftly</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-repair-how-to-stop-your-kodi-from-crashing-continuously/"><u>Troubleshooting and Repair: How to Stop Your Kodi From Crashing Continuously</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-how-to-restore-functionality-of-qualcomm-atheros-bluetooth-on-windows-11/"><u>Troubleshooting Guide: How to Restore Functionality of Qualcomm Atheros Bluetooth on Windows 11</u></a></li>
+</ul></div>
 

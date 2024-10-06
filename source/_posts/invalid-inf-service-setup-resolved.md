@@ -1,7 +1,7 @@
 ---
 title: Invalid INF Service Setup - Resolved
-date: 2024-08-15T06:44:50.572Z
-updated: 2024-08-16T06:44:50.572Z
+date: 2024-10-02T22:50:40.803Z
+updated: 2024-10-06T18:43:07.004Z
 tags:
   - win11
   - win10
@@ -80,8 +80,12 @@ thumbnail: https://thmb.techidaily.com/6568a394f73588c2742e16d9523df01c904b1fdda
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 3: Install the missing driver files manually
 
  If the built-in USB driver fiels**mdmcpq.inf** and usbser.sys are missing or corrupted, the problem could occur. So to fix the problem, you can try to install these two driver files. You can replace them with the same files on another computer. Follow the steps below：
@@ -91,29 +95,23 @@ thumbnail: https://thmb.techidaily.com/6568a394f73588c2742e16d9523df01c904b1fdda
  1) On the computer with no such problem (The computer can run any Windows version), locate file **mdmcpq.inf** in**C:\\Windows\\INF.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -134,8 +132,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +139,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/completely-fixed-system-non-bootable-after-installation/"><u>[COMPLETELY FIXED] System Non-Bootable After Installation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-twitters-tube-to-your-whatsapp-buddy-list/"><u>[New] From Twitter's Tube to Your WhatsApp Buddy List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-collective-evaluation-of-vllo/"><u>2024 Approved The Collective Evaluation of VLLO</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlocking-the-power-of-instagrams-visual-storytelling-covers-edition/"><u>2024 Approved Unlocking the Power of Instagram's Visual Storytelling Covers Edition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/8-premier-online-photo-frame-creators-revealed-for-2024/"><u>8 Premier Online Photo Frame Creators Revealed for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-deviceid-33a0-acpi-issues/"><u>Addressing DEVICE_ID 33A0 Acpi Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/car-charge-denied-by-device/"><u>Car Charge Denied by Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-the-error-of-unrecognized-hardware-by-idt-software-package/"><u>Correcting the Error of Unrecognized Hardware by IDT Software Package</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cutting-through-the-noise-persuasive-proposals-and-chatgpt/"><u>Cutting Through The Noise: Persuasive Proposals & ChatGPT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-your-wireless-keyboard-issues-on-windows-step-by-step-guide/"><u>Fix Your Wireless Keyboard Issues on Windows – Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/fossils-sport-series-the-perfect-blend-of-economy-and-excellence-revealed/"><u>Fossil's Sport Series - The Perfect Blend of Economy and Excellence Revealed!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-longer-disconnected-wacoms-triumph/"><u>No Longer Disconnected: Wacom's Triumph</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seagate-disk-vanished-on-windows-10-heres-how-to-fetch-it-back/"><u>Seagate Disk Vanished on Windows 10? Here's How to Fetch It Back</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-integration-steps-how-to-easily-implement-new-software-features/"><u>Seamless Integration Steps: How to Easily Implement New Software Features</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/snap-a-different-shot-11-best-instagram-tools-for-2024/"><u>Snap A Different Shot - 11 Best Instagram Tools for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-intel-coprocessor-drivers-disappearance-on-windows-11-systems/"><u>Step-by-Step Solution for Intel Coprocessor Drivers Disappearance on Windows 11 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/streamline-your-game-with-updated-razer-deathadder-driver/"><u>Streamline Your Game with Updated Razer Deathadder Driver</u></a></li>
+</ul></div>
 

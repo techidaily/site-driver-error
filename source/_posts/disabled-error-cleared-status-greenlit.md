@@ -1,7 +1,7 @@
 ---
 title: Disabled Error Cleared - Status Greenlit
-date: 2024-08-09T08:56:38.746Z
-updated: 2024-08-10T08:56:38.746Z
+date: 2024-10-05T17:53:19.147Z
+updated: 2024-10-06T18:10:58.553Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/e99583f6b5b06e719853b0ad4d8e79890585ba4f6
 
 ## Disabled Error Cleared - Status Greenlit
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b988610e117a.png)
 
 If you encounter**This device is disabled. (Code 22)**in Device Manager, here are 4 solutions you can try to fix it. You may not have to try them all. Just work your way down the list until you find the one that works.
@@ -29,37 +26,35 @@ If you encounter**This device is disabled. (Code 22)**in Device Manager, here ar
 3. [**Uninstall your device driver**](https://cowinaudio.pxf.io/pyx40e)
 4. **[Reset the BIOS settings](https://bluettius.sjv.io/dkpnv2)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Enable your device driver
 
 Code 22 occurs usually because your device is manually disabled. Then manually enabling it should solve the problem. Here’s how to do so：
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 1. On your keyboard, press the**Windows** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png) key and**R** at the same time to open the Run box.
 2. Type **devmgmt.msc** and press**Enter**  to access Device Manager.  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e3f572c04.png)
 3. Expand the category that your device belongs to, right-click your device and select**Enable device** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your device driver
 
 Driver errors like Code 22 can often be fixed by updating device drivers. You can do so via Device Manager, or go to the device manufacturer’s official website to find the exactly right driver online, download it and install it step by step. If you don’t have the time, patience or computer skills to update your device driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.  You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
@@ -73,8 +68,18 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Uninstall your device driver
 
 Uninstalling your device driver is another solution you can try to fix **This device is disabled (Code 22).**Here’s how:
@@ -84,6 +89,13 @@ Uninstalling your device driver is another solution you can try to fix **This de
 2. Restart your computer, and Windows will automatically reinstall the driver for your device.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset the BIOS settings
 
@@ -96,17 +108,19 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
  On desktop PCs, the CMOS battery is usually located in an exposed housing on the motherboard (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)  
  Example – CMOS battery on a desktop PC  
- On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)  
  Example – CMOS battery on a laptop
 5. Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 6. Wait for about one or two minutes for the CMOS to reset itself to its defaults.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 ---
@@ -121,8 +135,6 @@ Please do reply if you got your problem fixed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +142,24 @@ Please do reply if you got your problem fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-obs-issue-resolved-camera-fix/"><u>[Updated] 2024 Approved OBS Issue Resolved - Camera Fix</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-perfect-timekeeping-a-guide-to-adding-timestamps-in-youtube-links/"><u>[Updated] In 2024, Perfect Timekeeping A Guide to Adding Timestamps in YouTube Links</u></a></li>
+<li><a href="https://driver-error.techidaily.com/deciphering-and-solving-the-battlenee-driver-loading-glitch-for-a-smoother-gaming-experience/"><u>Deciphering and Solving the Battlenee Driver Loading Glitch for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-unsuccessful-lacking-intel-adapter-support/"><u>Drivers Unsuccessful; Lacking Intel Adapter Support</u></a></li>
+<li><a href="https://driver-error.techidaily.com/elevating-system-bus-efficiency-on-win11/"><u>Elevating System Bus Efficiency on Win11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-not-enough-space-error-in-god-of-war-for-smoother-gaming-experience/"><u>Fix ‘Not Enough Space’ Error in God of War for Smoother Gaming Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-the-geforce-experience-encountered-an-error-issue-complete-guide/"><u>How to Fix the GeForce Experience 'Encountered an Error' Issue - Complete Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-force-boot-into-secure-operating-environment-and-eliminate-graphics-driver-issues-on-windows-8-systems/"><u>How to Force Boot Into Secure Operating Environment and Eliminate Graphics Driver Issues on Windows 8 Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y200e-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo Y200e 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-iphone-13-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your iPhone 13 Pro and iPad?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-simultaneous-capture-excellence-with-iphones-features/"><u>In 2024, Simultaneous Capture Excellence with iPhone's Features</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-update-tutorial-for-your-asus-maximus-x-heros-drivers/"><u>Seamless Update Tutorial for Your ASUS Maximus X Hero's Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-fix-how-to-correctly-install-your-hcmon-driver-and-avoid-failures/"><u>The Ultimate Fix: How to Correctly Install Your HCMon Driver and Avoid Failures</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-windows-10-qualcomm-atheros-bluetooth-not-working-solution/"><u>Troubleshooting Windows 10: Qualcomm Atheros Bluetooth Not Working Solution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-fixing-issues-with-your-outdated-usb-composite-device/"><u>Troubleshooting: Fixing Issues with Your Outdated USB Composite Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-downloading-high-quality-4k-videos-from-youtube-without-losing-clarity/"><u>Ultimate Guide: Downloading High-Quality 4K Videos From YouTube Without Losing Clarity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-compatible-samsung-mobile-system/"><u>Windows-Compatible: Samsung Mobile System</u></a></li>
+</ul></div>
 
