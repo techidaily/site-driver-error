@@ -1,7 +1,7 @@
 ---
 title: Device Struggles with Resource Allocation
-date: 2024-08-09T08:52:23.249Z
-updated: 2024-08-10T08:52:23.249Z
+date: 2024-10-05T16:08:12.592Z
+updated: 2024-10-12T16:15:18.905Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
 
 ## Device Struggles with Resource Allocation
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb84ca273139.jpg)
  If you’re greeted with this   **This device cannot find enough free resources that it can use. (Code 12)**
  **If you want to use this device, you will need to disable one of the other devices on this system.** error after upgrading Windows, you’re not alone. Many users have reported the same.
@@ -30,9 +27,6 @@ The good news is, it can be easily fixed!
 
  This conflict is often indicated by a yellow exclamation mark on the device name in Device Manager**General** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix This Device cannot find enough free resources that it can use
 
  Both fixes below work in**Windows 10** ,**8** and**7\.**
@@ -46,18 +40,6 @@ The good news is, it can be easily fixed!
 
 1. In**Device Manager** , double-click on**the problem driver** .
 2. Click the**Driver** tab and then click   **Roll Back Driver.**  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb851fb0ebc3.jpg)
 3. Click **Yes**   if asked for confirmation. Then the driver will be restored to a previous version.
 4. **Restart** you computer and check if_that device_ works properly.
@@ -65,8 +47,12 @@ The good news is, it can be easily fixed!
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Reinstall the problem driver
 
  (**Ignore this** if**code 12** is not on your WiFi adapter or network adapter.)  
@@ -76,16 +62,34 @@ The good news is, it can be easily fixed!
 2. Check**the box** and then click **Uninstall**   in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 3. **Restart** your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Download **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Run**Driver Easy** and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. **Restart** your computer and hopefully the**code 12** (**This device cannot find enough free resources that it can use.**) error is gone by now.
 
 ---
@@ -100,8 +104,6 @@ The good news is, it can be easily fixed!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +111,26 @@ The good news is, it can be easily fixed!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-advanced-control-enhancing-your-live-broadcast-experience/"><u>[New] 2024 Approved Advanced Control Enhancing Your Live Broadcast Experience</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-enhancing-profile-photo-impact/"><u>[New] In 2024, Enhancing Profile Photo Impact</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-masterful-moment-preservation-a-gif-collectors-dream-toolkit/"><u>[Updated] In 2024, Masterful Moment Preservation - A Gif Collector's Dream Toolkit</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimizing-remote-team-meetings-with-skype-screen-sharing/"><u>[Updated] Optimizing Remote Team Meetings with Skype Screen Sharing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unlock-exclusive-youtube-visuals-top-5-tools-reviewed/"><u>2024 Approved Unlock Exclusive YouTube Visuals – Top 5 Tools Reviewed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/dive-into-the-world-of-instagram-voice-personalization-for-2024/"><u>Dive Into the World of Instagram Voice Personalization for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-adb-connection-gone-wrong-in-osx/"><u>Fix ADB Connection Gone Wrong in OSX</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-non-functional-dts-truehd-and-e628-drivers-on-windows-after-failed-upgrade-now-solved/"><u>Fix Non-Functional DTS TrueHD and E628 Drivers on Windows After Failed Upgrade - Now Solved!✅</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-missing-touchpad-driver-issue/"><u>Fixing the Missing Touchpad Driver Issue</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/future-developers-meet-your-ideal-programming-classes-of-the-year-2024/"><u>Future Developers, Meet Your Ideal Programming Classes of the Year 202^4!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-infinix-note-30-pro-by-drfone-android/"><u>How to Bypass FRP on Infinix Note 30 Pro?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-idt-high-definition-audio-codec-driver-problem/"><u>How to Fix IDT High Definition Audio CODEC Driver Problem</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS System? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-poco-m6-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Poco M6 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/integrated-driver-setup-for-pc-cards/"><u>Integrated Driver Setup for PC Cards</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mouse-lags-freezes-stutters-in-windows-10-fixed/"><u>Mouse Lags, Freezes, Stutters in Windows 10 [Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-iphone-data-transfer-hurdles-essential-usb-driver-fixes/"><u>Overcoming iPhone Data Transfer Hurdles: Essential USB Driver Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolution-to-recurring-amd-glitches/"><u>Resolution to Recurring AMD Glitches</u></a></li>
+<li><a href="https://driver-error.techidaily.com/sysware-printer-driver-successfully-installed/"><u>SysWare Printer Driver - Successfully Installed</u></a></li>
+</ul></div>
 
