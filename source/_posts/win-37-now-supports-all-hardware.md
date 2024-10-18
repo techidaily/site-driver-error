@@ -1,7 +1,7 @@
 ---
 title: Win 37 Now Supports All Hardware
-date: 2024-08-09T08:48:02.799Z
-updated: 2024-08-10T08:48:02.799Z
+date: 2024-10-12T21:20:40.498Z
+updated: 2024-10-18T15:31:09.803Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/f17f33138f47cc809c1c7740ec4a954bd7d355028
 
 Does this look familiar?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dd7601999ac.png)
 
  If you discover this error saying   **Windows cannot initialize the device driver for this hardware(Code 37)**  of your device in Device Manager, don’t be worried. Many Windows users are reporting it. The good news is you can fix it easily with this guide.
@@ -40,9 +37,6 @@ Does this look familiar?
 
  3) Click **Scan for hardware changes**  in the **Action**  section.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dd7d26dfe1b.jpg)
 
  Windows should then reinstall or upgrade your device driver automatically.
@@ -50,6 +44,13 @@ Does this look familiar?
  4) Restart your computer and check to see if your device status is normal.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dd7a148fc6e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Make sure you have the correct compatible version driver for your Windows
 
@@ -61,10 +62,14 @@ Does this look familiar?
 
  2) Type **devmgmt.msc**  and click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dd7944d99b1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click on your device with Code 37 error, then click **Uninstall device** .
 
@@ -76,9 +81,6 @@ Does this look familiar?
 
  5) Restart your computer and check to see if your device status is normal.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dd7a148fc6e.png)
 
 ## Method 3: Update your device driver automatically
@@ -93,25 +95,30 @@ Does this look familiar?
 
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Click **Update**  next to your flagged device driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Restart your computer and check to see if your device status is normal.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dd7a148fc6e.png)
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -123,8 +130,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +137,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-eliminate-ambient-chatter-in-skype-calls/"><u>[New] Eliminate Ambient Chatter in Skype Calls</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-jumpstart-your-cash-with-these-8-innovative-tiktok-methods/"><u>[New] In 2024, Jumpstart Your Cash with These 8 Innovative TikTok Methods</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-whats-the-best-youtube-thumbnail-size/"><u>[Updated] In 2024, What's the Best YouTube Thumbnail Size?</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-tecno-spark-10-4g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Tecno Spark 10 4G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-hurdle-cleared-successful-run/"><u>Driver Installation Hurdle Cleared – Successful Run</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-fixes-for-an-unresponsive-hp-wireless-keyboard-expert-advice/"><u>Easy Fixes for an Unresponsive HP Wireless Keyboard - Expert Advice</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamlessly-combining-iphone-videos-and-images/"><u>In 2024, Seamlessly Combining IPhone Videos and Images</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-secrets-to-flawless-remote-audio-production/"><u>In 2024, Secrets to Flawless Remote Audio Production</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-top-18-4k-camcorders/"><u>In 2024, Top 18 4K Camcorders</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-driver-update-successful-installation/"><u>Nvidia Driver Update: Successful Installation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/remedying-the-failure-of-enex-driver-integration-in-win11/"><u>Remedying the Failure of eNEX Driver Integration in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-access-is-denied-tips-for-successful-usb-installation/"><u>Resolving 'Access Is Denied': Tips for Successful USB Installation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-incompatibility-how-to-install-needed-drivers-for-your-hardware-in-windows-xpvista7/"><u>Resolving Incompatibility: How to Install Needed Drivers for Your Hardware in Windows XP/Vista/7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-error-48-on-device-hub/"><u>Solved Error #48 on Device Hub</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-setup-error-intelladapter-not-recognized/"><u>System Setup Error: IntellAdapter Not Recognized</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-excessive-pc-resources-by-unrealcefsubprocess-in-windows/"><u>Tackling Excessive PC Resources by UnrealCEFSubprocess in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-when-your-final-usb-gadget-fails-and-wont-show-up-in-windows/"><u>Troubleshooting Steps When Your Final USB Gadget Fails & Won't Show Up in Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-gaming-pros-choice-of-5-microphones/"><u>YouTube Gaming Pros' Choice of 5 Microphones</u></a></li>
+</ul></div>
 

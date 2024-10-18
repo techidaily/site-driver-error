@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Mouse & Keyboard Glitch on Windows 11"
-date: 2024-10-06T16:18:35.488Z
-updated: 2024-10-12T16:27:40.409Z
+date: 2024-10-11T00:28:29.950Z
+updated: 2024-10-18T12:47:04.400Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Adjust your keyboard settings
 
  Windows has a setting, called Filter Keys, that allows you to control how it deals with accidental repeated keystrokes. Unfortunately, if turned on, this setting has been known to cause some keyboards to stop working in Windows 10\. So you should check if it’s turned on. If it is, you should turn it off and see if that resolves the problem.
@@ -53,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Ease of Access** .
@@ -67,18 +60,25 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Reinstall your keyboard driver
 
@@ -92,26 +92,27 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -140,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ## Method 5: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -185,24 +179,21 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-optimize-playback-settings-in-snapchat-applications/"><u>[New] How To Optimize Playback Settings in Snapchat Applications</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-synchronizing-soundscapes-a-guide-to-multi-service-moves-for-2024/"><u>[New] Synchronizing Soundscapes A Guide to Multi-Service Moves for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cutting-edge-advanced-techniques-in-youtube-video-editing/"><u>[Updated] 2024 Approved Cutting Edge Advanced Techniques in YouTube Video Editing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-a-complete-breakdown-of-googles-podcast-system/"><u>[Updated] A Complete Breakdown of Google's Podcast System</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-earning-through-youtube-navigating-revenue-without-ads/"><u>[Updated] Earning Through YouTube Navigating Revenue Without Ads</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-melodies-for-memories-music-tips-for-reels-on-instagram/"><u>[Updated] Melodies for Memories Music Tips for Reels on Instagram</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-y100-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo Y100 Activity | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphical-hardware-blocked-by-operating-system-win11/"><u>Graphical Hardware Blocked by Operating System Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-the-gtx/"><u>How to Fix the GTX</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-boost-your-exercise-motivation-with-top-20-music-choices/"><u>In 2024, Boost Your Exercise Motivation with Top 20 Music Choices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-making-the-most-out-of-your-films-b-roll/"><u>In 2024, Making the Most Out of Your Film's B-Roll</u></a></li>
-<li><a href="https://extra-support.techidaily.com/insight-into-excellence-a-detailed-guide-to-mastering-vivacut-editing-for-2024/"><u>Insight Into Excellence A Detailed Guide to Mastering VivaCut Editing for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/pinpoint-pci-data-acquisition-errors-win10/"><u>Pinpoint PCI Data Acquisition Errors Win10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/recover-lost-device-on-doswindows-3x/"><u>Recover Lost Device on DOS/Windows 3.x</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-unrecognized-driver-issues-a-step-by-step-guide-for-computer-compatibility/"><u>Resolve Unrecognized Driver Issues – A Step-by-Step Guide for Computer Compatibility</u></a></li>
-<li><a href="https://driver-error.techidaily.com/say-no-more-to-win11s-stubborn-bluetooth-problem-the-ultimate-fix-explained-guide-inside/"><u>Say No More to Win11's Stubborn Bluetooth Problem: The Ultimate Fix Explained [Guide Inside]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-ultimate-guide-to-repairing-intel-mmc/"><u>The Ultimate Guide to Repairing Intel MMC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/touchpad-drives-home-with-newfound-functionality/"><u>Touchpad Drives Home with Newfound Functionality</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-correcting-the-battleye-service-startup-failure-due-to-driver-load-mishap-error-1450/"><u>Troubleshooting Steps: Correcting the BattlEye Service Startup Failure Due to Driver Load Mishap (Error #1450)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unmatched-gaming-broadcasts-set-up-with-obs/"><u>[Updated] Unmatched Gaming Broadcasts - Set Up with OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-techniques-to-archivalize-chat-communication-in-whatsapp/"><u>2024 Approved Techniques to Archivalize Chat Communication in WhatsApp</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/craft-a-memorable-first-snap-your-shorts-thumbnail-blueprint/"><u>Craft a Memorable First Snap Your Shorts' Thumbnail Blueprint</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808153847-enhance-visual-experience-resetting-the-gpu-driver-across-various-windows-operating-systems/"><u>Enhance Visual Experience: Resetting the GPU Driver Across Various Windows Operating Systems.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-renesas-usb-30-driver-issue-on-windows-10/"><u>Fix Renesas USB 3.0 Driver Issue on Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-techkey-bluetooth-adapter-driver-supporting-windows-11-7-8/"><u>Get the Latest Techkey Bluetooth Adapter Driver - Supporting Windows 11, 7, 8</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-smart-8-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Smart 8 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-12-pro-max-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 12 Pro Max to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/iphone-7-not-recognized-by-windows-7-solved/"><u>IPhone 7 Not Recognized by Windows 7 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-device-driver-found-by-windows/"><u>No Device Driver Found by Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-itbm-driver-unavailable-issue-quickly-and-effectively/"><u>Resolve 'ITBM Driver Unavailable' Issue Quickly & Effectively</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-usb-functionality-in-windows-versions-7-and-8/"><u>Restoring USB Functionality in Windows Versions 7 & 8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-resurrection-without-the-windows-era/"><u>Tech Resurrection Without the Windows Era</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-guide-to-updating-razers-deathadder-on-win10/"><u>The Ultimate Guide to Updating Razer's Deathadder on Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unveiling-hidden-windows-10-elan-glitches/"><u>Unveiling Hidden Windows 10 Elan Glitches</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Win10 Solution: Lenovo BT Driver Malfunction"
-date: 2024-10-02T19:07:51.535Z
-updated: 2024-10-06T19:19:34.133Z
+date: 2024-10-15T12:44:31.475Z
+updated: 2024-10-18T04:41:45.241Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 * [Option 4: Perform a refresh](https://collovinc.sjv.io/jrkzwp)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 1: Enable Bluetooth hardware
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7a64714f6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Expand **Bluetooth Radios**  or **Bluetooth** .
 
 **Note** : If you **cannot** see any items listed under Network adapters or Bluetooth Radios, please proceed to **Option 2** .
@@ -65,22 +58,15 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b810d497f1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) If you see a yellow exclamation mark next to your Bluetooth driver, your Bluetooth hardware is not responding or set up correctly. You can refer to **Option 3** for more help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 2: Enable discovery mode
 
@@ -91,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 3: Update Bluetooth driver
 
@@ -109,6 +102,19 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 4: Perform a refresh
 
@@ -132,17 +138,24 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-essential-guide-to-promoting-your-brand-via-telegram-for-2024/"><u>[Updated] Essential Guide to Promoting Your Brand via Telegram for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-rapidrun-framefrozen-capture/"><u>[Updated] RapidRun FrameFrozen Capture</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-beginners-guide-to-mastering-windows-11-movie-maker-effortlessly/"><u>A Beginner’s Guide to Mastering Windows 11 Movie Maker Effortlessly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/get-your-hands-on-bitraser-professional-grade-hard-drive-cleaner/"><u>Get Your Hands on BitRaser: Professional-Grade Hard Drive Cleaner</u></a></li>
-<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-12-pro-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 12 Pro and iPad</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-secrets-to-finding-excellent-economic-pictures-online/"><u>In 2024, Secrets to Finding Excellent, Economic Pictures Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-your-printer-running-smoothly-with-the-new-epson-wf-3620-windows-driver-update/"><u>Keep Your Printer Running Smoothly with the New Epson WF-3620 Windows Driver Update!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ms-bda-visualized-graphics-card-resolution/"><u>MS BDA Visualized - Graphics Card Resolution</u></a></li>
-<li><a href="https://techidaily.com/solved-excel-2021-spreadsheet-disappears-after-opening-by-stellar-guide/"><u>Solved Excel 2021 Spreadsheet Disappears after Opening</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-correcting-non-functionality-and-recognition-errors-for-last-usb-device-on-windows/"><u>Step-by-Step Guide: Correcting Non-Functionality & Recognition Errors for Last USB Device on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-resolving-non-functional-bluetooth-drivers-for-qualcomm-atheros-on-windows-11/"><u>Troubleshooting Tips: Resolving Non-Functional Bluetooth Drivers for Qualcomm Atheros on Windows 11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unraveling-the-economics-of-an-amazon-prime-membership/"><u>Unraveling the Economics of an Amazon Prime Membership</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-access-to-the-finest-ae-templates-all-free/"><u>[Updated] Exclusive Access to The Finest AE Templates, All-Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-the-way-you-view-web-content-using-ms-edges-split-screen-functionality/"><u>[Updated] Transform the Way You View Web Content Using MS Edge's Split Screen Functionality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-increasing-or-slowing-down-frame-rate-on-your-story-feed/"><u>2024 Approved Increasing or Slowing Down Frame Rate on Your Story Feed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-free-improvement-suite-pc-and-phone-edition/"><u>2024 Approved Prime FREE Improvement Suite PC & Phone Edition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/audio-device-unheard-in-win10-heres-the-quick-troubleshooting-guide/"><u>Audio Device Unheard in Win10? Here's the Quick Troubleshooting Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/blank-screen-for-external-drives-on-w10w11/"><u>Blank Screen for External Drives on W10/W11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bring-back-life-to-flawed-usb-serial-devices/"><u>Bring Back Life to Flawed USB-Serial Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bt-compatibility-lenovo-and-windows-11-harmony-guide/"><u>BT Compatibility: Lenovo & Windows 11 Harmony Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-usb-composite-devices-an-insight-into-outdated-technology/"><u>Decoding USB Composite Devices: An Insight Into Outdated Technology</u></a></li>
+<li><a href="https://driver-error.techidaily.com/demystifying-the-legacy-usb-composite-device-issue-a-complete-guide/"><u>Demystifying the Legacy USB Composite Device Issue - A Complete Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-harmony-wacoms-success-story/"><u>Device Harmony: Wacom's Success Story</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-your-wi-fi-network-password-a-guide-for-android-and-iphone-users/"><u>Discovering Your Wi-Fi Network Password: A Guide for Android & iPhone Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/expert-tips-to-sharpen-video-calls-with-zoom-in-teams-for-2024/"><u>Expert Tips to Sharpen Video Calls with ZOOM in Teams for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audfreetechunveiled-detailed-look-at-the-new-audio-tool/"><u>In 2024, AudFreeTechUnveiled Detailed Look at the New Audio Tool</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfect-your-pictures-focus-and-soft-edges-quickly/"><u>In 2024, Perfect Your Picture's Focus & Soft Edges Quickly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-track-trimming-techniques-for-different-environments-internet-personal-computer-smartphone/"><u>Mastering Track Trimming Techniques for Different Environments: Internet, Personal Computer, Smartphone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102898643-resolve-the-driver-not-found-issue-in-your-itbm-with-simple-steps/"><u>Resolve the 'Driver Not Found' Issue in Your ITBM with Simple Steps!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-educational-savings-with-a-150-apple-gift-card-when-purchasing-a-macipad-zdnet/"><u>Unlock Educational Savings with a $150 Apple Gift Card when Purchasing a Mac/iPad | ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104265513-unresponsive-games-due-to-gpu-issue-quick-solution-inside/"><u>Unresponsive Games Due to GPU Issue? Quick Solution Inside!</u></a></li>
 </ul></div>
 

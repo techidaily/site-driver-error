@@ -1,7 +1,7 @@
 ---
 title: "Silent Peripheral: No Response in Windows OS"
-date: 2024-08-09T08:48:50.046Z
-updated: 2024-08-10T08:48:50.046Z
+date: 2024-10-12T11:23:09.607Z
+updated: 2024-10-17T21:37:45.204Z
 tags:
   - win11
   - win10
@@ -32,18 +32,12 @@ thumbnail: https://thmb.techidaily.com/b8ee7f668d81642e85ade38e34abffd540ab85d6f
 
  If you do not have a receiver for your wireless mouse, then you are having a Bluetooth mouse, not a wireless mouse. Some of the instructions here might not apply.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ca13fd8604e.jpg)
 
  **NOTE** : Replace your mouse if it’s over 5 years old.
 
  Some of the following fixes require a working pointing device. Try using a pointing pen, a USB mouse, a touchpad, or speech recognition. If you have previously enabled the remote connection on your Windows 10, or that you have installed Teamviewer, use them as per your own needs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 1: Reinstall the wireless mouse driver
 
 **NOTE**  : You should use the remote control feature to proceed with the following method.
@@ -56,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/b8ee7f668d81642e85ade38e34abffd540ab85d6f
 
 2) Expand **Mice and other pointing devices**  . Right-click your wireless mouse and click**Update Driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Update-mouse-drivers-from-the-Device-Manager.jpg)
 
  3) Click **Browse my computer for driver software** .
@@ -67,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/b8ee7f668d81642e85ade38e34abffd540ab85d6f
 
  4) Click **Let me pick from a list of device drivers on my computer** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-Browse-my-computer-for-drivers.jpg)
 
  5)**Uncheck** the box**Show compatible hardware** . Select your device. Click**Next** to continue.
@@ -86,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/b8ee7f668d81642e85ade38e34abffd540ab85d6f
 
  9) See if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2: Update the mouse driver
 
  If your wireless mouse still refuses to work after the method above, it’s likely that you’re using the wrong or outdated driver altogether.
@@ -100,18 +95,12 @@ thumbnail: https://thmb.techidaily.com/b8ee7f668d81642e85ade38e34abffd540ab85d6f
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-drivers-1.jpg)
 
  3) Click the**Update** button next to the flagged mouse device to automatically download and install the correct version of its driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-drivers-2-1.jpg)
 
  4) Restart your computer and check to see if Windows 10 can now detect your wireless mouse.
@@ -132,9 +121,6 @@ thumbnail: https://thmb.techidaily.com/b8ee7f668d81642e85ade38e34abffd540ab85d6f
 
 1) On your keyboard, press the **Windows logo + R keys** simultaneously to open the Run box . Type**control** and hit Enter to open the Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
  2) Click on**System and Security** . If you don’t see it, make sure you’ve set **Category** as your view-by.
@@ -145,17 +131,23 @@ thumbnail: https://thmb.techidaily.com/b8ee7f668d81642e85ade38e34abffd540ab85d6f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Control-Panel-System-and-Security-Power-Options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) In the left pane, click on**Choose what the power buttons do** .
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Power-Options-Choose-what-the-power-buttons-do.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click on the**Change settings that are currently unavailable** link.
 
@@ -166,6 +158,13 @@ thumbnail: https://thmb.techidaily.com/b8ee7f668d81642e85ade38e34abffd540ab85d6f
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-turn-off-fast-startup.jpg)
 
  5) Restart your computer. All drivers will be initialized on startup now. So the time needed to start your computer might be longer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5: Repair system files
 
@@ -179,17 +178,18 @@ thumbnail: https://thmb.techidaily.com/b8ee7f668d81642e85ade38e34abffd540ab85d6f
 
  2) Launch Fortect and it will run a free scan of your PC. Upon completion of the scan, the software will conduct a diagnosis and show you a summary of system issues. This will take a few minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Fortect-START-SCAN.png)
 
  3) If it detects any issues on your PC, click Start Repair to start the repair process.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. Should you encounter any issues, do not hesitate to reach out to their support team at [support@fortect.com](https://lenovo-in.zlvv.net/kj14kn) .
 
@@ -208,8 +208,6 @@ thumbnail: https://thmb.techidaily.com/b8ee7f668d81642e85ade38e34abffd540ab85d6f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +215,20 @@ thumbnail: https://thmb.techidaily.com/b8ee7f668d81642e85ade38e34abffd540ab85d6f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-video-producers-route-to-royalty-free-soundtracks/"><u>[New] 2024 Approved The Video Producer’s Route to Royalty-Free Soundtracks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elevate-your-videos-a-complete-shift-from-sdr-to-hdr/"><u>[New] Elevate Your Videos A Complete Shift From SDR to HDR</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/corsair-k70-driver-download-and-compatibility-tips-for-gamers-and-pro-users/"><u>Corsair K70 Driver Download & Compatibility Tips for Gamers & Pro Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-non-functional-bluetooth-drivers-a-step-by-step-for-qualcomm-atheros-on-windows-10/"><u>Fixing Non-Functional Bluetooth Drivers: A Step-by-Step for Qualcomm Atheros on Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-11-pro-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 11 Pro to Mac Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/kostenloser-weg-zur-erstellung-einer-systemwiederherstellungsfestplatte-fur-windows-11/"><u>Kostenloser Weg Zur Erstellung Einer Systemwiederherstellungsfestplatte Für Windows 11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-perfecting-music-syncs-with-gifs-on-a-windows-device/"><u>New In 2024, Perfecting Music Syncs with Gifs on a Windows Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-device-manager-software-glitches/"><u>Overcoming Device Manager Software Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gaming-saved-solving-the-mystery-behind-red-dead-online-crashes/"><u>PC Gaming Saved: Solving the Mystery Behind Red Dead Online Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/seven-key-benefits-of-continuing-with-your-oldie-but-goodie-windows-10/"><u>Seven Key Benefits of Continuing with Your Oldie but Goodie - Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-how-to-get-and-set-up-necessary-drivers-on-your-windows-device-windows-1087/"><u>Solved! How to Get and Set Up Necessary Drivers on Your Windows Device (Windows 10/8/7)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/strategic-approaches-for-solving-nvidia-driver-failures/"><u>Strategic Approaches for Solving Nvidia Driver Failures</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-fixing-hardware-device-not-recognized-error-in-idt-packages/"><u>Troubleshooting: Fixing 'Hardware Device Not Recognized' Error in IDT Packages</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solved: Microsoft Visual C++ Runtime Library Error in Windows 11"
-date: 2024-10-01T23:17:21.247Z
-updated: 2024-10-06T16:21:36.819Z
+date: 2024-10-16T03:24:03.567Z
+updated: 2024-10-18T08:57:29.313Z
 tags:
   - win11
   - win10
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
   
  5) Check to see if the Runtime error stops now. If the problem persists, please continue with the next option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2: Update display driver
 
  You can choose to update display driver by yourself or via Device Manager. Either way, it is always suggested that you get your drivers from legitimate sources.
@@ -76,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965ed6994a36.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged device driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -87,26 +80,26 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965ed8fabadd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3: Perform a Clean boot
 
  1) On your keyboard, press**Windows key** and**R** at the same time, then type**msconfig** in the search box and hit**Enter** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861ddb2a4ac5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Go to**Services** tab, click the**Disable all** button on the bottom right corner.  
   
@@ -119,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
  4) Go to**General** tab, un-check the box for**Load startup items** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861dee39618b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Then hit**Apply** and**OK** to close the System Configuration window.
   
@@ -155,24 +155,22 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-streamlined-method-to-alter-iphone-resolution/"><u>[New] In 2024, Streamlined Method to Alter iPhone Resolution</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-utilizing-skys-bounty-to-brighten-indoors/"><u>[New] Utilizing Sky's Bounty to Brighten Indoors</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-elevate-your-media-projects-utilizing-story-remix-in-windows-photos/"><u>[Updated] 2024 Approved Elevate Your Media Projects Utilizing Story Remix in Windows Photos</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-conversational-courtesies-react-and-engage-on-discord-platforms/"><u>[Updated] Conversational Courtesies React and Engage on Discord Platforms</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-innovations-and-hacks-every-content-creator-should-know-about-reels/"><u>2024 Approved Innovations and Hacks Every Content Creator Should Know About Reels</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-the-needed-parts-not-found-error-in-win11/"><u>Eliminating the 'Needed Parts Not Found' Error in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-default-radeon-wattman-driver-issue-a-step-by-step-guide/"><u>Fixing the Default Radeon Wattman Driver Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gadget-disallows-car-load/"><u>Gadget Disallows Car Load</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-successfully-launch-battleye-service-after-encountering-driver-initialization-error-1450/"><u>How to Successfully Launch BattlEye Service After Encountering Driver Initialization Error 1450</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-your-intel-hardware-accelerated-stack-and-fusion-raid-driver-on-windows-pcs/"><u>How to Update Your Intel Hardware Accelerated Stack & Fusion RAID Driver on Windows PCs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-s18-pro-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-the-spotlight-these-8-trending-video-clips-online-for-2024/"><u>In the Spotlight These 8 Trending Video Clips Online for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keyboard-problem-in-win-10-system/"><u>Keyboard Problem in Win 10 System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/macos-high-sierra-not-detecting-dell-xps-laptop-issue-resolved/"><u>MacOS High Sierra Not Detecting Dell XPS Laptop, Issue Resolved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/realtek-network-card-unresponsive-after-win11-transition-solved/"><u>Realtek Network Card Unresponsive After Win11 Transition (Solved)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/successfully-repairing-non-functional-qualcomm-atheros-bluetooth-drivers-for-windows-10/"><u>Successfully Repairing Non-Functional Qualcomm Atheros Bluetooth Drivers for Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-ultimate-solution-for-the-inoperative-keyboard-on-your-beloved-hp-notebook-fix-it-today-article-title-article-title-with-phase-descriptions402-character5/"><u>The Ultimate Solution for the 'Inoperative' Keyboard on Your Beloved HP Notebook - Fix It Today! (Article Title) — Article Title with Phase Descriptions—402 Characters</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-non-responsive-bluetooth-keyboards-in-windows-environments/"><u>Troubleshooting Non-Responsive Bluetooth Keyboards in Windows Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-memory-assessment-made-easy/"><u>Windows Memory Assessment Made Easy</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-elevate-your-brand-with-ai-enhanced-naming-solutions/"><u>[New] 2024 Approved Elevate Your Brand with AI-Enhanced Naming Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-most-extensive-selection-of-free-illustrator-portals/"><u>[New] In 2024, The Most Extensive Selection of Free Illustrator Portals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-softening-audio-routine/"><u>[New] Step-by-Step Softening Audio Routine</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlocking-creativity-in-youtube-shorts-template-development-for-2024/"><u>[New] Unlocking Creativity in YouTube Shorts Template Development for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-high-definition-audio-device-driver-issue-after-windows-7-install/"><u>[Solved] High Definition Audio Device Driver Issue After Windows 7 Install</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-xiaomi-redmi-k70e-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Xiaomi Redmi K70E to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-steam-statistics-monitoring-your-gaming-time-and-credits/"><u>Decoding Steam Statistics: Monitoring Your Gaming Time & Credits</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-detected-ideport0-control-error/"><u>Driver's Detected: Ideport0 Control Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-solutions-to-fix-unrecognized-driver-installations-for-compatibility/"><u>Effective Solutions to Fix Unrecognized Driver Installations for Compatibility</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-marvell-91xx-driver-issue-on-windows-11-solved/"><u>Fix Marvell 91Xx Driver Issue on Windows 11 [Solved]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-download-vlc-player-for-free-and-safe-on-macstep-by-step-for-2024/"><u>How to Download VLC Player for Free and Safe on Mac?[Step-by-Step] for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-recover-from-a-crash-in-your-radeon-wattman-configurations-successfully/"><u>How To Recover From a Crash in Your Radeon Wattman Configurations Successfully</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-driver-update-successfully-installed/"><u>Nvidia Driver Update Successfully Installed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/professional-recorder-capture-studio-win10-edition/"><u>Professional Recorder Capture Studio Win10 Edition</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revival-phoenix-toolbox-pdf-repair/"><u>Revival Phoenix Toolbox: PDF Repair</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-invalid-drivers-steps-to-rectify-unrecognized-installations/"><u>Troubleshooting Invalid Drivers: Steps to Rectify Unrecognized Installations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-serial-linkup-windows-system-recovery-tips/"><u>USB Serial Linkup: Windows System Recovery Tips</u></a></li>
 </ul></div>
 

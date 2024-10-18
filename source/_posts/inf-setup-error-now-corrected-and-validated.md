@@ -1,7 +1,7 @@
 ---
 title: INF Setup Error - Now Corrected & Validated
-date: 2024-10-05T16:29:53.711Z
-updated: 2024-10-12T16:35:35.405Z
+date: 2024-10-11T19:21:06.126Z
+updated: 2024-10-17T18:47:20.797Z
 tags:
   - win11
   - win10
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
@@ -97,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
@@ -108,10 +108,16 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -141,16 +147,24 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-snap-up-humor-kapwings-meme-mastery-tool/"><u>[New] Snap Up Humor - Kapwing’s Meme Mastery Tool</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-the-default-gateway-is-not-available/"><u>[Solved] The Default Gateway Is Not Available</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-launching-your-first-telegram-marketing-campaign/"><u>2024 Approved Launching Your First Telegram Marketing Campaign</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/online-mp4-to-flac-converter-by-movavi/"><u>無料で安全なOnline MP4 to FLAC Converter by Movavi – スムーズな音楽体験を!</u></a></li>
-<li><a href="https://games-able.techidaily.com/adding-language-to-roms-the-translation-tutorial/"><u>Adding Language to ROMs: The Translation Tutorial</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-installation-guide-to-fix-no-drivers-found-in-windows-versions/"><u>Driver Installation Guide to Fix 'No Drivers Found' In Windows Versions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-non-recognized-usb-in-windows-78-systems/"><u>Fixing Non-Recognized USB in Windows 7/8 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hardware-detection-failed-missing-intel-component/"><u>Hardware Detection Failed: Missing Intel Component</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-poco-x5-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Poco X5 Pro Phone Screen?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-swiftrecordingtool-with-narrator-functionality/"><u>In 2024, SwiftRecordingTool with Narrator Functionality</u></a></li>
-<li><a href="https://driver-error.techidaily.com/innovative-reverse-opening-u-design-chinese-micro-desktop-with-expandable-pcie-ports/"><u>Innovative Reverse-Opening U-Design Chinese Micro Desktop with Expandable PCIe Ports</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-input-device-status-normalized-on-windows-11/"><u>[Fixed] Input Device Status Normalized on Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-expertly-curated-9-best-video-conferencing-software-for-smartphones-and-tablets/"><u>[New] 2024 Approved Expertly Curated 9 Best Video Conferencing Software for Smartphones & Tablets</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-from-roots-to-refined-rogues-journey-through-genres/"><u>[New] 2024 Approved From Roots to Refined Rogue's Journey Through Genres</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-surge-in-subscribers-effective-youtube-campaigns/"><u>[New] In 2024, Surge in Subscribers Effective YouTube Campaigns</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-invent-iconic-image-jokes-for-2024/"><u>[Updated] Invent Iconic Image Jokes for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/audio-device-on-high-definition-audio-bus-driver-error-fixed/"><u>Audio Device on High Definition Audio Bus Driver Error [Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/broadcom-wi-fi-adapter-enhanced-for-windows-with-n-compatibility/"><u>Broadcom Wi-Fi Adapter Enhanced for Windows with N Compatibility</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-virtual-trainer-companion-crafting-custom-fitness-programs/"><u>ChatGPT as Your Virtual Trainer Companion: Crafting Custom Fitness Programs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-mend-your-nonworking-hp-laptop-keys-one-step-at-a-time-how-to-guide-tech-talker-358-chars/"><u>Easy Steps to Mend Your Nonworking HP Laptop Keys, One Step at a Time – How-To Guide | Tech Talker 358 Chars</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-driver-issues-in-windows-operating-systems-windows-11-8-and-7/"><u>Fix Guide: Driver Issues in Windows Operating Systems (Windows 11, 8, & 7)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-your-windows-10-missing-coprocessor-driver-problem-today/"><u>Fix Your Windows 10 Missing Coprocessor Driver Problem Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-make-money-on-periscope-if-you-are-new-to-this-space-for-2024/"><u>How to Make Money on Periscope if You Are New to This Space for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-xiaomi-redmi-13c-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721099245282-internal-wifi-and-bluetooth-not-working-on-win-10-quick-fix/"><u>Internal Wifi and Bluetooth Not Working on Win 10 – Quick Fix!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-bluetooth-driver-challenges-optimizing-qualcomm-atheros-on-the-latest-windows-platform/"><u>Overcoming Bluetooth Driver Challenges: Optimizing Qualcomm Atheros on the Latest Windows Platform</u></a></li>
+<li><a href="https://android-frp.techidaily.com/samsung-galaxy-s24plus-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Samsung Galaxy S24+ ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/step-by-step-guide-transferring-your-dvd-library-to-amazons-online-storage/"><u>Step-by-Step Guide: Transferring Your DVD Library to Amazon's Online Storage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-definitive-guide-to-turning-off-your-new-iphone-15-propro-max/"><u>The Definitive Guide to Turning Off Your New iPhone 15 Pro/Pro Max</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-fixed-bsod-irql-not-equal/"><u>Win11 Fixed: BSOD - Irql Not Equal</u></a></li>
 </ul></div>
 
