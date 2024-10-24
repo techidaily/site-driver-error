@@ -1,7 +1,7 @@
 ---
 title: "Bluetooth Connectivity Fix: Solving Qualcomm Atheros Issues on Windows 11"
-date: 2024-08-09T08:44:42.715Z
-updated: 2024-08-10T08:44:42.715Z
+date: 2024-10-18T19:12:15.441Z
+updated: 2024-10-24T03:45:46.615Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 
 ## Bluetooth Connectivity Fix: Solving Qualcomm Atheros Issues on Windows 11
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587848fa4952b.png)
 
 Windows 10 users have reported to have problems with their Atheros Bluetooth driver on and off for months since the upgrade. When Bluetooth driver is sloppy, your Bluetooth devices, wireless mouse, wireless keyboard, wireless headphone, are not working properly.
@@ -93,16 +90,10 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
  2) When the download completes, press**Windows key** and**X** at the same time and choose**Device Manager** .
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878625e408ff.png)
 
 3) Locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Update Driver Software**.
   
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878797a95615.png)
 
  4) Choose**Browse my computer for driver software** .
@@ -115,9 +106,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 6) Un-tick the box for **Show compatible hardware** . Then you should be able to see **Qualcomm Atheros** driver option on the left. On the right, choose one of the drivers listed. We go with**Qualcomm Atheros AR3011 Bluetooth 3.0** . You need to try them one by one by yourself to select the right one for your PC. When done picking, click**Next** to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787b0460727.png)
 
 7)Then follow the instructions on screen to get your Qualcomm Atheros Bluetooth drive installed.  
@@ -132,9 +120,6 @@ Why not have a try at [**Driver Easy**](https://tools.techidaily.com/drivereasy/
   
 Moreover, it is very easy to use. Just click the**Scan Now**button for**Driver Easy**to help you with the scan for missing or outdated drivers;
   
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  \\![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76e376da11.png)
 
 Then the**Update**button next to the driver you need to update.
@@ -158,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +150,33 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/solved-issue-failed-to-create-conexant-audio-factory-the-smartaudio-will-now-exit/"><u>[Solved] Issue: “Failed to Create Conexant Audio Factory, The SmartAudio Will Now Exit”</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-discover-10-leading-online-video-editors-android-pc-for-2024/"><u>[Updated] Discover 10 Leading Online Video Editors (Android, PC) for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-mastering-youtube-tagging-for-content-visibility/"><u>[Updated] In 2024, Mastering YouTube Tagging for Content Visibility</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-understanding-your-macs-capabilities-in-big-sur/"><u>2024 Approved Understanding Your Mac's Capabilities in Big Sur</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-keyboard-brightness-problem/"><u>ASUS Keyboard Brightness Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bcm20702a0-non-responsive-driver/"><u>BCM20702A0 Non-Responsive Driver</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-guide-to-fixing-your-non-functional-hp-wireless-keyboard/"><u>Comprehensive Guide to Fixing Your Non-Functional HP Wireless Keyboard</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-hooking-up-three-screens-with-one-laptopdesktop/"><u>Expert Tips for Hooking up Three Screens with One Laptop/Desktop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862718784-exploring-technology-with-toms-hardware-reviews/"><u>Exploring Technology with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-software-for-old-pcs-32-bit-windows-compatibility/"><u>Free Video Editing Software for Old PCs 32-Bit Windows Compatibility</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-and-windows-37-now-in-harmony/"><u>Hardware & Windows 37, Now in Harmony</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-update-razer-deathadder-driver-on-windows-10/"><u>How to Update Razer Deathadder Driver on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/post-win11-upgrade-realtek-net-issue-addressed/"><u>Post-Win11 Upgrade, Realtek Net Issue Addressed</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/1723013174015-seeking-a-new-laptop-check-out-these-top-6-stores/"><u>Seeking a New Laptop? Check Out These Top 6 Stores</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successful-nvidia-graphics-driver-setup-for-latest-os/"><u>Successful Nvidia Graphics Driver Setup for Latest OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-guide-to-the-hal-initialization-stop-error-0x0000005c/"><u>The Ultimate Fix Guide to the HAL Initialization Stop Error (0X0000005C)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsupported-hardware-error-troubleshooting-guide-idt-software-compatibility-fix/"><u>Unsupported Hardware Error: Troubleshooting Guide - IDT Software Compatibility Fix</u></a></li>
+<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-in-windows-7-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager in Windows 7</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

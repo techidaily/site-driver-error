@@ -1,7 +1,7 @@
 ---
 title: Unblocking 'Device Unsupported' On OS/2
-date: 2024-08-09T08:44:24.883Z
-updated: 2024-08-10T08:44:24.883Z
+date: 2024-10-19T07:42:36.401Z
+updated: 2024-10-23T22:30:38.048Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 
 ## Unblocking 'Device Unsupported' On OS/2
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1.png)
 
 **ADB** , short for  Android Debug Bridge, is a command-line utility. It can allow you control your device over USB from a computer. And it’s included by Google’s Android SDK. The annoying thing is, many users and you encounter the error **device not found** when you try to use it.
@@ -30,13 +27,17 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 
  Here you’ll be shown with two ways to install the correct driver for your ADB device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Pick the way you prefer
 
 1. [Install the correct driver for your ADB device manually through Device Manager](https://thefitville.pxf.io/qyo4yy)
 2. [Install the correct driver for your ADB device automatically through Driver Easy \[Recommended\]](#way2)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Way 1: Install the correct driver for your ADB device manually through Device Manager
 
@@ -44,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 
  2) When SDK manager is open, find and expand **Extras**  folder. Go on to find and tick on **Google USB Driver**  under Extras folder. Then click **Install 1 package**  at the bottom right.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-7.jpg)
 
 3) When finish installing the driver, plug in your Android device.
@@ -63,16 +61,34 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
  7) Click **Browse my computer for driver software** .
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-6.jpg)
  8) Go on to click **Let me pick from a list of device drivers on my computer** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-8.jpg)
 
  9) Click **Have Disk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  10) Click **Browse**  to choose the Google USB Driver you downloaded at the beginning. Or you can enter the following address into the box.  
  **C:\\Program Files (x86)\\Android\\android-sdk\\extras\\google\\usb\_driver**
@@ -87,9 +103,6 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
  After it’s done, please restart your computer to make the new driver take effect.  
  Now your problem should be solved, try to use ADB now.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Way 2: Install the correct driver for your ADB device automatically through Driver Easy \[Recommended\]
 
  If you don’t have the time, patience, or computer skills to update your ADB device driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your exact ADB device, and your variant of Windows system, and it will download and install it correctly :
@@ -119,8 +132,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,6 +139,18 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-best-mac-video-editing-tools-reviewed-bandicam-vs-camtasia-for-2024/"><u>[New] Best Mac Video Editing Tools Reviewed Bandicam Vs Camtasia for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-zoom-mastery-for-top-tier-tiktok-live-events/"><u>[New] In 2024, Zoom Mastery for Top-Tier TikTok Live Events</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-next-gen-clarity-in-depth-review-of-best-8k-monitors/"><u>[New] Next-Gen Clarity In-Depth Review of Best 8K Monitors</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-transform-your-communication-device-with-new-tunes/"><u>[Updated] Transform Your Communication Device with New Tunes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-address-hardware-not-recognized-compatibility-fixes-for-your-equipment/"><u>How to Address 'Hardware Not Recognized' - Compatibility Fixes for Your Equipment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigating-the-evolution-of-usb-technology-the-era-of-usb-composite-devices-explained/"><u>Navigating the Evolution of USB Technology: The Era of USB Composite Devices Explained</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-setup-bcm20702a0-windows-driver-downloads-hassle-free-process/"><u>Quick Setup: BCM20702A0 Windows Driver Downloads | Hassle-Free Process</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-issues-with-unrecognized-or-invalid-driver-installations-on-pcs/"><u>Resolving Issues With Unrecognized or Invalid Driver Installations on PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-task-manager-full-disk-warning/"><u>Understanding Task Manager Full Disk Warning</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/wmnw-x900-a-portable-masterpiece/"><u>WMNW-X900: A Portable Masterpiece</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wudfrd-loading-failure-device-error-id-219/"><u>WudfRd Loading Failure - Device Error ID 219</u></a></li>
+</ul></div>
 

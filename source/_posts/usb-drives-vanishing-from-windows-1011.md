@@ -1,7 +1,7 @@
 ---
 title: USB Drives Vanishing From Windows 10/11
-date: 2024-10-12T03:27:54.739Z
-updated: 2024-10-17T22:11:22.257Z
+date: 2024-10-18T05:05:21.288Z
+updated: 2024-10-23T20:20:32.137Z
 tags:
   - win11
   - win10
@@ -67,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a61a4afa.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -81,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
@@ -103,19 +96,39 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55543336b.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) **Delete**  them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
 
@@ -124,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke a**Run** command. Type **regedit** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Follow the path:
 **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\atapi\\**
@@ -138,13 +158,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
@@ -152,13 +165,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -179,22 +185,22 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-premium-listing-high-performing-15-camcorders-for-2024/"><u>[New] Premium Listing High-Performing 15 Camcorders for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-prime-selection-the-best-12-pc-games-for-click-enthusiasts-for-2024/"><u>[New] Prime Selection The Best 12 PC Games for Click Enthusiasts for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-track-lost-friends-on-instagram/"><u>[Updated] In 2024, Track Lost Friends on Instagram</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/que-workout-concepts-for-a-pulse-raising-video-channel/"><u>8 Unique Workout Concepts for a Pulse-Raising Video Channel</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ensuring-validity-of-service-setup-clause-in-inf/"><u>Ensuring Validity of Service Setup Clause in INF</u></a></li>
-<li><a href="https://driver-error.techidaily.com/flip-fixes-for-asus-portables-straightening-video-orientation-errors/"><u>Flip Fixes for Asus Portables: Straightening Video Orientation Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphical-hardware-blocked-by-operating-system-win11/"><u>Graphical Hardware Blocked by Operating System Win11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fake-snapchat-location-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-the-gtx/"><u>How to Fix the GTX</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/network-adapter-driver-missing-in-windows-11-solved/"><u>Network Adapter Driver Missing in Windows 11 [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-access-is-denied-when-attempting-to-set-up-a-new-usb-device-on-pc/"><u>Overcoming 'Access Is Denied' When Attempting to Set Up a New USB Device on PC</u></a></li>
-<li><a href="https://facebook.techidaily.com/peering-into-facebooks-strategic-design-framework/"><u>Peering Into Facebook's Strategic Design Framework</u></a></li>
-<li><a href="https://driver-error.techidaily.com/say-no-more-to-win11s-stubborn-bluetooth-problem-the-ultimate-fix-explained-guide-inside/"><u>Say No More to Win11's Stubborn Bluetooth Problem: The Ultimate Fix Explained [Guide Inside]</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/schritt-fur-schritt-protokoll-fur-das-sicherungskopienformatierung-von-samsung-ssd-modell-t7-effiziente-methoden-erklart/"><u>Schritt-Für-Schritt-Protokoll Für Das Sicherungskopienformatierung Von Samsung SSD Modell T7: Effiziente Methoden Erklärt</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-troubleshooting-and-fixing-apex-legends-persistent-engine-errors-for-smoother-gaming/"><u>Solved! Troubleshooting and Fixing Apex Legends' Persistent Engine Errors for Smoother Gaming</u></a></li>
-<li><a href="https://driver-error.techidaily.com/touchpad-drives-home-with-newfound-functionality/"><u>Touchpad Drives Home with Newfound Functionality</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-customizing-video-space-on-facebook-platforms/"><u>[New] Customizing Video Space on Facebook Platforms</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-usb-30-ports-not-working-after-fresh-windows-install/"><u>[Solved] USB 3.0 Ports Not Working After Fresh Windows Install</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-lifeline-of-live-logs-extraction/"><u>[Updated] In 2024, Lifeline of Live Logs Extraction</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000478166-black-screen-fix-guide-for-cyberpunk-2077-players-success-stories-inside/"><u>Black Screen Fix Guide for Cyberpunk 2077 Players - Success Stories Inside</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-captivating-content-uploading-h-videos-for-igtv-success-for-2024/"><u>Crafting Captivating Content Uploading H-Videos for IGTV Success for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminating-win1011-bus-controllers-faults/"><u>Eliminating Win10/11 Bus Controllers' Faults</u></a></li>
+<li><a href="https://driver-error.techidaily.com/find-and-fix-uninstalled-device-drivers-on-windows-11-8-or-7-step-by-step-tutorial/"><u>Find and Fix Uninstalled Device Drivers on Windows 11, 8 or 7 - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-no-installable-drivers-found-on-windows-1087/"><u>How to Fix 'No Installable Drivers Found' On Windows 10/8/7</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/how-to-recover-lost-airdrop-on-iphone-versions-from-the-11th-to-the-latest-six-effective-strategies/"><u>How to Recover Lost AirDrop on iPhone Versions From the 11Th to the Latest: Six Effective Strategies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-camon-20-pro-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Tecno Camon 20 Pro 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p40-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P40 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-xiaomi-redmi-note-12-4g-by-fonelab-android-recover-data/"><u>Recover lost data from Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revitalizing-faulty-serial-cables-on-win10/"><u>Revitalizing Faulty Serial Cables on Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-resolve-usb-access-errors-on-your-computer-system/"><u>Step-by-Step Guide: Resolve USB Access Errors on Your Computer System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-screen-reset-on-windows-10-elan-pad/"><u>Tackling Screen Reset on Windows 10, Elan Pad</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-from-cluttered-to-clear-a-beginners-guide-to-freeing-up-space-for-fcpx-for-2024/"><u>Updated From Cluttered to Clear A Beginners Guide to Freeing Up Space for FCPX for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11s-disk-space-anomalies-troubleshooting-guide/"><u>Win11's Disk Space Anomalies - Troubleshooting Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Dysfunctional USB to Serial Cables on PCs
-date: 2024-10-13T04:55:43.661Z
-updated: 2024-10-17T18:23:02.333Z
+date: 2024-10-19T17:15:41.873Z
+updated: 2024-10-23T21:04:19.128Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/6aed0c00afe51b22c20e76d5f6ace236f0bc693b5
 1. **[Update your Prolific USB to Serial driver to the latest version](https://bluettide.pxf.io/ekmjb2)**
 2. **[Roll your Prolific USB to Serial driver back to an older version](https://pish-posh-baby.sjv.io/g1jg15)**
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 1: Update your Prolific USB to Serial driver to the latest version
 
  Your not working Prolific USB to Serial driver problem could be caused by the**corrupted, missing, or outdated driver itself** . So it would help if you update the driver to the latest version.
@@ -43,16 +36,10 @@ thumbnail: https://thmb.techidaily.com/6aed0c00afe51b22c20e76d5f6ace236f0bc693b5
 2. **Automatic driver update –** If you don’t have the time, patience, or computer skills to update your Prolific USB to Serial driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your exact Prolific adapter, and your Windows version, and it will download and install them correctly:
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
@@ -76,22 +63,36 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075701f308.jpg)
 4. Click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075c361cc6.png)
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select**Let me pick from a list of available drivers on my computer** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075da68269.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Select an older version on the Model list. Then**Next** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb076059c302.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then the driver you select would be installed on your Windows 10 computer automatically.
@@ -120,18 +121,22 @@ Once it’s done, connect your device again and see if it goes well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-elevating-video-experience-best-youtube-to-avi-companions/"><u>[New] 2024 Approved Elevating Video Experience Best YouTube-to-AVI Companions</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-desktop-and-mobile-incorporate-timestamps-on-youtube/"><u>[New] In 2024, Mastering Desktop & Mobile Incorporate Timestamps on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-journey-through-the-landscape-of-human-computer-interaction/"><u>[Updated] A Journey Through the Landscape of Human-Computer Interaction</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-top-ten-recommendations-for-dynamic-instagram-grid-crafting/"><u>[Updated] In 2024, Top Ten Recommendations for Dynamic Instagram Grid Crafting</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/around-the-globe-haunted-holiday-stories/"><u>Around the Globe: Haunted Holiday Stories</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-the-power-of-qidi-tech-q1-pro-a-comprehensive-gaming-headset-evaluation/"><u>Experience the Power of QIDI Tech Q1 Pro - A Comprehensive Gaming Headset Evaluation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hardware-unlock-access-denied-on-win11/"><u>Hardware Unlock: Access Denied on Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-unable-to-initialize-directx-9-device-in-5-easy-steps/"><u>How to Fix ‘Unable to Initialize DirectX 9 Device’ in 5 Easy Steps</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c51-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme C51 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-cinematography-anchors/"><u>In 2024, Immersive Cinematography Anchors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repair-your-qualcomm-atheros-bluetooth-connection-on-windows-10-easy-fixes-revealed/"><u>Repair Your Qualcomm Atheros Bluetooth Connection on Windows 10 - Easy Fixes Revealed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/sound-system-error-no-more-hd/"><u>Sound System Error No More! (HD)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-invalid-driver-installs-how-to-ensure-device-compatibility/"><u>Troubleshooting Invalid Driver Installs: How to Ensure Device Compatibility</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-auto-loading-dilemma/"><u>[Resolved] Auto-Loading Dilemma</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-visual-impact-techniques-for-ai-text-depth/"><u>[Updated] Unleashing Visual Impact Techniques for AI Text Depth</u></a></li>
+<li><a href="https://driver-error.techidaily.com/discover-cutting-edge-hardware-the-toms-guide-to-tech-excellence/"><u>Discover Cutting-Edge Hardware - The Tom's Guide to Tech Excellence</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-no-detect-logitech-receiver-in-latest-windows/"><u>Fix: No Detect Logitech Receiver in Latest Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/harmonizing-bluetooth-lenovo-with-windows-10/"><u>Harmonizing Bluetooth, Lenovo with Windows 10</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-honor-90-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Honor 90 Pro Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-and-prevent-amd-radeon-wattman-rebooting-issues-comprehensive-guide/"><u>How To Fix And Prevent AMD Radeon WattMan Rebooting Issues - Comprehensive Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-recover-seagate-external-hard-drive-data-that-wont-appear-a-step-by-step-guide/"><u>How to Recover Seagate External Hard Drive Data That Won't Appear: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-mass-content-creation-using-canva-and-chatgpt/"><u>Mastering Mass Content Creation: Using Canva & ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-productivity-using-the-gpt-powered-usechatcopilot-browser-tool/"><u>Maximize Productivity Using the GPT-Powered UseChatCopilot Browser Tool</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mend-wireless-module-issue-in-latitude-laptop/"><u>Mend Wireless Module Issue in Latitude Laptop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/realtek-adapter-malfunction-after-win11-rollout-fixed/"><u>Realtek Adapter Malfunction After Win11 Rollout Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconnecting-all-wacoms-happy-moment/"><u>Reconnecting All: Wacom's Happy Moment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-soundscape-how-to-troubleshoot-wows-muted-adventures/"><u>Restoring Soundscape: How to Troubleshoot WoW's Muted Adventures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sharing-your-favorite-tunes-on-spotify-can-both-persons-play-music-concurrently/"><u>Sharing Your Favorite Tunes on Spotify: Can Both Persons Play Music Concurrently?</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-pova-6-pro-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pova 6 Pro 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-mfc42dll-missing-error-on-your-computer/"><u>Troubleshooting the 'mfc42.dll Missing' Error on Your Computer</u></a></li>
 </ul></div>
 

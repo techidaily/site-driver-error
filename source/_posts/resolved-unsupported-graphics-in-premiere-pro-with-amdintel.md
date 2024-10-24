@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Unsupported Graphics in Premiere Pro with AMD/Intel"
-date: 2024-10-11T18:48:20.988Z
-updated: 2024-10-17T16:51:07.633Z
+date: 2024-10-17T01:18:55.148Z
+updated: 2024-10-24T07:39:01.285Z
 tags:
   - win11
   - win10
@@ -23,18 +23,18 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
  The “Unsupported Video Driver” error message suggests that your current graphics driver is not compatible with Premiere Pro. An outdated or faulty video driver could cause this problem. Or, in some cases, Premiere Pro fails to recognize your driver which is actually functional and thus triggers the error.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes…
 
 [1: Update your video driver](https://ukaidot.sjv.io/daqnoj)
 
 [2: Update Premiere Pro](https://ukaidot.sjv.io/daqnoj)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Update your video driver
 
@@ -48,21 +48,15 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged video driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -79,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 3. Click**Display** (I have two monitors so it’s shown as Display 1.) You’ll find your graphics card information here. Mark down the**name** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-25_15-01-41.png)
@@ -99,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
  After you install the latest video driver, restart your PC and test if Premiere Pro still shows you the error message. If the problem persists, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Update Premiere Pro
@@ -133,16 +127,24 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-from-isolation-to-integration-how-to-mesh-obs-with-zoom/"><u>[New] 2024 Approved From Isolation to Integration How to Mesh OBS with Zoom</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-a-step-by-step-guide-to-writing-slug-lines-for-2024/"><u>[New] A Step-by-Step Guide to Writing Slug Lines for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-cutting-edge-camera-list-best-videography-devices-of-the-year/"><u>[New] In 2024, Cutting-Edge Camera List Best Videography Devices of the Year</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-integrating-instagram-effects-into-pre-existing-content-for-2024/"><u>[New] Integrating Instagram Effects Into Pre-Existing Content for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/adaptive-drivers-package-for-windows-pci/"><u>Adaptive Drivers Package for Windows PCI</u></a></li>
-<li><a href="https://driver-error.techidaily.com/amd-radeon-r7-250-graphics-driver-problems-on-windows-11-solved/"><u>AMD Radeon R7 250 Graphics Driver Problems on Windows 11 [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/asus-usb-webcam-issue-fixed-for-windows-users/"><u>ASUS USB Webcam Issue Fixed for Windows Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/corrected-device-error-48/"><u>Corrected Device Error 48</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sizzling-success-an-in-depth-look-at-the-deliciously-maddening-world-of-overcooked-2/"><u>Sizzling Success: An In-Depth Look at the Deliciously Maddening World of Overcooked! 2</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/streamline-your-media-conversion-with-konvertera-free-and-fast-mp4-online/"><u>Streamline Your Media Conversion with Konvertera - Free and Fast MP4 Online</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/unleash-your-creativity-a-beginners-guide-to-online-video-editing-for-2024/"><u>Unleash Your Creativity A Beginners Guide to Online Video Editing for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-capture-the-essence-of-rl-gaming-experience-for-2024/"><u>[New] How to Capture the Essence of RL Gaming Experience for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-visioncapture-prox-briefing/"><u>[New] VisionCapture ProX Briefing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-speak-and-save-voice-memo-on-iphone-2024/"><u>[Updated] Speak & Save - Voice Memo on iPhone 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-free-meme-templates/"><u>2024 Approved Best Free Meme Templates</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-critical-asmr-video-elements-to-note/"><u>2024 Approved Critical ASMR Video Elements to Note</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-14-design-techniques-for-text-animation-for-2024/"><u>Advanced 14 Design Techniques for Text Animation for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battlefield-2042-update-fixes-smooth-gaming-with-no-more-fps-fluctuations-or-lags-on-pc/"><u>Battlefield 2042 Update Fixes: Smooth Gaming with No More FPS Fluctuations or Lags on PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dvd-non-discovery-in-windows-11-resolved-quickly/"><u>DVD Non-Discovery in Windows 11 - Resolved Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eradicating-invalid-configuration-segment-in-inf/"><u>Eradicating Invalid Configuration Segment in INF</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-48-resolved-in-device-manager/"><u>Error 48 Resolved in Device Manager</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/essential-tips-and-techniques-every-aspiring-portrait-photographer-must-learn/"><u>Essential Tips and Techniques Every Aspiring Portrait Photographer Must Learn</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-safe-boot-in-windows-8-a-complete-guide-to-disable-and-reinstall-display-adapters/"><u>Mastering Safe Boot in Windows 8 - A Complete Guide to Disable and Reinstall Display Adapters</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-errors-hidef-audio-device-fixed/"><u>No More Errors: HiDef Audio Device Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-usb-network-driver-not-working-after-update/"><u>Resolving USB Network Driver Not Working After Update</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restored-functioning-keyboard-on-windows-11-pc/"><u>Restored: Functioning Keyboard on Windows 11 PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722970760271-troubleshooting-and-resolving-amd-radeon-driver-problems-quickly/"><u>Troubleshooting and Resolving AMD Radeon Driver Problems Quickly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-safely-how-macos-1441-secures-your-system-before-the-latest-update-insights/"><u>Upgrade Safely: How macOS 14.4.1 Secures Your System Before the Latest Update - Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-compatibility-solving-broadcom-wi-fi-n-adapter-problems/"><u>Win Compatibility: Solving Broadcom Wi-Fi N Adapter Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-supports-asus-usb-camera-better-now/"><u>Windows 10 Supports ASUS USB Camera Better Now</u></a></li>
 </ul></div>
 

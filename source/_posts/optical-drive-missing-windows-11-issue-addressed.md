@@ -1,7 +1,7 @@
 ---
 title: "Optical Drive Missing: Windows 11 Issue Addressed"
-date: 2024-10-12T11:43:40.521Z
-updated: 2024-10-17T16:22:31.497Z
+date: 2024-10-16T20:16:15.217Z
+updated: 2024-10-24T06:48:20.628Z
 tags:
   - win11
   - win10
@@ -68,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a61a4afa.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
@@ -81,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
@@ -98,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Follow the path:
@@ -135,10 +135,10 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Create a new**Controller0** key under**atapi** key.
@@ -150,10 +150,16 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
@@ -179,24 +185,18 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-avoiding-common-hashtag-faux-pas-on-instagram-for-2024/"><u>[New] Avoiding Common Hashtag Faux Pas on Instagram for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-study-editmagics-power-edition/"><u>2024 Approved Comprehensive Study EditMagic's Power Edition</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-streamline-social-video-downloads-with-new-app/"><u>2024 Approved Streamline Social Video Downloads with New App</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/apex-legends-audio-restoration-overcoming-the-mute-dilemma-effectively/"><u>Apex Legends Audio Restoration: Overcoming the Mute Dilemma Effectively</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correcting-erroneous-sections-in-service-inf/"><u>Correcting Erroneous Sections in Service INF</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/expert-insights-on-perfecting-your-gaming-screenshots-for-2024/"><u>Expert Insights on Perfecting Your Gaming Screenshots for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-mass-storage-controller-driver-issue-on-windows-11-solved/"><u>Fix Mass Storage Controller Driver Issue on Windows 11 [Solved]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-d3dx924dll-is-missing-or-not-found-errors/"><u>How to Fix D3dx9_24.dll Is Missing or Not Found Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-repair-non-verified-hardware-drivers-for-your-computer/"><u>How to Repair: Non-Verified Hardware Drivers for Your Computer</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-v30-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo V30 FRP</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-depth-examination-lg-bp350-screen-specifications-and-reviews/"><u>In-Depth Examination LG BP350 Screen Specifications and Reviews</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keyboard-driver-interrupts-reconciled/"><u>Keyboard Driver Interrupts Reconciled</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-through-apples-operating-system-updates-an-ultimate-macos-compendium/"><u>Navigating Through Apple's Operating System Updates: An Ultimate macOS Compendium</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-default-radeon-wattman-issue-crashes-fixed-and-system-restored/"><u>Resolving the Default Radeon Wattman Issue: Crashes Fixed & System Restored</u></a></li>
-<li><a href="https://driver-error.techidaily.com/triumph-over-missing-touchpad-driver-solutions-explored/"><u>Triumph Over Missing Touchpad Driver: Solutions Explored</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-the-bsod-error-code-0x0000007e-in-windows-7-a-step-by-step-guide/"><u>Troubleshooting the BSoD Error Code 0X0000007E in Windows 7: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/uncomplicating-windows-ndis-challenges/"><u>Uncomplicating Windows' NDIS Challenges</u></a></li>
-<li><a href="https://driver-error.techidaily.com/understanding-and-resolving-aged-usb-composite-device-problems/"><u>Understanding and Resolving Aged USB Composite Device Problems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-best-a-comprehensive-look-at-toms-hardware-selections/"><u>Unveiling the Best: A Comprehensive Look at Tom's Hardware Selections</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-dial-back-your-playlist-quick-steps-to-reverse-order/"><u>[New] 2024 Approved Dial Back Your Playlist Quick Steps to Reverse Order</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ssential-tools-for-android-and-ios-users-seeking-playlist-extractors/"><u>[New] Essential Tools for Android & iOS Users Seeking Playlist Extractors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-touchpad-driver-missing-6-proved-fixes/"><u>[SOLVED] Touchpad Driver Missing | 6 Proved Fixes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-screen-capture-showdown-free-vs-paid-cam-recorders-for-2024/"><u>[Updated] The Ultimate Screen Capture Showdown Free vs Paid Cam Recorders for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722030779456-connect-and-learn-new-android-app-chatgpt/"><u>Connect and Learn: New Android App, ChatGPT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-effectively-deal-with-nvidia-gpu-error-codes-gtx-950-code-43-in-windows-11-resolved/"><u>How to Effectively Deal with NVIDIA GPU Error Codes: GTX 950 'Code 43' In Windows 11 Resolved</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-receive-sms-and-call-alerts-even-with-do-not-disturb-enabled-top-8-solutions-for-iphone-users/"><u>How to Receive SMS & Call Alerts Even with 'Do Not Disturb' Enabled: Top 8 Solutions for iPhone Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/identify-hidden-seagate-hard-drive-on-your-windows-system/"><u>Identify Hidden Seagate Hard Drive on Your Windows System</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-6s-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 6s Plus to iPad | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/introducing-the-compact-powerhouse-minisforum-atomman-x7-with-intelli3-ti-touch-display-and-intel-core-processor/"><u>Introducing the Compact Powerhouse: MinisForum AtomMan X7 with IntellI3 Ti Touch Display & Intel Core Processor</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-adding-images-inside-cells-on-google-sheets/"><u>Step-by-Step Guide: Adding Images Inside Cells on Google Sheets</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-unable-to-locate-driver-software/"><u>System Unable to Locate Driver Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-prevents-graphics-driver-installation/"><u>Windows 10 Prevents Graphics Driver Installation</u></a></li>
 </ul></div>
 

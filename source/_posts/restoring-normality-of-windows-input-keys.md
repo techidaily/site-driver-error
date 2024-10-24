@@ -1,7 +1,7 @@
 ---
 title: Restoring Normality of Windows Input Keys
-date: 2024-08-09T08:44:43.785Z
-updated: 2024-08-10T08:44:43.785Z
+date: 2024-10-19T02:27:30.557Z
+updated: 2024-10-23T20:21:13.851Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/1f2f4c22410ca8169af4ae6d02cdc0eba714608bc
 3. [**Reinstall the keyboard driver**](https://twopages.pxf.io/21em1d)
 4. **[Update the keyboard driver](https://bluettieu.pxf.io/nlgoka)**
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Fix 1: Restart your computer
 
  Sometimes, a simple reboot can fix the issue. This is the first thing you should try when the Enter key is not working.
@@ -36,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/1f2f4c22410ca8169af4ae6d02cdc0eba714608bc
  If you’re using a laptop, you can try removing the battery and keeping the power button pressed for 30 seconds or more. After that, install the battery and turn on your laptop to see if the Enter key works now.
 
  Luckily, it will resolve your problem all at once, and you don’t need to worry about it anymore. If the Enter key is still not working, you should try Fix 2 below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust your keyboard settings
 
@@ -51,9 +55,6 @@ Here is how to do it:
 
  2) Make sure the status of**Sticky Keys** ,**Toggle Keys,** and**Filter Keys** are all set to**Off** . If any one of them is on, switch it to**Off** .
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-49.png)
 
 3) Test the Enter key on your keyboard to see if it works.
@@ -65,6 +66,13 @@ Here is how to do it:
  2) Select**Accessibility** from the left panel. From the right, scroll down and click on**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-adjust-keyboard-settings-Windows-settings-1200x664.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Toggle off**Sticky keys** ,**Filter keys** ,**Toggle keys** .
 
@@ -78,17 +86,18 @@ Here is how to do it:
 
  1) On your keyboard, press the **Windows logo key + R** at the same time, type **devmgmt.msc** and click**OK** to open Device Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-45.png)
 
  2) Double click**Keyboards** , right-click your keyboard device and select**Uninstall device** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-46.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) After uninstalling, restart your computer to let Windows reinstall the keyboard driver automatically.
 
@@ -116,10 +125,14 @@ Here is how to do it:
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro Version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -146,8 +159,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,6 +166,20 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-hilarityhub-online-tool-for-funny-image-crafting/"><u>[New] HilarityHub Online Tool for Funny Image Crafting</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-device-driver-software-was-not-successfully-installed/"><u>[SOLVED] Device Driver Software Was Not Successfully Installed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-elevating-video-quality-with-captivating-soundtracks/"><u>2024 Approved Elevating Video Quality with Captivating Soundtracks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-rhythmic-roadmap-your-guide-to-music-submission/"><u>2024 Approved Rhythmic Roadmap Your Guide to Music Submission</u></a></li>
+<li><a href="https://win-special.techidaily.com/comment-restaurer-des-fichiers-avec-aomee-backupper/"><u>Comment Restaurer Des Fichiers Avec AOMEE Backupper</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-incompatible-driver-errors-for-a-smooth-computer-operation/"><u>Fixing Incompatible Driver Errors for a Smooth Computer Operation</u></a></li>
+<li><a href="https://common-error.techidaily.com/instant-relief-overcoming-undetected-battery-errors-smoothly/"><u>Instant Relief: Overcoming Undetected Battery Errors Smoothly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/nighttime-exposures-for-your-iphone-lens/"><u>Nighttime Exposures for Your iPhone Lens</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-installation-errors-what-to-do-when-your-driver-isnt-compatible-with-your-pc/"><u>Resolving Installation Errors: What To Do When Your Driver Isn't Compatible With Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-6-websites-for-streaming-your-favorite-music-videos/"><u>Top 6 Websites for Streaming Your Favorite Music Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/touchpad-not-working-issues-on-windows-1011-solved/"><u>Touchpad Not Working Issues on Windows 10/11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-driver-installation-problems-on-windows-1087-fixed/"><u>Troubleshooting Driver Installation Problems on Windows 10/8/7 [FIXED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wireless-mouse-vanishing-act-windows-confused/"><u>Wireless Mouse Vanishing Act - Windows Confused?</u></a></li>
+</ul></div>
 

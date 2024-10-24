@@ -1,7 +1,7 @@
 ---
 title: "Service Section Fix: Validated INF"
-date: 2024-10-14T05:08:52.610Z
-updated: 2024-10-18T10:44:59.073Z
+date: 2024-10-23T09:07:21.528Z
+updated: 2024-10-24T02:47:15.313Z
 tags:
   - win11
   - win10
@@ -80,10 +80,16 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
@@ -97,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
@@ -108,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -141,20 +147,22 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-mastering-knowledge-acquisition-beyond-virtual-videos/"><u>[Updated] 2024 Approved Mastering Knowledge Acquisition Beyond Virtual Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-technical-insights-for-superior-ppt-recording-quality-for-2024/"><u>[Updated] Technical Insights for Superior PPT Recording Quality for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/9-ways-to-fix-the-no-servers-found-error-in-apex-legends-for-windows/"><u>9 Ways to Fix the No Servers Found Error in Apex Legends for Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cultural-heritage-without-copyright-boundaries/"><u>Cultural Heritage Without Copyright Boundaries</u></a></li>
-<li><a href="https://driver-error.techidaily.com/download-and-install-samsung-android-on-windows-pc/"><u>Download & Install Samsung Android on Windows PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-hcom-monitor-drivers-installation-failures-efficiently/"><u>How to Resolve HCOM Monitor Drivers Installation Failures Efficiently</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-tecno-camon-20-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Camon 20 Device</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unleashing-broadcast-potential-from-obs-to-facebook-platform/"><u>In 2024, Unleashing Broadcast Potential From OBS to Facebook Platform</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovations-in-dialogue-the-top-4-differences-between-claude-and-chatgpt/"><u>Innovations in Dialogue: The Top 4 Differences Between Claude and ChatGPT</u></a></li>
-<li><a href="https://driver-error.techidaily.com/post-windows-10-creators-update-my-prodigy-brio-webcam-vanished-here-are-solved-steps-to-reconnect-it-answered/"><u>Post Windows 10 Creators Update: My Prodigy Brio Webcam Vanished? Here Are Solved Steps to Reconnect It (Answered)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repair-bluetooth-nic-defects-in-optiplex/"><u>Repair Bluetooth NIC Defects in OptiPlex</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solutions-for-hcmondriver-installation-issues/"><u>Troubleshooting and Solutions for Hcmondriver Installation Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/universal-device-compatibility-software/"><u>Universal Device Compatibility Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unveiling-the-causes-of-hardware-malfunctions-dm/"><u>Unveiling the Causes of Hardware Malfunctions (DM)</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/why-the-amazon-fire-hd-10-is-your-go-to-tablet-for-all-ages-and-interests/"><u>Why the Amazon Fire HD 10 Is Your Go-To Tablet for All Ages and Interests</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1716069794144-updated-utilizing-inbuilt-cameras-for-screen-recording-on-mate-and-p-series-smartphones-mate-10-mate-20-p20-p10-for-2024/"><u>[Updated] Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10). For 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-connectivity-fix-how-to-repair-qualcomm-atheros-driver-issues-in-windows-11/"><u>Bluetooth Connectivity Fix: How to Repair Qualcomm Atheros Driver Issues in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-non-responsive-keyboard-on-windows-11-pc/"><u>Corrected Non-Responsive Keyboard on Windows 11 PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-factors-to-assess-when-selecting-your-next-video-capture-equipment/"><u>Essential Factors to Assess When Selecting Your Next Video Capture Equipment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-missing-driver-issues-on-your-pc-solutions-for-windows-10-8-and-7/"><u>Fixing Missing Driver Issues on Your PC: Solutions for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-rx-480-driver-version-instantly/"><u>Get the Latest AMD RX 480 Driver Version Instantly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-a-missing-coprocessor-driver-error-on-windows-10/"><u>How to Resolve a Missing Coprocessor Driver Error on Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-itel-p55plus-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Itel P55+ Device</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-the-console-landscape-ps5-or-ps4-pro-better/"><u>Navigating the Console Landscape: PS5 or PS4 Pro Better?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/network-interface-interrupt-tested-successfully/"><u>Network Interface Interrupt Tested Successfully</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>New Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-web-based-movie-trailer-creation-platforms/"><u>New Web-Based Movie Trailer Creation Platforms</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-identify-devices-after-adb-failure-in-winnt/"><u>Re-Identify Devices After ADB Failure in WinNT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-qualcomm-atheros-bluetooth-driver-problems-in-windows-11-detailed-steps-inside/"><u>Resolve Qualcomm Atheros Bluetooth Driver Problems in Windows 11 - Detailed Steps Inside</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unrecognized-cddvd-in-win11-settled/"><u>Unrecognized CD/DVD in Win11 - Settled</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/verstehen-sie-die-funktionsweise-von-untertitelt-dvds-erpressung-und-wahl/"><u>Verstehen Sie Die Funktionsweise Von Untertitelt DVDs - Erpressung Und Wahl</u></a></li>
 </ul></div>
 

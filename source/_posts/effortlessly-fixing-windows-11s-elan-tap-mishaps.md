@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Fixing Windows 11'S Elan Tap Mishaps
-date: 2024-08-09T08:44:23.928Z
-updated: 2024-08-10T08:44:23.928Z
+date: 2024-10-17T21:32:59.843Z
+updated: 2024-10-23T17:58:43.838Z
 tags:
   - win11
   - win10
@@ -29,30 +29,25 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  1) On your keyboard, press the**Windows logo key** and**I** at the same time. Click **Devices** .
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-settings-devices.png)
 
 2) Click **Mouse & touchpad,**  then click **Additional mouse options** .
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/additional-mouse-options.png)
 
  3) Go to the furthest right option (the option could be **Device Settings** or **ELAN**), and make sure your touchpad is enabled.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
 
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2: Reinstall your drivers
 
  Faulty drivers provided by Microsoft could be the reason why your touchpad stops working properly. To tackle this problem, you should reinstall the driver.
@@ -74,8 +69,12 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **3: Stop automatic updates from Windows Update**
 
  A faulty or buggy driver from Windows Update could be the cause of this problem. You can disable the automatic update via:
@@ -84,9 +83,23 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-clickyour computer icon and click **Device installation settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
@@ -100,8 +113,6 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,6 +120,26 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fast-fix-nvidia-geforce-experience-issue-now-solved/"><u>[Fast Fix] Nvidia GeForce Experience Issue – Now Solved</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-ultimate-guide-to-windows-11-gaming-recordings/"><u>[New] 2024 Approved The Ultimate Guide to Windows 11 Gaming Recordings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-inaudible-audio-assemblers-6-low-profile-recorders-for-smartphones/"><u>[Updated] 2024 Approved Inaudible Audio Assemblers 6 Low-Profile Recorders for Smartphones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-inside-the-pros-playbook-top-5-gaming-techniques/"><u>2024 Approved Inside the Pro's Playbook Top 5 Gaming Techniques</u></a></li>
+<li><a href="https://driver-error.techidaily.com/controller-failure-detected-at-ideport0/"><u>Controller Failure Detected at Ideport0</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/fluent-flirts-the-art-of-spanish-charms/"><u>Fluent Flirts: The Art of Spanish Charms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gazing-into-clarity-in-depth-on-the-hp-z32x-monitor/"><u>Gazing Into Clarity In-Depth on the HP Z32X Monitor</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999654243-how-to-overcome-pc-crashes-in-pathfinder-wrath-of-the-righteous-solved-and-explained/"><u>How to Overcome PC Crashes in Pathfinder: Wrath of the Righteous - Solved and Explained</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-leading-tools-to-monitor-hashtags-on-fb-twitter-and-instagram/"><u>In 2024, Leading Tools to Monitor Hashtags on FB, Twitter & Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-reviving-the-full-screen-in-obs/"><u>In 2024, Reviving the Full Screen in OBS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-the-disablement-of-win11-bluetooth/"><u>Mastering the Disablement of Win11 Bluetooth</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mouse-disconnecting-a-common-issue-with-wireless-devices/"><u>Mouse Disconnecting: A Common Issue with Wireless Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-incompatibility-ensuring-your-hardware-works-with-the-latest-idt-software-package/"><u>Overcoming Incompatibility: Ensuring Your Hardware Works with the Latest IDT Software Package</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-guide-accelerate-your-pcs-startup-on-windows-11-with-simple-fixes/"><u>Quick Guide: Accelerate Your PC's Startup on Windows 11 with Simple Fixes</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-your-windows-8-gpu-drivers/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing Your Windows 8 GPU Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/taming-nonstop-buzz-effortlessly-resolving-unresponsive-bluetooth-devices-in-windows-11-done/"><u>Taming Nonstop Buzz - Effortlessly Resolving Unresponsive Bluetooth Devices in Windows 11 (Done!)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-guide-installing-latest-drivers-on-your-hp-envy-20-series-laptop/"><u>Ultimate Guide: Installing Latest Drivers on Your HP Envy 20 Series Laptop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-composite-device-explained-a-look-into-its-past-usage-and-current-relevance/"><u>USB Composite Device Explained: A Look Into Its Past Usage and Current Relevance</u></a></li>
+</ul></div>
 

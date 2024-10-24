@@ -1,7 +1,7 @@
 ---
 title: Can't Run RTX Gaming? Fix the Issue Now, Done
-date: 2024-08-02T07:30:46.639Z
-updated: 2024-08-03T07:30:46.639Z
+date: 2024-10-20T20:00:01.729Z
+updated: 2024-10-24T08:05:36.305Z
 tags:
   - win11
   - win10
@@ -15,24 +15,12 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
 ## Can't Run RTX Gaming? Fix the Issue Now, Done
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3f4aa4a899.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 For less advanced computer users, GeForce Experience is a useful application that helps to keep the drivers up to date, optimize game settings and allow you to share your gaming moments with your friends.![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3f3016d711.jpg) That being said, quite a few users are having problem where they see notification:”**GeForce cannot optimize games on this PC.**” or “**Games cannot be optimized.**” As shown in the first screen shot above. ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3f5205d200.jpg) If this also happens to you, read on and follow the easy-doing steps with images to help you fix the problem. [**1: Temporarily Shut Down Firewall**](https://collovinc.sjv.io/jrkzwp) [**2: Change the Settings in GeForce Experience**](https://bluettifr.pxf.io/bax2bv) [**3: Clean-install NVIDIA Display Driver**](https://copa.sjv.io/6eoowq)   **1: Temporarily Shut Down Firewall** Some users reported saying that this problem was gone when they temporarily shut down the firewall on their computers. It seems that on some computers, the firewall completely blocked the scan for new games, rendering it impossible for GeForce to help you optimize your gaming experience.   **2: Change the Settings in GeForce Experience** 1) Open your NVIDIA GeForce Experience. Go to**Preferences**tab. Then click**Games**side tab.![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a404079c123.jpg) 2) Make sure the box for**Recommend optimal settings**is checked. ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a404b623091.png) 3) Now go back to Game tab. See if the requirements are met. If so, then the optimizations should be able to work now.   **3: Clean-install NVIDIA Display Driver**1) To perform a clean-install of your display driver, you should first download**Display Driver Uninstaller**. It’ll help you uninstall your graphic driver entirely. After the download, install as instructed. Note that Display Driver Uninstaller might not work well after Windows 10 Creators Update. If you’re having problem using it, feel free to let us know and we’l provide further assistance. 2) Launch **Display Driver Uninstaller**. If you are in normal mode, it will suggest that you go to Safe Mode first and then proceed with the uninstall. Choose from the drop-down box**Safe Mode (Recommended)**.![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a40772e54be.png) 3) Choose**Clean and restart (Highly recommended)**option. ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a409a03cfa8.jpg) Wait for the uninstall to complete and your computer will restart into normal mode. 4) Then go to support website of NVIDIA and search for the correct graphics card driver for your device. ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a409fd3ebd4.jpg) 5) When you find the correct driver, download it and then install it as instructed. The time spent depends on the searching skill and the network speed of yours. So the time could range from 10 minutes to 1 hour or more. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59964fe66ed54.png)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Click the**Update**button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click**Update All**). ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59965024bc7a8.jpg)
 
 * [NVIDIA](https://tools.techidaily.com/drivereasy/download/)
@@ -43,8 +31,6 @@ For less advanced computer users, GeForce Experience is a useful application tha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,4 +38,27 @@ For less advanced computer users, GeForce Experience is a useful application tha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ensuring-flawless-sending-of-large-videos-from-iphone-to-mac-pc/"><u>[New] In 2024, Ensuring Flawless Sending of Large Videos From iPhone to Mac PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-videos-with-a-click-ios-apps-rising-in-the-rankings-on-fb-downloader-list/"><u>[New] Unlocking Videos with a Click IOS Apps Rising in the Rankings on FB Downloader List</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-designing-unique-instagram-post-cover-texts-for-2024/"><u>[Updated] Designing Unique Instagram Post Cover Texts for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/13-simple-ways-to-document-webinars-cost-free/"><u>13 Simple Ways to Document Webinars Cost-Free</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-cutting-edge-editing-meets-online-video-sharing/"><u>2024 Approved Cutting-Edge Editing Meets Online Video Sharing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprehensive-dreame-x40-ultra-unit-review-the-epitome-of-luxury-robot-vacuums/"><u>Comprehensive Dreame X40 Ultra Unit Review – The Epitome of Luxury Robot Vacuums</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-no-detect-logitech-receiver-in-latest-windows/"><u>Fix: No Detect Logitech Receiver in Latest Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-non-recognized-usb-in-windows-78-systems/"><u>Fixing Non-Recognized USB in Windows 7/8 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/harmonizing-bluetooth-lenovo-with-windows-10/"><u>Harmonizing Bluetooth, Lenovo with Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-update-or-replace-an-obsolete-usb-composite-device-for-better-performance/"><u>How to Update or Replace an Obsolete USB Composite Device for Better Performance</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-master-the-quick-art-of-tiktok-film-rate/"><u>In 2024, Master the Quick Art of TikTok Film Rate</u></a></li>
+<li><a href="https://win11.techidaily.com/wsl-adoption-and-linux-market-dynamics/"><u>WSL Adoption and Linux Market Dynamics</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

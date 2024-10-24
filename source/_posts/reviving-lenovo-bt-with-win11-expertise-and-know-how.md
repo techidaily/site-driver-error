@@ -1,7 +1,7 @@
 ---
 title: Reviving Lenovo BT with Win11 Expertise and Know-How
-date: 2024-10-16T06:56:54.413Z
-updated: 2024-10-18T02:05:17.694Z
+date: 2024-10-21T03:04:21.366Z
+updated: 2024-10-24T07:39:16.833Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 * [Option 3: Update Bluetooth driver](https://lightailing.sjv.io/k0ez0m)
 * [Option 4: Perform a refresh](https://collovinc.sjv.io/jrkzwp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Option 1: Enable Bluetooth hardware
 
 **NOTE** : Please make sure that your computer has the necessary hardware and your wireless is turned on. Also, check the support website of Lenovo to make sure that your device is Bluetooth capable.
@@ -53,26 +46,26 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7d4daf634.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) If you see a down arrow, your Bluetooth device is disabled, just right-click the item and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b810d497f1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) If you see a yellow exclamation mark next to your Bluetooth driver, your Bluetooth hardware is not responding or set up correctly. You can refer to **Option 3** for more help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 2: Enable discovery mode
@@ -86,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 3: Update Bluetooth driver
@@ -105,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver-scan.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -132,18 +132,20 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-counterplay-creative-ways-to-watch-youtube-in-reverse/"><u>[Updated] In 2024, The Counterplay Creative Ways to Watch YouTube in Reverse</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlock-the-secret-of-social-media-impact/"><u>2024 Approved Unlock the Secret of Social Media Impact</u></a></li>
-<li><a href="https://driver-error.techidaily.com/address-frequent-amd-crashes-swiftly/"><u>Address Frequent AMD Crashes Swiftly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/asus-keyboard-lights-dimming/"><u>Asus Keyboard Lights Dimming</u></a></li>
-<li><a href="https://driver-error.techidaily.com/asus-laptop-tip-fixing-the-picture-displayed-invertedly/"><u>ASUS Laptop Tip: Fixing the Picture Displayed Invertedly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/car-unloadable-due-to-device-limitation/"><u>Car Unloadable Due to Device Limitation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-loading-problem-wudfrd-failure-event-id-219/"><u>Device Loading Problem, WudfRd Failure Event ID 219</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-your-game-launch-glitches-the-ultimate-solution-for-avatar-frontiers-of-pandoras-refusal-to-open/"><u>Fix Your Game-Launch Glitches: The Ultimate Solution for Avatar: Frontiers of Pandora's Refusal to Open</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-infinix-zero-5g-2023-turbo-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Infinix Zero 5G 2023 Turbo to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-14-pro-max-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 14 Pro Max without Password?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-rankings-best-9-web-based-mic-capture-options/"><u>The Ultimate Rankings Best 9 Web-Based Mic Capture Options</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-compact-solar-power-banks-expert-review-by-techradar/"><u>Top-Rated Compact Solar Power Banks - Expert Review by TechRadar</u></a></li>
-<li><a href="https://driver-install.techidaily.com/trim-down-your-screen-lag-with-updated-hdmi-in-w11w10/"><u>Trim Down Your Screen Lag with Updated HDMI in W11/W10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-asus-keys-no-light/"><u>[RESOLVED] Asus Keys No Light</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-drone-trail-tech-your-number-1-picks-for-personal-use/"><u>[Updated] 2024 Approved Drone Trail Tech Your Number 1 Picks for Personal Use</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-introduction-to-cinematic-graphics-techniques/"><u>[Updated] In 2024, Introduction to Cinematic Graphics Techniques</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-k70-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi K70 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-performance-in-depth-analysis-of-the-tp-link-archer-a9-router-below-100/"><u>Affordable Performance: In-Depth Analysis of the TP-Link Archer A9 Router Below $100</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-infinix-smart-8-hd-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Infinix Smart 8 HD Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/introducing-the-minisforum-s100-a-pocket-computer-with-poe-and-25gbe-connectivity/"><u>Introducing the Minisforum S100: A Pocket Computer with PoE and 2.5GbE Connectivity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/regenerate-mouse-interface-on-winx7-os/"><u>Regenerate Mouse Interface on WINX/7 OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-iphone-data-sharing-made-possible-by-resolving-usb-device-driver-hiccups/"><u>Seamless iPhone Data Sharing Made Possible by Resolving USB Device Driver Hiccups</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-guide-installing-missing-drivers-on-your-device-compatible-with-older-versions-of-windows/"><u>Solution Guide: Installing Missing Drivers on Your Device Compatible with Older Versions of Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/strategies-to-tackle-intel-mmc-errors/"><u>Strategies to Tackle Intel MMC Errors</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-transforming-everyday-mac-users-into-pro-voice-recording-enthusiasts-a-beginners-approach-for-2024/"><u>Updated Transforming Everyday Mac Users Into Pro Voice Recording Enthusiasts A Beginners Approach for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/vehicle-compatibility-problem-with-gadget/"><u>Vehicle Compatibility Problem with Gadget</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-users-samsung-driver-installation/"><u>Windows Users: Samsung Driver Installation</u></a></li>
 </ul></div>
 

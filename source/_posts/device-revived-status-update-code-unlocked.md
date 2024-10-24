@@ -1,7 +1,7 @@
 ---
 title: "Device Revived: Status Update - Code Unlocked"
-date: 2024-10-16T14:42:36.807Z
-updated: 2024-10-17T22:37:06.946Z
+date: 2024-10-22T04:40:29.556Z
+updated: 2024-10-23T23:17:35.271Z
 tags:
   - win11
   - win10
@@ -34,10 +34,16 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 2. Type **devmgmt.msc** and press**Enter**  to access Device Manager.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e3f572c04.png)
@@ -46,14 +52,14 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 2: Update your device driver
 
@@ -63,6 +69,13 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecd845a65.jpg)
 3. Click the **Update** button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).Or click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
 
@@ -78,13 +91,6 @@ Uninstalling your device driver is another solution you can try to fix **This de
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Reset the BIOS settings
 
 If the above steps don’t work for you, to fix driver error code 22, you can try removing the CMOS battery to reset BIOS to its default settings, which sounds like an ultimate fix. It requires some skills. You can follow the instructions below:
@@ -98,25 +104,25 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
  Example – CMOS battery on a desktop PC  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)  
  Example – CMOS battery on a laptop
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 6. Wait for about one or two minutes for the CMOS to reset itself to its defaults.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
@@ -141,19 +147,24 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/complete-correcting-devmgmts-error-45/"><u>[COMPLETE]: Correcting DevMgmt's Error #45</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-pathway-to-preserving-instagram-videos-with-ease-pcmac-methodology/"><u>[Updated] In 2024, Pathway to Preserving Instagram Videos with Ease (PC/Mac Methodology)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/audio-device-non-responsive-in-windows-10-solution-found/"><u>Audio Device Non-Responsive in Windows 10 - Solution Found</u></a></li>
-<li><a href="https://driver-error.techidaily.com/audio-prowess-in-windows-11-redefined/"><u>Audio Prowess in Windows 11 Redefined</u></a></li>
-<li><a href="https://driver-error.techidaily.com/beat-the-ninex-fifty-gtx-malfunction-in-windows-eleven-uncover-the-full-guide-to-fixing-codes-forty-three/"><u>Beat the Ninex Fifty GTX Malfunction in Windows Eleven - Uncover the Full Guide to Fixing Codes Forty-Three</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-wont-turn-off-on-win-10-troubleshooting-steps/"><u>Bluetooth Won't Turn Off on Win 10 - Troubleshooting Steps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/clearing-the-air-for-users-facing-elan-issues-on-win10/"><u>Clearing the Air for Users Facing Elan Issues on Win10</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-infinix-zero-30-5g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Infinix Zero 30 5G</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/expert-tips-for-efficiently-logging-google-online-gatherings/"><u>Expert Tips for Efficiently Logging GooGle Online Gatherings</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How to Detect and Remove Spyware on Apple iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-cyberpunk-2077-wont-start-problem/"><u>How to Fix Cyberpunk 2077 Won't Start Problem</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unveiling-the-secrets-of-voiced-powerpoint-presentations/"><u>In 2024, Unveiling the Secrets of Voiced PowerPoint Presentations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transform-your-audio-tracks-from-ogg-to-lossless-pcm-format-at-no-cost-easy-digital-converter/"><u>Transform Your Audio Tracks From OGG to Lossless PCM Format at No Cost - Easy Digital Converter</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-automate-playlist-retrieval-from-youtube-directly/"><u>[New] 2024 Approved Automate Playlist Retrieval From YouTube Directly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unlock-the-mysteries-of-nighttime-photography-mastery-for-2024/"><u>[New] Unlock the Mysteries of Nighttime Photography Mastery for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-device-hubs-dilemrania-45/"><u>[RESOLVED]: Device Hub's Dilemrania #45</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-technological-leap-in-home-camcorders-and-live-feeds/"><u>[Updated] 2024 Approved The Technological Leap in Home Camcorders and Live Feeds</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-5-best-terraria-map-for-viewers-to-find-treasure/"><u>[Updated] 2024 Approved Top 5 Best Terraria Map for Viewers to Find Treasure</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-essentials-of-xbox-live-recording/"><u>[Updated] The Essentials of Xbox Live Recording</u></a></li>
+<li><a href="https://driver-error.techidaily.com/advanced-computer-hardware-evaluations-with-tomhardwarepro/"><u>Advanced Computer Hardware Evaluations with TomHardwarePro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/display-driver-keeps-crashing-solved/"><u>Display Driver Keeps Crashing [SOLVED]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-amd-radeon-hd-graphics-driver-for-windows-7-latest-version-available/"><u>Download AMD Radeon HD Graphics Driver for Windows 7 – Latest Version Available</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhance-gaming-performance-on-windows-10-via-razer-driver-update/"><u>Enhance Gaming Performance on Windows 10 via Razer Driver Update</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eradicated-disk-readwrite-problems/"><u>Eradicated Disk Read/Write Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-renesas-usb-30-driver-issue-on-windows-11/"><u>Fix Renesas USB 3.0 Driver Issue on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-asus-usb20-webcam-issue-in-windows-11/"><u>Fixed ASUS USB2.0 Webcam Issue in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-your-android-a-guide-to-navigating-the-quick-settings/"><u>Mastering Your Android: A Guide to Navigating the Quick Settings</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-devicenetworkbrowser-requirements-virbo-ai-live-stream/"><u>New In 2024, Device/Network/Browser Requirements | Virbo AI Live Stream</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revived-n-wireless-adapter-in-windows-after-broadcom-fix/"><u>Revived N Wireless Adapter in Windows After Broadcom Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seagate-hdd-unseen-in-windows-10-resolution-guide/"><u>Seagate HDD Unseen in Windows 10 - Resolution Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-techniques-building-animation-with-movie-maker/"><u>Step-by-Step Techniques Building Animation with Movie Maker</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unifying-your-musical-journey-converting-spotify-plays-into-youtube-music-lists/"><u>Unifying Your Musical Journey Converting Spotify Plays Into YouTube Music Lists</u></a></li>
 </ul></div>
 

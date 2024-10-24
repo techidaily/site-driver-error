@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Car Load Error on Gadget"
-date: 2024-10-17T08:38:34.963Z
-updated: 2024-10-18T09:10:19.409Z
+date: 2024-10-18T01:28:28.482Z
+updated: 2024-10-23T19:36:19.943Z
 tags:
   - win11
   - win10
@@ -46,17 +46,24 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer, and see if the**_A driver cannot load on this device_** error still remains. If the problem persists, please move on.
 
@@ -69,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  For instance, in this screenshot, the driver I’m having a problem with is**_CY3014.X64_** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-68.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When I Google_**CY3014.X64**_ , I see that it’s a file for the**Elgato Game Capture HD60 S device** . By searching the device name plus driver (i.e. Elgato Game Capture HD60 S driver), I land on this page:[https://help.elgato.com/hc/en-us/articles/360027961152-Elgato-Gaming-Hardware-Drivers](https://help.elgato.com/hc/en-us/articles/360027961152-Elgato-Gaming-Hardware-Drivers) , where I can download and later install the correct driver for my computer.
 
@@ -90,10 +104,16 @@ So in all, to download and install the driver manually, you need to:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -106,13 +126,6 @@ So in all, to download and install the driver manually, you need to:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Run Program Compatibility Troubleshooter
 
  If the above two methods don’t help to fix the**_A driver cannot load on this device_** error for you, it’s time to run the program compatibility troubleshooter, which helps older programs to run properly on newer operating systems like Windows 11 and Windows 10, since as mentioned, the error is usually related to older drivers that can’t run well on newer systems.
@@ -124,14 +137,21 @@ To run this troubleshooter:
 2. Select **Other troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-43.png)
 3. Find **Program Compatibility Troubleshooter** , and click the **Run** button next to it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-44.png)
 4. See if you can find the related app mentioned in the error message from the list. If not, select **Not listed** and click **Next** .  
@@ -139,15 +159,15 @@ To run this troubleshooter:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-45.png)
 5. Then**Browse** to the location where your related system file is, and click Next.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-46.png)
 6. Tick the boxes that fit your description, and click Next.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-47.png)
 7. Then follow the on-screen instructions to run the troubleshooter.
@@ -155,13 +175,6 @@ To run this troubleshooter:
  Then see if the**_A driver cannot load on this device_** error is fixed. If not, please move further.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Turn off Memory Integrity
 
@@ -174,19 +187,6 @@ To run this troubleshooter:
 1. On your keyboard, press the **Windows**  key and type **core isolation** , then select **Core Isolation** from the list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-36.png)
 2. Toggle off the option for Memory integrity.  
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-37.png)
 3. Restart your computer for the change to take effect.
@@ -214,24 +214,17 @@ To run this troubleshooter:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/confirmed-device-manager-crisis-averted/"><u>[CONFIRMED]: Device Manager Crisis Averted</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-telegram-marketing-made-simple-for-those-just-starting-out/"><u>[Updated] Telegram Marketing Made Simple For Those Just Starting Out</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-allure-of-benq-sw320-4k-pro-display/"><u>[Updated] The Allure of BenQ SW320 4K Pro Display</u></a></li>
-<li><a href="https://games-able.techidaily.com/449plus-game-on-with-innocns-39g1r-monitor/"><u>$449+ Game On with InnoCN's 39G1R Monitor</u></a></li>
-<li><a href="https://driver-error.techidaily.com/2019-08-in-this-section/"><u>2019-08: In This Section</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-cutting-edge-templates-unlocking-your-videos-potential/"><u>2024 Approved Cutting-Edge Templates Unlocking Your Video's Potential</u></a></li>
-<li><a href="https://driver-error.techidaily.com/access-android-os-through-your-windows-machine/"><u>Access Android OS Through Your Windows Machine</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-mouse-disconnects-without-warning/"><u>Bluetooth Mouse Disconnects Without Warning</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bypassing-the-access-denied-error-on-windows-for-successful-usb-installation/"><u>Bypassing the Access Denied Error on Windows for Successful USB Installation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/conquering-unwanted-bluetooth-connection/"><u>Conquering Unwanted Bluetooth Connection</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721098264911-fixing-iphone-usb-device-driver-problems-successful-guidance/"><u>Fixing iPhone USB Device Driver Problems - Successful Guidance!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-galaxy-a34-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Galaxy A34 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/immersive-audio-with-sony-bravia-theater-unit-an-unexpected-delight-for-home-cinema-lovers/"><u>Immersive Audio with Sony Bravia Theater Unit – An Unexpected Delight for Home Cinema Lovers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102190441-my-laptops-built-in-wifibluetooth-is-not-responding-on-windows/"><u>My Laptop’s Built-In Wifi/Bluetooth Is Not Responding on Windows</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-basic-to-brilliant-adding-fcp-x-effects-in-3-easy-steps/"><u>New 2024 Approved From Basic to Brilliant Adding FCP X Effects in 3 Easy Steps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721098054827-qualcomm-atheros-bluetooth-driver-fix-for-windows-11-expert-tips-and-tricks/"><u>Qualcomm Atheros Bluetooth Driver Fix for Windows 11: Expert Tips and Tricks</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/simplified-approach-to-embedding-multiple-video-playlists-from-youtube/"><u>Simplified Approach to Embedding Multiple Video Playlists From YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uniting-customer-care-chatgpt-meets-whatsapp/"><u>Uniting Customer Care: ChatGPT Meets WhatsApp</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-capabilities-a-review-of-the-samsung-cf591-monitor-for-gaming/"><u>Unveiling the Capabilities: A Review of the Samsung CF591 Monitor for Gaming</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-gear-up-essential-asmr-microphones-to-consider/"><u>[New] In 2024, Gear Up Essential ASMR Microphones to Consider</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-toolkit-capture-windows-11-displays/"><u>[Updated] Ultimate Toolkit Capture Windows 11 Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-intels-technology-for-optimized-gameplay/"><u>Deciphering Intel's Technology for Optimized Gameplay</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhancing-deathadder-support-in-win11/"><u>Enhancing DeathAdder Support in WIN11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fixing-hp-printer-setbacks-on-version-10-pc/"><u>Fixing HP Printer Setbacks on Version 10 PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-restore-your-hp-bluetooth-keyboard-functionality-step-by-step-solution/"><u>How to Restore Your HP Bluetooth Keyboard Functionality - Step-by-Step Solution</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-15-youtube-video-ideas-for-musicians/"><u>In 2024, 15 YouTube Video Ideas for Musicians</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-battleye-configuration-overcoming-initialization-challenges-and-error-code-1450/"><u>Mastering BattlEye Configuration: Overcoming Initialization Challenges and Error Code 1450</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-rtx-games-performance-unmet-quick-fix/"><u>Nvidia RTX Games Performance Unmet - Quick Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pcie-lanes-interruption-remedy-found/"><u>PCIe Lanes Interruption Remedy Found</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-privacy-how-to-completely-wipe-out-your-chat-history-with-gpt-3/"><u>Protecting Privacy: How to Completely Wipe Out Your Chat History with GPT-3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-disk-structure-c-vs-d-in-focus/"><u>Windows Disk Structure: C vs D in Focus</u></a></li>
 </ul></div>
 

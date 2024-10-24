@@ -1,7 +1,7 @@
 ---
 title: Reactivating Silenced Microphone/Headset on Windows 10
-date: 2024-10-15T22:24:10.253Z
-updated: 2024-10-18T10:10:49.881Z
+date: 2024-10-21T02:09:32.281Z
+updated: 2024-10-23T21:31:00.257Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/c06aefbb181f576852b2577ec9d3544ebd6635b5e
 
 **Note:** Before we go, plug your headset into different USB ports and replace your USB headset with another one to check if the issue is due to the headset. If it doesn’t work either, then go with the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Do not plug your USB headset while Windows 10 is booting
 
  Some conflicts could exist between your USB headset and other USB devices. To avoid this conflict, please be sure to plug your USB headset in after your computer gets into Windows 10.```` ``
@@ -42,23 +49,43 @@ Check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-14.png)  
 ```` ```` ````
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Click **Hardware and Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-12.png)  
 ```` ```` ````
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Click **Hardware and Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-14.png)
 4. Click **Next** .  
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-13.png)
 5. Now the troubleshooter starts detecting problems. Complete troubleshooting by following on-screen instructions.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.png)
 
@@ -71,33 +98,19 @@ After that, check if your headset works properly now.
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
 
 5. Relaunch your computer and check whether the issue is resolved or not.````
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Set your USB headset as default device
 
@@ -106,13 +119,6 @@ After that, check if your headset works properly now.
 2. Highlight your headset, then click **Set** **Default** . Click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ```` ```` ```` Check if your headset works properly now.
 
@@ -129,16 +135,16 @@ After that, check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/SCAN.jpg)
 3. Click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note: You can also do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Sound-driver.jpg)
 4. Restart your computer and check to see if your headset works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -161,16 +167,14 @@ After that, check if your headset works properly now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-sjcam-sj7-star-4k-action-camera-complete-review-2023/"><u>[Updated] 2024 Approved SJCam SJ7 Star 4K Action Camera Complete Review 2023</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-smart-shoppers-guide-to-inexpensive-recording-gear/"><u>[Updated] Smart Shopper's Guide to Inexpensive Recording Gear</u></a></li>
-<li><a href="https://fox-info.techidaily.com/backtracking-live-on-twitch-fifteen-ingenious-ways-to-revamp-streams/"><u>Backtracking Live on Twitch Fifteen Ingenious Ways to Revamp Streams</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-infinix-zero-5g-2023-turbo-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Infinix Zero 5G 2023 Turbo Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/closed-report-no-available-support-for-intelamd-video-drivers-in-premiere-pro/"><u>Closed Report: No Available Support for Intel/AMD Video Drivers in Premiere Pro</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-error-no-longer-affecting-system/"><u>Driver Error No Longer Affecting System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ideport0-malfunction-signal-noticed/"><u>Ideport0 Malfunction Signal Noticed</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-list-of-5-youtube-competitor-editors/"><u>In 2024, The Ultimate List of 5 YouTube Competitor Editors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-the-driver-not-found-issue-in-your-itbm-with-simple-steps/"><u>Resolve the 'Driver Not Found' Issue in Your ITBM with Simple Steps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-upgrading-razer-deathadder-driver-in-win10/"><u>Step-by-Step Guide to Upgrading Razer Deathadder Driver in Win10</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-cutting-out-cacophony-5-innovative-ways-to-delete-audio-in-streaming-video-content-online/"><u>Updated In 2024, Cutting Out Cacophony 5 Innovative Ways to Delete Audio in Streaming Video Content Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-professional-tips-for-editing-and-refining-instagram-videos/"><u>[Updated] 2024 Approved Professional Tips for Editing and Refining Instagram Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-streamline-your-watch-time-enable-youtube-autoplay-on-fb-for-2024/"><u>[Updated] Streamline Your Watch Time Enable YouTube Autoplay on FB for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amazon-prime-day-exclusive-elevate-work-efficiency-with-three-virtual-screens-via-cut-price-xr-glasses-insights-from-zdnet/"><u>Amazon Prime Day Exclusive: Elevate Work Efficiency with Three Virtual Screens via Cut-Price XR Glasses - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-solutions-for-restoring-functionality-of-your-wireless-keyboard-on-windows-machines/"><u>Effective Solutions for Restoring Functionality of Your Wireless Keyboard on Windows Machines</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-simulation-to-reality-vrs-growth-for-2024/"><u>From Simulation to Reality VR's Growth for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-samsung-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Samsung Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-hd-graphics-4600-driver-download-and-install-easily/"><u>Intel HD Graphics 4600 Driver Download and Install. Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/master-local-ai-development-with-gigabytes-elite-workstation-kit-premium-motherboards-dual-gpu-support-amdintel-high-speed-ssds-and-sturdy-psus-augmented-by107/"><u>Master Local AI Development with Gigabyte’s Elite Workstation Kit: Premium Motherboards, Dual-GPU Support (AMD/Intel), High-Speed SSDs and Sturdy PSUs, Augmented by Expert Software Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-crashed-and-fixed-standard-radeon-wattman-parameters-issues-easily/"><u>Resolving 'Crashed and Fixed: Standard Radeon WattMan Parameters' Issues Easily</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Stop Software From Deleting Itself: Nvidia Solution"
-date: 2024-10-14T18:23:02.970Z
-updated: 2024-10-18T06:30:40.016Z
+date: 2024-10-21T05:11:17.981Z
+updated: 2024-10-24T09:07:38.109Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/acda250c18e670747053131396d60b9bcac159175
 2. Type**control** and press**Enter** to go to Control Panel.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc59b08cdf4e.png)
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/acda250c18e670747053131396d60b9bcac159175
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc59ba063ed0.jpg)
 4. Click**System** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc59bd79ae6d.jpg)
 5. Click**Advanced system settings** .  
@@ -62,6 +55,14 @@ thumbnail: https://thmb.techidaily.com/acda250c18e670747053131396d60b9bcac159175
 7. Select**No** , and click**Save changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5a1202b9e9.jpg)
 8. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5a2a572543.jpg)
 9. Go to the**NVIDIA Driver Downloads** page to download the needed driver for your Nvidia graphics card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5994c83f8c.jpg)
@@ -77,15 +78,16 @@ thumbnail: https://thmb.techidaily.com/acda250c18e670747053131396d60b9bcac159175
    1. Press the**Windows log** ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png) key and**R** together to open the Run box.  
    2. Type**services.msc**  then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5a9433a0fb.png)  
    3. Select and stop**all** Nvidia services.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5ae3f67690.jpg)
 2. You should also check that all Nvidia programs are ended:  
 
@@ -95,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/acda250c18e670747053131396d60b9bcac159175
 3. You can then delete the logging file in your Windows Registry:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    1. Press**Windows+R** to open the Run box.  
@@ -107,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/acda250c18e670747053131396d60b9bcac159175
    3. Navigate to the following path, then delete the**Logging** file:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\NVIDIA Corporation\\Logging**  
@@ -120,10 +122,16 @@ thumbnail: https://thmb.techidaily.com/acda250c18e670747053131396d60b9bcac159175
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your Nvidia driver
@@ -142,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/acda250c18e670747053131396d60b9bcac159175
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Reinstall your Nvidia driver
 
 1. Type**control** in the Run box and press**Enter** to open Control Panel.
@@ -156,20 +157,21 @@ thumbnail: https://thmb.techidaily.com/acda250c18e670747053131396d60b9bcac159175
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5b694a6834.jpg)
 3. Delete all Nvidia programs.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5b6e7f170d.jpg)
 4. Restart your computer.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. When you’re back in Windows, repeat the steps in [**Fix** **2**](https://propmoneyinc.pxf.io/q4jzdy) above.
@@ -195,20 +197,24 @@ thumbnail: https://thmb.techidaily.com/acda250c18e670747053131396d60b9bcac159175
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/deal-tags-elevating-your-contents-discovery-potential/"><u>[New] Ideal Tags Elevating Your Content's Discovery Potential</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2023s-premier-ios-solutions-best-psp-game-simulators-for-2024/"><u>[Updated] 2023'S Premier iOS Solutions Best PSP Game Simulators for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-audio-matters-ensuring-excellent-sound-in-your-youtube-shots/"><u>[Updated] In 2024, Audio Matters Ensuring Excellent Sound in Your YouTube Shots</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-start-filming-right-the-newbies-guide-to-video-gear/"><u>[Updated] Start Filming Right The Newbie's Guide to Video Gear</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/elevate-your-macbook-pro-installing-an-ssd/"><u>Elevate Your MacBook Pro: Installing an SSD</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-message-decoded-overcoming-battleye-service-start-up-issues-and-driver-problems-code-1450/"><u>Error Message Decoded: Overcoming BattlEye Service Start-Up Issues and Driver Problems (Code 1450)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-adjust-and-restore-correct-video-playback-direction-on-an-asus-notebook/"><u>How to Adjust and Restore Correct Video Playback Direction on an ASUS Notebook</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-realme-gt-5-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Realme GT 5.</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-stability-preventing-terminal-cycle-crashes-on-pcs-fresh-insights/"><u>Mastering Stability: Preventing Terminal Cycle Crashes on PCs - Fresh Insights</u></a></li>
-<li><a href="https://driver-error.techidaily.com/recover-lost-lfe-channel-with-your-pcs-audio-system-after-dolby-pro-logic-iix-error-installation-solved/"><u>Recover Lost LFE Channel with Your PC's Audio System After Dolby Pro Logic IIx Error Installation, Solved!✔️</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-fix-for-battleye-services-failed-initialization-and-resolving-error-1450-in-drivers/"><u>Step-by-Step Fix for BattlEye Service's Failed Initialization and Resolving Error 1450 in Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-qualcomm-atheros-bluetooth-driver-problems-in-windows-10/"><u>Step-by-Step Solution for Qualcomm Atheros Bluetooth Driver Problems in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tackling-windows-11s-irql-crash/"><u>Tackling Windows 11'S IRQL Crash</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/trustworthy-methods-to-validate-wellness-tips-received-via-chatbots-and-ai-entities/"><u>Trustworthy Methods to Validate Wellness Tips Received via Chatbots and AI Entities</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-power-up-storage-ultimate-ps5-hard-drives-compared/"><u>[New] 2024 Approved Power Up Storage Ultimate PS5 Hard Drives Compared</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capture-still-shots-from-video-using-photos-on-windows-10/"><u>[New] Capture Still Shots From Video Using Photos on Windows 10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pivot-producer-system/"><u>[New] Pivot Producer System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-lengthening-gopros-electric-life/"><u>[Updated] Strategies for Lengthening GoPro's Electric Life</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleashing-creativity-new-font-addition-strategies-for-ae/"><u>[Updated] Unleashing Creativity New Font Addition Strategies for AE</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/easy-peasy-youtube-tutorials-making-content-that-works-for-all/"><u>Easy-Peasy YouTube Tutorials Making Content That Works for All</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-level-quick-fixes-the-ultimate-5-diy-filmmaking-tricks-for-2024/"><u>Expert-Level Quick Fixes The Ultimate 5 DIY Filmmaking Tricks for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-a-non-responsive-wireless-keyboard-on-windows-computers/"><u>How to Fix a Non-Responsive Wireless Keyboard on Windows Computers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-lava-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Lava ?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-restore-functionality-of-non-responsive-wireless-keyboards-in-windows-environments/"><u>How to Restore Functionality of Non-Responsive Wireless Keyboards in Windows Environments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-icd-identifying-the-opengl-driver/"><u>Intel ICD: Identifying the OpenGL Driver</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-stardew-valley-stability-ending-pc-crashes-for-good/"><u>Master Stardew Valley Stability: Ending PC Crashes for Good</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-frequent-amd-driver-crashes-fast/"><u>Resolve Frequent AMD Driver Crashes Fast</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-failed-to-install-hcmondriver-issues-a-step-by-step-guide/"><u>Resolving 'Failed to Install Hcmondriver' Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/service-section-inf-error-resolved/"><u>Service Section: INF Error Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solutions-to-intel-wireless-bluetooth-drivers-not-working-on-your-windows-11-device/"><u>Solutions to Intel Wireless Bluetooth Drivers Not Working on Your Windows 11 Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-instructions-for-setting-up-microsoft-copilot-on-apple-systems/"><u>Tailored Instructions for Setting Up Microsoft Copilot on Apple Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/taming-the-unknown-code-52-in-drive-systems/"><u>Taming the Unknown: Code 52 in Drive Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-restoring-functionality-of-your-non-responsive-hp-wireless-keyboard/"><u>Troubleshooting Guide: Restoring Functionality of Your Non-Responsive HP Wireless Keyboard</u></a></li>
 </ul></div>
 

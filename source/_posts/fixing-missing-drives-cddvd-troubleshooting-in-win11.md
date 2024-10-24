@@ -1,7 +1,7 @@
 ---
 title: "Fixing Missing Drives: CD/DVD Troubleshooting in Win11"
-date: 2024-10-16T01:08:59.887Z
-updated: 2024-10-18T00:37:54.234Z
+date: 2024-10-19T02:01:36.548Z
+updated: 2024-10-23T16:18:59.717Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2: Update drivers**
 
  If uninstalling the IDE ATA/ ATAPI controller drivers doesn’t solve the problem for you, it’s likely that you’re using the wrong driver altogether.
@@ -73,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3: Manually fix corrupted registry entries**
 
 **IMPORTANT** : Before we move on, it’s strongly recommended that you [back-up and restore your registry](https://tools.techidaily.com/drivereasy/download/) first.
@@ -84,23 +98,16 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Follow the path:
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\ {4D36E965-E325-11CE-BFC1-08002BE10318}**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
 
@@ -110,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **4: Create a registry subkey**
 
  If you can’t see**UpperFilters** and**LowerFilters** in the Registry pane, please follow the steps below.
@@ -125,28 +125,28 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Follow the path:
 **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\atapi\\**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd3791d37b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Create a new**Controller0** key under**atapi** key.
 
@@ -179,24 +179,18 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-seamless-video-transmission-success-in-facebook-messengers-iphoneandroid/"><u>[New] 2024 Approved Seamless Video Transmission Success in Facebook Messengers, iPhone/Android</u></a></li>
-<li><a href="https://driver-error.techidaily.com/titled-successful-installation-of-essential-hardware-drivers/"><u>[TITLED] Successful Installation of Essential Hardware Drivers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-guide-to-creating-gentle-sound-cuts-and-fades-with-pp/"><u>A Guide to Creating Gentle Sound Cuts and Fades with PP</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/audiovisual-symphony-top-tunes-to-accompany-every-style-of-video-content-for-2024/"><u>Audiovisual Symphony Top Tunes to Accompany Every Style of Video Content for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/conquer-directx-9-startup-issues-in-5-minutes/"><u>Conquer DirectX 9 Startup Issues in 5 Minutes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cutting-through-disk-space-errors-on-win1110/"><u>Cutting Through Disk Space Errors on Win11/10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/endless-bluetooth-woes-no-more-win10-edition/"><u>Endless Bluetooth Woes, No More! - Win10 Edition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-tips-resolving-iphones-inability-to-place-calls-easily/"><u>Expert Tips: Resolving iPhone's Inability to Place Calls Easily</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-enter-key-not-working-on-windows/"><u>How to Fix Enter Key Not Working on Windows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/how-to-make-a-3d-text-effect-in-photoshop-for-2024/"><u>How to Make a 3D Text Effect in Photoshop for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/htc-one-mini-bluetooth-failure-on-elementary-os-4-loki-resolved-37-characters/"><u>HTC One Mini Bluetooth Failure on Elementary OS 4 Loki, Resolved! (37 Characters)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor 90? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reactivation-process-complete/"><u>Reactivation Process Complete</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/speedy-recording-tool-plus-guided-sound-guide-integration-for-2024/"><u>Speedy Recording Tool + Guided Sound Guide Integration for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-installing-apples-magic-mouse-software-on-windows-systems/"><u>Step-by-Step Tutorial for Installing Apple's Magic Mouse Software on Windows Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-must-have-note-taking-applications-for-2e4-streamlined-organization-and-productivity/"><u>Top 10 Must-Have Note-Taking Applications for 2E4 | Streamlined Organization and Productivity</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-samsung-galaxy-z-flip-5-by-fonelab-android-recover-data/"><u>Undelete lost data from Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win10-addressing-usb-non-responsive/"><u>Win10: Addressing USB Non-Responsive</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-1011-recover-absent-data-acquisitor/"><u>Windows 10/11: Recover Absent Data Acquisitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-behind-the-scenes-how-apples-m1-max-attachments-work/"><u>[New] Behind-the-Scenes How Apple’s M1 Max Attachments Work</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-secrets-to-dynamic-and-effective-igtv-covers/"><u>[New] In 2024, Secrets to Dynamic & Effective IGTV Covers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-unlocking-potential-advanced-tactics-for-spotify-ads/"><u>[Updated] 2024 Approved Unlocking Potential Advanced Tactics for Spotify Ads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/bestene-kostenlose-dvd-decodierer-fur-macos-vollversionen-top-12-202e/"><u>Bestene Kostenlose DVD-Decodierer Für macOS - Vollversionen Top 12 202E</u></a></li>
+<li><a href="https://driver-error.techidaily.com/clearing-up-the-driver-hurdle-hd/"><u>Clearing Up the Driver Hurdle (HD)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-support-added-to-win-8-desktop/"><u>Device Support Added to Win 8 Desktop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harnessing-the-power-of-burst-mode-for-dynamic-videos/"><u>Harnessing the Power of Burst Mode for Dynamic Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-boot-into-safe-mode-and-remove-your-graphics-card-driver-in-windows-8/"><u>How to Boot Into Safe Mode and Remove Your Graphics Card Driver in Windows 8</u></a></li>
+<li><a href="https://win-help.techidaily.com/microsoft-stuns-with-futuristic-tech-pants-for-a-steal-at-150-bucks-how-they-work-and-why-you-need-them-as-revealed-by-zdnet/"><u>Microsoft Stuns with Futuristic 'Tech Pants' For a Steal at 150 Bucks | How They Work & Why You Need Them, as Revealed by ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-battle-for-video-editing-supremacy-sony-vegas-pro-vs-adobe-premiere-pro/"><u>New In 2024, The Battle for Video Editing Supremacy Sony Vegas Pro vs Adobe Premiere Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-your-hp-laptops-keyboard-functionality-quick-fix-for-the-inactive-keys-syndrome-article-name-356-characters/"><u>Restore Your HP Laptop's Keyboard Functionality: Quick Fix For the 'Inactive Keys’ Syndrome - Article Name — 356 Characters</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-your-silent-phone-a-guide-to-restoring-ringtones-on-your-iphone/"><u>Solving Your Silent Phone: A Guide to Restoring Ringtones on Your iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/what-does-it-take-to-promote-a-video-on-youtub/"><u>What Does It Take to Promote a Video on YouTub?</u></a></li>
 </ul></div>
 

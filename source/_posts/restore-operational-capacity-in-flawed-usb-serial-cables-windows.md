@@ -1,7 +1,7 @@
 ---
 title: Restore Operational Capacity in Flawed USB-Serial Cables, Windows
-date: 2024-10-12T22:11:57.058Z
-updated: 2024-10-18T05:57:42.149Z
+date: 2024-10-17T03:30:48.308Z
+updated: 2024-10-23T21:44:19.340Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 2. **[Roll your Prolific USB to Serial driver back to an older version](https://pish-posh-baby.sjv.io/g1jg15)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 1: Update your Prolific USB to Serial driver to the latest version
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 3. Click**Update** next to the flagged Prolific USB to Serial driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back** guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb072bf3dffe.jpg)
@@ -68,9 +68,6 @@ Here’s how you can do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. Double-click**Ports(COM & LPT)** , then**right-click** on your Prolific USB to Serial driver to select**Update driver** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075701f308.jpg)
-4. Click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075c361cc6.png)
-
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
   <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
@@ -78,16 +75,25 @@ Here’s how you can do it:
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075701f308.jpg)
+4. Click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075c361cc6.png)
+
 5. Select**Let me pick from a list of available drivers on my computer** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075da68269.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Select an older version on the Model list. Then**Next** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb076059c302.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then the driver you select would be installed on your Windows 10 computer automatically.
 
@@ -115,24 +121,20 @@ Once it’s done, connect your device again and see if it goes well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-from-vaults-to-viewers-streaming-video-archives-onto-facebook/"><u>[New] In 2024, From Vaults to Viewers Streaming Video Archives Onto Facebook</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-top-8-fb-movie-extraction-tools-for-2024/"><u>[New] Top 8 FB Movie Extraction Tools for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/passed-tests-drivers-installation-succeeded-post-correction/"><u>[PASSED TESTS] Drivers Installation Succeeded Post-Correction</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-sm-bus-controller-driver-issues-in-windows-1111/"><u>[SOLVED] SM Bus Controller Driver Issues in Windows 11/11</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-postpresence-mastering-photo-and-video-sizing-on-instagram/"><u>[Updated] 2024 Approved PostPresence Mastering Photo and Video Sizing on Instagram</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-the-potential-of-your-online-persona-on-facebook/"><u>[Updated] Unlocking the Potential of Your Online Persona on Facebook</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unveiling-advanced-game-recording-techniques-in-windows-11/"><u>2024 Approved Unveiling Advanced Game Recording Techniques in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bug-free-victory-overcoming-total-war-three-kingdoms-stability-issues/"><u>Bug-Free Victory: Overcoming Total War: Three Kingdoms Stability Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/direct-linux-interface-to-samsung-os-via-windows/"><u>Direct Linux Interface to Samsung OS via Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ensuring-accurate-medical-information-strategies-to-validate-health-claims-from-ai-and-chatgpt-services/"><u>Ensuring Accurate Medical Information: Strategies to Validate Health Claims From AI and ChatGPT Services</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphic-error-overcome-driver-restored-successfully/"><u>Graphic Error Overcome, Driver Restored Successfully</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-nokia-150-2023mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Nokia 150 (2023)Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-meizu-21-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Meizu 21 Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-restore-functionality-to-a-non-working-wireless-keyboard-on-pcs/"><u>How to Restore Functionality to a Non-Working Wireless Keyboard on PCs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-fix-for-asus-acpi-and-drivers-in-win10/"><u>Quick Fix for Asus ACPI and Drivers in Win10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-itbm-driver-errors-quickly-and-efficiently/"><u>Resolving ITBM Driver Errors Quickly and Efficiently</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-struggles-with-resource-management/"><u>System Struggles with Resource Management</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-and-10-strategies-for-low-disk-space-alerts/"><u>Win11 & 10: Strategies for Low Disk Space Alerts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-key-strategies-for-adding-timestamps-in-youtube-content/"><u>[New] 2024 Approved Key Strategies for Adding Timestamps in YouTube Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-escapism-rebooted-the-power-of-virtual-reality/"><u>[Updated] Escapism Rebooted The Power of Virtual Reality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-best-of-zoom-and-tiktok-video-sync/"><u>[Updated] Unveiling the Best of ZOOM & TikTok Video Sync</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analysis-of-virtual-conversations-gpt-and-bing-compared/"><u>Analysis of Virtual Conversations: GPT & Bing Compared</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-the-future-of-sound-integrating-gpt-into-daws/"><u>Crafting the Future of Sound: Integrating GPT Into DAWs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dispatched-hardware-dysfunction/"><u>Dispatched Hardware Dysfunction</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-eliminated-code-48/"><u>Error Eliminated: Code 48</u></a></li>
+<li><a href="https://driver-error.techidaily.com/failure-notice-bcm20702a0-hardware-issue/"><u>Failure Notice: BCM20702A0 Hardware Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcome-itbm-not-available-driver-glitch-without-a-hitch/"><u>Overcome ITBM 'Not Available' Driver Glitch Without a Hitch</u></a></li>
+<li><a href="https://driver-error.techidaily.com/put-a-halt-on-auto-uninstalls-fix-nvidia-driver/"><u>Put a Halt on Auto-Uninstalls: Fix Nvidia Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-distorted-video-from-asus-usb20-in-win11-setup/"><u>Solved Distorted Video From ASUS USB2.0 in Win11 Setup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamlining-communication-setting-up-smart-filters-and-adding-contacts-on-gmail/"><u>Streamlining Communication: Setting Up Smart Filters & Adding Contacts on Gmail</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubles-with-your-recently-updated-pc-cant-find-my-dear-old-prodigy-cam-heres-what-i-learned-to-do-about-it-solved/"><u>Troubles with Your Recently Updated PC? Can't Find My Dear Old Prodigy Cam – Here’s What I Learned to Do About It! [Solved]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-codes-fixing-cod-warzones-pacific-crash-issue/"><u>Troubleshooting Codes: Fixing COD Warzone's Pacific Crash Issue</u></a></li>
 </ul></div>
 

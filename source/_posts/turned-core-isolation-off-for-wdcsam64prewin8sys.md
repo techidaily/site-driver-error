@@ -1,7 +1,7 @@
 ---
 title: Turned Core Isolation Off for wdcsam64_prewin8.sys
-date: 2024-10-11T00:56:18.339Z
-updated: 2024-10-18T08:18:13.253Z
+date: 2024-10-16T18:31:40.053Z
+updated: 2024-10-23T20:53:22.492Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Update Windows
 
  If you’ve disabled Windows from automatically updating manually, there are chances that you missed some driver updates that could help to fix incompatible drivers like wdcsam64\_prewin8.sys. To make sure that you have the latest available updates installed:
@@ -47,18 +54,18 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Then restart your computer and see if**_wdcsam64\_prewin8.sys_** is still listed as an incompatible file that stops Memory Integrity from working properly. If the problem remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Reinstall the wdcsam64\_prewin8.sys driver
 
@@ -70,16 +77,23 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-49.png)
 2. Type this command: **`pnputil.exe -d oem<NUMBER>.inf`**  and hit **Enter** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The**`<NUMBER>`** here should be filled with the number you see on your computer. For instance, I’m seeing **16** , so my command here should be **`pnputil.exe -d oem16.inf`** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-72.png)
 3. This is what the command looks like on my computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-74.png)  
@@ -91,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Manually download and install the wdcsam64\_prewin8.sys driver
 
  According to a post on the WD forum, WD has recognized this problem, i.e. dcsam64\_prewin8.sys being incompatible and turning off Memory Integrity, and they’ve since released a new driver, which can be downloaded from here:[https://downloads.wdc.com/wdapp/Install_WD_Discovery_for_Windows.zip](https://downloads.wdc.com/wdapp/Install%5FWD%5FDiscovery%5Ffor%5FWindows.zip)
@@ -107,15 +114,22 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-75.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then check to see if the wdcsam64\_prewin8.sys driver is still marked as incompatible. If so, please move further.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Automatically update the wdcsam64\_prewin8.sys driver
 
@@ -135,13 +149,6 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Repair damaged or corrupt system files
 
  If none of the above helps, you may need to check if there are corrupt or damaged system files that lead to system conflicts, missing DLLs, registry errors, etc, thus stopping the wdcsam64\_prewin8.sys driver from loading. So you’ll need to repair such files. Tools like **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  can automate the repair process quickly and easily. To use it:
@@ -152,13 +159,6 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -185,16 +185,22 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/resolved-windows-ignores-nvidia-graphics/"><u>[RESOLVED] Windows Ignores Nvidia Graphics</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-transforming-fb-videos-into-mp3-files/"><u>[Updated] In 2024, Transforming Fb Videos Into MP3 Files</u></a></li>
-<li><a href="https://article-posts.techidaily.com/choreographing-spellbinding-short-films-for-2024/"><u>Choreographing Spellbinding Short Films for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-22-rectified-activation-successful/"><u>Error 22 Rectified; Activation Successful</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-iphone-video-editing-shorten-crop-and-resize-basics/"><u>In 2024, IPhone Video Editing Shorten, Crop & Resize Basics</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-youtube-studio-for-beginners-basic-to-pro-editing-guide/"><u>In 2024, YouTube Studio for Beginners Basic to Pro Editing Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mouse-lags-freezes-stutters-in-windows-11-fixed/"><u>Mouse Lags, Freezes, Stutters in Windows 11 [Fixed]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/prevented-faulty-device-communication/"><u>Prevented Faulty Device Communication</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-phones-reviews-the-mobile-gadgets-chosen-by-experts-at-zdnet/"><u>Top Phones Reviews: The Mobile Gadgets Chosen by Experts at ZDNet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-navigating-the-ins-and-outs-of-aiseesofts-screencast-functionality/"><u>[Updated] In 2024, Navigating the Ins and Outs of Aiseesoft's Screencast Functionality</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disk-space-management-for-win11-and-10-users/"><u>Disk Space Management for Win11 & 10 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-access-failure-alert-win11/"><u>Hardware Access Failure Alert: Win11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-effectively-address-and-repair-hcmon-driver-could-not-be-installed-mishaps/"><u>How to Effectively Address and Repair 'HCMon Driver Could Not Be Installed' Mishaps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xs-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XS Max Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-14-pro-max-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone 14 Pro Max without the Previous Owner?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-honor-x50i-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Honor X50i Location | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-your-creative-process-essential-affects-plugin-guide-for-2024/"><u>Master Your Creative Process Essential Affects Plugin Guide for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-navigating-the-nuances-of-audio-balancing-a-deep-dive-into-obs-sound-dynamics/"><u>New 2024 Approved Navigating the Nuances of Audio Balancing A Deep Dive Into OBS Sound Dynamics</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-guide-fixing-iphone-external-storage-drivers-via-mtp/"><u>The Ultimate Guide: Fixing iPhone External Storage Drivers via MTP</u></a></li>
+<li><a href="https://driver-error.techidaily.com/triumph-over-win11-bsod-with-irql-fix/"><u>Triumph over Win11 BSOD with Irql Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-hardware-hitches-making-windows-recognize-your-last-connected-usb-device/"><u>Troubleshoot Hardware Hitches: Making Windows Recognize Your Last Connected USB Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/validating-inf-section-service-setup-ready/"><u>Validating INF Section - Service Setup Ready</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-operating-system-keys-not-responding/"><u>Windows Operating System: Keys Not Responding</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp3-movavi-asf/"><u>お使いのコンピューター上ですばやくMP3に変換: Movavi 無料オンラインASFツール</u></a></li>
 </ul></div>
 

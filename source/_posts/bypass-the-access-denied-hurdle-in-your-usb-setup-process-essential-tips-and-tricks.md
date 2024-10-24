@@ -1,7 +1,7 @@
 ---
 title: "Bypass the 'Access Denied' Hurdle in Your USB Setup Process: Essential Tips and Tricks"
-date: 2024-08-02T07:31:19.931Z
-updated: 2024-08-03T07:31:19.931Z
+date: 2024-10-18T16:08:00.550Z
+updated: 2024-10-24T07:10:46.116Z
 tags:
   - win11
   - win10
@@ -17,19 +17,12 @@ thumbnail: https://thmb.techidaily.com/e55121a8e00138bfd889740b0f7a193e7e03922e8
 
 If you can’t install any new USB devices due to error “Access is denied”, it can be frustrating. But don’t worry, here you will find the solution to fix the problem.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6862c6dbe8.png) .
 
 First, make sure that you login to computer as Administrator. If you are not logged in with Administrator, follow steps below to switch it to Administrator.  
   
 1\. Go to**Control Panel**and View by**Category**. Click**User Accounts**.(In your case, this may be “User Accounts and Family Safety”.)  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c68c5d7bf6a.jpg)
   
 2\. Click **Change your account type** and enter your password if necessary.
@@ -38,9 +31,6 @@ First, make sure that you login to computer as Administrator. If you are not log
   
  3\. Then click**Start** button and choose to **Log off**  of Windows, and then log back in again.
   
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791bab2104ee.png)
 
 After that, reinstall the driver again.  
@@ -56,23 +46,14 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
 1\. Press**Win+R**(Windows key and R key) at the same time. A Run dialog will open.  
 2\. Type**regedit**in the run box and click**OK**button.
   
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6905ba04f8.png)
   
  3\. Go to **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\USBSTOR.** Right-click on it and select**Permissions…** from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c692c5d030c.jpg)
   
  4\. Select**SYSTEM** from the Group or user names. In Permissions for SYSTEM section, make sure the Full Control Allow checkbox is checked and uncheck any Deny checkbox. Click Apply button to apply the changes.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6933c3f709.png)
 
  Also check your user account and see if it has full control of the system and any deny checkbox is unchecked.
@@ -88,8 +69,6 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +76,30 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-input-device-not-responding-on-windows-11/"><u>[Fixed] Input Device Not Responding on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-skills-for-efficient-zoom-podcasting/"><u>[New] 2024 Approved Essential Skills for Efficient Zoom Podcasting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-learning-the-art-of-youtube-content/"><u>[New] 2024 Approved From Zero to Hero Learning the Art of YouTube Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-watching-wonders-amazon-primes-top-series-on-twitter/"><u>[New] In 2024, Watching Wonders Amazon Prime's Top Series on Twitter</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-age-retro-gaming-bring-back-your-favorite-dreamcatchers-android-edition/"><u>Digital Age Retro Gaming: Bring Back Your Favorite Dreamcatchers, Android Edition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gpu-reveal-understanding-basic-display-adapter-bda/"><u>GPU Reveal: Understanding Basic Display Adapter (BDA)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-tecno-spark-20-proplus-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Tecno Spark 20 Pro+ Phones with/without a PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-do-digital-video-recorders-work-and-why-are-they-important/"><u>How Do Digital Video Recorders Work and Why Are They Important?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-behind-the-scenes-using-instagrams-virtual-backdrops/"><u>In 2024, Behind-the-Scenes Using Instagram's Virtual Backdrops</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-tech-failure-screen-remains-blacked-out/"><u>New Tech Failure: Screen Remains Blacked-Out</u></a></li>
+<li><a href="https://driver-error.techidaily.com/put-a-halt-on-auto-uninstalls-fix-nvidia-driver/"><u>Put a Halt on Auto-Uninstalls: Fix Nvidia Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/puzzle-solving-windows-10-elan-pad-glitches/"><u>Puzzle-Solving: Windows 10 Elan Pad Glitches</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seagate-external-drive-not-found-tips-to-spot-it-in-w10/"><u>Seagate External Drive Not Found: Tips to Spot It in W10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-your-wireless-keyboard-woes-troubleshooting-tips-for-windows-users/"><u>Solve Your Wireless Keyboard Woes: Troubleshooting Tips for Windows Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-advrcntr2dll-not-found-issue-in-nero-software/"><u>Troubleshooting the 'advrcntr2.dll Not Found' Issue in Nero Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-gtx-950-code-43/"><u>Windows 10의 GTX 950를 고수하는 Code 43 오류에 대한 획기적인 도구 제공</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

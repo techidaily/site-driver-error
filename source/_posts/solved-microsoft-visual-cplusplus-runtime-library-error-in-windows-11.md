@@ -1,7 +1,7 @@
 ---
 title: "Solved: Microsoft Visual C++ Runtime Library Error in Windows 11"
-date: 2024-10-16T03:24:03.567Z
-updated: 2024-10-18T08:57:29.313Z
+date: 2024-10-22T21:32:57.916Z
+updated: 2024-10-24T08:09:26.119Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
   
  5) Check to see if the Runtime error stops now. If the problem persists, please continue with the next option.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2: Update display driver
 
  You can choose to update display driver by yourself or via Device Manager. Either way, it is always suggested that you get your drivers from legitimate sources.
@@ -68,32 +75,11 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965ed6994a36.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged device driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965ed8fabadd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3: Perform a Clean boot
 
@@ -105,24 +91,50 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861de6d9c40f.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) On the same window, tick the box for**Hide all Microsoft services** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861dea18f75c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Go to**General** tab, un-check the box for**Load startup items** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861dee39618b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Then hit**Apply** and**OK** to close the System Configuration window.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861df26558e0.jpg)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Restart your computer now. If the problem is gone, you need to repeat the similar procedure to boot into normal mode. But this time, you need to disable the applications one by one until you locate the culprit app that is causing this error. If you find it, go back to [**Method 1**](https://ukaidot.sjv.io/daqnoj) and [**Method 2**](https://tinyland.pxf.io/org4ra) to get the device driver reinstalled or updated as per your own need.
 
@@ -155,22 +167,24 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-elevate-your-brand-with-ai-enhanced-naming-solutions/"><u>[New] 2024 Approved Elevate Your Brand with AI-Enhanced Naming Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-most-extensive-selection-of-free-illustrator-portals/"><u>[New] In 2024, The Most Extensive Selection of Free Illustrator Portals</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-softening-audio-routine/"><u>[New] Step-by-Step Softening Audio Routine</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nlocking-creativity-in-youtube-shorts-template-development-for-2024/"><u>[New] Unlocking Creativity in YouTube Shorts Template Development for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-high-definition-audio-device-driver-issue-after-windows-7-install/"><u>[Solved] High Definition Audio Device Driver Issue After Windows 7 Install</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-xiaomi-redmi-k70e-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Xiaomi Redmi K70E to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-steam-statistics-monitoring-your-gaming-time-and-credits/"><u>Decoding Steam Statistics: Monitoring Your Gaming Time & Credits</u></a></li>
-<li><a href="https://driver-error.techidaily.com/drivers-detected-ideport0-control-error/"><u>Driver's Detected: Ideport0 Control Error</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effective-solutions-to-fix-unrecognized-driver-installations-for-compatibility/"><u>Effective Solutions to Fix Unrecognized Driver Installations for Compatibility</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-marvell-91xx-driver-issue-on-windows-11-solved/"><u>Fix Marvell 91Xx Driver Issue on Windows 11 [Solved]</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-download-vlc-player-for-free-and-safe-on-macstep-by-step-for-2024/"><u>How to Download VLC Player for Free and Safe on Mac?[Step-by-Step] for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-recover-from-a-crash-in-your-radeon-wattman-configurations-successfully/"><u>How To Recover From a Crash in Your Radeon Wattman Configurations Successfully</u></a></li>
-<li><a href="https://driver-error.techidaily.com/nvidia-driver-update-successfully-installed/"><u>Nvidia Driver Update Successfully Installed</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/professional-recorder-capture-studio-win10-edition/"><u>Professional Recorder Capture Studio Win10 Edition</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revival-phoenix-toolbox-pdf-repair/"><u>Revival Phoenix Toolbox: PDF Repair</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-invalid-drivers-steps-to-rectify-unrecognized-installations/"><u>Troubleshooting Invalid Drivers: Steps to Rectify Unrecognized Installations</u></a></li>
-<li><a href="https://driver-error.techidaily.com/usb-serial-linkup-windows-system-recovery-tips/"><u>USB Serial Linkup: Windows System Recovery Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-extracting-youtube-content-with-ease/"><u>[New] 2024 Approved Extracting YouTube Content with Ease</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-bringing-beats-integrating-music-in-inshot-editor/"><u>[Updated] In 2024, Bringing Beats Integrating Music in InShot Editor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-managing-fast-forward-functions/"><u>2024 Approved The Ultimate Guide to Managing Fast Forward Functions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oppo-a18-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Oppo A18 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-2042-performance-optimized-say-goodbye-to-framerate-drops-and-glitchy-gameplay/"><u>Battlefield #2042 Performance Optimized - Say Goodbye to Framerate Drops and Glitchy Gameplay!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/efficient-pci-compatible-software-bundles/"><u>Efficient PCI-Compatible Software Bundles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhance-your-speaker-experience-rejuvenating-your-pcs-audio-system-post-dynaudio-driver-update-fixed/"><u>Enhance Your Speaker Experience: Rejuvenating Your PC's Audio System Post-Dynaudio Driver Update, Fixed!✔️</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-v27-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo V27 Pattern Lock Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-nokia-c02-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Nokia C02 PC | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-explore-windows-10s-best-new-applications-and-games/"><u>In 2024, Explore Windows 10'S Best New Applications & Games</u></a></li>
+<li><a href="https://driver-error.techidaily.com/master-techniques-securing-optimal-performance-on-hp-envy-20-by-driver-updates/"><u>Master Techniques: Securing Optimal Performance on HP Envy 20 by Driver Updates</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mend-usb-hub-malfunction/"><u>Mend USB Hub Malfunction</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reverse-network-interface-failure-on-inspiron/"><u>Reverse Network Interface Failure on Inspiron</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-resolving-issues-with-wireless-keyboards-for-windows-users/"><u>Step by Step Guide: Resolving Issues with Wireless Keyboards for Windows Users</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/trois-facons-efficaces-de-reprendre-multiples-base-de-donnees-dans-sql-server/"><u>Trois Façons Efficaces De Reprendre Multiples Base De Données Dans SQL Server</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-overcoming-driver-load-error-when-initializing-battleye-service/"><u>Troubleshooting Guide: Overcoming 'Driver Load Error' When Initializing BattlEye Service</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-invalidated-hardware-drivers-on-your-pc-or-mac/"><u>Troubleshooting Invalidated Hardware Drivers on Your PC or Mac</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wacom-no-device-connected-problem-solved/"><u>Wacom: No Device Connected Problem [Solved]</u></a></li>
 </ul></div>
 

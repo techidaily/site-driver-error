@@ -1,7 +1,7 @@
 ---
 title: "[Restored] Keyboard Functionality in Windows 11"
-date: 2024-10-16T07:51:21.722Z
-updated: 2024-10-18T02:43:38.237Z
+date: 2024-10-18T08:54:11.193Z
+updated: 2024-10-23T19:58:37.749Z
 tags:
   - win11
   - win10
@@ -45,31 +45,38 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -82,15 +89,22 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) When prompted to confirm, click**OK** .
 
@@ -116,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -130,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 5: Switch to ChromeOS
 
@@ -179,20 +179,22 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-navigating-the-digital-space-with-ease-via-onestream-platform-for-2024/"><u>[New] Navigating the Digital Space with Ease via OneStream Platform for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-selection-best-8-websites-with-striking-3d-and-glamourous-text/"><u>[New] Ultimate Selection Best 8 Websites with Striking 3D & Glamourous Text</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-enhancing-zoom-video-clarity-user-guide/"><u>[Updated] 2024 Approved Enhancing Zoom Video Clarity User Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-sharpen-your-snaps-top-10-internet-photo-tenderizers-listed/"><u>2024 Approved Sharpen Your Snaps Top 10 Internet Photo Tenderizers Listed</u></a></li>
-<li><a href="https://facebook.techidaily.com/5-times-social-media-giants-forgot-about-users/"><u>5 Times Social Media Giants Forgot About Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/balanced-hdd-control-mechanism/"><u>Balanced HDD Control Mechanism</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-s17e-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo S17e</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-erratic-trackpad-behavior-in-dell-windows-7/"><u>Fix Erratic Trackpad Behavior in Dell-Windows 7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-installing-necessary-drivers-for-your-windows-pc-windows-1187/"><u>Guide: Installing Necessary Drivers for Your Windows PC [WINDOWS 11/8/7]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-get-your-qualcomm-atheros-bluetooth-working-again-on-a-windows-10-pc/"><u>How to Get Your Qualcomm Atheros Bluetooth Working Again on a Windows 10 PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-get-your-qualcomm-atheros-devices-bluetooth-working-perfectly-on-windows-jndz-eleven/"><u>How to Get Your Qualcomm Atheros Device's Bluetooth Working Perfectly on Windows ˈ|jɪndz Eleven</u></a></li>
-<li><a href="https://driver-error.techidaily.com/nvidia-driver-update-no-errors-detected-in-installation/"><u>Nvidia Driver Update: No Errors Detected in Installation</u></a></li>
-<li><a href="https://solve-info.techidaily.com/proprietary-website-personalization-using-cookiebot-technology/"><u>Proprietary Website Personalization Using Cookiebot Technology</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-lava-blaze-2-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Lava Blaze 2 Pro Phone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-restoring-bluetooth-functionality-for-qualcomm-atheros-on-windows-10/"><u>Troubleshooting Guide: Restoring Bluetooth Functionality for Qualcomm Atheros on Windows 10</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-top-11-best-instagram-photo-editors/"><u>[New] 2024 Approved Top 11 Best Instagram Photo Editors</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-declutter-your-visuals-learn-background-removal-with-photopea-for-2024/"><u>[New] Declutter Your Visuals Learn Background Removal with Photopea for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-social-media-savvy-your-guide-to-success/"><u>[Updated] 2024 Approved Social Media Savvy Your Guide to Success</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-motorola-edge-40-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bcm20702a0-hardware-issue-detected/"><u>BCM20702A0 Hardware Issue Detected</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/climbing-the-popularity-ladder-with-staff-chosen-videos-at-vimeo-for-2024/"><u>Climbing the Popularity Ladder with Staff-Chosen Videos at Vimeo for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-steps-to-fix-battleye-service-launch-failures-linked-to-driver-problems-error-1450/"><u>Comprehensive Steps to Fix BattlEye Service Launch Failures Linked to Driver Problems (Error 1450)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-system-writes-that-prevent-enex-loading-in-win11/"><u>Correcting System' Writes that Prevent eNEX Loading in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dealing-with-acpi-device-id-33a0-faults/"><u>Dealing with Acpi Device ID 33A0 Faults</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-oppo-f23-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Oppo F23 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098464023-hp-wireless-keyboard-malfunction-heres-how-to-restore-functionality-quickly/"><u>HP Wireless Keyboard Malfunction? Here's How to Restore Functionality Quickly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-a14-4g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy A14 4G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104429316-printer-driver-update-successful/"><u>Printer Driver Update - Successful!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103492046-quick-solutions-resolve-driver-unavailable-itbm-errors-instantly/"><u>Quick Solutions: Resolve 'Driver Unavailable' ITBM Errors Instantly!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104378487-troubleshoot-and-fix-why-isnt-my-hp-wireless-keyboard-working-step-by-step/"><u>Troubleshoot and Fix: Why Isn't My HP Wireless Keyboard Working? Step by Step.</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-leading-microsd-card-models-for-optimal-performance/"><u>Ultimate Selection: Leading MicroSD Card Models for Optimal Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-changing-your-mp4-files-to-wmv-with-videolans-vlc-player/"><u>Ultimate Tutorial: Changing Your MP4 Files to WMV with VideoLAN's VLC Player</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 'Default Radeon Wattman Settings Have Crashed and Been Restored' Problem [Solved]
-date: 2024-08-02T07:30:55.839Z
-updated: 2024-08-03T07:30:55.839Z
+date: 2024-10-21T05:57:24.300Z
+updated: 2024-10-23T22:00:37.326Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
 
 ## 'Default Radeon Wattman Settings Have Crashed and Been Restored' Problem [Solved]
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58d895485ccdd.jpg)  
   
  Since Anniversary Update of Windows 10, which was in August in 2016, AMD users have been reporting that Radeon WattMan sometimes stops working on their PCs.
@@ -51,16 +48,10 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  3) Then navigate to **Driver** tab, and then choose **Roll Back Driver**.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da15224ee2b.jpg)  
   
  4) If the **Roll Back Driver** button here is **grey out**, that means this option is unavailable in your situation. You need to go to the options below for more help.
   
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1595caf55.jpg)
   
 **Option 2:** **Clean re-install display card driver**  
@@ -69,10 +60,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  1) Click **Start** button, then choose **Control Panel**. In Control Panel, choose **Uninstall a program** under Programs sector (View by **Category**).  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1cb2befea.jpg)  
   
  2) Now, choose **AMD Catalyst** program or other **AMD programs**, then choose **Uninstall**.
@@ -89,9 +76,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  5) Navigate to **Driver** tab, then choose **Uninstall**.  
   
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1e9101343.jpg)
 
  When prompted with the following notification, click **OK** to continue.
@@ -102,9 +86,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  Your PC will automatically restart when the uninstall finishes. Please make sure that you have saved all your important files before the restart.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1f79327c3.jpg)  
   
  7) You can go to the support website of AMD to locate the driver you need. The baisc procedure is not that difficult, go to AMD support, then search for the driver that matches your operating system.
@@ -113,9 +94,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  Therefore, we recommend [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/), a professional driver updater that helps you automatically scan, download and update the best-matched driver on your PC.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da264342d54.jpg)  
   
  With the help of [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/), you don’t need to worry about downloading wrong device drivers any more! Leave everything to the professionals, and Driver Easy will take care of the rest for you.
@@ -126,16 +104,10 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 1) Press Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and hit **Enter**.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)  
   
  2) You could choose **Restart now and check for problems (recommended)** to check the status of your memory card right now, or choose **Check for problems the next time I start my computer** if you are too occupied now.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
  3) You will be seeing this page showing the progress of the check and number of passes it will run on memory.  
@@ -163,8 +135,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +142,39 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-immersion-station-youtubes-10-best-virtual-reality-films/"><u>[New] In 2024, Immersion Station YouTube's 10 Best Virtual Reality Films</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-a-straightforward-path-learn-how-to-use-ez-grabber-effectively/"><u>[Updated] 2024 Approved A Straightforward Path Learn How To Use EZ Grabber Effectively</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-stop-quittime-video-capture-procedures/"><u>[Updated] In 2024, Stop QuitTime Video Capture Procedures</u></a></li>
+<li><a href="https://video-capture.techidaily.com/acethinker-screen-recorder-review/"><u>AceThinker Screen Recorder Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-fixes-for-non-functional-qualcomm-atheros-bluetooth-drivers-on-windows-10/"><u>Effective Fixes for Non-Functional Qualcomm Atheros Bluetooth Drivers on Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/evaluating-performance-and-features-of-apples-top-devices-ipad-pro-m1-vs-macbook-air-m1/"><u>Evaluating Performance & Features of Apple's Top Devices: IPad Pro M1 Vs. MacBook Air M1</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y28-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y28 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-y02t-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo Y02T Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-and-mouse-stop-working-after-sleep-on-windows-10-solved/"><u>Keyboard & Mouse Stop Working After Sleep on Windows 10 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mending-non-working-right-click-on-touchpad-with-windows-11/"><u>Mending Non-Working Right Click on Touchpad with Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pinpoint-and-fix-dormant-windows-devices/"><u>Pinpoint and Fix Dormant Windows Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reactivating-obscured-bluetooth-in-system-settings/"><u>Reactivating: Obscured Bluetooth in System Settings</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reinstating-bluetooth-absence-in-hardware-listings/"><u>Reinstating: Bluetooth Absence in Hardware Listings</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/resolved-efficiently-access-your-shortcuts-by-linking-to-the-preferred-folder-in-this-collaborative-repository/"><u>Resolved: Efficiently Access Your Shortcuts by Linking to the Preferred Folder in This Collaborative Repository</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-memory-management-interruptions/"><u>Solved Memory Management Interruptions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-to-correct-asus-acpi-driver-errors/"><u>Steps to Correct Asus ACPI Driver Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-incompatible-drivers-ensuring-validity-on-your-pc/"><u>Troubleshooting Incompatible Drivers: Ensuring Validity on Your PC</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-maximize-yandex-translate-in-video-translation-and-beyond-for-2024/"><u>Updated Maximize Yandex Translate in Video Translation and Beyond for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

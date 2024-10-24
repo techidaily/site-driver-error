@@ -1,7 +1,7 @@
 ---
 title: "Bluetooth Connectivity Issues Resolved: Fixing Qualcomm Atheros Drivers in Windows 11"
-date: 2024-08-02T07:31:56.056Z
-updated: 2024-08-03T07:31:56.056Z
+date: 2024-10-23T04:12:53.492Z
+updated: 2024-10-23T23:33:30.613Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ## Bluetooth Connectivity Issues Resolved: Fixing Qualcomm Atheros Drivers in Windows 11
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587848fa4952b.png)
 
 Windows 10 users have reported to have problems with their Atheros Bluetooth driver on and off for months since the upgrade. When Bluetooth driver is sloppy, your Bluetooth devices, wireless mouse, wireless keyboard, wireless headphone, are not working properly.
@@ -39,9 +36,6 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
  Then choose**Update history** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878514d080da.jpg)
   
  Scroll down to see if you can find the**KB3061161** . It should be a rather old update, so it might cost you some time to locate.
@@ -70,25 +64,16 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 4) Then locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Uninstall**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878700f160fd.jpg)
 
 5) When prompted with the following notification, tick the box for**Delete the driver software for this device**and then hit**OK**to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787077d9b1c.png)
 
 6) When the uninstall finishes, restart your computer.
   
 7) Now, go to the folder where you store the setup file of the Qualcomm Atheros Bluetooth driver, double the**setup file**and run the installation as instructed.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587857485a0a6.png)
 
 8) When the install finishes, reboot your computer for the change to take effect.
@@ -113,16 +98,10 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
  4) Choose**Browse my computer for driver software** .
   
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787a96b276c.jpg)
 
  5) Choose **Let me pick from a list of the drivers on my computer** .
   
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787ac962e8f.jpg)
 
 6) Un-tick the box for **Show compatible hardware** . Then you should be able to see **Qualcomm Atheros** driver option on the left. On the right, choose one of the drivers listed. We go with**Qualcomm Atheros AR3011 Bluetooth 3.0** . You need to try them one by one by yourself to select the right one for your PC. When done picking, click**Next** to continue.
@@ -145,9 +124,6 @@ Moreover, it is very easy to use. Just click the**Scan Now**button for**Driver E
 
 Then the**Update**button next to the driver you need to update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76eb162d8c.jpg)
 
 That’s all.
@@ -167,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +150,33 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-expert-opinions-best-browser-recording-apps-uncovered/"><u>[New] 2024 Approved Expert Opinions Best Browser Recording Apps Uncovered</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-good-to-great-videos-the-20-essential-shortcuts-for-success/"><u>[New] 2024 Approved From Good to Great Videos The 20 Essential Shortcuts for Success</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-game-changer-implementing-custom-gaming-banners/"><u>[New] In 2024, The Game Changer Implementing Custom Gaming Banners</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-making-your-mark-with-youtubes-creative-commons-tools/"><u>2024 Approved Making Your Mark with YouTube’s Creative Commons Tools</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-8-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 8 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-your-gpu-not-playing-as-smoothly-we-found-a-solution/"><u>Fix Your GPU Not Playing as Smoothly - We Found a Solution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-enex-driver-load-failures-on-windows-11-os/"><u>Fixing eNEX Driver Load Failures on Windows 11 OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-crashes-to-continuity-successfully-resetting-and-restoring-your-radeon-wattman-configuration/"><u>From Crashes to Continuity: Successfully Resetting & Restoring Your Radeon Wattman Configuration</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y27s-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y27s Phones with/without a PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-a-ninety-five-gtx-code-forty-three-issue-on-your-new-windows-eleven-system/"><u>How to Fix a Ninety-Five GTX Code Forty-Three Issue on Your New Windows Eleven System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-dealing-with-outdated-usb-composite-devices-solution/"><u>How to Fix: Dealing with Outdated USB Composite Devices - SOLUTION</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-7-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 7 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/installing-necessary-drivers-in-windows-1087-solutions-and-tips-issue-resolved/"><u>Installing Necessary Drivers in Windows 10/8/7: Solutions and Tips [ISSUE RESOLVED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rtp-struggling-to-run-nvidia-rtx-games-we-solved-it/"><u>RTP: Struggling to Run Nvidia RTX Games – We Solved It</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-giants-facebook-tweeter-gram-a-gram-youtubo-showdown/"><u>Social Media Giants FaceBook, Tweeter, Gram-a-Gram, YouTubo Showdown</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-best-way-to-install-new-software-on-your-hp-envy-20-series-laptop/"><u>The Best Way to Install New Software on Your HP Envy 20 Series Laptop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-youtube-video-in-mp3-konverter-software-vs-online-optionen/"><u>Top 10 Youtube-Video-in-MP3-Konverter: Software Vs. Online Optionen</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-and-update-device-drivers-for-seamless-operation-across-windows-7-to-10-platforms-guide/"><u>Troubleshoot and Update Device Drivers for Seamless Operation Across Windows 7 to 10 Platforms [GUIDE]</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/winx-hd-video-converter-pro-transforma-y-redimensiona-videos-con-accelerador-de-gpu/"><u>WinX HD Video Converter Pro: Transforma Y Redimensiona Vídeos Con Accelerador De GPU</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

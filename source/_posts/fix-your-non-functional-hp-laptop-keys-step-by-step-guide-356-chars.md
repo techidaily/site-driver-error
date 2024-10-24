@@ -1,7 +1,7 @@
 ---
 title: Fix Your Non-Functional HP Laptop Keys Step By Step Guide – 356 Chars
-date: 2024-10-15T21:22:54.910Z
-updated: 2024-10-17T20:19:57.765Z
+date: 2024-10-21T17:04:32.279Z
+updated: 2024-10-23T17:37:57.309Z
 tags:
   - win11
   - win10
@@ -41,18 +41,18 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Step 2: Check Keyboard Settings**
 
 1) Click your**Start**button, then choose**Settings**icon from it. Then choose**Time & language**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcfa0068ce.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) On the left side of the pane, choose**Region & language**, then on the right side, make sure that the language is set to**English (United States)**.
 
@@ -63,10 +63,10 @@ If not, click the**Options**button as shown in the screen shot.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd7a070a5e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Then make sure the Keyboards is selected as**US**.
@@ -74,23 +74,23 @@ Then make sure the Keyboards is selected as**US**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Step 3: Try an External Keyboard**
@@ -123,14 +123,19 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-zoom-potential-3-secrets-to-superior-video-changes/"><u>2024 Approved Unlock Zoom Potential 3 Secrets to Superior Video Changes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/advanced-troubleshooting-techniques-to-improve-your-minecraft-gaming-experience-on-pc-tips-and-tutorials-2023-edition/"><u>Advanced Troubleshooting Techniques to Improve Your Minecraft Gaming Experience on PC (Tips & Tutorials, 2023 Edition)</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo A38? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hd-audio-mastery-on-windows-11/"><u>HD Audio Mastery on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-fixes-for-when-you-encounter-an-itbm-driver-missing-error/"><u>Quick Fixes for When You Encounter an ITBM Driver Missing Error</u></a></li>
-<li><a href="https://driver-error.techidaily.com/stop-amd-crashing-easy-driver-repair/"><u>Stop AMD Crashing: Easy Driver Repair</u></a></li>
-<li><a href="https://driver-error.techidaily.com/swift-fixes-bluetooth-radios-on-windows-resolved/"><u>Swift Fixes: Bluetooth Radios on Windows Resolved</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723964461761-world-record-shattered-by-intel-core-i9-14900kf-approaching-the-speed-of-91ghz/"><u>World Record Shattered by Intel Core I9-14900KF: Approaching the Speed of 9.1GHz!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-guide-to-crafting-killer-bios-on-tinder/"><u>[New] The Ultimate Guide to Crafting Killer Bios on Tinder</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-building-a-studio-quality-setup-at-home-for-2024/"><u>[Updated] Building a Studio-Quality Setup at Home for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-chuckle-creation-making-memes-on-kapwing/"><u>[Updated] Chuckle Creation Making Memes on Kapwing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-earnings-breakdown-one-million-glances-at-youtube-for-2024/"><u>[Updated] Earnings Breakdown One Million Glances at Youtube for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-examining-the-income-stream-for-t-series-youtube-channel/"><u>2024 Approved Examining the Income Stream for T-Series YouTube Channel</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/disable-youtube-preview-across-platforms/"><u>Disable Youtube Preview Across Platforms</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhance-dell-clicker-with-driver-update/"><u>Enhance Dell Clicker with Driver Update</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-non-recognized-device-issue-a-guide-to-usb-and-windows/"><u>Fix Non-Recognized Device Issue: A Guide to USB & Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-device-blocked-in-windows-10-os/"><u>Graphics Device Blocked in Windows 10 OS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-non-supportive-device-alerts-within-idt-software-environments/"><u>Overcoming Non-Supportive Device Alerts Within IDT Software Environments</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-the-driver-not-found-issue-with-our-simple-steps/"><u>Solve the 'Driver Not Found' Issue with Our Simple Steps!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/stunning-celestinas-and-skies-online-directory-for-2024/"><u>Stunning Celestinas and Skies Online Directory for 2024</u></a></li>
 </ul></div>
 

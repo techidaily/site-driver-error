@@ -1,7 +1,7 @@
 ---
 title: Correct the Vertically Oriented Video Malfunction in Your ASUS Laptop with These Steasy Tips
-date: 2024-08-02T07:29:26.506Z
-updated: 2024-08-03T07:29:26.506Z
+date: 2024-10-18T09:20:04.842Z
+updated: 2024-10-24T09:06:19.104Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ You can refer to steps below to uninstall the driver.
 1\. Go to [Device Manager](https://tools.techidaily.com/drivereasy/download/).  
 2\. Expand category “Imaging devices”. Right-click on the camera device and select**Uninstall**on the context menu.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577f6772efc7f.png)
   
  After uninstalling the driver, install the driver that you downloaded from ASUS website.
@@ -39,9 +36,6 @@ You can refer to steps below to uninstall the driver.
 
  3\. Type your laptop model name in the search box and click the search button. Let’s take K42DY for example.
   
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577f27e074b8c.png)
   
  4\. Click**Driver&Tools** .  
@@ -50,17 +44,10 @@ You can refer to steps below to uninstall the driver.
   
  5\. Select the OS. (example: Windows 7 64bit)  
   
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577f28c516aa3.png)
   
  6\. Select**Camera** from the driver list.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577f297715014.png)
   
  You may see several options for you to download. ForK42DY , there are 2 options. Download the right driver should resolve the problem. To identify the right driver, use the PID number.  
@@ -70,16 +57,10 @@ You can refer to steps below to uninstall the driver.
  1\. Go to Device Manager and right-click on the camera device again.
  2\. Select**Properties** on the context menu.
   
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577f67dc6c0b1.png)
   
  3\. Click**Details** tab and select**Hardware Ids** from the drop-down menu of Property.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577f683296699.png)
   
  4\. Find the PID number in value as follows.
@@ -100,8 +81,6 @@ You can refer to steps below to uninstall the driver.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +88,31 @@ You can refer to steps below to uninstall the driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1728502516296-windows-11/"><u>効果的なネットワークフォルダ保護 - Windows 11バックアップガイド</u></a></li>
+<li><a href="https://win-great.techidaily.com/complete-guide-safeguarding-data-on-windows-11-with-three-different-backup-techniques/"><u>Complete Guide: Safeguarding Data on Windows 11 with Three Different Backup Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-teleconference-clarity-beat-zoo-audio-issues/"><u>Enhance Teleconference Clarity Beat Zoo Audio Issues</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/exploring-the-customization-options-in-your-java-environment-settings-panel/"><u>Exploring the Customization Options in Your Java Environment Settings Panel</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identifying-whether-its-a-blizzard-battlenet-crash-or-your-own-tech-glitch/"><u>Identifying Whether It's a Blizzard Battle.net Crash or Your Own Tech Glitch</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oppo-find-x6-pro-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Oppo Find X6 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterful-gameplay-in-cs2-a-complete-guide-for-mac-gamers/"><u>Masterful Gameplay in CS2 - A Complete Guide for Mac Gamers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/microsoft-lifecam-driver-download-the-easy-way/"><u>Microsoft Lifecam Driver Download — The Easy Way</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimizing-your-pc-installing-latest-amd-gpu-drivers-on-windows-10/"><u>Optimizing Your PC: Installing Latest AMD GPU Drivers on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-solutions-troubleshooting-ethernet-drivers-in-windows-20-proactively-improve-network-performance/"><u>Quick Solutions: Troubleshooting Ethernet Drivers in Windows # 20 Proactively Improve Network Performance</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-ethernet-connection-problems-on-windows-10-quickly-and-effectively/"><u>Resolve Ethernet Connection Problems on Windows 10 Quickly and Effectively</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-fixes-for-nonfunctional-dell-trackpad-issues-in-windows-11/"><u>Step-by-Step Fixes for Nonfunctional Dell Trackpad Issues in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-restoring-functionality-of-a-non-responsive-dell-touchpad-in-windows-11/"><u>Step-by-Step Guide: Restoring Functionality of a Non-Responsive Dell Touchpad in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-unsuccessful-nvidia-driver-installation-via-geforce-experience/"><u>Step-by-Step Solution for Unsuccessful NVIDIA Driver Installation via GeForce Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-tutorial-how-to-download-and-set-up-the-latest-amd-radeon-hd-6670-drivers/"><u>Step-by-Step Tutorial: How to Download and Set Up the Latest AMD Radeon HD 6670 Drivers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-s-hottest-vlog-editor-apps-top-10-picks-for-ios-and-android/"><u>Updated In 2024, S Hottest Vlog Editor Apps Top 10 Picks for iOS and Android</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

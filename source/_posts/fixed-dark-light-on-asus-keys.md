@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Dark Light on ASUS Keys"
-date: 2024-10-14T05:27:14.841Z
-updated: 2024-10-17T20:00:43.263Z
+date: 2024-10-23T07:57:48.219Z
+updated: 2024-10-24T02:24:03.718Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Way 1: Start the HControl.exe** program
@@ -76,10 +76,17 @@ OR
 3. On the next page, select your Windows version. Then you’ll be greeted with a list of drivers and programs available for download.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-25-19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Scroll through the list until you find the following two drivers:**Smart Gesture** driver and**ATK Package** driver. Then, click on the**DOWNLOAD** button next to each driver.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-31-49.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-45-12.jpg)
@@ -103,17 +110,10 @@ OR
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the ATK Package driver for now, simply click the **Update**  button next to it. ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_19-15-46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -142,18 +142,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-seamless-skype-call-recordings-a-cross-platform-approach-for-2024/"><u>[New] Seamless Skype Call Recordings A Cross-Platform Approach for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-fixes-for-battleye-initialization-failures-caused-by-faulty-drivers-error-code-1450/"><u>Expert Fixes for BattlEye Initialization Failures Caused by Faulty Drivers (Error Code 1450)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-pc-issues-enter-safe-mode-and-uninstall-graphic-cards-driver-on-win-8-easily/"><u>Fix PC Issues? Enter Safe Mode & Uninstall Graphic Cards Driver on Win 8 Easily!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/free-and-fun-capture-and-convert-skype-calls-mp3/"><u>Free & Fun Capture and Convert Skype Calls (MP3)</u></a></li>
-<li><a href="https://discover-community.techidaily.com/hd-4k-windows-and-mac/"><u>HD / 4K 이미지를 개선하기 위한 Windows & Mac에서 비디오 속도 조정 기술</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo ?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-v30-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo V30 Pro Phone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-gionee-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Gionee Phone Hassle-Free</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-cinematic-magic-top-5-filmmaking-insights/"><u>In 2024, Unlocking Cinematic Magic Top 5 Filmmaking Insights</u></a></li>
-<li><a href="https://driver-error.techidaily.com/invalid-inf-status-resolved-now/"><u>Invalid INF Status: Resolved Now</u></a></li>
-<li><a href="https://driver-error.techidaily.com/patched-asus-webcam-driver-for-windows-11-stability/"><u>Patched ASUS Webcam Driver for Windows 11 Stability</u></a></li>
-<li><a href="https://driver-error.techidaily.com/say-goodbye-to-freezing-mice-in-win10/"><u>Say Goodbye to Freezing Mice in Win10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-seagate-external-not-displayed-on-windows-10/"><u>Troubleshooting: Seagate External Not Displayed on Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-retro-aesthetics-integrating-yesterdays-vhs-tricks-into-modern-editing-for-2024/"><u>[Updated] Retro Aesthetics Integrating Yesterday’s VHS Tricks Into Modern Editing for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-vidpin-facebook-call-recorder-for-2024/"><u>[Updated] VidPin - Facebook Call Recorder for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-virtual-backgrounds-with-kinemasters-stepwise-guide-to-green-screen/"><u>2024 Approved Mastering Virtual Backgrounds with Kinemaster's Stepwise Guide to Green Screen</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-load-not-achieved-for-device-id-219/"><u>Driver Load Not Achieved for Device (ID: 219)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-fixed-gpu-driver-successful-installer/"><u>Error Fixed: GPU Driver Successful Installer</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-access-is-denied-when-setting-up-your-usb-device/"><u>How to Overcome 'Access Is Denied' When Setting Up Your USB Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-work-with-outdated-usb-composite-devices-a-step-by-step-guide/"><u>How to Work with Outdated USB Composite Devices - A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-erratic-dell-touch-screen-driver/"><u>Resolve Erratic Dell Touch Screen Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-default-radeon-wattman-issues-a-comprehensive-fix-guide/"><u>Resolving the Default Radeon Wattman Issues: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-linking-your-amazon-firestick-with-an-hd-or-full-hd-projector/"><u>Step-by-Step Guide: Linking Your Amazon Firestick with an HD or Full HD Projector</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-fix-amd-drivers-keep-hitting-issues/"><u>Swift Fix: AMD Drivers Keep Hitting Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-win11-wm-peakgpu-issues-7-strategies/"><u>Taming Win11 WM PeakGPU Issues (7 Strategies)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-strategies-for-eliminating-latency-issues-in-fallout-4/"><u>Top Strategies for Eliminating Latency Issues in Fallout 4</u></a></li>
+<li><a href="https://driver-error.techidaily.com/triumph-over-graphics-error-during-install/"><u>Triumph over Graphics Error During Install</u></a></li>
 </ul></div>
 

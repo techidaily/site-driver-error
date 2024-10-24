@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Non-Functional Bluetooth Drivers by Qualcomm Atheros on Windows 10"
-date: 2024-08-09T08:44:00.152Z
-updated: 2024-08-10T08:44:00.152Z
+date: 2024-10-22T07:37:19.176Z
+updated: 2024-10-23T23:58:43.329Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 
 ## Troubleshooting Guide: Resolving Non-Functional Bluetooth Drivers by Qualcomm Atheros on Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587848fa4952b.png)
 
 Windows 10 users have reported to have problems with their Atheros Bluetooth driver on and off for months since the upgrade. When Bluetooth driver is sloppy, your Bluetooth devices, wireless mouse, wireless keyboard, wireless headphone, are not working properly.
@@ -35,9 +32,6 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
 **KB3061161** is auto updated via Windows Update. So you can follow the path:**Start button > Settings > Update & security** .
   
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878512a85d87.jpg)
   
  Then choose**Update history** .
@@ -56,9 +50,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
  1) Go to the support website of the manufacture of your PC. We are using**ASUS** as an example. Then locate the support page of your PC by entering the model of your product.
   
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587854520d556.jpg)
 
 2) Then go to drivers section. (The name of the section could be different on different manufacturers’ websites.) You will be asked to select what operating system that you are using (we are going**Windows 10 64-bit**), and then a list of device drivers will be shown. Scroll down a little to choose**Qualcomm Atheros Bluetooth**driver under Bluetooth category. Then hit the**Global**button to get it downloaded.
@@ -69,16 +60,10 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 3) Now press**Windows key**and**X**at the same time and choose**Device Manager**.
   
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878625e408ff.png)
 
 4) Then locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Uninstall**.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878700f160fd.jpg)
 
 5) When prompted with the following notification, tick the box for**Delete the driver software for this device**and then hit**OK**to continue.
@@ -158,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +150,30 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-hidden-world-of-your-online-footprint-unveiling-facebooks-secrets/"><u>[New] 2024 Approved The Hidden World of Your Online Footprint - Unveiling Facebook’s Secrets</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-social-network-savants-secret-for-downloading-chats/"><u>[New] The Social Network Savant’s Secret for Downloading Chats</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-perfect-spectrum-balancer/"><u>[Updated] Perfect Spectrum Balancer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-sessions-tailoring-your-zoom-environment/"><u>2024 Approved Seamless Sessions Tailoring Your Zoom Environment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-solve-access-denied-error-while-installing-a-usb-device/"><u>How to Solve 'Access Denied' Error While Installing a USB Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-bluetooth-driver-solution-for-windows/"><u>Quick Bluetooth Driver Solution for Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-connectivity-issues-a-users-handbook-to-fixing-wireless-keyboards-on-windows-machines/"><u>Resolving Connectivity Issues: A User's Handbook to Fixing Wireless Keyboards on Windows Machines</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-gtx-nvidia-geforce-950-graphics-card-code-43-issue-in-windows-10/"><u>Resolving the GTX Nvidia GeForce 950 Graphics Card Code 43 Issue in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104156655-solve-unresponsive-issue-with-disabling-inbuilt-wi-fi-and-bluetooth-step-by-step/"><u>Solve Unresponsive Issue with Disabling Inbuilt Wi-Fi and Bluetooth - Step by Step!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-18-unbeatable-primeside-tech-bargains-exclusive-offers-on-hp-apple-and-razer-limited-time-only/"><u>Top 18 Unbeatable Primeside Tech Bargains: Exclusive Offers on HP, Apple & Razer - Limited Time Only!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-fabulous-20-adobe-premiere-intro-templates/"><u>Updated Free and Fabulous 20 Adobe Premiere Intro Templates</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upgrade-your-smartphone-experience-the-accessory-that-makes-it-feel-like-a-superior-nintendo-switch/"><u>Upgrade Your Smartphone Experience: The Accessory That Makes It Feel Like a Superior Nintendo Switch</u></a></li>
+<li><a href="https://driver-error.techidaily.com/upgraded-video-feeds-asus-webcam-and-windows-1e-connection/"><u>Upgraded Video Feeds: ASUS Webcam & Windows 1E Connection</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-serial-connection-repair-guide-for-windows-users/"><u>USB-Serial Connection Repair Guide for Windows Users</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/video-tutorial-mastering-data-security-with-techniques-on-mac-hard-drive-encryption-and-decryption/"><u>Video Tutorial: Mastering Data Security with Techniques on Mac Hard Drive Encryption & Decryption</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-was-the-role-of-aim-in-online-communication-diving-deeper-into-aols-legacy/"><u>What Was the Role of AIM in Online Communication? Diving Deeper Into AOL's Legacy</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

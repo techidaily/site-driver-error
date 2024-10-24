@@ -1,7 +1,7 @@
 ---
 title: Qualcomm Atheros Bluetooth Driver Not Working on Windows 10 [Solved]
-date: 2024-08-09T08:45:53.073Z
-updated: 2024-08-10T08:45:53.073Z
+date: 2024-10-16T16:41:57.172Z
+updated: 2024-10-23T16:30:18.326Z
 tags:
   - win11
   - win10
@@ -15,18 +15,6 @@ thumbnail: https://thmb.techidaily.com/9f1310fb04eb76846ce94c2831da468762b7226e2
 
 ## Qualcomm Atheros Bluetooth Driver Not Working on Windows 10 [Solved]
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587848fa4952b.png)
 
 Windows 10 users have reported to have problems with their Atheros Bluetooth driver on and off for months since the upgrade. When Bluetooth driver is sloppy, your Bluetooth devices, wireless mouse, wireless keyboard, wireless headphone, are not working properly.
@@ -62,16 +50,10 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
  1) Go to the support website of the manufacture of your PC. We are using**ASUS** as an example. Then locate the support page of your PC by entering the model of your product.
   
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587854520d556.jpg)
 
 2) Then go to drivers section. (The name of the section could be different on different manufacturers’ websites.) You will be asked to select what operating system that you are using (we are going**Windows 10 64-bit**), and then a list of device drivers will be shown. Scroll down a little to choose**Qualcomm Atheros Bluetooth**driver under Bluetooth category. Then hit the**Global**button to get it downloaded.
   
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878567811d29.png)
 
 **Note**: If your PC is rather old and there is no such Bluetooth driver that you can find for Windows 10, it is suggested that you give the latest version of driver that you can find a try, be it Windows 8.1, Windows 8, or Windows 7\. Then try [**install the driver in compatibility mode**](https://tools.techidaily.com/drivereasy/download/).
@@ -116,9 +98,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
  4) Choose**Browse my computer for driver software** .
   
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787a96b276c.jpg)
 
  5) Choose **Let me pick from a list of the drivers on my computer** .
@@ -127,9 +106,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 6) Un-tick the box for **Show compatible hardware** . Then you should be able to see **Qualcomm Atheros** driver option on the left. On the right, choose one of the drivers listed. We go with**Qualcomm Atheros AR3011 Bluetooth 3.0** . You need to try them one by one by yourself to select the right one for your PC. When done picking, click**Next** to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787b0460727.png)
 
 7)Then follow the instructions on screen to get your Qualcomm Atheros Bluetooth drive installed.  
@@ -167,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,6 +150,33 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-arch-bluetooth-mouse-not-working-after-windows-11-creators-update/"><u>[FIXED] Arch Bluetooth Mouse Not Working After Windows 11 Creators Update</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-efficient-call-capturing-on-windowsmac-the-comprerances-list-for-2024/"><u>[New] Efficient Call Capturing on Windows/Mac - The Comprerances' List for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-enhanced-interaction-making-skype-calls-on-your-phone/"><u>[New] Enhanced Interaction Making Skype Calls on Your Phone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-screen-logger-az-audits-and-diversions/"><u>[New] Ultimate Screen Logger - AZ Audits & Diversions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-drone-motor-choose-the-5-best-motors-for-your-quadcopter/"><u>[Updated] 2024 Approved Drone Motor Choose the 5 Best Motors for Your Quadcopter</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-enrich-your-presentations-include-youtube-videos-in-slate/"><u>[Updated] Enrich Your Presentations - Include YouTube Videos in Slate</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-exploring-new-horizons-top-5-samsung-gear-vr-games/"><u>[Updated] Exploring New Horizons - Top 5 Samsung Gear VR Games</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebook-videos-vertical-or-horizontal/"><u>[Updated] In 2024, Facebook Videos; Vertical or Horizontal?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-tackling-live-video-interruptions-on-social-media-fb-for-2024/"><u>[Updated] Tackling Live Video Interruptions on Social Media (FB) for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/a-step-by-step-approach-to-correctly-orient-images-and-videos-in-asus-laptop-displays/"><u>A Step-by-Step Approach to Correctly Orient Images and Videos in ASUS Laptop Displays</u></a></li>
+<li><a href="https://driver-error.techidaily.com/adjusting-non-loading-conditions-for-enex-on-win11/"><u>Adjusting Non-Loading Conditions for eNEX on Win11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-15-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 15 Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://driver-error.techidaily.com/broadcoms-win-fix-restored-working-state-of-broadcom-wi-fi-adapter/"><u>Broadcom's Win Fix: Restored Working State of Broadcom Wi-Fi Adapter</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-guide-correcting-issues-with-installing-hcmondriver-drivers-efficiently/"><u>Comprehensive Guide: Correcting Issues with Installing Hcmondriver Drivers Efficiently</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disk-management-solutions-for-win11-users/"><u>Disk Management Solutions for Win11 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-card-oversight-by-windows/"><u>Graphics Card Oversight by Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimize-your-gameplay-streamline-deadriver-in-win10/"><u>Optimize Your Gameplay: Streamline DeaDriver in Win10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/precision-in-ppt-recording-a-comprehensive-guide-for-2024/"><u>Precision in PPT Recording A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-dolby-advanced-audio-unable-to-start-the-dolby-audio-driver-in-windows-11/"><u>Solved Dolby Advanced Audio: Unable to Start the Dolby Audio Driver in Windows 11</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

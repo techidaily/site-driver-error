@@ -1,7 +1,7 @@
 ---
 title: Mended Hardware Commanding Glitches
-date: 2024-10-17T01:14:39.589Z
-updated: 2024-10-18T10:33:35.240Z
+date: 2024-10-19T22:17:49.154Z
+updated: 2024-10-24T06:45:37.117Z
 tags:
   - win11
   - win10
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
  Some sectors in your computer may be damaged, and you can try**switching your USB drive to a different port** . It worked for some users. If it doesn’t solve your “ The driver detected a controller error on \\Device\\Harddisk1\\DR1″ problem,  try Solution 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 2: Update your USB driver
@@ -50,20 +50,20 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84c2843cf68.jpg)
 4. You may need to restart your computer to finish the process. Then check if your “The driver detected a controller error on \\Device\\Harddisk1\\DR1 ” problem is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -89,21 +89,22 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-pinnacle-of-photography-exceptional-sky-hd-sites-catalog/"><u>[New] In 2024, Pinnacle of Photography - Exceptional Sky HD Sites Catalog</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-learn-to-record-high-quality-audio-with-audacity-mac/"><u>[Updated] 2024 Approved Learn to Record High-Quality Audio with Audacity, Mac</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-earnings-estimation-a-trifecta-of-tips-and-strategies-for-tracking-your-youtube-earnings-for-2024/"><u>[Updated] Earnings Estimation A Trifecta of Tips and Strategies for Tracking Your YouTube Earnings for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bypass-pitfalls-with-expert-advice-on-avoiding-6-key-chatgpt-mistakes/"><u>Bypass Pitfalls with Expert Advice on Avoiding 6 Key ChatGPT Mistakes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/darkened-keys-on-asus-pc/"><u>Darkened Keys on Asus PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-wired-network-anomalies-in-poweredge-tower/"><u>Fix Wired Network Anomalies in PowerEdge Tower</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722727592618-get-ready-for-a-wild-ride-an-essential-guide-to-fortnites-newest-and-most-fun-season-yet/"><u>Get Ready for a Wild Ride: An Essential Guide to Fortnite’s Newest and Most Fun Season Yet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-tecno-spark-10c-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Tecno Spark 10C</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-vs-2-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Honor Magic Vs 2 Phone Without Password?</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-step-by-step-guide-for-aspiring-filmmakers-incorporating-audio-with-imovie/"><u>New Step-By-Step Guide for Aspiring Filmmakers Incorporating Audio with iMovie</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-code-1-fixing-improper-configuration-on-your-device/"><u>Resolving Code 1: Fixing Improper Configuration on Your Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resource-utilization-challenges/"><u>Resource Utilization Challenges</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-microsoft-visual-cplusplus-runtime-library-error-in-windows-10/"><u>Solved: Microsoft Visual C++ Runtime Library Error in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/supercharge-your-systems-graphics-update-intels-gfx-in-windows/"><u>Supercharge Your System's Graphics - Update Intels GFX in WIndows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-qualcomm-atheros-bluetooth-driver-issues-in-windows-11/"><u>Troubleshooting Guide: Fixing Qualcomm Atheros Bluetooth Driver Issues in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unused-space-on-devices-resource-table/"><u>Unused Space on Device's Resource Table</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-wdcsam64prewin8sys-turned-off-core-isolation/"><u>[Fixed] wdcsam64_prewin8.sys Turned Off Core Isolation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-microsoft-teredo-tunneling-adapter-missing/"><u>[Solved] Microsoft Teredo Tunneling Adapter Missing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-from-the-inside-out-engaging-100-self-affirming-instagram-captions/"><u>[Updated] 2024 Approved From the Inside Out Engaging 100 Self-Affirming Instagram Captions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-easy-setup-making-a-direct-path-for-youtube-subscribers-for-2024/"><u>[Updated] Easy Setup Making a Direct Path for YouTube Subscribers for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-secret-spotters-where-to-find-your-snappiest-ringtone/"><u>[Updated] Secret Spotters Where to Find Your Snappiest Ringtone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-chatgpt-prompt-mistakes-to-avoid/"><u>6 ChatGPT Prompt Mistakes to Avoid</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-the-driver-loading-mishap-in-battleye-services-mastering-error-code-1450/"><u>Diagnosing the Driver Loading Mishap in BattlEye Services - Mastering Error Code 1450</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driverless-devices-fix-with-these-steps-for-win10win8win7/"><u>Driverless Devices? Fix with These Steps for Win10/Win8/Win7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-error-code-43-explained-easy-fixes-for-a-smooth-windows-11-experience/"><u>GTX 950 Error Code 43 Explained - Easy Fixes for a Smooth Windows 11 Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-camon-20-premier-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Camon 20 Premier 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-successfully-overcome-a-failed-hcmond-driver-setup/"><u>How to Successfully Overcome a Failed Hcmond Driver Setup</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-comprehensive-guide-to-enhancing-tiktoks-adding-texts-professionally/"><u>In 2024, Comprehensive Guide to Enhancing TikToks Adding Texts Professionally</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-y200-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo Y200 FRP</u></a></li>
+<li><a href="https://driver-error.techidaily.com/network-adapter-driver-missing-in-windows-10-solved/"><u>Network Adapter Driver Missing in Windows 10 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-how-to-fix-the-absence-of-a-coprocessor-driver-in-windows-10/"><u>Resolved: How to Fix the Absence of a Coprocessor Driver in Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-on-utilizing-the-tracert-command-in-windows/"><u>Step-by-Step Instructions on Utilizing the Tracert Command in Windows</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-how-to-make-a-photo-collage-using-iphoto/"><u>Updated In 2024, How to Make a Photo Collage Using iPhoto?</u></a></li>
 </ul></div>
 

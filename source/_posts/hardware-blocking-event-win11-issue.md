@@ -1,7 +1,7 @@
 ---
 title: Hardware Blocking Event - Win11 Issue
-date: 2024-08-09T08:45:34.774Z
-updated: 2024-08-10T08:45:34.774Z
+date: 2024-10-17T02:10:16.842Z
+updated: 2024-10-24T03:29:53.040Z
 tags:
   - win11
   - win10
@@ -38,14 +38,25 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7aea748d7a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click**YES** when prompted by the User Account Control.
 
  2) Type**sfc /scannow**  and press **Enter** . Wait for the scanning to be **100%**  completed.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7af1a7f21e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Type the following commands and press **Enter**  after each.
 
@@ -53,25 +64,17 @@ Follow these steps to recover your system files:
   
 **DISM.exe /Online /Cleanup-image /Restorehealth**
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Reboot Windows 10 and run your game software to see if it works. If it doesn’t work, you can try our other fix below.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your display driver
 
  This problem is**mostly caused by an out-of-date graphics card driver** , otherwise known as a **display driver** or **video driver** . You can fix it easily by updating your display driver.
@@ -86,17 +89,18 @@ Follow these steps to recover your system files:
 
  2) Click **Scan Now** . It will quickly detect all driver problems of your computer. This includes your display driver.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509eed56b24.jpg)
 
  2) In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. You can update the drivers one by one using the **Update**  button. But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can update all your drivers with one click — **Update All** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509f1432541.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Reboot your Windows 10 PC and run your game software to see if it works.
 
@@ -111,8 +115,6 @@ Follow these steps to recover your system files:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,6 +122,20 @@ Follow these steps to recover your system files:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-professional-insights-into-androids-recording-features/"><u>[New] 2024 Approved Professional Insights Into Android's Recording Features</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-next-gen-capture-the-leading-apps-decoded/"><u>[New] Next-Gen Capture The Leading Apps Decoded</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-favorite-tiktoks-the-ultimate-list/"><u>[Updated] In 2024, Twitter's Favorite TikToks The Ultimate List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-live-stream-excellence-which-software-leads-the-pack-vmix-or-wirecast/"><u>[Updated] Live Stream Excellence Which Software Leads the Pack? VMix or Wirecast?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-precision-cuts-and-transitions-for-premier-users-for-2024/"><u>[Updated] Precision Cuts & Transitions for Premier Users for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/android-16-preview-discover-its-projected-price-point-release-dates-device-support-and-exciting-features-ahead/"><u>Android 16 Preview - Discover Its Projected Price Point, Release Dates, Device Support, and Exciting Features Ahead</u></a></li>
+<li><a href="https://driver-error.techidaily.com/demystifying-the-functionality-of-outdated-usb-composite-devices-and-how-to-fix-them/"><u>Demystifying the Functionality of Outdated USB Composite Devices and How to Fix Them</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-device-hack-rejected-in-win11-system/"><u>Graphics Device Hack Rejected in Win11 System</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ating-the-world-of-video-editing-for-youtube-creators/"><u>Navigating the World of Video Editing for YouTube Creators</u></a></li>
+<li><a href="https://driver-error.techidaily.com/printer-issue-resolved-with-new-driver-update/"><u>Printer Issue Resolved with New Driver Update</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revitalizing-your-touchpads-performance-no-driver/"><u>Revitalizing Your Touchpad's Performance, No Driver?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-sideways-videos-a-guide-to-adjusting-orientation-on-asus-pcs/"><u>Troubleshooting Sideways Videos: A Guide to Adjusting Orientation on ASUS PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/your-pc-graphics-issues-let-us-fix-your-nvidia-rtx-gaming-woes/"><u>Your PC Graphics Issues? Let Us Fix Your Nvidia RTX Gaming Woes!</u></a></li>
+</ul></div>
 

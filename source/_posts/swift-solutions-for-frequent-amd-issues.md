@@ -1,7 +1,7 @@
 ---
 title: Swift Solutions for Frequent AMD Issues
-date: 2024-10-10T19:11:26.015Z
-updated: 2024-10-17T18:41:17.606Z
+date: 2024-10-21T17:48:03.441Z
+updated: 2024-10-24T06:27:08.072Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Roll back the faulty AMD driver
 
  If you never have this**AMD driver crashing** issue until recently when you updated the most recent driver, chances are it’s this new driver that’s causing the problem. So we should try rolling it back to the previous version.
@@ -59,6 +66,13 @@ Here’s how:
 3. Click the **Driver** tab and then click **Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-1.png)
 4. Click **Yes** to confirm. Then the driver will be restored to a previous version.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. **Restart** you computer and check if the problem is resolved.
 
@@ -84,28 +98,15 @@ Here’s how to use Fortect to repair system files on your PC:
 5. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Check your computer to see if the driver crash issue is fixed.
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Run SFC scan
 
@@ -115,21 +116,14 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/cmd-run-as-admin-1.jpg)
 2. Click**Yes** when prompted to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -157,17 +151,20 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-flashfacts-the-social-media-spark-of-video-tweet-for-2024/"><u>[New] FlashFacts The Social Media Spark of Video Tweet for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-error-code-48-in-device-manager/"><u>[SOLVED] Error Code 48 in Device Manager</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unleash-a-new-sound-personality-on-instagram/"><u>[Updated] Unleash a New Sound Personality on Instagram</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/boosting-youtube-traffic-outsmarting-automated-viewers-for-2024/"><u>Boosting YouTube Traffic Outsmarting Automated Viewers for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-defy-2-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Defy 2</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-securely-obtain-canon-mg3n20-printing-software-best-practices-for-downloads/"><u>How to Securely Obtain Canon MG3n20 Printing Software: Best Practices for Downloads</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-magic-6-lite-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor Magic 6 Lite Phone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/iphone-usb-connection-fixed-resolving-the-mtp-device-driver-problem/"><u>IPhone USB Connection Fixed: Resolving the MTP Device Driver Problem</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/al-masterclasses-in-15-short-video-formats-on-youtube-for-2024/"><u>Musical Masterclasses in 15 Short Video Formats on YouTube for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-usb-wire-connection-problem-poweredge/"><u>Troubleshoot USB-WIRE Connection Problem, PowerEdge</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-windows-7-bsod-with-stop-code-0x0000007e/"><u>Troubleshooting Guide: Resolving Windows 7 BSOD with Stop Code 0X0000007E</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-os-missing-data-acquisition-device/"><u>Win OS Missing Data Acquisition Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-gear-interferes-with-car-load/"><u>[Solved] Gear Interferes with Car Load</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-selecting-your-stream-space-obs-or-twitch/"><u>2024 Approved Selecting Your Stream Space OBS or Twitch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-windows-evolved-spotlight-on-latest-changes/"><u>2024 Approved Windows Evolved Spotlight on Latest Changes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-v29-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo V29 Pro Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-wired-network-anomalies-in-poweredge-tower/"><u>Fix Wired Network Anomalies in PowerEdge Tower</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-incompatibility-issues-between-hardware-and-idt-software-solutions/"><u>How to Resolve Incompatibility Issues Between Hardware and IDT Software Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-a78-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo A78</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-unveiling-the-art-of-flipping-photo-shades/"><u>In 2024, Unveiling the Art of Flipping Photo Shades</u></a></li>
+<li><a href="https://driver-error.techidaily.com/missing-external-drive-in-windows-10-the-seagate-dilemma/"><u>Missing External Drive in Windows 10: The Seagate Dilemma</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-market-5-crucial-considerations-for-buying-a-new-console/"><u>Navigating the Market: 5 Crucial Considerations for Buying a New Console</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-solution-to-persistent-amd-crashes/"><u>Quick Solution to Persistent AMD Crashes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-microsoft-visual-cplusplus-runtime-library-error-in-windows-10/"><u>Solved: Microsoft Visual C++ Runtime Library Error in Windows 10</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/step-by-step-guide-converting-your-favorite-films-into-high-quality-dvd-format/"><u>Step-by-Step Guide: Converting Your Favorite Films Into High-Quality DVD Format</u></a></li>
+<li><a href="https://common-error.techidaily.com/updated-strategies-on-solving-lag-issues-in-your-minecraft-adventure/"><u>Updated Strategies on Solving Lag Issues in Your Minecraft Adventure</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-users-heres-how-you-can-get-your-wi-fi-keyboard-back-in-action/"><u>Windows Users! Here's How You Can Get Your Wi-Fi Keyboard Back in Action</u></a></li>
 </ul></div>
 

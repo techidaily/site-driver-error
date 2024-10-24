@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for Compatibility Issues with Vintage USB Composite Hardware
-date: 2024-10-11T13:01:13.357Z
-updated: 2024-10-18T02:32:04.561Z
+date: 2024-10-21T06:17:10.221Z
+updated: 2024-10-24T05:49:17.653Z
 tags:
   - win11
   - win10
@@ -44,17 +44,17 @@ Fortunately, this is one of the easiest problems to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb894ac5bd51.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb894ea5449a.jpg)
 4. Restart your computer and check if your USB Composite Device now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Reinstall your USB controller drivers
 
@@ -62,6 +62,13 @@ Fortunately, this is one of the easiest problems to fix.
 
 1. On your keyboard, press the   **Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62735e40ac6.png)**  
 **key**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  and  
 **R**  
@@ -71,10 +78,10 @@ Fortunately, this is one of the easiest problems to fix.
 3. In Device Manger, scroll down to find**Universal Serial Bus controllers** and expand the entry.  
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b61714f05a95.jpg)
@@ -83,13 +90,6 @@ Fortunately, this is one of the easiest problems to fix.
 **Important:** Make sure you’ve saved any open files on your computer before you click**Uninstall device** , as you might need to force shutdown and restart later.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6171a9ae8b0.jpg)
 5. Repeat step 4) with every other USB device that is listed under the**Universal Serial Bus controllers** entry.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** Some USB devices have to do with your wired mouse, keyboard etc, which means uninstalling those devices will make them not working, don’t worry, just temporarily. As long as Windows restarts, it will automatically install the drivers again.
 6. Once you’ve uninstalled them all,**restart** your computer.  
@@ -100,10 +100,10 @@ Fortunately, this is one of the easiest problems to fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Use the Windows USB Troubleshooter
@@ -133,24 +133,24 @@ Fortunately, this is one of the easiest problems to fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-master-iphoneandroid-apps-top-10-photo-edits-guide/"><u>[New] 2024 Approved Master iPhone/Android Apps Top 10 Photo Edits Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-perfect-your-passport-portrait-a-compilation-of-top-10-free-tools/"><u>[New] In 2024, Perfect Your Passport Portrait A Compilation of Top 10 Free Tools</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-nvidia-graphics-cards-not-detected-in-windows-111087/"><u>[SOLVED] Nvidia Graphics Cards Not Detected in Windows 11/10/8/7</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-ideal-screen-recorder-picks-for-digital-educators/"><u>2024 Approved Ideal Screen Recorder Picks for Digital Educators</u></a></li>
-<li><a href="https://win11.techidaily.com/7-ways-to-slash-energy-drain-by-default-desktop-window-manager/"><u>7 Ways to Slash Energy Drain by Default Desktop Window Manager</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-solutions-for-when-qualcomm-atheros-bluetooth-driver-stops-working-on-windows-10-machines/"><u>Comprehensive Solutions for When Qualcomm Atheros Bluetooth Driver Stops Working on Windows 10 Machines</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-update-lenovo-drivers-for-windows-10/"><u>Download Update Lenovo Drivers for Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-slow-graphics-on-pc-our-team-cracked-the-rtx-gaming-issue-check-out-this-quick-fix/"><u>Fixing Slow Graphics on PC? Our Team Cracked the RTX Gaming Issue - Check Out This Quick Fix</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-effortlessly-download-videos-on-your-mac-using-apowersoft-video-downloader/"><u>How to Effortlessly Download Videos on Your Mac Using Apowersoft Video Downloader</u></a></li>
-<li><a href="https://fox-making.techidaily.com/intuitive-and-effective-data-protection-tool-for-windows-server-2008-user-friendly-edition/"><u>Intuitive and Effective Data Protection Tool for Windows Server 2008 - User-Friendly Edition</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-transform-your-memories-into-a-beautiful-video/"><u>New In 2024, Transform Your Memories Into a Beautiful Video</u></a></li>
-<li><a href="https://driver-error.techidaily.com/re-identify-disconnected-devices-windows-nt-workstation/"><u>Re-Identify Disconnected Devices Windows NT Workstation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-persistent-nvidia-driver-failures/"><u>Resolving Persistent Nvidia Driver Failures</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-compatibility-issues-between-usb-and-serial-on-win/"><u>Solve Compatibility Issues Between USB & Serial on Win</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-sysware-device-lacks-os-compatibility/"><u>Solved: SysWare Device Lacks OS Compatibility</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-restricts-external-graphics-support/"><u>System Restricts External Graphics Support</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-cyber-predicament-hackers-and-ai-conversation/"><u>The Cyber Predicament: Hackers and AI Conversation</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-14-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 14</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlocking-reclaim-missing-bluetooth-links-device-hub/"><u>Unlocking: Reclaim Missing BlueTooth Links, Device Hub</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-depth-zoom-techniques-for-exceptional-podcasts/"><u>[New] In-Depth Zoom Techniques for Exceptional Podcasts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-ios-and-androids-finest-the-creme-de-la-creme-of-snapchat-edits/"><u>[Updated] 2024 Approved IOS & Android's Finest The Crème De La Créme of Snapchat Edits</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-maximizing-your-tiktok-intro-a-mac-guide/"><u>[Updated] 2024 Approved Maximizing Your TikTok Intro A Mac Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-best-video-changer-tools-reviewed-8-of-the-best-for-iphones-and-pcs/"><u>[Updated] Best Video Changer Tools Reviewed 8 of the Best for iPhones and PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-into-magix-video-pro-xs-design/"><u>[Updated] Expert Insights Into Magix Video Pro X's Design</u></a></li>
+<li><a href="https://driver-error.techidaily.com/983eplus-english-to-solve-the-first-step-and-i-amended-may/"><u>983E+ (English: To Solve the First Step, and I Amended May</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ace-your-tech-needs-with-ease-fixing-unresponsive-bluetech-in-windows-11-no-headache/"><u>Ace Your Tech Needs With Ease-Fixing Unresponsive BlueTech in Windows 11 (No Headache!)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-laptop-troubleshooting-how-to-adjust-when-videos-appear-sideways-or-upward/"><u>ASUS Laptop Troubleshooting: How to Adjust When Videos Appear Sideways or Upward</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104922327-bluetooth-woes-windows-solutions-ready/"><u>Bluetooth Woes? Windows Solutions Ready!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105166381-cant-switch-bluetooth-off-my-laptop-is-frozen/"><u>Can't Switch Bluetooth OFF - My Laptop Is Frozen!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-walkthrough-for-activating-safe-mode-and-detaching-graphics-card-driver-on-windows-8/"><u>Comprehensive Walkthrough for Activating Safe Mode and Detaching Graphics Card Driver on Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-conflict-conqueror-error-45/"><u>Device Conflict Conqueror: Error 45</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-limitation-notified-for-graphics-hardware/"><u>Device Limitation Notified for Graphics Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102066954-how-to-install-necessary-drivers-for-your-hardware-in-windows-1187-solutions-inside/"><u>How to Install Necessary Drivers for Your Hardware in Windows 11/8/7 - Solutions Inside!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-essential-equipment-list-secure-your-zoom-sessions/"><u>In 2024, Essential Equipment List Secure Your Zoom Sessions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-gionee-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Gionee</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-future-of-mobile-entertainment-is-here-discover-the-best-49-free-compression-tools/"><u>The Future of Mobile Entertainment Is Here Discover the Best 49 Free Compression Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-poco-m6-pro-4g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Poco M6 Pro 4G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win-info.techidaily.com/update-fur-windows-11-version-22h2-installation-nicht-sichtbar/"><u>Update Für Windows 11 Version 22H2 - Installation Nicht Sichtbar</u></a></li>
 </ul></div>
 
