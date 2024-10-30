@@ -1,7 +1,7 @@
 ---
 title: Correcting Erroneous Sections in Service INF
-date: 2024-08-15T06:39:39.051Z
-updated: 2024-08-16T06:39:39.051Z
+date: 2024-10-22T22:56:05.171Z
+updated: 2024-10-29T17:36:25.000Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/6ceaa9d96bf5780755ddbca816a35f96a83ab3ae5
 2. [**Update the driver manually**](https://technitya.sjv.io/dkpn02)
 3. [**Install the missing driver files manually**](https://dhgate.sjv.io/5g6yb2)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 1: Update the driver automatically
 
  Since you can’t update the driver via Windows Update, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to update the driver automatically.
@@ -44,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/6ceaa9d96bf5780755ddbca816a35f96a83ab3ae5
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
 
  3) Click the **Update** button next to a flagged MTP USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -67,16 +61,10 @@ thumbnail: https://thmb.techidaily.com/6ceaa9d96bf5780755ddbca816a35f96a83ab3ae5
 
 3) Select**Browser my computer for driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687740cb79e.jpg)
 
  4) Select**Let me pick from a list of available drivers on my computer** and click**Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68744ea8804.png)
 
  5) In Device Manager, if you see the device shown as MTP USB device. You’ll see**MTP USB Device** listed in the list.**Highlight** it then click**Next** .
@@ -85,14 +73,18 @@ thumbnail: https://thmb.techidaily.com/6ceaa9d96bf5780755ddbca816a35f96a83ab3ae5
 
  If you see the device shown as Unknown Device. You’ll see an Android phone or Android device in the long list.**Highlight** it and click**Next** then select**MTP USB device** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68796507b2b.png)
 
  6) The driver will install automatically. You just need to wait for a while until the installation completes.
 
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
 
@@ -104,9 +96,23 @@ thumbnail: https://thmb.techidaily.com/6ceaa9d96bf5780755ddbca816a35f96a83ab3ae5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
 
@@ -126,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/6ceaa9d96bf5780755ddbca816a35f96a83ab3ae5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,6 +139,26 @@ thumbnail: https://thmb.techidaily.com/6ceaa9d96bf5780755ddbca816a35f96a83ab3ae5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-livemedia-app-assessment-guide/"><u>[New] LiveMedia App Assessment Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-channel-identity-reimagined-best-name-generators-listed/"><u>[Updated] In 2024, Channel Identity Reimagined Best Name Generators Listed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-superb-alter-ego-voice-tools-for-aspiring-vtubers/"><u>[Updated] Superb Alter-Ego Voice Tools For Aspiring VTubers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-video-creation-made-simple-integrate-microsofts-movie-maker-in-win11-for-2024/"><u>[Updated] Video Creation Made Simple Integrate Microsoft's Movie Maker in Win11 for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-embrace-video-creation-integrating-windows-movie-maker/"><u>2024 Approved Embrace Video Creation Integrating Windows Movie Maker</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-path-to-digital-riches-on-facebook/"><u>2024 Approved The Path to Digital Riches on Facebook</u></a></li>
+<li><a href="https://driver-error.techidaily.com/back-online-disablement-fixed/"><u>Back Online: Disablement Fixed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-ai-asset-ownership-claims/"><u>Demystifying AI Asset Ownership Claims</u></a></li>
+<li><a href="https://driver-error.techidaily.com/devmgr-error-code-48-addressed/"><u>DevMgr: Error Code 48 Addressed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-acpi-driver-error-venint33a0/"><u>Fixing ACPI Driver Error VEN_INT33A0</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-xcover-7-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy XCover 7 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-evaluation-of-the-anker-powercore-26800-battery-pack-with-accessories-bundle-review/"><u>In-Depth Evaluation of the Anker PowerCore 26800 Battery Pack with Accessories Bundle Review</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-motorola-moto-g14-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Motorola Moto G14</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-intermittent-asus-webcam-on-win11-platform/"><u>Resolved Intermittent ASUS Webcam on Win11 Platform</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-issues-with-non-detectable-usb-devices-on-a-windows-pc/"><u>Resolving Issues with Non-Detectable USB Devices on a Windows PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-install-of-latest-nvidia-graphics-drivers/"><u>Smooth Install of Latest Nvidia Graphics Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-the-windows-10-co-processor-driver-not-found-problem-with-ease-an-in-depth-guide/"><u>Solving the 'Windows 10 Co-Processor Driver Not Found' Problem with Ease: An In-Depth Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-the-no-drivers-problem-compatible-devices-and-windows-versions-10-8-7/"><u>Solving the No-Drivers Problem: Compatible Devices & Windows Versions (10, 8, 7)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/uninterrupted-graphics-in-win11/"><u>Uninterrupted Graphics in Win11</u></a></li>
+</ul></div>
 

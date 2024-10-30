@@ -1,7 +1,7 @@
 ---
 title: "House Cleaning Reveals Two Forgotten Desktop PCs From the Past: One Showcases Historic Intel 8008 Chip with Impressive Specs for Its Time (16KB Memory and 800 kHz CPU)"
-date: 2024-09-26T16:00:54.870Z
-updated: 2024-10-01T16:01:18.091Z
+date: 2024-10-23T19:19:20.962Z
+updated: 2024-10-29T18:31:46.083Z
 tags:
   - desktop
 categories:
@@ -52,23 +52,24 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ree-end-credits-excellence-top-6-tutorials/"><u>[New] Free End Credits Excellence Top 6 Tutorials</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-podcast-promotion-unlocked-the-seo-guide-to-top-spotings/"><u>[Updated] 2024 Approved Podcast Promotion Unlocked The SEO Guide to Top Spotings</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-ideal-mac-video-logic-tool/"><u>[Updated] Ideal Mac Video Logic Tool</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-advice-on-resolving-issues-with-malfunctioning-hp-wireless-input-devices/"><u>Expert Advice on Resolving Issues with Malfunctioning HP Wireless Input Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-x90s-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo X90S Phone Now with These Tips</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-samsung-galaxy-a23-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Samsung Galaxy A23 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/it-seems-like-itran-at-this-isiolympia-which-are-using/"><u>It Seems Like It’ran at This Is_iOlympia', Which Are Using</u></a></li>
-<li><a href="https://driver-error.techidaily.com/key-steps-for-resolving-device-failures-in-dm/"><u>Key Steps for Resolving Device Failures in DM</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-hardware-added-without-issues/"><u>Printer Hardware Added Without Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/realtek-usb-controllers-unresponsive-after-update/"><u>Realtek USB Controllers Unresponsive After Update</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlock-your-system-quick-ndis-solutions/"><u>Unlock Your System: Quick NDIS Solutions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-premium-pfr-rate-for-easy-going-footage/"><u>[New] Premium PFR Rate for Easy-Going Footage</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-samsungs-gaming-memories-record-and-reveal/"><u>[New] Samsung's Gaming Memories Record and Reveal</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ice-and-velocity-memorable-moments-from-the-winter-olympics-snowboard-race-for-2024/"><u>[Updated] Ice & Velocity Memorable Moments From the Winter Olympics Snowboard Race for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-top-10-best-flvto-alternatives-youtube-converter-you-can-try-for-2024/"><u>[Updated] Top 10 Best Flvto Alternatives YouTube Converter You Can Try for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhanced-connectivity-asus-webcam-on-windows-10-revamped/"><u>Enhanced Connectivity: ASUS Webcam on Windows 10 Revamped</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-your-unresponsive-pclaptop-keys-a-simple-guide-article-title-how-to-guide-tech-talker406-chars/"><u>Fix Your Unresponsive PC/Laptop Keys: A Simple Guide (Article Title) – How-To Guide | Tech Talker—406 Chars</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-fix-resolving-installation-issues/"><u>Graphics Fix: Resolving Installation Issues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hero5-black-meets-hero5-session-a-visual-verdict-for-2024/"><u>Hero5 Black Meets Hero5 Session – A Visual Verdict for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/precision-in-recordings-discover-the-best-10-free-slack-apps-for-2024/"><u>Precision in Recordings Discover the Best 10 Free Slack Apps for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098381909-reinstall-directx-9-and-related-components/"><u>Reinstall DirectX 9 and Related Components</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seagate-external-hard-drive-not-showing-up-on-windows-10-solved/"><u>Seagate External Hard Drive Not Showing Up on Windows 10 [Solved]</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

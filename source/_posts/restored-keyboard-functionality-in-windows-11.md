@@ -1,7 +1,7 @@
 ---
 title: "[Restored] Keyboard Functionality in Windows 11"
-date: 2024-10-18T08:54:11.193Z
-updated: 2024-10-23T19:58:37.749Z
+date: 2024-10-28T03:50:54.306Z
+updated: 2024-10-30T03:20:18.669Z
 tags:
   - win11
   - win10
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Ease of Access** .
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Keyboard** .
@@ -70,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -88,31 +81,31 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -137,6 +130,13 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Switch to ChromeOS
 
@@ -179,22 +179,18 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-top-11-best-instagram-photo-editors/"><u>[New] 2024 Approved Top 11 Best Instagram Photo Editors</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-declutter-your-visuals-learn-background-removal-with-photopea-for-2024/"><u>[New] Declutter Your Visuals Learn Background Removal with Photopea for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-social-media-savvy-your-guide-to-success/"><u>[Updated] 2024 Approved Social Media Savvy Your Guide to Success</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-motorola-edge-40-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bcm20702a0-hardware-issue-detected/"><u>BCM20702A0 Hardware Issue Detected</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/climbing-the-popularity-ladder-with-staff-chosen-videos-at-vimeo-for-2024/"><u>Climbing the Popularity Ladder with Staff-Chosen Videos at Vimeo for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-steps-to-fix-battleye-service-launch-failures-linked-to-driver-problems-error-1450/"><u>Comprehensive Steps to Fix BattlEye Service Launch Failures Linked to Driver Problems (Error 1450)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correcting-system-writes-that-prevent-enex-loading-in-win11/"><u>Correcting System' Writes that Prevent eNEX Loading in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/dealing-with-acpi-device-id-33a0-faults/"><u>Dealing with Acpi Device ID 33A0 Faults</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-oppo-f23-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Oppo F23 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721098464023-hp-wireless-keyboard-malfunction-heres-how-to-restore-functionality-quickly/"><u>HP Wireless Keyboard Malfunction? Here's How to Restore Functionality Quickly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-a14-4g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy A14 4G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104429316-printer-driver-update-successful/"><u>Printer Driver Update - Successful!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103492046-quick-solutions-resolve-driver-unavailable-itbm-errors-instantly/"><u>Quick Solutions: Resolve 'Driver Unavailable' ITBM Errors Instantly!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104378487-troubleshoot-and-fix-why-isnt-my-hp-wireless-keyboard-working-step-by-step/"><u>Troubleshoot and Fix: Why Isn't My HP Wireless Keyboard Working? Step by Step.</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-leading-microsd-card-models-for-optimal-performance/"><u>Ultimate Selection: Leading MicroSD Card Models for Optimal Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-changing-your-mp4-files-to-wmv-with-videolans-vlc-player/"><u>Ultimate Tutorial: Changing Your MP4 Files to WMV with VideoLAN's VLC Player</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-enex-driver-incompatibility-with-windows-11/"><u>Addressing eNEX Driver Incompatibility with Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/alleviate-mouse-disruptions-in-windows-7-dell/"><u>Alleviate Mouse Disruptions in Windows 7 Dell</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-honor-magic-5-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Honor Magic 5 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://driver-error.techidaily.com/beating-the-bug-a-step-by-step-fix-for-iphones-and-their-mtp-driver-woes/"><u>Beating the Bug: A Step-by-Step Fix for iPhones and Their MTP Driver Woes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-through-boundaries-15plus-best-free-video-starters/"><u>Break Through Boundaries 15+ Best Free Video Starters</u></a></li>
+<li><a href="https://driver-error.techidaily.com/complete-guide-to-installing-drivers-on-windows-windows-10-8-and-7-fixes/"><u>Complete Guide to Installing Drivers on Windows - Windows 10, 8 & 7 Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-solutions-for-diagnosing-and-fixing-blue-screen-error-0x0000007e-on-windows-7-systems/"><u>Comprehensive Solutions for Diagnosing and Fixing Blue Screen Error 0X0000007E on Windows 7 Systems</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-to-your-own-custom-arranged-music-library-on-youtube-for-2024/"><u>Navigating to Your Own Custom-Arranged Music Library on Youtube for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hing-your-youtube-projects-the-premiere-pro-way/"><u>Polishing Your YouTube Projects The Premiere Pro Way</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamlining-communication-setting-up-smart-filters-and-adding-contacts-on-gmail/"><u>Streamlining Communication: Setting Up Smart Filters & Adding Contacts on Gmail</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103887512-troubleshoot-and-resolve-when-windows-doesnt-identify-the-latest-connected-usb-apparatus/"><u>Troubleshoot and Resolve: When Windows Doesn't Identify the Latest Connected USB Apparatus</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-adobe-premiere-shortcut-guide-20-tips-and-tricks/"><u>Updated The Ultimate Adobe Premiere Shortcut Guide 20 Tips and Tricks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/video-system-repaired-driver-running-well/"><u>Video System Repaired: Driver Running Well</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows Cannot Locate a Suitable Printer Driver [SOLVED]
-date: 2024-10-20T03:31:07.750Z
-updated: 2024-10-24T05:58:49.724Z
+date: 2024-10-28T00:47:43.512Z
+updated: 2024-10-30T03:31:01.731Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 1: Update your printer driver**
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd27b9a107e9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4)**Restart** your computer and see if the **Windows cannot locate a suitable printer driver**  problem has been solved. If yes, then great! But if the error still pops up, you should try **Fix 2** , below.
 
@@ -74,30 +81,17 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af921398c56a.png)
 2. Under**Printers** , right-click on**your printer** and click **Printer properties**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af6658ae1882.jpg)
 3. Click the**Sharing** tab, tick the box that says **Share this printer** , click **Apply** \->   **OK.**  
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af922bdb75cb.png)**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Make sure you do steps 4-6 on**EVERY** computer that needs access to the printer.
 4. On your keyboard, press **the Windows logo key** and **R**  at the same time. Then copy & paste **control /name Microsoft.NetworkAndSharingCenter** into the box and click **OK**  .  
@@ -108,16 +102,10 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 6. Under**Guest or Public (current profile)** , click the**Turn on network discovery** option and the **Turn on file and printer sharing** option. Click **Save changes**  .  
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af66bb7aee19.jpg)
@@ -145,18 +133,18 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-fan-to-earner-understanding-view-requirements/"><u>[New] 2024 Approved From Fan to Earner Understanding View Requirements</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-youtube-rankings-secrets-enhancing-video-visibility/"><u>[New] 2024 Approved YouTube Rankings Secrets Enhancing Video Visibility</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-building-a-brand-building-income-youtube-edition/"><u>[New] In 2024, Building a Brand, Building Income YouTube Edition</u></a></li>
-<li><a href="https://driver-error.techidaily.com/addressing-adb-errors-in-emcoswin95/"><u>Addressing ADB Errors in EmCos/WIN95</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-connectivity-issues-resolved-fixing-qualcomm-atheros-drivers-in-windows-11/"><u>Bluetooth Connectivity Issues Resolved: Fixing Qualcomm Atheros Drivers in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/complete-solution-for-driver-issues-on-devices-running-windows-10-8-or-7-install-now/"><u>Complete Solution for Driver Issues on Devices Running Windows 10, 8 or 7 – Install Now!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-troubleshooting-tips-getting-your-wireless-keyboard-back-online-in-windows-environment/"><u>Comprehensive Troubleshooting Tips: Getting Your Wireless Keyboard Back Online in Windows Environment</u></a></li>
-<li><a href="https://driver-error.techidaily.com/death-adder-enhancements-for-windows-11/"><u>DeaTH Adder Enhancements for Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-event-code-219-wudfrd-loading-issue-detected/"><u>Device Event Code 219: WudfRd Loading Issue Detected</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/every-angle-in-a-single-shot-versus-depth-driven-photography-for-2024/"><u>Every Angle in a Single Shot versus Depth-Driven Photography for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-photographic-purity-and-proficiency-in-chromatic-control/"><u>In 2024, Photographic Purity and Proficiency in Chromatic Control</u></a></li>
-<li><a href="https://common-error.techidaily.com/silencing-the-alarm-win11s-deep-sleep-mode/"><u>Silencing the Alarm: Win11's Deep Sleep Mode</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-stop-diablo-iv-from-crashing-on-playstation-and-xbox/"><u>Troubleshooting Guide: How to Stop Diablo IV From Crashing on PlayStation and Xbox</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-a-comprehensive-analysis-mycams-video-capture-technology/"><u>[Updated] 2024 Approved A Comprehensive Analysis MyCam's Video Capture Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-creatives-handbook-obtaining-stock-visuals-for-media/"><u>[Updated] The Creative's Handbook Obtaining Stock Visuals for Media</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-backtracking-live-on-twitch-fifteen-ingenious-ways-to-revamp-streams/"><u>In 2024, Backtracking Live on Twitch Fifteen Ingenious Ways to Revamp Streams</u></a></li>
+<li><a href="https://driver-error.techidaily.com/issue-with-slow-gaming-due-to-gpu-lag-heres-how-we-fixed-it/"><u>Issue with Slow Gaming Due to GPU Lag - Here’s How We Fixed It!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/missing-intel-adapters-cant-install-drivers/"><u>Missing Intel Adapters, Can't Install Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seagate-external-drives-and-windows-10-connection-woes/"><u>Seagate External Drives & Windows 10 Connection Woes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sneak-a-peek-at-c-span-archives-for-2024/"><u>Sneak a Peek at C-Span Archives for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlit-asus-keyboard-mystery/"><u>Unlit ASUS Keyboard Mystery</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-a-seamless-windows-11-upgrade-an-in-place-method/"><u>Unveiling the Secrets of a Seamless Windows 11 Upgrade: An In-Place Method</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-wireless-keyboard-issues-heres-what-you-can-do/"><u>Windows Wireless Keyboard Issues? Here's What You Can Do</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winning-the-battle-against-uncooperative-wireless-keyboards-a-comprehensive-guide-for-windows-users/"><u>Winning the Battle Against Uncooperative Wireless Keyboards: A Comprehensive Guide for Windows Users</u></a></li>
 </ul></div>
 

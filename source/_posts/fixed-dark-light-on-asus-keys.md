@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Dark Light on ASUS Keys"
-date: 2024-10-23T07:57:48.219Z
-updated: 2024-10-24T02:24:03.718Z
+date: 2024-10-28T20:29:16.248Z
+updated: 2024-10-29T20:30:38.150Z
 tags:
   - win11
   - win10
@@ -28,10 +28,16 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Way 1: Start the HControl.exe** program
@@ -76,21 +82,21 @@ OR
 3. On the next page, select your Windows version. Then you’ll be greeted with a list of drivers and programs available for download.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-25-19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Scroll through the list until you find the following two drivers:**Smart Gesture** driver and**ATK Package** driver. Then, click on the**DOWNLOAD** button next to each driver.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-31-49.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-45-12.jpg)
 5. Wait till the download process is complete. The two downloaded files are compressed, so you need to extract them to a desired location.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Open the extracted folders of the two drivers. Find**Setup.exe** in their folders respectively and click on it. Then, follow the onscreen instructions to install the drivers.
 7. When everything’s done, restart your computer for the changes to take effect. Then check to see if your keyboard backlight can be turned on properly (press**Fn+F4** on your keyboard to enable the backlight).
@@ -110,10 +116,10 @@ OR
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the ATK Package driver for now, simply click the **Update**  button next to it. ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_19-15-46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -142,22 +148,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-retro-aesthetics-integrating-yesterdays-vhs-tricks-into-modern-editing-for-2024/"><u>[Updated] Retro Aesthetics Integrating Yesterday’s VHS Tricks Into Modern Editing for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-vidpin-facebook-call-recorder-for-2024/"><u>[Updated] VidPin - Facebook Call Recorder for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-virtual-backgrounds-with-kinemasters-stepwise-guide-to-green-screen/"><u>2024 Approved Mastering Virtual Backgrounds with Kinemaster's Stepwise Guide to Green Screen</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-load-not-achieved-for-device-id-219/"><u>Driver Load Not Achieved for Device (ID: 219)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-fixed-gpu-driver-successful-installer/"><u>Error Fixed: GPU Driver Successful Installer</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-overcome-access-is-denied-when-setting-up-your-usb-device/"><u>How to Overcome 'Access Is Denied' When Setting Up Your USB Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-work-with-outdated-usb-composite-devices-a-step-by-step-guide/"><u>How to Work with Outdated USB Composite Devices - A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-erratic-dell-touch-screen-driver/"><u>Resolve Erratic Dell Touch Screen Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-default-radeon-wattman-issues-a-comprehensive-fix-guide/"><u>Resolving the Default Radeon Wattman Issues: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-linking-your-amazon-firestick-with-an-hd-or-full-hd-projector/"><u>Step-by-Step Guide: Linking Your Amazon Firestick with an HD or Full HD Projector</u></a></li>
-<li><a href="https://driver-error.techidaily.com/swift-fix-amd-drivers-keep-hitting-issues/"><u>Swift Fix: AMD Drivers Keep Hitting Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-win11-wm-peakgpu-issues-7-strategies/"><u>Taming Win11 WM PeakGPU Issues (7 Strategies)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-strategies-for-eliminating-latency-issues-in-fallout-4/"><u>Top Strategies for Eliminating Latency Issues in Fallout 4</u></a></li>
-<li><a href="https://driver-error.techidaily.com/triumph-over-graphics-error-during-install/"><u>Triumph over Graphics Error During Install</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-minds-on-trial-best-general-knowledge-channels/"><u>[New] 2024 Approved Minds on Trial Best General Knowledge Channels</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fix-unresponsive-rtx-game-heres-how-we-fixed-it/"><u>[Quick Fix] Unresponsive RTX Game? Here’s How We Fixed It</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-chart-your-course-to-partner-status-via-a-rapid-10000-views-journey/"><u>[Updated] In 2024, Chart Your Course to Partner Status via a Rapid 10,000 Views Journey</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-top-10-music-videos-on-facebook-how-to-make-a-facebook-song-video-for-2024/"><u>[Updated] Top 10 Music Videos on Facebook | How to Make A Facebook Song Video for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-unity-wacoms-happy-ever-after/"><u>Device Unity: Wacom's Happy Ever After</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-wirecast-techniques-for-effective-youtube-streams/"><u>In 2024, WireCast Techniques for Effective Youtube Streams</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lenovo-bluetooth-streamlined-in-the-era-of-windows-11/"><u>Lenovo Bluetooth Streamlined in the Era of Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mend-quickly-persistent-amd-glitches/"><u>Mend Quickly: Persistent AMD Glitches</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-art-of-thumbnail-and-banner-design-for-videos-for-2024/"><u>The Art of Thumbnail and Banner Design for Videos for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-secrets-behind-androids-intelligent-functionality/"><u>Unraveling the Secrets Behind Android's Intelligent Functionality</u></a></li>
 </ul></div>
 

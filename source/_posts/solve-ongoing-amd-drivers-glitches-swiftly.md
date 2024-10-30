@@ -1,7 +1,7 @@
 ---
 title: Solve Ongoing AMD Drivers Glitches Swiftly
-date: 2024-10-18T03:26:28.458Z
-updated: 2024-10-24T05:20:49.358Z
+date: 2024-10-28T19:23:11.429Z
+updated: 2024-10-29T18:53:16.026Z
 tags:
   - win11
   - win10
@@ -56,16 +56,16 @@ Here’s how:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 2. Locate on **the faulty AMD driver** and double-click on it.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click the **Driver** tab and then click **Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-1.png)
 4. Click **Yes** to confirm. Then the driver will be restored to a previous version.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. **Restart** you computer and check if the problem is resolved.
 
@@ -75,6 +75,13 @@ Here’s how:
 
 1. [**Repair & replace corrupt system files with Fortect**](https://tinyland.pxf.io/org4ra)
 2. [**Run SFC scan**](https://homestyler.sjv.io/y209g3)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Repair & replace corrupt system files with Fortect
 
@@ -94,13 +101,6 @@ Here’s how to use Fortect to repair system files on your PC:
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Run SFC scan
 
 **System File Checker** (**SFC**) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files(including those related to **BSOD**). To **run the SFC scan** :
@@ -110,26 +110,20 @@ Here’s how to use Fortect to repair system files on your PC:
 2. Click**Yes** when prompted to confirm.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -157,15 +151,15 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-unlocking-the-top-5-virtual-title-designers/"><u>[New] Unlocking the Top 5 Virtual Title Designers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-trailblazers-in-vr-eyewear-design/"><u>[Updated] Trailblazers in VR Eyewear Design</u></a></li>
-<li><a href="https://driver-error.techidaily.com/address-erratic-dell-pointing-device-win7/"><u>Address Erratic Dell Pointing Device (Win7)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-guide-to-older-versions-of-usb-composite-devices/"><u>Comprehensive Guide to Older Versions of USB Composite Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102972909-fix-radeon-software-and-driver-versions-do-not-match/"><u>Fix: ‘Radeon Software and Driver Versions Do Not Match’</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-6-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 6 Passcode without a Computer</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721101503379-solved-no-valid-dx11-video-card-found-black-ops-error/"><u>Solved: No Valid DX11 Video Card Found Black Ops Ⅲ Error</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/swift-and-simple-expert-techniques-for-lenovo-x2n40-driver-updates/"><u>Swift and Simple: Expert Techniques for Lenovo X2n40 Driver Updates</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-future-of-content-creation-profitability-on-youtube-for-2024/"><u>The Future of Content Creation Profitability on YouTube for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-hack-successful-pairing-of-airpods-with-windows-1011-2024-how-to/"><u>The Ultimate Hack: Successful Pairing of AirPods with Windows 10/11 - 2024 How-To</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-visual-upgrades-top-apps-to-transform-your-photos/"><u>[New] 2024 Approved Visual Upgrades Top Apps to Transform Your Photos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-in-pursuit-of-professional-clarity-unveiling-benqs-bl2711u-screen-tech/"><u>[New] In 2024, In Pursuit of Professional Clarity Unveiling BenQ's BL2711U Screen Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-convert-your-streaming-top-free-video-to-audio-tools-for-2024/"><u>[Updated] Convert Your Streaming Top Free Video to Audio Tools for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unmatched-guide-the-ultimate-11-streaming-recorders-for-2024/"><u>[Updated] Unmatched Guide The Ultimate 11 Streaming Recorders for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gfx-reveal-understanding-ms-bda/"><u>GFX Reveal: Understanding MS BDA</u></a></li>
+<li><a href="https://driver-error.techidaily.com/integrated-camera-solution-fixed-asus-on-windows-10-platform/"><u>Integrated Camera Solution: Fixed ASUS on Windows 10 Platform</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/obs-armada-cameras-at-full-power-again/"><u>OBS Armada Cameras at Full Power Again</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fix-for-techies-starting-your-pc-in-safe-mode-and-uninstalling-amdnvidia-graphics-software-on-windows-8/"><u>Quick Fix for Techies: Starting Your PC in Safe Mode and Uninstalling AMD/NVIDIA Graphics Software on Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unrecognized-logitech-brio-cam-after-win-11-rev-solution-found-149-chars/"><u>Unrecognized Logitech Brio Cam After Win 11 Rev - Solution Found! (149 Chars)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-11s-new-look-how-the-taskbar-is-transforming-once-more/"><u>Windows 11'S New Look: How the Taskbar Is Transforming Once More</u></a></li>
 </ul></div>
 

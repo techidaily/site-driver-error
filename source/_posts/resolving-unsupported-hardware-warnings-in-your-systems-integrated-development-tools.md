@@ -1,7 +1,7 @@
 ---
 title: Resolving Unsupported Hardware Warnings in Your System's Integrated Development Tools
-date: 2024-08-15T06:39:27.944Z
-updated: 2024-08-16T06:39:27.944Z
+date: 2024-10-25T17:21:02.188Z
+updated: 2024-10-29T19:59:50.098Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/3da10c18ed5eb1d81fc33e9b77c3f37bbadf61804
 
 ## Resolving Unsupported Hardware Warnings in Your System's Integrated Development Tools
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a96722da247d.png)
 
  When you’re installing IDT audio driver, if you can’t install the driver successfully and get error message: _**The hardware detected is not supported by this IDT software package**_  ._**The install will be aborted**_ . Don’t worry. You can install the driver successfully by following the steps below.  
@@ -60,32 +57,14 @@ thumbnail: https://thmb.techidaily.com/3da10c18ed5eb1d81fc33e9b77c3f37bbadf61804
 
  3\. Double click “**Sound,video and game controllers** ” to expand the list of audio devices.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968b659c34e.png)
 
  4\. Under this list, right click the**IDT audio device** and select**Update driver** (In some cases, this could be**Update driver software** .).
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968bb16c287.png)
 
  5\. Select**Search automatically for updated driver software** . Then Windows will search for and update the latest audio driver.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968c05e3535.png)
 
 ## Method 3: Update the driver automatically
@@ -99,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/3da10c18ed5eb1d81fc33e9b77c3f37bbadf61804
   
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968f4ea6646.png)
 
  3) Click the Update button next to a flagged**IDT audio driver** to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -119,8 +95,6 @@ thumbnail: https://thmb.techidaily.com/3da10c18ed5eb1d81fc33e9b77c3f37bbadf61804
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,6 +102,33 @@ thumbnail: https://thmb.techidaily.com/3da10c18ed5eb1d81fc33e9b77c3f37bbadf61804
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-preventing-non-bootable-state-due-to-software-issue/"><u>[FIXED] Preventing Non-Bootable State Due to Software Issue</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-finest-6-video-snaggers-for-mac-users-now/"><u>[New] 2024 Approved The Finest 6 Video Snaggers for Mac Users Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tech-support-bluetooth-mouse-refuses-to-communicate-with-os/"><u>[Tech Support] Bluetooth Mouse Refuses to Communicate with OS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-from-cluttered-to-clear-a-canva-guide-for-borders-removal/"><u>[Updated] 2024 Approved From Cluttered to Clear A Canva Guide for Borders Removal</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-newbie-to-zoom-whiz-in-no-time/"><u>[Updated] From Newbie to Zoom Whiz in No Time</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-rhythmic-instagrams-a-step-by-step-music-guide-for-2024/"><u>[Updated] Rhythmic Instagrams A Step-by-Step Music Guide for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/download-samsungs-linux-compatibility/"><u>Download Samsung's Linux Compatibility</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-step-by-step-approach-to-mtp-driver-repair/"><u>Easy Step-by-Step Approach to MTP Driver Repair</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-how-to-fix-incorrect-device-configuration-error-code-1-quickly/"><u>Expert Advice: How To Fix Incorrect Device Configuration Error (Code 1) Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-audio-drivers-woes-in-win11/"><u>Overcoming Audio Drivers Woes in Win11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pinnacle-article-hook-maker-for-2024/"><u>Pinnacle Article Hook Maker for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-driver-compatibility-problems-between-amdintel-and-premiere-pro/"><u>Resolved Driver Compatibility Problems Between AMD/Intel and Premiere Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-missing-driver-issues-on-your-device-fixes-for-windows-11-8-and-7/"><u>Resolving Missing Driver Issues on Your Device: Fixes for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reunion-rocks-all-wacom-devices-connected/"><u>Reunion Rocks: All Wacom Devices Connected</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-essential-manual-to-fb-video-playback-settings-for-2024/"><u>The Essential Manual to FB Video Playback Settings for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/triumphant-wow-full-spectrum-of-3d-visuals-achieved/"><u>Triumphant WoW: Full Spectrum of 3D Visuals Achieved</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unique-ideas-for-dynamic-fb-video-marketing-campaigns-for-2024/"><u>Unique Ideas for Dynamic FB Video Marketing Campaigns for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-from-chrome-os-to-linux-a-comprehensive-installation-guide/"><u>Updated 2024 Approved From Chrome OS to Linux A Comprehensive Installation Guide</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-master-your-tunes-the-best-iphone-and-android-applications-for-music-arrangement/"><u>Updated In 2024, Master Your Tunes The Best iPhone & Android Applications for Music Arrangement</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

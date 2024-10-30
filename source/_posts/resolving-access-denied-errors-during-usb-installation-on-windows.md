@@ -1,7 +1,7 @@
 ---
 title: Resolving 'Access Denied' Errors During USB Installation on Windows
-date: 2024-08-15T06:38:38.752Z
-updated: 2024-08-16T06:38:38.752Z
+date: 2024-10-29T00:47:08.717Z
+updated: 2024-10-29T21:24:03.865Z
 tags:
   - win11
   - win10
@@ -23,23 +23,14 @@ First, make sure that you login to computer as Administrator. If you are not log
   
 1\. Go to**Control Panel**and View by**Category**. Click**User Accounts**.(In your case, this may be “User Accounts and Family Safety”.)  
   
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c68c5d7bf6a.jpg)
   
 2\. Click **Change your account type** and enter your password if necessary.
   
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791ba4e50787.png)
   
  3\. Then click**Start** button and choose to **Log off**  of Windows, and then log back in again.
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791bab2104ee.png)
 
 After that, reinstall the driver again.  
@@ -59,16 +50,10 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
   
  3\. Go to **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\USBSTOR.** Right-click on it and select**Permissions…** from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c692c5d030c.jpg)
   
  4\. Select**SYSTEM** from the Group or user names. In Permissions for SYSTEM section, make sure the Full Control Allow checkbox is checked and uncheck any Deny checkbox. Click Apply button to apply the changes.  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6933c3f709.png)
 
  Also check your user account and see if it has full control of the system and any deny checkbox is unchecked.
@@ -84,8 +69,6 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,6 +76,27 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/unable-to-switch-off-internal-wifibluetooth-how-do-i-fix-it48-char/"><u>“Unable to Switch Off Internal WIFI/Bluetooth - How Do I Fix It?”(48 Char)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-tips-for-perfect-webinar-saves-for-2024/"><u>[New] Essential Tips for Perfect Webinar Saves for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-stepwise-approach-to-implementing-youtube-cards-and-annotations/"><u>[Updated] In 2024, Stepwise Approach to Implementing YouTube Cards & Annotations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unmatched-storytelling-education-1-8-spotlight/"><u>[Updated] Unmatched Storytelling Education #1-#8 Spotlight</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/erase-data-permanently-in-7-steps-your-go-to-algorithms-for-total-wipeout/"><u>Erase Data Permanently in 7 Steps: Your Go-To Algorithms for Total Wipeout</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/etape-par-etape-transformation-video-de-ratio-43-en-format-169-explique/"><u>Étape Par Étape : Transformation Vidéo De Ratio 4/3 en Format 16/9 Expliqué!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-asus-pc-driver-conflicts-in-windows-10-easily/"><u>Fixing Asus PC Driver Conflicts in Windows 10 Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo Reno 10 Pro+ 5G?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-infinix-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Infinix online without jailbreak</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/solving-no-audio-in-ts-files-a-step-by-step-guide/"><u>Solving 'No Audio' In .TS Files: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stabilized-screen-on-win11/"><u>Stabilized Screen on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unloading-error-for-wudfrd-driver-id-219-alert/"><u>Unloading Error for WudfRd Driver, ID 219 Alert</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721101056785-windows-wireless-keyboard-issues-heres-what-you-can-do/"><u>Windows Wireless Keyboard Issues? Here's What You Can Do!</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

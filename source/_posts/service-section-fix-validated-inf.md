@@ -1,7 +1,7 @@
 ---
 title: "Service Section Fix: Validated INF"
-date: 2024-10-23T09:07:21.528Z
-updated: 2024-10-24T02:47:15.313Z
+date: 2024-10-26T20:10:55.945Z
+updated: 2024-10-29T16:40:46.727Z
 tags:
   - win11
   - win10
@@ -80,16 +80,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
@@ -103,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
@@ -114,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -147,22 +141,17 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/1716069794144-updated-utilizing-inbuilt-cameras-for-screen-recording-on-mate-and-p-series-smartphones-mate-10-mate-20-p20-p10-for-2024/"><u>[Updated] Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10). For 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-connectivity-fix-how-to-repair-qualcomm-atheros-driver-issues-in-windows-11/"><u>Bluetooth Connectivity Fix: How to Repair Qualcomm Atheros Driver Issues in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/corrected-non-responsive-keyboard-on-windows-11-pc/"><u>Corrected Non-Responsive Keyboard on Windows 11 PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-factors-to-assess-when-selecting-your-next-video-capture-equipment/"><u>Essential Factors to Assess When Selecting Your Next Video Capture Equipment</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-missing-driver-issues-on-your-pc-solutions-for-windows-10-8-and-7/"><u>Fixing Missing Driver Issues on Your PC: Solutions for Windows 10, 8 & 7</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-rx-480-driver-version-instantly/"><u>Get the Latest AMD RX 480 Driver Version Instantly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-a-missing-coprocessor-driver-error-on-windows-10/"><u>How to Resolve a Missing Coprocessor Driver Error on Windows 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-itel-p55plus-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Itel P55+ Device</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-the-console-landscape-ps5-or-ps4-pro-better/"><u>Navigating the Console Landscape: PS5 or PS4 Pro Better?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/network-interface-interrupt-tested-successfully/"><u>Network Interface Interrupt Tested Successfully</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>New Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-web-based-movie-trailer-creation-platforms/"><u>New Web-Based Movie Trailer Creation Platforms</u></a></li>
-<li><a href="https://driver-error.techidaily.com/re-identify-devices-after-adb-failure-in-winnt/"><u>Re-Identify Devices After ADB Failure in WinNT</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-qualcomm-atheros-bluetooth-driver-problems-in-windows-11-detailed-steps-inside/"><u>Resolve Qualcomm Atheros Bluetooth Driver Problems in Windows 11 - Detailed Steps Inside</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unrecognized-cddvd-in-win11-settled/"><u>Unrecognized CD/DVD in Win11 - Settled</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/verstehen-sie-die-funktionsweise-von-untertitelt-dvds-erpressung-und-wahl/"><u>Verstehen Sie Die Funktionsweise Von Untertitelt DVDs - Erpressung Und Wahl</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-comprehensive-picsart-insight-for-enhanced-creativity/"><u>[New] 2024 Approved Comprehensive PicsArt Insight for Enhanced Creativity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-and-strategies-to-make-your-podcast-title-stand-out/"><u>[New] Expert Tips & Strategies to Make Your Podcast Title Stand Out</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-hilarious-highlights-reddit-and-twitters-best-bits/"><u>[Updated] In 2024, Hilarious Highlights Reddit and Twitter's Best Bits</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-photoperfect-optimizing-visuals-and-videos-in-instagram/"><u>[Updated] PhotoPerfect Optimizing Visuals and Videos in Instagram</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-poco-m6-pro-4g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Poco M6 Pro 4G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://driver-error.techidaily.com/controller-fault-notification-at-idedevice/"><u>Controller Fault Notification at Idedevice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/copper-content-discrepancy-in-pc-watercoolers-investigation-finds-false-advertising-prevails-on-two-thirds/"><u>Copper Content Discrepancy in PC Watercoolers: Investigation Finds False Advertising Prevails on Two-Thirds</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-ms-bda-with-gpu-display/"><u>Decoding MS BDA with GPU Display</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105199614-nexus-one-non-detection-in-linux-mint-cinnamon-solution-found/"><u>Nexus One Non-Detection in Linux Mint Cinnamon, Solution Found</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategies-for-excising-extraneous-comments-in-fb-groups/"><u>Strategies for Excising Extraneous Comments in FB Groups</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105019442-windows-pc-no-response-when-trying-to-mute-or-disable-bluetooth/"><u>Windows PC: No Response when Trying to Mute or Disable Bluetooth</u></a></li>
 </ul></div>
 

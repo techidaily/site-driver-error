@@ -1,7 +1,7 @@
 ---
 title: Realtek Ethernet Controller Driver Not Working After Windows 10 Upgrade [Solved]
-date: 2024-10-17T17:08:42.001Z
-updated: 2024-10-23T21:48:28.918Z
+date: 2024-10-26T04:06:26.508Z
+updated: 2024-10-29T20:23:04.394Z
 tags:
   - win11
   - win10
@@ -58,25 +58,18 @@ netsh int ip reset c:\resetlog.txt
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
 3) Then right-click Realtek PCIe GBE Family Controller option and choose **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de65b229a9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Go to**Advanced** tab, then choose**Speed & Duplex** option on the left side of the pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de6ed4d026.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) On the**Value** bar, change the default Auto Negotiation to **100 Mbps Full Duplex**  or some other options accordingly. We chose**100 Mbps Full Duplex** here, but yours could be different.
 
@@ -92,42 +85,49 @@ netsh int ip reset c:\resetlog.txt
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option Three:** **Reinstall or Rollback Realtek Adapter Driver**
 
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de5537df74.png)
  2) Locate and click the arrow to expand the category**Network adapters** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
  3) Then right-click click**Realtek PCIe GBE Family Controller** option and then choose**Uninstall** .
 
-![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee15b99f3.png)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee15b99f3.png)
 
  Hit**OK** to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee50286a0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Go to the menu bar on the top and click the button for **Scan for hardware changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee9a707c2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Windows will help you automatically install the correct driver that it can find. But there is no guarantee that the new driver is going to work since Windows has provided the not working one originally.
@@ -159,10 +159,10 @@ netsh int ip reset c:\resetlog.txt
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-network-adapter-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hopefully the tips above help you fix the Realtek Ethernet Controller driver not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
@@ -184,22 +184,22 @@ netsh int ip reset c:\resetlog.txt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/1721103571276-solved-force-to-reinstall-graphics-driver-error/"><u>[Solved] ‘Force to Reinstall Graphics Driver’ Error</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-your-podcast-potential-with-cutting-edge-techniques/"><u>2024 Approved Unleash Your Podcast Potential with Cutting-Edge Techniques</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/a-beginners-guide-to-music-in-online-video-footage-fb-for-2024/"><u>A Beginner's Guide to Music in Online Video Footage (FB) for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015673672-astro-a50-silent-woes-troubleshoot-and-repair-the-sound-issue-fast/"><u>Astro A50 Silent Woes? Troubleshoot and Repair the Sound Issue Fast</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721101688679-beat-the-gtx-950s-code-43-glitch-in-windows-10-with-these-expert-troubleshooting-tips-now-solved/"><u>Beat the GTX 950'S Code 43 Glitch in Windows 10 with These Expert Troubleshooting Tips - Now Solved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bus-issues-cleared-with-win11-upgrade/"><u>Bus Issues Cleared with Win11 Upgrade</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-your-course-building-plays-on-youtube/"><u>Charting Your Course Building Plays on YouTube</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correcting-base-system-device-errors-dm/"><u>Correcting Base System Device Errors (DM)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/curing-sluggish-serial-transmission-on-windows/"><u>Curing Sluggish Serial Transmission on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easy-tutorial-transferring-dvd-content-to-microsofts-video-editor-wmm/"><u>Easy Tutorial: Transferring DVD Content to Microsoft's Video Editor - WMM</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-duckduckgo-understanding-its-features-and-safety/"><u>Exploring DuckDuckGo: Understanding Its Features and Safety</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-canon-printer-mp250-drivers-latest-software-updates-available/"><u>Free Canon Printer MP250 Drivers - Latest Software Updates Available</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/impressive-book-trails-presented/"><u>Impressive Book Trails Presented</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103739997-samsung-galaxy-tab-pro-lte-skip-detection-on-fedora-edge-solution-available/"><u>Samsung Galaxy Tab Pro LTE Skip Detection on Fedora Edge, Solution Available!</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/tecnicas-faciles-para-restablecer-su-iphone-automaticamente/"><u>Técnicas Fáciles Para Restablecer Su iPhone Automáticamente</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721101252947-update-your-graphics-drivers-outdated-drivers-can-cause-compatibility-issues/"><u>Update Your Graphics Drivers - Outdated Drivers Can Cause Compatibility Issues.</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103119137-win11-and-lenovo-blue-tooth-harmony-achieved/"><u>Win11 & Lenovo Blue-Tooth Harmony Achieved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-detection-issue-for-graphic-cards/"><u>[FIXED] Detection Issue for Graphic Cards</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-expressive-articulation-examination-iteration-8/"><u>[New] Expressive Articulation Examination, Iteration 8</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-android-melody-manual-best-free-youtube-downloader-tools/"><u>[New] In 2024, Android Melody Manual Best Free YouTube Downloader Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-growing-engagement-ethically-youtube-success-stories/"><u>[Updated] 2024 Approved Growing Engagement Ethically YouTube Success Stories</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-tips-for-trimming-down-facebook-vids-intrusions/"><u>[Updated] 2024 Approved Tips for Trimming Down Facebook Vids' Intrusions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-vita-edit-suite-review-and-tutorial-2024/"><u>[Updated] Comprehensive Vita Edit Suite Review & Tutorial 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-your-last-plugged-in-usb-gear-that-windows-cant-detect/"><u>Diagnosing and Repairing Your Last Plugged-In USB Gear That Windows Can't Detect</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager in Windows 7</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/lost-legacies-found-revelations-from-the-canon-of-classical-works/"><u>Lost Legacies Found Revelations From the Canon of Classical Works</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mouse-lags-freezes-stutters-in-windows-11-fixed/"><u>Mouse Lags, Freezes, Stutters in Windows 11 [Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-win10-no-display-for-seagate-hdd/"><u>Solving Win10: No Display for Seagate HDD</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tightening-up-inf-service-setup-issues/"><u>Tightening Up INF Service Setup Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-dealing-with-unverified-application-warnings-on-pc/"><u>Tips: Dealing with 'Unverified Application' Warnings on PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/uninstall-troubleshooting-stubborn-nvidia-driver/"><u>Uninstall Troubleshooting: Stubborn Nvidia Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wi-fi-80211n-broadcoms-solved-problem-on-windows-platform/"><u>Wi-Fi 802.11N: Broadcom's Solved Problem on Windows Platform</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-ignoring-seagate-external-drive-fix-tips/"><u>Windows 10 Ignoring Seagate External Drive - Fix Tips</u></a></li>
+<li><a href="https://win-trending.techidaily.com/kak-upravlyat-razdelom-vosstanovleniya-v-windows-udalenie-i-vosstanovlenie-variantov/"><u>Как Управлять Разделом Восстановления В Windows: Удаление И Восстановление Вариантов</u></a></li>
 </ul></div>
 

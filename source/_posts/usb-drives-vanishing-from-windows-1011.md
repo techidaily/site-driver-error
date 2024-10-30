@@ -1,7 +1,7 @@
 ---
 title: USB Drives Vanishing From Windows 10/11
-date: 2024-10-18T05:05:21.288Z
-updated: 2024-10-23T20:20:32.137Z
+date: 2024-10-25T21:29:54.794Z
+updated: 2024-10-29T22:11:50.937Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2: Update drivers**
 
  If uninstalling the IDE ATA/ ATAPI controller drivers doesn’t solve the problem for you, it’s likely that you’re using the wrong driver altogether.
@@ -73,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **3: Manually fix corrupted registry entries**
 
 **IMPORTANT** : Before we move on, it’s strongly recommended that you [back-up and restore your registry](https://tools.techidaily.com/drivereasy/download/) first.
@@ -95,39 +95,26 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55543336b.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) **Delete**  them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
@@ -137,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke a**Run** command. Type **regedit** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Follow the path:
 **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\atapi\\**
@@ -158,9 +138,23 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
@@ -185,22 +179,15 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-customizing-video-space-on-facebook-platforms/"><u>[New] Customizing Video Space on Facebook Platforms</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-usb-30-ports-not-working-after-fresh-windows-install/"><u>[Solved] USB 3.0 Ports Not Working After Fresh Windows Install</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-lifeline-of-live-logs-extraction/"><u>[Updated] In 2024, Lifeline of Live Logs Extraction</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000478166-black-screen-fix-guide-for-cyberpunk-2077-players-success-stories-inside/"><u>Black Screen Fix Guide for Cyberpunk 2077 Players - Success Stories Inside</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/crafting-captivating-content-uploading-h-videos-for-igtv-success-for-2024/"><u>Crafting Captivating Content Uploading H-Videos for IGTV Success for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/eliminating-win1011-bus-controllers-faults/"><u>Eliminating Win10/11 Bus Controllers' Faults</u></a></li>
-<li><a href="https://driver-error.techidaily.com/find-and-fix-uninstalled-device-drivers-on-windows-11-8-or-7-step-by-step-tutorial/"><u>Find and Fix Uninstalled Device Drivers on Windows 11, 8 or 7 - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-no-installable-drivers-found-on-windows-1087/"><u>How to Fix 'No Installable Drivers Found' On Windows 10/8/7</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/how-to-recover-lost-airdrop-on-iphone-versions-from-the-11th-to-the-latest-six-effective-strategies/"><u>How to Recover Lost AirDrop on iPhone Versions From the 11Th to the Latest: Six Effective Strategies</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-camon-20-pro-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Tecno Camon 20 Pro 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p40-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P40 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-xiaomi-redmi-note-12-4g-by-fonelab-android-recover-data/"><u>Recover lost data from Xiaomi Redmi Note 12 4G</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revitalizing-faulty-serial-cables-on-win10/"><u>Revitalizing Faulty Serial Cables on Win10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-resolve-usb-access-errors-on-your-computer-system/"><u>Step-by-Step Guide: Resolve USB Access Errors on Your Computer System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tackling-screen-reset-on-windows-10-elan-pad/"><u>Tackling Screen Reset on Windows 10, Elan Pad</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-from-cluttered-to-clear-a-beginners-guide-to-freeing-up-space-for-fcpx-for-2024/"><u>Updated From Cluttered to Clear A Beginners Guide to Freeing Up Space for FCPX for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11s-disk-space-anomalies-troubleshooting-guide/"><u>Win11's Disk Space Anomalies - Troubleshooting Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-capturing-impactful-voice-top-tips-for-podcasting-interviews-on-idevices/"><u>[New] Capturing Impactful Voice Top Tips for Podcasting Interviews on iDevices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revolutionize-vision-the-best-10-techniques-for-text-effects/"><u>[New] Revolutionize Vision - The Best 10 Techniques for Text Effects</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722957039837-effortless-setup-secure-your-razer-mamba-drivers-today/"><u>Effortless Setup: Secure Your Razer Mamba Drivers Today!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/finding-lost-bluetooths-absence-from-device-list/"><u>Finding Lost: Bluetooth's Absence From Device List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratis-wmc-code-naar-mp4-omzetten-online-bewerking-met-movavi/"><u>Gratis WMC-Code Naar MP4 Omzetten - Online Bewerking Met Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-routes-turning-pinterest-vids-into-music-files/"><u>In 2024, Ultimate Routes Turning Pinterest Vids Into Music Files</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lg-begins-mass-manufacturing-of-innovative-oled-displays-a-triumph-for-dell-xps-13s-stunning-visual-experience/"><u>LG Begins Mass Manufacturing of Innovative OLED Displays: A Triumph for Dell XPS 13’S Stunning Visual Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-drivers-installed-for-this-device-in-windows-1187-solved/"><u>No Drivers Installed for This Device in Windows 11/8/7 [SOLVED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-cant-turn-bluetooth-off-in-windows/"><u>Solved: Can't Turn Bluetooth OFF in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unification-error-fix-windows-1110-recognition/"><u>Unification Error Fix: Windows 11/10 Recognition</u></a></li>
 </ul></div>
 

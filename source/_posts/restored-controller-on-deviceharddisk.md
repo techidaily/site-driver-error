@@ -1,7 +1,7 @@
 ---
 title: Restored Controller on DeviceHarddisk
-date: 2024-09-27T16:01:34.094Z
-updated: 2024-10-01T16:00:55.417Z
+date: 2024-10-24T03:33:18.230Z
+updated: 2024-10-29T21:05:29.784Z
 tags:
   - win11
   - win10
@@ -24,16 +24,10 @@ thumbnail: https://thmb.techidaily.com/6e5f95b25124810982ee054b31aff132061c491b9
  Some sectors in your computer may be damaged, and you can try**switching your USB drive to a different port** . It worked for some users. If it doesn’t solve your “ The driver detected a controller error on \\Device\\Harddisk1\\DR1″ problem,  try Solution 2, below.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 2: Update your USB driver
@@ -56,20 +50,20 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84c2843cf68.jpg)
 4. You may need to restart your computer to finish the process. Then check if your “The driver detected a controller error on \\Device\\Harddisk1\\DR1 ” problem is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -95,17 +89,22 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/resolved-intels-ax201-unable-to-connect-wifi-6/"><u>[RESOLVED] Intel's Ax201 Unable to Connect Wifi 6</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-critical-analysis-facebooks-top-10-video-plays-for-2024/"><u>[Updated] Critical Analysis Facebook's Top 10 Video Plays for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-insightful-illustration-how-to-record-and-preserve-your-playthroughs-in-roblox-using-macos-for-2024/"><u>[Updated] Insightful Illustration How to Record & Preserve Your Playthroughs in Roblox Using MacOS for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unleash-power-in-valorant-the-best-voice-modifier-without-payment/"><u>[Updated] Unleash Power in Valorant The Best Voice Modifier Without Payment</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/discover-the-top-13-youtube-production-wizards-with-their-exclusive-free-downloads/"><u>Discover the Top 13 YouTube Production Wizards with Their Exclusive Free Downloads</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-successfully-overcome-a-failed-hcmond-driver-setup/"><u>How to Successfully Overcome a Failed Hcmond Driver Setup</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-anonymization-techniques-to-blur-faces/"><u>In 2024, Advanced Anonymization Techniques to Blur Faces</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-analyzing-the-post-upload-process-in-youtubes-ecosystem/"><u>In 2024, Analyzing the Post-Upload Process in YouTube's Ecosystem</u></a></li>
-<li><a href="https://media-tips.techidaily.com/price-surge-announced-by-peacock-ahead-of-upcoming-summer-olympic-games/"><u>Price Surge Announced by Peacock Ahead of Upcoming Summer Olympic Games</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-how-to-fix-the-absence-of-a-coprocessor-driver-in-windows-10/"><u>Resolved: How to Fix the Absence of a Coprocessor Driver in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-hp-wireless-keyboard-connectivity-issues-fixes-and-solutions/"><u>Troubleshooting HP Wireless Keyboard Connectivity Issues - Fixes and Solutions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unplugging-problems-lenovo-bluetooth-in-windows-10/"><u>Unplugging Problems: Lenovo Bluetooth in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/irql-solved-win11-blue-screen-of-death/"><u>[Irql] Solved: Win11 Blue Screen of Death</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-unleashing-creativity-capturing-and-editing-impressive-videos-in-adobe-connect/"><u>[Updated] In 2024, Unleashing Creativity Capturing & Editing Impressive Videos in Adobe Connect</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1874sales-taxis-in-their-owners-they-were-given-500-miles-for-each-individualrevenue-ioteaching-the-world-and-aftermath-of-an-interview-with-a-stringent-sta2/"><u>1874/Sales Taxis in Their Owners, They Were Given $500 Miles for Each Individual_revenue = 'IoTeaching the World, and Aftermath of an Interview with a Stringent Standards-Based on December 6Th Floor (C) - Tweet</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728472621428-2024/"><u>網路安全提示：如何在2024年使用最新技術，成功地進行重要文件的隨身碟刪除與救回步驟</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cleared-error-device-error-48/"><u>Cleared Error - Device Error 48</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-fixes-to-tackle-the-blue-screen-of-death-code-0x0000007e-in-windows-7/"><u>Comprehensive Fixes to Tackle the Blue Screen of Death (Code: 0X0000007E) in Windows 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-12-pro-max-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 12 Pro Max</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-resolution-fixing-the-not-properly-set-up-issue-device-code-1/"><u>Error Resolution: Fixing the 'Not Properly Set Up' Issue (Device Code 1)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-strategies-to-maintain-administrator-mode-for-your-applications-on-windows-11/"><u>Expert Strategies to Maintain Administrator Mode for Your Applications on Windows 11</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/free-admin-template-with-bootstrap-4-discover-the-new-nowui-dashboard-by-creative-tim/"><u>Free Admin Template with Bootstrap 4: Discover the New NowUI Dashboard by Creative Tim</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-graphics-missing-in-winos/"><u>Nvidia Graphics Missing in WINOS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/perfecting-windows-11s-input-with-elan-driver-fixes/"><u>Perfecting Windows 11'S Input with Elan Driver Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fix-guide-what-to-do-if-your-most-recent-usb-connection-errors-and-windows-disregards-them/"><u>Quick Fix Guide: What To Do If Your Most Recent USB Connection Errors & Windows Disregards Them</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-the-frustration-effective-fixes-for-constant-keeps-on-wwe-2k22-pc/"><u>Stop the Frustration: Effective Fixes for Constant Keeps on WWE 2K22 PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-ranking-of-top-10-classic-disney-films-and-comprehensive-guide-on-where-to-legally-stream-or-download-them/"><u>Ultimate Ranking of Top 10 Classic Disney Films & Comprehensive Guide on Where to Legally Stream or Download Them</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-aesthetic-edge-maximizing-backdrop-impact/"><u>Windows 11'S Aesthetic Edge: Maximizing Backdrop Impact</u></a></li>
 </ul></div>
 

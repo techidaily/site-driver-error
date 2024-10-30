@@ -1,7 +1,7 @@
 ---
 title: Understanding and Resolving Aged USB Composite Device Problems
-date: 2024-08-15T06:38:21.065Z
-updated: 2024-08-16T06:38:21.065Z
+date: 2024-10-28T23:33:56.270Z
+updated: 2024-10-29T17:24:16.939Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
  If you keep getting the above error message when trying to connect your USB Composite Device to your computer, here are the real fixes for your issue. This article helps you solve the problem, quickly and easily!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 3 fixes that have helped many other users solve their USB Composite Device problem. You don’t have to try them all; just work your way down the list until you find that one that works for you.
@@ -29,6 +26,19 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 1. **[Update your USB Composite Device driver](https://united.elfm.net/zqobdx)**
 2. **[Reinstall your USB controller drivers](https://imp.i110150.net/r5bmpn)**
 3. **[Use the Windows USB Troubleshooter](https://ukaidot.sjv.io/daqnoj)**
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your USB Composite Device driver
 
@@ -51,36 +61,47 @@ Fortunately, this is one of the easiest problems to fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Reinstall your USB controller drivers
 
  You can also try uninstalling and reinstalling the USB drivers via Device Manager. This action will allow Windows to automatically scan for hardware changes and reinstall the needed drivers. Here’s what you need to do:
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. On your keyboard, press the   **Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62735e40ac6.png)**  
 **key**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  and  
 **R**  
   key simultaneously to open the Run box.
 2. Type **devmgmt.msc** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b616832c16a0.jpg)
 3. In Device Manger, scroll down to find**Universal Serial Bus controllers** and expand the entry.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b61714f05a95.jpg)
 4. Right-click on the first USB device and select**Uninstall device**  to remove it.  
 
 **Important:** Make sure you’ve saved any open files on your computer before you click**Uninstall device** , as you might need to force shutdown and restart later.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6171a9ae8b0.jpg)
 5. Repeat step 4) with every other USB device that is listed under the**Universal Serial Bus controllers** entry.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** Some USB devices have to do with your wired mouse, keyboard etc, which means uninstalling those devices will make them not working, don’t worry, just temporarily. As long as Windows restarts, it will automatically install the drivers again.
 6. Once you’ve uninstalled them all,**restart** your computer.  
@@ -108,8 +129,6 @@ Fortunately, this is one of the easiest problems to fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,6 +136,23 @@ Fortunately, this is one of the easiest problems to fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-amplifying-your-impact-voice-customization-in-instagram-media-for-2024/"><u>[New] Amplifying Your Impact Voice Customization in Instagram Media for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-understanding-and-applying-youtube-markup/"><u>[Updated] Understanding & Applying YouTube Markup</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-download-of-hp-network-interface-controllerss-driver-pack-for-various-windows-os/"><u>Easy Download of HP Network Interface Controllers's Driver Pack for Various Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-45-device-manager-victory/"><u>Error 45: Device Manager Victory</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-shadows-an-in-depth-bloodborne-video-game-analysis/"><u>Exploring the Shadows: An In-Depth Bloodborne Video Game Analysis</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-cuda-compute-capability-mistake-in-windows-10-fixes/"><u>GTX 950 CUDA Compute Capability Mistake in Windows 10 - Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-access-rejection-win11-notification/"><u>Hardware Access Rejection: Win11 Notification</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-a-non-downloading-torrent-file-tips-and-solutions/"><u>How to Troubleshoot a Non-Downloading Torrent File: Tips and Solutions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-begin-a-new-era-of-editing-with-xps-video-suite/"><u>In 2024, Begin a New Era of Editing with Xp's Video Suite</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigating-windows-8-safe-mode-for-efficient-graphics-driver-removal-process/"><u>Navigating Windows 8 Safe Mode for Efficient Graphics Driver Removal Process</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-make-your-videos-pop-12-top-online-animation-creators/"><u>New In 2024, Make Your Videos Pop 12 Top Online Animation Creators</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-solutions-resolving-the-driver-unavailable-issue-in-itbm-software/"><u>Quick Solutions: Resolving the 'Driver Unavailable' Issue in ITBM Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/secure-your-pc-master-the-process-of-win8-safe-mode-activation-and-graphics-card-driver-uninstallation/"><u>Secure Your PC! Master the Process of Win8 Safe Mode Activation and Graphics Card Driver Uninstallation</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/simple-guide-to-crafting-and-editing-ebooks-master-your-digital-publishing-skills/"><u>Simple Guide to Crafting & Editing eBooks: Master Your Digital Publishing Skills</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-and-correct-itbm-driver-availability-errors-easily/"><u>Troubleshoot and Correct ITBM Driver Availability Errors Easily</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/video-production-evolution-prime-lenses-for-youtube-enthusiasts/"><u>Video Production Evolution Prime Lenses for YouTube Enthusiasts</u></a></li>
+</ul></div>
 

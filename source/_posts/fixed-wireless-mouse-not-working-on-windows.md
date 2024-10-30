@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Wireless Mouse Not Working on Windows"
-date: 2024-08-15T06:37:52.324Z
-updated: 2024-08-16T06:37:52.324Z
+date: 2024-10-23T18:50:04.322Z
+updated: 2024-10-29T16:11:26.853Z
 tags:
   - win11
   - win10
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 
  If you do not have a receiver for your wireless mouse, then you are having a Bluetooth mouse, not a wireless mouse. Some of the instructions here might not apply.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ca13fd8604e.jpg)
 
  **NOTE** : Replace your mouse if it’s over 5 years old.
@@ -61,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 
  4) Click **Let me pick from a list of device drivers on my computer** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-Browse-my-computer-for-drivers.jpg)
 
  5)**Uncheck** the box**Show compatible hardware** . Select your device. Click**Next** to continue.
@@ -114,15 +108,25 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 
  4) **Try on a different computer** . If the same problem happens on a second computer, then your wireless mouse might be defective. In that case, you might want to contact the manufacturer of your wireless mouse for more suggestions.
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4: Disable the fast startup option
 
  The fast startup feature is reported to be one of the causes of this problem. So you can disable it to see if the problem is resolved:
 
 1) On your keyboard, press the **Windows logo + R keys** simultaneously to open the Run box . Type**control** and hit Enter to open the Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
  2) Click on**System and Security** . If you don’t see it, make sure you’ve set **Category** as your view-by.
@@ -139,20 +143,34 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 
  5) Click on the**Change settings that are currently unavailable** link.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Power-Options-Change-settings-that-are-currently-unavailable.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Uncheck the box for**Turn on fast startup (recommended)** . Click **Save changes** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-turn-off-fast-startup.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Restart your computer. All drivers will be initialized on startup now. So the time needed to start your computer might be longer.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5: Repair system files
 
  If all else fails, it’s time to check if the issue stems from**corrupted system files** .
@@ -167,9 +185,29 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Fortect-START-SCAN.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) If it detects any issues on your PC, click Start Repair to start the repair process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. Should you encounter any issues, do not hesitate to reach out to their support team at [support@fortect.com](https://lenovo-in.zlvv.net/kj14kn) .
 
@@ -188,8 +226,6 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,6 +233,26 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-superior-camcorder-features-direct-look-up/"><u>[New] Superior Camcorder Features – Direct Look-Up</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-engage-viewers-with-powerful-channel-building-stories-for-2024/"><u>[Updated] Engage Viewers with Powerful Channel-Building Stories for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-valorant-portraits-professional-thumbnails-made-in-a-flash/"><u>[Updated] Valorant Portraits - Professional Thumbnails Made in a Flash</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-metaverse-meets-the-multiverse-a-detailed-comparison/"><u>2024 Approved Metaverse Meets the Multiverse A Detailed Comparison</u></a></li>
+<li><a href="https://driver-error.techidaily.com/37-resolved-device-driver-init-failed/"><u>37 Resolved: Device Driver Init Failed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/alleviate-cable-transmission-bug/"><u>Alleviate Cable Transmission Bug</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-woes-on-windows-11-solve-your-qualcomm-atheros-driver-challenges-here/"><u>Bluetooth Woes on Windows 11? Solve Your Qualcomm Atheros Driver Challenges Here!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-and-windows-11-error-fix-dealing-with-code-43-swiftly-and-easily/"><u>GTX 950 and Windows 11 Error Fix: Dealing with 'Code 43' Swiftly and Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-iphone-usb-transfer-errors-using-effective-solutions/"><u>How to Overcome iPhone USB Transfer Errors Using Effective Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-recover-from-a-crash-in-your-amd-graphics-control-panel-wattman/"><u>How to Recover From a Crash in Your AMD Graphics Control Panel (WattMan)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-tackle-and-resolve-problems-with-antiquated-usb-composite-systems/"><u>How to Tackle and Resolve Problems with Antiquated USB Composite Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-mastering-video-without-audible-elements/"><u>In 2024, Mastering Video Without Audible Elements</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcame-error-45-alls-well-that-ends-well/"><u>Overcame Error #45, All's Well That Ends Well</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-picks-best-photo-displayers-for-2024/"><u>Prime Picks Best Photo Displayers for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/resolving-issues-with-esim-data-transfer-failure-on-the-latest-iphone-models/"><u>Resolving Issues with eSIM Data Transfer Failure on the Latest iPhone Models</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-missing-desktop-icons-on-your-windows-11-system-step-by-step-fix/"><u>Revive Missing Desktop Icons on Your Windows 11 System: Step-by-Step Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successful-driver-install-on-wsd-printer/"><u>Successful Driver Install on WSD Printer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-ai-doesnt-respond-to-unauthorized-tweaks/"><u>Why AI Doesn't Respond to Unauthorized Tweaks</u></a></li>
+</ul></div>
 

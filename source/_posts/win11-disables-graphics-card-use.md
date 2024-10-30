@@ -1,7 +1,7 @@
 ---
 title: Win11 Disables Graphics Card Use
-date: 2024-08-15T06:36:53.164Z
-updated: 2024-08-16T06:36:53.164Z
+date: 2024-10-27T03:23:12.643Z
+updated: 2024-10-29T16:20:17.950Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
 1. [**Run System File Checker and DISM commands**](https://bluetties.sjv.io/lxv4pm)
 2. [**Reinstall your display driver**](https://coinrule.sjv.io/rqzonv)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run System File Checker and DISM commands
 
  This problem may occur if you have corrupted or damaged system files on your Windows computer.
@@ -42,9 +49,6 @@ Follow these steps to recover your system files:
 
  2) Type**sfc /scannow**  and press **Enter** . Wait for the scanning to be **100%**  completed.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7af1a7f21e.png)
 
  3) Type the following commands and press **Enter**  after each.
@@ -53,16 +57,24 @@ Follow these steps to recover your system files:
   
 **DISM.exe /Online /Cleanup-image /Restorehealth**
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Reboot Windows 10 and run your game software to see if it works. If it doesn’t work, you can try our other fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your display driver
 
  This problem is**mostly caused by an out-of-date graphics card driver** , otherwise known as a **display driver** or **video driver** . You can fix it easily by updating your display driver.
@@ -77,17 +89,18 @@ Follow these steps to recover your system files:
 
  2) Click **Scan Now** . It will quickly detect all driver problems of your computer. This includes your display driver.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509eed56b24.jpg)
 
  2) In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. You can update the drivers one by one using the **Update**  button. But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can update all your drivers with one click — **Update All** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509f1432541.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Reboot your Windows 10 PC and run your game software to see if it works.
 
@@ -102,8 +115,6 @@ Follow these steps to recover your system files:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,6 +122,26 @@ Follow these steps to recover your system files:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-rhythm-wizards-choice-online-tempo-tester-apps/"><u>[New] 2024 Approved Rhythm Wizards' Choice Online Tempo Tester Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-captivating-viewers-youtubers-guide-to-dynamic-game-sessions-for-2024/"><u>[New] Captivating Viewers YouTubers’ Guide to Dynamic Game Sessions for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-iphones-ultimate-strategy-for-seamless-podcast-downloading/"><u>[Updated] In 2024, IPhone's Ultimate Strategy for Seamless Podcast Downloading</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unveiling-the-mechanics-behind-instagrams-content-curation-for-2024/"><u>[Updated] Unveiling the Mechanics Behind Instagram’s Content Curation for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-android-tips-creating-stunning-slow-motion-videos/"><u>2024 Approved Android Tips Creating Stunning Slow Motion Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-winpodcast-solutions-roundup/"><u>2024 Approved Premium WinPodcast Solutions Roundup</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-your-comprehensive-pathway-to-hidden-youtube-treasures/"><u>2024 Approved Your Comprehensive Pathway to Hidden YouTube Treasures</u></a></li>
+<li><a href="https://driver-error.techidaily.com/end-bluetooth-disturbance-in-win10/"><u>End Bluetooth Disturbance in Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/help-latest-camera-not-detected-on-updated-laptop-here-are-quick-fixed-tips-for-you-answered/"><u>Help! Latest Camera Not Detected on Updated Laptop, Here Are Quick Fixed Tips for You (Answered)</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-90-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 90 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-webm-video-editing-made-easy-top-10-free-tools/"><u>In 2024, WebM Video Editing Made Easy Top 10 Free Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solutions-for-usb-installer-issues-handling-access-is-blocked-notifications/"><u>Solutions for USB Installer Issues: Handling Access Is Blocked Notifications</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-repair-for-nonfunctional-wireless-keyboards-in-windows-environments/"><u>Step-by-Step Repair for Nonfunctional Wireless Keyboards in Windows Environments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-mousing-overcoming-system-stutters/"><u>Swift Mousing: Overcoming System Stutters</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unified-windows-drivers-for-pci-cards/"><u>Unified Windows Drivers for PCI Cards</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlocking-right-click-on-windows-11-touchpad-done/"><u>Unlocking Right-Click on Windows 11 Touchpad [Done]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-reliable-multitasking-experience/"><u>Win11: Reliable Multitasking Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win2k-fix-no-device-detected-issue-on-pc/"><u>Win2K: Fix No Device Detected Issue on PC</u></a></li>
+</ul></div>
 

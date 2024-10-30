@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Lenovo's Bluetooth on Windows 10
-date: 2024-10-19T03:53:11.725Z
-updated: 2024-10-24T05:37:40.885Z
+date: 2024-10-26T17:05:09.728Z
+updated: 2024-10-30T04:25:19.826Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 * [Option 3: Update Bluetooth driver](https://lightailing.sjv.io/k0ez0m)
 * [Option 4: Perform a refresh](https://collovinc.sjv.io/jrkzwp)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 1: Enable Bluetooth hardware
 
 **NOTE** : Please make sure that your computer has the necessary hardware and your wireless is turned on. Also, check the support website of Lenovo to make sure that your device is Bluetooth capable.
@@ -40,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7a64714f6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Expand **Bluetooth Radios**  or **Bluetooth** .
 
 **Note** : If you **cannot** see any items listed under Network adapters or Bluetooth Radios, please proceed to **Option 2** .
@@ -50,23 +64,9 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b810d497f1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) If you see a yellow exclamation mark next to your Bluetooth driver, your Bluetooth hardware is not responding or set up correctly. You can refer to **Option 3** for more help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 2: Enable discovery mode
 
@@ -74,22 +74,22 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e564dcca0a6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 3: Update Bluetooth driver
@@ -132,19 +132,16 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-intel-wi-fi-ax201-signal-strength-issue/"><u>[FIXED] Intel Wi-Fi AX201 Signal Strength Issue</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-introducing-motion-blur-magic-in-your-iphone-photos/"><u>[Updated] 2024 Approved Introducing Motion-Blur Magic in Your iPhone Photos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-color-correction-with-easy-techniques/"><u>[Updated] Streamline Color Correction with Easy Techniques</u></a></li>
-<li><a href="https://driver-error.techidaily.com/direct-fix-reconnecting-with-mtp-drivers/"><u>Direct Fix: Reconnecting with MTP Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/eliminate-usb-port-malfunction-in-dell-notebook/"><u>Eliminate USB Port Malfunction in Dell Notebook</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/expert-level-workshop-programming-timer-functions-for-obs-productions-for-2024/"><u>Expert-Level Workshop Programming Timer Functions for OBS Productions for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-reviving-classic-usb-composite-devices/"><u>Guide to Reviving Classic USB Composite Devices</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/how-to-deafen-silent-tweets-impact/"><u>How to Deafen Silent Tweets' Impact</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-vivo-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Vivo</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-troubleshoot-with-safe-mode-graphics-card-driver-removal-techniques-for-window-8-users/"><u>How To Troubleshoot with Safe Mode: Graphics Card Driver Removal Techniques for Window 8 Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-portable-recording-stands-and-lenses/"><u>In 2024, Portable Recording Stands and Lenses</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-installing-missing-drivers-for-your-device-on-windows-operating-systems-11-8-and-aturdays-a-comprehensive-guide/"><u>Troubleshooting and Installing Missing Drivers for Your Device on Windows Operating Systems (11, 8 & Aturdays) - A Comprehensive Guide!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unlocking-potential-in-depth-performance-breakdown-of-the-linksys-wrt1/"><u>Unlocking Potential: In-Depth Performance Breakdown of the Linksys WRT1</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-enhancing-your-instagram-presence-with-long-videos/"><u>[New] In 2024, Enhancing Your Instagram Presence with Long Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/trategic-trailer-planning-for-increased-channels-profitability/"><u>[New] Strategic Trailer Planning for Increased Channels' Profitability</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-key-to-more-views-expert-backlink-methods-for-youtubers/"><u>[New] The Key to More Views Expert Backlink Methods for YouTubers</u></a></li>
+<li><a href="https://win11.techidaily.com/averting-unwanted-windows-store-automatization/"><u>Averting Unwanted Windows Store Automatization</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-s18-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo S18 Pro</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/choosing-your-perfect-mobile-os-iphone-or-android/"><u>Choosing Your Perfect Mobile OS: IPhone or Android?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dissecting-the-graphics-presentation-of-ms-bda/"><u>Dissecting the Graphics Presentation of MS BDA</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-45-dealt-with-efficiently/"><u>Error 45: Dealt with Efficiently</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-installation-problems-with-the-hcmon-driver-error/"><u>Fixing Installation Problems with the Hcmon Driver Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-alert-bcm20702a0-not-available/"><u>Hardware Alert: BCM20702A0 Not Available</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigating-through-nvidia-drivers-issues/"><u>Navigating Through Nvidia Drivers Issues</u></a></li>
 </ul></div>
 

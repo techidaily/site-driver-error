@@ -1,7 +1,7 @@
 ---
 title: Rejected Graphic Card Use by OS Win11
-date: 2024-10-18T02:08:04.918Z
-updated: 2024-10-24T04:25:08.518Z
+date: 2024-10-23T03:41:56.290Z
+updated: 2024-10-29T17:00:38.455Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 2. [**Reinstall your display driver**](https://coinrule.sjv.io/rqzonv)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Run System File Checker and DISM commands
@@ -45,11 +45,37 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7aea748d7a.png)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click**YES** when prompted by the User Account Control.
 
  2) Type**sfc /scannow**  and press **Enter** . Wait for the scanning to be **100%**  completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7af1a7f21e.png)
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Type the following commands and press **Enter**  after each.
 
@@ -59,14 +85,14 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-15.png)
 
- 4) Reboot Windows 10 and run your game software to see if it works. If it doesn’t work, you can try our other fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ 4) Reboot Windows 10 and run your game software to see if it works. If it doesn’t work, you can try our other fix below.
 
 ### Fix 2: Update your display driver
 
@@ -84,23 +110,9 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509eed56b24.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. You can update the drivers one by one using the **Update**  button. But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can update all your drivers with one click — **Update All** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509f1432541.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Reboot your Windows 10 PC and run your game software to see if it works.
 
@@ -124,21 +136,24 @@ Follow these steps to recover your system files:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-content-that-captures-audiences-hearts-for-2024/"><u>[New] Crafting Content that Captures Audiences' Hearts for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-strategies-for-writing-persuasive-vlog-show-narratives/"><u>[Updated] 2024 Approved Strategies for Writing Persuasive Vlog Show Narratives</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-gaming-galore-top-10-virtual-reality-for-phones/"><u>[Updated] In 2024, Gaming Galore Top 10 Virtual Reality for Phones</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-quick-and-cool-xbox-snapshots-a-gamers-bible/"><u>[Updated] Quick & Cool Xbox Snapshots A Gamers' Bible</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-top-6-budget-friendly-4k-sharp-projectors-for-2024/"><u>[Updated] Top 6 Budget-Friendly 4K Sharp Projectors for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/a-step-by-step-guide-to-fixing-invalid-or-unverified-driver-installs-on-computers/"><u>A Step-by-Step Guide to Fixing Invalid or Unverified Driver Installs on Computers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/access-denied-graphics-hardware-on-windows-os/"><u>Access Denied: Graphics Hardware on Windows OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/battleye-service-startup-trouble-correcting-the-error-caused-by-missing-driver-code-1450/"><u>BattlEye Service Startup Trouble: Correcting the Error Caused by Missing Driver (Code 1450)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/boost-hat-performance-update-to-win11-driver/"><u>Boost HAT Performance: Update to Win11 Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/crafting-stable-nvidia-graphics-software/"><u>Crafting Stable Nvidia Graphics Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-itel-s23-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-itel-p40-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Itel P40 Phone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-expert-insights-on-ps3-gameplay-documentation/"><u>In 2024, Expert Insights on PS3 Gameplay Documentation</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-nokia-g42-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Nokia G42 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102799552-resolve-your-cpu-co-processor-compatibility-errors-in-windows-11-quickly/"><u>Resolve Your CPU Co-Processor Compatibility Errors in Windows 11 Quickly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102331051-successfully-repair-iphone-and-android-mtp-connectivity-issues-with-ease/"><u>Successfully Repair iPhone and Android MTP Connectivity Issues with Ease</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-dive-into-the-dos-and-donts-of-youtube-beauty-channels/"><u>[New] 2024 Approved Dive Into the Do's and Don'ts of YouTube Beauty Channels</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-video-excellence-mirrorless-cameras-vs-traditional-dslrs/"><u>[New] Video Excellence Mirrorless Cameras vs Traditional DSLRs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-master-level-stardew-upgrades-for-ultimate-growth/"><u>[Updated] 2024 Approved Master Level Stardew Upgrades for Ultimate Growth</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevating-your-videos-visual-impact-youtubthumbnail-design-on-macos/"><u>[Updated] In 2024, Elevating Your Video's Visual Impact YoutubThumbnail Design on macOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-downloading-no-cost-windows-11-interface-customizations/"><u>A Comprehensive Guide to Downloading No-Cost Windows 11 Interface Customizations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-troubleshooting-guide-resolving-itbm-driver-errors-instantly/"><u>Easy Troubleshooting Guide: Resolving ITBM Driver Errors Instantly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-the-missing-or-corrupt-mss32dll-error-effectively-and-quickly/"><u>Fix the 'Missing or Corrupt MSS32.dll' Error Effectively and Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-asus-webcam-connectivity-problem-in-win11/"><u>Fixed ASUS Webcam Connectivity Problem in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-iphone-usb-device-driver-problems-successful-guidance/"><u>Fixing iPhone USB Device Driver Problems - Successful Guidance</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-best-of-the-best-free-online-video-editors-for-every-creator/"><u>In 2024, The Best of the Best Free Online Video Editors for Every Creator</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-8-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 8 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-driver-updates-on-the-hp-envy-2n-pc-series-a-user-friendly-guide/"><u>Mastering Driver Updates on the HP ENVY 2N PC Series - A User-Friendly Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fix-persistent-amd-driver-glitches/"><u>Quick FIX: Persistent AMD Driver Glitches</u></a></li>
+<li><a href="https://driver-error.techidaily.com/save-big-leading-discounts-on-computers-and-notebooks-this-year/"><u>Save Big: Leading Discounts on Computers and Notebooks This Year</u></a></li>
+<li><a href="https://driver-error.techidaily.com/sounds-clear-driver-issue-resolved-hidef/"><u>Sounds Clear: Driver Issue Resolved (HiDef)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-towards-a-reliable-nvidia-driver-setup/"><u>Steps Towards a Reliable Nvidia Driver Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-and-resolve-unrecognized-devices-on-windows-11-8-and-e/"><u>Troubleshoot and Resolve Unrecognized Devices on Windows 11, 8 & E</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-your-editing-software-transition-from-imovie-to-windows-video-editor/"><u>Upgrade Your Editing Software : Transition From iMovie to Windows Video Editor</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-m14-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy M14 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

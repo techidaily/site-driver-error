@@ -1,7 +1,7 @@
 ---
 title: Fixing the Frustrating 'Access Is Denied' During USB Installation Process
-date: 2024-08-09T08:45:57.888Z
-updated: 2024-08-10T08:45:57.888Z
+date: 2024-10-23T02:29:25.078Z
+updated: 2024-10-29T19:45:57.282Z
 tags:
   - win11
   - win10
@@ -17,18 +17,12 @@ thumbnail: https://thmb.techidaily.com/9841b29c6cea5f5f780b6eadf9d0ee4bcbe0f046f
 
 If you can’t install any new USB devices due to error “Access is denied”, it can be frustrating. But don’t worry, here you will find the solution to fix the problem.  
   
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6862c6dbe8.png) .
 
 First, make sure that you login to computer as Administrator. If you are not logged in with Administrator, follow steps below to switch it to Administrator.  
   
 1\. Go to**Control Panel**and View by**Category**. Click**User Accounts**.(In your case, this may be “User Accounts and Family Safety”.)  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c68c5d7bf6a.jpg)
   
 2\. Click **Change your account type** and enter your password if necessary.
@@ -37,9 +31,6 @@ First, make sure that you login to computer as Administrator. If you are not log
   
  3\. Then click**Start** button and choose to **Log off**  of Windows, and then log back in again.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791bab2104ee.png)
 
 After that, reinstall the driver again.  
@@ -55,16 +46,10 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
 1\. Press**Win+R**(Windows key and R key) at the same time. A Run dialog will open.  
 2\. Type**regedit**in the run box and click**OK**button.
   
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6905ba04f8.png)
   
  3\. Go to **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\USBSTOR.** Right-click on it and select**Permissions…** from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c692c5d030c.jpg)
   
  4\. Select**SYSTEM** from the Group or user names. In Permissions for SYSTEM section, make sure the Full Control Allow checkbox is checked and uncheck any Deny checkbox. Click Apply button to apply the changes.  
@@ -84,8 +69,6 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,6 +76,33 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-understanding-the-disparities-youtube-versus-dailymotion/"><u>[New] Understanding the Disparities YouTube Versus Dailymotion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-capture-stunning-imagesfilms-using-easy-shifts/"><u>[Updated] Capture Stunning Images/Films Using Easy Shifts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-prosperity-through-streaming-a-youtube-money-blueprint/"><u>[Updated] In 2024, Prosperity Through Streaming A YouTube Money Blueprint</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-iphone-apps-for-daily-podcasts/"><u>[Updated] Top 5 iPhone Apps for Daily Podcasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unlocking-full-potential-advanced-nvidia-recorder-tips/"><u>[Updated] Unlocking Full Potential Advanced NVIDIA Recorder Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/broadcom-netlink-ethernet-drivers-compatible-updated-and-installed-for-windows-10-users/"><u>Broadcom NetLink Ethernet Drivers - Compatible, Updated & Installed for Windows 10 Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-12-proplus-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme 12 Pro+ 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-high-definition-hits-top-8k-cameras-for-professionals/"><u>In 2024, High-Definition Hits Top 8K Cameras for Professionals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/precision-gameplay-with-proximity-focus-in-roblox/"><u>Precision Gameplay with Proximity Focus in Roblox</u></a></li>
+<li><a href="https://driver-error.techidaily.com/remedying-the-failure-of-enex-driver-integration-in-win11/"><u>Remedying the Failure of eNEX Driver Integration in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-hardware-not-compatible-messages-in-idt-software-packages/"><u>Resolving 'Hardware Not Compatible' Messages in IDT Software Packages</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-incompatibility-how-to-install-needed-drivers-for-your-hardware-in-windows-xpvista7/"><u>Resolving Incompatibility: How to Install Needed Drivers for Your Hardware in Windows XP/Vista/7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamping-hp-omen-15s-latest-hardware-interface/"><u>Revamping HP Omen 15'S Latest Hardware Interface</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-device-id-33a0-in-acpi/"><u>Solving Device ID 33A0 in ACPI</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-for-when-your-computer-ignores-the-latest-plugged-in-usb/"><u>Step-by-Step Solutions for When Your Computer Ignores the Latest Plugged-In USB</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlock-optimal-performance-for-your-hp-envy-20-with-the-latest-driver-downloads/"><u>Unlock Optimal Performance for Your HP ENVY 20 with the Latest Driver Downloads</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlock-the-magic-of-bluetech-on-new-pc-with-this-quick-guide-fixed-windows-11-bluescreen-issue-done/"><u>Unlock the Magic of BlueTech on New PC with This Quick Guide - Fixed Windows 11 Bluescreen Issue – Done!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-cannot-locate-a-suitable-printer-driver-solved/"><u>Windows Cannot Locate a Suitable Printer Driver [SOLVED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winning-against-windows-7s-bsod-how-to-deal-with-error-code-0x0000007e-successfully/"><u>Winning Against Windows 7'S BSOD: How to Deal with Error Code 0X0000007E Successfully</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

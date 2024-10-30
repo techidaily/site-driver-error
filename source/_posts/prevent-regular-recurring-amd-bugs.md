@@ -1,7 +1,7 @@
 ---
 title: Prevent Regular Recurring AMD Bugs
-date: 2024-10-17T03:25:21.571Z
-updated: 2024-10-23T21:12:06.209Z
+date: 2024-10-25T20:40:46.346Z
+updated: 2024-10-29T22:15:34.420Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc92
 2. [**Roll back the faulty AMD driver**](https://zebaoaffiliateprogram.pxf.io/xkwqe1)
 3. **[Repair system files](https://newchic.sjv.io/jzg4zq)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Update the faulty AMD driver (nearly always fixes the problem)
 
  Perhaps the most common cause of the**AMD driver crash** error is an outdated or corrupt AMD driver. So you should update your AMD drivers to see if it fixes the problem.  If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -37,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc92
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/12/AMD-Radeon-RX-6700-XT.jpg)
@@ -63,22 +63,16 @@ Here’s how:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 2. Locate on **the faulty AMD driver** and double-click on it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click the **Driver** tab and then click **Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-1.png)
 4. Click **Yes** to confirm. Then the driver will be restored to a previous version.
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. **Restart** you computer and check if the problem is resolved.
 
@@ -88,6 +82,13 @@ Here’s how:
 
 1. [**Repair & replace corrupt system files with Fortect**](https://tinyland.pxf.io/org4ra)
 2. [**Run SFC scan**](https://homestyler.sjv.io/y209g3)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Repair & replace corrupt system files with Fortect
 
@@ -102,16 +103,17 @@ Here’s how to use Fortect to repair system files on your PC:
 3. Once finished, Fortect will generate a detailed report of your computer health, which includes all possible issues detected.
 4. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 5. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Check your computer to see if the driver crash issue is fixed.
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Run SFC scan
 
@@ -123,13 +125,6 @@ Here’s how to use Fortect to repair system files on your PC:
 
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 4. Restart your computer for the changes to take effect.
@@ -156,18 +151,24 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-analyzing-the-post-upload-process-in-youtubes-ecosystem/"><u>[New] 2024 Approved Analyzing the Post-Upload Process in YouTube's Ecosystem</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-clear-background-in-picsart/"><u>[New] Step-by-Step Guide Clear Background in Picsart</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-advanced-tips-for-smooth-transitions-and-effects-in-gopro-studio/"><u>2024 Approved Advanced Tips for Smooth Transitions and Effects in GoPro Studio</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-essential-guide-to-youtube-trailer-editing-with-filmora/"><u>2024 Approved The Essential Guide to YouTube Trailer Editing with Filmora</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/facebook-videos-vertical-or-horizontal-for-2024/"><u>Facebook Videos; Vertical or Horizontal for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/innovative-approach-to-networking-top-10-budget-friendly-apps/"><u>Innovative Approach to Networking: Top 10 Budget-Friendly Apps</u></a></li>
-<li><a href="https://article-tips.techidaily.com/invisible-strategies-to-avoid-home-school-vids-for-2024/"><u>Invisible Strategies to Avoid Home School Vids for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/remedying-inability-to-use-windows-enter-key/"><u>Remedying Inability to Use Windows Enter Key</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-xs-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone XS Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-issue-initialization-fails-due-to-battleye-driver-error-code-1450/"><u>Resolved Issue: Initialization Fails Due to BattlEye Driver Error Code 1450</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-non-functioning-qualcomm-atheros-bluetooth-drivers-in-windows-10-step-by-step-guide/"><u>Resolving Non-Functioning Qualcomm Atheros Bluetooth Drivers in Windows 10: Step by Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-free-ai-tools-for-creating-images-from-scratch/"><u>Top 5 Free AI Tools for Creating Images From Scratch</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-driver-load-problem-in-battleye-service-with-error-message-1450/"><u>Troubleshooting Steps for 'Driver Load Problem' In BattlEye Service with Error Message (1450)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-capturing-every-angle-how-to-post-360-photos-on-androidios-for-2024/"><u>[New] Capturing Every Angle How to Post 360 Photos on Android/iOS for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-elevating-your-social-media-presence-with-igtv-videos-for-2024/"><u>[New] Elevating Your Social Media Presence with IGTV Videos for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-screen-saga-a-thousand-stories-one-channel-at-a-time-for-2024/"><u>[Updated] Screen Saga A Thousand Stories, One Channel at a Time for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-complete-windows-10-know-how-reference/"><u>[Updated] The Complete WINDOWS 10 Know-How Reference</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210199809-9781631597077-10-minute-magic-spells/"><u>10-Minute Magic Spells | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerating-your-online-gaming-experience-with-discord-on-windows/"><u>Accelerating Your Online Gaming Experience with Discord on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensuring-smooth-gaming-regularly-update-windows-10s-deadrivers/"><u>Ensuring Smooth Gaming: Regularly Update Windows 10'S DeaDrivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-resolution-for-acpi-devices-33a0/"><u>Error Resolution for Acpi Devices 33A0</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-premier-choices-beyond-chatgpt/"><u>Exploring the Premier Choices Beyond ChatGPT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-inoperative-right-click-not-working-on-windows-11-touchpad/"><u>Fix: Inoperative Right-Click Not Working on Windows 11 Touchpad</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hd-audio-bus-driver-problem-solved/"><u>HD Audio Bus Driver: Problem Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-gtx-nine-fifty-zero-code-43-issue-in-microsofts-latest-operating-system/"><u>How to Fix the GTX Nine-Fifty Zero 'Code 43' Issue in Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-youtube-cpm-rates-how-much-do-youtubers-make/"><u>In 2024, YouTube CPM Rates How Much Do YouTubers Make</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-fix-for-handbrake-dvd-error-step-by-step-tutorial/"><u>Mastering the Fix for Handbrake DVD Error: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconnect-your-lost-logitech-brio-webcam-expert-advice-on-windows-os-upgrade-issue-resolution-fixed/"><u>Reconnect Your Lost Logitech Brio Webcam: Expert Advice on Windows OS Upgrade Issue Resolution [Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-non-functional-qualcomm-atheros-bluetooth-driver-on-windows-10-systems/"><u>Troubleshooting and Solving Non-Functional Qualcomm Atheros Bluetooth Driver on Windows 10 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-lenovos-bluetooth-on-windows-10/"><u>Troubleshooting Lenovo's Bluetooth on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-resolving-sound-problems-in-outriders/"><u>Ultimate Guide: Resolving Sound Problems in Outriders</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-and-nvidia-geforce-gtx-950-code-43-error-solutions-and-workarounds/"><u>Windows 11 and NVIDIA GeForce GTX 950 Code 43 Error: Solutions and Workarounds</u></a></li>
 </ul></div>
 

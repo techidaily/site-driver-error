@@ -1,7 +1,7 @@
 ---
 title: Step by Step Fix HP Laptop Keyboard Not Working Issue
-date: 2024-10-16T20:09:30.757Z
-updated: 2024-10-24T06:11:34.112Z
+date: 2024-10-25T04:08:58.691Z
+updated: 2024-10-29T21:14:48.759Z
 tags:
   - win11
   - win10
@@ -41,35 +41,21 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Step 2: Check Keyboard Settings**
 
 1) Click your**Start**button, then choose**Settings**icon from it. Then choose**Time & language**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcfa0068ce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) On the left side of the pane, choose**Region & language**, then on the right side, make sure that the language is set to**English (United States)**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd71980796.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If not, click the**Options**button as shown in the screen shot.
@@ -80,20 +66,34 @@ Then make sure the Keyboards is selected as**US**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Step 3: Try an External Keyboard**
 
 If you have tried the above methods but they are not helpful, you may need to plug in a USB external keyboard and see if the second keyboard works. 1) If the external keyboard**works perfectly**, then you need to consider searching and downloading the latest version of the laptop driver from HP support. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). You can try its Free version, and update your drivers one by one. Or you can update all your missing and outdated drivers automatically with just one-click with Driver Easy [**Pro version**](https://tools.techidaily.com/drivereasy/download/). No worry to try it as it comes with a no-questions-asked 30-day money-back guarantee and professional tech support 24/7\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
-2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
 
 ## **Step 4:** **Perform a Hard Reset**
 
@@ -117,22 +117,24 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-understanding-macos-11-big-sur-transition-tips/"><u>[New] Understanding macOS 11 Big Sur Transition Tips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-bcm20702a0-driver-is-unavailable-error/"><u>[SOLVED] BCM20702A0 Driver Is Unavailable Error</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-seamless-integration-of-switch-pro-into-steam-games/"><u>[Updated] 2024 Approved Seamless Integration of Switch Pro Into Steam Games</u></a></li>
-<li><a href="https://driver-error.techidaily.com/download-microsoft-xbox-one-controller-driver-for-windows/"><u>Download Microsoft Xbox One Controller Driver for Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-install-necessary-drivers-on-windows-pcs-windows-11-8-and-7/"><u>How to Install Necessary Drivers on Windows PCs (Windows 11, 8, and 7)</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-to-restore-accidentally-erased-documents-in-windows-11-quick-methods/"><u>How To: Restore Accidentally Erased Documents in Windows 11 - Quick Methods!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-video-intros-selecting-from-top-15-youtube-sets-for-2024/"><u>Ideal Video Intros Selecting From Top 15 YouTube Sets for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-essence-of-dji-inspire-2-distilled/"><u>In 2024, The Essence of DJI Inspire 2 Distilled</u></a></li>
-<li><a href="https://driver-error.techidaily.com/making-the-most-out-of-your-elan-on-latest-windows-11/"><u>Making the Most Out of Your Elan on Latest Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/managing-100-disk-usage-in-win1110/"><u>Managing 100% Disk Usage in Win11/10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-bluetooth-connectivity-on-windows-10-top-solutions-and-advice/"><u>Mastering Bluetooth Connectivity on Windows 10 - Top Solutions & Advice</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mouse-troubleshoot-invisible-hand-in-windows/"><u>Mouse Troubleshoot - Invisible Hand in Windows</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-no-fuss-no-muss-5-simple-online-tone-generators-free-for-2024/"><u>New No Fuss, No Muss 5 Simple Online Tone Generators Free for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-warzone-stutter-a-step-by-step-guide-to-resolve-screenshots-and-shakes/"><u>Overcoming Warzone Stutter: A Step-by-Step Guide to Resolve Screenshots and Shakes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-missing-drivers-issue-on-windows-windows-11-8-and-7-guide/"><u>Resolving Missing Drivers Issue on Windows: Windows 11, 8 & 7 Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/synchronize-win7-dell-touchpad-response/"><u>Synchronize Win7 Dell Touchpad Response</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-echo-of-valyria-prime-destinations-for-tts-downloads/"><u>The Echo of Valyria Prime Destinations for TTS Downloads</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-hd-drivers-in-windows-11/"><u>[Fixed] HD Drivers in Windows 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-skyward-gazing-inside-the-world-of-x4-fpv-quads-for-2024/"><u>[New] Skyward Gazing Inside the World of X4 FPV Quads for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-hd-capture-software-for-windows-and-macos/"><u>[New] Ultimate HD Capture Software for Windows & macOS</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-produce-fb-profile-visuals/"><u>[Updated] Produce FB Profile Visuals</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensively-manage-app-packages-with-winget-on-win11/"><u>Comprehensively Manage App Packages with Winget on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-the-wireless-keyboard-failure-in-microsofts-operating-system/"><u>Diagnosing and Repairing the Wireless Keyboard Failure in Microsoft's Operating System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-make-usb-audio-device-work-in-windows-10/"><u>How To Make USB Audio Device Work in Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-pova-5-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Pova 5 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-projects-through-music-addition-in-premiere-pro/"><u>In 2024, Perfecting Projects Through Music Addition in Premiere Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/konvertieren-von-midi-dateien-in-waveform-fur-windows-10-kostenlos-mit-open-source-tools/"><u>Konvertieren Von Midi-Dateien in Waveform (Für Windows 10) Kostenlos Mit Open Source Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-disconnected-touchpad-driver-recovery-success/"><u>No More Disconnected Touchpad: Driver Recovery Success</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ranking-the-leading-audio-modifying-mobile-apps/"><u>Ranking the Leading Audio-Modifying Mobile Apps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-laptop-drivers-for-an-optimized-acpi-experience/"><u>Resolving Laptop Drivers for an Optimized Acpi Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-missing-media-device-problem-in-windows-1011/"><u>Solve Missing Media Device Problem in Windows 10/11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-fix-recovering-a-lost-coprocessor-driver-on-windows-11-devices/"><u>Step-by-Step Fix: Recovering a Lost Coprocessor Driver on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-to-restore-functionality-in-lenovo-finger-scanning-technology/"><u>Step-by-Step Fixes to Restore Functionality in Lenovo Finger Scanning Technology</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-and-compressed-memory-high-disk-usage-on-windows-11-solved/"><u>System and Compressed Memory High Disk Usage on Windows 11 [Solved]</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210348072-9782226390578-tisser-le-lien/"><u>Tisser le lien | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixes-for-hp-wireless-keyboard-connectivity-issues/"><u>Troubleshooting Guide: Fixes for HP Wireless Keyboard Connectivity Issues</u></a></li>
 </ul></div>
 

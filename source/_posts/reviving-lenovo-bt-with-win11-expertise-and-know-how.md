@@ -1,7 +1,7 @@
 ---
 title: Reviving Lenovo BT with Win11 Expertise and Know-How
-date: 2024-10-21T03:04:21.366Z
-updated: 2024-10-24T07:39:16.833Z
+date: 2024-10-24T01:49:38.034Z
+updated: 2024-10-30T00:31:21.942Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 * [Option 3: Update Bluetooth driver](https://lightailing.sjv.io/k0ez0m)
 * [Option 4: Perform a refresh](https://collovinc.sjv.io/jrkzwp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 1: Enable Bluetooth hardware
 
 **NOTE** : Please make sure that your computer has the necessary hardware and your wireless is turned on. Also, check the support website of Lenovo to make sure that your device is Bluetooth capable.
@@ -46,27 +53,33 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7d4daf634.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) If you see a down arrow, your Bluetooth device is disabled, just right-click the item and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b810d497f1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) If you see a yellow exclamation mark next to your Bluetooth driver, your Bluetooth hardware is not responding or set up correctly. You can refer to **Option 3** for more help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 2: Enable discovery mode
 
@@ -74,16 +87,16 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e564dcca0a6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 3: Update Bluetooth driver
 
@@ -98,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver-scan.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -132,20 +138,18 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/resolved-asus-keys-no-light/"><u>[RESOLVED] Asus Keys No Light</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-drone-trail-tech-your-number-1-picks-for-personal-use/"><u>[Updated] 2024 Approved Drone Trail Tech Your Number 1 Picks for Personal Use</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-introduction-to-cinematic-graphics-techniques/"><u>[Updated] In 2024, Introduction to Cinematic Graphics Techniques</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-k70-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi K70 Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-performance-in-depth-analysis-of-the-tp-link-archer-a9-router-below-100/"><u>Affordable Performance: In-Depth Analysis of the TP-Link Archer A9 Router Below $100</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-infinix-smart-8-hd-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Infinix Smart 8 HD Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/introducing-the-minisforum-s100-a-pocket-computer-with-poe-and-25gbe-connectivity/"><u>Introducing the Minisforum S100: A Pocket Computer with PoE and 2.5GbE Connectivity</u></a></li>
-<li><a href="https://driver-install.techidaily.com/regenerate-mouse-interface-on-winx7-os/"><u>Regenerate Mouse Interface on WINX/7 OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/seamless-iphone-data-sharing-made-possible-by-resolving-usb-device-driver-hiccups/"><u>Seamless iPhone Data Sharing Made Possible by Resolving USB Device Driver Hiccups</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solution-guide-installing-missing-drivers-on-your-device-compatible-with-older-versions-of-windows/"><u>Solution Guide: Installing Missing Drivers on Your Device Compatible with Older Versions of Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/strategies-to-tackle-intel-mmc-errors/"><u>Strategies to Tackle Intel MMC Errors</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-transforming-everyday-mac-users-into-pro-voice-recording-enthusiasts-a-beginners-approach-for-2024/"><u>Updated Transforming Everyday Mac Users Into Pro Voice Recording Enthusiasts A Beginners Approach for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/vehicle-compatibility-problem-with-gadget/"><u>Vehicle Compatibility Problem with Gadget</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-users-samsung-driver-installation/"><u>Windows Users: Samsung Driver Installation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unraveling-visual-clarity-for-the-new-digital-age/"><u>[New] Unraveling Visual Clarity for the New Digital Age</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-captureelite-pro-windows-enhanced/"><u>[Updated] 2024 Approved CaptureElite Pro Windows Enhanced</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-blueprint-making-inspiring-lifestyle-broadcasts/"><u>2024 Approved Blueprint Making Inspiring Lifestyle Broadcasts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-capturing-every-moment-an-overview-of-apowersofts-screenshot-tool/"><u>2024 Approved Capturing Every Moment An Overview of Apowersoft's Screenshot Tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4movavi-video-files-of-xiaomi-redmi-k70e-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ight-safe-techniques-for-youtube-to-mp4/"><u>Copyright-Safe Techniques for Youtube-to-MP4</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ate-search-results-essential-tips-for-optimizing-youtube-videos/"><u>Dominate Search Results Essential Tips for Optimizing YouTube Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gpu-reveal-understanding-basic-display-adapter-bda/"><u>GPU Reveal: Understanding Basic Display Adapter (BDA)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-the-gtx-950-code-43-error-in-windows-11-step-by-step-solutions/"><u>How to Resolve the GTX 950 Code 43 Error in Windows 11 - Step-by-Step Solutions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone 15 Pro Max</u></a></li>
+<li><a href="https://driver-error.techidaily.com/puzzle-solving-windows-10-elan-pad-glitches/"><u>Puzzle-Solving: Windows 10 Elan Pad Glitches</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seagate-external-drive-not-found-tips-to-spot-it-in-w10/"><u>Seagate External Drive Not Found: Tips to Spot It in W10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/your-guide-to-affordable-quality-live-streaming-on-smartphones-for-2024/"><u>Your Guide to Affordable, Quality Live Streaming on Smartphones for 2024</u></a></li>
 </ul></div>
 

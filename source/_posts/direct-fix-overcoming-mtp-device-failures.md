@@ -1,7 +1,7 @@
 ---
 title: "Direct Fix: Overcoming MTP Device Failures"
-date: 2024-08-15T06:36:40.359Z
-updated: 2024-08-16T06:36:40.359Z
+date: 2024-10-28T19:26:12.167Z
+updated: 2024-10-30T03:18:33.334Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ## Direct Fix: Overcoming MTP Device Failures
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/mtp-usb-device-wan-not-successfully-installed.png)
 
  If you’re connecting your mobile phone to your computer, and you see a message saying_**MTP USB Device Failed**_ , you’re not alone. Many Windows users are reporting it. No worries, it’s possible to fix. Here are 5 fixes for you to try.
@@ -36,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
  Method 4:[**Repair Registry Settings**](https://bluettide.pxf.io/ekmjb2)
  Method 5:[**Install MTP Porting Kit**](https://vapordna.pxf.io/vnbxna)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1: Rule Out Hardware Problem
 
  Before we begin, we would like to make sure that your hardware is problem free. Please try connect your mobile phone to another USB port to see if the result is the same.
@@ -43,6 +47,20 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
  You should try to connect via both the rear and front connectors. If the result remains the same, please try connecting your other mobile phone to the same USB port to see where could be problem be.  If the above checks out that your hardware is problem free, please make sure you enable the debugging in the settings in your mobile phone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/debugging.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2: Update the MTP USB Driver
 
@@ -66,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afc071708b0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3: Run Command**
 
  If you don’t have the administrator permission to your PC, you’ll fail to use some functions. To fix it:
@@ -76,9 +101,6 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
  Click **Yes** at the prompted window.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57bd596db6742.jpg)
 
  2) In**Command Prompt** window, copy and paste in the following command:
@@ -91,9 +113,6 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
  3) See if you can connect your Samsung mobile phone to your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **4: Repair Registry Settings**
 
 **Warning** : Using**Registry Editor** incorrectly can cause serious, system-wide, unrecoverable errors to your computer. So before you proceed, please make sure that you have it [**backed up**](https://tools.techidaily.com/drivereasy/download/) first.
@@ -103,6 +122,19 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
  1) On your keyboard, click the **Start**  button. Type **regedit** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/regedit-in-start-panel.png)
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click**Yes** at the prompt window.
 
@@ -117,11 +149,15 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/portable-devices.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) On the right hand pane, you’ll see the**(Default)** value**Portable Devices** on the string.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/portable-devices-default-value.jpg)
 
  5) If you can see**UpperFilters** here, right-click it and click **delete.**
@@ -130,9 +166,6 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
  6)**Exit** Registry Editor.**Reboot** your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **5: Install MTP Porting Kit**
 
  1) Download**MTP Porting Kit** from Microsoft official website**[here](https://www.microsoft.com/en-us/download/)** . Then double click it to install the setup file.
@@ -151,8 +184,6 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,6 +191,19 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-behind-the-scenes-mastering-the-craft-of-streaming-archiving-for-2024/"><u>[New] Behind the Scenes Mastering the Craft of Streaming Archiving for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unmatched-budget-friendly-camera-challenges/"><u>[New] Unmatched Budget-Friendly Camera Challenges</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-broadcast-repeat-looping-youtube-video-magic-for-your-setup/"><u>[Updated] Broadcast Repeat Looping YouTube Video Magic for Your Setup</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-enriching-slides-video-incorporation-from-youtube-for-2024/"><u>[Updated] Enriching Slides Video Incorporation From YouTube for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-audio-masterpieces-using-audacity-for-2024/"><u>Capturing Audio Masterpieces Using Audacity for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-record-gameplay-on-ps4/"><u>How to Record Gameplay on PS4</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-malfunction-heres-what-you-need-to-know/"><u>HP Wireless Keyboard Malfunction? Here's What You Need to Know</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-windows-10-gesture-gone-wrong-with-elan/"><u>Resolving Windows 10 Gesture Gone Wrong with Elan</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/showcasing-8-online-marvels-3d-and-luxurious-text-visuals-for-2024/"><u>Showcasing 8 Online Marvels 3D & Luxurious Text Visuals for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-solution-to-your-epson-wf-7710-printer-driver-needs-on-windows-platforms-11-81-secure-download-inside/"><u>The Ultimate Solution to Your EPSON WF-7710 Printer Driver Needs on Windows Platforms (11, 8.1...) - Secure Download Inside</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-when-windows-ignores-your-last-connected-usb-device/"><u>Troubleshooting When Windows Ignores Your Last Connected USB Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-supports-new-devices-successfully/"><u>Windows Supports New Devices Successfully</u></a></li>
+</ul></div>
 

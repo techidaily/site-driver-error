@@ -1,7 +1,7 @@
 ---
 title: Solved Error #48 on Device Hub
-date: 2024-10-17T03:32:47.217Z
-updated: 2024-10-24T06:45:11.701Z
+date: 2024-10-24T05:02:01.167Z
+updated: 2024-10-29T18:00:26.158Z
 tags:
   - win11
   - win10
@@ -29,6 +29,19 @@ To check if the device is running into the error code 48:
 
 `"The driver for this device has been blocked from starting because it is known to have problems with Windows. Contact the hardware vendor for a new driver. (Code 48)"`
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Windows users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -37,13 +50,6 @@ To check if the device is running into the error code 48:
 2. **[Disable Hyper-V](https://godlikehost.sjv.io/vnbxzv)**
 3. **[Turn off Memory Integrity in Core isolation](https://aligracehair.sjv.io/y209r3)**
 4. **[Run the System File Checker and the Windows Memory Diagnostic Test](https://parisrhonecom.sjv.io/zqobqr)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 1: Update your driver
 
@@ -76,22 +82,8 @@ Or
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-drivers-with-Driver-Easy.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and [manually install them, the normal Windows way](https://tools.techidaily.com/drivereasy/download/) .)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your PC and check if this issue persists.
 
@@ -111,30 +103,31 @@ Or
 ![appwiz.cpl](https://images.drivereasy.com/wp-content/uploads/2021/04/appwiz.cpl_.jpg)
 2. Click**Turn Windows features on or off** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn Windows features on or off](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-Windows-features-on-or-off.jpg)
 3. In the Window that pops up,**uncheck the box** next to**Hyper-V** and click**OK** to disable the Hyper-V feature.  
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Disable the Hyper-V feature](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Hyper-V-feature.jpg)
 4. Restart Windows 10 to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this fix didn’t work, try the next fix to turn off Memory Integrity.
@@ -151,8 +144,22 @@ To turn off Memory Integrity, simply follow the steps below:
 ![Open Core isolation](https://images.drivereasy.com/wp-content/uploads/2021/04/Open-Core-isolation.jpg)
 2. **Turn off** the toggle under**Memory integrity** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off Memory integrity](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Memory-integrity.jpg)
 3. Restart Windows 10 and reinstall the latest driver of the problematic device.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 See if this fix works. If not, try the next fix, below.
 
@@ -167,13 +174,6 @@ See if this fix works. If not, try the next fix, below.
 **`sfc /scannow`**  
 ![run system file checker](https://images.drivereasy.com/wp-content/uploads/2021/04/run-system-file-checker.jpg)
 3. Close the Command Prompt window after the process ie complete.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **To run the Windows Memory Diagnostic Test:**
 
@@ -212,22 +212,22 @@ See if this fix works. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-transform-your-video-appeal-incorporating-own-thumbnails/"><u>[Updated] 2024 Approved Transform Your Video Appeal Incorporating Own Thumbnails</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-secrets-of-bulk-downloads-maximizing-your-tiktok-video-collection-for-2024/"><u>[Updated] Secrets of Bulk Downloads Maximizing Your TikTok Video Collection for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-setup-made-simple-installing-vrecorder/"><u>[Updated] Setup Made Simple Installing VRecorder</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ax201-resolved-wi-fi-6-connectivity-issue/"><u>AX201: Resolved Wi-Fi 6 Connectivity Issue</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103988990-bluetooth-fixes-windows-problems-resolved/"><u>Bluetooth Fixes: Windows Problems Resolved!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-your-social-presence-on-instagram-by-using-trending-gifs-in-conversations/"><u>Boost Your Social Presence on Instagram by Using Trending GIFs in Conversations</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bypass-the-access-denied-hurdle-in-your-usb-setup-process-essential-tips-and-tricks/"><u>Bypass the 'Access Denied' Hurdle in Your USB Setup Process: Essential Tips and Tricks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/clearing-up-high-quality-audio-message/"><u>Clearing Up High-Quality Audio Message</u></a></li>
-<li><a href="https://driver-error.techidaily.com/decoding-full-disk-alerts-in-win11-taskbar/"><u>Decoding Full Disk Alerts in Win11 Taskbar</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/driveease-expert-analysis/"><u>DriveEase Expert Analysis</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-immerse-in-imagery-top-10-sticker-apps-for-appleandroid-users/"><u>In 2024, Immerse in Imagery – Top 10 Sticker Apps for Apple/Android Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-using-telegram-online-for-2024/"><u>Mastering the Art of Using Telegram Online for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102855021-missing-dvdcd-driver-on-win11-fixed/"><u>Missing DVD/CD Driver on Win11? Fixed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/relying-on-chatgpt-for-wilderness-rescue-myth-or-reality/"><u>Relying on ChatGPT for Wilderness Rescue: Myth or Reality?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ts-to-acquiring-free-audio-tracks-for-videos/"><u>Secrets to Acquiring Free Audio Tracks for Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102137972-usb-device-not-recognized-in-windows-heres-how-to-fix-it/"><u>USB Device Not Recognized in Windows? Here's How to Fix It</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102696742-what-to-do-when-dolby-pro-logic-iix-doesnt-work-on-windows-resolved/"><u>What to Do When Dolby Pro Logic IIx Doesn't Work on Windows? - Resolved!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-ultimate-screen-recording-hack-for-instagram-stories/"><u>[New] In 2024, The Ultimate Screen Recording Hack for Instagram Stories</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mac-methods-for-cleaner-instagram-video-edits/"><u>[Updated] 2024 Approved Mac Methods for Cleaner Instagram Video Edits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-srgb-vs-rgb-decoding-color-standards-for-devices/"><u>[Updated] Srgb vs Rgb Decoding Color Standards for Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-recording-made-simple-a-comprehensive-guide-to-archiving-roblox-games-on-your-macbook/"><u>2024 Approved Recording Made Simple A Comprehensive Guide to Archiving Roblox Games on Your MacBook</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-fix-wsd-device-on-windows-os/"><u>Driver Fix: WSD Device on Windows OS</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/effortlessly-transition-between-devices-a-4-step-guide-for-moving-apps-in-the-android-world/"><u>Effortlessly Transition Between Devices: A 4-Step Guide for Moving Apps in the Android World</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-solving-last-usb-malfunction-and-recognition-issues-on-your-computer-with-windows/"><u>Expert Tips: Solving Last USB Malfunction & Recognition Issues on Your Computer with Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-finding-and-installing-the-latest-software-drivers-on-your-hp-envy-20-computer-system/"><u>Guide: Finding & Installing the Latest Software Drivers on Your HP ENVY 20 Computer System</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-renewed-view-of-sony-s3700-2023-edition/"><u>In 2024, The Renewed View of Sony S3700 2023 Edition</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nexus-s-not-recognized-by-elementary-os-5-juno-solution-found-108-characters/"><u>Nexus S Not Recognized by Elementary OS 5 Juno - Solution Found (108 Characters)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-bluetooth-interference-asus-webcam-plus-windows-11/"><u>Resolved Bluetooth Interference: ASUS Webcam + Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-bluetooth-addition-to-device-control-panel/"><u>Restoring: Bluetooth Addition to Device Control Panel</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsung-phone-os-win-setup-guide/"><u>Samsung Phone OS: Win Setup Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-free-and-functional-video-editing-software-for-32-bit-windows-for-2024/"><u>Updated Free and Functional Video Editing Software for 32-Bit Windows for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-vista-cant-recognize-acer-aspire-e1-572-laptop-solved/"><u>Windows Vista Can't Recognize Acer Aspire E1-572 Laptop [Solved]</u></a></li>
 </ul></div>
 

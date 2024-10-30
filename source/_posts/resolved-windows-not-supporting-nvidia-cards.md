@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Windows Not Supporting Nvidia Cards"
-date: 2024-10-19T05:20:11.190Z
-updated: 2024-10-24T08:03:18.418Z
+date: 2024-10-23T01:41:43.538Z
+updated: 2024-10-30T00:00:49.228Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Show hidden devices
 
  If you recently got a new graphics card for your computer, then there’s a good chance it shows up as hidden. So we might have to un-hide it. Here’s a quick run-down:
@@ -43,26 +36,26 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91effe026eb.png)
 2. Click **View**   and then click **Show hidden devices** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/windows11showhiddendevices.jpg)
 3. Click **Action** \> **Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9234ccb8e93.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Check if your Nvidia graphics driver shows up under the **Display adapters** category as a gray-out device, i.e. it looks pale compared to other functioning devices. If so, right-click your Nvidia display card and select**Uninstall device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-30.png)
 5. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-32.png)
 6. Then restart your computer.
@@ -70,6 +63,19 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 7. If the Nvidia display card remains disappeared when your computer restarts, don’t worry, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -85,14 +91,14 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/nvidia-graphics.png)
 4. **Restart** your computer, then check if the**graphics card not detected** problem is resolved. If yes, then congrats! But if the issue remains, please move on to**Fix 3** , below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ## Fix 3: Update your BIOS
 
@@ -119,16 +125,10 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
@@ -158,21 +158,16 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-principles-of-clear-and-persuasive-messaging-for-social-media-ads/"><u>[Updated] 2024 Approved Principles of Clear & Persuasive Messaging for Social Media Ads</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-anonymous-no-more-bringing-back-fb-sessions/"><u>[Updated] Anonymous No More Bringing Back Fb Sessions</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-ensuring-authenticity-of-your-youtube-account/"><u>[Updated] Ensuring Authenticity of Your YouTube Account</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enabling-sound-device-in-windows-10-via-usb-connection/"><u>Enabling Sound Device in Windows 10 via USB Connection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-top-displayed-calculator-on-pcs/"><u>Ensuring Top-Displayed Calculator on PCs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-guide-ralink-bluetooth-driver-compatibility-challenges-in-windows-11-systems/"><u>Fix Guide: Ralink Bluetooth Driver Compatibility Challenges in Windows 11 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-lenovo-y570-driver-issues-for-windows-11/"><u>Fix Lenovo Y570 Driver Issues for Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-gtx-43-trouble-solutions-for-gpu-malfunctions-in-windows-11/"><u>Fixing GTX #43 Trouble: Solutions for GPU Malfunctions in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-realteks-nonfunctional-interface-after-upgrade/"><u>Fixing Realtek's Nonfunctional Interface After Upgrade</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-issues-with-outdated-usb-composite-devices-expert-advice/"><u>How to Fix Issues with Outdated USB Composite Devices - Expert Advice</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oppo-k11x-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Oppo K11x for Free? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-and-rating-of-the-sumind-bt70b-fm-transmitter/"><u>In-Depth Analysis and Rating of the Sumind BT70B FM Transmitter</u></a></li>
-<li><a href="https://driver-error.techidaily.com/preventing-nvidia-drivers-from-failure/"><u>Preventing Nvidia Drivers From Failure</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-itel-a60-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Itel A60</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-access-violation-bugs-in-civilization-vi-what-you-need-to-know-for-the-2024-fix/"><u>Troubleshooting Access Violation Bugs in Civilization VI - What You Need to Know for the 2024 Fix</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-blackberry-storm-3/"><u>Unveiling the Secrets of BlackBerry Storm 3</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bring-back-your-touchpad-driver-missing-heres-what-you-can-do/"><u>Bring Back Your Touchpad: Driver Missing? Here's What You Can Do</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/celebrating-the-best-movies-that-evoke-hope-and-courage-for-2024/"><u>Celebrating the Best Movies that Evoke Hope and Courage for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-libre-y-gratuita-de-musica-flac-a-video-wmv-en-linea-una-guia-paso-por-paso-con-movavi/"><u>Conversión Libre Y Gratuita De Música FLAC a Vídeo WMV en Línea: Una Guía Paso Por Paso Con Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-your-iphones-media-transport-problem-with-updated-usb-drivers/"><u>How to Resolve Your iPhone's Media Transport Problem with Updated USB Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-restore-functionality-of-unresponsive-usb-wireless-keyboards-with-windows-os/"><u>How to Restore Functionality of Unresponsive USB Wireless Keyboards with Windows OS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/igniting-instagram-interest-maximizing-content-reach-and-interactions/"><u>Igniting Instagram Interest Maximizing Content Reach and Interactions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-illustration-insights-elevating-text-in-three-dimensions/"><u>In 2024, Illustration Insights Elevating Text in Three Dimensions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-windows-11s-elan-pad-hurdles-for-smooth-use/"><u>Overcoming Windows 11'S Elan Pad Hurdles for Smooth Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagining-gaming-through-xboxs-cloud-service/"><u>Reimagining Gaming Through Xbox's Cloud Service</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simple-methods-to-upgrade-and-enhance-your-gaming-experience-with-updated-gtx-1660-drivers/"><u>Simple Methods to Upgrade and Enhance Your Gaming Experience with Updated GTX 1660 Drivers</u></a></li>
 </ul></div>
 

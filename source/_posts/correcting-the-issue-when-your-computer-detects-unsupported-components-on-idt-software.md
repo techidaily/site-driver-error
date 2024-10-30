@@ -1,7 +1,7 @@
 ---
 title: Correcting the Issue When Your Computer Detects Unsupported Components on IDT Software
-date: 2024-08-15T06:39:41.102Z
-updated: 2024-08-16T06:39:41.102Z
+date: 2024-10-22T19:30:01.878Z
+updated: 2024-10-29T19:35:37.301Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 
 ## Correcting the Issue When Your Computer Detects Unsupported Components on IDT Software
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a96722da247d.png)
 
  When you’re installing IDT audio driver, if you can’t install the driver successfully and get error message: _**The hardware detected is not supported by this IDT software package**_  ._**The install will be aborted**_ . Don’t worry. You can install the driver successfully by following the steps below.  
@@ -56,16 +53,10 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 
  2\. Type**devmgmt.msc** and press**Enter** on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968b1342462.png)
 
  3\. Double click “**Sound,video and game controllers** ” to expand the list of audio devices.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968b659c34e.png)
 
  4\. Under this list, right click the**IDT audio device** and select**Update driver** (In some cases, this could be**Update driver software** .).
@@ -87,16 +78,10 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
   
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968f4ea6646.png)
 
  3) Click the Update button next to a flagged**IDT audio driver** to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a968f5c917bc.jpg)
 
  Hope you can install or update the IDT audio driver successfully with the tips in this article. If you have any questions or ideas, please leave your comment. I always love to hear of any comments.
@@ -110,8 +95,6 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,6 +102,27 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-content-strategies-skyrocket-your-ranking/"><u>[Updated] 2024 Approved YouTube Content Strategies Skyrocket Your Ranking</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-unconnected-no-matching-software/"><u>Device Unconnected: No Matching Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-solutions-to-address-itbm-driver-access-problems-fast/"><u>Easy Solutions to Address ITBM Driver Access Problems Fast</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721099121150-ensure-that-the-latest-version-of-directx-is-installed/"><u>Ensure that the Latest Version of DirectX Is Installed</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-itel-p55plus-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Itel P55+ FRP Locks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-drivers-for-windows-installation-guide-for-windows-11-7-and-8/"><u>Latest NVIDIA Drivers for Windows: Installation Guide for Windows 11, 7, and 8</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mobile-vr-headsets-showdown-the-top-10-for-2024/"><u>Mobile VR Headsets Showdown The Top 10 for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-10-best-free-apps-for-blurring-faces-in-photos-and-videos-how-to-blur-faces-in-video-beginners-guide/"><u>New In 2024, 10 Best Free Apps for Blurring Faces in Photos and Videos How to Blur Faces in Video (Beginners Guide)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-driver-troubleshooting-and-solutions-for-windows-10-users/"><u>Qualcomm Atheros Bluetooth Driver Troubleshooting and Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-invalid-inf-configuration/"><u>Resolving Invalid INF Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-exploiting-the-power-of-windows-iscsi-initiator/"><u>Understanding and Exploiting the Power of Windows iSCSI Initiator</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-creativity-with-these-free-web-photo-editors/"><u>Unleash Creativity with These Free Web Photo Editors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-installation-failed-overcoming-access-is-denied-challenges-on-your-computer-system/"><u>USB Installation Failed - Overcoming Access Is Denied Challenges on Your Computer System</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: The Evolution and Resolution of Older USB Composite Device Issues
-date: 2024-10-17T01:01:54.033Z
-updated: 2024-10-23T23:43:50.375Z
+date: 2024-10-28T20:59:30.105Z
+updated: 2024-10-29T22:24:27.633Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 3. **[Use the Windows USB Troubleshooter](https://ukaidot.sjv.io/daqnoj)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your USB Composite Device driver
@@ -50,15 +50,16 @@ Fortunately, this is one of the easiest problems to fix.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb894ac5bd51.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb894ea5449a.jpg)
-4. Restart your computer and check if your USB Composite Device now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb894ea5449a.jpg)
+4. Restart your computer and check if your USB Composite Device now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 ---
 
@@ -69,13 +70,6 @@ Fortunately, this is one of the easiest problems to fix.
 1. On your keyboard, press the   **Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62735e40ac6.png)**  
 **key**  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  and  
 **R**  
   key simultaneously to open the Run box.
@@ -83,19 +77,26 @@ Fortunately, this is one of the easiest problems to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b616832c16a0.jpg)
 3. In Device Manger, scroll down to find**Universal Serial Bus controllers** and expand the entry.  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b61714f05a95.jpg)
 4. Right-click on the first USB device and select**Uninstall device**  to remove it.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Important:** Make sure you’ve saved any open files on your computer before you click**Uninstall device** , as you might need to force shutdown and restart later.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6171a9ae8b0.jpg)
 5. Repeat step 4) with every other USB device that is listed under the**Universal Serial Bus controllers** entry.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** Some USB devices have to do with your wired mouse, keyboard etc, which means uninstalling those devices will make them not working, don’t worry, just temporarily. As long as Windows restarts, it will automatically install the drivers again.
 6. Once you’ve uninstalled them all,**restart** your computer.  
@@ -132,18 +133,21 @@ Fortunately, this is one of the easiest problems to fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-beginning-film-making-download-previews/"><u>[New] Beginning Film Making Download Previews</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ow-youtube-snippets-can-boost-your-financial-goals/"><u>[New] How YouTube Snippets Can Boost Your Financial Goals</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-veiled-side-of-instagram-stories-what-youre-not-seeing-for-2024/"><u>[Updated] The Veiled Side of Instagram Stories What You're Not Seeing for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-easily-capturing-iphone-screens-on-the-go/"><u>2024 Approved Easily Capturing iPhone Screens on the Go</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driving-windows-home-smoothly-with-ndis-tips/"><u>Driving Windows Home Smoothly with NDIS Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elite-e-commerce-outposts-your-ultimate-gift-enclosure-hub/"><u>Elite E-Commerce Outposts Your Ultimate Gift Enclosure Hub</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-battleye-setup-issues-how-to-handle-the-infamous-driver-load-error-1450/"><u>Fixing BattlEye Setup Issues: How to Handle the Infamous Driver Load Error (1450)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/happiness-unplugs-wacom-gadgets-united/"><u>Happiness Unplugs: Wacom Gadgets United</u></a></li>
-<li><a href="https://driver-error.techidaily.com/in-depth-analysis-and-fixes-for-failed-to-initialize-battleye-service-with-driver-error-1450/"><u>In Depth Analysis and Fixes for 'Failed to Initialize BattlEye Service' With Driver Error 1450</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/instant-access-amd-ryzen-5-2600-quick-and-easy-method/"><u>Instant Access: AMD Ryzen 지팬 5 2600의 드라이버를 저장하세요 | Quick & Easy Method</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-driving-mercedes-fuses-chatgpt-and-voice-technology/"><u>Intelligent Driving: Mercedes Fuses ChatGPT & Voice Technology</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-nonfunctional-hardware-in-windows-11-8-or-7-driver-solutions-fixed/"><u>Troubleshoot Nonfunctional Hardware in Windows 11, 8 or 7: Driver Solutions [FIXED]</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/usb-c-revolution-in-monitors-hp-envy-27s-journey/"><u>USB-C Revolution in Monitors HP Envy 27'S Journey</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-opening-playing-and-organizing-your-srt-files-efficiently/"><u>[New] Opening, Playing, and Organizing Your SRT Files Efficiently</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-10-quick-diy-moviemaking-secrets-unveiled/"><u>[Updated] 10 Quick DIY Moviemaking Secrets Unveiled</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-first-home-frontier-top-6-beginner-friendly-mc-abodes/"><u>[Updated] First Home Frontier Top 6 Beginner-Friendly MC Abodes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-expert-tips-for-removing-persistent-youtube-channels-mobilepc/"><u>2024 Approved Expert Tips for Removing Persistent Youtube Channels (Mobile/PC)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/a-step-by-step-guide-to-utilizing-bandicams-capture-feature-for-2024/"><u>A Step-by-Step Guide to Utilizing Bandicam's Capture Feature for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/aiomei-backupperwindows/"><u>AIOMEI BackUpper:为Windows系统量身定制的简单而有效的备份与克隆工具</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-blocked-usb-installation-understanding-the-access-is-denied-message/"><u>Fixing Blocked USB Installation: Understanding the 'Access Is Denied' Message</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-windows-10/"><u>GTX 950에서 Code 43 문제 해결: Windows 10에 대한 고급 가이드</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-x9b-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-failed-task-runner-in-windows/"><u>Overcoming Failed Task Runner in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectified-low-res-webcam-quality-in-asus-and-windows-11-combo/"><u>Rectified Low Res Webcam Quality in ASUS & Windows 11 Combo</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solutions-for-unrecognized-usb-errors-in-windows-oses/"><u>Solutions for Unrecognized USB Errors in Windows OSes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/transitioning-instagram-video-to-mp3-format/"><u>Transitioning Instagram Video to Mp3 Format</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-enex-system-files-unload-in-win11/"><u>Troubleshooting eNEX System Files Unload in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-smooth-motion-and-responsive-ui/"><u>Win11: Smooth Motion & Responsive UI</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-streamline-your-bluetooth-setup/"><u>Windows 10: Streamline Your Bluetooth Setup</u></a></li>
 </ul></div>
 

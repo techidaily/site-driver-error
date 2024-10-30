@@ -1,7 +1,7 @@
 ---
 title: "Tackling Erratic Behavior: Windows 10 and Elan Pad"
-date: 2024-10-21T05:24:16.877Z
-updated: 2024-10-23T19:01:09.139Z
+date: 2024-10-22T16:35:19.461Z
+updated: 2024-10-29T21:23:33.319Z
 tags:
   - win11
   - win10
@@ -41,19 +41,6 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2: Reinstall your drivers
 
  Faulty drivers provided by Microsoft could be the reason why your touchpad stops working properly. To tackle this problem, you should reinstall the driver.
@@ -75,23 +62,10 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3: Stop automatic updates from Windows Update**
@@ -103,19 +77,33 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Right-clickyour computer icon and click **Device installation settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
 
@@ -134,22 +122,22 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gastronomic-genius-ideal-culinary-network-name-strategies/"><u>[New] 2024 Approved Gastronomic Genius Ideal Culinary Network Name Strategies</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-capture-unbroken-webspace/"><u>[New] In 2024, Capture Unbroken Webspace</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-easily-access-snapchat-on-mac-os/"><u>[Updated] 2024 Approved Easily Access Snapchat on Mac OS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-humor-synthesizer-zombified-appliances/"><u>[Updated] Humor Synthesizer Zombified Appliances</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-fixes-to-enhance-your-youtube-reach/"><u>2024 Approved Quick-Fixes to Enhance Your YouTube Reach</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-needs-more-free-available-resources/"><u>Device Needs More Free, Available Resources</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-signal-ideport0-system-issue/"><u>Error Signal: Ideport0 System Issue</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hd-audio-glitches-fixed-on-win11/"><u>HD Audio Glitches Fixed on Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/installing-latest-drivers-a-walkthrough-for-hp-envy-20-pc-users/"><u>Installing Latest Drivers: A Walkthrough for HP ENVY 20 PC Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-troubleshooting-for-correctly-setting-up-devices-resolving-code-1/"><u>Step-by-Step Troubleshooting for Correctly Setting Up Devices (Resolving Code 1)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tackle-wireless-laptop-connection-glitch/"><u>Tackle Wireless LAPTOP Connection Glitch</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-sound-savvy-mastering-podcast-playback-on-iphones-for-2024/"><u>The Sound Savvy Mastering Podcast Playback on iPhones for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-fixing-failed-hcmon-driver-installs-successfully/"><u>Troubleshooting Tips: Fixing Failed HCMon Driver Installs Successfully</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/virtual-valor-vault-excelling-with-top-adventures-in-gaming-for-2024/"><u>Virtual Valor Vault Excelling with Top Adventures in Gaming for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/what-are-the-earning-prospects-for-youtubers-from-branded-video-plays-in-2024/"><u>What Are the Earning Prospects for YouTubers From Branded Video Plays, In 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wireless-adapter-compatibility-no-more-resolved-with-windows-fix/"><u>Wireless Adapter Compatibility No More: Resolved with Windows Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-mouse-and-keyboard-glitch-on-windows-11/"><u>[Fixed] Mouse & Keyboard Glitch on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-sm-bus-operations-in-windows-11/"><u>[FIXED] Sm Bus Operations in Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-premium-voice-capture-apps-on-mac-the-best-five-ranked/"><u>[New] 2024 Approved Premium Voice Capture Apps on Mac The Best Five Ranked</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-newbie-to-zoom-whiz-in-no-time/"><u>[New] From Newbie to Zoom Whiz in No Time</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-free-tools-for-converting-youtube-videos/"><u>[New] In 2024, Best Free Tools for Converting YouTube Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repaired-responsive-keys-post-fixing-in-windows-11/"><u>[Repaired]: Responsive Keys Post-Fixing in Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-premium-screen-snapshot-tool-for-android-all-ages/"><u>[Updated] In 2024, Premium Screen Snapshot Tool for Android, All Ages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-unconventional-ways-to-engage-with-chatbots/"><u>5 Unconventional Ways to Engage with ChatBots</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-c67-4g-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y78t-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo Y78t Phone with Broken Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-11-pro-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 11 Pro Max to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/launch-issues-with-diablo-ii-resurrected-heres-what-you-can-do/"><u>Launch Issues with Diablo II Resurrected? Here's What You Can Do</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-drivers-cant-be-removed-solution-discovered/"><u>Nvidia Drivers Can't Be Removed - Solution Discovered</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-missing-driver-alert-finding-and-installing-supported-drives-in-windows-1087/"><u>Resolve Missing Driver Alert: Finding & Installing Supported Drives in Windows 10/8/7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsung-galaxy-tab-pro-lte-skip-detection-on-fedora-edge-solution-available/"><u>Samsung Galaxy Tab Pro LTE Skip Detection on Fedora Edge, Solution Available</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-for-windows-7-bsod-error-code-0x0000007e-critical-system-files-failed-to-load/"><u>Step-by-Step Solutions for Windows 7 BSoD Error Code: 0X0000007E - Critical System Files Failed to Load</u></a></li>
+<li><a href="https://driver-error.techidaily.com/united-win11-with-hd-audio-success/"><u>United Win11 with HD Audio Success</u></a></li>
 </ul></div>
 
