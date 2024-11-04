@@ -1,7 +1,7 @@
 ---
 title: "Wireless Adapter Compatibility No More: Resolved with Windows Fix"
-date: 2024-10-27T19:33:34.560Z
-updated: 2024-10-30T04:54:05.146Z
+date: 2024-10-31T18:16:28.433Z
+updated: 2024-11-04T21:42:35.553Z
 tags:
   - win11
   - win10
@@ -37,17 +37,51 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c37a43891ed.png)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Expand **Network adapters**  and double-click **Broadcom 802.11n network adapter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/broadcom-802-11n-network-adapter.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Go to the **Driver** tab and click **Update Driver…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/update-driver-option.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click **Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/browse-my-computer-for-driver-software.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click   **Let me pick from a list of device drivers on my computer.**
 
@@ -57,16 +91,16 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/have-disk.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Browse to **C:/(the name of your laptop manufacture)/drivers** and look for folder with the name similar to **R274634** . Double-click the folder and find the appropriate **.inf** file for your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/cthe-name-of-your-laptop-manufacturedrivers.png)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You should be able to see the name of the file ends with**.inf** .
 
@@ -75,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/inf-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8) Then you will be lead back to the **Install From Disk** window, press **OK** to continue.
@@ -86,10 +120,10 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/install-from-disk.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for the correct driver to be installed.
@@ -108,20 +142,6 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3: Update Software and Operating System
 
  Sometimes missing software updates and service packs could cause the Code 10 error in device manager. If you suspect this is the problem, it is suggested that you update and install the latest updates for Windows.
@@ -134,13 +154,6 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/ype-regedit-in-the-search-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Follow the path   **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\4D36E978-E325-11CE-BFC1-08002BE10318** and locate the the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/hkey_local_machinesystemcurrentcontrolsetcontrolclass4d36e978-e325-11ce-bfc1-08002be10318-600x494.jpg)
@@ -150,13 +163,6 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/delete-upperfilter-and-lowerfilter.png)
 
  4) If prompted to confirm the delete, click **Yes** . 5) Exit Registry Editor and restart the computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Hardware Compatibility Issues
 
@@ -177,24 +183,15 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-exploring-the-universe-of-gesture-technology/"><u>[Updated] 2024 Approved Exploring the Universe of Gesture Technology</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-powerpoint-pro-tips-seamlessly-add-vimeo-videos-and-multimedia/"><u>2024 Approved PowerPoint Pro Tips Seamlessly Add Vimeo Videos and Multimedia</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-recovery-for-a-working-touchpad/"><u>Driver Recovery for a Working Touchpad</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-capture-to-cut-a-comprehensive-guide-to-editing-sony-camcorder-footage/"><u>From Capture to Cut A Comprehensive Guide to Editing Sony Camcorder Footage</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-addressing-unable-to-install-this-device-access-is-denied-for-usb-devices/"><u>Guide: Addressing 'Unable To Install This Device (Access Is Denied)' For USB Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-nvidia-driver-not-compatible-with-this-version-of-windows/"><u>How to Fix ‘NVIDIA Driver Not Compatible with This Version of Windows’</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-unresponsive-hp-notebook-keys-with-this-quick-guide-step-by-step-article-title-detailed-user-friendly-tips-techtalker406-chars/"><u>How To Fix Unresponsive HP Notebook Keys with This Quick Guide – Step by Step (Article Title) – Detailed, User Friendly Tips | TechTalker—406 Chars</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Realme 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-5-quandale-dingle-voice-generators/"><u>New Top 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-kernel-interrupt-handler-fixed/"><u>Resolved: Kernel Interrupt Handler Fixed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revamping-your-aging-usb-composite-device-effective-solutions-unveiled/"><u>Revamping Your Aging USB Composite Device – Effective Solutions Unveiled</u></a></li>
-<li><a href="https://solve-info.techidaily.com/step-by-step-tutorial-on-recording-google-duo-sessions-including-sound/"><u>Step-by-Step Tutorial on Recording Google Duo Sessions Including Sound</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tips-and-solutions-fixing-elder-scrolls-online-persistent-loading-problems/"><u>Tips and Solutions: Fixing Elder Scrolls Online Persistent Loading Problems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-play-40c-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor Play 40C Phone Pattern Lock</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-and-resolve-iphone-usb-transfer-problems-mastering-the-mtp-driver-fixes/"><u>Troubleshoot & Resolve iPhone USB Transfer Problems: Mastering the MTP Driver Fixes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-unsuccessful-hcmon-driver-setup/"><u>Troubleshooting Steps for Unsuccessful Hcmon Driver Setup</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-how-to-boot-your-pc-in-safe-mode-and-delete-graphics-driver-in-win-8/"><u>Troubleshooting Tips: How to Boot Your PC in Safe Mode & Delete Graphics Driver in Win 8</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/unveiling-http3-an-in-depth-explanation-of-the-future-of-internet-technology/"><u>Unveiling HTTP/3: An In-Depth Explanation of the Future of Internet Technology</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-advanced-techniques-for-voice-to-text-transcription-in-whatsapp/"><u>[Updated] 2024 Approved Advanced Techniques for Voice-to-Text Transcription in WhatsApp</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-privacy-first-reader-of-facebook-snapshots/"><u>[Updated] In 2024, Privacy-First Reader of Facebook Snapshots</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blueprint-for-blending-video-content-into-curricula/"><u>2024 Approved Blueprint for Blending Video Content Into Curricula</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/feed-flourish-elevating-engagement-from-ordinary-posts-for-2024/"><u>Feed Flourish Elevating Engagement From Ordinary Posts for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-novice-to-newsmaker-crafting-viral-memes-in-9gag/"><u>From Novice to Newsmaker Crafting Viral Memes in 9GAG</u></a></li>
+<li><a href="https://driver-error.techidaily.com/irql-issue-bypassed-in-win11-fix/"><u>Irql Issue Bypassed in Win11 Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optical-drive-missing-windows-11-issue-addressed/"><u>Optical Drive Missing: Windows 11 Issue Addressed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seagate-external-drive-detection-issue-solved-in-win11/"><u>Seagate External Drive Detection Issue Solved in Win11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-definitive-guide-to-audio-transitions-for-2024/"><u>The Definitive Guide to Audio Transitions for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tips-for-fixing-device-conflicts-in-dm/"><u>Tips for Fixing Device Conflicts in DM</u></a></li>
 </ul></div>
 

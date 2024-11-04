@@ -1,7 +1,7 @@
 ---
 title: "AMD Radeon Wattman's Sudden Shutdown and Comeback: Fixing the Settings Glitch Effortlessly – Complete Tutorial"
-date: 2024-08-15T06:44:09.054Z
-updated: 2024-08-16T06:44:09.054Z
+date: 2024-10-31T19:17:04.928Z
+updated: 2024-11-04T21:29:25.856Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  1) Press **Windows key** and **X** at the same time, then choose **Device Manager**.
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da122aa7042.png)  
   
  2) Expand category **Display adapters**. Then double click the AMD Radeon device driver that you can see.
@@ -55,9 +52,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  4) If the **Roll Back Driver** button here is **grey out**, that means this option is unavailable in your situation. You need to go to the options below for more help.
   
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1595caf55.jpg)
   
 **Option 2:** **Clean re-install display card driver**  
@@ -66,9 +60,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  1) Click **Start** button, then choose **Control Panel**. In Control Panel, choose **Uninstall a program** under Programs sector (View by **Category**).  
   
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1cb2befea.jpg)  
   
  2) Now, choose **AMD Catalyst** program or other **AMD programs**, then choose **Uninstall**.
@@ -111,18 +102,12 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  Some users reported that this problem is caused by faulty RAM, which is not unusual if you are constantly having problem with your graphics card driver or the display on your computer. Hence, you should run a RAM check on your computer to see if this is the cause and then fix it accordingly.
   
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1) Press Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and hit **Enter**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)  
   
  2) You could choose **Restart now and check for problems (recommended)** to check the status of your memory card right now, or choose **Check for problems the next time I start my computer** if you are too occupied now.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
  3) You will be seeing this page showing the progress of the check and number of passes it will run on memory.  
@@ -150,8 +135,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,6 +142,30 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/solved-hardware-and-drivers-sync/"><u>[Solved: Hardware & Drivers Sync</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-color-grading-techniques-unraveling-the-mystery-of-luts/"><u>[Updated] Color Grading Techniques Unraveling the Mystery of LUTs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-free-video-conferencing-solutions-for-windowsmac-users-for-2024/"><u>[Updated] Free Video Conferencing Solutions for Windows/Mac Users for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-transform-dull-game-captures-into-bright-shows-with-obs-tricks/"><u>2024 Approved Transform Dull Game Captures Into Bright Shows with OBS Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversion-webm-vers-ogg-gratuit-services-en-ligne-de-movavi/"><u>Conversion WebM Vers Ogg Gratuit - Services en Ligne De Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decrypting-opengl-integration-in-intels-driver/"><u>Decrypting OpenGL Integration in Intel's Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disabling-persistent-bluetooth-on-windows-11/"><u>Disabling Persistent Bluetooth on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-digital-exploration-go-for-perplexity-ai/"><u>Enhance Your Digital Exploration – Go for Perplexity AI</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-missing-to-working-touchpad-driver-restored/"><u>From Missing to Working: Touchpad Driver Restored</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quickly-fix-the-0x80n0f0922-error-during-windows-10-updates/"><u>How to Quickly Fix the 0X80n0f0922 Error During Windows 10 Updates</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pchelp-my-computers-internal-wi-fibluetooth-wont-stop-responding/"><u>PCHelp - My Computer's Internal Wi-Fi/Bluetooth Won’t Stop Responding.</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-portals-for-digital-type-art-for-2024/"><u>Prime Portals for Digital Type Art for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-device-unrecognized-in-winnt/"><u>Resolving 'Device Unrecognized' In WinNT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphone-mute-button-problems-with-these-7-quick-troubleshooting-steps/"><u>Solve IPhone Mute Button Problems with These 7 Quick Troubleshooting Steps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-qualcomm-atheros-bluetooth-issues-on-windows-10/"><u>Troubleshooting Guide: Fixing Qualcomm Atheros Bluetooth Issues on Windows 10</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

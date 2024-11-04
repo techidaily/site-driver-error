@@ -1,7 +1,7 @@
 ---
 title: "Flip Fixes for Asus Portables: Straightening Video Orientation Errors"
-date: 2024-08-15T06:41:32.313Z
-updated: 2024-08-16T06:41:32.313Z
+date: 2024-10-28T19:27:59.054Z
+updated: 2024-11-04T16:18:59.898Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ You can refer to steps below to uninstall the driver.
 1\. Go to [Device Manager](https://tools.techidaily.com/drivereasy/download/).  
 2\. Expand category “Imaging devices”. Right-click on the camera device and select**Uninstall**on the context menu.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577f6772efc7f.png)
   
  After uninstalling the driver, install the driver that you downloaded from ASUS website.
@@ -35,16 +32,10 @@ You can refer to steps below to uninstall the driver.
  1\. Go to [ASUS official website](http://www.asus.com) .  
  2\. Point your cursor over “Support” on top of the menu and click **Support** .
   
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57396d0538f04.png)
 
  3\. Type your laptop model name in the search box and click the search button. Let’s take K42DY for example.
   
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577f27e074b8c.png)
   
  4\. Click**Driver&Tools** .  
@@ -53,9 +44,6 @@ You can refer to steps below to uninstall the driver.
   
  5\. Select the OS. (example: Windows 7 64bit)  
   
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577f28c516aa3.png)
   
  6\. Select**Camera** from the driver list.
@@ -77,9 +65,6 @@ You can refer to steps below to uninstall the driver.
   
  4\. Find the PID number in value as follows.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577f686f6792c.png)
   
  According to the PID number, you can identify the right driver from the options.
@@ -96,8 +81,6 @@ You can refer to steps below to uninstall the driver.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,6 +88,27 @@ You can refer to steps below to uninstall the driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-innovating-content-creation-vimeo-edition-for-2024/"><u>[Updated] Innovating Content Creation Vimeo Edition for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/achieving-peak-engagement-with-strategic-reddit-posting-for-2024/"><u>Achieving Peak Engagement with Strategic Reddit Posting for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-unavailable-alert-bcm20702a0/"><u>Driver Unavailable Alert - BCM20702A0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/flawless-gpu-setup-post-error-fixing/"><u>Flawless GPU Setup Post-Error Fixing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-nvidia-gtx-950-code-43-issue-on-windows-11-a-step-by-step-tutorial/"><u>How to Resolve NVIDIA GTX 950 Code 43 Issue on Windows 11: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigating-through-windows-10-elan-pad-errors/"><u>Navigating Through Windows 10, Elan Pad Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/securing-seamless-connection-lenovo-on-windows-10/"><u>Securing Seamless Connection: Lenovo on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-touchpad-driver-not-working-on-windows-10/"><u>Solved Touchpad Driver Not Working on Windows 10</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/transform-your-presence-on-facebook-through-live-broadcasting-for-2024/"><u>Transform Your Presence on Facebook Through Live Broadcasting for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/triumphant-fixed-explorer-crash/"><u>Triumphant: Fixed Explorer Crash</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-best-voice-chat-apps-for-gamers/"><u>Updated Best Voice Chat Apps for Gamers</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Moto G34 5G | Dr.fone</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: How to Repair Non-Functional Qualcomm Atheros Bluetooth Driver on Windows 11 - Step by Step Guide
-date: 2024-08-15T06:43:24.997Z
-updated: 2024-08-16T06:43:24.997Z
+date: 2024-11-02T16:03:46.504Z
+updated: 2024-11-04T17:56:50.550Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/774f6de9274f7609c4875885dabb331e04426fc4c
 
 ## How to Repair Non-Functional Qualcomm Atheros Bluetooth Driver on Windows 11 - Step by Step Guide
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587848fa4952b.png)
 
 Windows 10 users have reported to have problems with their Atheros Bluetooth driver on and off for months since the upgrade. When Bluetooth driver is sloppy, your Bluetooth devices, wireless mouse, wireless keyboard, wireless headphone, are not working properly.
@@ -35,9 +32,6 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
 **KB3061161** is auto updated via Windows Update. So you can follow the path:**Start button > Settings > Update & security** .
   
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878512a85d87.jpg)
   
  Then choose**Update history** .
@@ -100,16 +94,10 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 3) Locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Update Driver Software**.
   
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878797a95615.png)
 
  4) Choose**Browse my computer for driver software** .
   
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787a96b276c.jpg)
 
  5) Choose **Let me pick from a list of the drivers on my computer** .
@@ -136,9 +124,6 @@ Moreover, it is very easy to use. Just click the**Scan Now**button for**Driver E
 
 Then the**Update**button next to the driver you need to update.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76eb162d8c.jpg)
 
 That’s all.
@@ -158,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +150,33 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-clear-path-to-crisp-videography-on-a-gopro/"><u>[New] In 2024, The Clear Path to Crisp Videography on a GoPro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restored-compatibility-issues-with-new-device-driver-update/"><u>[RESTORED] Compatibility Issues with New Device Driver Update</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elite-content-consummation-for-2024/"><u>[Updated] Elite Content Consummation for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-sneak-peek-to-secrecy-how-to-create-hidden-stories/"><u>[Updated] Sneak Peek to Secrecy How to Create Hidden Stories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-speech-to-text-solutions-for-engaging-ppts/"><u>[Updated] Speech-to-Text Solutions for Engaging PPTs</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1728472240174-windows-10/"><u>修复Windows 10中文件下载失败问题的详尽方法</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gfx-analysis-the-role-of-basic-display-adapter-bda/"><u>GFX Analysis: The Role of Basic Display Adapter (BDA)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-reconnecting-usb-devices-in-win-78-os/"><u>Guide to Reconnecting USB Devices in Win 7/8 OS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-poco-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Poco Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-tecno-camon-20-pro-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-xiaomi-redmi-note-13-pro-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi Note 13 Pro 5G Fingerprint Lock</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-12-pro-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an iPhone 12 Pro Without Apple ID Password?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098770708-pchelp-i-need-to-turn-off-the-built-in-bluetooth-on-my-windows-10-machine/"><u>PCHelp I Need to Turn Off the Built-In Bluetooth on My Windows 10 Machine.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-touchpad-functionality-after-driver-loss/"><u>Restoring Touchpad Functionality After Driver Loss</u></a></li>
+<li><a href="https://facebook.techidaily.com/revamping-digital-persona-changing-your-name-in-the-virtual-world/"><u>Revamping Digital Persona: Changing Your Name in the Virtual World</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solutions-to-common-driver-problems-in-dm/"><u>Solutions to Common Driver Problems in DM</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-restoring-bluetooth-functionality-with-qualcomm-atheros-driver-in-windows-11/"><u>Step-by-Step Guide to Restoring Bluetooth Functionality with Qualcomm Atheros Driver in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-quick-and-easy-method-to-solve-a-nonworking-or-stuck-pclaptop-keyboard-guide-for-fixed-up-article-title-step-descriptions409-chars/"><u>The Quick & Easy Method to Solve a Nonworking or Stuck PC/Laptop Keyboard – Guide for Fixed-Up (Article Title)– Step Descriptions—409 Chars</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-composite-device-is-an-older-usb-device-solved/"><u>USB Composite Device Is an Older USB Device [SOLVED]</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

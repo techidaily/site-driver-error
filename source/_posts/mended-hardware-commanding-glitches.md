@@ -1,7 +1,7 @@
 ---
 title: Mended Hardware Commanding Glitches
-date: 2024-10-27T23:16:11.766Z
-updated: 2024-10-30T01:27:32.279Z
+date: 2024-10-31T16:01:47.201Z
+updated: 2024-11-04T21:27:07.201Z
 tags:
   - win11
   - win10
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
  Some sectors in your computer may be damaged, and you can try**switching your USB drive to a different port** . It worked for some users. If it doesn’t solve your “ The driver detected a controller error on \\Device\\Harddisk1\\DR1″ problem,  try Solution 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 2: Update your USB driver
@@ -50,26 +50,26 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84c2843cf68.jpg)
 4. You may need to restart your computer to finish the process. Then check if your “The driver detected a controller error on \\Device\\Harddisk1\\DR1 ” problem is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -95,22 +95,19 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-intel-wi-fi-6ax201-not-connecting/"><u>[FIXED] Intel Wi-Fi 6Ax201 Not Connecting</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchats-artistry-a-compreayer-of-the-ultimate-boomerang-method/"><u>[New] 2024 Approved Snapchat's Artistry A Compreayer of the Ultimate Boomerang Method</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-dive-into-design-get-a-complimentary-set-of-50-banner-pieces/"><u>[New] In 2024, Dive Into Design Get a Complimentary Set of 50 Banner Pieces</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-sharing-videos-the-ultimate-youtube-photo-poster/"><u>[Updated] Expert Tips for Sharing Videos The Ultimate YouTube Photo Poster</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-through-chatgpts-token-ceiling-barrier/"><u>Breaking Through ChatGPT’s Token Ceiling Barrier</u></a></li>
-<li><a href="https://driver-error.techidaily.com/efficient-sm-bus-operations-in-upgraded-os/"><u>Efficient SM Bus Operations in Upgraded OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/get-your-hands-on-bitraser-professional-grade-hard-drive-cleaner/"><u>Get Your Hands on BitRaser: Professional-Grade Hard Drive Cleaner</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-the-missing-coprocessor-driver-issue-in-windows-11/"><u>How to Resolve the 'Missing Coprocessor Driver' Issue in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-solve-detected-hardware-not-recognized-message-in-idt-software-packages/"><u>How To Solve 'Detected Hardware Not Recognized' Message in IDT Software Packages</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone 15 Plus</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-s24plus-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy S24+ Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/modifying-default-output-files-in-libreoffice-made-easy/"><u>Modifying Default Output Files in LibreOffice Made Easy</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-correcting-non-functionality-and-recognition-errors-for-last-usb-device-on-windows/"><u>Step-by-Step Guide: Correcting Non-Functionality & Recognition Errors for Last USB Device on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/system-builder-discloses-intels-cpu-outlasting-amd-ryzen-analyzing-failure-rates-with-conservative-power-settings-pugets-findings/"><u>System Builder Discloses Intels CPU Outlasting AMD Ryzen: Analyzing Failure Rates with Conservative Power Settings – Puget's Findings</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-resolving-non-functional-bluetooth-drivers-for-qualcomm-atheros-on-windows-11/"><u>Troubleshooting Tips: Resolving Non-Functional Bluetooth Drivers for Qualcomm Atheros on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unknown-usb-device-link-in-compliance-mode-solved/"><u>Unknown USB Device Link in Compliance Mode [SOLVED]</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-2023-ps3-emulators-for-enhanced-gaming/"><u>[Updated] In 2024, Top 2023 Ps3 Emulators for Enhanced Gaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-versatile-laptop-software-to-watch-dvds/"><u>2024 Approved Free, Versatile Laptop Software to Watch DVDs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-your-pc-how-to-address-the-coprocessor-driver-not-found-error-in-windows-11/"><u>Fix Your PC: How to Address the 'Coprocessor Driver Not Found' Error in Windows 11</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-transfer-a-virtual-machine-across-different-datastores-in-vmware-backup-and-migration-guide/"><u>How to Transfer a Virtual Machine Across Different Datastores in VMWare: Backup & Migration Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-official-drivers-for-your-microsoft-surface-pro-4-on-pc-with-windows-os/"><u>Installing Official Drivers for Your Microsoft Surface Pro 4 on PC with Windows OS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instant-video-mastery-editing-made-effortless-in-windows-11-for-2024/"><u>Instant Video Mastery Editing Made Effortless in Windows 11 for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-conversation-with-ai-the-ultimate-guide-to-utilizing-chatgpt-from-microsoft/"><u>Mastering the Art of Conversation with AI: The Ultimate Guide to Utilizing ChatGPT From Microsoft</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/screening-the-best-selecting-premium-macos-recording-apps/"><u>Screening the Best Selecting Premium macOS Recording Apps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-the-problem-why-is-my-wireless-keyboard-not-responding-on-windows/"><u>Solve the Problem: Why Is My Wireless Keyboard Not Responding on Windows?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-unresponsive-issue-with-disabling-inbuilt-wi-fi-and-bluetooth-step-by-step/"><u>Solve Unresponsive Issue with Disabling Inbuilt Wi-Fi and Bluetooth - Step by Step</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-fix-for-incompatible-hardware-alerts-with-your-idt-system/"><u>Step-by-Step Fix for Incompatible Hardware Alerts with Your IDT System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-address-unsupported-peripheral-devices-with-idt-software/"><u>Step-by-Step Guide to Address Unsupported Peripheral Devices with IDT Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restoring-wacom-pen-input-on-upgraded-windows-11-systems/"><u>Step-by-Step Guide to Restoring Wacom Pen Input on Upgraded Windows 11 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-composite-device-an-overview-of-older-technology-fixes-solved/"><u>USB Composite Device - An Overview of Older Technology Fixes [SOLVED]</u></a></li>
 </ul></div>
 

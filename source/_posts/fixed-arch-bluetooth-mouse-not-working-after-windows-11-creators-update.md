@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Arch Bluetooth Mouse Not Working After Windows 11 Creators Update"
-date: 2024-08-22T14:06:21.391Z
-updated: 2024-08-23T14:06:21.391Z
+date: 2024-10-31T17:28:09.306Z
+updated: 2024-11-04T16:14:31.237Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
 ## [FIXED] Arch Bluetooth Mouse Not Working After Windows 11 Creators Update
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f6d83880e55.jpg)
 
  If your arch Bluetooth mouse suddenly stops working after Windows 10 Creators Update, you should roll your mouse driver back to its previous version first. This is one of the first things you should do.
@@ -26,16 +23,10 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
  If you don’t want to restore your Windows 10 Creators Update just yet, try the methods below to fix the problem by yourself easily.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Fix 1: Troubleshoot Possible Error**
 
  1) Type**cmd** in the Windows Search bar and select**Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/cmd-run-as-admin.jpg)
 
  2) Copy & paste the following command line into the Command Prompt window and press**Enter** .
@@ -48,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
  4) Wait for the troubleshooting process to finish. Then follow its instructions to try and fix your Arc mouse not working problem.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Fix 2: Modify Power Management Settings**
 
 **NOTE** : The following method works only on Bluetooth Arch mouse.
@@ -55,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f6e1d72d8f0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Expand the category **Mice and other pointing devices** .
 
@@ -84,22 +89,30 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/Driver-Easy-Scan.jpg)
 
  3) Click the**Update** button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/DE-update-mouse-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Fix 4: Restore Your Computer**
 
@@ -117,8 +130,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,6 +137,24 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-stay-on-top-of-youtube-moderation-standards/"><u>[New] 2024 Approved How to Stay on Top of YouTube Moderation Standards</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-looking-beneath-surface-understanding-vr-drawbacks/"><u>[New] 2024 Approved Looking Beneath Surface Understanding VR Drawbacks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-actors-availability-for-video-downloads/"><u>[New] Actors' Availability for Video Downloads</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastering-xbox-ultimate-screen-capture-tips/"><u>[Updated] In 2024, Mastering Xbox Ultimate Screen Capture Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-asmr-microphones-impressive-audio-at-economical-costs/"><u>[Updated] Premium ASMR Microphones Impressive Audio at Economical Costs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/farewell-to-frames-dropping-deathloops-pc-version-finally-seamless-after-fixes/"><u>Farewell to Frames Dropping - Deathloop's PC Version Finally Seamless After Fixes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audio-accentuation-tunes-for-visual-projects/"><u>In 2024, Audio Accentuation Tunes for Visual Projects</u></a></li>
+<li><a href="https://driver-error.techidaily.com/iphone-se-unresponsive-to-windows-xp-professional-fixed/"><u>IPhone SE Unresponsive to Windows XP Professional [Fixed]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/keeping-your-hp-z440-performance-peak-driver-download-and-update-guide/"><u>Keeping Your HP Z440 Performance Peak: Driver Download and Update Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/my-prodigy-brio-camera-wont-show-in-the-list-of-devices-after-pc-upgrade-heres-what-i-did-solved/"><u>My Prodigy Brio Camera Won't Show in the List of Devices After PC Upgrade – Here’s What I Did (Solved)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-lenovo-bluetooth-glitches-on-windows-10/"><u>Overcoming Lenovo Bluetooth Glitches on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-driver-not-working-on-windows-10-solved/"><u>Qualcomm Atheros Bluetooth Driver Not Working on Windows 10 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104332107-reviving-a-non-responsive-hp-wireless-input-device-a-comprehve-solution/"><u>Reviving A Non-Responsive HP Wireless Input Device – A Comprehve Solution!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-and-solve-not-available-itbm-driver-error-instantly/"><u>Troubleshoot and Solve 'Not Available' ITBM Driver Error Instantly!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-serial-fix-overcoming-windows-driver-woes/"><u>USB-Serial Fix: Overcoming Windows Driver Woes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/vdl-screen-capturers-critique-in-depth-look-for-2024/"><u>VDL Screen Capturer's Critique In-Depth Look for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-uninterrupted-operation/"><u>Windows 11: Uninterrupted Operation</u></a></li>
+</ul></div>
 

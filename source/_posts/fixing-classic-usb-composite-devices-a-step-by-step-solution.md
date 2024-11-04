@@ -1,7 +1,7 @@
 ---
 title: "Fixing Classic USB Composite Devices: A Step-by-Step Solution"
-date: 2024-10-28T02:26:42.723Z
-updated: 2024-10-29T21:28:26.173Z
+date: 2024-11-01T18:46:23.956Z
+updated: 2024-11-04T17:40:24.065Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/f2d9a0df990eba4814a4cbbd3bd0e18b69c14ac68
 2. **[Reinstall your USB controller drivers](https://imp.i110150.net/r5bmpn)**
 3. **[Use the Windows USB Troubleshooter](https://ukaidot.sjv.io/daqnoj)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your USB Composite Device driver
 
  The most likely cause for your USB Composite Device error is a device driver problem.
@@ -44,30 +51,23 @@ Fortunately, this is one of the easiest problems to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb894ac5bd51.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb894ea5449a.jpg)
 4. Restart your computer and check if your USB Composite Device now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 2: Reinstall your USB controller drivers
 
@@ -75,13 +75,6 @@ Fortunately, this is one of the easiest problems to fix.
 
 1. On your keyboard, press the   **Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62735e40ac6.png)**  
 **key**  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  and  
 **R**  
@@ -93,9 +86,23 @@ Fortunately, this is one of the easiest problems to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b61714f05a95.jpg)
 4. Right-click on the first USB device and select**Uninstall device**  to remove it.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Important:** Make sure you’ve saved any open files on your computer before you click**Uninstall device** , as you might need to force shutdown and restart later.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6171a9ae8b0.jpg)
 5. Repeat step 4) with every other USB device that is listed under the**Universal Serial Bus controllers** entry.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** Some USB devices have to do with your wired mouse, keyboard etc, which means uninstalling those devices will make them not working, don’t worry, just temporarily. As long as Windows restarts, it will automatically install the drivers again.
 6. Once you’ve uninstalled them all,**restart** your computer.  
@@ -104,19 +111,6 @@ Fortunately, this is one of the easiest problems to fix.
 7. When you’ve logged on to your Windows desktop, plug your USB composite device into your computer and test.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Use the Windows USB Troubleshooter
 
@@ -145,18 +139,22 @@ Fortunately, this is one of the easiest problems to fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-detailed-guide-to-minecraft-live-broadcasting/"><u>[New] 2024 Approved Detailed Guide to Minecraft Live Broadcasting</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-enhance-quality-in-filming-and-photos-on-iphone/"><u>[New] In 2024, Enhance Quality in Filming & Photos on iPhone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-rapid-rendering-sounds-with-visuals/"><u>[New] Rapid Rendering Sounds with Visuals</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103407283-solved-wsd-print-device-doesnt-have-a-driver/"><u>[SOLVED] WSD Print Device Doesn't Have a Driver</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-alternative-review-to-sharex/"><u>[Updated] 2024 Approved The Ultimate Alternative Review to ShareX</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-storytelling-mastery-crafting-a-dynamic-marketing-plan/"><u>[Updated] Instagram Storytelling Mastery Crafting a Dynamic Marketing Plan</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bringing-forward-your-hidden-seagate-hard-drive-in-windows/"><u>Bringing Forward Your Hidden Seagate Hard Drive in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/crusader-kings-iii-stability-issues-resolved-for-optimal-gaming-experience-on-desktop/"><u>Crusader Kings III Stability Issues - Resolved for Optimal Gaming Experience on Desktop</u></a></li>
-<li><a href="https://driver-error.techidaily.com/defeat-the-dreaded-error-43-for-your-gtx-950-graphics-card-in-windows-11-with-this-expert-guide/"><u>Defeat the Dreaded Error 43 for Your GTX 950 Graphics Card in Windows 11 with This Expert Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/experience-clear-audio-with-your-logitech-g-pro-x-on-pc-eliminate-noise-popping-in-202th-edition-tech-tricks/"><u>Experience Clear Audio with Your Logitech G Pro X on PC - Eliminate Noise Popping in 202^Th Edition (Tech Tricks)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721095833634-how-to-restore-your-qualcomm-atheros-bluetooth-driver-functionality-on-windows-10-problem-solved/"><u>How to Restore Your Qualcomm Atheros Bluetooth Driver Functionality on Windows 10 – Problem Solved!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/insta-video-size-strategy-for-maximum-engagement/"><u>Insta Video Size Strategy for Maximum Engagement</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721100336750-no-more-waiting-wacom-devices-now-talking/"><u>No More Waiting: Wacom Devices Now Talking</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-fastest-path-to-amazing-iphone-time-lapses/"><u>[New] 2024 Approved The Fastest Path to Amazing iPhone Time-Lapses</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-photo-retouch-erase-backgrounds-effectively/"><u>[New] Mastering Photo Retouch Erase Backgrounds Effectively</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-a-treasure-trove-of-9-complete-holiday-flicks-free-streaming-for-2024/"><u>[Updated] A Treasure Trove of 9 Complete Holiday Flicks, Free Streaming for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-best-in-class-meme-modification-software-for-2024/"><u>[Updated] Best in Class Meme Modification Software for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-elevate-your-storytelling-borders-for-instagram-videos/"><u>2024 Approved Elevate Your Storytelling Borders for Instagram Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/m4v-m4a-movavi/"><u>自由下載 M4V 到 M4A：以 Movavi 轉頻器為代價</u></a></li>
+<li><a href="https://driver-error.techidaily.com/directx-9-failure-resolved-a-swift-guide/"><u>DirectX 9 Failure Resolved: A Swift Guide</u></a></li>
+<li><a href="https://win-trending.techidaily.com/easy-steps-to-recover-deleted-text-conversations-from-your-iphone-without-scroll/"><u>Easy Steps to Recover Deleted Text Conversations From Your iPhone Without Scroll</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-on-resolving-issues-with-malfunctioning-hp-wireless-input-devices/"><u>Expert Advice on Resolving Issues with Malfunctioning HP Wireless Input Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/it-seems-like-itran-at-this-isiolympia-which-are-using/"><u>It Seems Like It’ran at This Is_iOlympia', Which Are Using</u></a></li>
+<li><a href="https://driver-error.techidaily.com/kernels-rtc-reset-fully-operational/"><u>Kernel's RTC Reset Fully Operational</u></a></li>
+<li><a href="https://driver-error.techidaily.com/key-steps-for-resolving-device-failures-in-dm/"><u>Key Steps for Resolving Device Failures in DM</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-double-click-opener-techniques-for-w11w10-folders/"><u>Mastering Double-Click Opener Techniques for W11/W10 Folders</u></a></li>
+<li><a href="https://driver-error.techidaily.com/realtek-usb-controllers-unresponsive-after-update/"><u>Realtek USB Controllers Unresponsive After Update</u></a></li>
+<li><a href="https://driver-error.techidaily.com/streamlined-sm-bus-drivers-with-update/"><u>Streamlined SM Bus Drivers with Update</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-infinix-hot-40-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass Infinix Hot 40 Pro FRP</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlock-your-system-quick-ndis-solutions/"><u>Unlock Your System: Quick NDIS Solutions</u></a></li>
 </ul></div>
 

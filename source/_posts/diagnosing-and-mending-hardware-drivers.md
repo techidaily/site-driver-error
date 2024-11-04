@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Mending Hardware Drivers
-date: 2024-10-26T21:36:10.300Z
-updated: 2024-10-30T01:42:24.272Z
+date: 2024-10-29T21:26:42.444Z
+updated: 2024-11-04T17:25:07.813Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ You can update the drivers through manager. Follow these steps:
 
  Windows may not provide the latest driver for the device. If this way doesn’t work for you, you can use [Method 2](https://zebaoaffiliateprogram.pxf.io/xkwqe1) or [Method 3](https://printrendy.pxf.io/xyboy5) .
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 2: Update the Base System Device driver manually**
 
  Usually, you can go to the device manufacturer’s website or the PC manufacturer’s website to download the latest driver. But for Base System Device, it is impossible to know what the specific device is. The good news is you can get its device name and its vendor name to determine what it is.
@@ -51,13 +58,6 @@ You can update the drivers through manager. Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785dc645de0d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Details** tab, then select**Hardware Ids** from the drop-down menu of**Property** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785de836c928.png)
@@ -67,24 +67,24 @@ You can update the drivers through manager. Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785df1376590.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Go to [https://pci-ids.ucw.cz/.](https://pci-ids.ucw.cz/) Then you can use the VEN code and the DEV code to figure out what the Base System Device stands for.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56e54a4e7b7.jpg)
 
- 6) After you figure out what the device is, you can go to the PC manufacturer’s website or the device manufacturer’s website to download the driver. It’s recommended to go to the PC manufacturer’s website first, as they may customize the driver.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ 6) After you figure out what the device is, you can go to the PC manufacturer’s website or the device manufacturer’s website to download the driver. It’s recommended to go to the PC manufacturer’s website first, as they may customize the driver.
 
 ## **Method 3: Update the Base System Device driver automatically**
 
@@ -106,10 +106,10 @@ You can update the drivers through manager. Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/graphic-chipset.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After updating the driver, check to see if you still see the yellow mark in Device Manager.
@@ -134,22 +134,24 @@ You can update the drivers through manager. Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-underappreciated-film-phenoms-of-this-year/"><u>[New] 2024 Approved The Underappreciated Film Phenoms of This Year</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-import-melodies-into-premiere-pro-projects-for-2024/"><u>[New] Import Melodies Into Premiere Pro Projects for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/captioning-techniques-for-professional-youtube-content/"><u>Captioning Techniques for Professional YouTube Content</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-realme-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/remedying-the-failure-of-enex-driver-integration-in-win11/"><u>Remedying the Failure of eNEX Driver Integration in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-hardware-not-compatible-messages-in-idt-software-packages/"><u>Resolving 'Hardware Not Compatible' Messages in IDT Software Packages</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-incompatibility-how-to-install-needed-drivers-for-your-hardware-in-windows-xpvista7/"><u>Resolving Incompatibility: How to Install Needed Drivers for Your Hardware in Windows XP/Vista/7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-device-id-33a0-in-acpi/"><u>Solving Device ID 33A0 in ACPI</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/starters-manual-to-mastering-screen-clarity/"><u>Starter's Manual to Mastering Screen Clarity</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-guide-reviving-your-unresponsive-wireless-headset-mic/"><u>Step-by-Step Fix Guide: Reviving Your Unresponsive Wireless Headset Mic</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-for-when-your-computer-ignores-the-latest-plugged-in-usb/"><u>Step-by-Step Solutions for When Your Computer Ignores the Latest Plugged-In USB</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/steps-to-fix-cmusbdacsys-related-bluescreen-of-death-errors-in-microsoft-windows/"><u>Steps to Fix 'CMUSBDAC.sys' Related Bluescreen of Death Errors in Microsoft Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlock-the-magic-of-bluetech-on-new-pc-with-this-quick-guide-fixed-windows-11-bluescreen-issue-done/"><u>Unlock the Magic of BlueTech on New PC with This Quick Guide - Fixed Windows 11 Bluescreen Issue – Done!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-and-how-to-duplicate-mobile-apps-on-your-android-device-the-complete-walkthrough/"><u>Why and How to Duplicate Mobile Apps on Your Android Device – The Complete Walkthrough</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-cannot-locate-a-suitable-printer-driver-solved/"><u>Windows Cannot Locate a Suitable Printer Driver [SOLVED]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/winning-against-windows-7s-bsod-how-to-deal-with-error-code-0x0000007e-successfully/"><u>Winning Against Windows 7'S BSOD: How to Deal with Error Code 0X0000007E Successfully</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitreact-wisdom-a-complete-reference-book/"><u>[New] In 2024, TwitReact Wisdom A Complete Reference Book</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pixicapture-studio-winos-series/"><u>[Updated] In 2024, PixiCapture Studio WinOS Series</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-perfect-post-editing-eliminating-unwanted-picture-borders/"><u>[Updated] Perfect Post-Editing Eliminating Unwanted Picture Borders</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-panasonics-hx-a1-wearable-cam-examined-a-detailed-review/"><u>2024 Approved Panasonic’s HX-A1 Wearable Cam Examined - A Detailed Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-boundaries-chatgpts-premium-perspective/"><u>Beyond Boundaries - ChatGPT's Premium Perspective</u></a></li>
+<li><a href="https://driver-error.techidaily.com/demystifying-the-legacy-usb-composite-device-problems-now-fixed/"><u>Demystifying the Legacy USB Composite Device Problems - Now Fixed!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhance-brand-recognition-inserting-watermarklogo-in-youtube-videos-for-2024/"><u>Enhance Brand Recognition Inserting Watermark/Logo in Youtube Videos for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-amd-radeon-wattman-overcoming-configuration-setbacks-and-resets/"><u>Mastering AMD Radeon Wattman: Overcoming Configuration Setbacks & Resets</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigating-and-fixing-ndis-on-pcs-swiftly/"><u>Navigating and Fixing NDIS on PCs Swiftly</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-frame-your-memories-the-best-free-and-paid-vignette-apps-for-mobile-for-2024/"><u>New Frame Your Memories The Best Free and Paid Vignette Apps for Mobile for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-access-denied-solving-usb-installation-troubles-on-your-pc/"><u>Overcoming 'Access Denied': Solving USB Installation Troubles on Your PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-glitches-lenovo-in-windows-10/"><u>Overcoming Glitches: Lenovo in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reclaim-absent-discs-and-drives-from-windows-1110/"><u>Reclaim Absent Discs & Drives From Windows 11/10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reorienting-content-display-a-comprehensive-fix-for-topsy-turvy-video-playback-on-asus-systems/"><u>Reorienting Content Display: A Comprehensive Fix for Topsy-Turvy Video Playback on ASUS Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/run-a-system-file-checker-scan-to-verify-and-repair-corrupted-files/"><u>Run a System File Checker Scan to Verify and Repair Corrupted Files.</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-insiders-look-at-vidma-screen-recording/"><u>The Insider's Look at Vidma Screen Recording</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-24-unbeatable-christmas-purchase-opportunities-on-sites-like-best-buy-amazon-and-newegg-featured-by-zdnet/"><u>Top 24 Unbeatable Christmas Purchase Opportunities on Sites Like Best Buy, Amazon & Newegg Featured by ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-keyboards-refusing-to-work/"><u>Win Keyboards Refusing to Work</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/flv-swf-on-site-movavi/"><u>무료 FLV SWF 변환 - On-Site 모바일 광고에서 최선의 Movavi 프로그램</u></a></li>
 </ul></div>
 

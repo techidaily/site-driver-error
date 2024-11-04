@@ -1,7 +1,7 @@
 ---
 title: Overcoming Device Manager Software Glitches
-date: 2024-10-27T01:31:53.667Z
-updated: 2024-10-30T02:00:03.871Z
+date: 2024-10-29T22:04:50.300Z
+updated: 2024-11-04T19:11:58.346Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ You can update the drivers through manager. Follow these steps:
 
  Windows may not provide the latest driver for the device. If this way doesn’t work for you, you can use [Method 2](https://zebaoaffiliateprogram.pxf.io/xkwqe1) or [Method 3](https://printrendy.pxf.io/xyboy5) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 2: Update the Base System Device driver manually**
 
  Usually, you can go to the device manufacturer’s website or the PC manufacturer’s website to download the latest driver. But for Base System Device, it is impossible to know what the specific device is. The good news is you can get its device name and its vendor name to determine what it is.
@@ -51,46 +58,33 @@ You can update the drivers through manager. Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785dc645de0d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Details** tab, then select**Hardware Ids** from the drop-down menu of**Property** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785de836c928.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) The Hardware Id Value should be like follows. The VEN code means vendor and the DEV code means device. (In the example below, the VEN code is 15AD and the device is 0740.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785df1376590.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Go to [https://pci-ids.ucw.cz/.](https://pci-ids.ucw.cz/) Then you can use the VEN code and the DEV code to figure out what the Base System Device stands for.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56e54a4e7b7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) After you figure out what the device is, you can go to the PC manufacturer’s website or the device manufacturer’s website to download the driver. It’s recommended to go to the PC manufacturer’s website first, as they may customize the driver.
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 3: Update the Base System Device driver automatically**
 
@@ -112,10 +106,10 @@ You can update the drivers through manager. Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/graphic-chipset.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After updating the driver, check to see if you still see the yellow mark in Device Manager.
@@ -140,17 +134,24 @@ You can update the drivers through manager. Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boosting-visibility-igtv-and-facebook-connection-techniques/"><u>[New] 2024 Approved Boosting Visibility IGTV & Facebook Connection Techniques</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-fix-slowly-loading-youtube-content-on-mobile-for-2024/"><u>[New] Fix Slowly Loading YouTube Content on Mobile for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-advice-downloading-editing-and-personalizing-whatsapp-tones-for-both-platforms-for-2024/"><u>Expert Advice Downloading, Editing & Personalizing WhatsApp Tones for Both Platforms for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-brodacm-80211n-seamless-wireless-functioning-on-windows/"><u>Fixed Brodacm 802.11N: Seamless Wireless Functioning on Windows</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/holy-stone-rc-cartoon-race-car-review/"><u>Holy Stone RC Cartoon Race Car Review</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intermittent-wireless-mouse-functionality-issues-with-win-10/"><u>Intermittent Wireless Mouse Functionality Issues with Win 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-control-panel-extension-is-incompatible-with-driver-version/"><u>Solved: Control Panel Extension Is Incompatible with Driver Version</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-corrupted-pages-due-to-faulty-hardware-in-windows-11-and-10-environments-solved/"><u>Step-by-Step Fix for Corrupted Pages Due to Faulty Hardware in Windows 11 and 10 Environments [Solved]</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/athway-to-crafting-a-viral-video-introduction/"><u>The Pathway to Crafting a Viral Video Introduction</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlock-dolby-pro-logic-iix-sound-in-windows-done-with-successful-result/"><u>Unlock Dolby Pro Logic IIx Sound in Windows - Done with Successful Result!🔑</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-kb-error-resolution-irql/"><u>Win11 KB Error Resolution: IRQL</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-a-closer-look-at-the-metaverse-6-deep-dive-examples-reviewed-for-2024/"><u>[New] A Closer Look at the Metaverse 6 Deep-Dive Examples Reviewed for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-nvidia-drivers-not-installing-2024/"><u>[SOLVED] NVIDIA Drivers Not Installing – 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-turn-your-screen-time-into-earnings/"><u>[Updated] In 2024, Turn Your Screen Time Into Earnings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-language-of-truth-writing-documentaries/"><u>[Updated] The Language of Truth Writing Documentaries</u></a></li>
+<li><a href="https://driver-error.techidaily.com/boosting-performance-win11-and-deathadder-drivers/"><u>Boosting Performance: Win11 & DeathAdder Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/broadcom-networking-restored-windows-wireless-adapter-functioning/"><u>Broadcom Networking Restored: Windows Wireless Adapter Functioning</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dealing-with-elan-pad-inconsistencies-on-win10/"><u>Dealing With Elan Pad Inconsistencies on Win10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/vering-the-hidden-gems-in-asmr-creation-for-2024/"><u>Discovering the Hidden Gems in ASMR Creation for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dissecting-microsofts-graphic-implementation-in-bda/"><u>Dissecting Microsoft's Graphic Implementation in BDA</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-fixes-for-undetected-hardware-devices-in-various-windows-versions/"><u>Effective Fixes for Undetected Hardware Devices in Various Windows Versions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-unresponsive-serial-ports-on-windows-os/"><u>Fixing Unresponsive Serial Ports on Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ideport0-fault-alarm-triggered/"><u>Ideport0 Fault Alarm Triggered</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/moonlit-musings-capturing-the-essence-of-nocturnal-imagery-for-2024/"><u>Moonlit Musings Capturing the Essence of Nocturnal Imagery for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/professional-stabilization-tech-for-youtube-content-creators/"><u>Professional Stabilization Tech for YouTube Content Creators</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-pair-and-recognize-your-logitech-brio-webcam-in-new-pc-version-how-it-worked-for-me-answered/"><u>Re-Pair and Recognize Your Logitech Brio Webcam in New PC Version – How It Worked for Me (Answered)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/seamless-avchd-viewing-tips-enhancing-your-iphone-experience/"><u>Seamless AVCHD Viewing Tips: Enhancing Your iPhone Experience</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-restoring-files-from-the-recycle-bin-in-windows-10-even-after-deletion/"><u>Step-by-Step Guide: Restoring Files From the Recycle Bin in Windows 10 Even After Deletion</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-streamline-your-video-library-top-mac-metadata-editing-tools/"><u>Updated 2024 Approved Streamline Your Video Library Top Mac Metadata Editing Tools</u></a></li>
 </ul></div>
 

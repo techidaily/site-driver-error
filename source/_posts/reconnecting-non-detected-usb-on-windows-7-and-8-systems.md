@@ -1,7 +1,7 @@
 ---
 title: Reconnecting Non-Detected USB on Windows 7 & 8 Systems
-date: 2024-10-26T03:21:40.315Z
-updated: 2024-10-29T21:25:59.403Z
+date: 2024-10-28T17:35:24.094Z
+updated: 2024-11-04T19:19:22.171Z
 tags:
   - win11
   - win10
@@ -26,10 +26,10 @@ Faulty or outdated USB driver can render your USB devices not responding. To fix
 2) Expand **Universal Serial Bus controllers**. See if you can a yellow exclamation mark in front of your**Host Controller**. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/yellow-exclamation-marks-in-device-manager.jpg) If you cannot see such a device under **Universal Serial Bus controllers**, check if you can see it under**Other devices**. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/unknown-device.png) 3) Double-click the device with a yellow exclamation mark. Go to**Driver**, click **Uninstall**. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b6c64654e98.png) 4) Check the box for **Delete the driver software for this device**and click **OK.** ![](https://images.drivereasy.com/wp-content/uploads/2016/08/confirm-uninstall.png) 5) Reboot your computer with the USB flash drive connected. See if Microsoft helps you detect and install the new USB driver. If you have more than one**Host Controllers** with the yellow exclamation marks in front, repeat these procedures more than once.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Update USB driver automatically
@@ -37,17 +37,17 @@ Faulty or outdated USB driver can render your USB devices not responding. To fix
 If Microsoft fails to find the latest version of the USB driver for you, you might need to search for it by yourself. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e60dbd97325.png) 3) Click the**Update**button next to the flagged USB device to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e60dd5d26f7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 3: Remove External Devices**
@@ -55,10 +55,10 @@ If Microsoft fails to find the latest version of the USB driver for you, you mig
 If there are too many USB devices connected to your PC, some of them might not respond or work properly. To fix it, you can try clean restart your PC: Remove or disconnect all unnecessary discs and devices from your computer. Make sure that the computer is off, and then remove any discs and USB devices and the memory cards from the card reader slot. Disconnect non-essential devices such as camera, MP3-playersprinters, scanners, external hard drives etc., and leave mouse, keyboard and monitor connected. If you are a**laptop**user: 1) Turn off the computer and make sure you have disabled or disconnected all unnecessary external devices. Remove the computer from any port replicator or docking station. 2) Unplug the AC adapter from the computer and remove the battery from the battery compartment. 3) Press and hold the**Power**button for about 15 seconds to drain any residual electrical charge from the capacitors that protect the memory. 4) Insert the battery and AC adapter back into the laptop, but make sure you don’t connect any external devices just yet. 5) Press**Power**button to turn on the computer. Then reconnect the USB devices one by one. If you are using**desktop**: 1) Turn off the computer completely and disconnect the power cord from the back of the computer. 2) Press the power button on the computer for 5 seconds. 3) Reconnect the power cord and turn on the power. Then reconnect the USB devices one by one.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 4: Create INF Files**
@@ -80,24 +80,21 @@ If there are too many USB devices connected to your PC, some of them might not r
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-timeless-tales-for-the-whole-clan-family-movie-guide/"><u>[New] 2024 Approved Timeless Tales for the Whole Clan Family Movie Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-perfecting-live-social-media-facebook-livestream-tutorials-for-tech/"><u>[New] In 2024, Perfecting Live Social Media Facebook Livestream Tutorials for Tech</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-comprehensive-ios-live-photo-handbook/"><u>[Updated] Comprehensive iOS Live Photo Handbook</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-getting-acquainted-with-quantum-hdr-techniques-for-2024/"><u>[Updated] Getting Acquainted with Quantum HDR Techniques for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-quick-tips-for-capturing-online-video-conversations-for-2024/"><u>[Updated] Quick Tips for Capturing Online Video Conversations for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/disabled-issue-eliminated/"><u>Disabled Issue Eliminated</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enabling-functionality-after-failed-enex-load-on-windows-11/"><u>Enabling Functionality After Failed eNEX Load on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-restore-and-update-your-coprocessor-driver-in-windows-11-complete-solution/"><u>How to Restore and Update Your Coprocessor Driver in Windows 11 [Complete Solution]</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oneplus-11-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on OnePlus 11 5G</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/optimize-your-pcs-visual-performance-with-newest-amd-gpu-software-on-windows-11/"><u>Optimize Your PC's Visual Performance with Newest AMD GPU Software on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcome-ethernet-latency-on-vostro-pc/"><u>Overcome Ethernet Latency on Vostro PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-driver-issues-in-windows-systems-11-8-and-7-easy-steps-and-tips/"><u>Solving Driver Issues in Windows Systems (11, 8, & 7) – Easy Steps and Tips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-tutorial-how-to-get-and-set-up-intel-network-drivers-for-windows-systems/"><u>Step-by-Step Tutorial: How to Get and Set Up Intel Network Drivers for Windows Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-tutorial-how-to-swiftly-update-intel-bluetooth-chip-drivers/"><u>Step-by-Step Tutorial: How to Swiftly Update Intel Bluetooth Chip Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/supported-latest-wsd-printer-model-in-os/"><u>Supported: Latest WSD Printer Model in OS</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-iphones-dominance-in-my-gaming-life-reasons-im-sticking-with-mobile-play/"><u>The iPhone's Dominance in My Gaming Life - Reasons I'm Sticking with Mobile Play!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlock-professional-techniques-for-coloring-gopro-videos/"><u>Unlock Professional Techniques for Coloring GoPro Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-win-customer-trust-incorporating-these-20-marketing-expressions/"><u>[Updated] 2024 Approved Win Customer Trust Incorporating These 20 Marketing Expressions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-become-a-youtube-partner-for-2024/"><u>[Updated] How to Become A YouTube Partner for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-buzz-generating-tie/"><u>[Updated] Ultimate Buzz-Generating Tie</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-prompt-creation-techniques-for-exceptional-ai-outputs-in-chatgpt/"><u>Effective Prompt Creation Techniques for Exceptional AI Outputs in ChatGPT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/efficiently-tackle-wireless-issues-windows-style/"><u>Efficiently Tackle Wireless Issues, Windows Style!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-radeon-software-and-driver-versions-do-not-match/"><u>Fix: 'Radeon Software and Driver Versions Do Not Match'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-lenovo-bluetooth-hitches-in-win11/"><u>Fixing Lenovo Bluetooth Hitches in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-download-driver-for-unknown-device-in-device-manager/"><u>How to Download Driver for Unknown Device in Device Manager</u></a></li>
+<li><a href="https://win-bits.techidaily.com/resolucion-codigo-fuente-borrado-de-vscode-no-se-encuentra-en-la-paperera/"><u>Resolución: Código Fuente Borrado De VSCode No Se Encuentra en La Paperera</u></a></li>
+<li><a href="https://driver-error.techidaily.com/simplifying-razer-hd-ata-drivers-in-win11/"><u>Simplifying Razer HD ATA Drivers in WIN11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-non-responsive-mousepads-in-windows-versions-10-8-and-7/"><u>Solutions for Non-Responsive Mousepads in Windows Versions (10, 8, and 7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-driverpowerstatefailure-problem-a-step-by-step-guide/"><u>Solving the DRIVER_POWER_STATE_FAILURE Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-fps-conundrum-deciding-between-standard-and-higher-video-speeds/"><u>The FPS Conundrum Deciding Between Standard & Higher Video Speeds</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/understanding-a-blue-icons-role-facebooks-communication-tool-for-2024/"><u>Understanding a Blue Icon’s Role Facebook's Communication Tool for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-keys-not-functioning-properly/"><u>Windows 10: Keys Not Functioning Properly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winning-against-w11s-elan-input-issues-one-fix-at-a-time/"><u>Winning Against W11's Elan Input Issues, One Fix at a Time</u></a></li>
 </ul></div>
 

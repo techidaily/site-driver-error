@@ -1,7 +1,7 @@
 ---
 title: How to Repair Broken Qualcomm Atheros Bluetooth Drivers in Windows 11 [Detailed Guide]
-date: 2024-08-15T06:43:10.175Z
-updated: 2024-08-16T06:43:10.175Z
+date: 2024-10-31T19:29:16.465Z
+updated: 2024-11-04T17:44:59.243Z
 tags:
   - win11
   - win10
@@ -36,9 +36,6 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
  Then choose**Update history** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878514d080da.jpg)
   
  Scroll down to see if you can find the**KB3061161** . It should be a rather old update, so it might cost you some time to locate.
@@ -53,9 +50,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
  1) Go to the support website of the manufacture of your PC. We are using**ASUS** as an example. Then locate the support page of your PC by entering the model of your product.
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587854520d556.jpg)
 
 2) Then go to drivers section. (The name of the section could be different on different manufacturers’ websites.) You will be asked to select what operating system that you are using (we are going**Windows 10 64-bit**), and then a list of device drivers will be shown. Scroll down a little to choose**Qualcomm Atheros Bluetooth**driver under Bluetooth category. Then hit the**Global**button to get it downloaded.
@@ -80,9 +74,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 7) Now, go to the folder where you store the setup file of the Qualcomm Atheros Bluetooth driver, double the**setup file**and run the installation as instructed.
   
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587857485a0a6.png)
 
 8) When the install finishes, reboot your computer for the change to take effect.
@@ -103,25 +94,10 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 3) Locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Update Driver Software**.
   
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878797a95615.png)
 
  4) Choose**Browse my computer for driver software** .
   
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787a96b276c.jpg)
 
  5) Choose **Let me pick from a list of the drivers on my computer** .
@@ -167,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,6 +150,33 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-android-beat-best-free-apps-for-downloading-youtube-tunes/"><u>[New] In 2024, Android Beat Best Free Apps for Downloading YouTube Tunes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-secret-to-success-with-filmora-top-10-editing-traits-for-2024/"><u>[New] The Secret to Success with Filmora Top 10 Editing Traits for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-apps-to-modify-your-voice-on-commute/"><u>[Updated] 2024 Approved Best Apps to Modify Your Voice on Commute</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-invigorating-cold-season-selecting-warm-video-themes/"><u>2024 Approved Invigorating Cold Season Selecting Warm Video Themes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722896041011-apple-music-continuous-streaming-heres-how-you-can-stop-it/"><u>Apple Music Continuous Streaming? Here's How You Can Stop It!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/heal-tcpip-configuration-fault-latitude-laptop/"><u>Heal TCP/IP Configuration Fault, Latitude Laptop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-get-your-wireless-keyboard-working-again-on-a-pc-with-windows/"><u>How to Get Your Wireless Keyboard Working Again on a PC with Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-repair-your-qualcomm-atheros-bluetooth-driver-problems-with-windows-11-easily/"><u>How to Repair Your Qualcomm Atheros Bluetooth Driver Problems with Windows 11 Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-itel-s23-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Itel S23 Phone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-safe-mode-boot-and-graphics-card-driver-removal-techniques-for-windows-8-systems/"><u>Mastering Safe Mode Boot & Graphics Card Driver Removal Techniques for Windows 8 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104594806-no-more-frustration-quickly-fix-driver-not-available-for-itbm/"><u>No More Frustration – Quickly Fix 'Driver Not Available' For ITBM!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/picturemosaic-maker-blend-videos-and-pics-macos-for-2024/"><u>PictureMosaic Maker Blend Videos & Pics macOS for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revive-visual-output-via-system-tweaks/"><u>Revive Visual Output via System Tweaks</u></a></li>
+<li><a href="https://facebook.techidaily.com/secure-your-virtual-world-meta-or-facebook-for-quest-2/"><u>Secure Your Virtual World: Meta or Facebook for Quest 2?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/streamlining-windows-11-with-elan-driver-repair/"><u>Streamlining Windows 11 with Elan Driver Repair</u></a></li>
+<li><a href="https://driver-error.techidaily.com/underutilized-resources-on-device/"><u>Underutilized Resources on Device</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unpacking-the-ultrabook-an-in-depth-review-of-microsofts-budget-friendly-laptop-go/"><u>Unpacking the Ultrabook: An In-Depth Review of Microsoft's Budget-Friendly Laptop Go</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win10-troubleshooting-a-complete-look-at-asus-acpi/"><u>Win10 Troubleshooting: A Complete Look at Asus ACPI</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-and-lenovo-blue-tooth-harmony-achieved/"><u>Win11 & Lenovo Blue-Tooth Harmony Achieved!</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Disabled Issue Eliminated
-date: 2024-10-24T21:45:25.790Z
-updated: 2024-10-30T00:53:54.999Z
+date: 2024-11-02T17:45:45.634Z
+updated: 2024-11-04T17:23:00.043Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ If you encounter**This device is disabled. (Code 22)**in Device Manager, here ar
 3. [**Uninstall your device driver**](https://cowinaudio.pxf.io/pyx40e)
 4. **[Reset the BIOS settings](https://bluettius.sjv.io/dkpnv2)**
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Enable your device driver
 
 Code 22 occurs usually because your device is manually disabled. Then manually enabling it should solve the problem. Here’s how to do so：
@@ -43,15 +36,15 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e3f572c04.png)
 3. Expand the category that your device belongs to, right-click your device and select**Enable device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -67,10 +60,10 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -83,14 +76,14 @@ Uninstalling your device driver is another solution you can try to fix **This de
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ea2541557.jpg)
 2. Restart your computer, and Windows will automatically reinstall the driver for your device.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 4: Reset the BIOS settings
 
@@ -109,20 +102,21 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
  Example – CMOS battery on a laptop
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 6. Wait for about one or two minutes for the CMOS to reset itself to its defaults.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
@@ -147,22 +141,20 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-local-security-authority-protection-is-off/"><u>[Fixed] Local Security Authority Protection Is Off</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unlocking-superior-slow-motion-quality-through-fps-selection-for-2024/"><u>[Updated] Unlocking Superior Slow Motion Quality Through FPS Selection for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-transitions-kinemasters-step-by-step-tutorial/"><u>2024 Approved Mastering Transitions Kinemaster's Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-triumph-comparing-the-supremacy-of-gemini-and-plus-chatgpt/"><u>AI Triumph: Comparing the Supremacy of Gemini and Plus-ChatGPT</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-philips-hf3505-smart-sunrise-alarm-is-it-a-game-changer-in-morning-routines/"><u>Comprehensive Review of the Philips HF3505 Smart Sunrise Alarm - Is It a Game Changer in Morning Routines?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-recognition-issues-in-windows-1187-solving-missing-driver-problems/"><u>Device Recognition Issues in Windows 11/8/7: Solving Missing Driver Problems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-fixes-for-missing-drivers-on-windows-guides-for-windows-11-8-and-7/"><u>Easy Fixes for Missing Drivers on Windows: Guides for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-eradicated-graphic-driver-installed-flawlessly/"><u>Error Eradicated: Graphic Driver Installed Flawlessly</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f54-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy F54 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-professional-animation-software-8-best-creator-for-mac-and-windows/"><u>New In 2024, Professional Animation Software 8 Best Creator for Mac and Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/non-functional-keyboard-lights-on-asus-model/"><u>Non-Functional Keyboard Lights on ASUS Model</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-frequent-crashing-with-amd-drivers/"><u>Resolve Frequent Crashing with AMD Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/status-upgrade-disable-removed/"><u>Status Upgrade: Disable Removed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-first-time-filmmakers-guide-to-gear-selection-for-2024/"><u>The First-Time Filmmaker's Guide to Gear Selection for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/total-disk-utilization-fix-for-win11-and-10/"><u>Total Disk Utilization Fix for Win11 & 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubled-by-slow-graphics-on-pc-solve-your-gpu-issues-now-please/"><u>Troubled by Slow Graphics on PC? Solve Your GPU Issues Now, Please</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-from-camera-to-computer-editing-nikon-videos-with-confidence/"><u>Updated In 2024, From Camera to Computer Editing Nikon Videos with Confidence</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-comprehensive-list-of-ios-compatible-ps2-games-for-2024/"><u>[New] Comprehensive List of iOS-Compatible PS2 Games for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-cut-the-stream-of-automatically-played-podcasts-in-spotify/"><u>[Updated] In 2024, Cut the Stream of Automatically Played Podcasts in Spotify</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-instagram-stories-tempo-tactics-speeding-up-or-slowing-down/"><u>[Updated] In 2024, Instagram Stories Tempo Tactics – Speeding Up or Slowing Down</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pixelplay-review-and-step-by-step-2024/"><u>[Updated] PixelPlay Review & Step-by-Step 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-step-by-step-guide-to-linking-obs-and-streamlabs-mac/"><u>[Updated] Step-by-Step Guide to Linking OBS & Streamlabs (Mac)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluray-non-display-issue-resolved-in-windows-11/"><u>BluRay Non-Display Issue Resolved in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/broadcoms-solution-enhanced-functionality-for-n-adapter-in-windows/"><u>Broadcom's Solution: Enhanced Functionality for N Adapter in Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/captivating-gamer-content-through-obs-streaming/"><u>Captivating Gamer Content Through OBS Streaming</u></a></li>
+<li><a href="https://driver-error.techidaily.com/controller-error-notice-at-idedevice/"><u>Controller Error Notice at Idedevice</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-the-windows-enter-key-breakdown/"><u>Correcting the Windows Enter Key Breakdown</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-choices-insights-from-toms-hardware-hub/"><u>Navigating Technology Choices: Insights From Tom's Hardware Hub</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721097739479-overcoming-the-missing-coprocessor-driver-error-on-your-windows-10-machine-solutions-inside/"><u>Overcoming the Missing Coprocessor Driver Error on Your Windows 10 Machine - Solutions Inside</u></a></li>
+<li><a href="https://fox-info.techidaily.com/proven-strategies-for-powerful-customer-success-stories-on-screen-for-2024/"><u>Proven Strategies for Powerful Customer Success Stories on Screen for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/steps-voor-het-herstellen-van-weggereduceerde-beelden-in-de-discord-en-windows-omgeving/"><u>Steps Voor Het Herstellen Van Weggereduceerde Beelden in De Discord en Windows-Omgeving</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103903270-weve-found-a-quick-resolution-for-your-gpu-related-gaming-woes/"><u>We've Found a Quick Resolution for Your GPU-Related Gaming Woes!</u></a></li>
 </ul></div>
 

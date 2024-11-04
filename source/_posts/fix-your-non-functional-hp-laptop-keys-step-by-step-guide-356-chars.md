@@ -1,7 +1,7 @@
 ---
 title: Fix Your Non-Functional HP Laptop Keys Step By Step Guide – 356 Chars
-date: 2024-10-24T22:04:31.077Z
-updated: 2024-10-30T00:32:52.652Z
+date: 2024-10-31T19:13:18.367Z
+updated: 2024-11-04T21:31:49.391Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Step 2: Check Keyboard Settings**
 
 1) Click your**Start**button, then choose**Settings**icon from it. Then choose**Time & language**.
@@ -58,26 +51,39 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd71980796.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If not, click the**Options**button as shown in the screen shot.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd7a070a5e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then make sure the Keyboards is selected as**US**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Step 3: Try an External Keyboard**
@@ -87,10 +93,10 @@ If you have tried the above methods but they are not helpful, you may need to pl
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
@@ -117,22 +123,19 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/solved-this-device-is-not-configured-correctly-code-1/"><u>[Solved] This Device Is Not Configured Correctly (Code 1)</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-effortless-guide-never-see-youtube-shorts-again/"><u>[Updated] Effortless Guide Never See YouTube Shorts Again</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-how-to-quickly-capture-iphone-screens-on-the-fly-for-2024/"><u>[Updated] How to Quickly Capture iPhone Screens on the Fly for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-crafting-powerful-partnerships-a-guide-to-choosing-youtube-allies/"><u>[Updated] In 2024, Crafting Powerful Partnerships A Guide to Choosing YouTube Allies</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-innovative-thumbnail-tips-for-mac-users-youtube/"><u>2024 Approved Innovative Thumbnail Tips for Mac Users - YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-integration-12-stream-app-experience/"><u>2024 Approved Seamless Integration 12 Stream App Experience</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effective-solutions-for-restoring-functionality-of-your-wireless-keyboard-on-windows-machines/"><u>Effective Solutions for Restoring Functionality of Your Wireless Keyboard on Windows Machines</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-gaming-controls-windows-mastery-in-calibration-and-test/"><u>Elevating Gaming Controls: Windows Mastery in Calibration & Test</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-s23-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel S23 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intel-hd-graphics-4600-driver-download-and-install-easily/"><u>Intel HD Graphics 4600 Driver Download and Install. Easily</u></a></li>
-<li><a href="https://driver-error.techidaily.com/master-local-ai-development-with-gigabytes-elite-workstation-kit-premium-motherboards-dual-gpu-support-amdintel-high-speed-ssds-and-sturdy-psus-augmented-by107/"><u>Master Local AI Development with Gigabyte’s Elite Workstation Kit: Premium Motherboards, Dual-GPU Support (AMD/Intel), High-Speed SSDs and Sturdy PSUs, Augmented by Expert Software Tools</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/maximize-your-on-the-go-charging-with-the-halo-bolt-portable-chargerjump-starter-a-comprehensive-guide/"><u>Maximize Your On-The-Go Charging with the Halo Bolt Portable Charger/Jump Starter: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/rejuvenating-pc-gaming-update-razer-deathadder-driver/"><u>Rejuvenating PC Gaming: Update Razer Deathadder Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-crashed-and-fixed-standard-radeon-wattman-parameters-issues-easily/"><u>Resolving 'Crashed and Fixed: Standard Radeon WattMan Parameters' Issues Easily</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simplifying-cross-language-communication-with-chatgpt-as-your-go-to-translator-tool/"><u>Simplifying Cross-Language Communication with ChatGPT as Your Go-To Translator Tool</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-how-to-install-missing-drivers-for-devices-in-windows-operating-systems/"><u>Solved: How to Install Missing Drivers for Devices in Windows Operating Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/usb-headset-not-chargingworking-windows-10-fixes-explained/"><u>USB Headset Not Charging/Working: Windows 10 Fixes Explained</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-essential-tiktok-to-twitter-sharing/"><u>[New] The Essential TikTok to Twitter Sharing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-record-movies-on-pc-mac-and-smartphones-in-2024/"><u>[Updated] How to Record Movies on PC, Mac, and Smartphones, In 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-chuckles-and-challenges-best-fun-for-young-minds/"><u>[Updated] In 2024, Chuckles & Challenges - Best Fun for Young Minds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-evaluation-djis-latest-drone-the-inspire-1/"><u>2024 Approved Full Evaluation DJI's Latest Drone, The Inspire 1</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-poco-f5-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/e-gaps-in-generations-of-viewers-6-interactive-tests-to-find-your-youtube-match-for-2024/"><u>Bridge Gaps in Generations of Viewers 6 Interactive Tests to Find Your YouTube Match for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-not-found-intel-adapter-lacks-integration/"><u>Driver Not Found; Intel Adapter Lacks Integration</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensuring-peak-performance-with-updated-deadrivers-for-windows/"><u>Ensuring Peak Performance with Updated DeaDrivers for Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-understanding-and-utilizing-igtv-for-enhanced-engagement/"><u>In 2024, Understanding and Utilizing IGTV for Enhanced Engagement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-sns-hdrs-strengths-and-comparative-software/"><u>In 2024, Unveiling SNS HDR's Strengths & Comparative Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-the-art-of-turning-off-win11-bluetooth/"><u>Mastering the Art of Turning Off Win11 Bluetooth</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-your-gaming-potential-with-the-asus-rt-ac88u-wireless-router-uncovered/"><u>Maximizing Your Gaming Potential with the ASUS RT-AC88U Wireless Router Uncovered</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-computer-glitches-fix-your-final-usb-device-when-its-ignored-by-windows-systems/"><u>Overcoming Computer Glitches: Fix Your Final USB Device When It's Ignored By Windows Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-troubleshooting-nonfunctional-broadcom-wireless-n-adapter/"><u>Win Troubleshooting: Nonfunctional Broadcom Wireless N Adapter</u></a></li>
 </ul></div>
 

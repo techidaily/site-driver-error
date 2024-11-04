@@ -1,7 +1,7 @@
 ---
 title: "Restored Functionality: Device Active Alert"
-date: 2024-10-28T22:49:34.836Z
-updated: 2024-10-29T22:02:41.774Z
+date: 2024-11-03T16:25:05.877Z
+updated: 2024-11-04T18:32:23.688Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ If you encounter**This device is disabled. (Code 22)**in Device Manager, here ar
 4. **[Reset the BIOS settings](https://bluettius.sjv.io/dkpnv2)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Enable your device driver
@@ -43,15 +43,15 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e3f572c04.png)
 3. Expand the category that your device belongs to, right-click your device and select**Enable device** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -66,14 +66,14 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall your device driver
 
@@ -82,13 +82,6 @@ Uninstalling your device driver is another solution you can try to fix **This de
 1. In Device Manager, right-click your device and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ea2541557.jpg)
 2. Restart your computer, and Windows will automatically reinstall the driver for your device.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -111,13 +104,20 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
 5. Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 6. Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -141,22 +141,22 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-eyedome-hd-top-quality-chromeos-snapping/"><u>[New] EyeDome HD Top Quality ChromeOS Snapping</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-generic-bluetooth-radio-driver-issues-in-windows-quickly-and-easily/"><u>[SOLVED] Generic Bluetooth Radio Driver Issues in Windows. Quickly & Easily!</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-fixing-unintended-you-mistakes-while-chatting-online/"><u>[Updated] In 2024, Fixing Unintended 'You' Mistakes While Chatting Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-take-portrait-photo-with-your-old-iphone-x8-plus7-plus/"><u>2024 Approved Take Portrait Photo with Your Old iPhone X/8 Plus/7 Plus</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-mapmyride-a-thorough-user-experience-review/"><u>Comprehensive Analysis of MapMyRide: A Thorough User Experience Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-handling-oleaut32dll-not-detected-errors-effectively/"><u>Expert Advice on Handling Oleaut32.dll Not Detected Errors Effectively</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-nonfunctional-ethernet-controller-in-new-os-version/"><u>Fixing Nonfunctional Ethernet Controller in New OS Version</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-ai-chatbots-learn-to-communicate-like-us/"><u>How AI Chatbots Learn to Communicate Like Us</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-missing-drivers-in-windows-comprehensive-solutions-for-windows-10-8-and-ebox/"><u>No More Missing Drivers in Windows - Comprehensive Solutions for Windows 10, 8 and Ebox</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premier-selection-of-iphone-x876-compatible-gif-apps-for-2024/"><u>Premier Selection of iPhone X/8/7/6-Compatible GIF Apps for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reconnect-headset-to-win10-overcoming-compatibility-issues/"><u>Reconnect Headset to Win10: Overcoming Compatibility Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/rectifying-devices-within-windows-manager/"><u>Rectifying Devices Within Windows Manager</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-12-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from 12</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-bluetooth-auto-enable-on-win11/"><u>Solving Bluetooth Auto-Enable on Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/triumphant-tips-for-fixed-bluetech-functionality-in-windows-11-effortlessly-connect-with-devices-revealed/"><u>Triumphant Tips for Fixed BlueTech Functionality in Windows 11 – Effortlessly Connect With Devices! (Revealed)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-amd-drivers-for-smooth-operation/"><u>Troubleshoot AMD Drivers for Smooth Operation</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-microsoft-print-to-pdf-problems-in-windows-10-or-11/"><u>Troubleshooting Microsoft Print to PDF Problems in Windows 10 or 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-audience-friendly-audio-fades-practices-in-audacity/"><u>[New] Audience-Friendly Audio Fades Practices in Audacity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-error-code-45-in-device-manager/"><u>[SOLVED] Error Code 45 in Device Manager</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-3-ways-for-ipad-voice-recording/"><u>[Updated] 2024 Approved 3 Ways for iPad Voice Recording</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-learn-to-post-multimedia-video-edition-on-twitter/"><u>[Updated] Learn to Post Multimedia Video Edition on Twitter</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728504072042-windows-11/"><u>移動Windows 11中的附件到本地計算機 - 最佳方法</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/canons-rebel-t7-kit-a-sign-of-progress-in-photography/"><u>Canon's Rebel T7 Kit - A Sign of Progress in Photography</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-apc-ups-1500va-assessment-ample-energy-supply-plenty-of-connections-and-battery-flexibility/"><u>Comprehensive APC UPS 1500VA Assessment: Ample Energy Supply, Plenty of Connections & Battery Flexibility</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-non-functional-dolby-audio-drivers-in-windows-environment-fixed/"><u>Fixing Non-Functional Dolby Audio Drivers in Windows Environment – Fixed! ✅</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-absent-coprocessor-driver-in-windows-11-resolution-steps/"><u>Fixing the Absent Coprocessor Driver in Windows 11 - Resolution Steps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-solve-windows-failure-to-recognize-your-last-hooked-up-usb-device/"><u>How to Solve Windows Failure to Recognize Your Last Hooked Up USB Device?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-live-audience-score-keeper-apps/"><u>In 2024, Live Audience Score Keeper Apps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/install-required-drivers-on-windows-1187-heres-your-solution/"><u>Install Required Drivers on Windows 11/8/7? Here's Your Solution!</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/leading-dvd-to-avi-file-transformation-tools-on-windows-11-top-picks/"><u>Leading DVD to AVI File Transformation Tools on Windows 11 - Top Picks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/logitech-unifying-receiver-not-detected-in-windows-1110-solved/"><u>Logitech Unifying Receiver Not Detected in Windows 11/10 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/loss-of-hardware-support-on-win1011-os/"><u>Loss of Hardware Support on Win10/11 OS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-tp-link-deco-p9-mesh-router-revolutionizing-home-internet-access/"><u>The Ultimate Guide to the TP-LInk Deco P9 Mesh Router: Revolutionizing Home Internet Access</u></a></li>
+<li><a href="https://driver-error.techidaily.com/universal-pci-drivers-bundle-windows-edition/"><u>Universal PCI Drivers Bundle: Windows Edition</u></a></li>
 </ul></div>
 

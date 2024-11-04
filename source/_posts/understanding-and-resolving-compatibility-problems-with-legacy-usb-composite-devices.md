@@ -1,7 +1,7 @@
 ---
 title: Understanding and Resolving Compatibility Problems with Legacy USB Composite Devices
-date: 2024-10-26T22:07:27.273Z
-updated: 2024-10-29T20:56:59.518Z
+date: 2024-10-30T21:01:04.838Z
+updated: 2024-11-04T20:48:32.089Z
 tags:
   - win11
   - win10
@@ -48,10 +48,10 @@ Fortunately, this is one of the easiest problems to fix.
 4. Restart your computer and check if your USB Composite Device now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -63,6 +63,13 @@ Fortunately, this is one of the easiest problems to fix.
 1. On your keyboard, press the   **Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62735e40ac6.png)**  
 **key**  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  and  
 **R**  
   key simultaneously to open the Run box.
@@ -71,31 +78,30 @@ Fortunately, this is one of the easiest problems to fix.
 3. In Device Manger, scroll down to find**Universal Serial Bus controllers** and expand the entry.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b61714f05a95.jpg)
 4. Right-click on the first USB device and select**Uninstall device**  to remove it.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Important:** Make sure you’ve saved any open files on your computer before you click**Uninstall device** , as you might need to force shutdown and restart later.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6171a9ae8b0.jpg)
 5. Repeat step 4) with every other USB device that is listed under the**Universal Serial Bus controllers** entry.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** Some USB devices have to do with your wired mouse, keyboard etc, which means uninstalling those devices will make them not working, don’t worry, just temporarily. As long as Windows restarts, it will automatically install the drivers again.
@@ -133,18 +139,21 @@ Fortunately, this is one of the easiest problems to fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-precision-editing-at-your-fingertips-canvas-boundary-eradication/"><u>[New] 2024 Approved Precision Editing at Your Fingertips Canva's Boundary Eradication</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-copyright-confusion-suddenly-no-more-videos-for-2024/"><u>[New] Copyright Confusion Suddenly No More Videos for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-essential-wmp-routine-for-cds-ripping-and-batch-processing/"><u>[New] The Essential WMP Routine for CDs Ripping & Batch Processing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-extensive-look-at-djis-inspire-1-drone/"><u>[Updated] Extensive Look at DJI's Inspire 1 Drone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-5-simplified-steps-for-sequential-youtube-video-viewing-free/"><u>[Updated] In 2024, 5 Simplified Steps for Sequential YouTube Video Viewing (Free)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-hack-free-guide-to-anonymous-instagram-story-viewing/"><u>[Updated] In 2024, Hack-Free Guide to Anonymous Instagram Story Viewing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-black-battery-compatibility-with-gopro-hero5/"><u>[Updated] Ultimate Black Battery Compatibility with GoPro Hero5</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-rejuvenated-interview-framework-for-auditory-appeal/"><u>2024 Approved Rejuvenated Interview Framework for Auditory Appeal</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/engineering-an-impactful-trailer-triumph/"><u>Engineering an Impactful Trailer Triumph</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-tips-to-overcome-the-failed-to-install-hcmondriver-problem/"><u>Expert Tips to Overcome the 'Failed to Install Hcmondriver' Problem</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-the-absent-coprocessor-driver-issue-in-windows-10-easy-guide/"><u>How to Fix the Absent Coprocessor Driver Issue in Windows 10 - Easy Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-device-compatibility-driver-installation-tips-for-windows-xp-to-10/"><u>Mastering Device Compatibility: Driver Installation Tips for Windows XP to 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastery-of-windows-solving-ndis-fast-and-easy/"><u>Mastery of Windows: Solving NDIS Fast & Easy</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-discover-apples-best-vr-gaming-titles-on-your-phone/"><u>[New] 2024 Approved Discover Apple's Best VR Gaming Titles on Your Phone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-becoming-a-reel-virtuoso-in-the-social-media-arena/"><u>[Updated] Becoming a Reel Virtuoso in the Social Media Arena</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unleash-your-ugc-making-memes-and-marks-on-fb/"><u>[Updated] In 2024, Unleash Your UGC Making Memes and Marks on FB</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tiktok-age-update-made-simple-user-friendly-techniques/"><u>2024 Approved TikTok Age Update Made Simple User-Friendly Techniques</u></a></li>
+<li><a href="https://driver-error.techidaily.com/amd-radeon-hd-7770-drivers-download-easily/"><u>AMD Radeon HD 7770 Drivers Download Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-mb168b-driver-download-for-windows-11-7-and-8/"><u>ASUS MB168B Driver Download for Windows 11, 7 & 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/download-lenovo-thinkpad-edge-driver-updates-compatible-with-windows-10/"><u>Download Lenovo ThinkPad Edge Driver Updates Compatible with Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/download-microsoft-lifecam-drivers-with-ease-step-by-step-instructions-for-smooth-setup/"><u>Download Microsoft Lifecam Drivers with Ease – Step-by-Step Instructions for Smooth Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/download-the-latest-amd-radeon-hd-6670-graphics-card-drivers-with-these-simple-steps/"><u>Download the Latest AMD Radeon HD 6670 Graphics Card Drivers with These Simple Steps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhanced-range-with-netgear-nighthawk-x6s-the-ultimate-wi-fi-booster/"><u>Enhanced Range with Netgear Nighthawk X6S - The Ultimate Wi-Fi Booster</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-dell-touchpad-not-working-issue-for-windows-11/"><u>Fix Dell Touchpad Not Working Issue for Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-windows-11-ethernet-driver-issues-easily/"><u>Fix Windows 11 Ethernet Driver Issues. Easily!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-non-functional-call-forwarding-on-your-iphone-effective-solutions-and-tips/"><u>Fixing Non-Functional Call Forwarding on Your iPhone: Effective Solutions and Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h265-hevc-video-on-redmi-note-12-pro-4g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Redmi Note 12 Pro 4G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-honor-play-7t-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Honor Play 7T</u></a></li>
 </ul></div>
 

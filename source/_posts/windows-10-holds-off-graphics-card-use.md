@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Holds Off Graphics Card Use
-date: 2024-10-24T17:32:33.669Z
-updated: 2024-10-30T04:30:18.457Z
+date: 2024-10-31T16:35:32.826Z
+updated: 2024-11-04T17:33:47.513Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 1. [**Run System File Checker and DISM commands**](https://bluetties.sjv.io/lxv4pm)
 2. [**Reinstall your display driver**](https://coinrule.sjv.io/rqzonv)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run System File Checker and DISM commands
 
  This problem may occur if you have corrupted or damaged system files on your Windows computer.
@@ -38,6 +45,13 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7aea748d7a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click**YES** when prompted by the User Account Control.
 
  2) Type**sfc /scannow**  and press **Enter** . Wait for the scanning to be **100%**  completed.
@@ -45,10 +59,10 @@ Follow these steps to recover your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7af1a7f21e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Type the following commands and press **Enter**  after each.
@@ -60,13 +74,6 @@ Follow these steps to recover your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-15.png)
 
  4) Reboot Windows 10 and run your game software to see if it works. If it doesn’t work, you can try our other fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
 
@@ -84,22 +91,21 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509eed56b24.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. You can update the drivers one by one using the **Update**  button. But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can update all your drivers with one click — **Update All** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509f1432541.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Reboot your Windows 10 PC and run your game software to see if it works.
@@ -124,24 +130,17 @@ Follow these steps to recover your system files:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-gaming-harmonies-archive-legal-free-to-access-for-2024/"><u>[New] Gaming Harmonies Archive Legal, Free to Access for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-your-channels-earning-potential-through-trailers/"><u>[New] Maximizing Your Channel's Earning Potential Through Trailers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-gentle-volume-reduction-methods-in-ableton-live/"><u>[Updated] 2024 Approved Gentle Volume Reduction Methods in Ableton Live</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hook-creating-headline-helper/"><u>[Updated] Hook-Creating Headline Helper</u></a></li>
-<li><a href="https://driver-error.techidaily.com/2-ways-to-download-hp-pro-3500-mt-pc-drivers/"><u>2 Ways to Download HP Pro 3500 MT PC Drivers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hear-the-difference-on-chrome-the-ultimate-guide-to-voice-alteration-apps/"><u>2024 Approved Hear the Difference on Chrome The Ultimate Guide to Voice Alteration Apps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/amd-graphics-drivers-for-windows-11/"><u>AMD Graphics Drivers for Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/amd-radeon-hd-6670-driver-download-easily/"><u>AMD Radeon HD 6670 Driver Download Easily</u></a></li>
-<li><a href="https://driver-error.techidaily.com/download-and-update-lenovo-y900-drivers-for-windows-11-step-by-step-guide/"><u>Download and Update Lenovo Y900 Drivers for Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/download-asus-mb168b-graphics-card-drivers-compatible-with-windows-1078/"><u>Download ASUS MB168B Graphics Card Drivers Compatible with Windows 10/7/8</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/examining-ai-generated-content-risks/"><u>Examining AI-Generated Content Risks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/get-your-lenovo-connexant-superior-surround-sound-drivers-for-free-online/"><u>Get Your Lenovo Connexant Superior Surround Sound Drivers for Free Online</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-pro/"><u>HP Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ipad-pro-showdown-which-cutting-edge-flagship-model-fits-your-needs-best-insights-and-reviews-gadget-review-hub/"><u>IPad Pro Showdown: Which Cutting-Edge Flagship Model Fits Your Needs Best? Insights & Reviews | Gadget Review Hub</u></a></li>
-<li><a href="https://driver-error.techidaily.com/latest-lenovo-thinkpad-edge-driver-software-downloads-optimized-for-windows-10-systems/"><u>Latest Lenovo ThinkPad Edge Driver Software Downloads Optimized for Windows 10 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-excel-a-guide-on-incorporating-cell-data-into-your-chart-labels/"><u>Mastering Excel: A Guide on Incorporating Cell Data Into Your Chart Labels</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1724467298013-microsoft-lifecam-driver-download-the-easy-way/"><u>Microsoft Lifecam Driver Download - The Easy Way</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultra-hd-revolution-dissecting-samsungs-ue590-tv/"><u>The Ultra HD Revolution - Dissecting Samsung's UE590 TV</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-chorus-of-creativity-the-mac-studio-experience/"><u>[New] 2024 Approved Chorus of Creativity The Mac Studio Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-how-to-record-your-games-with-diverse-software-solutions/"><u>[New] 2024 Approved How to Record Your Games with Diverse Software Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-fuel-ambition-with-these-10-movie-masterpieces-for-2024/"><u>[New] Fuel Ambition with These 10 Movie Masterpieces for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-device-manager-error-unfolds/"><u>[SOLVED]: Device Manager Error Unfolds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-assistant-faceoff-evaluating-googles-bard-against-microsofts-bing-chat-for-optimal-performance/"><u>AI Assistant Faceoff: Evaluating Google's Bard Against Microsoft's Bing Chat for Optimal Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-gpu-freeze-fix-code-0x887a0006/"><u>Eliminating GPU Freeze: Fix Code 0X887A0006</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-youtube-marketing-techniques-ranked-from-best-to-worst-for-2024/"><u>Essential YouTube Marketing Techniques – Ranked From Best to Worst for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-motorola-moto-g13-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Motorola Moto G13</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-sailing-windows-10-lenovo-bt-driver/"><u>Smooth Sailing: Windows 10, Lenovo BT Driver</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/stay-active-with-ease-using-the-samsung-galaxy-fit2-the-ultimate-portable-fitness-tracker/"><u>Stay Active with Ease Using the Samsung Galaxy Fit2: The Ultimate Portable Fitness Tracker</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stop-unwanted-windows-10-bluetooth/"><u>Stop Unwanted Windows 10 Bluetooth</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-1011-recognize-disk-drive/"><u>Windows 10/11: Recognize Disk Drive</u></a></li>
 </ul></div>
 

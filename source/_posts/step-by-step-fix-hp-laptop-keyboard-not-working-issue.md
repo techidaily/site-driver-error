@@ -1,7 +1,7 @@
 ---
 title: Step by Step Fix HP Laptop Keyboard Not Working Issue
-date: 2024-10-25T04:08:58.691Z
-updated: 2024-10-29T21:14:48.759Z
+date: 2024-10-29T16:16:51.673Z
+updated: 2024-11-04T19:48:54.767Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Step 2: Check Keyboard Settings**
 
 1) Click your**Start**button, then choose**Settings**icon from it. Then choose**Time & language**.
@@ -51,34 +58,20 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd71980796.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If not, click the**Options**button as shown in the screen shot.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd7a070a5e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then make sure the Keyboards is selected as**US**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Step 3: Try an External Keyboard**
 
@@ -87,13 +80,26 @@ If you have tried the above methods but they are not helpful, you may need to pl
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Step 4:** **Perform a Hard Reset**
 
@@ -117,24 +123,18 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-hd-drivers-in-windows-11/"><u>[Fixed] HD Drivers in Windows 11</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-skyward-gazing-inside-the-world-of-x4-fpv-quads-for-2024/"><u>[New] Skyward Gazing Inside the World of X4 FPV Quads for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-hd-capture-software-for-windows-and-macos/"><u>[New] Ultimate HD Capture Software for Windows & macOS</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-produce-fb-profile-visuals/"><u>[Updated] Produce FB Profile Visuals</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensively-manage-app-packages-with-winget-on-win11/"><u>Comprehensively Manage App Packages with Winget on Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-the-wireless-keyboard-failure-in-microsofts-operating-system/"><u>Diagnosing and Repairing the Wireless Keyboard Failure in Microsoft's Operating System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-make-usb-audio-device-work-in-windows-10/"><u>How To Make USB Audio Device Work in Windows 10</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-pova-5-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Pova 5 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-projects-through-music-addition-in-premiere-pro/"><u>In 2024, Perfecting Projects Through Music Addition in Premiere Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/konvertieren-von-midi-dateien-in-waveform-fur-windows-10-kostenlos-mit-open-source-tools/"><u>Konvertieren Von Midi-Dateien in Waveform (Für Windows 10) Kostenlos Mit Open Source Tools</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-disconnected-touchpad-driver-recovery-success/"><u>No More Disconnected Touchpad: Driver Recovery Success</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ranking-the-leading-audio-modifying-mobile-apps/"><u>Ranking the Leading Audio-Modifying Mobile Apps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-laptop-drivers-for-an-optimized-acpi-experience/"><u>Resolving Laptop Drivers for an Optimized Acpi Experience</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-missing-media-device-problem-in-windows-1011/"><u>Solve Missing Media Device Problem in Windows 10/11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-fix-recovering-a-lost-coprocessor-driver-on-windows-11-devices/"><u>Step-by-Step Fix: Recovering a Lost Coprocessor Driver on Windows 11 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fixes-to-restore-functionality-in-lenovo-finger-scanning-technology/"><u>Step-by-Step Fixes to Restore Functionality in Lenovo Finger Scanning Technology</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-and-compressed-memory-high-disk-usage-on-windows-11-solved/"><u>System and Compressed Memory High Disk Usage on Windows 11 [Solved]</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210348072-9782226390578-tisser-le-lien/"><u>Tisser le lien | Free Book</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixes-for-hp-wireless-keyboard-connectivity-issues/"><u>Troubleshooting Guide: Fixes for HP Wireless Keyboard Connectivity Issues</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/astery-of-viewership-hierarchy-key-aspects-examined/"><u>[New] Mastery of Viewership Hierarchy Key Aspects Examined</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-speeding-up-your-instagram-video-watch-time-for-2024/"><u>[Updated] Speeding Up Your Instagram Video Watch Time for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-professional-video-editing-does-m1-macbook-air-hold-up/"><u>2024 Approved Professional Video Editing Does M1 MacBook Air Hold Up?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-solutions-to-unlock-oppo-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>6 Solutions to Unlock Oppo Phones If You Forgot Password, PIN, Pattern</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/advanced-shooting-modes-unveiling-the-secrets-of-smart-hdr-3-and-4/"><u>Advanced Shooting Modes Unveiling the Secrets of Smart HDR 3 & 4</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-configure-devices-right-overcoming-error-code-1-challenges/"><u>How to Configure Devices Right: Overcoming Error Code 1 Challenges</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-refresh-driver-software-on-the-hp-envy-20-computer-system/"><u>How to Refresh Driver Software on the HP ENVY 20 Computer System</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-honor-magic-6-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Honor Magic 6 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/post-windows-creators-upgrade-my-latest-cams-not-working-solve-this-before-it-drives-me-crazy-solved/"><u>Post-Windows Creators Upgrade, My Latest Cam’s Not Working: Solve This Before It Drives Me Crazy! 😠 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/removing-incessant-windows-10-bluetooth-signal/"><u>Removing Incessant Windows 10 Bluetooth Signal</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-holds-off-graphics-card-use/"><u>Windows 10 Holds Off Graphics Card Use</u></a></li>
 </ul></div>
 

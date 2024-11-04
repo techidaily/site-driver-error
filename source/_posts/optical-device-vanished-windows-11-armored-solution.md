@@ -1,7 +1,7 @@
 ---
 title: "Optical Device Vanished: Windows 11 Armored Solution"
-date: 2024-10-29T00:25:03.248Z
-updated: 2024-10-29T21:08:52.574Z
+date: 2024-11-02T19:36:34.265Z
+updated: 2024-11-04T21:55:53.416Z
 tags:
   - win11
   - win10
@@ -67,25 +67,11 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a61a4afa.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
 
@@ -103,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
@@ -118,10 +104,16 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
@@ -132,10 +124,30 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Follow the path:
 **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\atapi\\**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd3791d37b.png)
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
@@ -149,16 +161,16 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -179,20 +191,17 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-seamless-integration-of-srt-files-in-windows-macos/"><u>[Updated] 2024 Approved Seamless Integration of SRT Files in Windows, MacOS</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-exploring-the-financial-framework-of-youtubes-burgeoning-shorts-fund-for-2024/"><u>[Updated] Exploring the Financial Framework of YouTube's Burgeoning Shorts Fund for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/5-reasons-youre-feeling-apathetic-about-school-and-how-to-overcome-them/"><u>5 Reasons You're Feeling Apathetic About School and How to Overcome Them</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-leverage-llama-2-in-depth-tutorial-and-usage-strategies/"><u>How to Leverage Llama 2: In-Depth Tutorial and Usage Strategies</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-overcome-iphone-usb-device-recognition-errors-with-easy-to-follow-mtp-driver-tips/"><u>How to Overcome iPhone USB Device Recognition Errors with Easy-to-Follow MTP Driver Tips</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-a78-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo A78 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-y100i-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo Y100i</u></a></li>
-<li><a href="https://extra-information.techidaily.com/inject-audio-harmony-to-premiere-pro-videos/"><u>Inject Audio Harmony to Premiere Pro Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/perfect-installation-despite-past-errors/"><u>Perfect Installation Despite Past Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reinforce-dell-input-device-stability-in-win7/"><u>Reinforce Dell Input Device Stability in Win7</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210496398-simple-fixes-for-windows-11-users-struggling-with-the-disappearing-bluetooth-feature/"><u>Simple Fixes for Windows 11 Users Struggling with the Disappearing Bluetooth Feature</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-recovering-windows-11s-lost-coprocessor-driver/"><u>Troubleshooting Guide: Recovering Windows 11'S Lost Coprocessor Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wacom-revolution-device-connection-ended-forever/"><u>Wacom Revolution: Device Connection Ended Forever</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-78-usb-reconnection-a-step-by-point-guide/"><u>Win 7/8 USB Reconnection: A Step-By Point Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wudfrd-driver-unresponsive-event-219-detected/"><u>WudfRd Driver Unresponsive - Event 219 Detected</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-fixing-failed-video-uploads-on-facebook-live-features/"><u>[New] In 2024, Fixing Failed Video Uploads on Facebook Live Features</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-cannot-install-drivers-no-intelr-adapters-are-present-in-this-computer/"><u>[Solved] Cannot Install Drivers. No Intel(R) Adapters Are Present in This Computer</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1153688-9781577319658-active-dreaming/"><u>Active Dreaming | Free Book</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-essential-steps-for-clear-quality-iphone-recordings/"><u>In 2024, Essential Steps for Clear, Quality iPhone Recordings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simplified-protocol-effortless-video-conversion-and-dvd-making/"><u>In 2024, Simplified Protocol Effortless Video Conversion and DVD Making</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/key-online-marketing-seminars-every-professional-should-attend-powered-by-massmail-insights/"><u>Key Online Marketing Seminars Every Professional Should Attend - Powered by MassMail Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-automation-awaits-discover-the-6-essential-tech-enhancements-to-supercharge-your-smart-home/"><u>Next-Level Automation Awaits: Discover the 6 Essential Tech Enhancements to Supercharge Your Smart Home</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-missing-coprocessor-driver-error-on-your-windows-10-machine-solutions-inside/"><u>Overcoming the Missing Coprocessor Driver Error on Your Windows 10 Machine - Solutions Inside!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-11-proplus-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme 11 Pro+ Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-problem-of-a-faulty-usb-device-not-detected-by-windows/"><u>Resolving the Problem of a Faulty USB Device Not Detected by Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-your-pcs-audio-system-after-installing-dynaudio-driver-for-dolby-atmos-fixed/"><u>Restoring Your PC’s Audio System After Installing Dynaudio Driver for Dolby Atmos®- Fixed! ✅</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-entering-safe-mode-and-deleting-problematic-graphics-drivers-on-windows-8/"><u>Troubleshooting: Entering Safe Mode & Deleting Problematic Graphics Drivers on Windows 8</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Silent Input Device - Windows Mystery
-date: 2024-08-15T06:42:10.163Z
-updated: 2024-08-16T06:42:10.163Z
+date: 2024-11-01T19:12:33.223Z
+updated: 2024-11-04T20:21:33.605Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
 
  Some of the following fixes require a working pointing device. Try using a pointing pen, a USB mouse, a touchpad, or speech recognition. If you have previously enabled the remote connection on your Windows 10, or that you have installed Teamviewer, use them as per your own needs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1: Reinstall the wireless mouse driver
 
 **NOTE**  : You should use the remote control feature to proceed with the following method.
@@ -53,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
 
 2) Expand **Mice and other pointing devices**  . Right-click your wireless mouse and click**Update Driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Update-mouse-drivers-from-the-Device-Manager.jpg)
 
  3) Click **Browse my computer for driver software** .
@@ -96,17 +90,28 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-drivers-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged mouse device to automatically download and install the correct version of its driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-drivers-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Restart your computer and check to see if Windows 10 can now detect your wireless mouse.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## 3: Check your hardware, devices, and wireless connections
 
  1)**Connect your mouse receiver to a different port** . If possible, try the USB port at the back of the computer, since they typically have more power available.
@@ -117,19 +122,20 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
 
  4) **Try on a different computer** . If the same problem happens on a second computer, then your wireless mouse might be defective. In that case, you might want to contact the manufacturer of your wireless mouse for more suggestions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4: Disable the fast startup option
 
  The fast startup feature is reported to be one of the causes of this problem. So you can disable it to see if the problem is resolved:
 
 1) On your keyboard, press the **Windows logo + R keys** simultaneously to open the Run box . Type**control** and hit Enter to open the Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click on**System and Security** . If you don’t see it, make sure you’ve set **Category** as your view-by.
 
@@ -146,6 +152,13 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
  5) Click on the**Change settings that are currently unavailable** link.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Power-Options-Change-settings-that-are-currently-unavailable.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Uncheck the box for**Turn on fast startup (recommended)** . Click **Save changes** and close the window.
 
@@ -166,6 +179,13 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
  2) Launch Fortect and it will run a free scan of your PC. Upon completion of the scan, the software will conduct a diagnosis and show you a summary of system issues. This will take a few minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Fortect-START-SCAN.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) If it detects any issues on your PC, click Start Repair to start the repair process.
 
@@ -188,8 +208,6 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,6 +215,20 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-discover-the-lesser-known-page-picks-for-memelings/"><u>[New] 2024 Approved Discover the Lesser-Known Page Picks for Memelings</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-secure-methods-to-transfer-instagram-media-onto-iphone/"><u>[New] In 2024, Secure Methods to Transfer Instagram Media Onto iPhone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-shape-shifting-pics-with-top-editors-help/"><u>[New] Shape-Shifting Pics with Top Editors' Help</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-netflix-recording-mac-edition-6-essential-steps/"><u>[Updated] 2024 Approved Mastering Netflix Recording Mac Edition - 6 Essential Steps</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/and-vssvcexe6-for-windows-10/"><u>高速化&メンテナンス: vssvc.exeが多く消費するディスクスペースを効果的に解放する6つのコツ for Windows 10ユーザー</u></a></li>
+<li><a href="https://driver-error.techidaily.com/acpi-resolving-venintanddev33a0-drive-concerns/"><u>ACPI: Resolving VEN_INT&DEV_33A0 Drive Concerns</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721096983128-dealing-with-iphones-and-mtp-driver-woes-master-these-troubleshooting-tips/"><u>Dealing With iPhones and MTP Driver Woes? Master These Troubleshooting Tips!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-deciphering-the-code-understanding-what-unlisted-on-youtube-means/"><u>In 2024, Deciphering the Code Understanding What 'Unlisted' On YouTube Means</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovation-unleashed-new-samsung-ubd-k8500-review-for-2024/"><u>Innovation Unleashed - New Samsung UBD-K8500 Review for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-repair-tips-dealing-with-the-infamous-code-43-error-on-your-nvidia-gtx-950-windows-10/"><u>Step-by-Step Repair Tips: Dealing with the Infamous 'Code 43' Error on Your Nvidia GTX 950 (Windows 10)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-correcting-failed-hcmon-driver-installation-errors/"><u>Troubleshooting Tips: Correcting Failed HcMon Driver Installation Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-headset-woes-fixed-in-win10-environment/"><u>USB Headset Woes Fixed in WIN10 Environment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-serial-fix-reviving-windows-connections/"><u>USB Serial Fix: Reviving Windows Connections</u></a></li>
+</ul></div>
 

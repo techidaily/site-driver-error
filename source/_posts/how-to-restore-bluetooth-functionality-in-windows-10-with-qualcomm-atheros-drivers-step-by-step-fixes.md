@@ -1,7 +1,7 @@
 ---
 title: How to Restore Bluetooth Functionality in Windows 10 with Qualcomm Atheros Drivers - Step by Step Fixes
-date: 2024-08-15T06:44:24.681Z
-updated: 2024-08-16T06:44:24.681Z
+date: 2024-10-30T19:56:43.339Z
+updated: 2024-11-04T21:29:31.560Z
 tags:
   - win11
   - win10
@@ -36,9 +36,6 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
  Then choose**Update history** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878514d080da.jpg)
   
  Scroll down to see if you can find the**KB3061161** . It should be a rather old update, so it might cost you some time to locate.
@@ -57,9 +54,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 2) Then go to drivers section. (The name of the section could be different on different manufacturers’ websites.) You will be asked to select what operating system that you are using (we are going**Windows 10 64-bit**), and then a list of device drivers will be shown. Scroll down a little to choose**Qualcomm Atheros Bluetooth**driver under Bluetooth category. Then hit the**Global**button to get it downloaded.
   
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878567811d29.png)
 
 **Note**: If your PC is rather old and there is no such Bluetooth driver that you can find for Windows 10, it is suggested that you give the latest version of driver that you can find a try, be it Windows 8.1, Windows 8, or Windows 7\. Then try [**install the driver in compatibility mode**](https://tools.techidaily.com/drivereasy/download/).
@@ -70,9 +64,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 4) Then locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Uninstall**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878700f160fd.jpg)
 
 5) When prompted with the following notification, tick the box for**Delete the driver software for this device**and then hit**OK**to continue.
@@ -107,9 +98,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
  4) Choose**Browse my computer for driver software** .
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787a96b276c.jpg)
 
  5) Choose **Let me pick from a list of the drivers on my computer** .
@@ -118,9 +106,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 6) Un-tick the box for **Show compatible hardware** . Then you should be able to see **Qualcomm Atheros** driver option on the left. On the right, choose one of the drivers listed. We go with**Qualcomm Atheros AR3011 Bluetooth 3.0** . You need to try them one by one by yourself to select the right one for your PC. When done picking, click**Next** to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787b0460727.png)
 
 7)Then follow the instructions on screen to get your Qualcomm Atheros Bluetooth drive installed.  
@@ -158,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +150,29 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-cutting-through-steps-posting-tiktok-videos-on-twitter-for-2024/"><u>[New] Cutting Through Steps Posting TikTok Videos on Twitter for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-nextgen-android-for-immersive-3d-viewing-for-2024/"><u>[Updated] NextGen Android for Immersive 3D Viewing for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snapchat-spotlight-101-understanding-its-impact/"><u>[Updated] Snapchat Spotlight 101 Understanding Its Impact</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-your-business-with-chatgpt-a-guide-to-8-key-applications/"><u>Boosting Your Business with ChatGPT: A Guide to 8 Key Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-dvd-technologies-why-dvdplusr-triumphs-over-dvd-r-in-usability-and-reliability/"><u>Comparing DVD Technologies: Why DVD+R Triumphs Over DVD-R in Usability and Reliability</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-guide-to-fixing-the-gtx-950-error-43-on-win11-systems/"><u>Comprehensive Guide to Fixing the GTX 950 Error 43 on Win11 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/conquering-drive-distress-the-story-of-e52/"><u>Conquering Drive Distress: The Story of E52</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-12-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 12 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/recovering-individual-snap-secrets/"><u>Recovering Individual Snap Secrets</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-issue-initialization-failure-of-battleye-driver-fixing-error-code-1450/"><u>Resolved Issue: Initialization Failure of BattlEye Driver - Fixing Error Code 1450</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-checklist-what-makes-dji-phantom-4-special/"><u>The Ultimate Checklist What Makes DJI Phantom 4 Special?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-driver-load-error-during-initialization-of-battleye-service/"><u>Troubleshooting Guide: Resolving 'Driver Load Error' During Initialization of BattlEye Service</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-when-your-usb-wont-connect-in-windows/"><u>Troubleshooting Steps When Your USB Won't Connect in Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-se-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone SE With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wacom-unplugged-no-more-devices-dance-together/"><u>Wacom Unplugged No More! Devices Dance Together</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: INF Setup Error - Now Corrected & Validated
-date: 2024-10-28T21:31:26.289Z
-updated: 2024-10-30T02:40:41.256Z
+date: 2024-10-31T17:57:48.391Z
+updated: 2024-11-04T21:18:51.409Z
 tags:
   - win11
   - win10
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
@@ -97,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
@@ -108,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -141,22 +141,22 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-blur-faces-or-objects-in-youtube-videos/"><u>[New] 2024 Approved How to Blur Faces or Objects in YouTube Videos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-meme-manifestation-station/"><u>[New] In 2024, Meme Manifestation Station</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-guide-to-easy-content-making-10-basic-youtube-videos/"><u>[New] The Ultimate Guide to Easy Content Making 10 Basic YouTube Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-ultimate-guide-to-vlogging-with-12-best-flip-screen-cameras-for-2024/"><u>[New] The Ultimate Guide to Vlogging with 12 Best Flip-Screen Cameras for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-charm-in-the-click-a-thumbnail-hack-for-youtube-shorts/"><u>[Updated] In 2024, Crafting Charm in the Click A Thumbnail Hack for YouTube Shorts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ultimate-techniques-streaming-hulu-on-win-mac-and-mobile/"><u>[Updated] In 2024, Ultimate Techniques Streaming Hulu on Win, Mac, and Mobile</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-blue-yeti-drivers-not-detected-recognized-or-installed/"><u>Fix: Blue Yeti Drivers Not Detected, Recognized or Installed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/introducing-the-minisforum-s100-a-pocket-computer-with-poe-and-25gbe-connectivity/"><u>Introducing the Minisforum S100: A Pocket Computer with PoE and 2.5GbE Connectivity</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keyboard-failure-in-windows-10/"><u>Keyboard Failure in Windows 10</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-best-10-emoji-apps-to-emoji-yourself-make-an-emoji-of-yourself-for-2024/"><u>New Best 10 Emoji Apps to Emoji Yourself-Make an Emoji of Yourself for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solution-guide-installing-missing-drivers-on-your-device-compatible-with-older-versions-of-windows/"><u>Solution Guide: Installing Missing Drivers on Your Device Compatible with Older Versions of Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-the-issue-invalid-driver-installation-on-your-pc/"><u>Solving the Issue: Invalid Driver Installation on Your PC</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-soundtrack-strategists-guide-to-youtube-playlists/"><u>The Soundtrack Strategist's Guide to YouTube Playlists</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-free-film-applications-watch-and-save-movies-on-your-iphone-8iphone-plus/"><u>Top Free Film Applications: Watch & Save Movies on Your iPhone 8/iPhone Plus</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-base-driver-errors-dm/"><u>Troubleshooting Base Driver Errors (DM)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/vehicle-compatibility-problem-with-gadget/"><u>Vehicle Compatibility Problem with Gadget</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-users-samsung-driver-installation/"><u>Windows Users: Samsung Driver Installation</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-driving-social-media-success-with-smart-fb-ad-production-for-2024/"><u>[New] Driving Social Media Success with Smart FB Ad Production for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transformative-power-in-healthcare-through-vr/"><u>[New] Transformative Power in Healthcare Through VR</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-ensure-the-best-live-experience-with-top-networks/"><u>[Updated] How to Ensure the Best Live Experience with Top Networks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-professional-gear-tips-gopro-edition/"><u>[Updated] In 2024, Professional Gear Tips GoPro Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-to-fix-installation-failures-from-windows-store/"><u>Efficient Methods to Fix Installation Failures From Windows Store</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-and-regain-control-over-radeon-wattman-a-comprehensive-guide-to-default-settings-recovery/"><u>Fix and Regain Control Over Radeon Wattman - A Comprehensive Guide to Default Settings Recovery</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-lenovo-bluetooth-issue-on-windows-10/"><u>Fixing Lenovo Bluetooth Issue on Windows 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-write-dialogue-or-narrative-script/"><u>How to Write Dialogue or Narrative Script</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-comprehensive-guide-to-perfecting-facetime-call-screen-captures/"><u>In 2024, Comprehensive Guide to Perfecting FaceTime Call Screen Captures</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-googles-podcast-uploading-guide/"><u>In 2024, Navigating Google's Podcast Uploading Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-windows-10-fixing-lenovo-bluetooth/"><u>Mastering Windows 10, Fixing Lenovo Bluetooth</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimizing-performance-deathadder-driver-in-win11/"><u>Optimizing Performance: DeathAdder Driver in WIN11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overheating-if-a-device-overheats-it-may-shut-down-to-protect-itself-from-damage-allowing-it-to-cool-before-restarting-can-sometimes-fix-a-black-screen-prob457/"><u>Overheating: If a Device Overheats, It May Shut Down to Protect Itself From Damage. Allowing It to Cool Before Restarting Can Sometimes Fix a Black Screen Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-input-lag-on-your-hp-bluetooth-keyboard-effective-solutions-explored/"><u>Resolving Input Lag on Your HP Bluetooth Keyboard - Effective Solutions Explored</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-no-driver-found-issues-on-your-windows-11-8-or-7-device/"><u>Resolving No Driver Found Issues on Your Windows 11, 8 or 7 Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-when-your-final-usb-device-fails-and-is-ignored-by-windows/"><u>Troubleshooting Steps When Your Final USB Device Fails & Is Ignored by Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-keeps-up-keyboards-back-in-action/"><u>Windows 11 Keeps Up: Keyboard's Back in Action</u></a></li>
 </ul></div>
 

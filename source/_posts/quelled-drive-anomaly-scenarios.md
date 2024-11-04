@@ -1,7 +1,7 @@
 ---
 title: Quelled Drive Anomaly Scenarios
-date: 2024-10-24T01:04:06.089Z
-updated: 2024-10-29T18:57:35.768Z
+date: 2024-10-29T21:34:56.173Z
+updated: 2024-11-04T18:44:10.063Z
 tags:
   - win11
   - win10
@@ -24,16 +24,10 @@ thumbnail: https://thmb.techidaily.com/0c4fe2df3501ab3d12aff4159eef3a635fdab9589
  Some sectors in your computer may be damaged, and you can try**switching your USB drive to a different port** . It worked for some users. If it doesn’t solve your “ The driver detected a controller error on \\Device\\Harddisk1\\DR1″ problem,  try Solution 2, below.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 2: Update your USB driver
@@ -56,20 +50,20 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84c2843cf68.jpg)
 4. You may need to restart your computer to finish the process. Then check if your “The driver detected a controller error on \\Device\\Harddisk1\\DR1 ” problem is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -95,22 +89,22 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-initial-boot-failure-from-drivers-not-installed/"><u>[FIXED] Initial Boot Failure From Drivers Not Installed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-responsive-keys-restored-to-windows-11/"><u>[Fixed]: Responsive Keys Restored to Windows 11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-perfect-your-youtube-presence-learn-to-create-engaging-ads-and-thumbnails/"><u>[New] 2024 Approved Perfect Your YouTube Presence Learn to Create Engaging Ads & Thumbnails</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-capturing-internet-radio-with-14-methods/"><u>[New] The Ultimate Guide Capturing Internet Radio with 14 Methods</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-video-recording-on-ios-and-android-select-the-best-apps/"><u>2024 Approved Seamless Video Recording on iOS & Android Select the Best Apps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/code-1-troubleshooting-steps-for-configuring-devices-correctly/"><u>Code 1 Troubleshooting: Steps for Configuring Devices Correctly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-solutions-when-confronted-with-failed-hcmonservice-installs/"><u>Easy Solutions When Confronted with Failed Hcmonservice Installs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-gtx-ebx-950-code-43-issue-in-windows-11-a-comprehensive-guide/"><u>Fixing the GTX Ebx 950 'Code 43' Issue in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-boot-into-safe-mode-and-efficiently-uninstall-graphics-driver-on-windows-8/"><u>How To Boot Into Safe Mode & Efficiently Uninstall Graphics Driver On Windows 8</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-find-x7-ultra-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo Find X7 Ultra Phone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-failed-to-install-the-hcmon-driver-error/"><u>How to Fix Failed to Install the Hcmon Driver Error</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-itel-a70-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Itel A70? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/nonresponsive-or-stuck-pclaptop-key-issue-here-is-a-simple-fix-for-your-beloved-machine-article-title-how-to-guide-tech-talker402-chars/"><u>Nonresponsive or Stuck PC/Laptop Key Issue? Here Is a Simple Fix for Your Beloved Machine (Article Title) – How-To Guide | Tech Talker—402 Chars</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210131397-9781761035777-reiki/"><u>Reiki | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-evolution-of-communication-with-google-hangouts-what-it-was-and-how-it-worked/"><u>The Evolution of Communication with Google Hangouts – What It Was and How It Worked</u></a></li>
-<li><a href="https://program-issues.techidaily.com/windows-woes-overcoming-the-challenge-of-davinci-resolve-not-starting-properly/"><u>Windows Woes: Overcoming the Challenge of DaVinci Resolve Not Starting Properly</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-efficiently-upload-and-render-youtube-videos-with-precision/"><u>[New] Efficiently Upload and Render YouTube Videos with Precision</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-time-lapse-magic-a-samsung-photo-guide/"><u>[New] In 2024, Time-Lapse Magic A Samsung Photo Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-making-the-most-of-your-phones-camera-in-video-production-for-2024/"><u>[New] Making the Most of Your Phone's Camera in Video Production for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-riding-secure-the-creme-de-la-cam-selection-for-motorcyclists/"><u>[Updated] In 2024, Riding Secure - The Crème De La Cam Selection for Motorcyclists</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-photo-editing-inserting-dates-in-images/"><u>[Updated] Mastering Photo Editing Inserting Dates in Images</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-11-pro-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 11 Pro Without a Passcode</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bring-forth-your-absentee-seagate-hard-drive-on-w10/"><u>Bring Forth Your Absentee Seagate Hard Drive on W10</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102086831-iphone-se-not-detected-on-fedora-core-os-solution-found-here/"><u>IPhone SE Not Detected on Fedora Core OS - Solution Found Here!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-landscape-of-nvidias-creativity-service/"><u>Navigating the Landscape of NVIDIA’s Creativity Service</u></a></li>
+<li><a href="https://driver-error.techidaily.com/recovered-overcoming-default-settings-glitches-in-amd-radeon-wattman-systems/"><u>Recovered! Overcoming Default Settings Glitches in AMD Radeon Wattman Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/remedy-driver-conflict-on-xps-13-notebook/"><u>Remedy Driver Conflict on XPS 13 Notebook</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-fixing-missing-driver-installations-on-windows-1087-devices/"><u>Solved: Fixing Missing Driver Installations on Windows 10/8/7 Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-repeated-uninstalls-of-nvidia-software/"><u>Solving Repeated Uninstalls of Nvidia Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-your-final-usb-gadget-issue-unrecognized-by-windows/"><u>Solving Your Final USB Gadget Issue: Unrecognized by Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-iphone-mtp-connection-problems-and-solving-usb-driver-issues/"><u>Troubleshooting iPhone MTP Connection Problems and Solving USB Driver Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-lava-storm-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Lava Storm 5G Phone Network-Ready</u></a></li>
 </ul></div>
 

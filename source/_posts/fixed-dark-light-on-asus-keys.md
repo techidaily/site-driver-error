@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Dark Light on ASUS Keys"
-date: 2024-10-28T20:29:16.248Z
-updated: 2024-10-29T20:30:38.150Z
+date: 2024-10-31T18:49:42.693Z
+updated: 2024-11-04T20:23:01.645Z
 tags:
   - win11
   - win10
@@ -28,16 +28,10 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Way 1: Start the HControl.exe** program
@@ -58,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
  If this fix doesn’t work for you, please proceed to the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Way 2: Download and install the latest drivers**
 
@@ -82,21 +83,14 @@ OR
 3. On the next page, select your Windows version. Then you’ll be greeted with a list of drivers and programs available for download.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-25-19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Scroll through the list until you find the following two drivers:**Smart Gesture** driver and**ATK Package** driver. Then, click on the**DOWNLOAD** button next to each driver.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-31-49.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-45-12.jpg)
 5. Wait till the download process is complete. The two downloaded files are compressed, so you need to extract them to a desired location.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Open the extracted folders of the two drivers. Find**Setup.exe** in their folders respectively and click on it. Then, follow the onscreen instructions to install the drivers.
 7. When everything’s done, restart your computer for the changes to take effect. Then check to see if your keyboard backlight can be turned on properly (press**Fn+F4** on your keyboard to enable the backlight).
@@ -116,10 +110,10 @@ OR
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the ATK Package driver for now, simply click the **Update**  button next to it. ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_19-15-46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -148,15 +142,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-minds-on-trial-best-general-knowledge-channels/"><u>[New] 2024 Approved Minds on Trial Best General Knowledge Channels</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-fix-unresponsive-rtx-game-heres-how-we-fixed-it/"><u>[Quick Fix] Unresponsive RTX Game? Here’s How We Fixed It</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-chart-your-course-to-partner-status-via-a-rapid-10000-views-journey/"><u>[Updated] In 2024, Chart Your Course to Partner Status via a Rapid 10,000 Views Journey</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-top-10-music-videos-on-facebook-how-to-make-a-facebook-song-video-for-2024/"><u>[Updated] Top 10 Music Videos on Facebook | How to Make A Facebook Song Video for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-unity-wacoms-happy-ever-after/"><u>Device Unity: Wacom's Happy Ever After</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-wirecast-techniques-for-effective-youtube-streams/"><u>In 2024, WireCast Techniques for Effective Youtube Streams</u></a></li>
-<li><a href="https://driver-error.techidaily.com/lenovo-bluetooth-streamlined-in-the-era-of-windows-11/"><u>Lenovo Bluetooth Streamlined in the Era of Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mend-quickly-persistent-amd-glitches/"><u>Mend Quickly: Persistent AMD Glitches</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-art-of-thumbnail-and-banner-design-for-videos-for-2024/"><u>The Art of Thumbnail and Banner Design for Videos for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-secrets-behind-androids-intelligent-functionality/"><u>Unraveling the Secrets Behind Android's Intelligent Functionality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discover-the-art-of-curating-music-on-youtube-with-our-steps/"><u>[New] 2024 Approved Discover the Art of Curating Music on YouTube with Our Steps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-prime-mac-video-tools-apart-from-bandicam/"><u>[New] 2024 Approved Prime Mac Video Tools Apart From Bandicam</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-a-detailed-guide-to-advanced-human-interface-systems-for-2024/"><u>[New] A Detailed Guide to Advanced Human Interface Systems for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-photographic-privacy-key-steps-to-blur-facial-features/"><u>[Updated] Photographic Privacy Key Steps to Blur Facial Features</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-revealing-clarity-mastering-the-eraser-feature-in-psx/"><u>[Updated] Revealing Clarity Mastering the Eraser Feature in PSX</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-getting-started-with-snapchat-on-apple-computers/"><u>2024 Approved Getting Started with Snapchat on Apple Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/finding-the-correct-label-for-opengl-enabled-icd/"><u>Finding the Correct Label for OpenGL-Enabled ICD</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/gaining-wisdom-and-versatility-by-embracing-multilingualism-at-50/"><u>Gaining Wisdom and Versatility by Embracing Multilingualism at 50</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphic-interface-access-hindered-on-pc/"><u>Graphic Interface Access Hindered on PC</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-mac-subtitle-editing-software-top-alternatives-to-subtitle-edit/"><u>New 2024 Approved Mac Subtitle Editing Software Top Alternatives to Subtitle Edit</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resetting-functionality-enable-right-click-on-windows-11-touchpad/"><u>Resetting Functionality: Enable Right-Click on Windows 11 Touchpad</u></a></li>
+<li><a href="https://driver-error.techidaily.com/status-update-device-awake/"><u>Status Update: Device Awake</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tech-limits-on-automobile-upload/"><u>Tech Limits on Automobile Upload</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unraveling-the-mystery-of-classic-usb-composite-devices-resolved/"><u>Unraveling the Mystery of Classic USB Composite Devices - Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/visual-exploration-of-ms-bdas-graphics-impact/"><u>Visual Exploration of MS BDA's Graphics Impact</u></a></li>
 </ul></div>
 

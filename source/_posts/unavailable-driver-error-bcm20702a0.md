@@ -1,7 +1,7 @@
 ---
 title: Unavailable Driver Error - BCM20702A0
-date: 2024-08-22T14:06:49.989Z
-updated: 2024-08-23T14:06:49.989Z
+date: 2024-10-29T19:48:42.855Z
+updated: 2024-11-04T16:24:11.589Z
 tags:
   - win11
   - win10
@@ -31,24 +31,23 @@ thumbnail: https://thmb.techidaily.com/ff27900c09b1e7c1dbf788a17f82a6622f15751a0
  As many users reported, turning on and then off the Airplane mode can address the BCM20702A0 driver issue. So before you go on with some complicated steps, try this trick and see if it works for you.
 
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to enter the Settings menu. Select**Network & Internet** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/turn-on-and-off-airplane-mode-1.jpg)
 2. Select the**Airplane mode** from the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/turn-on-and-off-airplane-mode-2.jpg)
 3. Under the Airplane mode,**toggle on** the button.  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/turn-on-and-off-airplane-mode-3.jpg)
 4. Restart your computer and**disable the airplane mode** following the steps above.
 
 Check if your Bluetooth works. If not, continue to the second fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Run the Bluetooth troubleshooter
 
  The Windows troubleshooter is one of the most convenient and effective ways to resolve hardware glitches. You can take advantage of this utility to troubleshoot the BCM20702A0 driver issue as follow.
@@ -59,6 +58,13 @@ Check if your Bluetooth works. If not, continue to the second fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2-5.jpg)
 
  It may take a couple of minutes for the process. Once done, you can follow the on-screen instructions to repair the detected problems and check if the driver error persists. If so, move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Reinstall/update your BCM20702A0 driver
 
@@ -84,10 +90,14 @@ Check if your Bluetooth works. If not, continue to the second fix.
 3. Click the**Update** button next to the flagged Bluetooth driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/bcm20702a0-driver-update-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the driver updates, test your Bluetooth devices to see if it works normally. If not, there is one more fix below.
 
@@ -100,11 +110,24 @@ Check if your Bluetooth works. If not, continue to the second fix.
 2. Right-click the**Bluetooth Support Service** and click**Start** . If it’s already running, right-click it and click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2.jpg)
 3. After the service restarts, right-click it again and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-3.jpg)
 4. Set the **Startup type** to **Automatic** and click **OK** to apply the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-4.jpg)
 
 Now test your device and see if the error gets fixed.
@@ -123,8 +146,6 @@ Now test your device and see if the error gets fixed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,6 +153,19 @@ Now test your device and see if the error gets fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-corpse-comic-connoisseur/"><u>[New] Corpse Comic Connoisseur</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-access-your-secret-snaps-archive-for-2024/"><u>[New] How to Access Your Secret Snaps Archive for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essential-techniques-for-ps3-gameplay-screencasts/"><u>[New] In 2024, Essential Techniques for PS3 Gameplay Screencasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-insiders-guide-to-top-ranking-titles/"><u>2024 Approved The Insider's Guide to Top-Ranking Titles</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-complimentary-universal-media-server-application-for-apple-computers-a-guide/"><u>Best Complimentary Universal Media Server Application for Apple Computers: A Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhanced-video-streaming-fixing-asus-webcam-on-win11/"><u>Enhanced Video Streaming: Fixing ASUS Webcam on Win11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/masterclass-on-monetizing-moments-gaining-income-via-insta-sponsors/"><u>Masterclass on Monetizing Moments Gaining Income via Insta-Sponsors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/microsoft-teams-outage-how-do-i-tell-if-the-issue-is-with-my-connection-or-theirs/"><u>Microsoft Teams Outage: How Do I Tell If the Issue Is with My Connection or Theirs?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-pros-and-cons-ais-role-in-enhancing-or-compromising-mental-health-services/"><u>Navigating the Pros and Cons: AI's Role in Enhancing or Compromising Mental Health Services</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-pair-and-recognize-your-latest-cam-on-updated-pc-an-expert-guide-completely-solved-fixed/"><u>Re-Pair and Recognize Your Latest Cam on Updated PC: An Expert Guide, Completely Solved ![Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-windows-1011-issues-with-sm-bus-controllers/"><u>Resolving Windows 10/11 Issues with Sm Bus Controllers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-connectivity-overcoming-wireless-hurdles-in-windows/"><u>Seamless Connectivity: Overcoming Wireless Hurdles in Windows</u></a></li>
+</ul></div>
 

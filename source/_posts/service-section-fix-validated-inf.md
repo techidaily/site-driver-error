@@ -1,7 +1,7 @@
 ---
 title: "Service Section Fix: Validated INF"
-date: 2024-10-26T20:10:55.945Z
-updated: 2024-10-29T16:40:46.727Z
+date: 2024-11-02T19:56:35.086Z
+updated: 2024-11-04T21:05:04.976Z
 tags:
   - win11
   - win10
@@ -80,10 +80,16 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
@@ -97,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
@@ -108,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -141,17 +147,24 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-comprehensive-picsart-insight-for-enhanced-creativity/"><u>[New] 2024 Approved Comprehensive PicsArt Insight for Enhanced Creativity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-and-strategies-to-make-your-podcast-title-stand-out/"><u>[New] Expert Tips & Strategies to Make Your Podcast Title Stand Out</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-hilarious-highlights-reddit-and-twitters-best-bits/"><u>[Updated] In 2024, Hilarious Highlights Reddit and Twitter's Best Bits</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-photoperfect-optimizing-visuals-and-videos-in-instagram/"><u>[Updated] PhotoPerfect Optimizing Visuals and Videos in Instagram</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-poco-m6-pro-4g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Poco M6 Pro 4G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://driver-error.techidaily.com/controller-fault-notification-at-idedevice/"><u>Controller Fault Notification at Idedevice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/copper-content-discrepancy-in-pc-watercoolers-investigation-finds-false-advertising-prevails-on-two-thirds/"><u>Copper Content Discrepancy in PC Watercoolers: Investigation Finds False Advertising Prevails on Two-Thirds</u></a></li>
-<li><a href="https://driver-error.techidaily.com/decoding-ms-bda-with-gpu-display/"><u>Decoding MS BDA with GPU Display</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721105199614-nexus-one-non-detection-in-linux-mint-cinnamon-solution-found/"><u>Nexus One Non-Detection in Linux Mint Cinnamon, Solution Found</u></a></li>
-<li><a href="https://facebook.techidaily.com/strategies-for-excising-extraneous-comments-in-fb-groups/"><u>Strategies for Excising Extraneous Comments in FB Groups</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721105019442-windows-pc-no-response-when-trying-to-mute-or-disable-bluetooth/"><u>Windows PC: No Response when Trying to Mute or Disable Bluetooth</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-the-art-of-inserting-descriptive-commentary-in-youtube-videos/"><u>[New] In 2024, The Art of Inserting Descriptive Commentary in YouTube Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unveiling-best-practices-in-audio-to-text-translation/"><u>[New] Unveiling Best Practices in Audio to Text Translation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-cutest-and-most-informative-igtvs-now/"><u>[Updated] In 2024, The Cutest & Most Informative IGTVs Now</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sharp-lenses-clear-visions-tips-for-fog-free-filming/"><u>[Updated] Sharp Lenses, Clear Visions Tips for Fog-Free Filming</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhancing-win1110s-sm-bus-driver-reliability/"><u>Enhancing WIN11/10's Sm Bus Driver Reliability</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-logitech-options-issues-troubleshooting-tips-for-windows-users/"><u>Fixing Logitech Options Issues: Troubleshooting Tips for Windows Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-disabling-graphics-card-on-windows-8-via-safe-mode-deletion/"><u>Guide: Disabling Graphics Card on Windows 8 via Safe Mode Deletion</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-unlock-access-denied-on-win11/"><u>Hardware Unlock: Access Denied on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-unable-to-initialize-directx-9-device-in-5-easy-steps/"><u>How to Fix ‘Unable to Initialize DirectX 9 Device’ in 5 Easy Steps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ensuring-privacy-when-documenting-whatsapp-voice-calls/"><u>In 2024, Ensuring Privacy When Documenting WhatsApp Voice Calls</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-next-gen-discover-8-leading-tablets-pushing-beyond-filmoras-limits/"><u>In 2024, The Next Gen Discover 8 Leading Tablets Pushing Beyond Filmora's Limits</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-unmountable-boot-volume-bug-error-0x0000007e-in-your-windows-vista7-pc/"><u>Overcoming the Unmountable Boot Volume Bug (Error 0X0000007E) in Your Windows Vista/7 PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repair-your-qualcomm-atheros-bluetooth-connection-on-windows-10-easy-fixes-revealed/"><u>Repair Your Qualcomm Atheros Bluetooth Connection on Windows 10 - Easy Fixes Revealed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/simple-guide-sharing-tweets-with-imagesvideos-directly-to-twitter/"><u>Simple Guide Sharing Tweets with Images/Videos Directly to Twitter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-504-gateway-timeout-issue-effective-strategies-and-tips/"><u>Solving the 504 Gateway Timeout Issue: Effective Strategies and Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/sound-system-error-no-more-hd/"><u>Sound System Error No More! (HD)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/toonhub-pro-analysis-2024-report/"><u>ToonHub Pro Analysis 2024 Report</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-driver-installation-for-windows-devices-windows-10-8-and-7-tips/"><u>Troubleshooting Driver Installation for Windows Devices: Windows 10, 8 & 7 Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-invalid-driver-installs-how-to-ensure-device-compatibility/"><u>Troubleshooting Invalid Driver Installs: How to Ensure Device Compatibility</u></a></li>
 </ul></div>
 

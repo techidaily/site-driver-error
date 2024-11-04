@@ -1,7 +1,7 @@
 ---
 title: Overcoming Elan Driver Woes on Windows 11
-date: 2024-10-25T18:32:09.151Z
-updated: 2024-10-29T22:13:51.745Z
+date: 2024-10-31T19:54:01.811Z
+updated: 2024-11-04T18:47:45.423Z
 tags:
   - win11
   - win10
@@ -41,19 +41,6 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2: Reinstall your drivers
 
  Faulty drivers provided by Microsoft could be the reason why your touchpad stops working properly. To tackle this problem, you should reinstall the driver.
@@ -75,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3: Stop automatic updates from Windows Update**
@@ -90,25 +77,38 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Right-clickyour computer icon and click **Device installation settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
@@ -128,20 +128,17 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flash-clip-content-wizard-for-2024/"><u>[Updated] Flash Clip Content Wizard for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-from-storyboard-to-screenplay-a-youtube-video-writers-journey/"><u>[Updated] From Storyboard to Screenplay A YouTube Video Writer's Journey</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-tutorial-on-editing-youtube-videos/"><u>[Updated] The Ultimate Tutorial on Editing YouTube Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/adaptive-drivers-package-for-windows-pci/"><u>Adaptive Drivers Package for Windows PCI</u></a></li>
-<li><a href="https://driver-error.techidaily.com/asus-usb-webcam-issue-fixed-for-windows-users/"><u>ASUS USB Webcam Issue Fixed for Windows Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-guide-to-updating-or-adding-missing-drivers-in-windows-environments/"><u>Comprehensive Guide to Updating or Adding Missing Drivers in Windows Environments</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correcting-image-inversion-on-asus-laptops-a-step-by-step-guide-to-normalizing-screen-content/"><u>Correcting Image Inversion on ASUS Laptops: A Step-by-Step Guide to Normalizing Screen Content</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721100980582-fix-pc-issues-enter-safe-mode-and-uninstall-graphic-cards-driver-on-win-8-easily/"><u>Fix PC Issues? Enter Safe Mode & Uninstall Graphic Cards Driver on Win 8 Easily</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-moto-g13-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Moto G13 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103553339-hp-wireless-keyboard-malfunction-heres-how-you-can-repair-it/"><u>HP Wireless Keyboard Malfunction? Here's How You Can Repair It!</u></a></li>
-<li><a href="https://win-able.techidaily.com/improving-gameplay-experience-eliminating-lag-and-stutters-in-assassins-creed-valhalla-pc-edition/"><u>Improving Gameplay Experience: Eliminating Lag and Stutters in Assassin’s Creed Valhalla (PC Edition)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-unleash-your-creativity-best-video-dubbing-apps/"><u>In 2024, Unleash Your Creativity Best Video Dubbing Apps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721100925805-solve-your-itbm-driver-unavailable-problem-in-just-minutes/"><u>Solve Your ITBM Driver Unavailable Problem in Just Minutes!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-in-depth-comparison-between-claude-pro-and-microsofts-advanced-chatgpt-plus-system/"><u>The In-Depth Comparison Between Claude Pro and Microsoft's Advanced ChatGPT Plus System</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-subtracting-text-srt-to-sub-transformation-tips/"><u>[New] 2024 Approved Subtracting Text SRT to SUB Transformation Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-tapping-into-community-spirit-a-guide-to-thriving-fb-gifting-campaigns/"><u>[New] In 2024, Tapping Into Community Spirit A Guide to Thriving FB Gifting Campaigns</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-expert-tips-for-srt-to-xml-ssa-and-ttml-transformations-for-2024/"><u>[Updated] Expert Tips for SRT-to-XML, SSA, and TTML Transformations for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unveil-secrets-to-speedy-caption-design-in-facebook-media/"><u>[Updated] In 2024, Unveil Secrets to Speedy Caption Design in Facebook Media</u></a></li>
+<li><a href="https://driver-error.techidaily.com/get-your-qualcomm-atheros-bluetooth-back-to-life-on-windows-10-step-by-step-solution/"><u>Get Your Qualcomm Atheros Bluetooth Back to Life on Windows 10 - Step by Step Solution</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-twitch-instant-replay-techniques/"><u>In 2024, Mastering Twitch Instant Replay Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-editing-upgrades-for-final-cut-pro-professionals/"><u>In 2024, Top 10 Editing Upgrades for Final Cut Pro Professionals</u></a></li>
+<li><a href="https://driver-error.techidaily.com/inception-excitingly-and/"><u>Inception - Excitingly) And</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-maps-on-ios-top-5-gps-apps-to-enhance-your-travel-experience/"><u>Mastering Maps on iOS: Top 5 GPS Apps to Enhance Your Travel Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-driver-conflicts-in-windows-quickly/"><u>Resolving Driver Conflicts in Windows Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-prevents-graphics-hardware-connection/"><u>Win11 Prevents Graphics Hardware Connection</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-update-what-to-do-when-you-encounter-a-missing-coprocessor-driver-problem/"><u>Windows 11 Update: What To Do When You Encounter a Missing Coprocessor Driver Problem</u></a></li>
 </ul></div>
 

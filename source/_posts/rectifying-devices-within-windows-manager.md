@@ -1,7 +1,7 @@
 ---
 title: Rectifying Devices Within Windows Manager
-date: 2024-10-25T20:12:34.383Z
-updated: 2024-10-29T23:21:36.519Z
+date: 2024-11-02T18:11:47.412Z
+updated: 2024-11-04T17:41:10.246Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ You can update the drivers through manager. Follow these steps:
 
  Windows may not provide the latest driver for the device. If this way doesn’t work for you, you can use [Method 2](https://zebaoaffiliateprogram.pxf.io/xkwqe1) or [Method 3](https://printrendy.pxf.io/xyboy5) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 2: Update the Base System Device driver manually**
 
  Usually, you can go to the device manufacturer’s website or the PC manufacturer’s website to download the latest driver. But for Base System Device, it is impossible to know what the specific device is. The good news is you can get its device name and its vendor name to determine what it is.
@@ -52,10 +59,10 @@ You can update the drivers through manager. Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785dc645de0d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Details** tab, then select**Hardware Ids** from the drop-down menu of**Property** .
@@ -63,39 +70,19 @@ You can update the drivers through manager. Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785de836c928.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) The Hardware Id Value should be like follows. The VEN code means vendor and the DEV code means device. (In the example below, the VEN code is 15AD and the device is 0740.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785df1376590.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Go to [https://pci-ids.ucw.cz/.](https://pci-ids.ucw.cz/) Then you can use the VEN code and the DEV code to figure out what the Base System Device stands for.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56e54a4e7b7.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) After you figure out what the device is, you can go to the PC manufacturer’s website or the device manufacturer’s website to download the driver. It’s recommended to go to the PC manufacturer’s website first, as they may customize the driver.
 
@@ -112,6 +99,13 @@ You can update the drivers through manager. Follow these steps:
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_all_ the drivers.  
  (You can upgrade to the [Pro version](https://tools.techidaily.com/drivereasy/download/) right now with a discount, or activate the 7-day free trial version. With the trial version, you will have access to_all features_ of the Pro version such as high-speed download and one-click install. You won’t be charged before your 7-day trial ends and you can easily cancel any time during the trial period.)
@@ -140,24 +134,22 @@ You can update the drivers through manager. Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-behind-the-scenes-top-storytelling-channels-on-yt-2023-for-2024/"><u>[New] Behind-the-Scenes Top Storytelling Channels on YT, 2023 for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-virtually-profitable-gaming-channels/"><u>[Updated] In 2024, Virtually Profitable Gaming Channels</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-pixel-perfection-your-guide-to-youtube-twitters-and-hd/"><u>2024 Approved Pixel Perfection Your Guide to YouTube, Twitters, and HD</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-to-realize-time-bending-scenes/"><u>2024 Approved Techniques to Realize Time-Bending Scenes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mkv-m4a-movavi/"><u>免費在線 MKV-M4A格式轉換 - 利用 Movavi 工具便捷範圍</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnose-and-repair-device-is-misconfigured-with-helpful-tips-for-code-1/"><u>Diagnose and Repair 'Device Is Misconfigured' With Helpful Tips for Code 1</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-redmi-13c-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi Redmi 13C 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/guide-how-to-convert-far-gone-by-drake-into-multiple-audio-formats-like-mp3-aac-and-wav/"><u>Guide: How to Convert 'Far Gone' By Drake Into Multiple Audio Formats Like MP3, AAC, and WAV</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hardware-mgmt-error-45-resolved/"><u>Hardware Mgmt: Error #45 Resolved</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-t2-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo T2 5G Is Unlocked</u></a></li>
-<li><a href="https://driver-error.techidaily.com/in-built-wi-fi-bluetooth-not-responding-on-laptop-running-win-10-how-to-fix/"><u>In-Built Wi-Fi, Bluetooth Not Responding on Laptop Running Win 10 - How to Fix?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/most-popular-firefox-screenshots-and-recorders-for-2024/"><u>Most Popular Firefox Screenshots & Recorders for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reviving-lenovo-bt-with-win11-expertise-and-know-how/"><u>Reviving Lenovo BT with Win11 Expertise and Know-How</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-dolby-advanced-audio-unable-to-start-the-dolby-audio-driver-in-windows-10/"><u>Solved Dolby Advanced Audio: Unable to Start the Dolby Audio Driver in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-hcomdevicenotfound-a-step-by-step-guide/"><u>Solving 'HcomDeviceNotFound' - A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/viking-saga-unleashed-in-assassins-creed-valhalla-a-gripping-journey-through-medieval-times/"><u>Viking Saga Unleashed in 'Assassin's Creed: Valhalla': A Gripping Journey Through Medieval Times</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/waking-up-naturally-with-totobays-wake-up-light-the-top-budget-picks-reviewed/"><u>Waking Up Naturally with Totobay's Wake-Up Light, The Top Budget Picks Reviewed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wdcsam64prewin8sys-disabling-core-isolation/"><u>wdcsam64_prewin8.sys - Disabling Core Isolation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win10-solution-lenovo-bt-driver-malfunction/"><u>Win10 Solution: Lenovo BT Driver Malfunction</u></a></li>
+<li><a href="https://driver-error.techidaily.com/internal-wifi-and-bluetooth-always-on-cant-turn-off-in-my-win10-laptop48-chars/"><u>“Internal WIFI & Bluetooth Always ON - Can't Turn OFF in My Win10 Laptop(48 Chars)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/aximizing-youtube-clicks-with-imagery-for-2024/"><u>[New] Maximizing YouTube Clicks with Imagery for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-best-budget-cameras-for-creating-quality-vlogs/"><u>[Updated] In 2024, Best Budget Cameras for Creating Quality Vlogs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unveiling-the-secrets-of-enhancing-video-sessions-in-google-meet-for-2024/"><u>[Updated] Unveiling the Secrets of Enhancing Video Sessions in Google Meet for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-vector-illustration-software-a-must-have-list-for-artists/"><u>2024 Approved Best Vector Illustration Software A Must-Have List for Artists</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-strategies-for-watching-multiple-youtube-videos/"><u>2024 Approved Strategies for Watching Multiple YouTube Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-oppo-find-x7-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Oppo Find X7 Ultra to iPhone | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/breakdown-of-funds-required-for-music-video-shooting/"><u>Breakdown of Funds Required for Music Video Shooting</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-lost-to-found-the-missing-touchpad-driver-fixes/"><u>From Lost to Found: The Missing Touchpad Driver Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/keep-playing-seamlessly-how-to-optimize-maplestory-on-latest-windows-version-this-year/"><u>Keep Playing Seamlessly: How to Optimize MapleStory on Latest Windows Version This Year</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mcpu-solving-intellme-crashes/"><u>MCPU: Solving IntellME Crashes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-solutions-resolving-driver-unavailable-issues-in-itbm/"><u>Quick Solutions: Resolving 'Driver Unavailable' Issues in ITBM</u></a></li>
+<li><a href="https://driver-error.techidaily.com/right-click-doesnt-work-on-touchpad-windows-11-solved/"><u>Right Click Doesn't Work on Touchpad Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-driver-support-failure-for-intel-and-amd-in-premier-pro/"><u>Solved Driver Support Failure for Intel & AMD in Premier Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stabilized-high-res-webcam-output-fixing-asuswin11/"><u>Stabilized High Res Webcam Output: Fixing ASUS/Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-online-retailers-for-video-games-where-to-save-biggest/"><u>Top Online Retailers for Video Games: Where to Save Biggest</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-broadcom-wi-fi-adapter-for-windows-compatibility/"><u>Troubleshooting Broadcom Wi-Fi Adapter for Windows Compatibility</u></a></li>
 </ul></div>
 
