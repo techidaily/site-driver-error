@@ -1,7 +1,7 @@
 ---
 title: Reader Disappearance on Win11 - Repair Guide Here
-date: 2024-10-30T21:26:20.392Z
-updated: 2024-11-04T21:16:52.917Z
+date: 2024-11-12T17:33:15.295Z
+updated: 2024-11-15T04:30:23.554Z
 tags:
   - win11
   - win10
@@ -67,11 +67,25 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a61a4afa.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
 
@@ -83,38 +97,31 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Follow the path:
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\ {4D36E965-E325-11CE-BFC1-08002BE10318}**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55543336b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) **Delete**  them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
@@ -125,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Follow the path:
 **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\atapi\\**
 
@@ -140,19 +140,6 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Create a new**Controller0** key under**atapi** key.
 
@@ -165,6 +152,13 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -185,22 +179,22 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-sites-for-buying-google-pixel-tunes/"><u>2024 Approved Top Sites for Buying Google Pixel Tunes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/elevate-instagram-presence-with-professional-video-editing-skills-for-2024/"><u>Elevate Instagram Presence with Professional Video Editing Skills for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-22-squashed-activation-achieved/"><u>Error 22 Squashed; Activation Achieved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-dolby-audio-driver-error-messages-after-installation-answer-found/"><u>Fixing 'Dolby Audio Driver Error Messages After Installation', Answer Found! ✔️</u></a></li>
-<li><a href="https://driver-error.techidaily.com/flawless-mice-action-on-win10-systems/"><u>Flawless Mice Action on Win10 Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-xr-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone XR For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-rectify-top-to-bottom-screen-display-on-an-asus-computer-for-optimal-viewing/"><u>How to Rectify Top-to-Bottom Screen Display on an ASUS Computer for Optimal Viewing</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-restore-bluetooth-connectivity-with-qualcomm-atheros-on-windows-11/"><u>How to Restore Bluetooth Connectivity with Qualcomm Atheros on Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-samsung-galaxy-s24-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Samsung Galaxy S24 Ultra to iPhone | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-nubia-z50s-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Nubia Z50S Pro Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/in-depth-review-experience-the-samsung-galaxy-budsplus/"><u>In-Depth Review: Experience the Samsung Galaxy Buds+</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-bsod-in-windows-unfair-irql/"><u>Resolved BSOD in Windows: Unfair IRQL</u></a></li>
-<li><a href="https://facebook.techidaily.com/senior-vp-of-fb-ads-everson-exits-role/"><u>Senior VP of FB Ads, Everson, Exits Role</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/software-requirements-defied-installing-intell-graphics/"><u>Software Requirements Defied: Installing Intell Graphics</u></a></li>
-<li><a href="https://win-blog.techidaily.com/transformez-gratuitement-votre-fichier-mov-en-format-vob-sur-internet-avec-moveave/"><u>Transformez Gratuitement Votre Fichier MOV en Format VOB Sur Internet Avec Moveave.</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wi-fi-6ax201-issues-solution-found/"><u>Wi-Fi 6Ax201 Issues - Solution Found</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-and-seagate-recovery-for-unseen-hard-drive/"><u>Win11 & Seagate: Recovery for Unseen Hard Drive</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-epic-quests-unveiled-top-games-mirroring-ghost-of-tsushima/"><u>[New] In 2024, Epic Quests Unveiled Top Games Mirroring Ghost of Tsushima</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-guide-to-evaluating-and-enhancing-your-instream-ads-on-facebook-for-2024/"><u>[New] The Ultimate Guide to Evaluating & Enhancing Your Instream Ads on Facebook for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-trending-memes-galore-unique-themes-for-any-event/"><u>[New] Trending Memes Galore Unique Themes for Any Event</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-subscriber-chart-the-5-most-subscribed-youtube-channels/"><u>2024 Approved YouTube Subscriber Chart - The 5 Most Subscribed YouTube Channels</u></a></li>
+<li><a href="https://driver-error.techidaily.com/china-to-accelerate-government-compute-performance-aim-for-30-growth-and-300-exaflops-capacity-by-2025/"><u>China to Accelerate Government Compute Performance, Aim for 30% Growth and 300 Exaflops Capacity by 2025</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-resolving-the-absent-helperdll-file-issue/"><u>Expert Advice on Resolving the Absent Helper.dll File Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-on-correcting-battleye-system-launch-failures-due-to-missing-or-incorrect-drivers-error-1450/"><u>Expert Tips on Correcting BattlEye System Launch Failures Due to Missing or Incorrect Drivers (Error 1450)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gpu-insight-into-microsofts-ms-bda/"><u>GPU Insight Into Microsoft's MS BDA</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-device-disabled-by-windows-10/"><u>Graphics Device Disabled by Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-solve-when-your-latest-usb-connector-is-invisible-in-windows-environment/"><u>How to Solve When Your Latest USB Connector Is Invisible in Windows Environment</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/job-seekers-delight-writing-irresistible-cover-letters-using-ai/"><u>Job Seekers Delight: Writing Irresistible Cover Letters Using AI</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-usb-installation-failure-resolving-access-denied-issues/"><u>Overcoming 'USB Installation Failure': Resolving Access Denied Issues</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/speed-masterclass-turning-images-into-attention-grabbing-youtube-thumbnails/"><u>Speed Masterclass Turning Images Into Attention-Grabbing YouTube Thumbnails</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-whatsapps-voice-communication-system-for-2024/"><u>Understanding WhatsApp's Voice Communication System for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-camtasia-video-editing-secrets-speeding-up-or-slowing-down-footage-for-2024/"><u>Updated Camtasia Video Editing Secrets Speeding Up or Slowing Down Footage for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/where-are-my-nvidia-cards/"><u>Where Are My Nvidia Cards?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-patches-asus-camera-compatibility/"><u>Windows 10 Patches ASUS Camera Compatibility</u></a></li>
 </ul></div>
 

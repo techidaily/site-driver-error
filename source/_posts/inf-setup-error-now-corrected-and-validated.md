@@ -1,7 +1,7 @@
 ---
 title: INF Setup Error - Now Corrected & Validated
-date: 2024-10-31T17:57:48.391Z
-updated: 2024-11-04T21:18:51.409Z
+date: 2024-11-09T00:13:09.978Z
+updated: 2024-11-14T17:07:07.119Z
 tags:
   - win11
   - win10
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
@@ -97,10 +97,16 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
@@ -108,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -141,22 +147,21 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-driving-social-media-success-with-smart-fb-ad-production-for-2024/"><u>[New] Driving Social Media Success with Smart FB Ad Production for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transformative-power-in-healthcare-through-vr/"><u>[New] Transformative Power in Healthcare Through VR</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-how-to-ensure-the-best-live-experience-with-top-networks/"><u>[Updated] How to Ensure the Best Live Experience with Top Networks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-professional-gear-tips-gopro-edition/"><u>[Updated] In 2024, Professional Gear Tips GoPro Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-methods-to-fix-installation-failures-from-windows-store/"><u>Efficient Methods to Fix Installation Failures From Windows Store</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-and-regain-control-over-radeon-wattman-a-comprehensive-guide-to-default-settings-recovery/"><u>Fix and Regain Control Over Radeon Wattman - A Comprehensive Guide to Default Settings Recovery</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-lenovo-bluetooth-issue-on-windows-10/"><u>Fixing Lenovo Bluetooth Issue on Windows 10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-write-dialogue-or-narrative-script/"><u>How to Write Dialogue or Narrative Script</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-comprehensive-guide-to-perfecting-facetime-call-screen-captures/"><u>In 2024, Comprehensive Guide to Perfecting FaceTime Call Screen Captures</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-googles-podcast-uploading-guide/"><u>In 2024, Navigating Google's Podcast Uploading Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-windows-10-fixing-lenovo-bluetooth/"><u>Mastering Windows 10, Fixing Lenovo Bluetooth</u></a></li>
-<li><a href="https://driver-error.techidaily.com/optimizing-performance-deathadder-driver-in-win11/"><u>Optimizing Performance: DeathAdder Driver in WIN11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overheating-if-a-device-overheats-it-may-shut-down-to-protect-itself-from-damage-allowing-it-to-cool-before-restarting-can-sometimes-fix-a-black-screen-prob457/"><u>Overheating: If a Device Overheats, It May Shut Down to Protect Itself From Damage. Allowing It to Cool Before Restarting Can Sometimes Fix a Black Screen Problem</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-input-lag-on-your-hp-bluetooth-keyboard-effective-solutions-explored/"><u>Resolving Input Lag on Your HP Bluetooth Keyboard - Effective Solutions Explored</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-no-driver-found-issues-on-your-windows-11-8-or-7-device/"><u>Resolving No Driver Found Issues on Your Windows 11, 8 or 7 Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-when-your-final-usb-device-fails-and-is-ignored-by-windows/"><u>Troubleshooting Steps When Your Final USB Device Fails & Is Ignored by Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-keeps-up-keyboards-back-in-action/"><u>Windows 11 Keeps Up: Keyboard's Back in Action</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-innovative-free-chat-platforms-with-shared-screen-viewing/"><u>[New] Innovative Free Chat Platforms with Shared Screen Viewing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unleash-creativity-final-cut-pros-top-10-plug-ins/"><u>[New] Unleash Creativity Final Cut Pro’s Top 10 Plug-Ins</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-access-denial-windows-11-graphic-issue/"><u>Device Access Denial - Windows 11 Graphic Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-missing-usbdisc-drivers/"><u>Diagnosing Missing USB/Disc Drivers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dialogue-and-dynamics-boosted-by-gpts-novel-writing-tips/"><u>Dialogue & Dynamics Boosted By GPT's Novel Writing Tips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dissecting-the-revenue-sharing-mechanisms-in-youtube-shorts-economy-for-2024/"><u>Dissecting the Revenue-Sharing Mechanisms in YouTube Shorts Economy for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-windows-7-blue-screen-with-stop-code-0x0000007e/"><u>How to Fix the Windows 7 'Blue Screen with Stop Code 0X0000007E'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-missing-recognition-of-your-logitech-brio-cam-on-updated-pcs-running-win-10-fixed/"><u>How to Resolve Missing Recognition of Your Logitech Brio Cam on Updated PCs Running Win 10 [Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-device-unavailable-message-windows-xp/"><u>Resolve 'Device Unavailable' Message Windows XP</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/small-in-size-massive-in-cleaning-capability-discover-the-mighty-dinner-plate-sized-robot-vacuum-featured-on-zdnet/"><u>Small in Size, Massive in Cleaning Capability: Discover the Mighty Dinner Plate-Sized Robot Vacuum Featured on ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smoothing-out-bluetooth-on-lenovo-with-w11/"><u>Smoothing Out Bluetooth on Lenovo with W11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-repairing-windows-11-pc-reset-errors-a-complete-guide/"><u>Successfully Repairing Windows 11 PC Reset Errors - A Complete Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oppo-a79-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Oppo A79 5G Phone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210193089-9781642790313-true-starlight/"><u>True Starlight | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-7-troubleshooting-overcoming-the-blue-screen-error-0x0000007e/"><u>Windows 7 Troubleshooting: Overcoming the Blue Screen Error 0X0000007E</u></a></li>
 </ul></div>
 

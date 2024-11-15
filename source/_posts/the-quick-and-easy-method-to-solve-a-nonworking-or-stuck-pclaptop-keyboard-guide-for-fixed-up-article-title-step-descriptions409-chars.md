@@ -1,7 +1,7 @@
 ---
 title: The Quick & Easy Method to Solve a Nonworking or Stuck PC/Laptop Keyboard – Guide for Fixed-Up (Article Title)– Step Descriptions—409 Chars
-date: 2024-08-27T07:00:42.644Z
-updated: 2024-08-28T07:00:42.644Z
+date: 2024-11-12T16:26:17.950Z
+updated: 2024-11-14T16:13:45.940Z
 tags:
   - win11
   - win10
@@ -31,9 +31,6 @@ We have received reports from user saying that they have trouble using their HP 
 
 When prompted to confirm the uninstall, press**OK**to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc902b86a2.png)
 
 3) Wait for the uninstall to finish. Then**restart**your computer. The keyboard driver will be reinstalled automatically once you restart your laptop. **Note**: If you need to type in password to log into your desktop, please use the on-screen keyboard by choosing the middle icon from the three icons on the bottom right corner, then select**On-Screen Keyboard**.
@@ -44,32 +41,51 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Step 2: Check Keyboard Settings**
 
 1) Click your**Start**button, then choose**Settings**icon from it. Then choose**Time & language**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcfa0068ce.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) On the left side of the pane, choose**Region & language**, then on the right side, make sure that the language is set to**English (United States)**.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd71980796.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If not, click the**Options**button as shown in the screen shot.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd7a070a5e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then make sure the Keyboards is selected as**US**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Step 3: Try an External Keyboard**
 
@@ -79,9 +95,6 @@ If you have tried the above methods but they are not helpful, you may need to pl
 
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Step 4:** **Perform a Hard Reset**
 
 A hard reset will not remove any of your data in your computer, it is a move that decreases the amount of power stored in hardware components. Please consider following this option when you **cannot log** into your desktop or cannot go to **Advanced Startup Options** panel.  1) Turn off the computer and make sure you have disabled or disconnected all unnecessary external devices. Remove the computer from any port replicator or docking station.  2) Unplug the AC adapter from the computer and remove the battery from the battery compartment. 3) Press and hold the **Power**  button for about 15 seconds to drain any residual electrical charge from the capacitors that protect the memory.  4) Insert the battery and AC adapter back into the laptop, but make sure you don’t connect any external devices just yet. 5) Press **Power** button to turn on the computer.  If the startup menu opens, use the arrow key to select**Start Windows Normally** and press**Enter** key on your keyboard.
@@ -95,8 +108,6 @@ A hard reset will not remove any of your data in your computer, it is a move tha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,6 +115,26 @@ A hard reset will not remove any of your data in your computer, it is a move tha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/solved-high-definition-audio-device-driver-issue-after-windows-7-install/"><u>[Solved] High Definition Audio Device Driver Issue After Windows 7 Install</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-gimmicks-to-giants-navigating-popular-short-hashtags/"><u>[Updated] 2024 Approved From Gimmicks to Giants Navigating Popular Short Hashtags</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-get-ready-to-download-best-ios-apps-transforming-fb-videos-for-2024/"><u>[Updated] Get Ready to Download Best iOS Apps Transforming FB Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-a-treasure-trove-discovering-the-most-inspiring-5-book-tts/"><u>[Updated] In 2024, A Treasure Trove Discovering the Most Inspiring 5 Book TTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tiktok-profile-boost-smartly-insert-linktree-into-about-section/"><u>[Updated] TikTok Profile Boost Smartly Insert Linktree Into About Section</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/approach-consider-the-role-of-local-regulations-in-determining-land-use/"><u>Approach: Consider the Role of Local Regulations in Determining Land Use</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-update-memory-controllers-stopped-crashing/"><u>Driver Update: Memory Controllers Stopped Crashing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-detected-ideport0-control-error/"><u>Driver's Detected: Ideport0 Control Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-solutions-to-fix-unrecognized-driver-installations-for-compatibility/"><u>Effective Solutions to Fix Unrecognized Driver Installations for Compatibility</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fitting-your-full-vision-into-an-insta-worthy-post-a-step-by-step-process/"><u>Fitting Your Full Vision Into an Insta-Worthy Post: A Step-by-Step Process</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-marvell-91xx-driver-issue-on-windows-11-solved/"><u>Fix Marvell 91Xx Driver Issue on Windows 11 [Solved]</u></a></li>
+<li><a href="https://fox-links.techidaily.com/navigate-to-new-horizinas-top-win11-gaming-delights-for-2024/"><u>Navigate to New Horizinas Top Win11 Gaming Delights for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-navigation-a-win10-update/"><u>Seamless Navigation: A Win10 Update</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/snapsnatcher-fb-media-extraction-for-2024/"><u>SnapSnatcher FB Media Extraction for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/r-your-narrative-crafting-engaging-youtube-descriptions-using-pre-set-templates-for-2024/"><u>Tailor Your Narrative Crafting Engaging YouTube Descriptions Using Pre-Set Templates for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-for-setting-up-wake-on-lan-on-windows-operating-systems/"><u>The Ultimate Tutorial for Setting Up Wake-on-LAN on Windows Operating Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-invalid-drivers-steps-to-rectify-unrecognized-installations/"><u>Troubleshooting Invalid Drivers: Steps to Rectify Unrecognized Installations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/upside-down-vision-no-more-troubleshooting-screen-orientation-for-asus-computers/"><u>Upside Down Vision No More: Troubleshooting Screen Orientation for ASUS Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-serial-linkup-windows-system-recovery-tips/"><u>USB Serial Linkup: Windows System Recovery Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unsuccessful USB Setups Caused by Permission Restrictions
-date: 2024-08-27T07:00:47.393Z
-updated: 2024-08-28T07:00:47.393Z
+date: 2024-11-14T03:31:27.519Z
+updated: 2024-11-14T21:10:24.318Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/235c9a836def3af64d14d9406f5da36fac525d1a6
 
 If you can’t install any new USB devices due to error “Access is denied”, it can be frustrating. But don’t worry, here you will find the solution to fix the problem.  
   
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6862c6dbe8.png) .
 
 First, make sure that you login to computer as Administrator. If you are not logged in with Administrator, follow steps below to switch it to Administrator.  
@@ -30,9 +27,6 @@ First, make sure that you login to computer as Administrator. If you are not log
   
 2\. Click **Change your account type** and enter your password if necessary.
   
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791ba4e50787.png)
   
  3\. Then click**Start** button and choose to **Log off**  of Windows, and then log back in again.
@@ -52,23 +46,14 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
 1\. Press**Win+R**(Windows key and R key) at the same time. A Run dialog will open.  
 2\. Type**regedit**in the run box and click**OK**button.
   
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6905ba04f8.png)
   
  3\. Go to **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\USBSTOR.** Right-click on it and select**Permissions…** from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c692c5d030c.jpg)
   
  4\. Select**SYSTEM** from the Group or user names. In Permissions for SYSTEM section, make sure the Full Control Allow checkbox is checked and uncheck any Deny checkbox. Click Apply button to apply the changes.  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6933c3f709.png)
 
  Also check your user account and see if it has full control of the system and any deny checkbox is unchecked.
@@ -84,8 +69,6 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,6 +76,28 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-freeze-whole-website-panel/"><u>[New] 2024 Approved Freeze Whole Website Panel</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-seize-high-def-online-videos-a-facebook-strategy/"><u>[Updated] In 2024, Seize High-Def Online Videos A Facebook Strategy</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-dial-up-your-digital-presence-tips-for-confident-video-creators/"><u>2024 Approved Dial Up Your Digital Presence Tips for Confident Video Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-google-ar-stickers-an-introduction-and-comparisons/"><u>2024 Approved Google AR Stickers An Introduction & Comparisons</u></a></li>
+<li><a href="https://extra-information.techidaily.com/affordable-cloud-vaulting-mass-file-saving-made-cheap/"><u>Affordable Cloud Vaulting Mass File Saving Made Cheap</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-iphone-12-proipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from iPhone 12 Pro/iPad/iPod</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhance-system-stability-and-performance-with-updated-deathadder-bios/"><u>Enhance System Stability and Performance with Updated Deathadder Bios</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-text-to-screen-srt-to-subc-transformation-tips-for-2024/"><u>From Text to Screen SRT-to-SUBC Transformation Tips for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/get-error-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>Get Error “This Computer Does Not Meet the Minimum Requirement for Installing Software.” When Installing Intel Graphics Driver</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/muestra-facil-y-sin-coste-de-como-convertir-archivo-mpg-a-formato-m4v-online-con-movavi/"><u>Muestra Fácil Y Sin Coste De Cómo Convertir Archivo MPG a Formato M4V Online Con Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-display-for-hardware-drives-in-w1011/"><u>No Display for Hardware Drives in W10/11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revive-nonfunctional-usb-serial-connections-in-windows/"><u>Revive Nonfunctional USB Serial Connections in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-guide-to-diagnosing-and-fixing-wireless-keyboard-problems-in-windows/"><u>The Ultimate Guide to Diagnosing and Fixing Wireless Keyboard Problems in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/update-dell-touchpad-on-windows-7/"><u>Update Dell Touchpad on Windows 7</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

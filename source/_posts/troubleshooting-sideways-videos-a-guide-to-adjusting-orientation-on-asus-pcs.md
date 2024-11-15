@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Sideways Videos: A Guide to Adjusting Orientation on ASUS PCs"
-date: 2024-08-22T14:09:33.291Z
-updated: 2024-08-23T14:09:33.291Z
+date: 2024-11-13T16:23:58.947Z
+updated: 2024-11-14T18:10:28.695Z
 tags:
   - win11
   - win10
@@ -32,23 +32,14 @@ You can refer to steps below to uninstall the driver.
  1\. Go to [ASUS official website](http://www.asus.com) .  
  2\. Point your cursor over “Support” on top of the menu and click **Support** .
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57396d0538f04.png)
 
  3\. Type your laptop model name in the search box and click the search button. Let’s take K42DY for example.
   
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577f27e074b8c.png)
   
  4\. Click**Driver&Tools** .  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577f286c29b95.png)
   
  5\. Select the OS. (example: Windows 7 64bit)  
@@ -57,9 +48,6 @@ You can refer to steps below to uninstall the driver.
   
  6\. Select**Camera** from the driver list.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577f297715014.png)
   
  You may see several options for you to download. ForK42DY , there are 2 options. Download the right driver should resolve the problem. To identify the right driver, use the PID number.  
@@ -73,9 +61,6 @@ You can refer to steps below to uninstall the driver.
   
  3\. Click**Details** tab and select**Hardware Ids** from the drop-down menu of Property.  
   
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577f683296699.png)
   
  4\. Find the PID number in value as follows.
@@ -96,8 +81,6 @@ You can refer to steps below to uninstall the driver.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,6 +88,25 @@ You can refer to steps below to uninstall the driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-keyboard-not-working-on-windows-10/"><u>[Fixed] Keyboard Not Working on Windows 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-insiders-guide-to-recording-on-itunes-for-2024/"><u>[New] The Insider's Guide to Recording on iTunes for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-irqlnotlessorequal-bsod-in-windows-10/"><u>[Solved] IRQL_NOT_LESS_OR_EQUAL BSOD in Windows 10</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-accelerated-video-capture-device-and-voice-commentary-feature-for-2024/"><u>[Updated] Accelerated Video Capture Device & Voice Commentary Feature for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-leveraging-facebooks-potential-the-most-effective-video-ad-approaches/"><u>[Updated] In 2024, Leveraging Facebook's Potential The Most Effective Video Ad Approaches</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-restoring-your-qualcomm-atheros-bluetooth-connection-on-windows-vehicles-with-the-following-titles/"><u>Expert Tips: Restoring Your Qualcomm Atheros Bluetooth Connection on Windows Vehicles with the Following Titles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/failure-to-connect-device-due-to-missing-driver/"><u>Failure to Connect Device Due to Missing Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-kill-bluetooth-on-windows-10/"><u>Guide to Kill Bluetooth on Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/immersive-editing-unveiling-the-top-15-cine-luts-for-action-cam/"><u>Immersive Editing Unveiling the Top 15 Cine LUTs for Action Cam</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-financial-forecasting-a-deep-dive-into-budgeting-strategies/"><u>Mastering the Art of Financial Forecasting A Deep Dive Into Budgeting Strategies</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

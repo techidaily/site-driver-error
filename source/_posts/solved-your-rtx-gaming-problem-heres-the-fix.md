@@ -1,7 +1,7 @@
 ---
 title: "[Solved]: Your RTX Gaming Problem – Here’s The Fix"
-date: 2024-08-22T14:09:28.176Z
-updated: 2024-08-23T14:09:28.176Z
+date: 2024-11-08T20:51:53.155Z
+updated: 2024-11-15T03:39:23.640Z
 tags:
   - win11
   - win10
@@ -15,24 +15,12 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 
 ## [Solved]: Your RTX Gaming Problem – Here’s The Fix
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3f4aa4a899.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 For less advanced computer users, GeForce Experience is a useful application that helps to keep the drivers up to date, optimize game settings and allow you to share your gaming moments with your friends.![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3f3016d711.jpg) That being said, quite a few users are having problem where they see notification:”**GeForce cannot optimize games on this PC.**” or “**Games cannot be optimized.**” As shown in the first screen shot above. ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3f5205d200.jpg) If this also happens to you, read on and follow the easy-doing steps with images to help you fix the problem. [**1: Temporarily Shut Down Firewall**](https://collovinc.sjv.io/jrkzwp) [**2: Change the Settings in GeForce Experience**](https://bluettifr.pxf.io/bax2bv) [**3: Clean-install NVIDIA Display Driver**](https://copa.sjv.io/6eoowq)   **1: Temporarily Shut Down Firewall** Some users reported saying that this problem was gone when they temporarily shut down the firewall on their computers. It seems that on some computers, the firewall completely blocked the scan for new games, rendering it impossible for GeForce to help you optimize your gaming experience.   **2: Change the Settings in GeForce Experience** 1) Open your NVIDIA GeForce Experience. Go to**Preferences**tab. Then click**Games**side tab.![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a404079c123.jpg) 2) Make sure the box for**Recommend optimal settings**is checked. ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a404b623091.png) 3) Now go back to Game tab. See if the requirements are met. If so, then the optimizations should be able to work now.   **3: Clean-install NVIDIA Display Driver**1) To perform a clean-install of your display driver, you should first download**Display Driver Uninstaller**. It’ll help you uninstall your graphic driver entirely. After the download, install as instructed. Note that Display Driver Uninstaller might not work well after Windows 10 Creators Update. If you’re having problem using it, feel free to let us know and we’l provide further assistance. 2) Launch **Display Driver Uninstaller**. If you are in normal mode, it will suggest that you go to Safe Mode first and then proceed with the uninstall. Choose from the drop-down box**Safe Mode (Recommended)**.![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a40772e54be.png) 3) Choose**Clean and restart (Highly recommended)**option. ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a409a03cfa8.jpg) Wait for the uninstall to complete and your computer will restart into normal mode. 4) Then go to support website of NVIDIA and search for the correct graphics card driver for your device. ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a409fd3ebd4.jpg) 5) When you find the correct driver, download it and then install it as instructed. The time spent depends on the searching skill and the network speed of yours. So the time could range from 10 minutes to 1 hour or more. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59964fe66ed54.png)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Click the**Update**button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click**Update All**). ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59965024bc7a8.jpg)
 
 * [NVIDIA](https://tools.techidaily.com/drivereasy/download/)
@@ -43,8 +31,6 @@ For less advanced computer users, GeForce Experience is a useful application tha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,6 +38,28 @@ For less advanced computer users, GeForce Experience is a useful application tha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-quintessential-gopro-modifications/"><u>[New] 2024 Approved Quintessential Gopro Modifications</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-stunning-celestinas-and-skies-online-directory/"><u>[New] In 2024, Stunning Celestinas and Skies Online Directory</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-become-a-youtube-star-essential-skills-training/"><u>[Updated] 2024 Approved Become a YouTube Star Essential Skills Training</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-therapeutic-effects-of-asmr-for-everyone/"><u>[Updated] The Therapeutic Effects of ASMR for Everyone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-ideal-video-file-types-compatible-with-macos-a-comprehensive-guide/"><u>1. Ideal Video File Types Compatible with macOS: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/capturing-cinematic-excellence-apple-introduces-final-cut-for-iphones-filmography-toolkit/"><u>Capturing Cinematic Excellence: Apple Introduces Final Cut for iPhone's Filmography Toolkit</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-fixing-win1011-sm-bus-drivers/"><u>Diagnosing and Fixing Win10/11 Sm Bus Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-unsuccessful-lacking-intel-adapter-support/"><u>Drivers Unsuccessful; Lacking Intel Adapter Support</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-realme-c55-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Realme C55 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://driver-error.techidaily.com/elevating-system-bus-efficiency-on-win11/"><u>Elevating System Bus Efficiency on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-fix-how-to-correctly-install-your-hcmon-driver-and-avoid-failures/"><u>The Ultimate Fix: How to Correctly Install Your HCMon Driver and Avoid Failures</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-windows-10-qualcomm-atheros-bluetooth-not-working-solution/"><u>Troubleshooting Windows 10: Qualcomm Atheros Bluetooth Not Working Solution</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1728510172603-windows-11usb/"><u>Windows 11上如何启用外置硬盘或USB驱动器的引导功能</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-compatible-samsung-mobile-system/"><u>Windows-Compatible: Samsung Mobile System</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

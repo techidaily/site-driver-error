@@ -1,7 +1,7 @@
 ---
 title: Service Install Error - Solution Found
-date: 2024-10-25T17:10:59.588Z
-updated: 2024-10-30T02:04:41.859Z
+date: 2024-11-11T03:34:33.491Z
+updated: 2024-11-14T19:48:36.038Z
 tags:
   - win11
   - win10
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
@@ -97,16 +97,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
@@ -114,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -147,17 +141,20 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-perfecting-eq-adjustments-in-ableton/"><u>[New] Perfecting EQ Adjustments in Ableton</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-ken-burns-method-in-camtasia-9-explained-simply-for-2024/"><u>[New] The Ken Burns Method in Camtasia 9 Explained Simply for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-empowering-remote-teams-with-google-meets-whiteboard-features-on-various-devices/"><u>[Updated] 2024 Approved Empowering Remote Teams with Google Meet's Whiteboard Features on Various Devices</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-experience-retro-gaming-glory-with-best-pc-ps1-emulation-software/"><u>[Updated] In 2024, Experience Retro Gaming Glory with Best PC PS1 Emulation Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-errors-ensuring-proper-driver-validation-for-your-pcs-hardware/"><u>Fixing Errors: Ensuring Proper Driver Validation for Your PC's Hardware</u></a></li>
-<li><a href="https://driver-error.techidaily.com/force-abandoned-for-a-flawless-graphics-setup/"><u>Force Abandoned for a Flawless Graphics Setup</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-does-ipad-compare-to-ipad-air-key-factors-revealed/"><u>How Does iPad Compare to iPad Air?: Key Factors Revealed</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-top-tier-pdf-visual-improvements/"><u>In 2024, Top-Tier PDF Visual Improvements</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-devhub-48-issue/"><u>Resolved: DevHub #48 Issue</u></a></li>
-<li><a href="https://driver-error.techidaily.com/samsungs-virtual-machine-suite-for-pc-users/"><u>Samsung's Virtual Machine Suite for PC Users</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-comprehensive-guide-to-ultimate-video-editing-vivacut-24-edition-for-2024/"><u>The Comprehensive Guide to Ultimate Video Editing VivaCut '24 Edition for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-when-windows-ignores-your-latest-usb-attachment/"><u>Troubleshooting Steps When Windows Ignores Your Latest USB Attachment</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-drone-racing-all-you-need-to-know-and-5-best-fpv-racing-drones/"><u>[New] Drone Racing All You Need to Know and 5 Best FPV Racing Drones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-unable-to-connect-to-the-synaptics-pointing-device-driver/"><u>[Solved] Unable to Connect to the Synaptics Pointing Device Driver</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-voice-in-unison-for-the-digital-stage/"><u>[Updated] In 2024, Voice-in-Unison for the Digital Stage</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-starting-an-online-platform-for-consumer-goods-reviews-for-2024/"><u>[Updated] Starting an Online Platform for Consumer Goods Reviews for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-obscured-oath-black-vs-the-illuminated-edict-silver/"><u>2024 Approved The Obscured Oath (Black) VS The Illuminated Edict (Silver)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/careless-install-of-gpu-driver/"><u>Careless Install of GPU Driver?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-professionals-choice-best-drone-gimbals/"><u>In 2024, Professional's Choice Best Drone Gimbals</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-directx-9-startup-in-minimal-steps/"><u>Mastering DirectX 9 Startup in Minimal Steps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-nonworking-right-click-on-windows-11-touchpad-panel/"><u>Resolve Nonworking Right Click on Windows 11 Touchpad Panel</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-restoring-functionality-when-your-pc-lacks-a-coprocessor-driver-in-windows-nt/"><u>Solved! Restoring Functionality When Your PC Lacks a Coprocessor Driver in Windows nT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-and-compressed-memory-high-disk-usage-on-windows-10-solved/"><u>System and Compressed Memory High Disk Usage on Windows 10 [Solved]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-process-intelligence-a-comprehensive-guide/"><u>Unveiling Process Intelligence: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102843679-windows-11-and-qualcomm-atheros-bluetooth-woes-heres-your-ultimate-fix/"><u>Windows 11 and Qualcomm Atheros Bluetooth Woes? Here's Your Ultimate Fix!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-gaming-pros-choice-of-5-microphones-for-2024/"><u>YouTube Gaming Pros' Choice of 5 Microphones for 2024</u></a></li>
 </ul></div>
 

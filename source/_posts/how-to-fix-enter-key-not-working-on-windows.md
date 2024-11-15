@@ -1,7 +1,7 @@
 ---
 title: How to Fix Enter Key Not Working on Windows
-date: 2024-08-27T06:59:23.118Z
-updated: 2024-08-28T06:59:23.118Z
+date: 2024-11-09T03:40:45.898Z
+updated: 2024-11-14T19:06:52.750Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 3. [**Reinstall the keyboard driver**](https://twopages.pxf.io/21em1d)
 4. **[Update the keyboard driver](https://bluettieu.pxf.io/nlgoka)**
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Restart your computer
 
  Sometimes, a simple reboot can fix the issue. This is the first thing you should try when the Enter key is not working.
@@ -47,17 +44,18 @@ Here is how to do it:
 
  1) Type**Ease of Access** in the Search box, then select**Ease of Access keyboard settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-66.png)
 
  2) Make sure the status of**Sticky Keys** ,**Toggle Keys,** and**Filter Keys** are all set to**Off** . If any one of them is on, switch it to**Off** .
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-49.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Test the Enter key on your keyboard to see if it works.
 
@@ -73,7 +71,27 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Sticky-Filter-and-Toggle-keys-Off-1200x664.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Test the Enter key on your keyboard to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall the keyboard driver
 
@@ -81,9 +99,6 @@ Here is how to do it:
 
  1) On your keyboard, press the **Windows logo key + R** at the same time, type **devmgmt.msc** and click**OK** to open Device Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-45.png)
 
  2) Double click**Keyboards** , right-click your keyboard device and select**Uninstall device** .
@@ -95,6 +110,13 @@ Here is how to do it:
  4) Check if the Enter key is working.
 
  Your Enter key should be working perfectly again now. If not, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the keyboard driver
 
@@ -120,9 +142,6 @@ Here is how to do it:
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro Version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-47.png)
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -146,8 +165,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,6 +172,26 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mac-based-strategies-for-shorter-insta-videos/"><u>[Updated] 2024 Approved Mac-Based Strategies for Shorter Insta Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-definition-wonders-with-the-nikon-d500/"><u>[Updated] High Definition Wonders with the Nikon D500</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-8-best-facebook-scheduler-to-improve-efficiency/"><u>[Updated] In 2024, 8 Best Facebook Scheduler to Improve Efficiency</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-acpi-problems-in-windows-on-asus-systems/"><u>Addressing Acpi Problems in Windows on Asus Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/amend-broadcom-nic-error-on-precision-m65/"><u>Amend Broadcom NIC Error on Precision M65</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-notebook-display-issue-how-to-adjust-screen-orientation-back-to-normal/"><u>ASUS Notebook Display Issue: How to Adjust Screen Orientation Back to Normal</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-integration-mastery-in-windows-operating-system/"><u>Bluetooth Integration Mastery in Windows Operating System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/clarifying-how-to-fix-problems-with-obsolete-usb-composite-hardware/"><u>Clarifying How to Fix Problems with Obsolete USB Composite Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/clearing-the-path-for-code-52-resolution/"><u>Clearing the Path for Code 52 Resolution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/closed-issue-non-supported-intelamd-graphics-driver-compatibility-with-premier-pro/"><u>Closed Issue: Non-Supported Intel/AMD Graphics Driver Compatibility with Premier Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correct-the-vertically-oriented-video-malfunction-in-your-asus-laptop-with-these-steasy-tips/"><u>Correct the Vertically Oriented Video Malfunction in Your ASUS Laptop with These Steasy Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-6-organizers-leading-journal-apps-reviewed/"><u>Discover the Ultimate 6 Organizers: Leading Journal Apps Reviewed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104114505-fixing-slow-graphics-on-pc-our-team-cracked-the-rtx-gaming-issue-check-out-this-quick-fix/"><u>Fixing Slow Graphics on PC? Our Team Cracked the RTX Gaming Issue - Check Out This Quick Fix!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/from-unknown-to-iconic-the-journey-of-viral-instagram-films-for-2024/"><u>From Unknown to Iconic The Journey of Viral Instagram Films for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-your-visuals-with-optimal-dimensions-for-2024/"><u>Master Your Visuals with Optimal Dimensions for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-video-creation-and-editing-on-your-mac-with-av-movivid-tutorials/"><u>Mastering Video Creation and Editing on Your Mac with Av MoviVid Tutorials</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211239530--mexican-magic/"><u>Mexican Magic | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transform-your-livestream-with-manycam-the-ultimate-solution-for-professional-virtual-webcam-software/"><u>Transform Your Livestream with ManyCam - The Ultimate Solution for Professional Virtual Webcam Software</u></a></li>
+</ul></div>
 

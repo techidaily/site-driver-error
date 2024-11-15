@@ -1,7 +1,7 @@
 ---
 title: "Disabled Issue Resolved: Ready for Use"
-date: 2024-10-27T22:08:27.470Z
-updated: 2024-10-30T04:49:22.826Z
+date: 2024-11-11T00:41:06.076Z
+updated: 2024-11-14T17:49:40.149Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ If you encounter**This device is disabled. (Code 22)**in Device Manager, here ar
 4. **[Reset the BIOS settings](https://bluettius.sjv.io/dkpnv2)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Enable your device driver
@@ -41,24 +41,31 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 2. Type **devmgmt.msc** and press**Enter**  to access Device Manager.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e3f572c04.png)
 3. Expand the category that your device belongs to, right-click your device and select**Enable device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -72,21 +79,7 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 3. Click the **Update** button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).Or click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall your device driver
 
@@ -116,6 +109,14 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
 
 5. Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 6. Wait for about one or two minutes for the CMOS to reset itself to its defaults.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 ---
@@ -139,18 +140,22 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-explore-and-evaluate-the-top-10-mobile-video-conferencing-apps/"><u>[New] In 2024, Explore & Evaluate The Top 10 Mobile Video Conferencing Apps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-mastering-virtual-console-with-top-5-ps3-emulators/"><u>[New] Mastering Virtual Console with Top 5 PS3 Emulators</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-comedic-journey-an-evaluation-of-goofy-adventures/"><u>[Updated] The Comedic Journey An Evaluation of 'Goofy Adventures'</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-free-to-use-vimeo-tips-to-master-your-videos/"><u>In 2024, Free-to-Use Vimeo Tips to Master Your Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keybacklight-dark-issue-asus/"><u>Keybacklight Dark Issue - ASUS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keys-locked-in-win-10-system/"><u>Keys Locked in Win 10 System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-error-code-48-on-device-hub/"><u>No More Error Code 48 on Device Hub</u></a></li>
-<li><a href="https://driver-error.techidaily.com/nvidia-detection-problem-in-win-oses/"><u>Nvidia Detection Problem in WIN OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/scrutinizing-the-utility-of-windows-11-interface-components/"><u>Scrutinizing the Utility of Windows 11 Interface Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-affordable-gaming-memory-modules-of-2024-with-brilliant-lighting-features/"><u>Top Affordable Gaming Memory Modules of 2024 with Brilliant Lighting Features</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721105092287-troubleshooting-radeon-wattmans-sudden-crash-and-recovery-expert-solutions-revealed/"><u>Troubleshooting Radeon Wattman's Sudden Crash and Recovery – Expert Solutions Revealed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-tricks-and-tweaks-to-boost-your-apple-tvs-capabilities/"><u>Ultimate Tricks and Tweaks to Boost Your Apple TV's Capabilities</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-picks-of-the-year-premium-google-cardboard-vr-gaming/"><u>[New] 2024 Approved Picks of the Year Premium Google Cardboard VR Gaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-comprehensive-screencast-insights-for-creators-for-2024/"><u>[New] Comprehensive Screencast Insights for Creators for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-from-frame-to-script-innovative-ways-of-integrating-text-in-images/"><u>[New] From Frame to Script Innovative Ways of Integrating Text in Images</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-secrets-unveiled-for-documenting-real-time-sports-for-2024/"><u>[Updated] Secrets Unveiled for Documenting Real-Time Sports for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bcm20702a0-support-issue-detected/"><u>BCM20702A0 Support Issue Detected</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnostics-policy-service-is-not-running-solved/"><u>Diagnostics Policy Service Is Not Running [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhancing-acpi-functionality-in-asus-with-win10/"><u>Enhancing Acpi Functionality in ASUS with Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-atheros-bluetooth-driver-issues-in-windows-11-solutions-revealed/"><u>Fixing Qualcomm Atheros Bluetooth Driver Issues in Windows 11 - Solutions Revealed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-nokia-g22-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/iphone-silhouette-photography-tips/"><u>IPhone Silhouette Photography Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-nvidia-driver-glitches-easily/"><u>Overcoming Nvidia Driver Glitches Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-network-interface-misbehavior-dell-vostro/"><u>Resolve Network Interface Misbehavior, Dell Vostro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-device-unrecognized-in-winnt/"><u>Resolving 'Device Unrecognized' In WinNT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-evolution-of-usb-technology-addressing-issues-with-usb-composite-devices/"><u>The Evolution of USB Technology: Addressing Issues with USB Composite Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210634908-9780760378373-the-witchs-cookbook/"><u>The Witch's Cookbook | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/triumph-over-windows-11-solving-elan-driver-conflicts/"><u>Triumph Over Windows 11: Solving Elan Driver Conflicts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/673193-9781451626438-unconditional-forgiveness/"><u>Unconditional Forgiveness | Free Book</u></a></li>
 </ul></div>
 

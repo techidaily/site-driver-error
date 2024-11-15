@@ -1,7 +1,7 @@
 ---
 title: How to Fix USB Drive Not Showing Up in Windows 10 Issue
-date: 2024-08-22T14:08:13.250Z
-updated: 2024-08-23T14:08:13.250Z
+date: 2024-11-08T20:22:42.705Z
+updated: 2024-11-14T18:30:58.849Z
 tags:
   - win11
   - win10
@@ -73,16 +73,10 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b3f525f11f3.png)
 
  2) Expand category**Disk Drivers** and**Universal Serial Bus controllers** to see if you can find any devices with a yellow exclamation mark on them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b3f585cbc1d.jpg)
 
  If you are seeing some other types or marks, such as a question mark or a down-arrow mark or certain error notification or error codes, type the error codes in the searching box [**here**](https://tools.techidaily.com/drivereasy/download/) to look for solutions:
@@ -93,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  4) Go to**Drivers** tab, and then choose**Update Driver…** option.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b3f6d6c73ba.png)
 
  5) Wait for Microsoft to help you find the appropriate driver for your USB drive and hope that it will bring your USB flash drive back.
@@ -118,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  2) Right click the partition on the drive and then choose**Change Drive Letter and Paths…** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-drive-letter-and-paths.png)
 
  3) If your external hard drive doesn’t have a letter, add a letter for this drive by pressing**Add…** .
@@ -137,9 +125,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  Right click the**Unallocated** space and choose**New Simple Volume** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b3fe080e37f.png)
 
  Choose the maximum possible size for the partition and assign a drive letter, or you can let Windows choose a drive letter automatically.
@@ -157,8 +142,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,6 +149,28 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-prime-mac-gif-cutter/"><u>[New] Prime Mac GIF Cutter</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-budget-friendly-high-quality-gaming-keyboards-unveiled-for-2024/"><u>[Updated] Budget-Friendly, High-Quality Gaming Keyboards Unveiled for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-making-a-splash-how-to-improve-your-videos-with-instagram-edits/"><u>[Updated] In 2024, Making a Splash How to Improve Your Videos with Instagram Edits</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-iphone-ready-syncing-photos-and-videos-from-pc/"><u>[Updated] IPhone-Ready Syncing Photos & Videos From PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-sports-viewership-in-the-digital-age/"><u>[Updated] Mastering Sports Viewership in the Digital Age</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-3d-video-app-for-android-devices/"><u>[Updated] Premium 3D Video App for Android Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-snap-share-thrive-on-instagram/"><u>2024 Approved Snap, Share, Thrive on Instagram</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-unwanted-in-windows-11-solution-found/"><u>Bluetooth Unwanted in Windows 11: Solution Found</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-solutions-to-overcome-failed-to-instalh-hcmon-driver-problem/"><u>Comprehensive Solutions to Overcome 'Failed to InstalH' HcMon Driver Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hidef-audio-resolved-successful-fix/"><u>HiDef Audio Resolved: Successful Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105051033-how-to-fix-no-driver-found-error-on-your-device-with-windows-11-8-or-7-solved/"><u>How to Fix 'No Driver Found' Error on Your Device with Windows 11, 8 or 7 – Solved!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capturing-screen-content-on-huawei-mate-10-20-and-p-series-phones-via-built-in-recorders/"><u>In 2024, Capturing Screen Content on Huawei Mate 10, 20 & P-Series Phones via Built-In Recorders</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-disabled-right-click-issue-in-windows-11-touchpad-environment/"><u>Resolve Disabled Right Click Issue in Windows 11 Touchpad Environment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-techniques-for-factory-resetting-your-dell-laptop-device/"><u>Ultimate Techniques for Factory-Resetting Your Dell Laptop Device</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

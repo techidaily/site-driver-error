@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Nonfunctional Qualcomm Atheros Bluetooth in Windows 10
-date: 2024-08-27T06:57:57.644Z
-updated: 2024-08-28T06:57:57.644Z
+date: 2024-11-09T17:02:09.529Z
+updated: 2024-11-14T17:58:03.836Z
 tags:
   - win11
   - win10
@@ -36,16 +36,10 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
  Then choose**Update history** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878514d080da.jpg)
   
  Scroll down to see if you can find the**KB3061161** . It should be a rather old update, so it might cost you some time to locate.
   
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587852a8ba348.jpg)
 
 If you don’t see such an update, don’t freak out, just go to Microsoft and get in downloaded and installed, and you will be fine.
@@ -104,16 +98,10 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
  4) Choose**Browse my computer for driver software** .
   
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787a96b276c.jpg)
 
  5) Choose **Let me pick from a list of the drivers on my computer** .
   
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787ac962e8f.jpg)
 
 6) Un-tick the box for **Show compatible hardware** . Then you should be able to see **Qualcomm Atheros** driver option on the left. On the right, choose one of the drivers listed. We go with**Qualcomm Atheros AR3011 Bluetooth 3.0** . You need to try them one by one by yourself to select the right one for your PC. When done picking, click**Next** to continue.
@@ -136,9 +124,6 @@ Moreover, it is very easy to use. Just click the**Scan Now**button for**Driver E
 
 Then the**Update**button next to the driver you need to update.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76eb162d8c.jpg)
 
 That’s all.
@@ -158,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +150,33 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-wireless-mouse-not-working-on-windows/"><u>[Fixed] Wireless Mouse Not Working on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-static-to-dynamic-making-text-pop-on-instagram-stories/"><u>[New] From Static to Dynamic Making Text Pop on Instagram Stories</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-quick-tips-for-saving-the-world-with-a-smile-for-2024/"><u>[New] Quick Tips for Saving the World with a Smile for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-crafting-captivating-thumbnails-a-comprehensive-guide-for-youtube-creators/"><u>[Updated] 2024 Approved Crafting Captivating Thumbnails A Comprehensive Guide for YouTube Creators</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-amplify-your-voice-on-twitter-top-video-uploading-solutions/"><u>[Updated] Amplify Your Voice on Twitter Top Video Uploading Solutions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mac-studio-screen-and-sounds-recording-feature-for-2024/"><u>[Updated] Mac Studio Screen & Sounds Recording Feature for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-12-budget-friendly-video-apps-for-pcmobile-devices-for-2024/"><u>[Updated] Top 12 Budget-Friendly Video Apps for PC/Mobile Devices for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-your-way-through-vr-headset-selection-is-the-mobile-experience-more-attractive-than-tethered-tech/"><u>2024 Approved Navigating Your Way Through VR Headset Selection Is the Mobile Experience More Attractive Than Tethered Tech?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-twitch-time-travel-retrieve-lost-broadcast-moments/"><u>2024 Approved Twitch Time-Travel Retrieve Lost Broadcast Moments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/acpi-driver-fix-for-device-id-33a0/"><u>ACPI Driver Fix for Device ID 33A0</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/braving-sound-quality-with-jabras-tough-buddy/"><u>Braving Sound Quality with Jabra's Tough Buddy</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-the-setup-of-your-gadget-overcoming-code-1-hurdles/"><u>Correcting the Setup of Your Gadget - Overcoming Code 1 Hurdles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disc-drives-hidden-windows-11-troubleshooted/"><u>Disc Drives Hidden: Windows 11 Troubleshooted</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-atheros-bluetooth-issues-on-windows-10-complete-solution/"><u>Fixing Qualcomm Atheros Bluetooth Issues on Windows 10: Complete Solution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nexus-one-non-detection-in-linux-mint-cinnamon-solution-found/"><u>Nexus One Non-Detection in Linux Mint Cinnamon, Solution Found!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-bluetooth-issues-on-pcs-with-the-latest-os-update-easily-done/"><u>Overcoming Bluetooth Issues on PCs with the Latest OS Update [Easily Done]</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/saving-screen-scenes-pcmac-and-mobile-devices-walkthrough-for-2024/"><u>Saving Screen Scenes PC/Mac & Mobile Devices Walkthrough for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-lenovos-bt-error-in-win11-ease/"><u>Troubleshooting Lenovo’s BT Error in Win11 Ease</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-fixes-overcoming-wireless-keyboard-malfunctions-in-your-windows-workspace/"><u>Ultimate Fixes: Overcoming Wireless Keyboard Malfunctions in Your Windows Workspace</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
