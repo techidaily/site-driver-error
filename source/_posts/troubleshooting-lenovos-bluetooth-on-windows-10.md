@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Lenovo's Bluetooth on Windows 10
-date: 2024-11-07T23:29:15.065Z
-updated: 2024-11-15T03:27:31.900Z
+date: 2024-11-19T00:42:36.747Z
+updated: 2024-11-23T17:58:04.446Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 * [Option 3: Update Bluetooth driver](https://lightailing.sjv.io/k0ez0m)
 * [Option 4: Perform a refresh](https://collovinc.sjv.io/jrkzwp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Option 1: Enable Bluetooth hardware
 
 **NOTE** : Please make sure that your computer has the necessary hardware and your wireless is turned on. Also, check the support website of Lenovo to make sure that your device is Bluetooth capable.
@@ -47,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7a64714f6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Expand **Bluetooth Radios**  or **Bluetooth** .
 
 **Note** : If you **cannot** see any items listed under Network adapters or Bluetooth Radios, please proceed to **Option 2** .
@@ -57,9 +54,17 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b810d497f1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) If you see a yellow exclamation mark next to your Bluetooth driver, your Bluetooth hardware is not responding or set up correctly. You can refer to **Option 3** for more help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2: Enable discovery mode
 
@@ -67,16 +72,13 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e564dcca0a6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 3: Update Bluetooth driver
 
@@ -92,23 +94,13 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver-scan.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 4: Perform a refresh
 
@@ -132,19 +124,17 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-your-next-great-story-selecting-free-android-editing-tools/"><u>[New] In 2024, Your Next Great Story Selecting Free Android Editing Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premium-audio-alerts-excellent-sites-compilation/"><u>[New] Premium Audio Alerts Excellent Sites Compilation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unveil-exclusive-video-snippets-all-at-zero-cost/"><u>[Updated] Unveil Exclusive Video Snippets – All at Zero Cost</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/compatible-broadcom-bluetooth-device-drivers-for-microsoft-windows-versions/"><u>Compatible Broadcom Bluetooth Device Drivers for Microsoft Windows Versions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-default-radeon-wattman-settings-failure-and-restoration/"><u>How to Fix 'Default Radeon WattMan Settings Failure & Restoration'</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-master-the-algorithm-effective-tools-to-increase-youtube-views/"><u>In 2024, Master the Algorithm Effective Tools to Increase YouTube Views</u></a></li>
-<li><a href="https://driver-error.techidaily.com/in-built-wi-fi-bluetooth-not-responding-on-laptop-running-win-10-how-to-fix/"><u>In-Built Wi-Fi, Bluetooth Not Responding on Laptop Running Win 10 - How to Fix?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/intel-dynamic-platform-and-thermal-framework-dptf-driver-install-failed-solved/"><u>Intel Dynamic Platform and Thermal Framework (DPTF) Driver Install Failed [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-unsupported-graphics-in-premiere-pro-with-amdintel/"><u>Resolved: Unsupported Graphics in Premiere Pro with AMD/Intel</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reviving-lenovo-bt-with-win11-expertise-and-know-how/"><u>Reviving Lenovo BT with Win11 Expertise and Know-How</u></a></li>
-<li><a href="https://blog-min.techidaily.com/the-essential-role-of-white-balance-in-achieving-perfect-exposure-and-color-accuracy/"><u>The Essential Role of White Balance in Achieving Perfect Exposure and Color Accuracy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-idevices-on-hold-why-its-best-to-skip-purchasing-them-currently-insights-by-zdnet/"><u>Top 4 iDevices on Hold: Why It’s Best to Skip Purchasing Them Currently - Insights by ZDNet</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wdcsam64prewin8sys-disabling-core-isolation/"><u>wdcsam64_prewin8.sys - Disabling Core Isolation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-social-media-savant-writes-on-mastering-brand-promotion/"><u>[New] 2024 Approved The Social Media Savant' Writes on Mastering Brand Promotion</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-skyrocket-your-channel-the-ultimate-guide-to-youtube-backlinks/"><u>2024 Approved Skyrocket Your Channel The Ultimate Guide to YouTube Backlinks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-realme-12-pro-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme 12 Pro 5G FRP</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-troubleshooting-cheat-sheet-15-ways-to-resolve-iphone-problems-across-all-models/"><u>Comprehensive Troubleshooting Cheat Sheet: 15 Ways to Resolve iPhone Problems Across All Models</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-disabled-bcm20702a0/"><u>Driver Disabled: BCM20702A0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhancing-stability-actions-against-nvidia-glitches/"><u>Enhancing Stability: Actions Against Nvidia Glitches</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/herunterladen-von-eingebetteten-you-tube-und-social-media-video-inhalten/"><u>Herunterladen Von Eingebetteten You-Tube Und Social Media Video-Inhalten</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-asus-acpi-driver-issues-in-windows-11/"><u>How to Fix Asus ACPI Driver Issues in Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-xiaomi-redmi-note-13-proplus-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Xiaomi Redmi Note 13 Pro+ 5G Without PUK Codes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-boundless-playlist-public-domain-music-for-games/"><u>In 2024, Boundless Playlist Public Domain Music for Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/posting-vimeo-video-masterclass-for-instagramers/"><u>Posting Vimeo Video Masterclass for Instagramers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unhindered-interaction-mouse-and-windows-10-fixes/"><u>Unhindered Interaction: Mouse & Windows 10 Fixes</u></a></li>
 </ul></div>
 

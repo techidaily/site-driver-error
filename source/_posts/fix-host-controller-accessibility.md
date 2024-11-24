@@ -1,7 +1,7 @@
 ---
 title: Fix Host Controller Accessibility
-date: 2024-09-04T12:43:22.306Z
-updated: 2024-09-05T12:43:22.306Z
+date: 2024-11-22T06:02:12.487Z
+updated: 2024-11-23T23:47:18.696Z
 tags:
   - win11
   - win10
@@ -36,10 +36,24 @@ Follow these steps:
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. In Device Manager, right-click on the **Universal Serial Bus (USB) Controller** with the yellow exclamation mark and select**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_590197be52699.png)
 3. If prompted for confirmation, click the box next to**Delete the driver software for this device** (if you see this), and click**OK** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_590197eb1814f.png)
 4. Restart your PC then check if the driver is installed correctly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -53,12 +67,6 @@ Follow these steps:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 3: Update All Drivers Automatically
 
  If the above methods don’t work for you, you can update all drivers automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -69,22 +77,18 @@ Follow these steps:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/Intel-9-series-chipset-family-sata-ahci-controller.jpg)
 4. Restart your computer for the changes to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -99,8 +103,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,6 +110,18 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-recording-device-feedback-guide-for-2024/"><u>[Updated] Recording Device Feedback Guide for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-s23-ultra-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy S23 Ultra Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-visual-sneak-peek-bundle/"><u>2024 Approved Premier Visual Sneak Peek Bundle</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tricks-to-simulate-historical-alterations/"><u>2024 Approved Tricks to Simulate Historical Alterations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-reactivating-your-discord-push-to-talk-function-when-it-malfunctions/"><u>Expert Tips on Reactivating Your Discord Push-to-Talk Function When It Malfunctions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-desktopmobile-adjust-youtube-video-pace/"><u>In 2024, Mastering Desktop/Mobile Adjust YouTube Video Pace</u></a></li>
+<li><a href="https://driver-error.techidaily.com/installing-missing-device-drivers-on-your-pc-running-windows-version-1187-a-step-by-step-guide/"><u>Installing Missing Device Drivers on Your PC Running Windows (Version 11/8/7) – A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-broadcom-wi-fi-n-adapter-errors-in-windows/"><u>Resolved: Broadcom Wi-Fi N Adapter Errors in Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oneplus-12-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/triumphant-resolution-of-elan-tap-issues-in-w11/"><u>Triumphant Resolution of Elan Tap Issues in W11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-fixing-a-non-responsive-wireless-keyboard-on-windows-computers/"><u>Troubleshooting Steps: Fixing a Non-Responsive Wireless Keyboard on Windows Computers</u></a></li>
+</ul></div>
 

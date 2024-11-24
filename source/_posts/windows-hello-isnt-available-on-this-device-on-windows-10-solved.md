@@ -1,7 +1,7 @@
 ---
 title: Windows Hello Isn’t Available on This Device on Windows 10 [Solved]
-date: 2024-08-31T10:53:04.640Z
-updated: 2024-09-01T10:53:04.640Z
+date: 2024-11-17T22:19:13.613Z
+updated: 2024-11-23T19:21:17.755Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
 ## Windows Hello Isn’t Available on This Device on Windows 10 [Solved]
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b4da0963d89.jpg)
 
  If you’re having “**Windows Hello isn’t available on this device.** ” in your **Settings** windows, you’re not alone. Many Windows 10 users are reporting this problem as well. No worries, it’s possible to fix. Here is the 3-step fixes for you to fix your problem.
@@ -27,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 **Windows Hello** allows you to login into your system by recognizing your fingerprint or your face or your iris (like Surface) rather than using a pin code or a password, provided that you have a webcam and a finger scanner that work.  
   
  With Windows 10 Anniversary Update, this feature has extended to apps and websites, which include banking apps and other sensitive apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **How do I fix it?**
 
@@ -43,6 +44,11 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b4ea4caaadc.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Check for updates** button. Install available updates found.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b4ecde1a7d6.jpg)
@@ -55,14 +61,20 @@ When you finish, move on to the second step.
 
  1) On your keyboard, press **the Windows logo key** and**R** at the same time, then type **gpedit.msc** and press **Enter** .
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b4f84461830.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Follow the path: **Computer Configuration > Administrative Templates > Windows Components** . On the right side of the pane, double-click **Allow the use of biometrics** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b4f93772ff1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Enabled** . Then click**Apply** and**OK** to save the change.
   
@@ -70,18 +82,12 @@ When you finish, move on to the second step.
   
  4) Reboot your computer and then move on to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Step 3: Update Your Fingerprint Device Driver**
 
  If your fingerprint device driver is outdated or faulty, you’ll find the hardware impossible to use. You can update the device driver to fix it.
 
  1) On your keyboard, press the **Windows logo key** and**X** at the same time, and click **Device Manager** .
   
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b4ef6e956a1.png)
   
  2) Click the icon for**Scan for hardware changes** on the top bar.  
@@ -106,9 +112,6 @@ When you finish, move on to the second step.
 
  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af679b109e9.png)
 
  3) Click the**Update** button next to the flagged fingerprint device to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -116,6 +119,10 @@ When you finish, move on to the second step.
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af67b5dd299.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
@@ -125,8 +132,6 @@ When you finish, move on to the second step.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,6 +139,26 @@ When you finish, move on to the second step.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-best-7-multimedia-applications-for-macos/"><u>[Updated] Best 7 Multimedia Applications for MacOS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-from-concept-to-screen-writing-a-winning-docu-script/"><u>[Updated] From Concept to Screen Writing a Winning Docu-Script</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-galaxy-ford-f-150-rc-truck-a-look-at-an-automotive-icons-miniature-version/"><u>Comprehensive Review of the Galaxy Ford F-150 RC Truck - A Look at an Automotive Icon's Miniature Version</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-with-device-driver-load-event-code-219/"><u>Error with Device Driver Load, Event Code: 219</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-built-in-wifi-and-bluetooth-on-my-laptop-refuse-to-shut-down-in-windows/"><u>Fix: Built-In Wifi and Bluetooth on My Laptop Refuse to Shut Down in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-the-driver-detected-a-controller-error-on-deviceideideport0/"><u>Fixed: The Driver Detected a Controller Error on DeviceIdeIdeport0</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-rog-phone-8-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from ROG Phone 8</u></a></li>
+<li><a href="https://win-answers.techidaily.com/immediate-fixes-to-accelerate-assassins-creed-valhalla-lag-problems/"><u>Immediate Fixes to Accelerate Assassin's Creed: Valhalla Lag Problems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-se-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-xiaomi-redmi-12-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Xiaomi Redmi 12 Through Google Earth?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-with-iphone-for-complete-360-video-capture/"><u>In 2024, Innovating with iPhone for Complete 360 Video Capture</u></a></li>
+<li><a href="https://driver-error.techidaily.com/limited-resource-space-on-device/"><u>Limited Resource Space on Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectify-kernel-usb-error/"><u>Rectify Kernel USB Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-disappearance-of-your-seagate-hdd-in-win10/"><u>Resolving the Disappearance of Your Seagate HDD in Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-failure-alerted-absence-of-intelladapter/"><u>System Failure Alerted: Absence of IntellAdapter</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-language-of-immersive-digital-worlds/"><u>The Language of Immersive Digital Worlds</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-missing-coprocessor-drivers-on-windows-11-systems/"><u>Troubleshooting Steps for Missing Coprocessor Drivers on Windows 11 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-your-hp-wireless-keyboard-tips-for-restoring-functionality/"><u>Troubleshooting Your HP Wireless Keyboard: Tips for Restoring Functionality</u></a></li>
+</ul></div>
 

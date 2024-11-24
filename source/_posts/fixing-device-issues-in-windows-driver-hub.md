@@ -1,7 +1,7 @@
 ---
 title: Fixing Device Issues in Windows Driver Hub
-date: 2024-08-31T10:52:27.105Z
-updated: 2024-09-01T10:52:27.105Z
+date: 2024-11-16T18:24:11.799Z
+updated: 2024-11-23T19:54:27.858Z
 tags:
   - win11
   - win10
@@ -26,8 +26,9 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 **TIP** : If you see more than one Base System Device listed in Device Manager, use one of the methods above to update the driver for each item.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Method 1: Update the Base System Device driver via Device Manager**
 
 You can update the drivers through manager. Follow these steps:
@@ -38,14 +39,19 @@ You can update the drivers through manager. Follow these steps:
 
  2) Click**Search automatically for updated driver software** . Then Windows will search and find the driver for you.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785bff7052c4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Reboot your computer and check to see if the Base System Device driver issue is fixed.
 
  Windows may not provide the latest driver for the device. If this way doesn’t work for you, you can use [Method 2](https://zebaoaffiliateprogram.pxf.io/xkwqe1) or [Method 3](https://printrendy.pxf.io/xyboy5) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 2: Update the Base System Device driver manually**
 
@@ -55,16 +61,10 @@ You can update the drivers through manager. Follow these steps:
 
  1) In Device Manager, right-click the device and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785dc645de0d.png)
 
  3) Click the **Details** tab, then select**Hardware Ids** from the drop-down menu of**Property** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785de836c928.png)
 
  4) The Hardware Id Value should be like follows. The VEN code means vendor and the DEV code means device. (In the example below, the VEN code is 15AD and the device is 0740.)
@@ -73,10 +73,11 @@ You can update the drivers through manager. Follow these steps:
 
  5) Go to [https://pci-ids.ucw.cz/.](https://pci-ids.ucw.cz/) Then you can use the VEN code and the DEV code to figure out what the Base System Device stands for.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56e54a4e7b7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) After you figure out what the device is, you can go to the PC manufacturer’s website or the device manufacturer’s website to download the driver. It’s recommended to go to the PC manufacturer’s website first, as they may customize the driver.
 
@@ -99,6 +100,10 @@ You can update the drivers through manager. Follow these steps:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/graphic-chipset.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After updating the driver, check to see if you still see the yellow mark in Device Manager.
 
  Hopefully you can update the driver successfully with the tips above. If you have any questions, please feel free to leave your comments below. We’d love to hear of any ideas or suggestions.
@@ -112,8 +117,6 @@ You can update the drivers through manager. Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +124,20 @@ You can update the drivers through manager. Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-mastering-facebook-vids-the-top-20-marketing-hacks/"><u>[New] 2024 Approved Mastering Facebook Vids The Top 20 Marketing Hacks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-discover-the-most-popular-screen-recorders-free-version/"><u>[New] Discover the Most Popular Screen Recorders - Free Version</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-transformative-tiktok-editing-three-ways-to-alter-video-borders/"><u>[New] Transformative TikTok Editing Three Ways to Alter Video Borders</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-optimize-youtube-creations-a-guide-to-high-quality-visuals/"><u>[Updated] 2024 Approved Optimize YouTube Creations A Guide to High-Quality Visuals</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138545009-9781401922306-cosmos/"><u>CosMos | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-notified-ideport0-fault-detection/"><u>Driver Notified: Ideport0 Fault Detection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-to-use-video-converter-transform-your-content-fromto-240p-with-simple-steps/"><u>Easy-to-Use Video Converter: Transform Your Content From/To 240P with Simple Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-top-gear-picks-with-tom-the-definitive-resource-on-advanced-hardware/"><u>Explore Top Gear Picks with Tom - The Definitive Resource on Advanced Hardware</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-cropping-photos-why-does-imovie-adjust-video-sizes/"><u>In 2024, Cropping Photos Why Does iMovie Adjust Video Sizes?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, What are Location Permissions Life360 On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolution-found-for-device-error-48/"><u>Resolution Found for Device Error 48</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-your-iphones-external-drive-connection-problem-fixing-the-mtp-usb-driver-error/"><u>Resolve Your iPhone's External Drive Connection Problem: Fixing the MTP USB Driver Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-hcmon-driver-installation-failures-a-step-by-step-guide/"><u>Resolving HCMon Driver Installation Failures: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

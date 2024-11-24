@@ -1,7 +1,7 @@
 ---
 title: Reactivating Silenced Microphone/Headset on Windows 10
-date: 2024-11-08T19:38:20.539Z
-updated: 2024-11-15T00:29:26.360Z
+date: 2024-11-22T00:46:03.743Z
+updated: 2024-11-23T22:58:01.767Z
 tags:
   - win11
   - win10
@@ -46,16 +46,13 @@ Check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-12.png)  
 ```` ```` ````
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click **Hardware and Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-14.png)
 4. Click **Next** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-13.png)
 5. Now the troubleshooter starts detecting problems. Complete troubleshooting by following on-screen instructions.  
@@ -70,34 +67,17 @@ After that, check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_15-52-49.jpg)
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
 
 5. Relaunch your computer and check whether the issue is resolved or not.````
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Set your USB headset as default device
 
@@ -106,15 +86,20 @@ After that, check if your headset works properly now.
 2. Highlight your headset, then click **Set** **Default** . Click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ```` ```` ```` Check if your headset works properly now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -134,10 +119,7 @@ After that, check if your headset works properly now.
 4. Restart your computer and check to see if your headset works.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -161,19 +143,18 @@ After that, check if your headset works properly now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-experts-choice-in-4k-capture-top-camera-list/"><u>[New] Expert's Choice in 4K Capture Top Camera List</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-magix-media-editor/"><u>[New] Exploring MAGIX Media Editor</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-intel-wireless-ac-9560-not-working-code-10/"><u>[SOLVED] Intel Wireless-AC 9560 Not Working (Code 10)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-8-pioneering-exercise-videos-to-keep-your-viewers-active/"><u>[Updated] In 2024, 8 Pioneering Exercise Videos To Keep Your Viewers Active</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-discarding-virtual-gatherings-on-fb-pcsmartphones/"><u>2024 Approved Discarding Virtual Gatherings on FB, PC/Smartphones</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-enabling-for-lenovo-on-win11-platform/"><u>Bluetooth Enabling for Lenovo on Win11 Platform</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/frequently-studied-international-languages-usa-focus/"><u>Frequently Studied International Languages: USA Focus</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo Y28 5G? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-the-common-device-setup-issue-code-1-not-configured-correctly-in-brand/"><u>Overcoming the Common Device Setup Issue (Code 1 Not Configured Correctly) in [Brand]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/put-an-end-to-self-removing-nvidia-drivers/"><u>Put an End to Self-Removing Nvidia Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-correcting-the-failed-to-install-hcmon-driver-error/"><u>Step-by-Step Guide: Correcting the 'Failed to Install Hcmon Driver Error'</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-to-fix-elex-ii-game-crashes-on-personal-computers/"><u>Troubleshooting Steps to Fix Elex II Game Crashes on Personal Computers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/vocal-variation-at-your-fingertips-free-software-to-transform-your-voice-for-2024/"><u>Vocal Variation at Your Fingertips Free Software to Transform Your Voice for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721101178033-windows-hello-isnt-available-on-this-device-on-windows-10-solved/"><u>Windows Hello Isn't Available on This Device on Windows 10 [Solved]</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-saving-screen-scenes-pcmac-and-mobile-devices-walkthrough/"><u>[Updated] Saving Screen Scenes PC/Mac & Mobile Devices Walkthrough</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-harnessing-the-power-of-video-playback-acceleration/"><u>2024 Approved Harnessing the Power of Video Playback Acceleration</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-sharper-images-richer-minescapes-zoom-techniques-revealed/"><u>2024 Approved Sharper Images, Richer Minescapes Zoom Techniques Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audio-harmony-seekers-perfecting-video-moods-for-2024/"><u>Audio Harmony Seekers Perfecting Video Moods for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bargain-bin-chinese-vr-technology-for-2024/"><u>Bargain Bin Chinese VR Technology for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-intel-sst-audio-device-wdm-driver-issue-easily/"><u>Fix Intel SST Audio Device (WDM) Driver Issue Easily</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-motorola-edge-40-neo-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Motorola Edge 40 Neo Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-navigate-through-acpi-driver-problems-on-asus/"><u>How To Navigate Through ACPI Driver Problems on ASUS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-successfully-reinstall-the-hcmon-driver-and-avoid-common-mistakes/"><u>How To Successfully Reinstall The Hcmon Driver and Avoid Common Mistakes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stabilized-screen-on-win11/"><u>Stabilized Screen on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721101578401-troubleshooting-and-resolving-windows-11s-missing-coprocessor-drivers-easy-fixes-unveiled/"><u>Troubleshooting and Resolving Windows 11'S Missing Coprocessor Drivers: Easy Fixes Unveiled!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unloading-error-for-wudfrd-driver-id-219-alert/"><u>Unloading Error for WudfRd Driver, ID 219 Alert</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vivid-imagery-understanding-the-power-of-srgb/"><u>Vivid Imagery Understanding the Power of Srgb</u></a></li>
 </ul></div>
 
