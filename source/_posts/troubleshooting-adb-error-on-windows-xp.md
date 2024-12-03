@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting ADB Error on Windows XP
-date: 2024-09-04T12:48:09.802Z
-updated: 2024-09-05T12:48:09.802Z
+date: 2024-11-28T17:05:09.183Z
+updated: 2024-12-02T20:00:59.641Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 
  Here you’ll be shown with two ways to install the correct driver for your ADB device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pick the way you prefer
 
 1. [Install the correct driver for your ADB device manually through Device Manager](https://thefitville.pxf.io/qyo4yy)
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Find your Android device. It’s probably under**Other** **devices** section with a yellow mark. Then right-click on it and choose **Update Driver Software…**
 
 **![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-10.jpg)**
@@ -58,9 +66,17 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9) Click **Have Disk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10) Click **Browse**  to choose the Google USB Driver you downloaded at the beginning. Or you can enter the following address into the box.  
  **C:\\Program Files (x86)\\Android\\android-sdk\\extras\\google\\usb\_driver**
@@ -75,12 +91,6 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
  After it’s done, please restart your computer to make the new driver take effect.  
  Now your problem should be solved, try to use ADB now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Way 2: Install the correct driver for your ADB device automatically through Driver Easy \[Recommended\]
 
  If you don’t have the time, patience, or computer skills to update your ADB device driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your exact ADB device, and your variant of Windows system, and it will download and install it correctly :
@@ -92,23 +102,15 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b457d42d6959.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged ADB device driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b457f592ee84.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) After it’s done, please restart your computer to make the new driver take effect.  
  Now your problem should be solved, try to use ADB now.
 
@@ -122,8 +124,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,6 +131,16 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-loom-wizardry-crafting-perfect-loom-screenplays/"><u>[New] Loom Wizardry Crafting Perfect Loom Screenplays</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-techniques-for-reality-warp-imagery/"><u>[Updated] Techniques for Reality Warp Imagery</u></a></li>
+<li><a href="https://driver-error.techidaily.com/desktop-dilemma-non-functional-wireless-mouse-on-pc/"><u>Desktop Dilemma: Non-Functional Wireless Mouse on PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-diagnosing-and-solving-non-receipt-of-smsmms-in-android-phones/"><u>Guide to Diagnosing and Solving Non-Receipt of SMS/MMS in Android Phones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-grading-for-emotion-altering-footage-to-evoke-feelings/"><u>In 2024, Grading for Emotion Altering Footage to Evoke Feelings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-look-how-qualcomm-joins-forces-with-samsung-and-google-to-revolutionize-arvr-with-cutting-edge-smart-glasses/"><u>Inside Look: How Qualcomm Joins Forces With Samsung and Google to Revolutionize AR/VR with Cutting-Edge Smart Glasses</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-dealing-with-incorrect-device-settings-error-code-1/"><u>Step-by-Step Solution for Dealing With Incorrect Device Settings (Error Code 1)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-unrecognized-devices-on-windows-drivers-for-version-11-8-and-7/"><u>Troubleshooting Unrecognized Devices on Windows: Drivers for Version 11, 8 & 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/turn-down-the-noise-and-restore-control-to-windows-11s-bluescreened-free-state-heres-how-resolved/"><u>Turn Down the Noise and Restore Control to Windows 11'S Bluescreened-Free State - Here’s How! (Resolved)</u></a></li>
+</ul></div>
 

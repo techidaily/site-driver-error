@@ -1,7 +1,7 @@
 ---
 title: Stop AMD Driver Problems Immediately
-date: 2024-09-04T12:49:36.256Z
-updated: 2024-09-05T12:49:36.256Z
+date: 2024-11-30T02:06:18.866Z
+updated: 2024-12-02T17:32:23.678Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/12/AMD-Radeon-RX-6700-XT.jpg)
 4. After updating, restart your computer to take effect.
@@ -46,12 +50,6 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Roll back the faulty AMD driver
 
  If you never have this**AMD driver crashing** issue until recently when you updated the most recent driver, chances are it’s this new driver that’s causing the problem. So we should try rolling it back to the previous version.
@@ -61,22 +59,19 @@ Here’s how:
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 2. Locate on **the faulty AMD driver** and double-click on it.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the **Driver** tab and then click **Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-1.png)
 4. Click **Yes** to confirm. Then the driver will be restored to a previous version.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. **Restart** you computer and check if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Repair system files
 
@@ -86,17 +81,9 @@ Here’s how:
 2. [**Run SFC scan**](https://homestyler.sjv.io/y209g3)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Repair & replace corrupt system files with Fortect
 
  The driver crashing issue could be caused by corrupt system files.[**Fortect**](https://tools.techidaily.com/drivereasy/download/) is a tool that specializes in Windows repairing and fixes corrupt files automatically.
@@ -115,11 +102,9 @@ Here’s how to use Fortect to repair system files on your PC:
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Run SFC scan
 
 **System File Checker** (**SFC**) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files(including those related to **BSOD**). To **run the SFC scan** :
@@ -127,18 +112,6 @@ Here’s how to use Fortect to repair system files on your PC:
 1. On your keyboard, press the**Windows logo key**  and type **cmd** . Then click **Run as administrator** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/cmd-run-as-admin-1.jpg)
 2. Click**Yes** when prompted to confirm.
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
 
@@ -158,8 +131,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +138,24 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-leading-11-audio-recording-tools-guide/"><u>[Updated] 2024 Approved Leading 11 Audio Recording Tools Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-aggregate-attention-masterful-telegram-advertising-approaches-for-2024/"><u>[Updated] Aggregate Attention Masterful Telegram Advertising Approaches for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-hit-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques/"><u>[Updated] In 2024, Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/audiophiles-guide-to-picking-the-perfect-vinyl-speakers-insider-tips-and-ratings-by-zdnet-professionals/"><u>Audiophile's Guide to Picking the Perfect Vinyl Speakers: Insider Tips and Ratings by ZDNet Professionals</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disk-space-management-tips-for-win11-users/"><u>Disk Space Management - Tips for Win11 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-success-overcoming-the-lack-of-support-for-devices-on-windows-10-8-and-7/"><u>Driver Installation Success: Overcoming the Lack of Support for Devices on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-integration-blocked-for-win10-device/"><u>Graphics Integration Blocked for Win10 Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/holy-stone-cartoon-racer-the-ultimate-remote-control-toy-for-quality-family-time-an-in-depth-review/"><u>Holy Stone Cartoon Racer: The Ultimate Remote Control Toy for Quality Family Time - An In-Depth Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-recover-from-a-missing-coprocessor-driver-error-on-windows-11-a-comprehensive-solution/"><u>How to Recover From a Missing Coprocessor Driver Error on Windows 11 - A Comprehensive Solution</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-honor-100-pro-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Honor 100 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-drive-error-quick-fix-for-windows-device/"><u>No-Drive Error: Quick Fix for Windows Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/popcorn-time-substitute-free-downloads-on-ios-and-android-devices/"><u>Popcorn Time Substitute: Free Downloads on iOS & Android Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-nvidia-control-panel-not-working-on-windows-10/"><u>Solved: NVIDIA Control Panel Not Working on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/technology-blocks-vehicle-charge/"><u>Technology Blocks Vehicle Charge</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transition-from-iphone-to-pixel-made-simpler-thanks-to-new-apple-policy-changes-insights/"><u>Transition From iPhone to Pixel Made Simpler Thanks to New Apple Policy Changes Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-correcting-the-absent-coprocessor-driver-problem-on-windows-11/"><u>Troubleshooting Tips: Correcting the Absent Coprocessor Driver Problem on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-perfection-effortless-acer-driver-update/"><u>Windows 11 Perfection: Effortless Acer Driver Update</u></a></li>
+</ul></div>
 

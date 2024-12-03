@@ -1,7 +1,7 @@
 ---
 title: Revived Device Manager - Error 48
-date: 2024-11-20T17:47:31.059Z
-updated: 2024-11-23T23:18:40.500Z
+date: 2024-12-01T03:27:11.362Z
+updated: 2024-12-03T00:52:44.921Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
  If a device on your computer is running into**Error Code 48** in Device Manager, don’t worry. You’ve come to the right place! Although it’s quite frustrating, you should be able to fix this issue on your own after reading this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Error Code 48 in Device Manager
@@ -32,6 +32,10 @@ To check if the device is running into the error code 48:
 3. Under the**General** tab, you’ll see detailed information about the error code 48 in the**Device status** section, which reads:  
 
 `"The driver for this device has been blocked from starting because it is known to have problems with Windows. Contact the hardware vendor for a new driver. (Code 48)"`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,10 +58,6 @@ Or
 
 **[Option 2: Automatically (Recommended)](https://www.drivereasy.com/knowledge/asus-usb-bt500-bluetooth-5-0-usb-adapter-driver/#h-option-2-update-the-asus-usb-bt500-bluetooth-driver-automatically-recommended)**  – This might be the quickest and easiest way to get all the latest drivers for your computer. All you need is a few clicks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 1 – Download and install the driver manually
 
  The manufacturer of your computer keeps releasing new drivers on its official site. To get them, you need to go to the manufacturer’s site, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32-bit), and download the driver manually.
@@ -65,7 +65,7 @@ Or
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2 – Automatically update drivers
@@ -81,12 +81,12 @@ Or
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-drivers-with-Driver-Easy.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and [manually install them, the normal Windows way](https://tools.techidaily.com/drivereasy/download/) .)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your PC and check if this issue persists.
 
@@ -126,14 +126,18 @@ To turn off Memory Integrity, simply follow the steps below:
 ![Open Core isolation](https://images.drivereasy.com/wp-content/uploads/2021/04/Open-Core-isolation.jpg)
 2. **Turn off** the toggle under**Memory integrity** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn off Memory integrity](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Memory-integrity.jpg)
 3. Restart Windows 10 and reinstall the latest driver of the problematic device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 See if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Run the System File Checker and the Windows Memory Diagnostic Test
 
@@ -154,15 +158,11 @@ See if this fix works. If not, try the next fix, below.
 2. Double-click**Windows Memory Diagnostic** to run it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Windows Memory Diagnostic](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-Memory-Diagnostic.jpg)
 3. Select**Restart now and check for problems (recommended)** to run the test immediately. Before restarting, you need to save your work and close any open programs. It may take some time to complete the test.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Check your computer for memory problems](https://images.drivereasy.com/wp-content/uploads/2021/04/Check-your-computer-for-memory-problems.jpg)
 
@@ -192,21 +192,24 @@ See if this fix works. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-creating-low-volume-effects-a-guide-for-fading-out-audio-in-logic-pro-for-2024/"><u>[New] Creating Low Volume Effects A Guide for Fading Out Audio in Logic Pro for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-action-screen-recorder-review/"><u>[New] In 2024, Action Screen Recorder Review</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-viral-watches-amazon-primes-hot-series-in-twittersphere/"><u>[New] In 2024, Viral Watches Amazon Prime's Hot Series in Twittersphere</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flavorful-frames-stepwise-food-film-making-for-2024/"><u>[Updated] Flavorful Frames Stepwise Food Film-Making for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-unlock-free-power-learn-to-edit-videos-on-vimeo/"><u>[Updated] Unlock FREE Power Learn to Edit Videos on Vimeo</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-whats-inside-in-depth-analysis-of-the-forthcoming-foldable-iphone-with-release-dates-and-specs-insights/"><u>Discover What's Inside: In-Depth Analysis of the Forthcoming Foldable iPhone with Release Dates and Specs Insights</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-steps-to-download-your-epson-v50er-perfection-driver-and-start-printing-now/"><u>Easy Steps to Download Your Epson V50er Perfection Driver and Start Printing Now!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-corrected-in-service-installation-inf/"><u>Error Corrected in Service Installation INF</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-unstick-your-frozen-outlook-program-for-easy-use-again/"><u>Guide: Unstick Your Frozen Outlook Program for Easy Use Again</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hands-on-remedy-for-disrupted-mtp-functionality/"><u>Hands-On Remedy for Disrupted MTP Functionality</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-overcome-unrecognized-device-warnings-with-this-idt-software-package/"><u>How to Overcome Unrecognized Device Warnings with This IDT Software Package</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-issues-with-restored-defaults-on-your-amd-radeons-gpu-software/"><u>Resolving Issues with Restored Defaults on Your AMD Radeon's GPU Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-absence-of-coprocessor-drivers-in-windows-10-a-comprehensive-guide/"><u>Resolving the Absence of Coprocessor Drivers in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tackling-device-configuration-woes-a-step-by-step-solution-for-error-code-1/"><u>Tackling Device Configuration Woes - A Step-by-Step Solution for Error Code 1</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transformer-un-fichier-wmv-en-format-3gp-gratuit-sur-internet-mouvavi/"><u>Transformer Un Fichier WMV en Format 3Gp Gratuit Sur Internet - Mouvavi</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-usb-serial-link-resolving-nonoperational-issues/"><u>Win USB-Serial Link: Resolving Nonoperational Issues</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-chinas-value-driven-virtual-reality-marketplace/"><u>[New] China's Value-Driven Virtual Reality Marketplace</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-content-pc-video-editing-for-effective-youtube-presentations/"><u>[New] Elevate Your Content PC Video Editing for Effective YouTube Presentations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-all-about-dji-inspire-1-in-depth-analysis/"><u>[Updated] All About DJI Inspire 1 in Depth Analysis</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-pro-level-techniques-to-upgrade-your-iphone-photo-game/"><u>[Updated] Pro-Level Techniques to Upgrade Your iPhone Photo Game</u></a></li>
+<li><a href="https://driver-error.techidaily.com/7770-graphics-card-up-and-running-with-instant-driver-downloads/"><u>7770 Graphics Card Up and Running with Instant Driver Downloads</u></a></li>
+<li><a href="https://driver-error.techidaily.com/amd-graphics-drivers-for-windows-11/"><u>AMD Graphics Drivers for Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/discover-top-tier-computer-specs-with-toms-hardware-your-essential-gadget-companion/"><u>Discover Top-Tier Computer Specs with Tom's Hardware - Your Essential Gadget Companion</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-guide-to-overcoming-gtx-nine-fifty-zero-code-43-problems-on-winten-platforms/"><u>Expert Guide to Overcoming GTX Nine-Fifty Zero Code 43 Problems on WinTen Platforms</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-generic-pnp-monitor-driver-issue-easily/"><u>Fix Generic PnP Monitor Driver Issue. Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-error-codes-deciphering-the-code-43-glitch-in-windows-10-environments-solution-included/"><u>GTX 950 Error Codes: Deciphering the 'Code 43' Glitch in Windows 10 Environments (Solution Included)</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-master-the-art-of-video-editing-complimentary-top-pp-tools/"><u>In 2024, Master the Art of Video Editing Complimentary, Top PP Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/network-drives-made-easy-setting-up-on-your-apple-computer/"><u>Network Drives Made Easy: Setting Up on Your Apple Computer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-elan-driver-woes-on-windows-11/"><u>Overcoming Elan Driver Woes on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/professionelle-anleitung-fur-die-installation-und-nutzung-der-winxdvd-programmeinstellungen/"><u>Professionelle Anleitung Für Die Installation Und Nutzung Der WinXDVD Programmeinstellungen</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/seamless-transitions-elevating-your-drone-footage-for-2024/"><u>Seamless Transitions Elevating Your Drone Footage for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-solutions-for-frequent-amd-issues/"><u>Swift Solutions for Frequent AMD Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlocking-secrets-to-resolve-asus-driver-conflicts/"><u>Unlocking Secrets to Resolve ASUS Driver Conflicts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211046318-9781493080519-wyoming-ghost-stories/"><u>Wyoming Ghost Stories | Free Book</u></a></li>
 </ul></div>
 

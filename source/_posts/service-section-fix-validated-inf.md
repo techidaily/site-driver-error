@@ -1,7 +1,7 @@
 ---
 title: "Service Section Fix: Validated INF"
-date: 2024-11-22T01:14:22.124Z
-updated: 2024-11-24T14:03:26.647Z
+date: 2024-11-27T03:34:57.735Z
+updated: 2024-12-02T18:52:09.912Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 2. [**Update the driver manually**](https://technitya.sjv.io/dkpn02)
 3. [**Install the missing driver files manually**](https://dhgate.sjv.io/5g6yb2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Update the driver automatically
 
  Since you can’t update the driver via Windows Update, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to update the driver automatically.
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged MTP USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -68,28 +76,28 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68744ea8804.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) In Device Manager, if you see the device shown as MTP USB device. You’ll see**MTP USB Device** listed in the list.**Highlight** it then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687724c3ed9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you see the device shown as Unknown Device. You’ll see an Android phone or Android device in the long list.**Highlight** it and click**Next** then select**MTP USB device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68796507b2b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) The driver will install automatically. You just need to wait for a while until the installation completes.
 
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
 
@@ -101,17 +109,9 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
 
@@ -140,18 +140,21 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-this-device-is-disabled-code-22/"><u>[Fixed] This Device Is Disabled. (Code 22)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-upload-your-music-to-youtube/"><u>[New] 2024 Approved How to Upload Your Music to YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-easily-enable-offline-access-to-youtube-on-iphoneipad/"><u>[Updated] 2024 Approved Easily Enable Offline Access to YouTube on iPhone/iPad</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-video-vanguard-showdown-which-is-worthier-obs-or-twitch-studio/"><u>2024 Approved Video Vanguard Showdown Which Is Worthier, OBS or Twitch Studio?</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-close-look-at-some-unconventional-indie-game-choices/"><u>A Close Look at Some Unconventional Indie Game Choices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-steps-to-repair-your-nonworking-or-stuck-pclaptop-keys-one-step-at-a-time-troubleshooting-guide-tech-talker-article-title406-chars/"><u>Easy Steps to Repair Your Nonworking or Stuck PC/Laptop Keys, One Step at a Time – Troubleshooting Guide | Tech Talker (Article Title)—406 Chars</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-dell-broadcom-ush-driver-problems/"><u>How to Fix Dell Broadcom USH Driver Problems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-realme-narzo-60-5g-phone-by-drfone-android/"><u>How to Reset a Locked Realme Narzo 60 5G Phone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-successfully-address-and-repair-the-lack-of-a-supplementary-cpu-driver-on-your-windows-10-system-solved/"><u>How to Successfully Address and Repair the Lack of a Supplementary CPU Driver on Your Windows 10 System [Solved]</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104393004-mastering-the-fix-windows-compatible-wireless-keyboards-that-wont-respond-anymore/"><u>Mastering the Fix: Windows-Compatible Wireless Keyboards That Won't Respond Anymore</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/seamlessly-shift-pictures-the-7-best-no-cost-techniques-for-android-to-iphone-transfer/"><u>Seamlessly Shift Pictures: The 7 Best No-Cost Techniques for Android to iPhone Transfer</u></a></li>
-<li><a href="https://fox-place.techidaily.com/onenote4/"><u>どうやってOneNoteで削除したノートブックを4方法で復元するか</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bringing-out-the-best-advanced-color-correction-in-gopro/"><u>[New] Bringing Out the Best Advanced Color Correction in GoPro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-enhance-visuals-with-better-obs-settings/"><u>[New] In 2024, Enhance Visuals with Better OBS Settings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-facebook-broadcasts-via-pc-and-mac-with-obs/"><u>[Updated] 2024 Approved Mastering Facebook Broadcasts via PC & Mac with OBS</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-zipfile-to-srt-conversion-guide-for-subtitle-extraction-for-2024/"><u>[Updated] Zipfile to Srt Conversion Guide for Subtitle Extraction for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-12-pro-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 12 Pro in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-not-found-intel-adapter-lacks-integration/"><u>Driver Not Found; Intel Adapter Lacks Integration</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/dynamic-audio-excellence-best-cameras-microphones-for-2024/"><u>Dynamic Audio Excellence Best Cameras' Microphones for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensuring-peak-performance-with-updated-deadrivers-for-windows/"><u>Ensuring Peak Performance with Updated DeaDrivers for Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-unbeatable-11-audio-devices-reviewed-here/"><u>In 2024, Unbeatable 11 Audio Devices Reviewed Here</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-the-art-of-turning-off-win11-bluetooth/"><u>Mastering the Art of Turning Off Win11 Bluetooth</u></a></li>
+<li><a href="https://driver-error.techidaily.com/operational-hiccup-bcm20702a0-driver-missing/"><u>Operational Hiccup: BCM20702A0 Driver Missing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-computer-glitches-fix-your-final-usb-device-when-its-ignored-by-windows-systems/"><u>Overcoming Computer Glitches: Fix Your Final USB Device When It's Ignored By Windows Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/seamless-guide-speeding-up-the-transfer-of-high-definition-videos-from-ios-to-macos-systems/"><u>Seamless Guide: Speeding Up the Transfer of High-Definition Videos From iOS to macOS Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-the-topside-down-problem-correcting-screen-orientation-in-asus-computers/"><u>Solving the Topside-Down Problem: Correcting Screen Orientation in ASUS Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-troubleshooting-nonfunctional-broadcom-wireless-n-adapter/"><u>Win Troubleshooting: Nonfunctional Broadcom Wireless N Adapter</u></a></li>
 </ul></div>
 

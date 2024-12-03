@@ -1,7 +1,7 @@
 ---
 title: USB Drives Vanishing From Windows 10/11
-date: 2024-11-08T20:21:35.330Z
-updated: 2024-11-14T23:33:09.134Z
+date: 2024-11-28T01:48:17.813Z
+updated: 2024-12-03T03:35:25.677Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
  Method 3:[**Manually fix corrupted registry entries**](https://tidio.pxf.io/9grog5)
  Method 4:[**Create a registry subkey**](https://modlily.sjv.io/aw92wr)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1: Uninstall IDE ATA/ ATAPI controllers**
 
  One of the reasons why you can’t see DVD/CD-ROM in your Windows 10 PC could be faulty device drivers. You can reinstall the drivers to fix it. Here is how:
@@ -36,10 +40,18 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6098ec3402.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate**IDE ATA/ ATAPI controllers** .
  3) Right-click **ATA Channel 0** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e194a84fe7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click **ATA Channel 1** and click**Uninstall** .
 
@@ -68,10 +80,7 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a61a4afa.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
@@ -79,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
 
@@ -99,23 +112,9 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55543336b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) **Delete**  them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
 
@@ -134,37 +133,25 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Create a new**Controller0** key under**atapi** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -185,21 +172,22 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-cards-not-shown-on-windows-machine/"><u>[FIXED] Cards Not Shown on Windows Machine</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/1716069562207-new-in-2024-immerse-in-pc-game-moments-capture-perfectly/"><u>[New] In 2024, Immerse in PC Game Moments - Capture Perfectly!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-use-google-trends-to-come-up-with-video-ideas/"><u>[Updated] How to Use Google Trends to Come up with Video Ideas?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-pocket-guide-retaining-twitter-media-on-your-cellphone/"><u>[Updated] Pocket Guide Retaining Twitter Media on Your Cellphone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-slay-the-game-designing-quirky-text-memes/"><u>2024 Approved Slay the Game Designing Quirky Text Memes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fast-track-to-fixing-the-unresponsive-epic-games-launcher-expert-tips-inside/"><u>Fast Track to Fixing the Unresponsive Epic Games Launcher - Expert Tips Inside</u></a></li>
-<li><a href="https://driver-error.techidaily.com/from-absence-to-presence-touchpad-driver-reinstated/"><u>From Absence to Presence: Touchpad Driver Reinstated</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-an-hp-wireless-keyboard-that-isnt-responding-solutions-inside/"><u>How to Fix an HP Wireless Keyboard That Isn't Responding - Solutions Inside</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-iphones-external-storage-connectivity-via-usb-an-ultimate-guide/"><u>How to Fix iPhone's External Storage Connectivity via USB: An Ultimate Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-to-the-past-unlocking-vintage-pc-experiences/"><u>Key to the Past: Unlocking Vintage PC Experiences</u></a></li>
-<li><a href="https://driver-install.techidaily.com/solve-noisy-windows-11-reinstall-audio-hardware/"><u>Solve Noisy Windows 11: Reinstall Audio Hardware</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-redmi-note-12-proplus-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi Redmi Note 12 Pro+ 5G ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-comprehensive-handbook-for-recording-calls/"><u>The Comprehensive Handbook for Recording Calls</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-wireless-keyboard-on-windows/"><u>Troubleshooting Guide: Fixing a Nonfunctional Wireless Keyboard on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-issues-with-unrecognized-final-usb-device-on-windows/"><u>Troubleshooting Guide: Resolving Issues with Unrecognized Final USB Device on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103778364-your-pc-graphics-issues-let-us-fix-your-nvidia-rtx-gaming-woes/"><u>Your PC Graphics Issues? Let Us Fix Your Nvidia RTX Gaming Woes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-investing-in-success-budget-for-youtube-growth-for-2024/"><u>[New] Investing in Success Budget for YouTube Growth for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-secrets-to-unforgettable-borders-in-your-instagram-shots/"><u>[Updated] 2024 Approved The Secrets to Unforgettable Borders in Your Instagram Shots</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-abc-of-advertising-a-trifecta-strategy-to-drive-engagement-on-fb-platforms/"><u>[Updated] The ABC of Advertising A Trifecta Strategy to Drive Engagement on FB Platforms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-essential-7-android-apps-to-eliminate-intrusive-ads/"><u>2024 Approved Essential 7 Android Apps to Eliminate Intrusive Ads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-cropping-and-focus-mastery/"><u>Advanced Cropping and Focus Mastery</u></a></li>
+<li><a href="https://driver-error.techidaily.com/behold-the-best-a-detailed-look-at-nixplay-seed-frame/"><u>Behold the Best: A Detailed Look at Nixplay Seed Frame</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-free-wi-fi-drivers-compatible-with-windows-7-simple-steps/"><u>Download & Update: Free Wi-Fi Drivers Compatible with Windows 7 - Simple Steps!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/essential-tips-for-fixing-windows-acpi-on-asus-laptops/"><u>Essential Tips for Fixing Windows ACPI on Asus Laptops</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-asmedia-usb-31-driver-issue-in-windows/"><u>Fix ASMedia USB 3.1 Driver Issue in Windows</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/o-clear-black-boards-in-your-youtube-videos/"><u>How to Clear Black Boards in Your YouTube Videos?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-radeon-wattman-configuration-errors-after-a-system-crash/"><u>How to Fix Radeon Wattman Configuration Errors After a System Crash</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-restore-and-update-your-coprocessor-driver-in-windows-11-complete-solution/"><u>How to Restore and Update Your Coprocessor Driver in Windows 11 [Complete Solution]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-waiting-wacom-devices-now-talking/"><u>No More Waiting: Wacom Devices Now Talking!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-how-to-fix-missing-device-drivers-on-windows-10-8-and-7/"><u>Solved: How to Fix Missing Device Drivers on Windows 10, 8, and 7</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformative-tech-effortlessly-turning-phones-into-vr-gear-for-2024/"><u>Transformative Tech Effortlessly Turning Phones Into VR Gear for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-win11-qualcomm-atheros-bluetooth-driver-problems/"><u>Troubleshooting and Solving Win11 Qualcomm Atheros Bluetooth Driver Problems</u></a></li>
+<li><a href="https://facebook.techidaily.com/unmasking-the-figures-of-lost-facebook-users/"><u>Unmasking the Figures of Lost Facebook Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solved: Microsoft Visual C++ Runtime Library Error in Windows 11"
-date: 2024-11-10T18:37:48.709Z
-updated: 2024-11-14T20:21:14.726Z
+date: 2024-11-27T01:59:13.778Z
+updated: 2024-12-03T02:50:13.721Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 [**3: Perform a Clean boot**](https://bluettiit.sjv.io/xkwq91)
 [**Other options**](https://aidotcom.pxf.io/nkz4kv)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Reinstall display driver
 
  1) On your keyboard, press**Windows key** and**X** at the same time, then choose**Device Manager** from the list of choice.
@@ -40,6 +44,11 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861e0aa65115.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then right click the graphics card that you are using now and choose**Uninstall** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861e17729f2c.jpg)
@@ -48,16 +57,13 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861e1aebe48e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer when the uninstall finishes.
   
  5) Check to see if the Runtime error stops now. If the problem persists, please continue with the next option.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2: Update display driver
 
@@ -75,25 +81,15 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965ed6994a36.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged device driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965ed8fabadd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3: Perform a Clean boot
 
@@ -118,10 +114,7 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861df26558e0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Restart your computer now. If the problem is gone, you need to repeat the similar procedure to boot into normal mode. But this time, you need to disable the applications one by one until you locate the culprit app that is causing this error. If you find it, go back to [**Method 1**](https://ukaidot.sjv.io/daqnoj) and [**Method 2**](https://tinyland.pxf.io/org4ra) to get the device driver reinstalled or updated as per your own need.
@@ -155,19 +148,24 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-inside-the-monetization-maze-dailymotion-vs-youtube/"><u>[New] 2024 Approved Inside the Monetization Maze Dailymotion vs YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-frosty-olympics-highlights-in-figure-skating/"><u>[New] Frosty Olympics Highlights in Figure Skating</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-oceanic-adventures-top-camera-pickups-of-2023-for-2024/"><u>[New] Oceanic Adventures - Top Camera Pickups of 2023 for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flv-to-youtube-unveiling-the-top-10-tools-for-video-conversion/"><u>[Updated] 2024 Approved FLV to YouTube Unveiling the Top 10 Tools for Video Conversion</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>2024 Approved Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bringing-back-obscured-bluetooth-to-system-hub/"><u>Bringing Back: Obscured Bluetooth to System Hub</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ethernet-woes-in-win11-realtek-fix-found-here/"><u>Ethernet Woes in Win11 - Realtek Fix Found Here</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratuit-mp4-aan-mxf-converteren-online-professioneel-en-gemakkelijk-met-movavi/"><u>Gratuit MP4-Aan MXF-Converteren Online - Professioneel en Gemakkelijk Met Movavi</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-14-pro-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 14 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-poco-c51-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Poco C51 Phone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-htc-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your HTC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/navigating-ndis-roadblocks-in-windows-easily/"><u>Navigating NDIS Roadblocks in Windows Easily</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repairing-windows-lack-of-enter-button-input/"><u>Repairing Windows: Lack of Enter Button Input</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-windows-8-safe-mode-and-removing-your-graphic-drivers/"><u>Step-by-Step Guide: Booting Into Windows 8 Safe Mode & Removing Your Graphic Drivers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-top-8-virtual-reality-vr-gaming-accessories/"><u>[New] Top 8 Virtual Reality (VR) Gaming Accessories</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-responsive-input-on-fixd-windows-11-pc/"><u>[Resolved]: Responsive Input on Fix'd Windows 11 PC</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-carve-custom-web-laughter-cutouts-today/"><u>[Updated] Carve Custom Web Laughter Cutouts Today</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-techniques-to-frame-photos-with-leading-lines-iphone/"><u>[Updated] In 2024, Techniques to Frame Photos with Leading Lines (iPhone)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-preserving-sound-integrity-with-ffmpeg-extract/"><u>[Updated] Preserving Sound Integrity with FFmpeg Extract</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-l2690dw-printing-device-get-the-latest-software-update-now/"><u>Brother L2690dw Printing Device: Get the Latest Software Update Now!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-invalid-service-inf-issue/"><u>Corrected Invalid Service INF Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dealing-with-access-issues-solutions-for-failed-usb-installs/"><u>Dealing With Access Issues: Solutions for Failed USB Installs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-a-top-down-image-displacement-on-an-asus-desktoplaptop/"><u>Fixing a Top-Down Image Displacement on an ASUS Desktop/Laptop</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-meizu-21-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-v30-lite-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo V30 Lite 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/optimizing-video-posts-with-flawless-srt-file-integration-tactics-for-2024/"><u>Optimizing Video Posts with Flawless SRT File Integration Tactics for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721100753226-overcome-radiosyncrasies-with-ease-windows-style/"><u>Overcome Radiosyncrasies with Ease, Windows Style</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-the-missing-pressed-button-in-windows/"><u>Solving the Missing Pressed Button in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-10-must-try-chatgpt-queries-for-cryptocurrency-enthusiasts/"><u>Top 10 Must-Try ChatGPT Queries for Cryptocurrency Enthusiasts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-unsupported-hardware-errors-with-your-idt-software-suite/"><u>Troubleshooting Unsupported Hardware Errors with Your IDT Software Suite</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-reviving-missing-bluetooth-in-device-manager/"><u>Troubleshooting: Reviving Missing Bluetooth in Device Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-and-resolving-blue-screen-error-0x0000007e-on-your-windows-7-machine/"><u>Understanding and Resolving Blue Screen Error 0X0000007E on Your Windows 7 Machine</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watch-movies-and-tv-shows-for-free-streaming-with-crackle/"><u>Watch Movies & TV Shows For Free - Streaming with Crackle!</u></a></li>
 </ul></div>
 

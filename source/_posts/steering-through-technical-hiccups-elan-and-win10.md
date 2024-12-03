@@ -1,7 +1,7 @@
 ---
 title: "Steering Through Technical Hiccups: Elan & Win10"
-date: 2024-09-04T12:48:03.828Z
-updated: 2024-09-05T12:48:03.828Z
+date: 2024-11-28T17:18:56.216Z
+updated: 2024-12-03T00:45:50.193Z
 tags:
   - win11
   - win10
@@ -35,11 +35,19 @@ thumbnail: https://thmb.techidaily.com/cd4be73ff3428dfa24ba60958875da0e80b94cf66
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/additional-mouse-options.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go to the furthest right option (the option could be **Device Settings** or **ELAN**), and make sure your touchpad is enabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
 
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2: Reinstall your drivers
 
@@ -62,11 +70,9 @@ thumbnail: https://thmb.techidaily.com/cd4be73ff3428dfa24ba60958875da0e80b94cf66
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **3: Stop automatic updates from Windows Update**
 
  A faulty or buggy driver from Windows Update could be the cause of this problem. You can disable the automatic update via:
@@ -76,31 +82,21 @@ thumbnail: https://thmb.techidaily.com/cd4be73ff3428dfa24ba60958875da0e80b94cf66
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Right-clickyour computer icon and click **Device installation settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
 
 <ins class="adsbygoogle"
@@ -109,8 +105,6 @@ thumbnail: https://thmb.techidaily.com/cd4be73ff3428dfa24ba60958875da0e80b94cf66
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,6 +112,18 @@ thumbnail: https://thmb.techidaily.com/cd4be73ff3428dfa24ba60958875da0e80b94cf66
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-amd-software-has-stopped-working/"><u>[Fixed] AMD Software Has Stopped Working</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-navigating-gopro-lens-distortion-in-post-production/"><u>[Updated] 2024 Approved Navigating GoPro Lens Distortion in Post-Production</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-success-stories-earning-while-you-edit/"><u>[Updated] In 2024, Channel Success Stories Earning While You Edit</u></a></li>
+<li><a href="https://article-tips.techidaily.com/bebops-visionary-feathered-future-examined/"><u>Bebop's Visionary Feathered Future Examined</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-obsolete-to-essential-the-transformation-and-importance-of-usb-composite-devices-nowad-resolved/"><u>From Obsolete to Essential: The Transformation and Importance of USB Composite Devices Nowad [RESOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-touchpad-scrolling-in-windows-11-a-step-by-step-troubleshooting-guide/"><u>How to Restore Touchpad Scrolling in Windows 11: A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-motion-tracking-tools-for-text-animation/"><u>New 2024 Approved Top Motion Tracking Tools for Text Animation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/preventing-maximum-disk-usage-on-win11-taskbar/"><u>Preventing Maximum Disk Usage on Win11 Taskbar</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconnecting-disabled-usb-gadgets-windows-fixes-guide/"><u>Reconnecting Disabled USB Gadgets: Windows Fixes Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-error-messages-successfully-installing-incompatible-drivers/"><u>Troubleshooting Error Messages: Successfully Installing Incompatible Drivers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726224817706-dng-movavi/"><u>무게 없이 DNG 편집 - 오피스에 가장 나은 방법 : Movavi</u></a></li>
+</ul></div>
 

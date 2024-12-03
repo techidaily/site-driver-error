@@ -1,7 +1,7 @@
 ---
 title: Fix Your Non-Functional HP Laptop Keys Step By Step Guide – 356 Chars
-date: 2024-11-19T16:40:33.089Z
-updated: 2024-11-24T09:59:48.125Z
+date: 2024-11-26T18:32:08.722Z
+updated: 2024-12-03T05:07:30.717Z
 tags:
   - win11
   - win10
@@ -19,15 +19,15 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 
 We have received reports from user saying that they have trouble using their HP laptop keyboard. Some of them complained that certain keys, such as functional keys (F1, F12 etc.), are unusable, while a small number of users mentioned that the laptop keyboard is totally useless and they have to turn to an external one. If you are one of the “victims”, no worries, there are some effective ways that are going to help you solve this problem. Please follow the instructions below and get your laptop keyboard fixed!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Step 1: Reinstall Keyboard Driver**
 
 1) Follow the path:**Start**icon**\> Control Panel**(View by**Large icons)>** **Device Manager**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc3af48b92.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) In the Device Manager window, click to expand**Keyboards**category. Then right click the keyboard option listed here and choose**Uninstall**.
 
@@ -38,7 +38,7 @@ When prompted to confirm the uninstall, press**OK**to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc902b86a2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Wait for the uninstall to finish. Then**restart**your computer. The keyboard driver will be reinstalled automatically once you restart your laptop. **Note**: If you need to type in password to log into your desktop, please use the on-screen keyboard by choosing the middle icon from the three icons on the bottom right corner, then select**On-Screen Keyboard**.
@@ -48,14 +48,6 @@ When prompted to confirm the uninstall, press**OK**to continue.
 You will be able to see the on-screen keyboard appear. Use your mouse cursor to type in your password and click**Enter**key You should be able to see Windows is automatically searching and updating the keyboard driver for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Step 2: Check Keyboard Settings**
 
@@ -75,6 +67,10 @@ Then make sure the Keyboards is selected as**US**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Step 3: Try an External Keyboard**
 
 If you have tried the above methods but they are not helpful, you may need to plug in a USB external keyboard and see if the second keyboard works. 1) If the external keyboard**works perfectly**, then you need to consider searching and downloading the latest version of the laptop driver from HP support. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). You can try its Free version, and update your drivers one by one. Or you can update all your missing and outdated drivers automatically with just one-click with Driver Easy [**Pro version**](https://tools.techidaily.com/drivereasy/download/). No worry to try it as it comes with a no-questions-asked 30-day money-back guarantee and professional tech support 24/7\.
@@ -82,10 +78,14 @@ If you have tried the above methods but they are not helpful, you may need to pl
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step 4:** **Perform a Hard Reset**
 
@@ -109,14 +109,20 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-beginning-the-live-journey-on-instagram-for-2024/"><u>[Updated] Beginning the Live Journey on Instagram for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premium-twelve-full-frame-video-tech-lists/"><u>[Updated] Premium Twelve Full Frame Video Tech Lists</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-steps-to-acquire-free-and-safe-vlc-player-on-a-mac-computer/"><u>2024 Approved Steps to Acquire Free and Safe VLC Player on a Mac Computer</u></a></li>
-<li><a href="https://driver-error.techidaily.com/amd-radeon-wattman-resets-solved-restoring-stability-on-your-graphics-card/"><u>AMD Radeon WattMan Resets Solved: Restoring Stability On Your Graphics Card</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-subsys-to-strategy-preparing-for-modern-android-use/"><u>From Subsys to Strategy: Preparing For Modern Android Use</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hd-audio-a-win11-victory/"><u>HD Audio: A Win11 Victory</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-envy-20-series-update-and-download-driver-instructions/"><u>HP Envy 20 Series - Update & Download Driver Instructions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-reno-11-pro-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-port-communication-issue/"><u>Solve Port Communication Issue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-customize-your-videos-appeal-youtube-thumbnail-tips-and-tricks/"><u>[New] 2024 Approved Customize Your Video's Appeal YouTube Thumbnail Tips & Tricks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-best-mobile-and-desktop-mkv-software-for-2024/"><u>[New] Best Mobile and Desktop MKV Software for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-hardware-drivers-active/"><u>[Resolved] Hardware Drivers Active</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/broadcast-success-master-the-art-of-monitor-sharing-on-fb-for-2024/"><u>Broadcast Success Master the Art of Monitor Sharing on FB for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/easy-routines-for-screening-gameplay-footage/"><u>Easy Routines for Screening Gameplay Footage</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-get-back-working-dolby-atmos-driver-for-windows-after-a-failed-update-resolved/"><u>How to Get Back Working Dolby Atmos® Driver for Windows After a Failed Update - Resolved!✔️</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-90-gt-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor 90 GT by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repairing-realtek-driver-post-windows-10-switch/"><u>Repairing Realtek Driver Post-Windows 10 Switch</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-compatibility-concerns-an-exploration-into-older-usb-composite-devices/"><u>Resolving Compatibility Concerns: An Exploration Into Older USB Composite Devices</u></a></li>
+<li><a href="https://techidaily.com/samsung-data-recovery-recover-lost-data-from-samsung-galaxy-s24plus-by-fonelab-android-recover-data/"><u>Samsung Data Recovery – recover lost data from Samsung Galaxy S24+</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-prolific-usb-to-serial-driver-not-working-on-windows/"><u>Solved: Prolific USB to Serial Driver Not Working on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-15-dolby-atmos-films-ultimate-in-home-cinema-experience/"><u>Top 15 Dolby Atmos Films: Ultimate In-Home Cinema Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-recovering-from-a-radeon-wattman-system-failure/"><u>Troubleshooting Guide: Recovering From a Radeon Wattman System Failure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-non-functional-bluetooth-mouse-issues-on-windows/"><u>Troubleshooting Guide: Resolving Non-Functional Bluetooth Mouse Issues on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-resolving-issues-when-your-final-usb-device-fails-and-windows-ignores-it/"><u>Troubleshooting Steps: Resolving Issues When Your Final USB Device Fails & Windows Ignores It</u></a></li>
 </ul></div>
 

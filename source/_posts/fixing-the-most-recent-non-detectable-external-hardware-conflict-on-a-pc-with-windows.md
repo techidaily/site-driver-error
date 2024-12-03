@@ -1,7 +1,7 @@
 ---
 title: Fixing the Most Recent Non-Detectable External Hardware Conflict on a PC with Windows
-date: 2024-11-10T18:57:27.293Z
-updated: 2024-11-14T22:27:35.288Z
+date: 2024-12-01T22:43:26.320Z
+updated: 2024-12-02T21:29:41.324Z
 tags:
   - win11
   - win10
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 
  If your problem stops here, the USB port might be at fault, not your USB flash drive. Try to avoid using the same port next time, in case similar problem happens again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Update all possible device drivers
 
  Another possibility for your not-recognized USB device is outdated, missing and/or faulty drivers. You should verify that all your devices have the right drivers, and update those that don’t. This is especially true for your motherboard driver, your USB port drivers, and your external hard drive driver.
@@ -63,10 +67,7 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37710b44342.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged drivers to automatically download and install the correct versions (you can do this with the **FREE** version).
@@ -74,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the [**Pro**](https://tools.techidaily.com/drivereasy/download/) version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37721186152.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) You need to restart your PC for the updated drivers to work properly. Check if your USB device is recognized now.
 
@@ -104,6 +98,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377814e701a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click to expand**USB settings** and**USB selective suspend setting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3778a48905d.png)
@@ -113,10 +111,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377b3cef938.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **NOTE** : If you’re using a laptop, click**On battery** , then**Disabled** from the drop-down menu.
@@ -133,18 +128,15 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3786b06277a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the top bar, click**View** and then**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378723b37b6.png)
 
  3) Click to expand**Universal Serial Bus controllers.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.1) If you see any device drivers marked by**yellow exclamation marks** or**question marks:**
 
@@ -152,30 +144,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37894943164.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3.1.2) Click**Uninstall** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37895fbce37.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3.1.3) When the uninstall finishes, restart your computer. Then repeat the same procedure with the rest of the USB controllers marked by yellow exclamation marks or question marks one by one.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3.2) If you don’t see any drivers marked by yellow exclamation mark or question mark
@@ -207,24 +187,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-introduction-to-tiktok-for-computer-enthusiasts-for-2024/"><u>[New] Introduction to TikTok for Computer Enthusiasts for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-error-code-devhub-48/"><u>[SOLVED] Error Code - DevHub 48</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-new-look-samsungs-k850-ultrablade-review-2023/"><u>[Updated] In 2024, New Look Samsung's K850 UltraBlade Review 2023</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-walkthrough-uninstalling-graphics-driver-in-safe-mode-on-window-8-systems/"><u>Comprehensive Walkthrough: Uninstalling Graphics Driver in Safe Mode on Window 8 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-irql-not-less-or-equal-on-windows-11-fixed/"><u>Driver Irql Not Less Or Equal on Windows 11 [Fixed]</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/explore-virtual-lands-the-best-10-smartphone-vr-headsets/"><u>Explore Virtual Lands The Best 10 Smartphone VR Headsets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/immediate-remedies-for-a-lagging-hp-computer-diagnosing-the-causes/"><u>Immediate Remedies for a Lagging HP Computer - Diagnosing the Causes.</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-asus-rog-phone-7-ultimate-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Asus ROG Phone 7 Ultimate Bootloader Easily</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-your-graphics-settings-default-radeon-wattman-stability-achieved/"><u>Mastering Your Graphics Settings: Default Radeon Wattman Stability Achieved</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/newest-hp-officejet-4500-printing-solutions-find-your-updated-drivers-here/"><u>Newest HP Officejet 4500 Printing Solutions: Find Your Updated Drivers Here</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolution-guide-for-resident-evil-5-launching-problems-on-desktops/"><u>Resolution Guide for Resident Evil 5 Launching Problems on Desktops</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-hub-error-48/"><u>Resolved Hub Error #48</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-hp-notebook-keys-that-are-not-responding-or-stuck-how-to-fix-in-minutes-article-title-detailed-user-friendly-guide-tech-talker406-chars/"><u>Solving HP Notebook Keys That Are ‘Not Responding’ or Stuck – How To Fix in Minutes (Article Title)– Detailed, User Friendly Guide | Tech Talker—406 Chars</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-removing-images-from-your-icloud-without-affecting-your-iphone/"><u>Step-by-Step Tutorial: Removing Images From Your iCloud without Affecting Your iPhone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/streamlining-windows-10-touchpad-compatibility-elan/"><u>Streamlining Windows 10 Touchpad Compatibility, Elan</u></a></li>
-<li><a href="https://driver-error.techidaily.com/universal-pc-card-drivers-for-windows-series/"><u>Universal PC Card Drivers for Windows Series</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-pc-wont-stop-responding-when-i-try-to-turn-off-the-built-in-bluetooth-adapter-any-ideas/"><u>Windows PC Won't Stop Responding when I Try to Turn Off the Built-In Bluetooth Adapter - Any Ideas?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1724766258181-18/"><u>デジアーティ: 18周年を祝う限定コレクション</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-needed-mouse-ignored-by-windows-os/"><u>[Fix Needed] Mouse Ignored by Windows OS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-exclusive-android-3d-video-enthusiasts-choice/"><u>[New] 2024 Approved Exclusive Android 3D Video Enthusiasts' Choice</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/oining-the-elite-your-roadmap-to-2024-ytp-benefits/"><u>[New] Joining the Elite Your Roadmap to 2024 YTP Benefits</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-a-professionals-approach-to-video-editing-on-youtube-for-2024/"><u>[Updated] A Professional's Approach to Video Editing on YouTube for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-the-art-of-attracting-and-managing-brands-as-affiliates-on-youtube/"><u>[Updated] In 2024, Mastering the Art of Attracting and Managing Brands as Affiliates on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-spoof-spectacle-steps-to-create-a-parody/"><u>2024 Approved Spoof Spectacle Steps to Create a Parody</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cease-and-desist-stop-auto-uninstalling-nvidia-drivers/"><u>Cease and Desist: Stop Auto-Uninstalling Nvidia Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/demystifying-the-workings-of-traditional-usb-composite-equipment-resolved/"><u>Demystifying the Workings of Traditional USB Composite Equipment [RESOLVED]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-past-alerts-a-step-by-step-guide-to-viewing-previous-notifications-on-your-iphone/"><u>Discovering Past Alerts: A Step-by-Step Guide to Viewing Previous Notifications on Your iPhone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-reported-ideport0-control-issue/"><u>Error Reported: Ideport0 Control Issue</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-exclusive-screensaver-pro-for-smartphones/"><u>In 2024, Exclusive ScreenSaver Pro for Smartphones</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-poco-x6-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Poco X6 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lenovos-blue-tooth-mastery-in-win11-environment/"><u>Lenovo’s Blue-Tooth Mastery in WIN11 Environment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-solutions-how-to-resolve-itbm-driver-unavailable-message/"><u>Quick Solutions: How To Resolve 'ITBM Driver Unavailable' Message</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-acpi-drive-id-33a0-problems/"><u>Resolving Acpi Drive ID 33A0 Problems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sequential-appearance-start-for-2024/"><u>Sequential Appearance Start for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-content-with-these-20-essential-youtube-hacks-for-2024/"><u>Streamline Your Content with These 20 Essential YouTube Hacks for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-strategies-to-overcome-directx-9-fail/"><u>Swift Strategies to Overcome 'DirectX 9 Fail'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-quest-to-eradicate-code-52-from-cars/"><u>The Quest to Eradicate Code 52 From Cars</u></a></li>
 </ul></div>
 

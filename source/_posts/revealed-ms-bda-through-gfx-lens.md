@@ -1,7 +1,7 @@
 ---
 title: "Revealed: MS BDA Through GFX Lens"
-date: 2024-09-04T12:50:30.470Z
-updated: 2024-09-05T12:50:30.470Z
+date: 2024-12-01T06:07:24.103Z
+updated: 2024-12-03T05:35:19.452Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ Here is how to run Windows Updates:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c20e613f781.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c20ee5332a7.jpg)
@@ -49,11 +53,9 @@ Here is how to run Windows Updates:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -69,40 +71,24 @@ Here is how to run Windows Updates:
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_all_ the drivers.  
  （You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  right now with a discount, or activate the 7-day free trial version. With the trial version, you will have access to_all features_ of the Pro version such as high-speed download and one-click install. You won’t be charged before your 7-day trial ends and you can easily cancel any time during the trial period.）
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/NVIDIA-GeForce-RTX-3090-Ti-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the graphics driver shows as the Microsoft Basic Display Adapter issue has been resolved. If yes, then congrats! If the issue persists, please try**Fix 3** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Replace the graphics card
 
  If updating your graphics card driver doesn’t help to solve the problem, you may need to consider getting your graphics card replaced, as it might be faulty.
@@ -114,11 +100,9 @@ Here is how to run Windows Updates:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Downgrade operating system
 
  If you are not ready to make a new investment by purchasing a brand new graphics card for your PC, here is your alternative: downgrade your Windows 10 to its previous version, be it Windows 8 or Windows 7\.
@@ -135,8 +119,6 @@ Here is how to run Windows Updates:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,6 +126,21 @@ Here is how to run Windows Updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/c-this-method-thats-what-are-you-able-to-calculate-how-many-moles-or-something-more-than-when-the-second-one/"><u>(C. This Method That's-What Are You Able to Calculate How Many Moles or Something More than when the Second One</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-low-res-to-hd-your-first-foray-into-frame-rates/"><u>[New] From Low-Res to HD Your First Foray Into Frame Rates</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-starry-nights-in-focus-advice-on-night-portraiture/"><u>[Updated] 2024 Approved Starry Nights in Focus Advice on Night Portraiture</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-efficient-approaches-to-picture-resource-sourcing-for-2024/"><u>[Updated] Efficient Approaches to Picture Resource Sourcing for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-lifelike-broadcasts-which-aspect-holds-the-high-ground/"><u>[Updated] Lifelike Broadcasts Which Aspect Holds the High Ground?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/6-given-the-following-python-code/"><u>6%. Given the Following Python Code</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-laptop-troubleshooting-solving-the-inverted-video-display-problem/"><u>ASUS Laptop Troubleshooting: Solving the Inverted Video Display Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-usb-cam-problem-windows-10-solution/"><u>Asus USB Cam Problem, Windows 10 Solution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bypass-the-error-message-how-to-correctly-install-coprocessor-drivers-in-windows-11-os/"><u>Bypass the Error Message: How to Correctly Install Coprocessor Drivers in Windows 11 OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correct-usb-c-connector-error/"><u>Correct USB-C Connector Error</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y27-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y27 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-digital-devices-wisdom-from-toms-hardware-analysis/"><u>Mastering Digital Devices: Wisdom From Tom's Hardware Analysis</u></a></li>
+</ul></div>
 

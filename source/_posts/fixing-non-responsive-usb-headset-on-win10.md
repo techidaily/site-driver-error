@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Responsive USB Headset on WIN10
-date: 2024-11-14T01:14:14.303Z
-updated: 2024-11-14T16:13:55.757Z
+date: 2024-11-29T02:59:39.164Z
+updated: 2024-12-03T06:01:35.716Z
 tags:
   - win11
   - win10
@@ -27,10 +27,7 @@ thumbnail: https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3
 **Note:** Before we go, plug your headset into different USB ports and replace your USB headset with another one to check if the issue is due to the headset. If it doesn’t work either, then go with the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Do not plug your USB headset while Windows 10 is booting
@@ -50,10 +47,7 @@ Check if your headset works properly now.
 ```` ```` ````
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Click **Hardware and Sound** .  
@@ -64,22 +58,8 @@ Check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-14.png)
 4. Click **Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-13.png)
 5. Now the troubleshooter starts detecting problems. Complete troubleshooting by following on-screen instructions.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.png)
 
@@ -91,20 +71,25 @@ After that, check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_15-52-49.jpg)
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
 
-5. Relaunch your computer and check whether the issue is resolved or not.````
-
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Relaunch your computer and check whether the issue is resolved or not.````
 
 ### Fix 3: Set your USB headset as default device
 
@@ -113,6 +98,10 @@ After that, check if your headset works properly now.
 2. Highlight your headset, then click **Set** **Default** . Click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ```` ```` ```` Check if your headset works properly now.
 
@@ -132,13 +121,6 @@ After that, check if your headset works properly now.
  Note: You can also do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Sound-driver.jpg)
 4. Restart your computer and check to see if your headset works.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -161,22 +143,18 @@ After that, check if your headset works properly now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-speedy-mobile-audio-playback-best-apps-ranked/"><u>[New] Speedy Mobile Audio Playback Best Apps Ranked</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-achieve-stardom-in-the-digital-world-by-growing-your-facebook-followers/"><u>[Updated] Achieve Stardom in the Digital World by Growing Your Facebook Followers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-jumpstart-to-joyous-animation-a-guide-in-movie-maker-world-for-2024/"><u>[Updated] Jumpstart to Joyous Animation A Guide in Movie Maker World for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/a-detailed-guide-to-understanding-group-policies-windows-via-3-views/"><u>A Detailed Guide to Understanding Group Policies (Windows) via 3 Views</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gtx-950-and-windows-11-error-fix-dealing-with-code-43-swiftly-and-easily/"><u>GTX 950 and Windows 11 Error Fix: Dealing with 'Code 43' Swiftly and Easily</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-overcome-iphone-usb-transfer-errors-using-effective-solutions/"><u>How to Overcome iPhone USB Transfer Errors Using Effective Solutions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-recover-from-a-crash-in-your-amd-graphics-control-panel-wattman/"><u>How to Recover From a Crash in Your AMD Graphics Control Panel (WattMan)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-tackle-and-resolve-problems-with-antiquated-usb-composite-systems/"><u>How to Tackle and Resolve Problems with Antiquated USB Composite Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-xs-5-ways-to-get-into-a-locked-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone XS? 5 Ways to get into a Locked Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Motorola Razr 40? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcame-error-45-alls-well-that-ends-well/"><u>Overcame Error #45, All's Well That Ends Well</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-iphone-mobile-transfer-protocol-mtp-device-driver-complications-effectively/"><u>Resolve iPhone Mobile Transfer Protocol (MTP) Device Driver Complications Effectively</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-the-access-is-denied-error-during-usb-device-installation/"><u>Solving the 'Access Is Denied' Error During USB Device Installation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/successful-driver-install-on-wsd-printer/"><u>Successful Driver Install on WSD Printer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-7-plus-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone 7 Plus & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-perfecting-presentation-adding-fonts-to-ae-projects/"><u>[New] Perfecting Presentation Adding Fonts to AE Projects</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-up-your-photo-game-basic-snapseed-skills-guide/"><u>2024 Approved Step Up Your Photo Game Basic Snapseed Skills Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/address-repeated-amd-drivers-crashes/"><u>Address Repeated AMD Drivers Crashes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-faulty-venintanddev33a0-acpi-driver/"><u>Addressing Faulty VEN_INT&DEV_33A0 Acpi Driver</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oppo-a78-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-older-systems-healthy-with-win10-improvements/"><u>Keep Older Systems Healthy with Win10 Improvements</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/king-masterpieces-crafting-successful-parodies-for-2024/"><u>Mimicking Masterpieces Crafting Successful Parodies for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-hp-laptop-camera-problems-in-windows-10-with-easy-fixes/"><u>Solve HP Laptop Camera Problems in Windows 10 with Easy Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/trouble-locating-your-new-pcs-prodigy-cam-no-more-stress-got-answers-and-fixes-to-look-into-fixed/"><u>Trouble Locating Your New PC's Prodigy Cam? No More Stress - Got Answers and Fixes to Look Into [Fixed]</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-video-file-management-in-adobe-premiere-import-edit-and-export-like-a-pro/"><u>Updated 2024 Approved Video File Management in Adobe Premiere Import, Edit, and Export Like a Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104701290-windows-users-solve-your-wireless-keyboard-problem-today/"><u>Windows Users: Solve Your Wireless Keyboard Problem Today!</u></a></li>
 </ul></div>
 

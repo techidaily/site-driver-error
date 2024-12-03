@@ -1,7 +1,7 @@
 ---
 title: Rejected Graphic Card Use by OS Win11
-date: 2024-11-16T22:55:19.375Z
-updated: 2024-11-24T14:14:58.673Z
+date: 2024-11-25T20:03:36.615Z
+updated: 2024-12-02T23:17:57.338Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 2. [**Reinstall your display driver**](https://coinrule.sjv.io/rqzonv)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run System File Checker and DISM commands
@@ -42,6 +42,10 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7aea748d7a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click**YES** when prompted by the User Account Control.
 
  2) Type**sfc /scannow**  and press **Enter** . Wait for the scanning to be **100%**  completed.
@@ -49,7 +53,7 @@ Follow these steps to recover your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7af1a7f21e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type the following commands and press **Enter**  after each.
@@ -60,14 +64,10 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-15.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Reboot Windows 10 and run your game software to see if it works. If it doesn’t work, you can try our other fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
@@ -86,13 +86,13 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509eed56b24.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. You can update the drivers one by one using the **Update**  button. But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can update all your drivers with one click — **Update All** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509f1432541.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Reboot your Windows 10 PC and run your game software to see if it works.
 
@@ -116,22 +116,22 @@ Follow these steps to recover your system files:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-break-into-everyones-heart-clever-tips-and-examples-for-tinder-bios-for-2024/"><u>[New] Break Into Everyone's Heart - Clever Tips & Examples for Tinder Bios for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-boosting-connectivity-with-creative-fb-slideshow-ideas/"><u>[New] In 2024, Boosting Connectivity with Creative FB Slideshow Ideas</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capture-times-essence-a-comprehensive-guide-to-making-slow-motion-video-from-still-images-online/"><u>Capture Time's Essence A Comprehensive Guide to Making Slow-Motion Video From Still Images Online</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/cubefit-terramat-user-reviews-the-ultimate-product-for-an-energizing-active-lifestyle/"><u>CubeFit TerraMat User Reviews – The Ultimate Product for an Energizing Active Lifestyle</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-asmedia-usb-host-controller-was-not-found-on-asus/"><u>Fixed: ASMedia USB Host Controller Was Not Found on Asus</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-lenovo-bluetooth-hitches-in-win11/"><u>Fixing Lenovo Bluetooth Hitches in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-download-driver-for-unknown-device-in-device-manager/"><u>How to Download Driver for Unknown Device in Device Manager</u></a></li>
-<li><a href="https://driver-error.techidaily.com/identifying-and-correcting-unrecognized-usb-errors-in-win-78/"><u>Identifying and Correcting Unrecognized USB Errors in Win 7/8</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-tuneful-texts-musical-infusion-on-whatsapp/"><u>In 2024, Tuneful Texts Musical Infusion on WhatsApp</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/resolving-network-drive-connection-issues-in-windows-11-comprehensive-solutions-and-workarounds/"><u>Resolving Network Drive Connection Issues in Windows 11: Comprehensive Solutions & Workarounds</u></a></li>
-<li><a href="https://win11.techidaily.com/revamping-the-w11-desktop-step-by-step-guide/"><u>Revamping the W11 Desktop: Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-gpu-drivers-on-windows-8/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing GPU Drivers on Windows 8</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/students-save-more-on-music-learn-the-insider-tips-to-getting-a-discount-on-spotify-services/"><u>Students, Save More on Music: Learn the Insider Tips to Getting a Discount on Spotify Services</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-definitive-guide-to-download-and-refresh-drivers-on-the-hp-envy-20-computer-series/"><u>The Definitive Guide to Download & Refresh Drivers on the HP ENVY 20 Computer Series</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unraveling-the-mystery-of-directx-9-not-initializing/"><u>Unraveling the Mystery of DirectX 9 Not Initializing</u></a></li>
-<li><a href="https://driver-error.techidaily.com/winning-against-w11s-elan-input-issues-one-fix-at-a-time/"><u>Winning Against W11's Elan Input Issues, One Fix at a Time</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-comprehensive-list-of-instagram-tracking-tools-for-better-decisions/"><u>[New] In 2024, The Comprehensive List of Instagram Tracking Tools for Better Decisions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-measuring-video-storage-space-64128gb-hard-drive-analysis/"><u>[New] Measuring Video Storage Space - 64/128GB Hard Drive Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-audiophiles-guide-to-the-finest-window-based-podcast-tools-8/"><u>[Updated] Audiophile's Guide to the Finest Window-Based Podcast Tools (#8)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-crafting-standout-youtube-thumbnails-with-ease/"><u>2024 Approved Crafting Standout YouTube Thumbnails with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-reflection-issue-in-windows-11-views/"><u>Addressing Reflection Issue in Windows 11 Views</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-fixes-for-non-functional-qualcomm-atheros-bluetooth-drivers-on-windows-10/"><u>Effective Fixes for Non-Functional Qualcomm Atheros Bluetooth Drivers on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-steps-to-update-your-pcs-sound-card-windows-n-11-support/"><u>Effortless Steps to Update Your PC's Sound Card - Windows N 11 Support</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-wireless-keyboard-connection-issue-on-pc-a-step-by-step-guide/"><u>Fixing the Wireless Keyboard Connection Issue on PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Honor Phone without PIN</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-fixed-operating-smoothly-on-windows-11/"><u>Keyboard Fixed, Operating Smoothly on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rapid-response-to-mtp-connection-issues/"><u>Rapid Response to MTP Connection Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/recovery-of-missing-bluetooth-restore-it-now/"><u>Recovery Of: Missing BlueTooth, Restore It Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-instant-amd-software-issues/"><u>Solve Instant AMD Software Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-memory-management-interruptions/"><u>Solved Memory Management Interruptions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successful-repair-working-keyboard-on-windows-11/"><u>Successful Repair: Working Keyboard on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-srt-compendium-for-all-levels-for-2024/"><u>The Essential SRT Compendium for All Levels for 2024</u></a></li>
 </ul></div>
 

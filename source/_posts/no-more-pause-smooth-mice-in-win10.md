@@ -1,7 +1,7 @@
 ---
 title: "No More Pause: Smooth Mice in Win10"
-date: 2024-09-04T12:48:26.386Z
-updated: 2024-09-05T12:48:26.386Z
+date: 2024-11-27T18:13:23.432Z
+updated: 2024-12-03T02:37:50.514Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e3c34d1ba.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Press**Tab** , then the down arrow key until you highlight **Mouse and other pointing device** . Press the**right arrow key** to expand the option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/mice-and-other-pointing-deices.jpg)
@@ -43,9 +47,17 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa35dee13e1a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Press the**Tab** key and the**Ctrl** key at the same time until you get to the**Driver** tab. Press**Tab** until you highlight**Uninstall Device** . Then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa35e5fee707.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Press**Enter** .
 
@@ -85,6 +97,10 @@ Windows will help you reinstall the drivers for your mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8aa75cfe48.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **3: Check the local area network settings**
 
  Disabling LAN and using your wireless card to connect to the Internet may also help tyou solve the problem. Here’s how you can do it:
@@ -94,27 +110,17 @@ Windows will help you reinstall the drivers for your mouse.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa3695673227.png)
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Press**Tab** , then**Enter** . Press the left arrow key to select **Small icons** , then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa36bec91ae2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Press**Tab** on your keyboard until you highlight **Network and Sharing Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa36c3be74c5.jpg)
@@ -123,46 +129,20 @@ Windows will help you reinstall the drivers for your mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/change-adapter-settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Press**Tab** until you highlight your LAN card. Press the**left arrow key** to select it. Then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa36d089d26b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Press**Tab** until you highlight**Disable** . Press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa37470b7742.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Now you’ll be back at the Network Connection window, with your Ethernet icon highlighted. Press**Enter** to enable your network connection.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **4: End Realtek audio**
 
  Realtek audio card might interfere with your mouse, which can cause a lagging problem. Here’s how you can fix it:
@@ -177,6 +157,10 @@ Windows will help you reinstall the drivers for your mouse.
 
  If the above methods don’t work, go check your**Task Manager** for clues on which applications could be at fault. If they’re occupying a lot of disk usage, it’s worth looking into. When you locate any suspicious applications, right-click them and click End Task to see if the mouse lagging problem is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Other options**
 
  1)**Disable Cortana** . Many users have reported that disabling Cortana helped fix their freezing mouse.
@@ -189,12 +173,6 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c21ca77a670.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  b) Locate**ATI HotKey Poller** service on the right side of the window. Then double-click it.
 
  c) You’ll be in the Properties window. Change the**Startup type** to**Disabled** . Then click**Apply** and**OK** .
@@ -217,8 +195,6 @@ d) Restart your computer.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,6 +202,26 @@ d) Restart your computer.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-wireless-mouse-not-working-on-windows/"><u>[Fixed] Wireless Mouse Not Working on Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/oost-your-video-impact-expert-tips-on-using-wm-maker/"><u>[New] Boost Your Video Impact Expert Tips on Using WM Maker</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-dive-into-the-world-of-books-top-5-captivating-vtts-revealed/"><u>[New] Dive Into the World of Books Top 5 Captivating VTTs Revealed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-build-funny-images-kapwings-meme-studio-for-2024/"><u>[Updated] Build Funny Images Kapwing’s Meme Studio for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726225913398-mpeg/"><u>線上無料MPEG轉档服务 - 快速實用解答</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-system-speed-new-update-for-dell-and-os-drivers/"><u>Accelerate System Speed: New Update for Dell and OS Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-the-setup-of-your-gadget-overcoming-code-1-hurdles/"><u>Correcting the Setup of Your Gadget - Overcoming Code 1 Hurdles</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dissecting-mr-beasts-fortune-portfolio-for-2024/"><u>Dissecting Mr. Beast's Fortune Portfolio for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dramatize-depth-and-direct-focus-using-leading-lines-in-iphone-photography/"><u>Dramatize Depth and Direct Focus Using Leading Lines in iPhone Photography</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-missing-seagate-external-drive-in-new-os/"><u>Fixing Missing Seagate External Drive in New OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-atheros-bluetooth-issues-on-windows-10-complete-solution/"><u>Fixing Qualcomm Atheros Bluetooth Issues on Windows 10: Complete Solution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-windows-n11s-absent-cpu-coprocessor-driver-problem/"><u>How to Resolve Windows N11's Absent CPU Coprocessor Driver Problem</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-s-hottest-iphone-apps-user-favorites-and-critic-picks/"><u>New S Hottest iPhone Apps User Favorites and Critic Picks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-hp-display-driver-in-windows/"><u>Refresh HP Display Driver in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-missing-coprocessor-driver-issue-in-windows-11/"><u>Resolving the 'Missing Coprocessor Driver' Issue in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unveiling-the-secret-to-resolving-asus-drivers-in-win10/"><u>Unveiling the Secret to Resolving ASUS Drivers in Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-mouse-misfires/"><u>Windows Mouse Misfires</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winning-against-the-notorious-code-43-error-on-your-gtx-950-while-using-windows-10-a-step-by-step-fix/"><u>Winning Against the Notorious Code 43 Error on Your GTX 950 While Using Windows 10 – A Step-by-Step Fix</u></a></li>
+</ul></div>
 

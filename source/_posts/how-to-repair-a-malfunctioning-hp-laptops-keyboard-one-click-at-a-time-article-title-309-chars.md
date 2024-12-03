@@ -1,7 +1,7 @@
 ---
 title: How To Repair a Malfunctioning HP Laptop's Keyboard, One Click at a Time - Article Title (309 Chars)
-date: 2024-09-04T12:50:19.923Z
-updated: 2024-09-05T12:50:19.923Z
+date: 2024-11-29T05:32:42.977Z
+updated: 2024-12-02T20:49:41.442Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ We have received reports from user saying that they have trouble using their HP 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc3af48b92.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) In the Device Manager window, click to expand**Keyboards**category. Then right click the keyboard option listed here and choose**Uninstall**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc4306d960.jpg)
@@ -32,6 +36,10 @@ We have received reports from user saying that they have trouble using their HP 
 When prompted to confirm the uninstall, press**OK**to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc902b86a2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait for the uninstall to finish. Then**restart**your computer. The keyboard driver will be reinstalled automatically once you restart your laptop. **Note**: If you need to type in password to log into your desktop, please use the on-screen keyboard by choosing the middle icon from the three icons on the bottom right corner, then select**On-Screen Keyboard**.
 
@@ -60,11 +68,9 @@ Then make sure the Keyboards is selected as**US**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Step 3: Try an External Keyboard**
 
 If you have tried the above methods but they are not helpful, you may need to plug in a USB external keyboard and see if the second keyboard works. 1) If the external keyboard**works perfectly**, then you need to consider searching and downloading the latest version of the laptop driver from HP support. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). You can try its Free version, and update your drivers one by one. Or you can update all your missing and outdated drivers automatically with just one-click with Driver Easy [**Pro version**](https://tools.techidaily.com/drivereasy/download/). No worry to try it as it comes with a no-questions-asked 30-day money-back guarantee and professional tech support 24/7\.
@@ -72,19 +78,15 @@ If you have tried the above methods but they are not helpful, you may need to pl
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Step 4:** **Perform a Hard Reset**
 
 A hard reset will not remove any of your data in your computer, it is a move that decreases the amount of power stored in hardware components. Please consider following this option when you **cannot log** into your desktop or cannot go to **Advanced Startup Options** panel.  1) Turn off the computer and make sure you have disabled or disconnected all unnecessary external devices. Remove the computer from any port replicator or docking station.  2) Unplug the AC adapter from the computer and remove the battery from the battery compartment. 3) Press and hold the **Power**  button for about 15 seconds to drain any residual electrical charge from the capacitors that protect the memory.  4) Insert the battery and AC adapter back into the laptop, but make sure you don’t connect any external devices just yet. 5) Press **Power** button to turn on the computer.  If the startup menu opens, use the arrow key to select**Start Windows Normally** and press**Enter** key on your keyboard.
@@ -98,8 +100,6 @@ A hard reset will not remove any of your data in your computer, it is a move tha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,6 +107,21 @@ A hard reset will not remove any of your data in your computer, it is a move tha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-cracking-the-code-personalized-tiktok-hash-hunt/"><u>[New] Cracking the Code Personalized TikTok Hash Hunt</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-essential-tactics-capturing-high-quality-sports-streams-online/"><u>[New] In 2024, Essential Tactics Capturing High-Quality Sports Streams Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-maximize-your-earnings-with-youtube-short-tips/"><u>[New] In 2024, Maximize Your Earnings with Youtube Short Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-depth-methodology-for-adding-srt-in-mp4-files-for-2024/"><u>[New] In-Depth Methodology for Adding SRT in MP4 Files for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-echoes-encode-discovering-exceptional-audio-to-text-programs/"><u>[Updated] Echoes Encode Discovering Exceptional Audio to Text Programs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-to-share-a-private-youtube-video-with-google-account-in-2024/"><u>[Updated] How to Share a Private YouTube Video with Google Account, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-practical-approach-to-mastering-windows-law-filters/"><u>A Practical Approach to Mastering Windows LAW Filters</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cant-find-your-prodigy-brio-webcam-after-windows-update-here-are-solved-fixes-for-you-answered/"><u>Can’t Find Your Prodigy Brio Webcam After Windows Update? Here Are Solved Fixes for You (Answered)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/conduct-dell-point-touch-diagnostics-win7/"><u>Conduct Dell Point-Touch Diagnostics (Win7)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-the-windows-enter-key-breakdown/"><u>Correcting the Windows Enter Key Breakdown</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103580978-i-am-also-known-as-a/"><u>I Am Also Known as A:</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-s18e-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo S18e Device SIM</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-hdr-capturing-dynamic-range-in-your-images-for-2024/"><u>IPhone HDR Capturing Dynamic Range in Your Images for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103903270-weve-found-a-quick-resolution-for-your-gpu-related-gaming-woes/"><u>We've Found a Quick Resolution for Your GPU-Related Gaming Woes!</u></a></li>
+</ul></div>
 

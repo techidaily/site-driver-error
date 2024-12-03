@@ -1,7 +1,7 @@
 ---
 title: Step by Step Fix HP Laptop Keyboard Not Working Issue
-date: 2024-11-12T18:02:02.982Z
-updated: 2024-11-14T22:13:09.763Z
+date: 2024-11-29T18:12:13.822Z
+updated: 2024-12-03T03:44:21.801Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ We have received reports from user saying that they have trouble using their HP 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc4306d960.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When prompted to confirm the uninstall, press**OK**to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc902b86a2.png)
@@ -37,9 +41,17 @@ When prompted to confirm the uninstall, press**OK**to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcb25486f6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You will be able to see the on-screen keyboard appear. Use your mouse cursor to type in your password and click**Enter**key You should be able to see Windows is automatically searching and updating the keyboard driver for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step 2: Check Keyboard Settings**
 
@@ -48,10 +60,7 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcfa0068ce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) On the left side of the pane, choose**Region & language**, then on the right side, make sure that the language is set to**English (United States)**.
@@ -62,23 +71,9 @@ If not, click the**Options**button as shown in the screen shot.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd7a070a5e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then make sure the Keyboards is selected as**US**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Step 3: Try an External Keyboard**
 
@@ -86,14 +81,11 @@ If you have tried the above methods but they are not helpful, you may need to pl
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
-2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
-
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
 
 ## **Step 4:** **Perform a Hard Reset**
 
@@ -117,18 +109,22 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-messenger-video-guide-dimensions-file-type-elapsed/"><u>[New] In 2024, Messenger Video Guide Dimensions, File Type, Elapsed</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-reverse-video-magic-online-step-by-step-guides-for-2024/"><u>[Updated] Reverse Video Magic Online Step-by-Step Guides for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-structured-approach-to-managing-youtube-videos-a-complete-watch-later-system-for-2024/"><u>[Updated] Structured Approach to Managing YouTube Videos A Complete Watch Later System for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/determining-chatgpts-maximum-response-length/"><u>Determining ChatGPT’s Maximum Response Length</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/filmcraft-studio-top-alternatives-for-lightroom-users/"><u>FilmCraft Studio Top Alternatives for Lightroom Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-lenovo-bluetooth-hitches-in-win11/"><u>Fixing Lenovo Bluetooth Hitches in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-download-driver-for-unknown-device-in-device-manager/"><u>How to Download Driver for Unknown Device in Device Manager</u></a></li>
-<li><a href="https://driver-error.techidaily.com/identifying-and-correcting-unrecognized-usb-errors-in-win-78/"><u>Identifying and Correcting Unrecognized USB Errors in Win 7/8</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a24-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A24 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-messaging-glitch-here-are-10-tips-for-a-smooth-solution/"><u>IPhone Messaging Glitch? Here Are 10 Tips for a Smooth Solution!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-gpu-drivers-on-windows-8/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing GPU Drivers on Windows 8</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-ai-text-to-video-wondershare-virbo-glossary/"><u>Updated 2024 Approved What Is AI Text to Video? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://driver-error.techidaily.com/winning-against-w11s-elan-input-issues-one-fix-at-a-time/"><u>Winning Against W11's Elan Input Issues, One Fix at a Time</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-windows-snapshot-simplified-2-methods-for-2024/"><u>[New] Windows Snapshot Simplified (2 Methods) for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-subtle-symmetry-balancing-visuals-like-a-pro/"><u>[Updated] Subtle Symmetry Balancing Visuals Like a Pro</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-dominating-the-digital-space-with-trending-content/"><u>2024 Approved Dominating the Digital Space with Trending Content</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-disappeared-bluetooth-manage-your-devices/"><u>Fixing: Disappeared Bluetooth, Manage Your Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-15-pro-max-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 15 Pro Max Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gigglegraphy-laughter-in-a-frame/"><u>In 2024, GiggleGraphy Laughter in a Frame</u></a></li>
+<li><a href="https://driver-error.techidaily.com/make-your-computer-listen-a-quick-guide-to-fix-unresponsive-bluetooth-on-latest-os-update-guide-inside/"><u>Make Your Computer Listen: A Quick Guide To Fix Unresponsive Bluetooth on Latest OS Update [Guide Inside]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/multi-os-pci-hardware-support-tools/"><u>Multi-OS PCI Hardware Support Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-transform-your-videos-the-best-free-green-screen-apps-for-android-and-ios-devices/"><u>New Transform Your Videos The Best Free Green Screen Apps for Android and iOS Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-crash-and-reboot-default-radeon-wattman-setting-issue/"><u>Resolving the 'Crash & Reboot: Default Radeon Wattman Setting' Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-problems-resolved-after-latest-windows-11-update/"><u>Sound Problems Resolved After Latest Windows 11 Update?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-fixing-qualcomm-atheros-bluetooth-connectivity-on-windows-11/"><u>Step-by-Step Solution: Fixing Qualcomm Atheros Bluetooth Connectivity on Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-best-8-screenshot-and-video-editing-tools-for-phones-for-2024/"><u>The Best 8 Screenshot & Video Editing Tools for Phones for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-the-legacy-of-usb-composite-devices-insights-and-solutions/"><u>Understanding the Legacy of USB Composite Devices: Insights and Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-speaker-lacks-volume-how-to-fix-it-on-win10/"><u>USB Speaker Lacks Volume - How to Fix It on Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wi-fi-6ax201-connectivity-anomaly-addressed-now/"><u>Wi-Fi 6Ax201 Connectivity Anomaly - Addressed Now</u></a></li>
 </ul></div>
 

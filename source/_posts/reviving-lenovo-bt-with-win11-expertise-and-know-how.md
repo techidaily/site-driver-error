@@ -1,7 +1,7 @@
 ---
 title: Reviving Lenovo BT with Win11 Expertise and Know-How
-date: 2024-11-12T20:19:23.988Z
-updated: 2024-11-15T02:43:07.860Z
+date: 2024-11-26T00:47:00.773Z
+updated: 2024-12-03T03:11:48.739Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 * [Option 3: Update Bluetooth driver](https://lightailing.sjv.io/k0ez0m)
 * [Option 4: Perform a refresh](https://collovinc.sjv.io/jrkzwp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Enable Bluetooth hardware
 
 **NOTE** : Please make sure that your computer has the necessary hardware and your wireless is turned on. Also, check the support website of Lenovo to make sure that your device is Bluetooth capable.
@@ -46,26 +50,24 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7d4daf634.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) If you see a down arrow, your Bluetooth device is disabled, just right-click the item and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b810d497f1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) If you see a yellow exclamation mark next to your Bluetooth driver, your Bluetooth hardware is not responding or set up correctly. You can refer to **Option 3** for more help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2: Enable discovery mode
@@ -93,22 +95,12 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver-scan.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 4: Perform a refresh
 
@@ -132,22 +124,17 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-11-fitness-youtube-video-ideas-to-keep-you-and-your-viewers-moving-for-2024/"><u>[New] 11 Fitness YouTube Video Ideas to Keep You and Your Viewers Moving for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unveiling-valheims-soil-secrets-premium-seed-guide/"><u>[New] In 2024, Unveiling Valheim's Soil Secrets Premium Seed Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-transform-your-farm-with-stardews-most-innovative-mods-7-best/"><u>[Updated] Transform Your Farm with Stardew's Most Innovative Mods (7 Best)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-exceptional-windows-calls-8-highest-rated/"><u>2024 Approved Exceptional Windows Calls 8 Highest Rated</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-cant-turn-off-on-windows-11-solved/"><u>Bluetooth Can't Turn Off on Windows 11 [Solved]</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/decoding-the-best-features-in-gaming-setups/"><u>Decoding the Best Features in Gaming Setups</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnosed-storage-system-issue/"><u>Diagnosed Storage System Issue</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-compatibility-issues-when-idt-software-cant-support-detected-hardware/"><u>Fixing Compatibility Issues: When IDT Software Can’t Support Detected Hardware</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-install-latest-drivers-on-your-intel-centrino-advanced-n-6250-chip-set-card/"><u>How to Install Latest Drivers on Your Intel Centrino Advanced-N 6250 Chip Set Card</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-prevent-your-amd-radeon-wattman-from-crashing-settings-restored-guide/"><u>How to Prevent Your AMD Radeon Wattman From Crashing: Settings Restored Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-malfunction-heres-how-you-can-repair-it/"><u>HP Wireless Keyboard Malfunction? Here's How You Can Repair It</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-mobile-clips-10-video-phones-rated-high/"><u>In 2024, Prime Mobile Clips 10 Video Phones Rated High</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-elevate-your-storytelling-a-step-by-step-ken-burns-effect-tutorial/"><u>New 2024 Approved Elevate Your Storytelling A Step-by-Step Ken Burns Effect Tutorial</u></a></li>
-<li><a href="https://driver-error.techidaily.com/patched-audio-delay-with-asus-webcam-and-windows-11-blend/"><u>Patched Audio Delay with ASUS Webcam & Windows 11 Blend</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-intel-me-errors/"><u>Resolving Intel ME Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-detected-hardware-lacking-support-for-your-idt-software-system/"><u>Solve Detected Hardware Lacking Support for Your IDT Software System</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transform-your-play-the-budget-friendly-lenovo-legion-slim-5-is-here-on-newegg-for-less-than-1100/"><u>Transform Your Play: The Budget-Friendly Lenovo Legion Slim 5 Is Here on Newegg for Less than $1,100!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-get-to-know-vrecorder-the-perfect-installation-process/"><u>2024 Approved Get to Know VRecorder The Perfect Installation Process</u></a></li>
+<li><a href="https://driver-error.techidaily.com/common-problems-with-hp-wireless-peripherals-diagnosis-and-repair-tips/"><u>Common Problems with HP Wireless Peripherals: Diagnosis & Repair Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/diy-youtube-channel-intros-made-easy-using-movavi-software/"><u>DIY YouTube Channel Intros Made Easy Using Movavi Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-hardware-blockage-for-windows-10-system/"><u>Graphics Hardware Blockage for Windows 10 System</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-visionary-filmmaker-blending-clips-and-chords/"><u>In 2024, Visionary Filmmaker Blending Clips & Chords</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-crypto-discussion-starters-for-engaging-conversations-with-chatgpt/"><u>Leading Crypto Discussion Starters for Engaging Conversations with ChatGPT</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/live-broadcast-converter-decoder/"><u>Live Broadcast Converter Decoder</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-your-control-the-ultimate-guide-for-effortlessly-fixing-unresponsive-bluetech-in-windows-11-fix-revealed/"><u>Restore Your Control: The Ultimate Guide for Effortlessly Fixing Unresponsive BlueTech in Windows 11 (Fix Revealed)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/strategies-to-overcome-base-driver-issues-dm/"><u>Strategies to Overcome Base Driver Issues (DM)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-asus-rog-phone-7-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Asus ROG Phone 7 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-lava-blaze-pro-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Lava Blaze Pro 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-10avimp4-windows10avi-mp4/"><u>Windows 10でAVIファイルをMP4に転換する究極のガイド - Windows10専用、シンプルなAVI MP4変換ツール紹介</u></a></li>
 </ul></div>
 

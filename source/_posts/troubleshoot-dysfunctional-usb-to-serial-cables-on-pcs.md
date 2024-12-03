@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Dysfunctional USB to Serial Cables on PCs
-date: 2024-11-13T20:26:09.183Z
-updated: 2024-11-14T19:33:59.186Z
+date: 2024-11-28T02:54:12.492Z
+updated: 2024-12-03T00:04:26.143Z
 tags:
   - win11
   - win10
@@ -27,10 +27,7 @@ thumbnail: https://thmb.techidaily.com/6aed0c00afe51b22c20e76d5f6ace236f0bc693b5
 2. **[Roll your Prolific USB to Serial driver back to an older version](https://pish-posh-baby.sjv.io/g1jg15)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 1: Update your Prolific USB to Serial driver to the latest version
@@ -42,18 +39,19 @@ thumbnail: https://thmb.techidaily.com/6aed0c00afe51b22c20e76d5f6ace236f0bc693b5
 1. **Manual driver update –** You can update your Prolific USB to Serial driver manually by going to the official [Prolific website](http://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41&showlevel=0041-0041) , and searching for the most recent correct driver. Be sure to choose the only driver that is compatible with your Windows version.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb06e0d6f148.jpg)
 2. **Automatic driver update –** If you don’t have the time, patience, or computer skills to update your Prolific USB to Serial driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your exact Prolific adapter, and your Windows version, and it will download and install them correctly:
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb0704ce6b75.jpg)
 3. Click**Update** next to the flagged Prolific USB to Serial driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back** guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb072bf3dffe.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Roll your Prolific USB to Serial driver back to an older version
 
@@ -72,22 +70,16 @@ Here’s how you can do it:
 4. Click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075c361cc6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Select**Let me pick from a list of available drivers on my computer** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075da68269.png)
 
-6. Select an older version on the Model list. Then**Next** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb076059c302.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Select an older version on the Model list. Then**Next** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb076059c302.jpg)
 
  Then the driver you select would be installed on your Windows 10 computer automatically.
 
@@ -115,19 +107,20 @@ Once it’s done, connect your device again and see if it goes well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-silent-watchers-best-instagram-apps/"><u>[New] In 2024, The Silent Watchers' Best Instagram Apps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-mastering-mobile-technology-for-dji-visual-storytelling/"><u>[New] Mastering Mobile Technology for DJi Visual Storytelling</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-psychology-of-crafting-engaging-podcast-intros/"><u>[New] The Psychology of Crafting Engaging Podcast Intros</u></a></li>
-<li><a href="https://driver-error.techidaily.com/a-deep-dive-into-retro-usb-systems-understanding-the-functionality-and-limitations-of-usb-composite-gadgets/"><u>A Deep Dive Into Retro USB Systems: Understanding the Functionality and Limitations of USB Composite Gadgets</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-unavailable-coprocessor-driver-issue-in-windows-10/"><u>Fixing the Unavailable Coprocessor Driver Issue in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-windows-inability-to-press-enter-key/"><u>Fixing Windows' Inability to Press Enter Key</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-of-ai-is-gpt-5-on-the-horizon/"><u>Future of AI: Is GPT-5 on The Horizon?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-y100-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo Y100 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-the-ultimate-checklist-to-add-audio-to-your-facebook-vids/"><u>In 2024, The Ultimate Checklist to Add Audio to Your Facebook Vids</u></a></li>
-<li><a href="https://driver-error.techidaily.com/inf-error-fixed-in-service-setup-process/"><u>INF Error Fixed in Service Setup Process</u></a></li>
-<li><a href="https://driver-error.techidaily.com/smoothing-glitches-out-in-win10-elan-touchpad-setup/"><u>Smoothing Glitches Out in Win10, Elan Touchpad Setup</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-device-not-properly-set-up-error-error-code-1/"><u>Troubleshooting Guide: Fixing 'Device Not Properly Set Up' Error (Error Code 1)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-converting-and-ripping-dvds-on-a-mac-with-handbrake-step-by-step-tutorial/"><u>Ultimate Guide: Converting & Ripping DVDs on a Mac with HandBrake – Step-by-Step Tutorial</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-discover-the-joy-of-real-time-broadcasting-with-fb-and-roku/"><u>[Updated] 2024 Approved Discover the Joy of Real-Time Broadcasting with FB & Roku</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-professionals-selection-top-5-drones-ranked/"><u>2024 Approved The Professionals' Selection Top 5 Drones Ranked</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-iphone-portable-storage-issues-overcoming-the-mtp-driver-challenge-on-windows-pcs/"><u>Fixing iPhone Portable Storage Issues - Overcoming the MTP Driver Challenge on Windows PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-error-bcm2omedian-device-unsupported/"><u>Hardware Error - BCM2omedian Device Unsupported</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-superstar-sites-for-crafting-unique-handmade-boxes/"><u>In 2024, Superstar Sites for Crafting Unique, Handmade Boxes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-tecno-camon-20-pro-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Tecno Camon 20 Pro 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximizing-lifespan-expert-tips-on-enhancing-your-laptops-battery-performance-insights-from-zdnet/"><u>Maximizing Lifespan: Expert Tips on Enhancing Your Laptop's Battery Performance - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/razer-deadriver-on-windows-10-seamless-installation-guide/"><u>Razer DeaDriver on Windows 10: Seamless Installation Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectify-host-controller-defect/"><u>Rectify Host Controller Defect</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-camera-showdown-top-camcorders-reviewed/"><u>The Ultimate Camera Showdown Top Camcorders Reviewed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/to-do-so-by-cn-and-i-need-to-check2-is-not-foundations-of-an-image/"><u>To Do so by C: n; and I Need to Check_2 Is Not Foundations of an Image</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-usb-errors-post-adb-interruption/"><u>Troubleshoot USB Errors Post ADB Interruption</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-accessing-safe-mode-and-cleaning-up-gpu-drivers-on-your-windows-8-device/"><u>Troubleshooting Tips: Accessing Safe Mode & Cleaning Up GPU Drivers on Your Windows 8 Device</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-14-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 14 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Itel P55 5G | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Error Cleared: DevMgr's #48"
-date: 2024-11-23T11:04:13.404Z
-updated: 2024-11-24T11:49:45.178Z
+date: 2024-11-29T17:20:46.785Z
+updated: 2024-12-03T06:07:54.815Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/3e3d11024602b266406d40d71c2e14542454419c9
 ## Error Cleared: DevMgr's #48
 
  If a device on your computer is running into**Error Code 48** in Device Manager, don’t worry. You’ve come to the right place! Although it’s quite frustrating, you should be able to fix this issue on your own after reading this article.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Error Code 48 in Device Manager
 
@@ -39,7 +43,7 @@ To check if the device is running into the error code 48:
 4. **[Run the System File Checker and the Windows Memory Diagnostic Test](https://parisrhonecom.sjv.io/zqobqr)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Update your driver
@@ -53,10 +57,6 @@ To check if the device is running into the error code 48:
 Or
 
 **[Option 2: Automatically (Recommended)](https://www.drivereasy.com/knowledge/asus-usb-bt500-bluetooth-5-0-usb-adapter-driver/#h-option-2-update-the-asus-usb-bt500-bluetooth-driver-automatically-recommended)**  – This might be the quickest and easiest way to get all the latest drivers for your computer. All you need is a few clicks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1 – Download and install the driver manually
 
@@ -80,6 +80,10 @@ Or
 ![Update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-drivers-with-Driver-Easy.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and [manually install them, the normal Windows way](https://tools.techidaily.com/drivereasy/download/) .)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC and check if this issue persists.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -89,7 +93,7 @@ Or
  If not, you may need to try the fixes below one by one and then reinstall the latest drivers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Disable Hyper-V
@@ -102,19 +106,19 @@ Or
 ![appwiz.cpl](https://images.drivereasy.com/wp-content/uploads/2021/04/appwiz.cpl_.jpg)
 2. Click**Turn Windows features on or off** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn Windows features on or off](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-Windows-features-on-or-off.jpg)
 3. In the Window that pops up,**uncheck the box** next to**Hyper-V** and click**OK** to disable the Hyper-V feature.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable the Hyper-V feature](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Hyper-V-feature.jpg)
 4. Restart Windows 10 to see if the issue persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this fix didn’t work, try the next fix to turn off Memory Integrity.
 
@@ -129,10 +133,6 @@ To turn off Memory Integrity, simply follow the steps below:
 1. On your keyboard, press**the Windows logo key** and type**core isolation** . Click**Open** to open the Core isolation window in Windows 10 settings.  
 ![Open Core isolation](https://images.drivereasy.com/wp-content/uploads/2021/04/Open-Core-isolation.jpg)
 2. **Turn off** the toggle under**Memory integrity** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Turn off Memory integrity](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Memory-integrity.jpg)
 3. Restart Windows 10 and reinstall the latest driver of the problematic device.
@@ -151,6 +151,10 @@ See if this fix works. If not, try the next fix, below.
 ![run system file checker](https://images.drivereasy.com/wp-content/uploads/2021/04/run-system-file-checker.jpg)
 3. Close the Command Prompt window after the process ie complete.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **To run the Windows Memory Diagnostic Test:**
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the**Run** dialog. Type**control admintools** and press**Enter** to open the**Administrator Tools** window in the**Control Panel** .  
@@ -161,10 +165,6 @@ See if this fix works. If not, try the next fix, below.
 3. Select**Restart now and check for problems (recommended)** to run the test immediately. Before restarting, you need to save your work and close any open programs. It may take some time to complete the test.  
 
 ![Check your computer for memory problems](https://images.drivereasy.com/wp-content/uploads/2021/04/Check-your-computer-for-memory-problems.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  See if there is something wrong with the memory on your PC. If everything is OK, open Device Manager to check if the “The software for this device has been blocked from starting because it is known to have problems with Windows (Code 48)” error persists.
 
@@ -192,20 +192,20 @@ See if this fix works. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-a-step-by-step-approach-to-enhancing-your-instagram-video-sizes-for-2024/"><u>[New] A Step-by-Step Approach to Enhancing Your Instagram Video Sizes for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-royal-rivals-top-10-ultimate-battle-royale-games/"><u>[Updated] Royal Rivals Top 10 Ultimate Battle Royale Games</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-public-perceptions-unveiling-vllo-realities/"><u>2024 Approved Public Perceptions Unveiling VLLO Realities</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nubia-z50s-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nubia Z50S Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725287221665-pc/"><u>無料で動画の拡張子変更！PC/スマホ/オンライン向け詳しい手順ガイド</u></a></li>
-<li><a href="https://driver-error.techidaily.com/asus-key-backlight-not-activating/"><u>Asus Key Backlight Not Activating</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enhancing-windows-10-lenovo-bt-driver/"><u>Enhancing Windows 10 Lenovo BT Driver</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-poco-m6-pro-4g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Poco M6 Pro 4G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/newly-released-winx-dvd-ripper-platinum-experience-enhanced-features-with-latest-update/"><u>Newly Released WinX DVD Ripper Platinum: Experience Enhanced Features with Latest Update</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repair-your-non-responsive-hp-laptop-keys-in-simple-easy-phases-a-step-byinan-action-plan-guide-tech-talker-382-chars/"><u>Repair Your Non-Responsive HP Laptop Keys in Simple, Easy Phases: A Step-Byinan Action Plan – Guide | Tech Talker 382 Chars</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-issues-with-unrecognized-usb-devices-in-windows-step-by-step-guide/"><u>Resolving Issues with Unrecognized USB Devices in Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-anomaly-ideport0-error-reported/"><u>System Anomaly: Ideport0 Error Reported</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-video-orientation-issues-in-asus-laptops-how-to-get-things-right-side-up-again/"><u>Troubleshooting Video Orientation Issues in ASUS Laptops – How To Get Things Right-Side Up Again</u></a></li>
-<li><a href="https://article-helps.techidaily.com/whip-up-funny-images-in-adobe-design-for-2024/"><u>Whip Up Funny Images in Adobe Design for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-1011s-missed-connection-with-unify-hub/"><u>Win 10/11'S Missed Connection with Unify Hub</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-struggling-to-run-rtx-gaming-weve-got-your-back/"><u>(Solved): Struggling to Run RTX Gaming? We've Got Your Back</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-cant-open-acpi-atk0100-kernel-mode-driver/"><u>[Solved] Can’t Open ACPI ATK0100 Kernel Mode Driver</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-unveils-impressive-ai-innovations-misses-crucial-breakthroughs-future-prospects-promising-techzdnet/"><u>Apple Unveils Impressive AI Innovations, Misses Crucial Breakthroughs: Future Prospects Promising | TechZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-lava-blaze-2-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Lava Blaze 2 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-eye-ideport0-malfunction-notice/"><u>Driver's Eye: Ideport0 Malfunction Notice</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enable-unseen-logitech-brio-camera-post-windows-update-step-by-step-guide-solved/"><u>Enable Unseen Logitech Brio Camera Post Windows Update – Step by Step Guide [Solved!]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-apple-tv-viewing-experience-using-vlc-ultimate-tutorials/"><u>Enhance Your Apple TV Viewing Experience Using VLC - Ultimate Tutorials</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-resolving-the-absence-of-a-coprocessor-driver-in-windows-11/"><u>Fix Guide: Resolving the Absence of a Coprocessor Driver in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-pacific-drive-failure-comprehensive-repair-steps-inside/"><u>Fix Your Pacific Drive Failure – Comprehensive Repair Steps Inside!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/iconic-image-reimagining-tools-visualmorph-v2-for-2024/"><u>Iconic Image Reimagining Tools VisualMorph V2 for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-unboxing-expert-tips-and-tricks/"><u>Mastering Unboxing Expert Tips and Tricks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/secured-smooth-operation-of-asus-usb20-cam-in-windows-11/"><u>Secured Smooth Operation of ASUS USB2.0 Cam in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swiftly-solve-bluetooth-connectivity-problems/"><u>Swiftly Solve Bluetooth Connectivity Problems</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-google-pixel-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Google Pixel 8 Pro | Dr.fone</u></a></li>
 </ul></div>
 

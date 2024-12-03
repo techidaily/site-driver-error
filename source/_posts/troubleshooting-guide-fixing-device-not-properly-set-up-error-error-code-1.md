@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing 'Device Not Properly Set Up' Error (Error Code 1)"
-date: 2024-09-04T12:48:10.981Z
-updated: 2024-09-05T12:48:10.981Z
+date: 2024-12-01T18:00:44.223Z
+updated: 2024-12-03T02:20:23.013Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
 1. [**Update the driver manually via Device Manager**](https://malaysia-healthcare-travel-council.pxf.io/752oeg)
 2. [**Update the driver automatically**](https://atezr.pxf.io/752omg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Update the driver manually via Device Manager
 
  You can update the driver via Device Manager. Follow these steps (Here take steps in Windows 7 as reference, which also apply to Windows 10, 8, 8.1, XP & Vista.):  
@@ -39,7 +43,15 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57318a2bd0396.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Check to see if the yellow mark next to the device is gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 2: Update the driver automatically
 
@@ -55,9 +67,17 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97796ac519e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the problem device to automatically download and install the correct version of the driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a9779737fc89.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After updating the driver, check to see if the yellow mark next to the device is gone.
 
@@ -69,8 +89,6 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,13 +96,20 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boosting-channel-profitability-famebit-powered-sponsorship-tactics/"><u>[New] 2024 Approved Boosting Channel Profitability FameBit-Powered Sponsorship Tactics</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-journey-to-seamless-entertainment-free-for-both-pcmacos/"><u>[Updated] 2024 Approved Journey to Seamless Entertainment, Free for Both PC/MacOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-audio-file-fusion-seamless-conversion-from-srt-to-other-formats/"><u>2024 Approved Audio File Fusion Seamless Conversion From SRT to Other Formats</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-your-shots-with-ease-in-photoshop/"><u>2024 Approved Transforming Your Shots with Ease in Photoshop</u></a></li>
+<li><a href="https://driver-download.techidaily.com/compatible-and-up-to-date-windows-sound-card-driver-packages/"><u>Compatible and Up-to-Date Windows Sound Card Driver Packages</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-invalid-service-inf-for-proper-setup/"><u>Correcting Invalid Service INF for Proper Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-the-root-of-recurring-nvidia-crashes/"><u>Decoding the Root of Recurring Nvidia Crashes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-hp-officejet-pro-8740-drivers-compatible-with-windows-11-10-and-8/"><u>Download the Latest HP OfficeJet Pro 8740 Drivers Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-usb-connectivity-after-adb-error/"><u>Fix USB Connectivity After ADB Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-sm-bus-controllers-on-win1011/"><u>Fixing SM Bus Controllers on WIN10/11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-get-rid-of-non-responsive-bluetooth-settings-in-new-operating-system/"><u>How to Get Rid of Non-Responsive Bluetooth Settings in New Operating System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-nvidia-driver-failsafe-a-guide/"><u>Solving Nvidia Driver Failsafe: A Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Honor Magic 5 Lite | Dr.fone</u></a></li>
+</ul></div>
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

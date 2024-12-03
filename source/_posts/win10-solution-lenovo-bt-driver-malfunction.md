@@ -1,7 +1,7 @@
 ---
 title: "Win10 Solution: Lenovo BT Driver Malfunction"
-date: 2024-11-10T02:51:19.994Z
-updated: 2024-11-14T18:30:41.699Z
+date: 2024-11-30T06:12:29.956Z
+updated: 2024-12-02T22:38:30.297Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7a64714f6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Expand **Bluetooth Radios**  or **Bluetooth** .
 
 **Note** : If you **cannot** see any items listed under Network adapters or Bluetooth Radios, please proceed to **Option 2** .
@@ -50,16 +54,13 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b810d497f1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) If you see a yellow exclamation mark next to your Bluetooth driver, your Bluetooth hardware is not responding or set up correctly. You can refer to **Option 3** for more help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2: Enable discovery mode
 
@@ -67,28 +68,20 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e564dcca0a6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 3: Update Bluetooth driver
@@ -104,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver-scan.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -138,22 +124,18 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-precision-techniques-for-messenger-content-extraction/"><u>[New] 2024 Approved Precision Techniques for Messenger Content Extraction</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-device-manager-error-unfolds/"><u>[SOLVED]: Device Manager Error Unfolds</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-configure-youtubes-audience-options-with-ease/"><u>[Updated] 2024 Approved Configure YouTube's Audience Options with Ease</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-learning-the-pixiz-method-for-photo-based-video-crafting/"><u>[Updated] Learning the Pixiz Method for Photo-Based Video Crafting</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-the-new-apple-tv-4k-2019-release-pros-cons-and-verdict/"><u>Comprehensive Guide to the New Apple TV 4K (2019 Release): Pros, Cons, and Verdict</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphics-driver-blocked-on-windows-11/"><u>Graphics Driver Blocked on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/identifying-missing-seagate-external-hd-in-windows-11/"><u>Identifying Missing Seagate External HD in Windows 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-spark-creativity-with-costless-auditory-extras/"><u>In 2024, Spark Creativity with Costless Auditory Extras!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nikon-coolpix-b500-promising-wifi-delivering-disappointment/"><u>Nikon COOLPIX B500 - Promising Wifi, Delivering Disappointment</u></a></li>
-<li><a href="https://driver-error.techidaily.com/radeon-wattman-reset-solved-restoring-stability-to-your-graphics-settings/"><u>Radeon Wattman Reset Solved: Restoring Stability to Your Graphics Settings</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-access-denied-errors-during-usb-installation/"><u>Resolving 'Access Denied' Errors During USB Installation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/smooth-your-bluetech-journey-a-simple-fix-for-unresponsive-bluetooth-devices-on-latest-operating-system-revealed/"><u>Smooth Your BlueTech Journey: A Simple Fix for Unresponsive Bluetooth Devices on Latest Operating System [Revealed]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/streamlining-windows-10-with-lenovo-bt-driver/"><u>Streamlining Windows 10 with Lenovo BT Driver</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/swiftly-switch-srt-and-text-files-with-this-easy-guide-for-2024/"><u>Swiftly Switch SRT and Text Files with This Easy Guide for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-common-sound-issues-in-halo-infinite-expert-advice/"><u>Troubleshooting Common Sound Issues in Halo Infinite: Expert Advice</u></a></li>
-<li><a href="https://win-dash.techidaily.com/unlock-your-best-gaming-experience-with-free-roccat-mx-speed-mouse-downloads/"><u>Unlock Your Best Gaming Experience with Free Roccat MX Speed Mouse Downloads</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-1011-recognize-disk-drive/"><u>Windows 10/11: Recognize Disk Drive</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-error-code-45-in-device-manager/"><u>[SOLVED] Error Code 45 in Device Manager</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-digital-mastery-of-vhs-visuals/"><u>[Updated] 2024 Approved The Ultimate Guide to Digital Mastery of VHS Visuals</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-premier-gaming-liquids-best-of-breed-lists/"><u>[Updated] In 2024, Premier Gaming Liquids Best of Breed Lists</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-revise-and-reshape-using-the-eraser-tool-in-photoshop-guide/"><u>2024 Approved Revise & Reshape Using the Eraser Tool in Photoshop Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-spectaculous-visual-story-builder-suite/"><u>2024 Approved Spectaculous Visual Story Builder Suite</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhance-nighttime-navigation-with-5-advanced-headlamps/"><u>Enhance Nighttime Navigation with 5 Advanced Headlamps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-12-discontinued-hunter-realm-saved/"><u>Error 12 Discontinued, Hunter Realm Saved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-non-functional-dolby-audio-drivers-in-windows-environment-fixed/"><u>Fixing Non-Functional Dolby Audio Drivers in Windows Environment – Fixed! ✅</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-absent-coprocessor-driver-in-windows-11-resolution-steps/"><u>Fixing the Absent Coprocessor Driver in Windows 11 - Resolution Steps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-solve-windows-failure-to-recognize-your-last-hooked-up-usb-device/"><u>How to Solve Windows Failure to Recognize Your Last Hooked Up USB Device?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/install-required-drivers-on-windows-1187-heres-your-solution/"><u>Install Required Drivers on Windows 11/8/7? Here's Your Solution!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/loss-of-hardware-support-on-win1011-os/"><u>Loss of Hardware Support on Win10/11 OS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722998402599-smooth-sailing-with-the-repaired-fnaf-security-breach-game-for-pc-say-goodbye-to-crashes/"><u>Smooth Sailing with the Repaired FNAF Security Breach Game for PC – Say Goodbye to Crashes!</u></a></li>
 </ul></div>
 

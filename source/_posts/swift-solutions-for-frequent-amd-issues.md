@@ -1,7 +1,7 @@
 ---
 title: Swift Solutions for Frequent AMD Issues
-date: 2024-11-18T06:54:27.480Z
-updated: 2024-11-23T23:17:19.279Z
+date: 2024-11-28T02:38:54.824Z
+updated: 2024-12-02T19:15:31.145Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 2. [**Roll back the faulty AMD driver**](https://zebaoaffiliateprogram.pxf.io/xkwqe1)
 3. **[Repair system files](https://newchic.sjv.io/jzg4zq)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Update the faulty AMD driver (nearly always fixes the problem)
 
  Perhaps the most common cause of the**AMD driver crash** error is an outdated or corrupt AMD driver. So you should update your AMD drivers to see if it fixes the problem.  If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/12/AMD-Radeon-RX-6700-XT.jpg)
 4. After updating, restart your computer to take effect.
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Roll back the faulty AMD driver
@@ -65,12 +65,16 @@ Here’s how:
 2. Locate on **the faulty AMD driver** and double-click on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click the **Driver** tab and then click **Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-1.png)
 4. Click **Yes** to confirm. Then the driver will be restored to a previous version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. **Restart** you computer and check if the problem is resolved.
 
@@ -99,6 +103,10 @@ Here’s how to use Fortect to repair system files on your PC:
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Run SFC scan
 
 **System File Checker** (**SFC**) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files(including those related to **BSOD**). To **run the SFC scan** :
@@ -107,16 +115,8 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/cmd-run-as-admin-1.jpg)
 2. Click**Yes** when prompted to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 4. Restart your computer for the changes to take effect.
@@ -143,17 +143,24 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-chorus-chronicles-a-guide-to-audio-selection-for-ig/"><u>[New] Chorus Chronicles A Guide to Audio Selection for IG</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-become-an-fcp-virtuoso-with-this-guide/"><u>[New] In 2024, Become an FCP Virtuoso with This Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-essential-guide-mac-screen-recording-techniques/"><u>[Updated] In 2024, Essential Guide Mac Screen Recording Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-missing-d3dx9-point-on-windows-11/"><u>Addressing Missing D3DX9 Point on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correct-dell-laptops-ethernet-anomaly/"><u>Correct Dell Laptop's Ethernet Anomaly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/direct-correction-methods-for-usb-mtp-errors/"><u>Direct Correction Methods for USB MTP Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-advice-diagnosing-and-correcting-error-0x0000007e-bsod-issue-on-windows-7-systems/"><u>Expert Advice: Diagnosing and Correcting Error 0X0000007E BSOD Issue on Windows 7 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-get-your-qualcomm-atheros-bluetooth-driver-up-and-running-on-windows-10/"><u>How to Get Your Qualcomm Atheros Bluetooth Driver Up and Running on Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keyboard-issue-solved-functional-on-windows-11/"><u>Keyboard Issue Solved: Functional on Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-your-digital-past-with-fbs-preview-feature/"><u>Navigating Your Digital Past with FB's Preview Feature</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/step-by-step-guide-streaming-twitch-channels-via-your-roku-device/"><u>Step-by-Step Guide: Streaming Twitch Channels via Your Roku Device</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-anatomy-of-a-fake-facebook-profile/"><u>The Anatomy of a Fake Facebook Profile</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-essential-guide-to-producing-quality-igtv-on-smartphonesdslrs/"><u>[New] 2024 Approved Essential Guide to Producing Quality IGTV on Smartphones/DSLRs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-filmoras-peers-the-best-slide-show-template-collections/"><u>[New] Filmora's Peers The Best Slide Show Template Collections</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-device-hubs-dilemrania-45/"><u>[RESOLVED]: Device Hub's Dilemrania #45</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-effortless-passport-photo-creation-get-10-free-images-instantly/"><u>[Updated] Effortless Passport Photo Creation – Get 10 FREE Images Instantly</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-cutting-through-platform-barriers-sharing-tweets-videos-to-snapchat/"><u>2024 Approved Cutting Through Platform Barriers Sharing Tweets' Videos to Snapchat</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/channel-gain-strategies-for-youtube-aspirants-for-2024/"><u>Channel Gain Strategies for YouTube Aspirants for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/cheap-pc-screenshot-and-recording-software-guide-for-2024/"><u>Cheap PC Screenshot & Recording Software Guide for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/display-driver-keeps-crashing-solved/"><u>Display Driver Keeps Crashing [SOLVED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-solutions-for-invalid-or-incompatible-drivers-on-your-windows-machine/"><u>Effective Solutions for Invalid or Incompatible Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eradicated-disk-readwrite-problems/"><u>Eradicated Disk Read/Write Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/exploring-tech-with-tom-advanced-hardware-analysis/"><u>Exploring Tech with Tom - Advanced Hardware Analysis</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-asus-usb20-webcam-issue-in-windows-11/"><u>Fixed ASUS USB2.0 Webcam Issue in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-motorola-moto-g23-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Motorola Moto G23 Phone Screen?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-samsung-galaxy-m14-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Samsung Galaxy M14 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-productivity-a-guide-to-using-the-wolfram-add-on-for-chatgpt/"><u>Maximizing Productivity: A Guide to Using the Wolfram Add-On for ChatGPT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-windows-10-no-response-while-switching-bluetooth/"><u>Solve Windows 10 No-Response While Switching Bluetooth</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-your-computer-when-it-says-denied-access-while-installing-a-usb-drive/"><u>Solve Your Computer When It Says 'Denied Access' While Installing a USB Drive</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winning-against-windows-11-missing-processor-assist-software-quick-fixes-and-steps/"><u>Winning Against Windows 11 Missing Processor Assist Software - Quick Fixes and Steps</u></a></li>
 </ul></div>
 

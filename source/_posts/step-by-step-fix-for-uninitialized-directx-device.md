@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for 'Uninitialized DirectX Device'
-date: 2024-11-19T02:54:39.954Z
-updated: 2024-11-23T22:47:52.966Z
+date: 2024-11-30T19:10:32.640Z
+updated: 2024-12-02T20:10:41.115Z
 tags:
   - win11
   - win10
@@ -21,16 +21,12 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
 
  Microsoft DirectX 9 is a group of technologies designed to make Windows-based computers an ideal platform for running and displaying applications rich in multimedia elements such as full-color graphics, video, 3D animation, and rich audio.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why does this error occur?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/unable-to-initialize-direct-9-device-gta5-warcraft-3-1024x701.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This error can occur for the following reasons:
@@ -71,7 +67,7 @@ This error can occur for the following reasons:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/DEvice-Manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Expand**Display adapters** \> right click your graphics driver > select**Uninstall device** , and check the box**Delete the driver software for this device** .
@@ -95,10 +91,6 @@ This error can occur for the following reasons:
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Update** next to the flagged graphics card driver to automatically download and install the correct version of the driver (you can do this with the FREE version).
 
@@ -127,7 +119,7 @@ This error can occur for the following reasons:
  If it shows**Disabled** or**Not Available** , then head to **[Direct3D Acceleration Not Available](https://tools.techidaily.com/drivereasy/download/)**  to further solve your problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Enable DirectPlay
@@ -136,15 +128,15 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/turn-windows-feature-on-or-off.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can go to**Control Panel** \>**Programs and Features** , then from the sidebar click**Turn Windows features on or off** (or**add/remove Windows Features**).
 
  2) Scroll down to**Legacy Components** , and check the box for**DirectPlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/turn-on-DirectPlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If that doesn’t work then you’ll need to find the**DX9 runtime installer** . ie.**DirectX folder**
 
@@ -155,6 +147,10 @@ This error can occur for the following reasons:
  1) Go to Microsoft’s **[DirectX End-User Runtimes download site](https://www.microsoft.com/en-us/download/details.aspx?id=35)**  and download Microsoft’s DirectX installer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  _This is the only officially supported way to check if the correct DirectX files are currently installed._
 
@@ -176,17 +172,21 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/msconfig.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Service** s tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/disable-all.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then click the**Startup** tab and select**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/open-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Select every startup application and click**Disable** .
 
@@ -204,7 +204,7 @@ This error can occur for the following reasons:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Good to go?
@@ -229,19 +229,24 @@ This error can occur for the following reasons:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/recision-in-yt-imagery-mastering-size-and-ratio-for-2024/"><u>[New] Precision in YT Imagery Mastering Size & Ratio for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-itel-a70-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Itel A70</u></a></li>
-<li><a href="https://win-best.techidaily.com/formatos-de-audio-gratuitos-online-como-convertir-facilmente-aifc-en-wav-sin-costo-alguno/"><u>Formatos De Audio Gratuitos Online: Cómo Convertir Fácilmente AIFC en WAV Sin Costo Alguno.</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-8-plus-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 8 Plus With 7 Methods</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-e13-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Motorola Moto E13 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-assessing-the-financial-impact-of-music-videos/"><u>In 2024, Assessing the Financial Impact of Music Videos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/m1-chip-ipad-pro-2021-review-experience-powerhouse-portability/"><u>M1 Chip iPad Pro 2021 Review: Experience Powerhouse Portability</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mitigating-issues-with-acpi-device-33a0/"><u>Mitigating Issues with ACPI: DEVICE 33A0</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-fix-unrecognized-usb-in-w78/"><u>Step by Step Guide to Fix Unrecognized USB in W7/8</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104801174-ultimate-guide-updating-and-downloading-drivers-for-your-hp-envy-20/"><u>Ultimate Guide: Updating and Downloading Drivers for Your HP Envy 20</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11s-high-disk-usage-explained-and-solved/"><u>Win11's High Disk Usage Explained & Solved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-8-and-7-device-driver-troubleshooting-and-resolution-steps/"><u>Windows 11, 8 & 7 Device Driver Troubleshooting and Resolution Steps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-nocostcam-the-infinite-gaming-screen-record-tool-for-2024/"><u>[Updated] NoCostCam The Infinite Gaming Screen Record Tool for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-flawless-aerial-shots-the-best-gimbals-for-drones-for-2024/"><u>Achieving Flawless Aerial Shots The Best Gimbals for Drones for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beyond-the-screen-top-periscope-substitutes-for-smartphones-for-2024/"><u>Beyond the Screen Top Periscope Substitutes for Smartphones for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/easy-steps-transforming-images-into-motion-a-beginners-guide/"><u>Easy Steps: Transforming Images Into Motion - A Beginner's Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/enlightening-opengl-support-in-icd-drivers/"><u>Enlightening OpenGL Support in ICD Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-cleared-devmgrs-48/"><u>Error Cleared: DevMgr's #48</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-missing-drives-cddvd-troubleshooting-in-win11/"><u>Fixing Missing Drives: CD/DVD Troubleshooting in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guardian-angel-for-graphics-driver-setup/"><u>Guardian Angel for Graphics Driver Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reader-disappearance-on-win11-repair-guide-here/"><u>Reader Disappearance on Win11 - Repair Guide Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/reborn-globe-still-stops-short-no-more-freezing-issues/"><u>Reborn Globe Still Stops Short, No More Freezing Issues!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-functionality-after-an-enex-driver-not-loading-error/"><u>Restoring Functionality After an eNEX Driver Not Loading Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-hp-bluetooth-driver-issue-in-windows-10/"><u>Solved HP Bluetooth Driver Issue in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-warning-bcm20702a0-driver-not-found/"><u>System Warning: BCM20702A0 Driver Not Found</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/three-essential-steps-apple-needs-to-take-to-revitalize-the-vision-pro-insights-from-zdnet/"><u>Three Essential Steps Apple Needs to Take to Revitalize the Vision Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlocking-solution-to-error-code-52/"><u>Unlocking Solution to Error Code 52</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-here-weve-selected-some-of-the-best-online-video-compressors-for-compressing-webm-videos-with-best-quality-for-2024/"><u>Updated Here Weve Selected some of the Best Online Video Compressors for Compressing WebM Videos with Best Quality for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-coprocessor-error-resolution-a-comprehensive-guide-to-fixing-the-missing-driver-dilemma/"><u>Windows 11 Coprocessor Error Resolution - A Comprehensive Guide to Fixing the Missing Driver Dilemma</u></a></li>
+<li><a href="https://media-tips.techidaily.com/windows7-blu-ray-windows7-blu-ray-playback-troubleshooting-guide/"><u>Windows7 でBlu-Rayディスク視聴困難？ - Windows7 Blu-Ray Playback Troubleshooting Guide</u></a></li>
 </ul></div>
 

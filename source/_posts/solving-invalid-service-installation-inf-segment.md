@@ -1,7 +1,7 @@
 ---
 title: Solving Invalid Service Installation INF Segment
-date: 2024-09-04T12:47:16.301Z
-updated: 2024-09-05T12:47:16.301Z
+date: 2024-11-27T17:54:40.111Z
+updated: 2024-12-02T18:06:23.918Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/371f85ea9dfa1babb000dca91773b4eb09149fff5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to a flagged MTP USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -67,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/371f85ea9dfa1babb000dca91773b4eb09149fff5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68744ea8804.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) In Device Manager, if you see the device shown as MTP USB device. You’ll see**MTP USB Device** listed in the list.**Highlight** it then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687724c3ed9.jpg)
@@ -75,9 +83,17 @@ thumbnail: https://thmb.techidaily.com/371f85ea9dfa1babb000dca91773b4eb09149fff5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68796507b2b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) The driver will install automatically. You just need to wait for a while until the installation completes.
 
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
 
@@ -88,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/371f85ea9dfa1babb000dca91773b4eb09149fff5
  1) On the computer with no such problem (The computer can run any Windows version), locate file **mdmcpq.inf** in**C:\\Windows\\INF.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
@@ -111,8 +131,6 @@ thumbnail: https://thmb.techidaily.com/371f85ea9dfa1babb000dca91773b4eb09149fff5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,13 +138,24 @@ thumbnail: https://thmb.techidaily.com/371f85ea9dfa1babb000dca91773b4eb09149fff5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-strategies-for-viewing-your-subscribers/"><u>[New] In 2024, Essential Strategies for Viewing Your Subscribers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-connoisseur-transform-your-sub4sub-experience-now/"><u>[New] In 2024, From Novice to Connoisseur Transform Your Sub4sub Experience Now</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-perfecting-iphone-360-video-posts-for-your-feed/"><u>[New] Perfecting iPhone 360 Video Posts for Your Feed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-analyzing-instagram-de-followings-for-2024/"><u>[Updated] Analyzing Instagram De-Followings for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-ultimate-list-of-no-cost-sound-sites-for-filmmakers/"><u>[Updated] In 2024, The Ultimate List of No-Cost Sound Sites for Filmmakers</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/como-converter-video-mp4-a-fotos-jpg-de-manera-gratuita-en-linea-guia-paso-a-paso-con-herramienta-movavi/"><u>Cómo Converter Video MP4 a Fotos JPG De Manera Gratuita en Línea - Guía Paso a Paso Con Herramienta Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-and-resolving-elans-win11-touchscreen-issues/"><u>Decoding and Resolving Elan's Win11 Touchscreen Issues</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/descargador-gratuito-para-convertir-archivos-wmv-a-formato-mp4-sin-costo/"><u>Descargador Gratuito Para Convertir Archivos WMV a Formato MP4 Sin Costo</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhancing-acpi-functionality-in-asus-with-win10/"><u>Enhancing Acpi Functionality in ASUS with Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104307853-macos-high-sierra-not-detecting-dell-xps-laptop-issue-resolved/"><u>MacOS High Sierra Not Detecting Dell XPS Laptop, Issue Resolved!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-the-art-of-repairing-nvidia-codes/"><u>Mastering the Art of Repairing Nvidia Codes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-where-quality-efficiency-and-fun-meet/"><u>Mondly: Where Quality, Efficiency, and Fun Meet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconciliation-of-drive-malfunction-52/"><u>Reconciliation of Drive Malfunction #52</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-gtx/"><u>Resolving the GTX</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-civi-3-disney-100th-anniversary-edition-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Civi 3 Disney 100th Anniversary Edition Reset Code | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-overcoming-failed-to-install-hcmon-driver-issues/"><u>Troubleshooting Tips: Overcoming 'Failed to Install HCMon Driver' Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-not-acknowledging-kbs/"><u>Windows Not Acknowledging KBs</u></a></li>
+</ul></div>
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

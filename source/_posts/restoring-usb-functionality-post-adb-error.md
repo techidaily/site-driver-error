@@ -1,7 +1,7 @@
 ---
 title: Restoring USB Functionality Post ADB Error
-date: 2024-11-11T23:04:01.977Z
-updated: 2024-11-15T01:29:46.449Z
+date: 2024-11-28T02:07:54.000Z
+updated: 2024-12-02T17:34:25.517Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 
  Here you’ll be shown with two ways to install the correct driver for your ADB device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pick the way you prefer
 
 1. [Install the correct driver for your ADB device manually through Device Manager](https://thefitville.pxf.io/qyo4yy)
@@ -40,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) When finish installing the driver, plug in your Android device.
 
 4) On your keyboard, press the**Windows logo**  key + **R**  key at the same time.
@@ -54,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 5) Type **devmgmt.msc**  in the box and press **Enter**  to open **Device Manager** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Find your Android device. It’s probably under**Other** **devices** section with a yellow mark. Then right-click on it and choose **Update Driver Software…**
 
@@ -70,11 +60,23 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-6.jpg)
  8) Go on to click **Let me pick from a list of device drivers on my computer** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  9) Click **Have Disk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10) Click **Browse**  to choose the Google USB Driver you downloaded at the beginning. Or you can enter the following address into the box.  
  **C:\\Program Files (x86)\\Android\\android-sdk\\extras\\google\\usb\_driver**
@@ -82,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-4.jpg)
  11) Double-click on **Android ADB Interface** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-5.jpg)
 
@@ -99,25 +105,11 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b457d42d6959.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged ADB device driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b457f592ee84.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) After it’s done, please restart your computer to make the new driver take effect.  
  Now your problem should be solved, try to use ADB now.
@@ -141,21 +133,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-best-value-online-image-editors-leading-15-at-zero-cost/"><u>[New] 2024 Approved Best Value Online Image Editors - Leading 15 at Zero Cost</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-dive-deep-into-the-best-practices-for-video-download-success/"><u>[New] 2024 Approved Dive Deep Into the Best Practices for Video Download Success</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-sneaky-soundtrack-watching-youtube-unobtrusively/"><u>[New] 2024 Approved Sneaky Soundtrack Watching YouTube Unobtrusively</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721098332496-bluetooth-unresponsive-windows-10-a-step-by-step-guide/"><u>Bluetooth Unresponsive – Windows 10: A Step by Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-headset-no-sound-on-win10-system/"><u>How To Fix Headset No Sound on WIN10 System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-solve-wireless-keyboard-problems-with-your-windows-computer-easily/"><u>How to Solve Wireless Keyboard Problems with Your Windows Computer Easily</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-change-location-on-yik-yak-for-your-infinix-zero-5g-2023-turbo-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Infinix Zero 5G 2023 Turbo to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gigglegadget-assistant/"><u>In 2024, GiggleGadget Assistant</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-close-up-views-in-minecraft-for-2024/"><u>Mastering Close-Up Views in Minecraft for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-touchpad-fixes-for-windows-users-with-elan/"><u>Mastering Touchpad Fixes for Windows Users with Elan</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/polarrs-complete-guide-mastering-image-editing/"><u>Polarr's Complete Guide Mastering Image Editing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-apple-watch-models-of-2024-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated Apple Watch Models of 2024: Comprehensive Reviews by Tech Gurus</u></a></li>
-<li><a href="https://driver-error.techidaily.com/trouble-with-your-logitech-brio-webcam-post-windows-creators-upgrade-heres-what-i-did-to-find-a-solution-solved/"><u>Trouble with Your Logitech Brio Webcam? Post Windows Creators Upgrade – Here's What I Did to Find a Solution (Solved)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlocking-potential-lenovo-bt-driver-for-win10/"><u>Unlocking Potential: Lenovo BT Driver for Win10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/weve-found-a-quick-resolution-for-your-gpu-related-gaming-woes/"><u>We've Found a Quick Resolution for Your GPU-Related Gaming Woes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repaired-responsive-keys-post-fixing-in-windows-11/"><u>[Repaired]: Responsive Keys Post-Fixing in Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-navigating-youtubes-rules-the-safe-way/"><u>[Updated] In 2024, Navigating YouTube's Rules The Safe Way</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-innovators-crafting-engaging-marvel-escapades/"><u>2024 Approved Innovators Crafting Engaging Marvel Escapades</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experiencing-lenovos-revolutionary-auto-swiveling-laptop-a-firsthand-look-from-ifa-2024-insights-and-impressions-techradar/"><u>Experiencing Lenovo's Revolutionary Auto-Swiveling Laptop: A Firsthand Look From IFA 2024 - Insights & Impressions | TechRadar</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-how-to-resolve-missing-coprocessor-driver-issue-in-windows-10/"><u>Fix: How to Resolve Missing Coprocessor Driver Issue in Windows 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-gpu-acceleration-geforce-rtx-3080-ti-windows-drivers-for-win-11-8-and-7/"><u>Get the Latest GPU Acceleration: GeForce RTX 3080 Ti Windows Drivers for Win 11, 8 & 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-repairing-unverified-device-drivers-overcoming-installation-hurdles-on-computers/"><u>Guide to Repairing Unverified Device Drivers: Overcoming Installation Hurdles on Computers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-realme-narzo-60x-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Realme Narzo 60x 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/join-forces-for-survival-in-the-high-stakes-parkour-world-of-dying-light/"><u>Join Forces for Survival in the High-Stakes, Parkour World of Dying Light.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-drivers-cant-be-removed-solution-discovered/"><u>Nvidia Drivers Can't Be Removed - Solution Discovered</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-missing-driver-alert-finding-and-installing-supported-drives-in-windows-1087/"><u>Resolve Missing Driver Alert: Finding & Installing Supported Drives in Windows 10/8/7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-missing-coprocessor-driver-issue-in-windows-10-a-step-by-step-guide/"><u>Resolving the 'Missing Coprocessor Driver' Issue in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-windows-11-with-no-lag/"><u>Smooth Windows 11 with No Lag</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-correcting-iphone-external-hardware-connection-error-via-mtp-usb-driver-restoration/"><u>Step-by-Step Guide to Correcting iPhone External Hardware Connection Error via MTP USB Driver Restoration</u></a></li>
+<li><a href="https://win-top.techidaily.com/pdf-24/"><u>가장 좋은 무료 PDF 수정기 소품을 선보여주는 지난 24시간 동안의 유리한 선택</u></a></li>
 </ul></div>
 

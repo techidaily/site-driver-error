@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Mouse & Keyboard Glitch on Windows 11"
-date: 2024-11-20T19:31:50.810Z
-updated: 2024-11-24T14:13:33.456Z
+date: 2024-11-26T21:27:39.224Z
+updated: 2024-12-02T20:54:42.176Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Adjust your keyboard settings
@@ -57,13 +53,13 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
@@ -84,20 +80,20 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -122,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Switch to ChromeOS
 
@@ -164,21 +164,20 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-unveiling-the-elite-comprehensive-oculus-review-guide/"><u>[New] 2024 Approved Unveiling the Elite Comprehensive Oculus Review Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-video-enhanced-slideshow-mastery-with-youtube/"><u>[New] In 2024, Video-Enhanced Slideshow Mastery with YouTube</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-issues-with-hps-wireless-keyboards-a-comprehensive-guide/"><u>Diagnosing and Repairing Issues with HP's Wireless Keyboards: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/disabled-issue-resolved-ready-for-use/"><u>Disabled Issue Resolved: Ready for Use</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-start-up-problem-event-number-219/"><u>Driver Start-Up Problem - Event Number 219</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-updating-your-amd-graphics-card-drivers-seamlessly/"><u>Easy Guide: Updating Your AMD Graphics Card Drivers Seamlessly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-on-wudfrd-driver-initialization-id-219/"><u>Error on WudfRd Driver Initialization, ID 219</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-unsupported-intelamd-drivers-premiere-pro/"><u>Fixed: Unsupported Intel/AMD Drivers Premiere Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-troublesome-nvidia-geforce-error-a-closer-look-at-code-0x00-03/"><u>Fixing the Troublesome Nvidia Geforce Error: A Closer Look at Code 0X00 03</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-nubia-red-magic-9-proplus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Nubia Red Magic 9 Pro+ to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/minimalist-obs-adjustments-for-under-500-pcs/"><u>Minimalist OBS Adjustments for Under-$500 PCs</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-novice-to-pro-3-easy-game-recording-options/"><u>New 2024 Approved From Novice to Pro 3 Easy Game Recording Options</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-touchpad-driver-not-working-on-windows-11/"><u>Solved Touchpad Driver Not Working on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tackling-unloading-of-enex-system-drivers-on-windows-11/"><u>Tackling Unloading of eNEX System Drivers on Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-5-no-cost-video-editing-applications-for-windows-11-cropping-trimming-and-more/"><u>Top 5 No-Cost Video Editing Applications for Windows 11: Cropping, Trimming & More</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-modern-computing-toms-hardware-deep-dive/"><u>Unveiling the Secrets of Modern Computing: Tom's Hardware Deep Dive</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-digital-artisans-exclusive-summit/"><u>[New] 2024 Approved Digital Artisans' Exclusive Summit</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-accelerating-artistic-outputs-fast-tracked-google-collage-creation-for-2024/"><u>[New] Accelerating Artistic Outputs Fast-Tracked Google Collage Creation for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-onestepcams-evaluation-are-we-overlooking-gems/"><u>[New] OneStepCams Evaluation Are We Overlooking Gems?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-high-definition-audio-device-driver-issue-after-windows-7-install/"><u>[Solved] High Definition Audio Device Driver Issue After Windows 7 Install</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-8-linux-programs-for-media-makers/"><u>[Updated] In 2024, Best 8 Linux Programs for Media Makers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-detected-ideport0-control-error/"><u>Driver's Detected: Ideport0 Control Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-solutions-to-fix-unrecognized-driver-installations-for-compatibility/"><u>Effective Solutions to Fix Unrecognized Driver Installations for Compatibility</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-marvell-91xx-driver-issue-on-windows-11-solved/"><u>Fix Marvell 91Xx Driver Issue on Windows 11 [Solved]</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210934932-9781782497820-mindfulness-and-grief/"><u>Mindfulness and Grief | Free Book</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/seamless-blend-inserting-music-into-fb-video-posts/"><u>Seamless Blend Inserting Music Into FB Video Posts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-navigation-a-win10-update/"><u>Seamless Navigation: A Win10 Update</u></a></li>
+<li><a href="https://facebook.techidaily.com/tech-companies-role-in-ensuring-a-safer-digital-space-against-fraudulent-ads/"><u>Tech Companies' Role in Ensuring a Safer Digital Space Against Fraudulent Ads</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-videography-equipment/"><u>Top Videography Equipment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-invalid-drivers-steps-to-rectify-unrecognized-installations/"><u>Troubleshooting Invalid Drivers: Steps to Rectify Unrecognized Installations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-serial-linkup-windows-system-recovery-tips/"><u>USB Serial Linkup: Windows System Recovery Tips</u></a></li>
 </ul></div>
 

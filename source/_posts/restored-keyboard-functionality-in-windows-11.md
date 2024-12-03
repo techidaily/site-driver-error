@@ -1,7 +1,7 @@
 ---
 title: "[Restored] Keyboard Functionality in Windows 11"
-date: 2024-11-18T21:37:08.455Z
-updated: 2024-11-23T18:29:53.547Z
+date: 2024-11-29T04:19:12.226Z
+updated: 2024-12-03T04:54:59.925Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Check your USB port is working
@@ -49,13 +49,13 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Keyboard** .
 
@@ -66,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Reinstall your keyboard driver
 
@@ -83,17 +87,9 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -118,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -126,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ## Method 5: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -164,20 +164,22 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-cards-not-shown-on-windows-machine/"><u>[FIXED] Cards Not Shown on Windows Machine</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-designs-using-color-principles-wisely/"><u>[New] Harmonizing Designs Using Color Principles Wisely</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-lunapics-secret-to-stunning-visuals/"><u>[Updated] Unlock LunaPic's Secret to Stunning Visuals</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://win-info.techidaily.com/erfolgreich-wiederherstellen-sie-komprimierte-bilder-ein-umfassender-leitfaden/"><u>Erfolgreich Wiederherstellen Sie Komprimierte Bilder: Ein Umfassender Leitfaden</u></a></li>
-<li><a href="https://driver-error.techidaily.com/from-absence-to-presence-touchpad-driver-reinstated/"><u>From Absence to Presence: Touchpad Driver Reinstated</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-an-hp-wireless-keyboard-that-isnt-responding-solutions-inside/"><u>How to Fix an HP Wireless Keyboard That Isn't Responding - Solutions Inside</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-print-secured-pdf-free-easy-and-fast/"><u>How to Print Secured PDF - Free, Easy & Fast</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/inspire-your-fitness-journey-with-20-best-exercising-tracks/"><u>Inspire Your Fitness Journey with 20 Best Exercising Tracks</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-add-emojis-to-videos-on-youtubefacebooksnapchat-step-by-step-guide-for-2024/"><u>New Add Emojis to Videos on YouTube/Facebook/Snapchat Step by Step Guide for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-innovations-in-audio-production-adding-subtle-fading-techniques-to-your-toolkit/"><u>New In 2024, Innovations in Audio Production Adding Subtle Fading Techniques to Your Toolkit</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/604517-9781101478196-think-your-troubles-away/"><u>Think Your Troubles Away | Free Book</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-wireless-keyboard-on-windows/"><u>Troubleshooting Guide: Fixing a Nonfunctional Wireless Keyboard on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-issues-with-unrecognized-final-usb-device-on-windows/"><u>Troubleshooting Guide: Resolving Issues with Unrecognized Final USB Device on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103778364-your-pc-graphics-issues-let-us-fix-your-nvidia-rtx-gaming-woes/"><u>Your PC Graphics Issues? Let Us Fix Your Nvidia RTX Gaming Woes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-7-best-total-war-games/"><u>[New] In 2024, The 7 Best Total War Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtubes-iconic-milestone-markers-for-viewership/"><u>[New] YouTube's Iconic Milestone Markers for Viewership</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/49831137-updated-economical-growth-methodology-subscribe-now/"><u>[Updated] Economical Growth Methodology - Subscribe Now!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-hub-for-newbies-in-cinematic-craftsmanship-for-2024/"><u>[Updated] YouTube Hub for Newbies in Cinematic Craftsmanship for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/delving-into-real-time-communication-services-rcs-a-complete-breakdown/"><u>Delving Into Real-Time Communication Services (RCS): A Complete Breakdown</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-iphone-usb-device-recognition-errors-with-easy-to-follow-mtp-driver-tips/"><u>How to Overcome iPhone USB Device Recognition Errors with Easy-to-Follow MTP Driver Tips</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-dismantling-the-economics-of-youtubes-ambitious-shorts-fund/"><u>In 2024, Dismantling the Economics of YouTube's Ambitious Shorts Fund</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a78-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A78 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/perfect-installation-despite-past-errors/"><u>Perfect Installation Despite Past Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-driver-error-code-52/"><u>Solved: Driver Error Code 52</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-bluetooth-errors-with-lenovo-on-windows-10/"><u>Solving Bluetooth Errors with Lenovo on Windows 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-for-integrating-subsmoviesclub-extension-with-kodi-on-nexusmatrix-systems/"><u>Step-by-Step Tutorial for Integrating Subsmovies.club Extension with Kodi on Nexus/Matrix Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-portable-game-systems/"><u>Top-Rated Portable Game Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-recovering-windows-11s-lost-coprocessor-driver/"><u>Troubleshooting Guide: Recovering Windows 11'S Lost Coprocessor Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wacom-revolution-device-connection-ended-forever/"><u>Wacom Revolution: Device Connection Ended Forever</u></a></li>
+<li><a href="https://driver-error.techidaily.com/what-to-do-when-dolby-digital-sound-isnt-playing-on-windows-answer-found/"><u>What to Do When Dolby Digital® Sound Isn’t Playing on Windows – Answer Found!🔧</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-78-usb-reconnection-a-step-by-point-guide/"><u>Win 7/8 USB Reconnection: A Step-By Point Guide</u></a></li>
 </ul></div>
 

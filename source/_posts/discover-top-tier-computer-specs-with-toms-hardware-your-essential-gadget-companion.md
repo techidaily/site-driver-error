@@ -1,7 +1,7 @@
 ---
 title: Discover Top-Tier Computer Specs with Tom's Hardware - Your Essential Gadget Companion
-date: 2024-11-17T17:02:52.906Z
-updated: 2024-11-24T02:42:46.613Z
+date: 2024-11-27T06:25:22.833Z
+updated: 2024-12-03T03:21:42.293Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,20 +66,22 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-add-youtube-melodies-in-imovie-without-hurdles/"><u>[New] 2024 Approved Add YouTube Melodies in iMovie Without Hurdles</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-exploring-the-versatility-of-magix-designer/"><u>[New] In 2024, Exploring the Versatility of MAGIX Designer</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-error-code-45-in-device-manager/"><u>[SOLVED] Error Code 45 in Device Manager</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-free-and-legal-youtube-downloader-tools-recommendations/"><u>[Updated] Free & Legal YouTube Downloader Tools - Recommendations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/aiding-academic-success-discover-the-6-greatest-study-apps-for-kids-and-their-guardians/"><u>Aiding Academic Success: Discover the 6 Greatest Study Apps for Kids and Their Guardians</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-absent-coprocessor-driver-in-windows-11-resolution-steps/"><u>Fixing the Absent Coprocessor Driver in Windows 11 - Resolution Steps</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/hdr-mastery-the-complete-sdr-to-hdr-transformation-for-2024/"><u>HDR Mastery The Complete SDR-to-HDR Transformation for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nubia-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nubia Phone Screen?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/install-required-drivers-on-windows-1187-heres-your-solution/"><u>Install Required Drivers on Windows 11/8/7? Here's Your Solution!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719578596250-mondly-ukrainians-embrace-free-education/"><u>Mondly: Ukrainians, Embrace FREE Education!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-windows-enter-key-malfunction/"><u>Overcoming Windows Enter Key Malfunction</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pre-order-the-high-tech-apple-vision-pro-now-choose-between-512gb-and-1tb-models-idigitaltimes/"><u>Pre-Order the High-Tech Apple Vision Pro Now – Choose Between 512GB and 1TB Models! | iDigitalTimes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/streamlined-pci-hardware-software/"><u>Streamlined PCI Hardware Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-unlocking-the-power-of-hardware/"><u>Tom's Tech Insights: Unlocking the Power of Hardware</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-cuick-fix-for-non-responsive-qualcomm-atheros-bluetooth-devices/"><u>Windows Cuick Fix for Non-Responsive Qualcomm Atheros Bluetooth Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maximize-your-hd-vids-experience-the-ultimate-android-apps-list/"><u>[New] Maximize Your Hd Vids Experience The Ultimate Android Apps List</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-pros-choice-the-best-screen-recorders-for-editing-for-2024/"><u>[Updated] Pro's Choice The Best Screen Recorders for Editing for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-inserting-music-in-your-ppt-masterpieces/"><u>[Updated] Step-by-Step Inserting Music in Your PPT Masterpieces</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-honor-100-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-xiaomi-redmi-k70-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Xiaomi Redmi K70 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhanced-sm-bus-functionality-in-win11/"><u>Enhanced Sm Bus Functionality in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphical-access-restriction-in-win11-os/"><u>Graphical Access Restriction in Win11 OS</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-add-font-effect-for-2024/"><u>How to Add Font Effect for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-secrets-to-successful-scrape-mass-tiktok-videos/"><u>In 2024, Secrets to Successful Scrape Mass TikTok Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-evaluation-of-the-samsung-galaxy-watch3-blending-traditional-style-with-state-of-the-art-features/"><u>In-Depth Evaluation of the Samsung Galaxy Watch3: Blending Traditional Style With State-of-the-Art Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/installing-sporthd-plugin-for-enhanced-viewing-tips-for-kodi-users-version-2019/"><u>Installing SportHD Plugin for Enhanced Viewing - Tips for Kodi Users Version 20/19</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pioneering-pcs-uncovered-in-storage-boxes-housekeepers-stumble-upon-original-q1-desktops-with-vintage-intel-processing-technology-and-minimal-ram/"><u>Pioneering PCs Uncovered in Storage Boxes: Housekeepers Stumble Upon Original Q1 Desktops with Vintage Intel Processing Technology and Minimal RAM</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repairing-missing-windows-enter-functionality/"><u>Repairing Missing Windows Enter Functionality</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-post-update-issues-with-realtek-lan-controls/"><u>Solving Post-Update Issues with Realtek LAN Controls</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-windows-sm-bus-controller-hurdles/"><u>Solving Windows SM Bus Controller Hurdles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-wireless-mouse-disconnects-regularly/"><u>Windows Wireless Mouse Disconnects Regularly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wireless-mastery-quick-solutions-for-windows-users/"><u>Wireless Mastery: Quick Solutions for Windows Users</u></a></li>
 </ul></div>
 

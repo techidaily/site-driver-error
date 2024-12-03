@@ -1,7 +1,7 @@
 ---
 title: Windows Cannot Locate a Suitable Printer Driver [SOLVED]
-date: 2024-11-23T10:14:10.315Z
-updated: 2024-11-24T08:04:24.030Z
+date: 2024-11-28T22:16:28.947Z
+updated: 2024-12-02T16:47:37.361Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Update your printer driver**
 
  This problem may occur if you have the wrong printer driver or it’s out of date. So you should update your printer driver to see if it fixes the issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -44,16 +48,12 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd27b9a107e9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4)**Restart** your computer and see if the **Windows cannot locate a suitable printer driver**  problem has been solved. If yes, then great! But if the error still pops up, you should try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 2: Set printer share permissions**
@@ -75,33 +75,33 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af921398c56a.png)
 2. Under**Printers** , right-click on**your printer** and click **Printer properties**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af6658ae1882.jpg)
 3. Click the**Sharing** tab, tick the box that says **Share this printer** , click **Apply** \->   **OK.**  
 
 **![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af922bdb75cb.png)**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Make sure you do steps 4-6 on**EVERY** computer that needs access to the printer.
 4. On your keyboard, press **the Windows logo key** and **R**  at the same time. Then copy & paste **control /name Microsoft.NetworkAndSharingCenter** into the box and click **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af66a1b5c069.png)
 5. Click**Change advanced sharing settings**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af66a50e9add.jpg)
 6. Under**Guest or Public (current profile)** , click the**Turn on network discovery** option and the **Turn on file and printer sharing** option. Click **Save changes**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af66bb7aee19.jpg)
 7. Restart your computer and check if the**Windows cannot locate a suitable printer driver** issue has been fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -125,21 +125,16 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-prosperity-through-streaming-a-youtube-money-blueprint/"><u>[New] 2024 Approved Prosperity Through Streaming A YouTube Money Blueprint</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-small-businesss-safest-video-conferencing-top-picks/"><u>[Updated] Small Business's Safest Video Conferencing Top Picks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-code-1002-no-intelladapter-found/"><u>Error Code 1002: No IntellAdapter Found</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-7-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-5-best-online-mp3-tag-editor-that-you-cant-miss/"><u>In 2024, 5 Best Online MP3 Tag Editor That You Cant Miss</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-13-pro-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 13 Pro with iTunes | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/inkrementelles-daten-sync-auf-windows-11-8-und-7-eine-schritt-fur-schritt-anleitung-zum-herstellen/"><u>Inkrementelles Daten-Sync Auf Windows 11, 8 Und 7: Eine Schritt-Für-Schritt-Anleitung Zum Herstellen</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102086831-iphone-se-not-detected-on-fedora-core-os-solution-found-here/"><u>IPhone SE Not Detected on Fedora Core OS - Solution Found Here!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-response-from-chromebook-pixel-to-fedora-workstation-heres-the-fix/"><u>No Response From Chromebook Pixel to Fedora Workstation? Here's the Fix!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/picture-perfectionism-top-tools-and-sites-for-superior-photo-frames-for-2024/"><u>Picture Perfectionism Top Tools & Sites for Superior Photo Frames for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/pinterest-vid-extractor-guide-top-5-free-tools-summary/"><u>Pinterest Vid Extractor Guide Top 5 FREE Tools Summary</u></a></li>
-<li><a href="https://driver-error.techidaily.com/recovered-overcoming-default-settings-glitches-in-amd-radeon-wattman-systems/"><u>Recovered! Overcoming Default Settings Glitches in AMD Radeon Wattman Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-repeated-uninstalls-of-nvidia-software/"><u>Solving Repeated Uninstalls of Nvidia Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-your-final-usb-gadget-issue-unrecognized-by-windows/"><u>Solving Your Final USB Gadget Issue: Unrecognized by Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-iphone-mtp-connection-problems-and-solving-usb-driver-issues/"><u>Troubleshooting iPhone MTP Connection Problems and Solving USB Driver Issues</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-free-fires-audio-transformation-tricks/"><u>[New] In 2024, Free Fire's Audio Transformation Tricks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-beginners-blueprint-for-youtube-success-setting-up-and-making-money/"><u>[Updated] 2024 Approved Beginner’s Blueprint for YouTube Success Setting Up & Making Money</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-search-error-on-windows/"><u>Driver Search Error on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effiziente-losung-fur-hangen-und-verzogerungen-wahrend-des-abspielens-von-mkv-dateien-unter-windows-and-macos/"><u>Effiziente Lösung Für Hängen Und Verzögerungen Während Des Abspielens Von MKV-Dateien Unter Windows & macOS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-and-prevent-amd-radeon-wattman-rebooting-issues-comprehensive-guide/"><u>How To Fix And Prevent AMD Radeon WattMan Rebooting Issues - Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/logitech-not-recognized-win1011-remedy-found/"><u>Logitech Not Recognized: Win10/11 Remedy Found</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-hassle-guide-addressing-unavailable-drivers-in-itbm-systems/"><u>No Hassle Guide: Addressing Unavailable Drivers in ITBM Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-on-a-dime-your-guide-to-vr-selection/"><u>Quality on a Dime: Your Guide to VR Selection</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-itel-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Itel on Mac</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-honor-x9b-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Honor X9b to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/xbox-peripheral-driver-solutions-for-windows-10-and-earlier-versions/"><u>Xbox Peripheral Driver Solutions for Windows 10 and Earlier Versions</u></a></li>
 </ul></div>
 

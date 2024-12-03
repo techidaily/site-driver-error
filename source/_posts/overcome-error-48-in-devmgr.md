@@ -1,7 +1,7 @@
 ---
 title: Overcome Error #48 in DevMgr
-date: 2024-11-20T06:46:57.267Z
-updated: 2024-11-23T21:08:50.506Z
+date: 2024-11-28T06:47:56.682Z
+updated: 2024-12-03T01:19:10.479Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ To check if the device is running into the error code 48:
 
 `"The driver for this device has been blocked from starting because it is known to have problems with Windows. Contact the hardware vendor for a new driver. (Code 48)"`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Windows users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -37,6 +41,10 @@ To check if the device is running into the error code 48:
 2. **[Disable Hyper-V](https://godlikehost.sjv.io/vnbxzv)**
 3. **[Turn off Memory Integrity in Core isolation](https://aligracehair.sjv.io/y209r3)**
 4. **[Run the System File Checker and the Windows Memory Diagnostic Test](https://parisrhonecom.sjv.io/zqobqr)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Update your driver
 
@@ -56,10 +64,6 @@ Or
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2 – Automatically update drivers
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) .
@@ -72,6 +76,10 @@ Or
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-drivers-with-Driver-Easy.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and [manually install them, the normal Windows way](https://tools.techidaily.com/drivereasy/download/) .)
@@ -94,6 +102,10 @@ Or
 ![appwiz.cpl](https://images.drivereasy.com/wp-content/uploads/2021/04/appwiz.cpl_.jpg)
 2. Click**Turn Windows features on or off** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn Windows features on or off](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-Windows-features-on-or-off.jpg)
 3. In the Window that pops up,**uncheck the box** next to**Hyper-V** and click**OK** to disable the Hyper-V feature.  
 
@@ -101,10 +113,14 @@ Or
 4. Restart Windows 10 to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this fix didn’t work, try the next fix to turn off Memory Integrity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Turn off Memory Integrity in Core isolation
 
@@ -118,22 +134,10 @@ To turn off Memory Integrity, simply follow the steps below:
 ![Open Core isolation](https://images.drivereasy.com/wp-content/uploads/2021/04/Open-Core-isolation.jpg)
 2. **Turn off** the toggle under**Memory integrity** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn off Memory integrity](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Memory-integrity.jpg)
 3. Restart Windows 10 and reinstall the latest driver of the problematic device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 See if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Run the System File Checker and the Windows Memory Diagnostic Test
 
@@ -148,7 +152,7 @@ See if this fix works. If not, try the next fix, below.
 3. Close the Command Prompt window after the process ie complete.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **To run the Windows Memory Diagnostic Test:**
@@ -161,10 +165,6 @@ See if this fix works. If not, try the next fix, below.
 3. Select**Restart now and check for problems (recommended)** to run the test immediately. Before restarting, you need to save your work and close any open programs. It may take some time to complete the test.  
 
 ![Check your computer for memory problems](https://images.drivereasy.com/wp-content/uploads/2021/04/Check-your-computer-for-memory-problems.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  See if there is something wrong with the memory on your PC. If everything is OK, open Device Manager to check if the “The software for this device has been blocked from starting because it is known to have problems with Windows (Code 48)” error persists.
 
@@ -192,22 +192,20 @@ See if this fix works. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-hololens-unravelled-microsofts-augmented-future-insight-for-2024/"><u>[Updated] HoloLens Unravelled Microsoft’s Augmented Future Insight for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-bringing-your-instagram-aesthetic-to-life-with-square-videos-in-imovie/"><u>[Updated] In 2024, Bringing Your Instagram Aesthetic to Life with Square Videos in iMovie</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-capture-every-word-4-tips-for-fb-video-transcripts/"><u>[Updated] In 2024, Capture Every Word 4 Tips for FB Video Transcripts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-innovation-in-action-reviewing-vidmas-new-screen-recording-features/"><u>[Updated] In 2024, Innovation in Action? Reviewing Vidma's New Screen Recording Features</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-mastering-the-art-of-making-dormant-facebook-vids-pop-up-again/"><u>[Updated] In 2024, Mastering the Art of Making Dormant Facebook Vids Pop Up Again</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-turn-text-into-voice-mastering-discords-speech-features/"><u>[Updated] In 2024, Turn Text Into Voice Mastering Discord's Speech Features</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-unresponsive-windows-10-a-step-by-step-guide/"><u>Bluetooth Unresponsive – Windows 10: A Step by Step Guide!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-code-43-error-on-your-gtx-950-under-windows-10-detailed-guide/"><u>Fixing the Code 43 Error on Your GTX 950 Under Windows 10 [Detailed Guide]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-the-iphone-mass-storage-error-with-easy-steps/"><u>How to Fix the iPhone Mass Storage Error with Easy Steps</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/lock-your-motorola-edge-40-neo-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Motorola Edge 40 Neo Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/seamless-sync-mouse-and-window-harmony/"><u>Seamless Sync: Mouse & Window Harmony</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-5-ways-to-record-youtube-live-stream/"><u>Top 5 Ways to Record YouTube Live Stream</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-battlenee-error-code-1450-resolve-failed-driver-loading-problems/"><u>Troubleshooting Battlenee Error Code 1450: Resolve Failed Driver Loading Problems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-activating-safe-mode-on-windows-8-to-remove-problematic-graphics-card-drivers/"><u>Troubleshooting Tips: Activating Safe Mode on Windows 8 to Remove Problematic Graphics Card Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unraveling-intel-mmc-driver-woes/"><u>Unraveling Intel MMC Driver Woes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-new-tech-secrets-toms-authoritative-reviews-and-advice-on-hardware-purchases/"><u>Unveiling New Tech Secrets: Tom's Authoritative Reviews and Advice on Hardware Purchases</u></a></li>
-<li><a href="https://driver-error.techidaily.com/usb-earbuds-not-working-on-win10-simple-fix-guide/"><u>USB Earbuds Not Working on WIN10 - Simple Fix Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-achieve-striking-visuals-your-guide-to-uploading-at-correct-dimensions/"><u>[New] 2024 Approved Achieve Striking Visuals Your Guide to Uploading at Correct Dimensions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-hiring-heroes-the-most-motivating-vids-of-the-year-1-10/"><u>[New] 2024 Approved Hiring Heroes The Most Motivating Vids of the Year #1-10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-access-exclusive-video-artwork-free-flawless-and-fast-for-2024/"><u>[New] Access Exclusive Video Artwork – Free, Flawless, and Fast for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-heroic-duel-noir-knights-vs-aurora-guardians/"><u>[New] Heroic Duel Noir Knights Vs Aurora Guardians</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ultimate-guide-to-iphones-macro-and-close-up-photography-tactics/"><u>[New] In 2024, Ultimate Guide to iPhone's Macro & Close-Up Photography Tactics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-upload-videos-to-igtv-in-2024/"><u>[Updated] How to Upload Videos to IGTV, In 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-masterful-methods-for-keeping-track-of-messenger-communications/"><u>2024 Approved Masterful Methods for Keeping Track of Messenger Communications</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-inaccessible-bcm20702a0-error/"><u>Driver Inaccessible: BCM20702A0 Error</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-amplify-audience-connection-best-creative-reacting-techniques/"><u>In 2024, Amplify Audience Connection Best Creative Reacting Techniques</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-bluetooth-driver-for-windows-11-download-easily/"><u>Intel Bluetooth Driver for Windows 11 Download Easily</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-mp4-tag-editor-reviews-top-picks-for-windows-and-mac-users/"><u>New In 2024, MP4 Tag Editor Reviews Top Picks for Windows and Mac Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-unsupported-device-errors-in-your-it-driver-setup/"><u>Resolving Unsupported Device Errors in Your IT Driver Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-unrecognized-last-usb-device-by-windows/"><u>Troubleshooting Steps for Unrecognized Last USB Device by Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-how-to-resolve-access-denied-error-during-usb-device-installation/"><u>Troubleshooting: How to Resolve 'Access Denied' Error During USB Device Installation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-touchpad-glitches-resolved-quickly/"><u>Win11 Touchpad Glitches: Resolved Quickly</u></a></li>
 </ul></div>
 

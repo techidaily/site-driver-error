@@ -1,7 +1,7 @@
 ---
 title: Preventative Measures for Stable Nvidia Codes
-date: 2024-09-04T12:45:25.732Z
-updated: 2024-09-05T12:45:25.732Z
+date: 2024-11-29T18:46:24.560Z
+updated: 2024-12-03T06:10:59.642Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 
 **Nvidia drivers crashing** on your computer? Don’t worry – it’s usually not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for Nvidia drivers crashing
 
  Here are seven fixes that have helped other users resolved the Nvidia drivers crashing problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 5. [**Update DirectX**](https://laganoo.pxf.io/5g6ygn)
 6. **[Repair system files](https://newchic.sjv.io/jzg4zq)**
 7. [**Check for hardware issues**](https://bellelily.pxf.io/m5azgm)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Uninstall your Nvidia display driver
 
@@ -67,25 +75,21 @@ Here is how to uninstall your Nvidia display drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594695d7c27.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Restart your computer, then keep an eye on your computer to see if the display driver keeps crashing issue has been resolved. If yes, then congrats! But if the issue remains, please try **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust Nvidia Control Panel settings
 
@@ -102,21 +106,17 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) In Nvidia Control Panel, click**Manage 3D settings** , then in the right panel, choose**Prefer maximum performance** in Power management mode and**Off** for Vertical sync accordingly. Once done, click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-225.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Close the window.
 
 5) Check to see if the Nvidia drivers crashing issue is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
@@ -131,12 +131,6 @@ Here is how to do it:
 
 If Nvidia still keeps crashing, please move on to Fix 5, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5:**Update DirectX**
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. If you’re running an old version of DirectX, it’s possible that it won’t be able to handle the graphics rendering and processing task. So it’s important that you run the latest version of DirectX to see if it resolves the Nvidia drivers keep crashing problem.
@@ -185,11 +179,9 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
@@ -204,12 +196,6 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Check for hardware issues
 
  If the fixes above didn’t work, then the problem probably lies with the hardware. It can be an overheating, dust problem of your graphics card, or the components not being connected properly etc. So you should remove your graphics card from the computer case to do proper troubleshooting. Please make sure that you do this only when you know what you’re doing, since any mishandling with the hardware could possibly render your graphics card or your computer useless.
@@ -228,8 +214,6 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -237,6 +221,26 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-unlocking-audio-potential-3-free-strategies-for-syncing-music-with-iphone-films-for-2024/"><u>[New] Unlocking Audio Potential 3 Free Strategies for Syncing Music with iPhone Films for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-whats-new-on-facebook-an-updated-look-for-2024/"><u>[New] What's New on Facebook - An Updated Look for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-thrill-seekers-guide-games-like-grand-theft-auto-v/"><u>[Updated] 2024 Approved Thrill Seekers' Guide Games Like Grand Theft Auto V</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bcm20702a0-hardware-error-notification/"><u>BCM20702A0 Hardware Error Notification</u></a></li>
+<li><a href="https://driver-error.techidaily.com/closed-case-missing-driver-for-amdintel-video-in-premier-pro/"><u>Closed Case: Missing Driver for AMD/Intel Video in Premier Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-the-causes-of-drastic-fps-fluctuations-a-comprehve-solution-guide/"><u>Decoding the Causes of Drastic FPS Fluctuations: A Comprehve Solution Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/explore-these-top-eagues-where-you-can-snag-the-finest-laptops-available/"><u>Explore These Top Ⅼeagues: Where You Can Snag the Finest Laptops Available</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-faulty-installations-how-to-validate-device-drivers-for-your-system/"><u>Fixing Faulty Installations: How to Validate Device Drivers for Your System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-gtx-43/"><u>Fixing the GTX 지오크스 43 오류 문제: 웹사이트에서 찾기 위한 금고 해결 방식</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-outdated-usb-composite-device-issues/"><u>How to Fix: Outdated USB Composite Device Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-the-right-network-card-driver-for-a-dell-on-windows-7/"><u>How to Install the Right Network Card Driver for a Dell on Windows 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-honor-70-lite-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Honor 70 Lite 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-is-active-setting-new-standards-in-screen-recording/"><u>In 2024, Is Active Setting New Standards in Screen Recording?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-device-compatibility-installing-necessary-drivers-for-windows-11-8-and-7-machines/"><u>Mastering Device Compatibility: Installing Necessary Drivers for Windows 11, 8 & 7 Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-hidden-settings-with-ease/"><u>Navigating Windows 11 Hidden Settings with Ease</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-lost-pci-controller-in-windows/"><u>Restoring Lost PCI Controller in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-restoring-amd-wattman-settings-post-crash-successfully-solved/"><u>Troubleshooting and Restoring AMD Wattman Settings Post-Crash Successfully Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unresponsive-windows-10-audio-usb-speakermicrocteased/"><u>Unresponsive Windows 10 Audio: USB Speaker/Microcteased</u></a></li>
+</ul></div>
 

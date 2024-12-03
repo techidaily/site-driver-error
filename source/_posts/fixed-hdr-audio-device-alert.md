@@ -1,7 +1,7 @@
 ---
 title: "Fixed: HDR Audio Device Alert"
-date: 2024-09-04T12:49:03.503Z
-updated: 2024-09-05T12:49:03.503Z
+date: 2024-12-01T23:49:08.531Z
+updated: 2024-12-03T02:47:50.607Z
 tags:
   - win11
   - win10
@@ -61,13 +61,25 @@ Follow the steps below to update the driver manually:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5938caede215f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Select**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5938cb48b4f49.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Select**Let me pick from a list of available drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5938cb6e7ad74.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Ensure “Show compatible hardware” is checked. Under Model, select**High Definition Audio Device** and click**Next** .
 
@@ -77,14 +89,12 @@ Follow the steps below to update the driver manually:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5938cc38bda1b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8) Check to see if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Update the driver automatically
 
  The steps above may help resolve the problem. But if they don’t, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to help update the driver automatically.
@@ -99,28 +109,14 @@ Follow the steps below to update the driver manually:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6c113769dfc.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update** button next to a flagged display audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6c114ee0386.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) After updating the driver, check to see if the problem is resolved.
 
  Hope the solution here will help you fix the issue. If you have any questions, please leave your comments below. Thanks！
@@ -133,8 +129,6 @@ Follow the steps below to update the driver manually:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,6 +136,23 @@ Follow the steps below to update the driver manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-zero-to-hero-on-ig-how-to-garner-a-million-fans-fast-track/"><u>[New] 2024 Approved From Zero to Hero on IG How to Garner a Million Fans Fast-Track</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-essential-android-mobas-the-ultimate-list/"><u>[Updated] 2024 Approved Essential Android MOBAs The Ultimate List</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/bypassing-edge-academy-video-free-study-strategies-for-2024/"><u>Bypassing EDGE Academy Video-Free Study Strategies for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-controller-malfunction-alert/"><u>Corrected Controller Malfunction Alert</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-card-limitation-detected-on-win10-system/"><u>Graphics Card Limitation Detected on Win10 System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-addressing-and-repairing-the-failed-hcmon-driver-install-problem/"><u>Guide: Addressing and Repairing the Failed Hcmon Driver Install Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-the-access-denied-error-during-usb-setup/"><u>How to Overcome the 'Access Denied' Error During USB Setup</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-note-30-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Note 30 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-processor-driver-disappeared-on-windows-11-heres-how-you-can-quickly-restore-it/"><u>Intel Processor Driver Disappeared on Windows 11? Here's How You Can Quickly Restore It!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overhauling-enex-driver-failure-in-windows-11-environment/"><u>Overhauling eNEX Driver Failure in Windows 11 Environment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revolutionizing-win11s-bus-control-mechanism/"><u>Revolutionizing Win11's Bus Control Mechanism</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ri-conversione-m4a-a-flv-senza-costi-trasforma-i-tuoi-file-gratuitamente-con-moveave/"><u>Ri-Conversione M4A a FLV Senza Costi - Trasforma I Tuoi File Gratuitamente Con Moveave</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/shared-experiences-the-unspoken-challenges-of-moving-to-ios-18-on-iphones-zdnet-insights/"><u>Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essence-and-impact-of-artificial-intelligence/"><u>The Essence & Impact of Artificial Intelligence</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-a-hassle-free-windows-free-experience-with-discounted-hp-chromebook-insights-and-tips/"><u>Unlocking a Hassle-Free Windows-Free Experience with Discounted HP Chromebook: Insights & Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-store-apps-storage-entry/"><u>Unlocking the Secrets of Store Apps Storage Entry</u></a></li>
+</ul></div>
 

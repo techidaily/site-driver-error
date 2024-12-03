@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 and NVIDIA GeForce GTX 950 Code 43 Error: Solutions and Workarounds"
-date: 2024-11-20T10:03:01.611Z
-updated: 2024-11-23T21:55:05.900Z
+date: 2024-11-25T23:42:28.043Z
+updated: 2024-12-02T21:32:17.507Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** .
@@ -51,22 +47,22 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode.
@@ -74,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded.
 
@@ -97,11 +97,19 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Option 2: Update Windows 10**
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click the**Check for updates** button to see if there are any new updates available.
 
@@ -110,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
  3) If new updates are available, just download and then update them as instructed.
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see.
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 4: Reinstall Windows 10**
 
@@ -155,19 +155,15 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-virtual-voyages-unveiled-the-ultimate-gaming-odyssey-top-10/"><u>[New] 2024 Approved Virtual Voyages Unveiled The Ultimate Gaming Odyssey (Top 10)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-nvidia-kernel-mode-driver-crash/"><u>[Solved] NVIDIA Kernel Mode Driver Crash</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-online-visionaries-subscriber-play-button-triumphs-for-2024/"><u>[Updated] Online Visionaries Subscriber, Play Button Triumphs for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/clear-the-path-to-chatting-ease-on-your-pc/"><u>Clear the Path to Chatting Ease on Your PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/complete-guide-updating-and-downloading-drivers-for-your-hp-envy-20/"><u>Complete Guide: Updating and Downloading Drivers for Your HP Envy 20</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-touchpad-right-click-issue-in-windows-11-resolved/"><u>Fix: Touchpad Right-Click Issue in Windows 11 - Resolved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-windows-wont-boot-after-updating-drivers/"><u>Fixed: Windows Won’t Boot After Updating Drivers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-motorola-moto-g24-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Motorola Moto G24 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-fix-avidemux-audio-issues-step-by-step-guide/"><u>New Fix Avidemux Audio Issues Step-by-Step Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-1011-bring-back-lost-acquisitor/"><u>Win 10/11: Bring Back Lost Acquisitor</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-sound-restored-no-drivers-worrying/"><u>Win11 Sound Restored, No Drivers Worrying</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/your-guide-to-the-top-10-free-jpeg-to-gif-conversion-sites-for-2024/"><u>Your Guide to the Top 10 Free JPEG-to-GIF Conversion Sites for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-hardware-cant-communicate-due-to-boot-issue/"><u>[RESOLVED] Hardware Can't Communicate Due to Boot Issue</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-from-passion-to-paycheck-a-strategic-guide-to-attracting-brand-backers-on-instagram/"><u>[Updated] 2024 Approved From Passion to Paycheck A Strategic Guide to Attracting Brand Backers on Instagram</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-windows-10-for-swift-mousing-action/"><u>Fix Windows 10 for Swift Mousing Action</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-pci-memory-controller-driver-issues/"><u>How to Fix PCI Memory Controller Driver Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/initiating-live-video-sharing-complete-walkthrough/"><u>Initiating Live Video Sharing Complete Walkthrough</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/interactive-av-media-collective/"><u>Interactive AV Media Collective</u></a></li>
+<li><a href="https://driver-error.techidaily.com/kb-malfunction-detected-in-windows-10/"><u>Kb Malfunction Detected in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-mp3-player-models-for-the-year-2024-comprehensive-review-by-zdnet/"><u>Leading MP3 Player Models for the Year 2024 - Comprehensive Review by ZDnet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-from-the-best-youtubes-top-green-screen-techniques-for-2024/"><u>Learn From The Best Youtube’s Top Green Screen Techniques for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rise-of-unrestrained-chatgpt/"><u>The Rise of Unrestrained ChatGPT</u></a></li>
 </ul></div>
 

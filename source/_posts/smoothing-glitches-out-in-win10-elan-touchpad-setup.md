@@ -1,7 +1,7 @@
 ---
 title: Smoothing Glitches Out in Win10, Elan Touchpad Setup
-date: 2024-09-04T12:48:01.453Z
-updated: 2024-09-05T12:48:01.453Z
+date: 2024-11-26T04:33:47.499Z
+updated: 2024-12-02T19:42:51.559Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 [**2: Reinstall your drivers**](https://getlyla.pxf.io/ek9gkg)
 [**3: Stop automatic updates from Windows Update**](https://tinyland.pxf.io/org4ra)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Make sure your touchpad is enabled
 
  Some changes to your PC might automatically change your touchpad status to disable without informing you. You can set it back to enable status:
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
  1) On your keyboard, press the**Windows logo key** and**I** at the same time. Click **Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-settings-devices.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Click **Mouse & touchpad,**  then click **Additional mouse options** .
 
@@ -39,7 +47,15 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2: Reinstall your drivers
 
@@ -62,11 +78,9 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **3: Stop automatic updates from Windows Update**
 
  A faulty or buggy driver from Windows Update could be the cause of this problem. You can disable the automatic update via:
@@ -75,32 +89,14 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Right-clickyour computer icon and click **Device installation settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
 
 <ins class="adsbygoogle"
@@ -109,8 +105,6 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,6 +112,24 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-flashback-to-fame-vimeo-glimpse/"><u>[New] 2024 Approved Flashback to Fame Vimeo Glimpse</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-posting-videos-on-instagram-easy/"><u>[New] Posting Videos on Instagram Easy</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-tune-into-your-instagram-feed-music-integration-essentials-for-2024/"><u>[New] Tune Into Your Instagram Feed Music Integration Essentials for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gigglesgateway-leading-online-portals-for-chuckling-calls/"><u>[Updated] GigglesGateway Leading Online Portals for Chuckling Calls</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-tips-to-transform-your-video-display-on-fb/"><u>[Updated] Tips to Transform Your Video Display on FB</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-4-substitutes-for-windows-media-center-on-windows-11-a-comprehensive-guide/"><u>Best 4 Substitutes for Windows Media Center on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/calculating-clickers-contribution-to-youtube-earnings/"><u>Calculating Clickers' Contribution to YouTube Earnings</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-audio-driver-on-hidef-bus/"><u>Corrected Audio Driver on HiDef Bus</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-solutions-to-fix-a-malfunctioned-usb-recognition-issue-in-windows-os/"><u>Effective Solutions to Fix a Malfunctioned USB Recognition Issue in Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-code-43-error-windows-has-stopped-this-device-because-it-has-reported-problems/"><u>Fix Code 43 Error: Windows Has Stopped This Device because It Has Reported Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-ninety-five-error-code-43-issue-solved-for-windows-eleven-enthusiasts/"><u>GTX Ninety-Five 'Error Code 43' Issue: Solved for Windows Eleven Enthusiasts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-fix-video-playback-reversed-horizontally-on-asus-laptops/"><u>Guide to Fix Video Playback Reversed Horizontally on ASUS Laptops</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-narzo-n55s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Realme Narzo N55s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://driver-error.techidaily.com/locating-opengl-drivers-within-intels-sdk/"><u>Locating OpenGL Drivers Within Intel's SDK</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revive-nonresponsive-serial-ports-on-os-windows/"><u>Revive Nonresponsive Serial Ports on OS WINDOWS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solutions-for-installing-drivers-that-arent-compatible-with-your-system/"><u>Solutions for Installing Drivers That Aren't Compatible with Your System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-distinctions-cat5-vs-cat6-networking-cables-explained/"><u>Understanding the Distinctions: Cat5 Vs. Cat6 Networking Cables Explained</u></a></li>
+</ul></div>
 

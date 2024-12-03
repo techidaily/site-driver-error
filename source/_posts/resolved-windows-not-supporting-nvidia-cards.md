@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Windows Not Supporting Nvidia Cards"
-date: 2024-11-22T23:02:19.052Z
-updated: 2024-11-24T11:38:44.324Z
+date: 2024-11-27T17:53:08.671Z
+updated: 2024-12-03T00:47:15.215Z
 tags:
   - win11
   - win10
@@ -36,20 +36,16 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91effe026eb.png)
 2. Click **View**   and then click **Show hidden devices** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/windows11showhiddendevices.jpg)
 3. Click **Action** \> **Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9234ccb8e93.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Check if your Nvidia graphics driver shows up under the **Display adapters** category as a gray-out device, i.e. it looks pale compared to other functioning devices. If so, right-click your Nvidia display card and select**Uninstall device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-30.png)
 5. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-32.png)
 6. Then restart your computer.
@@ -69,10 +65,22 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/nvidia-graphics.png)
 4. **Restart** your computer, then check if the**graphics card not detected** problem is resolved. If yes, then congrats! But if the issue remains, please move on to**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your BIOS
 
@@ -87,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Repair corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -103,14 +107,10 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -137,24 +137,22 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-top-15-innovative-tiktok-challenges-unveiled/"><u>[New] 2024 Approved Top 15 Innovative TikTok Challenges Unveiled</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-timeless-classics-most-iconic-anime-openers-for-2024/"><u>[New] Timeless Classics Most Iconic Anime Openers for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-silent-illumination-issue-asus/"><u>[RESOLVED] Silent Illumination Issue - Asus</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-snappy-picture-assemblies-a-brisk-guide-to-google-collages/"><u>[Updated] Snappy Picture Assemblies A Brisk Guide to Google Collages</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-xiaomi-14-pro-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Xiaomi 14 Pro</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/essential-3-step-copywriting-blueprint-for-effective-fb-campaigns-for-2024/"><u>Essential 3-Step Copywriting Blueprint for Effective FB Campaigns for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-solution-to-overcome-nvidia-gtx-950-code-43-problems-in-windows-11/"><u>Expert Solution to Overcome NVIDIA GTX 950 'Code 43' Problems in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-nonfunctional-ethernet-controller-in-new-os-version/"><u>Fixing Nonfunctional Ethernet Controller in New OS Version</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-c51-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme C51 Face Lock?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/high-quality-audio-bus-issue-resolved/"><u>High-Quality Audio Bus Issue Resolved</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-blank-login-screen-in-windows-10-and-11/"><u>How to Fix a Blank Login Screen in Windows 10 & 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-sony-xperia-1-v-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Sony Xperia 1 V to New Android? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/meet-kazoo-the-all-seeing-one-eyed-stuffed-koala-assistant-powered-by-raspberry-pi-and-chatgpt-technology/"><u>Meet KAZoo, The All-Seeing One-Eyed Stuffed Koala Assistant Powered by Raspberry Pi & ChatGPT Technology</u></a></li>
-<li><a href="https://driver-error.techidaily.com/rectify-windows-7-dell-pad-connection-issues/"><u>Rectify Windows 7 Dell Pad Connection Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/rectifying-devices-within-windows-manager/"><u>Rectifying Devices Within Windows Manager</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-lack-of-driver-integration-with-amd-and-intel-video-in-premiere-pro/"><u>Solved: Lack of Driver Integration with AMD & Intel Video in Premiere Pro</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-amd-drivers-for-smooth-operation/"><u>Troubleshoot AMD Drivers for Smooth Operation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unwanted-bsod-windows-11-irql-resolution/"><u>Unwanted [BSOD]: Windows 11 Irql Resolution</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtubes-eco-film-hub-dive-into-green-screen-creativity-for-2024/"><u>Youtube’s Eco-Film Hub Dive Into Green Screen Creativity for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pace-perfection-on-instagram-a-guide-to-tempo-tweaks/"><u>[Updated] Pace Perfection on Instagram A Guide to Tempo Tweaks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-social-blade-the-comprehensive-guide-to-youtube-performance-tracking-for-2024/"><u>[Updated] Social Blade The Comprehensive Guide to YouTube Performance Tracking for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-scholarly-work-how-to-employ-chatgpt-in-research-and-essay-creation/"><u>Boosting Scholarly Work: How to Employ ChatGPT in Research and Essay Creation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-45-successfully-solved/"><u>Error 45: Successfully Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gpu-installation-error-resolved-easily/"><u>GPU Installation Error Resolved Easily</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-13-mini-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone 13 mini The Right Way</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/immediate-fix-available-for-total-video-transformation-problems-in-vlc-media-player/"><u>Immediate Fix Available for Total Video Transformation Problems in VLC Media Player</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-hd-graphics-4000-driver-download/"><u>Intel HD Graphics 4000 Driver Download</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-common-problems-with-non-responsive-hp-bluetooth-keyboards/"><u>Resolving Common Problems with Non-Responsive HP Bluetooth Keyboards</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-rated-asmr-gear-high-quality-priced-right-for-2024/"><u>Top-Rated ASMR Gear High Quality, Priced Right for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/upgrading-to-latest-hat-supports-for-win11/"><u>Upgrading to Latest HAT Supports for Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/w11-mastered-solving-common-elan-touchpad-errors/"><u>W11 Mastered: Solving Common Elan Touchpad Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/what-isoffered-but-it-has-been-the-same-for-loops/"><u>What Is_offered, but It Has Been the Same for Loops</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728509787126-win11/"><u>Win11 成功恢復最新遭到刪除的檔案：[用戶証明範例]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winnt-4-reconnecting-disconnected-devices/"><u>WinNT 4: Reconnecting Disconnected Devices</u></a></li>
 </ul></div>
 
