@@ -1,7 +1,7 @@
 ---
 title: How To Fix Headset No Sound on WIN10 System
-date: 2024-08-02T07:28:01.636Z
-updated: 2024-08-03T07:28:01.636Z
+date: 2024-12-05T00:07:55.786Z
+updated: 2024-12-09T23:52:31.171Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 **No sound from your USB headset?**  No worries. Here you’ll be relieved to know it’s possible to fix. Read on and find out how…
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Do not plug your USB headset while Windows 10 is booting](https://malaysia-healthcare-travel-council.pxf.io/752oeg)**
@@ -29,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 
 **Note:** Before we go, plug your headset into different USB ports and replace your USB headset with another one to check if the issue is due to the headset. If it doesn’t work either, then go with the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Do not plug your USB headset while Windows 10 is booting
 
  Some conflicts could exist between your USB headset and other USB devices. To avoid this conflict, please be sure to plug your USB headset in after your computer gets into Windows 10.```` ``
@@ -41,26 +39,34 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 Check if your headset works properly now.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run the Hardware Devices troubleshooter
 
  The troubleshooter can find and automatically fix some problems with your computer.
 
 1. Type **troubleshooting**  in the search box from the Start menu. Then click **Find and fix problems**  on the top.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-14.png)  
 ```` ```` ````
 2. Click **Hardware and Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-12.png)  
 ```` ```` ````
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click **Hardware and Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-14.png)
 4. Click **Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-13.png)
 5. Now the troubleshooter starts detecting problems. Complete troubleshooting by following on-screen instructions.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.png)
 
 After that, check if your headset works properly now.
@@ -70,6 +76,11 @@ After that, check if your headset works properly now.
 1. Right-click on the**Start** button, then click**Windows PowerShell (Admin)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_15-52-49.jpg)
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
@@ -98,11 +109,12 @@ After that, check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/SCAN.jpg)
 3. Click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
  Note: You can also do it for free if you like, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Sound-driver.jpg)
 4. Restart your computer and check to see if your headset works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -116,8 +128,6 @@ After that, check if your headset works properly now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,6 +135,19 @@ After that, check if your headset works properly now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-top-30-unique-pfps-for-a-stellar-tiktok-presence-for-2024/"><u>[New] Top 30 Unique PFPs for a Stellar TikTok Presence for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-expertly-record-your-browser-adventures-with-top-5-capturers/"><u>[Updated] 2024 Approved Expertly Record Your Browser Adventures with Top 5 Capturers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/capturing-the-world-in-full-circle-experts-360-cams-review-2023/"><u>Capturing the World in Full Circle - Expert's 360 Cams Review, 2023</u></a></li>
+<li><a href="https://win-tips.techidaily.com/demystifying-blockchain-a-comprehensive-guide-by-yl-computing-your-ultimate-resource/"><u>Demystifying Blockchain: A Comprehensive Guide by YL Computing - Your Ultimate Resource</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-resolved-code-48-in-devmgr/"><u>Error Resolved: Code 48 in DevMgr</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ethernet-controller-bug-in-win11-realtek-solution/"><u>Ethernet Controller Bug in Win11 - Realtek Solution</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-android-and-ios-tech-record-google-meet/"><u>In 2024, Essential Android & iOS Tech Record Google Meet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-tools-for-ultra-hd-video-editing-reviews-and-comparisons/"><u>Leading Tools for Ultra HD Video Editing – Reviews & Comparisons</u></a></li>
+<li><a href="https://driver-error.techidaily.com/neutralized-hardware-misreadings/"><u>Neutralized Hardware Misreadings</u></a></li>
+<li><a href="https://driver-error.techidaily.com/precision-movement-no-lag-full-control/"><u>Precision Movement, No Lag, Full Control</u></a></li>
+<li><a href="https://extra-support.techidaily.com/preventing-shake-in-cellphone-recorded-movies-for-2024/"><u>Preventing Shake in Cellphone-Recorded Movies for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ws-2902a-ambient-weather-station-budget-friendly-and-packed-with-functionality/"><u>WS-2902A Ambient Weather Station - Budget Friendly and Packed with Functionality!</u></a></li>
+</ul></div>
 

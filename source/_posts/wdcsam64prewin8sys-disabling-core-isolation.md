@@ -1,7 +1,7 @@
 ---
 title: wdcsam64_prewin8.sys - Disabling Core Isolation
-date: 2024-11-30T02:04:29.235Z
-updated: 2024-12-02T23:20:14.262Z
+date: 2024-12-07T20:24:04.267Z
+updated: 2024-12-09T17:16:23.177Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Update Windows
 
  If you’ve disabled Windows from automatically updating manually, there are chances that you missed some driver updates that could help to fix incompatible drivers like wdcsam64\_prewin8.sys. To make sure that you have the latest available updates installed:
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -67,21 +71,17 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-49.png)
 2. Type this command: **`pnputil.exe -d oem<NUMBER>.inf`**  and hit **Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The**`<NUMBER>`** here should be filled with the number you see on your computer. For instance, I’m seeing **16** , so my command here should be **`pnputil.exe -d oem16.inf`** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-72.png)
 3. This is what the command looks like on my computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-74.png)  
  Hit **Enter**  when the command is typed in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. When you see **Driver package deleted successfully** , restart your computer for the wdcsam64\_prewin8.sys driver to be installed automatically by Windows again.
 
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-75.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then check to see if the wdcsam64\_prewin8.sys driver is still marked as incompatible. If so, please move further.
@@ -106,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Automatically update the wdcsam64\_prewin8.sys driver
@@ -118,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/wd-device.png)
 4. Restart your computer for the changes to take effect.
 
@@ -130,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
  Check to see if the driver issue with wdcsam64\_prewin8.sys is sorted. If this fix doesn’t work for you, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Repair damaged or corrupt system files
 
@@ -167,16 +167,22 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-windows-desktop-snappers-guide/"><u>[New] In 2024, Windows Desktop Snappers Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-cash-flow-strategies-enrolling-in-youtubes-2024-membership-plan/"><u>[Updated] Cash Flow Strategies Enrolling in YouTube's 2024 Membership Plan</u></a></li>
-<li><a href="https://driver-error.techidaily.com/addressing-win10-asus-driver-and-acpi/"><u>Addressing Win10: Asus Driver and ACPI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevating-interactive-communications-mastering-custom-gpt-3-directives-with-finesse/"><u>Elevating Interactive Communications: Mastering Custom GPT-3 Directives with Finesse</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-repairing-aged-usb-composite-device-connectivity-concerns-and-errors/"><u>Guide to Repairing Aged USB Composite Device Connectivity Concerns and Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-gpt-4-into-chatgpt-for-instant-results/"><u>Integrating GPT-4 Into ChatGPT for Instant Results</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-xiaomi-redmi-note-12r-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Xiaomi Redmi Note 12R? Fixed | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-t2-pro-5g-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after T2 Pro 5G has been deleted</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-qualcomm-atheros-bluetooth-driver-problems-in-windows-11/"><u>Troubleshooting and Solving Qualcomm Atheros Bluetooth Driver Problems in Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-light-therapy-for-better-days-an-in-depth-look-at-the-ihome-zenergy-bedside-review/"><u>Unveiling the Power of Light Therapy for Better Days: An In-Depth Look at the IHome Zenergy Bedside Review</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-os-now-recognizes-latest-printer-hardware/"><u>Win OS Now Recognizes Latest Printer Hardware</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-get-facebook-links-fetched-top-8-free-tools-for-23/"><u>[New] In 2024, Get Facebook Links Fetched Top 8 Free Tools for '23</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-securing-high-quality-sound-from-anywhere/"><u>[New] Securing High-Quality Sound From Anywhere</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-advanced-filming-techniques-for-your-live-streaming-needs-using-logitech-cam-for-2024/"><u>[Updated] Advanced Filming Techniques for Your Live-Streaming Needs Using Logitech Cam for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhanced-windows-11-sm-bus-drives-no-more-issues/"><u>Enhanced Windows 11 SM Bus Drives, No More Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-iphone-portable-storage-issues-overcoming-the-mtp-driver-challenge-on-windows-pcs/"><u>Fixing iPhone Portable Storage Issues - Overcoming the MTP Driver Challenge on Windows PCs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-realme-gt-5-240w-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme GT 5 (240W) Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-boost-your-youtube-revenue-from-mobile-a-comprehensive-guide/"><u>How to Boost Your YouTube Revenue From Mobile - A Comprehensive Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-12-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 12 with iTunes | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-hardware-restrictions-with-overwatchs-new-release/"><u>No More Hardware Restrictions with Overwatch's New Release</u></a></li>
+<li><a href="https://fox-http.techidaily.com/quick-steps-to-find-youtube-comment-feed/"><u>Quick Steps to Find YouTube Comment Feed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/razer-deadriver-on-windows-10-seamless-installation-guide/"><u>Razer DeaDriver on Windows 10: Seamless Installation Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectify-host-controller-defect/"><u>Rectify Host Controller Defect</u></a></li>
+<li><a href="https://driver-error.techidaily.com/to-do-so-by-cn-and-i-need-to-check2-is-not-foundations-of-an-image/"><u>To Do so by C: n; and I Need to Check_2 Is Not Foundations of an Image</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-usb-errors-post-adb-interruption/"><u>Troubleshoot USB Errors Post ADB Interruption</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-accessing-safe-mode-and-cleaning-up-gpu-drivers-on-your-windows-8-device/"><u>Troubleshooting Tips: Accessing Safe Mode & Cleaning Up GPU Drivers on Your Windows 8 Device</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unveiling-the-secrets-of-xstream-studios-a-complete-review-for-2024/"><u>Unveiling the Secrets of XStream Studios - A Complete Review for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721100650720-windows-wireless-keyboard-issues-solve-common-connection-problems-now/"><u>Windows Wireless Keyboard Issues? Solve Common Connection Problems Now</u></a></li>
 </ul></div>
 

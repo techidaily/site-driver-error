@@ -1,7 +1,7 @@
 ---
 title: "Win11 & Lenovo BT: Common Fixes Shared Here"
-date: 2024-09-09T03:05:52.410Z
-updated: 2024-09-10T03:05:52.410Z
+date: 2024-12-05T05:43:20.470Z
+updated: 2024-12-09T19:00:48.987Z
 tags:
   - win11
   - win10
@@ -17,22 +17,14 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7caa008f0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Bluetooth devices come really handy for everyone. With appropriate Bluetooth drivers installed, you have access to your wireless keyboard, your wireless mouse, your wireless headphones, your wireless speakers, and tons of other things on your laptops and desktops.
 
  In this post, we will show you some solutions that you may find helpful when you are having Bluetooth problems. Since there could be many different reasons why this problem occurs, and the causes differ greatly, there are different resolutions. You might need to try them one by one until you locate the right solution for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Table of contents
 
 * [Option 1: Enable Bluetooth hardware](https://review-au.sjv.io/wqnrq3)
@@ -52,44 +44,34 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7a64714f6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Expand **Bluetooth Radios**  or **Bluetooth** .
 
 **Note** : If you **cannot** see any items listed under Network adapters or Bluetooth Radios, please proceed to **Option 2** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7d4daf634.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) If you see a down arrow, your Bluetooth device is disabled, just right-click the item and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b810d497f1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) If you see a yellow exclamation mark next to your Bluetooth driver, your Bluetooth hardware is not responding or set up correctly. You can refer to **Option 3** for more help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Option 2: Enable discovery mode
 
  1) On your keyboard, press the Windows logo key and S at the same time, then type **change bluetooth** . Click **Change Bluetooth** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e564dcca0a6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
@@ -109,27 +91,17 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver-scan.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 4: Perform a refresh
 
  If none of the above options help, you might need to perform a refresh to get your Bluetooth devices working again. For more information as to how to perform a refresh on Windows 10, please visit the following post: **[How to refresh my Windows 10?](https://tools.techidaily.com/drivereasy/download/)**
@@ -143,8 +115,6 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,6 +122,23 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-visual-impact-strategic-planning-for-viral-video-campaigns/"><u>[New] Instagram Visual Impact Strategic Planning for Viral Video Campaigns</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-decoding-displacement-your-snapchat-time-turner-guide/"><u>[Updated] Decoding Displacement Your Snapchat Time-Turner Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-essential-guide-to-posting-vimeo-on-instagram/"><u>[Updated] The Essential Guide to Posting Vimeo on Instagram</u></a></li>
+<li><a href="https://driver-error.techidaily.com/battling-windows-1110-disk-utilization-alerts/"><u>Battling Windows 11/10 Disk Utilization Alerts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correct-transaction-queuing-problem/"><u>Correct Transaction Queuing Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-failure-alert-for-wudfrd-loading-event-id-219/"><u>Device Failure Alert for WudfRd Loading (Event ID: 219)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evaluating-hdr-tvs-does-aurora-hit-the-mark-in-2024/"><u>Evaluating HDR TVs Does Aurora Hit the Mark, In 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-presidents-day-offer-upgrade-to-a-new-macbook-pro-featuring-the-advanced-m3-pro-processor-at-15-off-shop-now-zdnet/"><u>Exclusive President's Day Offer: Upgrade to a New MacBook Pro Featuring the Advanced M3 Pro Processor at 15% Off – Shop Now! | ZDNET</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-disable-always-active-bluetooth-on-win11/"><u>How To Disable Always Active Bluetooth on Win11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-magic-5-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor Magic 5?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-discover-new-heights-top-10-adventure-channels/"><u>In 2024, Discover New Heights Top 10 Adventure Channels</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-tycoons-earning-the-most/"><u>In 2024, YouTube Tycoons Earning the Most</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keeping-your-hp-envy-20-running-smoothly-a-guide-to-fresh-drivers/"><u>Keeping Your HP Envy 20 Running Smoothly - A Guide to Fresh Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098346021-navigated-error-code-45-successfuly/"><u>Navigated Error Code 45, Successfuly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-incessant-removal-in-nvidia-hardware-drivers/"><u>Resolve Incessant Removal in Nvidia Hardware Drivers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/screensavers-supreme-mastering-the-art-of-twitvid-archiving-for-2024/"><u>ScreenSavers Supreme Mastering the Art of TwitVid Archiving for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Right-Click on Windows 11 Touchpad [Done]
-date: 2024-09-09T03:09:51.634Z
-updated: 2024-09-10T03:09:51.634Z
+date: 2024-12-09T04:53:11.085Z
+updated: 2024-12-09T18:52:22.548Z
 tags:
   - win11
   - win10
@@ -42,21 +42,13 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c81858e3a5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Then the **Mouse Properties**  window will open. Go to the furthest right option (the name of this option could be **Device Settings** or **ELAN**), then make sure your touchpad is enabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the option you see here is**Device Settings** , check to see if the the Touchpad is enabled. If not, you need to press the**Settings** button to change the status to**Enabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c853d19a3d.png)
@@ -66,11 +58,9 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Check your touchpad setting
 
  Sometimes the primary settings for your touchpad may be changed after Windows Updates. Make sure you’ve enabled those settings that are essential to the proper functioning of your touchpad’s right-click button. Here’s how to do it:
@@ -92,12 +82,6 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c879b4b0a0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Locate and expand the option**Mice and other pointing devices** . Then right click your touchpad drive. (Mine is called **Synaptics Pointing Device** , yours could be different.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/synaptics-pointing-device.png)
@@ -106,32 +90,18 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/driver-uninstall-properties.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Confirm the uninstall of your touchpad driver by ticking the box of **Delete the driver software to uninstall this device from your system** . Then check**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/delete-the-driver-software-to-uninstall-this-device-from-your-system.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) When the uninstall completes, restart your computer. Windows should help you automatically install the latest version of the driver it could find. See if your problem solved after the reinstall. If not, please follow the third option below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Option 4: Update your driver**
 
 There’re mainly 2 ways for you to update your driver:
@@ -148,35 +118,29 @@ There’re mainly 2 ways for you to update your driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c879b4b0a0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Locate and expand the option**Mice and other pointing devices** . Then right click your touchpad drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/synaptics-pointing-device.png)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Then go to **Driver** tab, choose **Update Driver…**  option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c89a864856.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Windows will start helping you find the latest version of touchpad driver that it could find. But if you see the notification like the following one:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58633c3acc5d9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You might need to search for the driver by yourself on the Internet.
 
@@ -203,17 +167,9 @@ You might need to search for the driver by yourself on the Internet.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-629.png)
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** If you have any problems using Driver Easy Pro to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
 ---
@@ -229,8 +185,6 @@ You might need to search for the driver by yourself on the Internet.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -238,6 +192,26 @@ You might need to search for the driver by yourself on the Internet.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-sightline-synopsis-study/"><u>[New] 2024 Approved Sightline Synopsis Study</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-pro-gif-maker-software-that-wins-every-time/"><u>[New] In 2024, Pro-Gif Maker Software That Wins Every Time</u></a></li>
+<li><a href="https://driver-error.techidaily.com/undergoing-repairs-boot-loop-ended-with-correct-drivers/"><u>[UNDERGOING REPAIRS] Boot Loop Ended with Correct Drivers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-ease-and-speed-effective-methods-for-comment-removal/"><u>[Updated] Ease and Speed Effective Methods for Comment Removal</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-influencing-factors-for-popular-youtube-videos/"><u>[Updated] Influencing Factors for Popular YouTube Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-audio-player-insights-and-critiques/"><u>2024 Approved Audio Player Insights & Critiques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-crafting-captivating-instagram-puzzles-a-step-by-step-approach/"><u>2024 Approved Crafting Captivating Instagram Puzzles A Step-by-Step Approach</u></a></li>
+<li><a href="https://driver-error.techidaily.com/devices-driver-unavailable/"><u>Device's Driver Unavailable</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhanced-video-feedback-from-asus-usb-webcam-win10-version/"><u>Enhanced Video Feedback From Asus USB Webcam, Win10 Version</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-driver-errors-for-your-windows-pc-windows-10-8-and-7-solved/"><u>Fixing Driver Errors for Your Windows PC (Windows 10, 8, and 7): Solved!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-non-operational-bcm20702a0-driver/"><u>Hardware Non-Operational - BCM20702A0 Driver</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-excellent-micro-photography-videos-step-by-step/"><u>In 2024, Crafting Excellent Micro Photography Videos Step by Step</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-nintendo-switch-brawlers-guidebook-max-156/"><u>In 2024, Essential Nintendo Switch Brawlers Guidebook (Max 156)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-12r-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your OnePlus 12R Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/prevent-software-from-deleting-itself-driver-issue-fixed/"><u>Prevent Software From Deleting Itself: Driver Issue Fixed</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionizing-workflow-a-comprehensive-guide-on-apples-new-ipad-102/"><u>Revolutionizing Workflow: A Comprehensive Guide on Apple's New iPad 10.2</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-the-broken-or-stuck-keys-on-your-hp-notebook-with-these-steps-step-by-step-article-title-how-to-guide-tech-talker406-chars/"><u>Solve the 'Broken' Or Stuck Keys on Your HP Notebook with These Steps, Step by Step (Article Title) – How-To Guide | Tech Talker—406 Chars</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unleashing-potential-in-windows-10-with-lenovo/"><u>Unleashing Potential in Windows 10 with Lenovo</u></a></li>
+<li><a href="https://driver-error.techidaily.com/where-did-my-nvidia-card-go-windows/"><u>Where Did My Nvidia Card Go Windows?</u></a></li>
+</ul></div>
 

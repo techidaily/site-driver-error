@@ -1,7 +1,7 @@
 ---
 title: "Resolved Compatibility Issue: Unsupported AMD/Intel Graphics with Premiere Pro"
-date: 2024-09-09T03:03:32.873Z
-updated: 2024-09-10T03:03:32.873Z
+date: 2024-12-08T03:02:20.791Z
+updated: 2024-12-09T22:41:52.887Z
 tags:
   - win11
   - win10
@@ -13,49 +13,41 @@ excerpt: "This Article Describes Resolved Compatibility Issue: Unsupported AMD/I
 thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e86352ca57ab485a51d50b112ab.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Resolved Compatibility Issue: Unsupported AMD/Intel Graphics with Premiere Pro
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-25_10-45-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Getting the “Unsupported Video Driver” error when you’re launching Adobe Premiere Pro and the program just crashes at startup? This is a quite common error and also an easy one to fix. Read on and find out how to solve the problem right away.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why am I getting this error?
 
  The “Unsupported Video Driver” error message suggests that your current graphics driver is not compatible with Premiere Pro. An outdated or faulty video driver could cause this problem. Or, in some cases, Premiere Pro fails to recognize your driver which is actually functional and thus triggers the error.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes…
 
 [1: Update your video driver](https://ukaidot.sjv.io/daqnoj)
 
 [2: Update Premiere Pro](https://ukaidot.sjv.io/daqnoj)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your video driver
 
  There are two ways to update your video driver: Automatically (recommended!) and manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Automatic update
 
@@ -71,12 +63,6 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Manual update
 
  You can also update your graphics driver manually. The common way to update a driver on your PC is via the Device Manager (a Windows feature). But Windows may not detect the latest available update for your video card because the database is huge and the updates could be delayed.
@@ -101,11 +87,9 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
  After you install the latest video driver, restart your PC and test if Premiere Pro still shows you the error message. If the problem persists, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Update Premiere Pro
 
  If your driver is up-to-date but you still get the “Unsupported Video Driver” error, you may need to update your Premiere Pro. New Adobe updates usually fix known bugs and may release new features that are compatible with the latest driver, so it may solve the “Unsupported Video Driver” error.
@@ -125,8 +109,6 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,6 +116,23 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-keyboard-not-working-on-windows-10/"><u>[Fixed] Keyboard Not Working on Windows 10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-obs-studio-basics-full-guide-to-ps4-game-recording/"><u>[New] 2024 Approved Obs Studio Basics - Full Guide to PS4 Game Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-definitive-steps-to-record-your-favorite-hulu-episodes/"><u>[New] The Definitive Steps to Record Your Favorite Hulu Episodes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-irqlnotlessorequal-bsod-in-windows-10/"><u>[Solved] IRQL_NOT_LESS_OR_EQUAL BSOD in Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pro-iphone-hdr-photos-made-easy/"><u>[Updated] 2024 Approved Pro iPhone HDR Photos Made Easy</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-uncover-the-top-7-android-alternatives-for-ad-free-browsing/"><u>2024 Approved Uncover the Top 7 Android Alternatives for Ad-Free Browsing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-vertical-display-errors-on-your-asus-computer/"><u>Correcting Vertical Display Errors on Your ASUS Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/driver-problems-for-pc-outdated-or-corrupted-drivers-could-be-causing-a-black-screen-on-your-computer-updating-or-reinstalling-graphic-card-drivers-and-disp489/"><u>Driver Problems (for PC): Outdated or Corrupted Drivers Could Be Causing a Black Screen on Your Computer. Updating or Reinstalling Graphic Card Drivers and Display Adapter Software Might Resolve the Issue.</u></a></li>
+<li><a href="https://win-superb.techidaily.com/erfolgreiches-systemabbild-erstellen-losungen-fur-fehlerhaften-datensicherungsversuch/"><u>Erfolgreiches Systemabbild Erstellen – Lösungen Für Fehlerhaften Datensicherungsversuch</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-tips-for-harnessing-movie-maker-in-windows-8-systems/"><u>Essential Tips for Harnessing Movie Maker in Windows 8 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-restoring-your-qualcomm-atheros-bluetooth-connection-on-windows-vehicles-with-the-following-titles/"><u>Expert Tips: Restoring Your Qualcomm Atheros Bluetooth Connection on Windows Vehicles with the Following Titles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/failure-to-connect-device-due-to-missing-driver/"><u>Failure to Connect Device Due to Missing Driver</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-kill-bluetooth-on-windows-10/"><u>Guide to Kill Bluetooth on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-issue-in-windows-11-resolved/"><u>Keyboard Issue in Windows 11 Resolved</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-redmi-k70-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: GTX 950 'Code 43' Malfunction in Win10 - Diagnosis and Repair Solutions
-date: 2024-09-09T03:03:19.539Z
-updated: 2024-09-10T03:03:19.539Z
+date: 2024-12-03T21:51:33.165Z
+updated: 2024-12-10T04:40:09.917Z
 tags:
   - win11
   - win10
@@ -17,18 +17,6 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59410acca7efb.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Users with NVIDIA GTX 950 graphics card installed on their computer reported to have found that they see a yellow exclamation mark next to their display driver. when checking the properties of the video card driver, the following error notification appears:
 
  **Windows has stopped this device because it has reported problems. (Code 43)**
@@ -52,17 +40,9 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** .
@@ -71,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you.
@@ -78,20 +62,16 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode.
 
@@ -121,38 +101,24 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Option 2: Update Windows 10**
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Check for updates** button to see if there are any new updates available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) If new updates are available, just download and then update them as instructed.
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Option 3: Update BIOS**
 
  Updating BIOS is said to solve the problem for many, but it requires you to master a rather high level of computer knowledge to update BIOS by yourself.
@@ -163,12 +129,6 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Option 4: Reinstall Windows 10**
 
  In some cases, users were left with only one last resort: reinstalling Windows 10\. Luckily, this is not a hard way to go. We have covered this topic before. If you would like to have more information, please visit the posts below:
@@ -186,8 +146,6 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,6 +153,23 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-flexibility-in-viewing-with-youtube-tv-options-for-2024/"><u>[New] Flexibility in Viewing with YouTube TV Options for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-editorial-efficiency-m1s-smooth-performance-unveiled/"><u>[Updated] 2024 Approved Editorial Efficiency M1's Smooth Performance Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-watch-mkv-files-on-itunes-begin-your-free-conversion-to-compatible-mp4-and-mov-formats-now/"><u>Can You Watch MKV Files on iTunes? Begin Your Free Conversion to Compatible MP4 & MOV Formats Now!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/el-saving-techniques-youtube-meets-igtv/"><u>Channel-Saving Techniques YouTube Meets IGTV</u></a></li>
+<li><a href="https://driver-error.techidaily.com/complete-step-by-step-instructions-on-driver-management-for-the-hp-envy-20-computer-model/"><u>Complete Step-by-Step Instructions on Driver Management for the HP ENVY 20 Computer Model</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-nintendo-switch-lite-assessment-portable-gaming-at-an-affordable-price/"><u>Comprehensive Nintendo Switch Lite Assessment: Portable Gaming at an Affordable Price</u></a></li>
+<li><a href="https://driver-error.techidaily.com/defeating-the-gtx-groove-error-code-43-on-your-windows-10-pc-solutions-unveiled/"><u>Defeating the GTX Groove Error Code 43 on Your Windows 10 PC – Solutions Unveiled</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-kensun-mobile-tire-pump-a-combination-of-strength-and-portability/"><u>Evaluating the Kensun Mobile Tire Pump – A Combination of Strength and Portability</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-non-responsive-wireless-keyboard-problems-in-windows-systems/"><u>How to Resolve Non-Responsive Wireless Keyboard Problems in Windows Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-illumination-in-high-dynamic-range-a-smart-option/"><u>In 2024, Illumination in High-Dynamic Range A Smart Option?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/optimize-sound-quality-expert-tips-to-repair-your-obs-mic-troubles-this-year/"><u>Optimize Sound Quality: Expert Tips to Repair Your OBS Mic Troubles This Year</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-typing-issues-in-windows-11-with-these-simple-steps-for-malfunctioning-keyboard-buttons/"><u>Resolve Typing Issues in Windows 11 with These Simple Steps for Malfunctioning Keyboard Buttons</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revitalizing-windows-compatibility-for-broadcom-80211n-adapter/"><u>Revitalizing Windows Compatibility for Broadcom 802.11N Adapter</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104210852-revive-your-wireless-keyboard-on-a-windows-pc-solutions-that-work/"><u>Revive Your Wireless Keyboard on a Windows PC – Solutions That Work</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-rotated-images-how-to-adjust-upended-videos-on-your-asus-notebook/"><u>Troubleshooting Rotated Images: How to Adjust Upended Videos on Your ASUS Notebook</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-pcs-non-working-keys-found/"><u>Windows PCs: Non-Working Keys Found</u></a></li>
+</ul></div>
 

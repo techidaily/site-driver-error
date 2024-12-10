@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot USB Errors Post ADB Interruption
-date: 2024-09-09T03:02:57.314Z
-updated: 2024-09-10T03:02:57.314Z
+date: 2024-12-07T22:03:39.896Z
+updated: 2024-12-09T17:44:27.081Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Troubleshoot USB Errors Post ADB Interruption
 thumbnail: https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0ee73dae3abc4f97673bc3bc.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshoot USB Errors Post ADB Interruption
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1.png)
@@ -33,18 +27,6 @@ thumbnail: https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0
 
  Here you’ll be shown with two ways to install the correct driver for your ADB device.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pick the way you prefer
 
 1. [Install the correct driver for your ADB device manually through Device Manager](https://thefitville.pxf.io/qyo4yy)
@@ -66,37 +48,31 @@ thumbnail: https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Find your Android device. It’s probably under**Other** **devices** section with a yellow mark. Then right-click on it and choose **Update Driver Software…**
 
 **![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-10.jpg)**
  7) Click **Browse my computer for driver software** .
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-6.jpg)
  8) Go on to click **Let me pick from a list of device drivers on my computer** .
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  9) Click **Have Disk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10) Click **Browse**  to choose the Google USB Driver you downloaded at the beginning. Or you can enter the following address into the box.  
  **C:\\Program Files (x86)\\Android\\android-sdk\\extras\\google\\usb\_driver**
@@ -107,16 +83,14 @@ thumbnail: https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  12) Go on to follow the easy on-screen instructions to complete installing the driver.  
  After it’s done, please restart your computer to make the new driver take effect.  
  Now your problem should be solved, try to use ADB now.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Way 2: Install the correct driver for your ADB device automatically through Driver Easy \[Recommended\]
 
  If you don’t have the time, patience, or computer skills to update your ADB device driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your exact ADB device, and your variant of Windows system, and it will download and install it correctly :
@@ -134,11 +108,9 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b457f592ee84.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) After it’s done, please restart your computer to make the new driver take effect.  
  Now your problem should be solved, try to use ADB now.
 
@@ -152,8 +124,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,6 +131,17 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-instagram-looping-videos/"><u>[Updated] The Ultimate Guide to Instagram Looping Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028416344-5/"><u>「自由にダウンロード可能な優秀な無料ビデオ音量調節ツールベスト5」</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-engage-broadly-embedding-twitch-videos-on-fb/"><u>2024 Approved Engage Broadly Embedding Twitch Videos on FB</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-sidestep-directx-9-initialization-snags/"><u>How to Sidestep DirectX 9 Initialization Snags</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-cross-line-disruptions-a-guide-to-straightening-your-pc-display/"><u>Resolving Cross-Line Disruptions: A Guide to Straightening Your PC Display</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restored-glitch-free-reels-on-instagram/"><u>Restored: Glitch-Free Reels on Instagram</u></a></li>
+<li><a href="https://driver-error.techidaily.com/techniques-to-overcome-enex-driver-launch-issue-in-win11/"><u>Techniques to Overcome eNEX Driver Launch Issue in Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-8-strategies-to-thrive-without-nyt-allies/"><u>Top 8 Strategies to Thrive Without NYT Allies</u></a></li>
+<li><a href="https://driver-error.techidaily.com/universal-compatible-pci-device-suite/"><u>Universal Compatible PCI Device Suite</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-and-gtx-950-code-43-error-a-detailed-guide-to-finding-a-solution/"><u>Windows 11 and GTX 950 Code 43 Error: A Detailed Guide to Finding a Solution</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Taming Lenovo's Bluetooth on Windows 10
-date: 2024-09-09T03:00:57.557Z
-updated: 2024-09-10T03:00:57.557Z
+date: 2024-12-05T23:22:01.869Z
+updated: 2024-12-09T17:18:05.421Z
 tags:
   - win11
   - win10
@@ -40,12 +40,6 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7a64714f6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Expand **Bluetooth Radios**  or **Bluetooth** .
 
 **Note** : If you **cannot** see any items listed under Network adapters or Bluetooth Radios, please proceed to **Option 2** .
@@ -53,11 +47,9 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7d4daf634.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) If you see a down arrow, your Bluetooth device is disabled, just right-click the item and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b810d497f1.png)
@@ -67,17 +59,9 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Option 2: Enable discovery mode
 
  1) On your keyboard, press the Windows logo key and S at the same time, then type **change bluetooth** . Click **Change Bluetooth** .
@@ -85,14 +69,16 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e564dcca0a6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 3: Update Bluetooth driver
 
@@ -108,28 +94,14 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver-scan.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 4: Perform a refresh
 
  If none of the above options help, you might need to perform a refresh to get your Bluetooth devices working again. For more information as to how to perform a refresh on Windows 10, please visit the following post: **[How to refresh my Windows 10?](https://tools.techidaily.com/drivereasy/download/)**
@@ -143,8 +115,6 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,6 +122,26 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-bandicam-revolutionizing-screen-capture-for-modern-media/"><u>[New] 2024 Approved Bandicam Revolutionizing Screen Capture for Modern Media</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-bringing-the-web-to-reality-embedding-youtube-videos-in-slides/"><u>[New] In 2024, Bringing the Web to Reality Embedding YouTube Videos in Slides</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-professional-tricks-efficiently-cropping-photos-online/"><u>[Updated] In 2024, Professional Tricks Efficiently Cropping Photos Online</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-htc-u23-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix HTC U23 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/converti-file-tga-a-formato-jpeg-online-gratuitamente-con-movavi/"><u>Converti File TGA a Formato JPEG Online Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-correcting-asus-windows-10-acpi-fails/"><u>Diagnosing & Correcting Asus Windows 10 Acpi Fails</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-windows-failure-to-recognize-your-most-recent-usb-device/"><u>Diagnosing and Repairing Windows' Failure to Recognize Your Most Recent USB Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-overcome-diablo-ii-resurrected-crashing-problems-permanently/"><u>Expert Advice: Overcome Diablo II: Resurrected Crashing Problems Permanently</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-no-official-support-for-amdintel-drivers-in-premiere-pro-software/"><u>Fixed: No Official Support for AMD/Intel Drivers in Premiere Pro Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/flawless-gpu-setup-post-error-fixing/"><u>Flawless GPU Setup Post-Error Fixing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-nvidia-gtx-950-code-43-issue-on-windows-11-a-step-by-step-tutorial/"><u>How to Resolve NVIDIA GTX 950 Code 43 Issue on Windows 11: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-note-30-vip-racing-edition-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Note 30 VIP Racing Edition to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-leveraging-obs-establishing-an-efficient-countdown-clock/"><u>In 2024, Leveraging OBS Establishing an Efficient Countdown Clock</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/incorporating-captions-in-photography-a-user-friendly-guide-on-pc-and-mac/"><u>Incorporating Captions in Photography A User-Friendly Guide on PC & Mac</u></a></li>
+<li><a href="https://driver-error.techidaily.com/multi-generation-driver-set-for-pci-cards/"><u>Multi-Generation Driver Set for PCI Cards</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigating-through-windows-10-elan-pad-errors/"><u>Navigating Through Windows 10, Elan Pad Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/securing-seamless-connection-lenovo-on-windows-10/"><u>Securing Seamless Connection: Lenovo on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-touchpad-driver-not-working-on-windows-10/"><u>Solved Touchpad Driver Not Working on Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-tuning-into-fm-stations-on-ios-and-android-devices/"><u>Step-by-Step Guide: Tuning Into FM Stations on iOS and Android Devices</u></a></li>
+</ul></div>
 

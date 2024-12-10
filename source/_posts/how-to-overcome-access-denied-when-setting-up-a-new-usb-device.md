@@ -1,7 +1,7 @@
 ---
 title: How to Overcome 'Access Denied' When Setting Up a New USB Device
-date: 2024-09-09T03:02:28.340Z
-updated: 2024-09-10T03:02:28.340Z
+date: 2024-12-08T22:07:38.375Z
+updated: 2024-12-10T00:09:56.957Z
 tags:
   - win11
   - win10
@@ -13,56 +13,26 @@ excerpt: This Article Describes How to Overcome 'Access Denied' When Setting Up 
 thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e02cfc6dbe8d9945052e8865.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Overcome 'Access Denied' When Setting Up a New USB Device
 
 If you can’t install any new USB devices due to error “Access is denied”, it can be frustrating. But don’t worry, here you will find the solution to fix the problem.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6862c6dbe8.png) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 First, make sure that you login to computer as Administrator. If you are not logged in with Administrator, follow steps below to switch it to Administrator.  
   
 1\. Go to**Control Panel**and View by**Category**. Click**User Accounts**.(In your case, this may be “User Accounts and Family Safety”.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c68c5d7bf6a.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2\. Click **Change your account type** and enter your password if necessary.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791ba4e50787.png)
   
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. Then click**Start** button and choose to **Log off**  of Windows, and then log back in again.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791bab2104ee.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After that, reinstall the driver again.  
   
  **Turn off any antivirus or anti-spyware program**
@@ -82,12 +52,6 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c692c5d030c.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. Select**SYSTEM** from the Group or user names. In Permissions for SYSTEM section, make sure the Full Control Allow checkbox is checked and uncheck any Deny checkbox. Click Apply button to apply the changes.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6933c3f709.png)
@@ -105,8 +69,6 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,6 +76,21 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-thrifty-pc-frame-buffer-tools/"><u>[New] In 2024, Thrifty PC Frame Buffer Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-pci-data-acquisition-and-signal-processing-controller-missing-on-windows-1110/"><u>[Solved] PCI Data Acquisition and Signal Processing Controller Missing on Windows 11/10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-jake-pauls-youtube-odyssey-a-tale-of-growth/"><u>[Updated] Jake Paul's YouTube Odyssey A Tale of Growth</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210753236-directx-hardware-renderer-initialization-issues-solutions-uncovered/"><u>DirectX Hardware Renderer Initialization Issues - Solutions Uncovered</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-deactivate-bluetooth-without-issues-on-win11/"><u>How to Deactivate Bluetooth Without Issues on Win11</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-swiftly-solve-robloxs-error-code-asterisk-288/"><u>How to Swiftly Solve Roblox's Error Code Asterisk 288</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016181869-quick-fixes-for-non-functioning-dell-speakers-resolve-now/"><u>Quick Fixes for Non-Functioning Dell Speakers - Resolve Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/remedy-fix-disabled-right-click-on-windows-11-touchpad/"><u>Remedy: Fix Disabled Right Click on Windows 11 Touchpad</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reviving-hidden-link-reclaim-missing-bluetooth-in-pc/"><u>Reviving Hidden Link: Reclaim Missing BlueTooth in PC</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/what-lies-ahead-for-karafunkels-karaoke-suite-in-2018-an-insightful-forecast/"><u>What Lies Ahead for Karafunkel's Karaoke Suite in 2018: An Insightful Forecast</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

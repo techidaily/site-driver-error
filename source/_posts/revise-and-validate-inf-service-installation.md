@@ -1,7 +1,7 @@
 ---
 title: Revise and Validate INF Service Installation
-date: 2024-09-09T03:02:48.299Z
-updated: 2024-09-10T03:02:48.299Z
+date: 2024-12-07T00:26:28.759Z
+updated: 2024-12-09T19:05:57.484Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/a-service-installation-section-in-this-inf-is-invalid.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Fix a Service Installation Section in this INF is Invalid issue. Follow the steps in this article.
 
  After you connect your Android device to your computer, you find you can’t use the device and don’t see it on your computer. Then you go to Device Manager to check for the driver status. In Device Manager, you see a MTP USB device with a yellow exclamation mark under the category “Portable Devices” (In some cases, Unknown Devices under Other Devices). When you try to update the driver via Windows Update, you get this error message: _**A service installation section in this INF is invalid**_  . You have no idea how to fix this problem. That’s why you come to this post, right? Don’t worry. You can fix the problem easily with one of the solutions here.
@@ -34,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 1. [**Update the driver automatically**](https://bluetties.sjv.io/lxv4pm)
 2. [**Update the driver manually**](https://technitya.sjv.io/dkpn02)
 3. [**Install the missing driver files manually**](https://dhgate.sjv.io/5g6yb2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 1: Update the driver automatically
 
@@ -49,12 +47,6 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update** button next to a flagged MTP USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -76,35 +68,29 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687740cb79e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Select**Let me pick from a list of available drivers on my computer** and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68744ea8804.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) In Device Manager, if you see the device shown as MTP USB device. You’ll see**MTP USB Device** listed in the list.**Highlight** it then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687724c3ed9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you see the device shown as Unknown Device. You’ll see an Android phone or Android device in the long list.**Highlight** it and click**Next** then select**MTP USB device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68796507b2b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) The driver will install automatically. You just need to wait for a while until the installation completes.
 
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
@@ -119,16 +105,14 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
 
  4) Reconnect your Android device and check to see if the problem is resolved.
@@ -147,8 +131,6 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,6 +138,26 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-capturing-screenshots-like-a-pro-the-best-recorder-reviews/"><u>[New] 2024 Approved Capturing Screenshots Like a Pro The Best Recorder Reviews</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-device-driver-software-was-not-successfully-installed/"><u>[SOLVED] Device Driver Software Was Not Successfully Installed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-expert-review-of-the-leading-no-cost-cam-software-options/"><u>[Updated] 2024 Approved Expert Review of the Leading No-Cost Cam Software Options</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-tips-and-tricks-for-locating-recent-videos-youve-liked/"><u>[Updated] 2024 Approved Tips & Tricks for Locating Recent Videos You've Liked</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-strategic-playlist-formation-your-guide-to-youtube-mastery/"><u>[Updated] Strategic Playlist Formation Your Guide to YouTube Mastery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-selecting-top-notch-free-srt-translators-online/"><u>[Updated] Ultimate Guide Selecting Top-Notch Free SRT Translators Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-x8b-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor X8b</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-guide-to-fixing-your-non-functional-hp-wireless-keyboard/"><u>Comprehensive Guide to Fixing Your Non-Functional HP Wireless Keyboard</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ensuring-safe-backups-a-guide-to-using-windows-server-2012-r2-on-synology-network-attached-storage-nas/"><u>Ensuring Safe Backups: A Guide to Using Windows Server 2012 R2 on Synology Network Attached Storage (NAS)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-incompatible-driver-errors-for-a-smooth-computer-operation/"><u>Fixing Incompatible Driver Errors for a Smooth Computer Operation</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unresponsive-laptop-keys-on-windows-solutions-for-win10-8-and-7/"><u>Fixing Unresponsive Laptop Keys on Windows: Solutions for Win10, 8 & 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-update-razer-deathadder-driver-on-windows-10/"><u>How to Update Razer Deathadder Driver on Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-13c-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi 13C 5G Phone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-simplify-your-video-sharing-with-our-youtube-upload-strategy/"><u>In 2024, Simplify Your Video Sharing with Our YouTube Upload Strategy</u></a></li>
+<li><a href="https://driver-error.techidaily.com/post-win11-upgrade-realtek-net-issue-addressed/"><u>Post-Win11 Upgrade, Realtek Net Issue Addressed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-installation-errors-what-to-do-when-your-driver-isnt-compatible-with-your-pc/"><u>Resolving Installation Errors: What To Do When Your Driver Isn't Compatible With Your PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successful-nvidia-graphics-driver-setup-for-latest-os/"><u>Successful Nvidia Graphics Driver Setup for Latest OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-driver-installation-problems-on-windows-1087-fixed/"><u>Troubleshooting Driver Installation Problems on Windows 10/8/7 [FIXED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsupported-hardware-error-troubleshooting-guide-idt-software-compatibility-fix/"><u>Unsupported Hardware Error: Troubleshooting Guide - IDT Software Compatibility Fix</u></a></li>
+</ul></div>
 

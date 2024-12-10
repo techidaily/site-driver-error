@@ -1,7 +1,7 @@
 ---
 title: "Resolving 'Crash & Restore': The Default Radeon Wattman Configuration Fixed"
-date: 2024-09-09T03:09:39.565Z
-updated: 2024-09-10T03:09:39.565Z
+date: 2024-12-04T07:40:46.441Z
+updated: 2024-12-09T16:05:24.521Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Resolving 'Crash & Restore': The Default Radeon
 thumbnail: https://thmb.techidaily.com/924eefd74e0a8e5fe853f298ec0a0b33bfecd9ce28f70a0090979c17f5a4bfa6.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Resolving 'Crash & Restore': The Default Radeon Wattman Configuration Fixed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58d895485ccdd.jpg)  
@@ -48,18 +42,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da122aa7042.png)  
   
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Expand category **Display adapters**. Then double click the AMD Radeon device driver that you can see.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da14a5b79bf.jpg)  
@@ -72,18 +54,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1595caf55.jpg)
   
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Option 2:** **Clean re-install display card driver**  
   
 **Note**: This option requires that you install a **DDU**, **Display Driver Uninstaller**, on your computer first. You can of course use similar programs such as Cc Cleaners to help you with the uninstall.
@@ -96,12 +66,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1d980a082.jpg)  
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Now, press **Windows key** and **X** at the same time and choose **Device Manager**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da122aa7042.png)  
@@ -110,38 +74,14 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da14a5b79bf.jpg)  
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Navigate to **Driver** tab, then choose **Uninstall**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1e9101343.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When prompted with the following notification, click **OK** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1ea6e2b3a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Now open the Display Driver Uninstaller that we previously installed. Click **Clean and Restart (highly recommended)** option. Then DDU will do its job.
   
  Your PC will automatically restart when the uninstall finishes. Please make sure that you have saved all your important files before the restart.
@@ -156,12 +96,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da264342d54.jpg)  
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With the help of [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/), you don’t need to worry about downloading wrong device drivers any more! Leave everything to the professionals, and Driver Easy will take care of the rest for you.
   
 **Option 3: Run a RAM check**
@@ -172,12 +106,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) You could choose **Restart now and check for problems (recommended)** to check the status of your memory card right now, or choose **Check for problems the next time I start my computer** if you are too occupied now.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
@@ -207,8 +135,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,6 +142,30 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-proven-techniques-to-elevate-your-igtv-videos-on-mobile-and-professional-cameras-for-2024/"><u>[Updated] Proven Techniques to Elevate Your IGTV Videos on Mobile & Professional Cameras for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/comprehensive-guide-on-integratingdisintegrating-esxi-hosts-with-vcenter-manager-version-7/"><u>Comprehensive Guide on Integrating/Disintegrating ESXi Hosts with vCenter Manager Version 7</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-memorable-titles-a-comprehensible-ae-approach/"><u>Crafting Memorable Titles A Comprehensible AE Approach</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/enhancing-outreach-sending-twitters-videos-to-facebooks-for-2024/"><u>Enhancing Outreach Sending Twitters' Videos to Facebooks for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-lack-of-support-for-amdintel-drivers-in-premier-pro-software/"><u>Fixed Lack of Support for AMD/Intel Drivers in Premier Pro Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-crashes-to-continuity-successfully-resetting-and-restoring-your-radeon-wattman-configuration/"><u>From Crashes to Continuity: Successfully Resetting & Restoring Your Radeon Wattman Configuration</u></a></li>
+<li><a href="https://driver-error.techidaily.com/home-grown-solution-for-chinese-servers-how-tencentos-optimizes-performance-on-kunpeng-hygon-and-feiteng-cpus/"><u>Home-Grown Solution for Chinese Servers: How TencentOS Optimizes Performance on Kunpeng, Hygon & FeiTeng CPUs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-a-ninety-five-gtx-code-forty-three-issue-on-your-new-windows-eleven-system/"><u>How to Fix a Ninety-Five GTX Code Forty-Three Issue on Your New Windows Eleven System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-dealing-with-outdated-usb-composite-devices-solution/"><u>How to Fix: Dealing with Outdated USB Composite Devices - SOLUTION</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/identifying-cryptocurrency-fraud-a-comprehensive-guide-by-yl-computing/"><u>Identifying Cryptocurrency Fraud: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-honor-magic-5-lite-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Honor Magic 5 Lite Without PUK Codes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplified-guide-swiftly-moving-your-macbook-data-surprisingly-straightforward-methods-revealed/"><u>Simplified Guide: Swiftly Moving Your MacBook Data - Surprisingly Straightforward Methods Revealed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-best-way-to-install-new-software-on-your-hp-envy-20-series-laptop/"><u>The Best Way to Install New Software on Your HP Envy 20 Series Laptop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-list-of-iconic-stop-motion-films-for-2024/"><u>The Ultimate List of Iconic Stop-Motion Films for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-list-of-must-have-tv-streaming-platforms/"><u>The Ultimate List of Must-Have TV Streaming Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-iphone-16-and-pro-protective-covers-of-2024-comprehensive-reviews-by-tech-specialists/"><u>Top-Rated iPhone 16 & Pro Protective Covers of 2024: Comprehensive Reviews by Tech Specialists</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-and-solve-your-gtx-950-with-error-code-43-in-win11/"><u>Troubleshoot and Solve Your GTX 950 with Error Code 43 in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-and-update-device-drivers-for-seamless-operation-across-windows-7-to-10-platforms-guide/"><u>Troubleshoot and Update Device Drivers for Seamless Operation Across Windows 7 to 10 Platforms [GUIDE]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-troubleshooting-bluetooth-glitches-fixed/"><u>Windows Troubleshooting: Bluetooth Glitches Fixed!</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

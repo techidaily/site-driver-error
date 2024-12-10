@@ -1,7 +1,7 @@
 ---
 title: "Graphics Decipherment: Microsoft's MS BDA"
-date: 2024-09-09T03:04:10.785Z
-updated: 2024-09-10T03:04:10.785Z
+date: 2024-12-06T16:16:14.501Z
+updated: 2024-12-09T19:30:48.583Z
 tags:
   - win11
   - win10
@@ -21,12 +21,6 @@ thumbnail: https://thmb.techidaily.com/4f6a39e9aacc54ee51fae61937dd3f2d46fe2285f
 
  You may wonder, what happens to my graphics card, and why can’t I see it anymore. No worries, this problem is not at all hard to fix. And we’re here to help.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Fix graphics card shows as Microsoft Basic Display Adapter
 
  Here are 4 fixes that have helped other users resolve the**graphics card shows as Microsoft Basic Display Driver** issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -35,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/4f6a39e9aacc54ee51fae61937dd3f2d46fe2285f
 2. **[Update your graphics driver](https://copa.sjv.io/6eoowq)**
 3. **[Replace the graphics card](https://mushroom-supplies.sjv.io/gmegme)**
 4. **[Downgrade Operating System](https://bluettide.pxf.io/ekmjb2)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Run Windows Updates
 
@@ -47,25 +45,25 @@ Here is how to run Windows Updates:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c20e613f781.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c20ee5332a7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check to see if there is a graphics driver available. If yes, then great – just run the update and you’ll automatically fix the problem. If Windows doesn’t provide you with a graphics driver update, please move on to**Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -81,11 +79,9 @@ Here is how to run Windows Updates:
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_all_ the drivers.  
  （You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  right now with a discount, or activate the 7-day free trial version. With the trial version, you will have access to_all features_ of the Pro version such as high-speed download and one-click install. You won’t be charged before your 7-day trial ends and you can easily cancel any time during the trial period.）
 
@@ -97,18 +93,6 @@ Here is how to run Windows Updates:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Replace the graphics card
 
  If updating your graphics card driver doesn’t help to solve the problem, you may need to consider getting your graphics card replaced, as it might be faulty.
@@ -119,18 +103,6 @@ Here is how to run Windows Updates:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Downgrade operating system
 
  If you are not ready to make a new investment by purchasing a brand new graphics card for your PC, here is your alternative: downgrade your Windows 10 to its previous version, be it Windows 8 or Windows 7\.
@@ -147,8 +119,6 @@ Here is how to run Windows Updates:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,6 +126,21 @@ Here is how to run Windows Updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-insight-on-effortless-photo-and-video-importers-in-windows-10/"><u>2024 Approved In-Depth Insight on Effortless Photo & Video Importers in Windows 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-80s-movie-magic-for-contemporary-edits/"><u>Best 80S Movie Magic for Contemporary Edits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/building-compelling-dandd-figures-using-gpt-and-generative-ai/"><u>Building Compelling D&D Figures Using GPT and Generative AI</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphic-deconstruction-microsofts-ms-bda-explained/"><u>Graphic Deconstruction: Microsoft's MS BDA Explained</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-and-windows-10-demystifying-the-code-43-error-and-how-to-fix-it-successfully/"><u>GTX 950 and Windows 10: Demystifying the 'Code 43' Error and How to Fix It Successfully</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-usb-drive-not-showing-up-in-windows-10-issue/"><u>How to Fix USB Drive Not Showing Up in Windows 10 Issue</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-maximize-your-marketing-metrics-top-8-apps-for-facebook-like-boost/"><u>In 2024, Maximize Your Marketing Metrics Top 8 Apps for Facebook Like Boost</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sketching-success-a-guide-to-industrys-best-10-vector-apps/"><u>In 2024, Sketching Success A Guide to Industry's Best 10 Vector Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-uncovering-the-value-of-true-representations-in-insta-selfies/"><u>In 2024, Uncovering the Value of True Representations in Insta-Selfies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reactivating-the-automatic-spell-corrector-in-microsoft-outlook-easy-fixes/"><u>Reactivating the Automatic Spell Corrector in Microsoft Outlook: Easy Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolution-achieved-enablement-successful/"><u>Resolution Achieved: Enablement Successful</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-fixes-for-pc-woes-enter-safe-mode-and-eliminate-graphics-card-drivers-in-windows-8/"><u>Seamless Fixes for PC Woes - Enter Safe Mode & Eliminate Graphics Card Drivers in Windows 8</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-essential-steps-for-transitioning-videos-from-youtube-to-dailymotion-for-2024/"><u>The Essential Steps for Transitioning Videos From YouTube to Dailymotion for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-how-to-fix-compatibility-issues-with-legacy-usb-composite-devices/"><u>Troubleshooting: How to Fix Compatibility Issues with Legacy USB Composite Devices</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unresponsive Keys Issue in 10
-date: 2024-11-27T01:41:17.366Z
-updated: 2024-12-02T18:26:36.341Z
+date: 2024-12-08T00:13:27.756Z
+updated: 2024-12-10T03:17:04.746Z
 tags:
   - win11
   - win10
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
@@ -56,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
  3) Click**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
@@ -83,12 +83,16 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
@@ -114,14 +118,10 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5: Switch to ChromeOS
 
@@ -164,20 +164,17 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/restored-keyboard-functionality-in-windows-11/"><u>[Restored] Keyboard Functionality in Windows 11</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/convert-mp43gp-files-free-with-movavis-web-based-format-changer/"><u>Convert MP4/3GP Files FREE with Movavi's Web-Based Format Changer</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-windows-10-creators-update-issue-with-non-detected-logitech-brio-webcam-answered/"><u>Fixing Windows 10 Creators Update Issue with Non-Detected Logitech Brio Webcam [Answered]</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/i-understand-that-this-will-be-able-to-find-a-good-time-in-python-40-of-its-positive-integers-pknowledge-a-px-plus-mongodb-markup-1s-are-you-interested-in-l8/"><u>I Understand that This Will Be Able to Find a Good Time in Python 40% of Its Positive Integers $pKnowledge: A) P(x + mongoDB Markup #1'S`^] Are You Interested in Learning How, and It Is the Same Day-Grown for Each Termination.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-itel-p40plus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Itel P40+ to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-note-13-proplus-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi Note 13 Pro+ 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-motorola-moto-g14-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Motorola Moto G14 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quieten-unwanted-bluetooth-in-windows-10/"><u>Quieten Unwanted Bluetooth in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tech-constraint-auto-unloadable/"><u>Tech Constraint: Auto Unloadable</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-wi-fi-problems-on-your-ios-devices-using-our-top-8-tips-and-tricks/"><u>Troubleshoot Wi-Fi Problems on Your iOS Devices Using Our Top 8 Tips and Tricks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-realme-narzo-60-5g-by-drfone-android/"><u>Universal Unlock Pattern for Realme Narzo 60 5G</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-12-mini-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 12 mini? How to Fix</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-1110-solve-pci-controller-gone-awol/"><u>Win 11/10: Solve PCI Controller Gone AWOL</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-grandview-media-mastering-the-art-of-selecting-a-cms/"><u>[New] In 2024, Grandview Media Mastering the Art of Selecting a CMS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-mastering-vlc-mp4-and-various-format-conversion-techniques/"><u>[Updated] Mastering VLC MP4 & Various Format Conversion Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/become-a-facetime-pro-skype-call-basics-for-mobile-users/"><u>Become a Facetime Pro Skype Call Basics for Mobile Users</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/buying-cryptocurrencies-using-traditional-money-a-guide-by-yl-computing/"><u>Buying Cryptocurrencies Using Traditional Money: A Guide by YL Computing</u></a></li>
+<li><a href="https://facebook.techidaily.com/comprehensive-insight-on-fb-image-safety/"><u>Comprehensive Insight on FB Image Safety</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-asmedia-usb-host-controller-was-not-found-on-asus/"><u>Fixed: ASMedia USB Host Controller Was Not Found on Asus</u></a></li>
+<li><a href="https://driver-error.techidaily.com/identifying-and-correcting-unrecognized-usb-errors-in-win-78/"><u>Identifying and Correcting Unrecognized USB Errors in Win 7/8</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-cover-art-mastery-transforming-your-podcasts-first-impression-with-tips-and-tricks/"><u>New 2024 Approved Cover Art Mastery Transforming Your Podcasts First Impression (With Tips & Tricks)</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-gpu-drivers-on-windows-8/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing GPU Drivers on Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-definitive-guide-to-download-and-refresh-drivers-on-the-hp-envy-20-computer-series/"><u>The Definitive Guide to Download & Refresh Drivers on the HP ENVY 20 Computer Series</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winning-against-w11s-elan-input-issues-one-fix-at-a-time/"><u>Winning Against W11's Elan Input Issues, One Fix at a Time</u></a></li>
 </ul></div>
 

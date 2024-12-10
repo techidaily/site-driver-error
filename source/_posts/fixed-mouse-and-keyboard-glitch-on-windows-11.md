@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Mouse & Keyboard Glitch on Windows 11"
-date: 2024-11-26T21:27:39.224Z
-updated: 2024-12-02T20:54:42.176Z
+date: 2024-12-08T01:02:58.384Z
+updated: 2024-12-10T05:32:21.654Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -36,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  Fortunately, it’s easy to test: simply unplug the keyboard from the USB port and plug in another USB device – like a mouse or an external hard drive. If that device doesn’t work either, the USB port itself is the problem, and you should skip straight to [Method 4](https://pish-posh-baby.sjv.io/g1jg15) . If the device you just plugged in does work, then continue to [Method 2](https://zonlipartnershipprogram.pxf.io/b0rbxy) .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Adjust your keyboard settings
 
@@ -53,17 +53,21 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -79,21 +83,17 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -120,7 +120,7 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Switch to ChromeOS
@@ -164,20 +164,20 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-digital-artisans-exclusive-summit/"><u>[New] 2024 Approved Digital Artisans' Exclusive Summit</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-accelerating-artistic-outputs-fast-tracked-google-collage-creation-for-2024/"><u>[New] Accelerating Artistic Outputs Fast-Tracked Google Collage Creation for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-onestepcams-evaluation-are-we-overlooking-gems/"><u>[New] OneStepCams Evaluation Are We Overlooking Gems?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-high-definition-audio-device-driver-issue-after-windows-7-install/"><u>[Solved] High Definition Audio Device Driver Issue After Windows 7 Install</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-8-linux-programs-for-media-makers/"><u>[Updated] In 2024, Best 8 Linux Programs for Media Makers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/drivers-detected-ideport0-control-error/"><u>Driver's Detected: Ideport0 Control Error</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effective-solutions-to-fix-unrecognized-driver-installations-for-compatibility/"><u>Effective Solutions to Fix Unrecognized Driver Installations for Compatibility</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-marvell-91xx-driver-issue-on-windows-11-solved/"><u>Fix Marvell 91Xx Driver Issue on Windows 11 [Solved]</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210934932-9781782497820-mindfulness-and-grief/"><u>Mindfulness and Grief | Free Book</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/seamless-blend-inserting-music-into-fb-video-posts/"><u>Seamless Blend Inserting Music Into FB Video Posts</u></a></li>
-<li><a href="https://driver-error.techidaily.com/seamless-navigation-a-win10-update/"><u>Seamless Navigation: A Win10 Update</u></a></li>
-<li><a href="https://facebook.techidaily.com/tech-companies-role-in-ensuring-a-safer-digital-space-against-fraudulent-ads/"><u>Tech Companies' Role in Ensuring a Safer Digital Space Against Fraudulent Ads</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-videography-equipment/"><u>Top Videography Equipment</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-invalid-drivers-steps-to-rectify-unrecognized-installations/"><u>Troubleshooting Invalid Drivers: Steps to Rectify Unrecognized Installations</u></a></li>
-<li><a href="https://driver-error.techidaily.com/usb-serial-linkup-windows-system-recovery-tips/"><u>USB Serial Linkup: Windows System Recovery Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-street-smart-showdown-top-hand-to-hand-video-games/"><u>[New] 2024 Approved Street Smart Showdown Top Hand-to-Hand Video Games</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ssential-youtube-short-content-techniques-unveiled-for-2024/"><u>[New] Essential YouTube Short Content Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-essential-insights-into-using-color-grading-luts-with-pscc/"><u>[New] In 2024, Essential Insights Into Using Color Grading LUTs with PSCC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-mac-screenshots-five-efficient-ways/"><u>[New] Mastering Mac Screenshots Five Efficient Ways</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-samsung-galaxy-z-flip-5-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Samsung Galaxy Z Flip 5 is off? | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/deciphering-the-mystery-of-network-adapter-error-messages-with-yl-software-assistance/"><u>Deciphering the Mystery of Network Adapter Error Messages with YL Software Assistance</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-technology-high-performance-insights-from-toms-world/"><u>Decoding Technology: High-Performance Insights From Tom's World</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-critical-process-died-snipped-0x0000007e-blue-screen-issue-on-windows-vista-and-7/"><u>How to Resolve Critical Process Died, Snipped 0X0000007E Blue Screen Issue on Windows Vista and 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-update-your-idt-software-for-new-hardware-support-and-avoid-common-issues/"><u>How to Update Your IDT Software for New Hardware Support and Avoid Common Issues</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-nonfunctional-movie-files-in-quality-time-player/"><u>Reviving Nonfunctional Movie Files in Quality Time Player</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-post-update-issues-with-realtek-lan-controls/"><u>Solving Post-Update Issues with Realtek LAN Controls</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-windows-sm-bus-controller-hurdles/"><u>Solving Windows SM Bus Controller Hurdles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/universal-drivers-package-pci-windows-compatible/"><u>Universal Drivers Package (PCI Windows Compatible)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ustream-showcase-plus-similar-video-sites/"><u>Ustream Showcase + Similar Video Sites</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-wireless-mouse-disconnects-regularly/"><u>Windows Wireless Mouse Disconnects Regularly</u></a></li>
 </ul></div>
 

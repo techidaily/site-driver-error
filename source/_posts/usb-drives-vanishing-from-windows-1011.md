@@ -1,7 +1,7 @@
 ---
 title: USB Drives Vanishing From Windows 10/11
-date: 2024-11-28T01:48:17.813Z
-updated: 2024-12-03T03:35:25.677Z
+date: 2024-12-08T21:31:07.553Z
+updated: 2024-12-10T07:17:14.915Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
  Method 4:[**Create a registry subkey**](https://modlily.sjv.io/aw92wr)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **1: Uninstall IDE ATA/ ATAPI controllers**
@@ -41,17 +41,13 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6098ec3402.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate**IDE ATA/ ATAPI controllers** .
  3) Right-click **ATA Channel 0** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e194a84fe7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Right-click **ATA Channel 1** and click**Uninstall** .
 
@@ -62,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
  6) Reboot your computer after these changes.
 
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **2: Update drivers**
 
@@ -79,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a61a4afa.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -90,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
@@ -111,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55543336b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) **Delete**  them.
 
@@ -133,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Create a new**Controller0** key under**atapi** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
@@ -146,12 +142,16 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -172,22 +172,17 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-investing-in-success-budget-for-youtube-growth-for-2024/"><u>[New] Investing in Success Budget for YouTube Growth for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-secrets-to-unforgettable-borders-in-your-instagram-shots/"><u>[Updated] 2024 Approved The Secrets to Unforgettable Borders in Your Instagram Shots</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-abc-of-advertising-a-trifecta-strategy-to-drive-engagement-on-fb-platforms/"><u>[Updated] The ABC of Advertising A Trifecta Strategy to Drive Engagement on FB Platforms</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-essential-7-android-apps-to-eliminate-intrusive-ads/"><u>2024 Approved Essential 7 Android Apps to Eliminate Intrusive Ads</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/advanced-cropping-and-focus-mastery/"><u>Advanced Cropping and Focus Mastery</u></a></li>
-<li><a href="https://driver-error.techidaily.com/behold-the-best-a-detailed-look-at-nixplay-seed-frame/"><u>Behold the Best: A Detailed Look at Nixplay Seed Frame</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-free-wi-fi-drivers-compatible-with-windows-7-simple-steps/"><u>Download & Update: Free Wi-Fi Drivers Compatible with Windows 7 - Simple Steps!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/essential-tips-for-fixing-windows-acpi-on-asus-laptops/"><u>Essential Tips for Fixing Windows ACPI on Asus Laptops</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-asmedia-usb-31-driver-issue-in-windows/"><u>Fix ASMedia USB 3.1 Driver Issue in Windows</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/o-clear-black-boards-in-your-youtube-videos/"><u>How to Clear Black Boards in Your YouTube Videos?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-radeon-wattman-configuration-errors-after-a-system-crash/"><u>How to Fix Radeon Wattman Configuration Errors After a System Crash</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-restore-and-update-your-coprocessor-driver-in-windows-11-complete-solution/"><u>How to Restore and Update Your Coprocessor Driver in Windows 11 [Complete Solution]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-waiting-wacom-devices-now-talking/"><u>No More Waiting: Wacom Devices Now Talking!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-how-to-fix-missing-device-drivers-on-windows-10-8-and-7/"><u>Solved: How to Fix Missing Device Drivers on Windows 10, 8, and 7</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transformative-tech-effortlessly-turning-phones-into-vr-gear-for-2024/"><u>Transformative Tech Effortlessly Turning Phones Into VR Gear for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-win11-qualcomm-atheros-bluetooth-driver-problems/"><u>Troubleshooting and Solving Win11 Qualcomm Atheros Bluetooth Driver Problems</u></a></li>
-<li><a href="https://facebook.techidaily.com/unmasking-the-figures-of-lost-facebook-users/"><u>Unmasking the Figures of Lost Facebook Users</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-aspiring-star-top-tiktok-techniques-to-amplify-your-reach-for-2024/"><u>[New] Aspiring Star Top TikTok Techniques to Amplify Your Reach for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-guide-for-ppt-screen-capture-2023-style-for-2024/"><u>[New] The Ultimate Guide for PPT Screen Capture, 2023 Style for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-elevate-your-vlogging-game-with-tripod-mastery/"><u>[Updated] 2024 Approved Elevate Your Vlogging Game with Tripod Mastery</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-personal-narratives-for-online-connection-and-growth/"><u>[Updated] Personal Narratives for Online Connection and Growth</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/decoding-the-process-your-comprehensive-guide-to-filing-a-dispute-report-on-discord/"><u>Decoding the Process Your Comprehensive Guide to Filing a Dispute Report on Discord</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-microsoft-sound-driver-software-for-your-pc-today/"><u>Get the Newest Microsoft Sound Driver Software for Your PC Today!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-decipherment-microsofts-ms-bda/"><u>Graphics Decipherment: Microsoft's MS BDA</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/leading-alternatives-to-zoom-on-desktops-and-smartphones/"><u>Leading Alternatives to Zoom on Desktops & Smartphones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-for-fixing-failed-to-initialize-battleye-with-driver-error-145/"><u>Troubleshooting Guide for Fixing 'Failed to Initialize BattlEye' With Driver Error 145^</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-the-usb-composite-device-a-guide-to-legacy-usb-systems/"><u>Understanding the USB Composite Device: A Guide to Legacy USB Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unraveling-the-mystery-of-vintage-usb-composite-hardware-for-todays-tech-enthusiasts/"><u>Unraveling the Mystery of Vintage USB Composite Hardware for Today's Tech Enthusiasts</u></a></li>
 </ul></div>
 

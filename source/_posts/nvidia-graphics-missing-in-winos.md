@@ -1,7 +1,7 @@
 ---
 title: Nvidia Graphics Missing in WINOS
-date: 2024-09-09T03:02:34.689Z
-updated: 2024-09-10T03:02:34.689Z
+date: 2024-12-03T16:25:20.406Z
+updated: 2024-12-10T08:17:01.069Z
 tags:
   - win11
   - win10
@@ -13,34 +13,10 @@ excerpt: This Article Describes Nvidia Graphics Missing in WINOS
 thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc531569d56d79c1b10e2acedb4321.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Nvidia Graphics Missing in WINOS
 
  If you ever encounter the**graphics card not detected on Device Manager** problem, you’re certainly not alone. But don’t worry, it can be easily fixed.
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes for Nvidia Graphics Cards Not Detected
 
  All the fixes below work in**Windows 11, 10,** **8.1,** and**7** . You may not have to try them all; just work your way down the list until the**graphics card not showing up in Device Manager** issue goes away.
@@ -59,35 +35,21 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91effe026eb.png)
 2. Click **View**   and then click **Show hidden devices** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/windows11showhiddendevices.jpg)
 3. Click **Action** \> **Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9234ccb8e93.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Check if your Nvidia graphics driver shows up under the **Display adapters** category as a gray-out device, i.e. it looks pale compared to other functioning devices. If so, right-click your Nvidia display card and select**Uninstall device** .  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-30.png)
 5. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .  
+
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-32.png)
 6. Then restart your computer.
 7. If the Nvidia display card remains disappeared when your computer restarts, don’t worry, move on to the next fix.
@@ -104,20 +66,12 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/nvidia-graphics.png)
 4. **Restart** your computer, then check if the**graphics card not detected** problem is resolved. If yes, then congrats! But if the issue remains, please move on to**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -135,11 +89,9 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Repair corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -150,6 +102,11 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 2. Open Fortectand run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -168,8 +125,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,6 +132,21 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/completely-fixed-system-non-bootable-after-installation/"><u>[COMPLETELY FIXED] System Non-Bootable After Installation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-ultimate-guide-to-travel-blogs-on-youtube/"><u>[New] 2024 Approved The Ultimate Guide to Travel Blogs on Youtube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-highlighting-the-top-video-creation-apps-iphone-android/"><u>[New] In 2024, Highlighting the Top Video Creation Apps (iPhone, Android)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-social-media-trends-visualized-for-2024/"><u>[Updated] Social Media Trends Visualized for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/car-charge-denied-by-device/"><u>Car Charge Denied by Device</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effective-ways-to-correctly-update-and-repair-your-rtl8723be-driver-problems/"><u>Effective Ways to Correctly Update and Repair Your RTL8723BE Driver Problems</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/exploring-youtubes-latest-revenue-guidelines-for-2024/"><u>Exploring YouTube's Latest Revenue Guidelines for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-your-wireless-keyboard-issues-on-windows-step-by-step-guide/"><u>Fix Your Wireless Keyboard Issues on Windows – Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-7-cameras-elevating-virtual-event-coverage-and-vlogging/"><u>Prime 7 Cameras Elevating Virtual Event Coverage and Vlogging</u></a></li>
+<li><a href="https://driver-error.techidaily.com/remedying-recurrent-nvidia-driver-errors/"><u>Remedying Recurrent Nvidia Driver Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-your-league-of-legends-network-connectivity-problems/"><u>Resolved: Fixing Your League of Legends Network Connectivity Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seagate-disk-vanished-on-windows-10-heres-how-to-fetch-it-back/"><u>Seagate Disk Vanished on Windows 10? Here's How to Fetch It Back</u></a></li>
+</ul></div>
 

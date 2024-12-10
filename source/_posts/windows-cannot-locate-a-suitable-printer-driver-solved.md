@@ -1,7 +1,7 @@
 ---
 title: Windows Cannot Locate a Suitable Printer Driver [SOLVED]
-date: 2024-11-28T22:16:28.947Z
-updated: 2024-12-02T16:47:37.361Z
+date: 2024-12-08T20:50:23.238Z
+updated: 2024-12-10T02:59:07.750Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Update your printer driver**
@@ -44,17 +44,21 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd27a3449c1f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd27b9a107e9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4)**Restart** your computer and see if the **Windows cannot locate a suitable printer driver**  problem has been solved. If yes, then great! But if the error still pops up, you should try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: Set printer share permissions**
 
@@ -76,13 +80,17 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 2. Under**Printers** , right-click on**your printer** and click **Printer properties**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af6658ae1882.jpg)
 3. Click the**Sharing** tab, tick the box that says **Share this printer** , click **Apply** \->   **OK.**  
 
 **![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af922bdb75cb.png)**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Make sure you do steps 4-6 on**EVERY** computer that needs access to the printer.
 4. On your keyboard, press **the Windows logo key** and **R**  at the same time. Then copy & paste **control /name Microsoft.NetworkAndSharingCenter** into the box and click **OK**  .  
@@ -92,16 +100,8 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af66a50e9add.jpg)
 6. Under**Guest or Public (current profile)** , click the**Turn on network discovery** option and the **Turn on file and printer sharing** option. Click **Save changes**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af66bb7aee19.jpg)
 7. Restart your computer and check if the**Windows cannot locate a suitable printer driver** issue has been fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -125,16 +125,22 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-free-fires-audio-transformation-tricks/"><u>[New] In 2024, Free Fire's Audio Transformation Tricks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-beginners-blueprint-for-youtube-success-setting-up-and-making-money/"><u>[Updated] 2024 Approved Beginner’s Blueprint for YouTube Success Setting Up & Making Money</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-search-error-on-windows/"><u>Driver Search Error on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effiziente-losung-fur-hangen-und-verzogerungen-wahrend-des-abspielens-von-mkv-dateien-unter-windows-and-macos/"><u>Effiziente Lösung Für Hängen Und Verzögerungen Während Des Abspielens Von MKV-Dateien Unter Windows & macOS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-and-prevent-amd-radeon-wattman-rebooting-issues-comprehensive-guide/"><u>How To Fix And Prevent AMD Radeon WattMan Rebooting Issues - Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/logitech-not-recognized-win1011-remedy-found/"><u>Logitech Not Recognized: Win10/11 Remedy Found</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-hassle-guide-addressing-unavailable-drivers-in-itbm-systems/"><u>No Hassle Guide: Addressing Unavailable Drivers in ITBM Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/quality-on-a-dime-your-guide-to-vr-selection/"><u>Quality on a Dime: Your Guide to VR Selection</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-itel-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Itel on Mac</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-honor-x9b-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Honor X9b to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/xbox-peripheral-driver-solutions-for-windows-10-and-earlier-versions/"><u>Xbox Peripheral Driver Solutions for Windows 10 and Earlier Versions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cutting-edge-tools-to-snatch-and-save-videos-flawlessly/"><u>[New] In 2024, Cutting-Edge Tools to Snatch and Save Videos Flawlessly</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-tiktok-livestream-immersion-your-playbook/"><u>[New] TikTok Livestream Immersion Your Playbook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-dominating-the-youtube-viewership-game/"><u>[Updated] 2024 Approved A Step-by-Step Guide to Dominating the YouTube Viewership Game</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-solo-art-of-personalized-instagram-ringtone-making/"><u>[Updated] 2024 Approved The Solo Art of Personalized Instagram Ringtone Making</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-add-personality-to-your-device-a-comprehensively-tailored-sound-and-ringtone-guide-for-android/"><u>[Updated] In 2024, Add Personality to Your Device A Comprehensively Tailored Sound & Ringtone Guide for Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tricks-to-acquire-dry-stock-photography/"><u>[Updated] Tricks to Acquire Dry Stock Photography</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-hurdle-cleared-successful-run/"><u>Driver Installation Hurdle Cleared – Successful Run</u></a></li>
+<li><a href="https://win-community.techidaily.com/expert-advice-mastering-keyboard-shortcuts-in-professional-karaoke-applications-with-pcdj/"><u>Expert Advice: Mastering Keyboard Shortcuts in Professional Karaoke Applications with PCDJ</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-offline-issues-with-origin-a-step-by-step-recovery-tutorial/"><u>Fixing Offline Issues with Origin: A Step-by-Step Recovery Tutorial</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-obtaining-your-asus-monitors-latest-drivers/"><u>Quick Guide: Obtaining Your ASUS Monitor's Latest Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/remedying-the-failure-of-enex-driver-integration-in-win11/"><u>Remedying the Failure of eNEX Driver Integration in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-hardware-not-compatible-messages-in-idt-software-packages/"><u>Resolving 'Hardware Not Compatible' Messages in IDT Software Packages</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-incompatibility-how-to-install-needed-drivers-for-your-hardware-in-windows-xpvista7/"><u>Resolving Incompatibility: How to Install Needed Drivers for Your Hardware in Windows XP/Vista/7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-device-id-33a0-in-acpi/"><u>Solving Device ID 33A0 in ACPI</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-for-when-your-computer-ignores-the-latest-plugged-in-usb/"><u>Step-by-Step Solutions for When Your Computer Ignores the Latest Plugged-In USB</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlock-the-magic-of-bluetech-on-new-pc-with-this-quick-guide-fixed-windows-11-bluescreen-issue-done/"><u>Unlock the Magic of BlueTech on New PC with This Quick Guide - Fixed Windows 11 Bluescreen Issue – Done!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winning-against-windows-7s-bsod-how-to-deal-with-error-code-0x0000007e-successfully/"><u>Winning Against Windows 7'S BSOD: How to Deal with Error Code 0X0000007E Successfully</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tackling Intermittent Nvidia Driver Crashes
-date: 2024-09-09T03:03:52.341Z
-updated: 2024-09-10T03:03:52.341Z
+date: 2024-12-02T18:23:13.181Z
+updated: 2024-12-09T22:42:46.697Z
 tags:
   - win11
   - win10
@@ -13,28 +13,10 @@ excerpt: This Article Describes Tackling Intermittent Nvidia Driver Crashes
 thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5e82388216c0b539cc0ef7e4.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tackling Intermittent Nvidia Driver Crashes
 
 **Nvidia drivers crashing** on your computer? Don’t worry – it’s usually not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes for Nvidia drivers crashing
 
  Here are seven fixes that have helped other users resolved the Nvidia drivers crashing problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -47,12 +29,6 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 6. **[Repair system files](https://newchic.sjv.io/jzg4zq)**
 7. [**Check for hardware issues**](https://bellelily.pxf.io/m5azgm)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Uninstall your Nvidia display driver
 
  One of the common reasons for the Nvidia drivers crashing issue is a corrupt or incompatible Nvidia driver on your computer. So you can uninstall the driver, allowing Windows to automatically install a new one to see if it fixes the issue.
@@ -91,19 +67,21 @@ Here is how to uninstall your Nvidia display drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594695d7c27.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer, then keep an eye on your computer to see if the display driver keeps crashing issue has been resolved. If yes, then congrats! But if the issue remains, please try **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust Nvidia Control Panel settings
 
@@ -116,11 +94,9 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In**View by** , choose**Large icons** . Then click**Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
@@ -129,17 +105,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-225.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Close the window.
 
 5) Check to see if the Nvidia drivers crashing issue is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable antivirus programs temporarily
 
@@ -148,6 +122,10 @@ Here is how to do it:
  If Nvidia stops crashing during the time the antivirus program is off, then the antivirus program is probably the culprit. You can disable it when you want to use Nvidia.
 
 If Nvidia still keeps crashing, please move on to Fix 5, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5:**Update DirectX**
 
@@ -160,11 +138,9 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Repair system files
 
  Missing, corrupt, or damaged system files may cause the Nvidia driver crashing issue. To eliminate this issue as a possible cause, you can try the 2 ways below to repair possible system file issues.
@@ -187,12 +163,6 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
  3) Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
@@ -209,23 +179,15 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4) Restart your computer for the changes to take effect.
@@ -252,8 +214,6 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -261,6 +221,26 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/visioncaptor-new-era-of-screen-recorders-unveiled-for-2024/"><u>'VisionCaptor' New Era of Screen Recorders Unveiled for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-cutting-through-the-noise-strategies-for-standout-instagram-success/"><u>[New] Cutting Through the Noise Strategies for Standout Instagram Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-delete-comments-from-youtube-with-minimal-hassle-for-2024/"><u>[New] How to Delete Comments From YouTube with Minimal Hassle for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-videovisionaries-selecting-superior-4k-screen-options/"><u>[Updated] 2024 Approved VideoVisionaries Selecting Superior 4K Screen Options</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-masterclass-in-3d-color-grading-with-custom-luts/"><u>[Updated] Masterclass in 3D Color Grading with Custom LUTs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-step-by-step-guide-to-outstanding-ppt-in-google-meet-iosandroid-for-2024/"><u>[Updated] Step-by-Step Guide to Outstanding PPT in Google Meet (iOS/Android) for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortless-fix-restore-your-bluetooth-settings-in-latest-operating-system-fast-and-simple/"><u>Effortless Fix: Restore Your Bluetooth Settings in Latest Operating System [Fast and Simple]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-how-to-address-the-absent-coprocessor-driver-error-on-windows-11/"><u>Fix Guide: How to Address the Absent Coprocessor Driver Error on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-steelseries-arctis-mic-back-in-action-a-comprehensive-guide-to-repairing-non-functionality/"><u>Getting Your SteelSeries Arctis Mic Back in Action: A Comprehensive Guide to Repairing Non-Functionality</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-restoring-access-to-the-disappeared-co-processor-driver-on-windows-10-solved/"><u>Guide: Restoring Access to the Disappeared Co-Processor Driver on Windows 10 [Solved]</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-oppo-f25-pro-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Oppo F25 Pro 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-functional-after-fixing-windows-11-error/"><u>Keyboard Functional After Fixing Windows 11 Error</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigating-high-disk-usage-in-task-manager/"><u>Navigating High Disk Usage in Task Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-struggle-graphic-setup-now-perfect/"><u>No More Struggle: Graphic Setup Now Perfect</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-mouse-and-window-lag-woes/"><u>Overcoming Mouse & Window Lag Woes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-your-qualcomm-bluetooth-driver-woes-in-windows-11-step-by-step-solutions/"><u>Solving Your Qualcomm Bluetooth Driver Woes in Windows 11 – Step-by-Step Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098981663-unlock-the-secret-to-a-smooth-iphone-pc-connection-by-fixing-mtp-usb-drivers/"><u>Unlock the Secret to a Smooth iPhone-PC Connection by Fixing MTP USB Drivers</u></a></li>
+</ul></div>
 

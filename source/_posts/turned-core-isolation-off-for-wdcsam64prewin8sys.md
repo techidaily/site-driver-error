@@ -1,7 +1,7 @@
 ---
 title: Turned Core Isolation Off for wdcsam64_prewin8.sys
-date: 2024-11-30T22:34:59.805Z
-updated: 2024-12-02T20:16:08.981Z
+date: 2024-12-04T04:30:43.197Z
+updated: 2024-12-09T19:54:59.918Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Update Windows
 
  If you’ve disabled Windows from automatically updating manually, there are chances that you missed some driver updates that could help to fix incompatible drivers like wdcsam64\_prewin8.sys. To make sure that you have the latest available updates installed:
@@ -49,9 +53,17 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then restart your computer and see if**_wdcsam64\_prewin8.sys_** is still listed as an incompatible file that stops Memory Integrity from working properly. If the problem remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Reinstall the wdcsam64\_prewin8.sys driver
 
@@ -69,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 3. This is what the command looks like on my computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-74.png)  
@@ -81,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Manually download and install the wdcsam64\_prewin8.sys driver
 
  According to a post on the WD forum, WD has recognized this problem, i.e. dcsam64\_prewin8.sys being incompatible and turning off Memory Integrity, and they’ve since released a new driver, which can be downloaded from here:[https://downloads.wdc.com/wdapp/Install_WD_Discovery_for_Windows.zip](https://downloads.wdc.com/wdapp/Install%5FWD%5FDiscovery%5Ffor%5FWindows.zip)
@@ -93,16 +101,12 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-75.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then check to see if the wdcsam64\_prewin8.sys driver is still marked as incompatible. If so, please move further.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Automatically update the wdcsam64\_prewin8.sys driver
@@ -113,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/wd-device.png)
 4. Restart your computer for the changes to take effect.
@@ -139,7 +139,7 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -167,24 +167,18 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-10-easy-youtube-video-ideas-everyone-can-make-it/"><u>[New] In 2024, 10 Easy YouTube Video Ideas Everyone Can Make It</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elite-selection-top-9-free-youtube-channel-branding-apps/"><u>[New] In 2024, Elite Selection Top 9 Free YouTube Channel Branding Apps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-essential-idleness-tranquil-phone-game-recommendations/"><u>[Updated] In 2024, Essential Idleness Tranquil Phone Game Recommendations</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-free2x-camera-recorder-features/"><u>[Updated] Mastering Free2X Camera Recorder Features</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-a-new-era-of-immersive-storytelling/"><u>2024 Approved A New Era of Immersive Storytelling</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-zero-to-hero-learning-the-art-of-youtube-content/"><u>2024 Approved From Zero to Hero Learning the Art of YouTube Content</u></a></li>
-<li><a href="https://win-able.techidaily.com/a-comprehensive-guide-to-fixing-error-codes-with-minecrafts-crossbow-feature/"><u>A Comprehensive Guide to Fixing Error Codes with Minecraft's Crossbow Feature</u></a></li>
-<li><a href="https://driver-error.techidaily.com/disc-dvd-cd-drives-not-showing-missing-on-windows-1111-solved/"><u>Disc/ DVD/ CD Drives Not Showing/ Missing on Windows 11/11 [SOLVED]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/endless-disk-use-scenario-solved-for-win1110/"><u>Endless Disk Use Scenario Solved for Win11/10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-acpi-conflicts-with-asus-gaming-pcs/"><u>Fixing Acpi Conflicts with Asus Gaming PCs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-do-i-canin-and-more-than/"><u>How Do I Can'in (and More Than</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102279377-how-to-fix-the-last-usb-device-malfunctioned-and-windows-doesnt-recognize-it/"><u>How to Fix The Last USB Device Malfunctioned and Windows Doesn't Recognize It</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-mastering-haul-videos-tips-and-tricks-for-editors/"><u>In 2024, Mastering Haul Videos Tips & Tricks for Editors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intel-bluetooth-driver-for-windows-10-download-easily/"><u>Intel Bluetooth Driver for Windows 10 Download Easily</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastery-over-managing-device-issues-in-dm/"><u>Mastery over Managing Device Issues in DM</u></a></li>
-<li><a href="https://driver-error.techidaily.com/radeon-wattman-reset-solved-restoring-stability-to-your-graphics-settings/"><u>Radeon Wattman Reset Solved: Restoring Stability to Your Graphics Settings</u></a></li>
-<li><a href="https://driver-error.techidaily.com/smooth-your-bluetech-journey-a-simple-fix-for-unresponsive-bluetooth-devices-on-latest-operating-system-revealed/"><u>Smooth Your BlueTech Journey: A Simple Fix for Unresponsive Bluetooth Devices on Latest Operating System [Revealed]</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlocking-english-grammars-secrets-insights-from-a-seasoned-esl-artist/"><u>Unlocking English Grammar's Secrets: Insights From a Seasoned ESL Artist</u></a></li>
-<li><a href="https://win-able.techidaily.com/xbox-live-service-outage-how-to-determine-if-its-down/"><u>Xbox Live Service Outage: How To Determine If It's Down?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-master-the-art-of-canvas-with-these-top-10-secrets/"><u>[New] Master the Art of Canvas with These Top 10 Secrets</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-secrets-to-writing-compelling-vlog-dialogues/"><u>[Updated] 2024 Approved Secrets to Writing Compelling Vlog Dialogues</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-navigating-through-numbers-a-full-guide-for-measuring-youtube-success/"><u>[Updated] Navigating Through Numbers A Full Guide for Measuring YouTube Success</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/androidiphones-leading-top-10-cost-free-photo-enhancements/"><u>Android/iPhone's Leading Top 10 Cost-Free Photo Enhancements</u></a></li>
+<li><a href="https://driver-error.techidaily.com/avoiding-frequent-nvidia-driver-malfunctions/"><u>Avoiding Frequent Nvidia Driver Malfunctions</u></a></li>
+<li><a href="https://fox-within.techidaily.com/demand-for-repatriation-british-museum-challenged-over-stolen-chinese-relics-calls-from-chinese-press-for-full-restitution-insights-by-yl-computing-and-soft63/"><u>Demand for Repatriation: British Museum Challenged Over Stolen Chinese Relics; Calls From Chinese Press for Full Restitution - Insights by YL Computing & Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enabling-seagate-drives-on-new-windows-11-os/"><u>Enabling Seagate Drives on New Windows 11 OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhanced-recording-quality-fixed-windows-10-asus-cam-issue/"><u>Enhanced Recording Quality: Fixed Windows 10 ASUS Cam Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-deactivate-non-stop-bluetooth-on-pcs/"><u>How to Deactivate Non-Stop Bluetooth on PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/make-the-smart-move-4-compelling-reasons-to-embrace-claude-3-rather-than-chatgpt/"><u>Make the Smart Move: 4 Compelling Reasons to Embrace Claude 3 Rather than ChatGPT</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-13-pro-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 13 Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successfully-solving-the-missing-cpu-module-driver-problem-for-windows-11-users/"><u>Successfully Solving the Missing CPU Module Driver Problem for Windows 11 Users</u></a></li>
 </ul></div>
 

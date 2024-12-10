@@ -1,7 +1,7 @@
 ---
 title: "Win11 Task Manager: Handling Full Disk Usage"
-date: 2024-11-30T22:03:09.040Z
-updated: 2024-12-03T04:41:42.574Z
+date: 2024-12-03T06:14:35.336Z
+updated: 2024-12-09T19:21:52.545Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d6
 
 ###
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Disable SuperFetch
 
  SuperFetch helps to decrease boot time and make must-load programs more efficiently. However, it has been identified as a potential cause of disk performance issues in Windows 8 and later versions of Windows, including Windows 10\. Here’s how to stop this service:
@@ -61,10 +57,6 @@ net.exe stop superfetch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/disable-superfetch-service.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) **If the command above isn’t valid, try the following one instead:**
 
  net.exe stop sysmain
@@ -72,10 +64,6 @@ net.exe stop superfetch
  6) Wait for a few minutes to see if your computer starts performing better. Or check your computer’s disk usage: Type “task manager” in the Windows search bar and select**Task Manager** , then in the Processes tab, look at the % at the top of the Disk column. If it’s no longer 100%, you’ve fixed the problem!
 
 ![100% disk usage resolved](https://images.drivereasy.com/wp-content/uploads/2016/08/100-disk-usage-resolved.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If the 100% disk usage problem persists, try the next method, below.
 
@@ -97,11 +85,15 @@ With Driver Easy, updating drivers only takes 2 clicks:
 3. Click**Update All**  to automatically download and install the correct version of**_all_** the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You can opt for the 7-day free trial, or you can go Pro now at a discounted price).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/DE-update-all-6.0.jpg)
 4. Check your computer’s disk usage: Type “task manager” in the Windows search bar and select**Task Manager** , then in the Processes tab, look at the % at the top of the Disk column. If it’s no longer 100%, you’ve fixed the problem!  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![100% disk usage resolved](https://www.drivereasy.com/wp-content/uploads/2016/08/100-disk-usage-resolved.png)
 
@@ -119,6 +111,10 @@ If the 100% disk usage problem persists, try the next method, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/Fortect-tp-reviews.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here’s how to use Fortect to check for broken system components in just one click:
 
  1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
@@ -130,7 +126,7 @@ If the 100% disk usage problem persists, try the next method, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -138,6 +134,10 @@ If the 100% disk usage problem persists, try the next method, below.
  Restart your computer to see if you still get the 100% disk usage error. If you do, please try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Perform a disk check
 
@@ -148,10 +148,6 @@ If the 100% disk usage problem persists, try the next method, below.
 2) Click **Yes**  at the**User Account Control** prompt.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b3e5e14b63.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) The command prompt will once again display. Type in the following command:
 
@@ -193,6 +189,10 @@ If the 100% disk usage problem persists, try the next method, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-37-37.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Select your windows drive (the hard drive or partition that has Windows installed on it – usually **C:**)**,** and enter an Initial size and Maximum size for your virtual memory:
 
 * **Initial size** – This value varies, depending on your computer. If you’re not sure what value to use, just enter whatever the number is in the**Recommended** category.
@@ -201,6 +201,10 @@ If the 100% disk usage problem persists, try the next method, below.
  Once you’ve entered your virtual memory values, click **Set** , then click **OK** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Clear all your computer’s ‘temp’ files. On your keyboard, press**Windows key** and**R** at the same time, then in the Run form, type**temp** and hit**Enter** . This will invoke Windows Explorer with your Temp folder open, showing you all the temp files on your computer.
 
@@ -217,6 +221,10 @@ If the 100% disk usage problem persists, try the next method, below.
 If the 100% disk usage problem persists, try the next method, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable Antivirus Software temporarily
 
@@ -258,6 +266,10 @@ Here’s how to determine if this is your problem and fix it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b4611132d9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Close the Driver Details window and go to**Details** tab. From the drop-down menu, select **Device Instance Path** . Make note of the path, starting from**VEN\_** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b474d5583c.png)
@@ -271,6 +283,10 @@ Here’s how to determine if this is your problem and fix it:
  The **< Random Number \>** differs on different machines.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b48600f0e1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Double click the**MSISupported** key and change the value to**0** .
 
@@ -293,17 +309,9 @@ Here’s how you can check the disk health easily with HD Tune:
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/hd-tune-download.jpg)
 2. Launch HD Tune. Select the**Health** tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here you can see the S.M.A.R.T info of your disk. (S.M.A.R.T is a monitoring system providing a series of attributes or diagnostics for each disk model.) At this moment, you don’t need to figure out each entry’s meaning — simply check if there’s any one of them has a**Status** that is not “**Ok** “. If you see a warning, you may need to google the entry label and determine your next step.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-2.jpg)
 3. On the top left corner, you can toggle the drop down menu to select the disk (if you have multiple). This will allow you to check the health of each disk.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-3.jpg)
 
@@ -316,17 +324,9 @@ Here’s how you can check the disk health easily with HD Tune:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-6.jpg)
 3. Again, you can use the drop down menu on the top left corner to scan different disk. It’s recommended you scan all the disk to make sure all your hard drives are in good condiction.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-3.jpg)
 
 **Tips to secure your data** : Since hard drives have a finite lifetime and can fail without a warning, consider using a free backup software like AOMEI Backupper to [create a system image](https://prf.hn/click/camref:1011l3x6jb/pubref:drivereasyen2039/ar:drivereasyen2039/[p%5Fid:1100l557026]/destination:https%3A%2F%2Fwww.ubackup.com%2Ffeatures%2Fcreate-system-image.html) , especially when the disk carries important data. A backup system protects you against random disk failures.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9: Switch to ChromeOS
 
@@ -373,19 +373,22 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-this-device-is-disabled-code-22/"><u>[Fixed] This Device Is Disabled. (Code 22)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-5-high-end-drones-for-professionals/"><u>[Updated] Best 5 High-End Drones for Professionals</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-your-path-to-photo-wizardry-the-complete-guide-to-using-the-background-erase-in-photoshop-for-2024/"><u>[Updated] Your Path to Photo Wizardry The Complete Guide to Using the Background Erase in Photoshop for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y27-4g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y27 4G</u></a></li>
-<li><a href="https://facebook.techidaily.com/bridging-distances-leveraging-your-facebook-portal-tvs-capabilities/"><u>Bridging Distances: Leveraging Your Facebook Portal TV's Capabilities</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-steps-to-repair-your-nonworking-or-stuck-pclaptop-keys-one-step-at-a-time-troubleshooting-guide-tech-talker-article-title406-chars/"><u>Easy Steps to Repair Your Nonworking or Stuck PC/Laptop Keys, One Step at a Time – Troubleshooting Guide | Tech Talker (Article Title)—406 Chars</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-unintended-restoration-of-radeon-wattman-settings-expert-guidance-inside/"><u>Fixing the Unintended Restoration of Radeon Wattman Settings – Expert Guidance Inside!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-dell-broadcom-ush-driver-problems/"><u>How to Fix Dell Broadcom USH Driver Problems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-successfully-address-and-repair-the-lack-of-a-supplementary-cpu-driver-on-your-windows-10-system-solved/"><u>How to Successfully Address and Repair the Lack of a Supplementary CPU Driver on Your Windows 10 System [Solved]</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Realme GT 5? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104393004-mastering-the-fix-windows-compatible-wireless-keyboards-that-wont-respond-anymore/"><u>Mastering the Fix: Windows-Compatible Wireless Keyboards That Won't Respond Anymore</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/overcoming-startup-issues-with-cyberpunk-2077-a-comprehensive-solution/"><u>Overcoming Startup Issues with Cyberpunk 2077 – A Comprehensive Solution</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-5-pc-gaming-simulators-the-best-wheel-and-pedal-setups-hardware-review/"><u>Top 5 PC Gaming Simulators: The Best Wheel-and-Pedal Setups - Hardware Review</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/top-ranking-apps-for-embedding-dates-in-images/"><u>Top-Ranking Apps for Embedding Dates in Images</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-deciphering-how-to-find-my-youtube-comments-posts-for-2024/"><u>[New] Deciphering How To Find My YouTube Comments Posts for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-discovering-if-quick-youtube-subscriptions-really-work/"><u>[Updated] Discovering if Quick YouTube Subscriptions Really Work</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-tips-for-free-youtube-video-transcriptions-for-2024/"><u>[Updated] Essential Tips for FREE YouTube Video Transcriptions for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expert-blueprint-fashioning-timer-functionality-with-video-editors/"><u>[Updated] Expert Blueprint Fashioning Timer Functionality with Video Editors</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-overcoming-youtubes-content-id-blockades-with-tactics/"><u>[Updated] Overcoming YouTube's Content ID Blockades with Tactics</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103712523-check-for-any-conflicting-software-or-programs-running-in-the-background/"><u>Check for Any Conflicting Software or Programs Running in the Background.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/convenient-repair-steps-for-mtp-drivers/"><u>Convenient Repair Steps for MTP Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/id-intel-graphics-card-with-opengl-support/"><u>ID: Intel Graphics Card with OpenGL Support</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-galaxy-s24plus-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Galaxy S24+ Phone When You Forget the Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102019494-issue-with-slow-gaming-due-to-gpu-lag-heres-how-we-fixed-it/"><u>Issue with Slow Gaming Due to GPU Lag - Here’s How We Fixed It</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721097008760-making-sense-of-dolby-digital-not-playing-properly-on-laptop-answer-available/"><u>Making Sense of 'Dolby Digital' Not Playing Properly on Laptop - Answer Available</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reduced-freezes-enhanced-input/"><u>Reduced Freezes, Enhanced Input</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-streamlining-gaming-setup-steams-external-options/"><u>Tips for Streamlining Gaming Setup: Steam's External Options</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-network-card-error-dell-inspiron/"><u>Troubleshoot Network Card Error, Dell Inspiron</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlocking-home-wifi-potential-with-googles-innovative-mesh-system-reviewed-here/"><u>Unlocking Home WiFi Potential with Google's Innovative Mesh System Reviewed Here!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-headset-not-working-on-windows-11-solved/"><u>USB Headset Not Working on Windows 11 [Solved]</u></a></li>
 </ul></div>
 

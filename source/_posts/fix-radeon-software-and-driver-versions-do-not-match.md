@@ -1,7 +1,7 @@
 ---
 title: "Fix: 'Radeon Software and Driver Versions Do Not Match'"
-date: 2024-09-09T03:06:11.653Z
-updated: 2024-09-10T03:06:11.653Z
+date: 2024-12-06T16:25:13.923Z
+updated: 2024-12-10T03:40:48.171Z
 tags:
   - win11
   - win10
@@ -27,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 2. **[Change the driver version in the Registry Editor](https://bellelily.pxf.io/m5azgm)**
 3. **[Update your device drivers with Driver Easy](https://funwhole.sjv.io/9groge)** **(Recommended)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1\. Update the Radeon Settings Application
 
  The main cause of this error message is that the driver version doesn’t match your software (not updated to the latest version). To solve this issue, you’ll need to uninstall the current software first, and install the new AMD Radeon Settings Lite from Windows Store:
@@ -40,23 +34,20 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 1. On your keyboard, press the**Windows** +**R** key to open the Run box. Type**appwiz.cpl** and press**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/appwiz.jpg)
 2. Right-click AMD Software from the list and select**Uninstall** .
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Click**Yes** to proceed.
 4. Open your Windows Store and search for**AMD Radeon Settings Lite** .
 5. Download the application.
 6. Once installed, restart your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2\. Change the driver version in the Registry Editor
 
  The driver version in the AMD software Registry may not be the same as the driver installed. Therefore, another solution is to change the driver version to the current driver version. Here’s how:
@@ -66,44 +57,23 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 2. Select the**Display** tab (you may have more than one tab if you’re using multiple displays). In the**Drivers** section (on the right), note down the**Version** for your AMD display card in your notepad or the like.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/win-11-dxdiag-display-driver.jpg)
 3. In the**Search** bar, type**regedit** and select**Registry Editor** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/win-11-registry-editor.jpg)
 4. Click**Yes** to grant administrative permission to make changes.
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Navigate to**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\AMD\\CN** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/cn.jpg)
 6. Double-click**DriverVersion** , and paste the version value you get from step 3 earlier into the box.  
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/image-4.png)
 7. Click**OK** to save the changes.
 8. Restart your computer and check if the error message **‘Radeon software and driver versions do not match’** has gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3\. Update your device drivers with Driver Easy
 
@@ -119,22 +89,14 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/AMD-Radeon-RX-6700-XT.jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -153,8 +115,6 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,6 +122,22 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/est-lyric-video-makers-you-should-try-for-2024/"><u>[New] Best Lyric Video Makers You Should Try for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-browsing-bygone-tales-in-the-facebook-universe-with-devices/"><u>[New] In 2024, Browsing Bygone Tales in the Facebook Universe with Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-auto-enhancing-shots-with-innovative-exposure-algorithms/"><u>[Updated] 2024 Approved Auto-Enhancing Shots with Innovative Exposure Algorithms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-illuminate-images-top-3-methods-for-captivating-comments/"><u>[Updated] 2024 Approved Illuminate Images Top 3 Methods for Captivating Comments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-basic-system-driver-failures/"><u>Addressing Basic System Driver Failures</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-audio-video-sync-errors-asus-and-windows-11-compatibility/"><u>Corrected Audio-Video Sync Errors: ASUS & Windows 11 Compatibility</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-13-pro-max-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone 13 Pro Max has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/key-lights-off-on-asus-laptop/"><u>Key Lights Off on ASUS Laptop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-old-school-tech-tips-for-operating-classic-usb-composite-gadgets/"><u>Mastering Old School Tech: Tips for Operating Classic USB Composite Gadgets</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-windows-11-and-10-overcoming-disk-issues/"><u>Smooth Windows 11 & 10: Overcoming Disk Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-opengl-driver-identity-for-intel-icd/"><u>Solving OpenGL Driver Identity for Intel ICD</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-windows-enter-failure-case/"><u>Solving Windows Enter Failure Case</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-gurus-guide-to-the-most-affordable-labor-day-ever-score-an-incredible-80-discount-on-premium-lg-oled-tvs-zdnet-reviews/"><u>Tech Guru's Guide to the Most Affordable Labor Day Ever: Score an Incredible 80% Discount on Premium LG OLED TVs | ZDNET Reviews</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-most-extensive-selection-of-free-illustrator-portals-for-2024/"><u>The Most Extensive Selection of Free Illustrator Portals for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-win11s-potential-with-zoom-conferencing-for-2024/"><u>Unleashing Win11's Potential with Zoom Conferencing for 2024</u></a></li>
+</ul></div>
 

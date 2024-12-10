@@ -1,7 +1,7 @@
 ---
 title: Recovered! Overcoming Default Settings Glitches in AMD Radeon Wattman Systems
-date: 2024-09-09T03:04:28.642Z
-updated: 2024-09-10T03:04:28.642Z
+date: 2024-12-08T07:57:10.990Z
+updated: 2024-12-10T01:08:13.884Z
 tags:
   - win11
   - win10
@@ -42,12 +42,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da122aa7042.png)  
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Expand category **Display adapters**. Then double click the AMD Radeon device driver that you can see.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da14a5b79bf.jpg)  
@@ -60,12 +54,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1595caf55.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Option 2:** **Clean re-install display card driver**  
   
 **Note**: This option requires that you install a **DDU**, **Display Driver Uninstaller**, on your computer first. You can of course use similar programs such as Cc Cleaners to help you with the uninstall.
@@ -74,12 +62,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1cb2befea.jpg)  
   
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Now, choose **AMD Catalyst** program or other **AMD programs**, then choose **Uninstall**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1d980a082.jpg)  
@@ -88,12 +70,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da122aa7042.png)  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Expand category **Display adapters**. Then double click the AMD Radeon device driver that you can see.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da14a5b79bf.jpg)  
@@ -102,12 +78,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1e9101343.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When prompted with the following notification, click **OK** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1ea6e2b3a.png)
@@ -118,12 +88,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1f79327c3.jpg)  
   
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) You can go to the support website of AMD to locate the driver you need. The baisc procedure is not that difficult, go to AMD support, then search for the driver that matches your operating system.
   
  But from our findings, the drivers on AMD support has not all passed WHQL test, which means that there is a big chance that you will download the beta version of a certain driver, which could bring you more troubles than you already have. Definitely not something you want to go through.
@@ -146,28 +110,10 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) You will be seeing this page showing the progress of the check and number of passes it will run on memory.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you don’t see any error here, it’s likely that your memory card is not causing any issues.
   
 **Other options**  
@@ -180,18 +126,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da2c0eabed8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [AMD](https://tools.techidaily.com/drivereasy/download/)
 * [graphics](https://tools.techidaily.com/drivereasy/download/)
 
@@ -201,8 +135,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,6 +142,28 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-effortless-hue-adjustments-with-adobes-software/"><u>[New] 2024 Approved Effortless Hue Adjustments with Adobe's Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-spotlight-on-figure-skaters-2022-edition/"><u>[New] 2024 Approved Spotlight on Figure Skaters 2022 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-mastering-video-conferencing-combining-the-power-of-zoom-and-skype/"><u>[New] Mastering Video Conferencing Combining the Power of ZOOM & SKYPE</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unraveling-the-secrets-of-exceptional-green-screen-filming/"><u>[New] Unraveling the Secrets of Exceptional Green Screen Filming</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-ax201-unable-to-communicate-with-wi-fi-6/"><u>[SOLVED] AX201 Unable to Communicate with Wi-Fi 6</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-pathfinding-your-way-from-adsense-to-accounts-aplenty/"><u>[Updated] 2024 Approved Pathfinding Your Way From AdSense to Accounts Aplenty</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-advanced-tactics-for-backdrop-cleanup-in-figma/"><u>2024 Approved Advanced Tactics for Backdrop Cleanup in Figma</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/all-round-kinetics-examination-2023/"><u>All-Round Kinetics Examination 2023</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-driver-update-for-lenovo-on-windows-11/"><u>Bluetooth Driver Update for Lenovo on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-the-giants-how-does-googles-gemini-ai-stack-up-against-chatgpt/"><u>Comparing the Giants: How Does Google's Gemini AI Stack Up Against ChatGPT?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-adjust-and-fix-sideways-video-display-errors-in-asus-systems/"><u>How to Adjust and Fix Sideways Video Display Errors in ASUS Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-install-missing-device-drivers-on-windows-11-8-and-7-complete-guide-fixed/"><u>How To Install Missing Device Drivers on Windows 11, 8 & 7 - Complete Guide [FIXED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-cards-unseen-by-windows-variants/"><u>Nvidia Cards Unseen by Windows Variants</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/reach-out-to-digitalartistry-your-partner-in-innovative-design-solutions/"><u>Reach Out to DigitalArtistry: Your Partner in Innovative Design Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-sound-in-the-windows-11-world/"><u>Seamless Sound in the Windows 11 World</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unavailable-driver-error-bcm20702a0/"><u>Unavailable Driver Error - BCM20702A0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-not-recognizing-nvidia-gpus/"><u>Windows Not Recognizing Nvidia GPUs</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

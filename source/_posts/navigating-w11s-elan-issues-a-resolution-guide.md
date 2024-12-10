@@ -1,7 +1,7 @@
 ---
 title: "Navigating W11's Elan Issues: A Resolution Guide"
-date: 2024-11-26T21:54:07.462Z
-updated: 2024-12-03T01:18:18.411Z
+date: 2024-12-06T17:09:25.515Z
+updated: 2024-12-10T08:15:12.477Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 [**3: Stop automatic updates from Windows Update**](https://tinyland.pxf.io/org4ra)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Make sure your touchpad is enabled
@@ -35,21 +35,17 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-settings-devices.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click **Mouse & touchpad,**  then click **Additional mouse options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/additional-mouse-options.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Go to the furthest right option (the option could be **Device Settings** or **ELAN**), and make sure your touchpad is enabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
 
@@ -73,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **3: Stop automatic updates from Windows Update**
 
  A faulty or buggy driver from Windows Update could be the cause of this problem. You can disable the automatic update via:
@@ -81,21 +81,21 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-clickyour computer icon and click **Device installation settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
 
@@ -114,20 +114,22 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-effective-webinar-logging-tips-avoiding-common-pitfalls-windows-macos-for-2024/"><u>[Updated] Effective Webinar Logging Tips Avoiding Common Pitfalls (Windows, macOS) for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-visualizing-2023-social-medias-next-big-thing/"><u>[Updated] Visualizing 2023 Social Media's Next Big Thing</u></a></li>
-<li><a href="https://driver-error.techidaily.com/2024s-top-ranked-cable-free-audio-buds/"><u>2024'S Top-Ranked, Cable-Free Audio Buds</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/wma-to-m4v-movavi/"><u>無償でオンラインWMA to M4V変換: Movaviソリューションをご紹介！</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-unrecognized-no-appropriate-driver-found/"><u>Device Unrecognized: No Appropriate Driver Found</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-fixes-for-overcoming-itbm-driver-errors-on-your-computer/"><u>Easy Fixes for Overcoming ITBM Driver Errors on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-politely-retrieve-a-missed-call-from-a-private-number/"><u>How To Politely Retrieve a Missed Call From a Private Number</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-drive-error-fixed-for-sysware-print/"><u>No-Drive Error Fixed for SysWare Print</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-functionality-in-windows-10-a-step-by-step-guide/"><u>Restoring Audio Functionality in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reviving-dormant-windows-pci-controller/"><u>Reviving Dormant Windows PCI Controller</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-the-unavailable-cpu-coprocessor-in-windows-11/"><u>Step-by-Step Solution for the Unavailable CPU Coprocessor in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tackling-win1011-sm-bus-controller-failures/"><u>Tackling Win10/11 SM Bus Controller Failures</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/eginners-blueprint-for-youtube-gear-for-2024/"><u>The Beginner's Blueprint for YouTube Gear for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-charged-selections-optimal-power-banks-for-macbook-pro-reviewed/"><u>Top Charged Selections: Optimal Power Banks for MacBook Pro Reviewed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-smart-lighting-solutions/"><u>Top-Rated Smart Lighting Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-post-update-bootup-with-functional-hardware-interface/"><u>[FIXED] Post Update Bootup with Functional Hardware Interface</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fast-track-facebook-profiling-techniques-unveiled/"><u>[New] In 2024, Fast-Track Facebook Profiling Techniques Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-pages-with-premieres-fade-techniques/"><u>[New] Perfect Pages with Premiere's Fade Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sky-perfection-11-must-have-enhancements-for-phantom-drone/"><u>[New] Sky Perfection 11 Must-Have Enhancements for Phantom Drone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-7-key-tools-to-convert-youtube-videos-easily/"><u>[Updated] 2024 Approved 7 Key Tools to Convert YouTube Videos Easily</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-engagement-a-pathway-to-higher-subscriber-numbers/"><u>2024 Approved Maximizing Engagement A Pathway to Higher Subscriber Numbers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-honor-90-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Honor 90 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oneplus-nord-n30-se-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easily-correct-uninstalled-drivers-problem-in-windows-1087-step-by-step-tutorial/"><u>Easily Correct Uninstalled Drivers Problem in Windows 10/8/7: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-post-win-11-upgrade-my-logitech-brio-cam-gone-invisible-got-answers-148-chars/"><u>Fix: Post-Win 11 Upgrade, My Logitech Brio Cam Gone Invisible - Got Answers! (148 Chars)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-shut-down-bluetooth-on-windows-10-completed/"><u>How To Shut Down Bluetooth On Windows 10 Completed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restored-functionality-device-active-alert/"><u>Restored Functionality: Device Active Alert</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-15-plus-lock-with-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 15 Plus lock with iCloud</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unseen-seagate-on-pc-the-path-to-windows-recognition/"><u>Unseen Seagate on PC: The Path to Windows Recognition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wudfrd-init-failed-event-device-id-219/"><u>WudfRd Init Failed, Event Device ID 219</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zendure-superbase-v-the-ultimate-all-in-one-charger-for-homes-and-evs-review/"><u>Zendure SuperBase V: The Ultimate All-in-One Charger for Homes and EVs - Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/zero-disk-space-solving-for-windows-10/"><u>Zero Disk Space: Solving for Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: GTX Ninety-Five Alpha Error Code 43 Fix for Windows Eleven Users
-date: 2024-09-09T03:05:11.854Z
-updated: 2024-09-10T03:05:11.854Z
+date: 2024-12-06T01:14:43.940Z
+updated: 2024-12-10T01:14:54.799Z
 tags:
   - win11
   - win10
@@ -13,28 +13,10 @@ excerpt: This Article Describes GTX Ninety-Five Alpha Error Code 43 Fix for Wind
 thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## GTX Ninety-Five Alpha Error Code 43 Fix for Windows Eleven Users
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59410acca7efb.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Users with NVIDIA GTX 950 graphics card installed on their computer reported to have found that they see a yellow exclamation mark next to their display driver. when checking the properties of the video card driver, the following error notification appears:
 
  **Windows has stopped this device because it has reported problems. (Code 43)**
@@ -57,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** .
@@ -65,17 +51,15 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
 
@@ -87,12 +71,6 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then follow the on-screen instructions to get the driver downloaded.
 
  When the download finish, just double click the setup file to run the driver installation.
@@ -115,44 +93,32 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Option 2: Update Windows 10**
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click the**Check for updates** button to see if there are any new updates available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) If new updates are available, just download and then update them as instructed.
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Option 3: Update BIOS**
 
  Updating BIOS is said to solve the problem for many, but it requires you to master a rather high level of computer knowledge to update BIOS by yourself.
@@ -180,8 +146,6 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,6 +153,23 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-audio-player-insights-and-critiques/"><u>[New] Audio Player Insights & Critiques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-instant-social-interaction-tweetplusfb-guide-for-2024/"><u>[New] Instant Social Interaction Tweet+FB Guide for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-perfect-your-streamline-setup-unleashing-the-full-potential-of-floating-window-feature/"><u>[Updated] 2024 Approved Perfect Your Streamline Setup Unleashing the Full Potential of Floating Window Feature</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-easy-implementation-of-snap-camera-on-ms-teams-for-2024/"><u>[Updated] Easy Implementation of Snap Camera on MS Teams for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-nokia-c12-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Nokia C12 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-invalid-service-inf-for-proper-setup/"><u>Correcting Invalid Service INF for Proper Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-interview-skills-the-chatgpt-way/"><u>Elevate Interview Skills: The ChatGPT Way</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-usb-connectivity-after-adb-error/"><u>Fix USB Connectivity After ADB Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-sm-bus-controllers-on-win1011/"><u>Fixing SM Bus Controllers on WIN10/11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-get-rid-of-non-responsive-bluetooth-settings-in-new-operating-system/"><u>How to Get Rid of Non-Responsive Bluetooth Settings in New Operating System</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-use-9gag-to-create-meme-for-2024/"><u>How to Use 9GAG to Create Meme for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-best-10-emoji-makers-to-create-your-own-emojis-pconlineandroidiphone-for-2024/"><u>New Best 10 Emoji Makers to Create Your Own Emojis PC/Online/Android/iPhone for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-siri-voice-changer-how-to-change-siri-voice-for-2024/"><u>New Siri Voice Changer How to Change Siri Voice for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-nvidia-driver-failsafe-a-guide/"><u>Solving Nvidia Driver Failsafe: A Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-dealing-with-incorrect-device-settings-error-code-1/"><u>Step-by-Step Solution for Dealing With Incorrect Device Settings (Error Code 1)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-unrecognized-devices-on-windows-drivers-for-version-11-8-and-7/"><u>Troubleshooting Unrecognized Devices on Windows: Drivers for Version 11, 8 & 7</u></a></li>
+</ul></div>
 

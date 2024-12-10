@@ -1,7 +1,7 @@
 ---
 title: Visualizing MS BDA in Graphics Context
-date: 2024-09-09T03:05:49.776Z
-updated: 2024-09-10T03:05:49.776Z
+date: 2024-12-05T18:27:40.393Z
+updated: 2024-12-10T07:03:18.705Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/cff36c5116cca7d9115bbe8663d924812ff9d18b2
 
  You may wonder, what happens to my graphics card, and why can’t I see it anymore. No worries, this problem is not at all hard to fix. And we’re here to help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Fix graphics card shows as Microsoft Basic Display Adapter
 
  Here are 4 fixes that have helped other users resolve the**graphics card shows as Microsoft Basic Display Driver** issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,12 +34,6 @@ thumbnail: https://thmb.techidaily.com/cff36c5116cca7d9115bbe8663d924812ff9d18b2
 3. **[Replace the graphics card](https://mushroom-supplies.sjv.io/gmegme)**
 4. **[Downgrade Operating System](https://bluettide.pxf.io/ekmjb2)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Run Windows Updates
 
  One of the reasons for this is that Windows has yet to provide you with the proper driver update after your operating system upgrade. So you may need to run the update on your own.
@@ -46,32 +44,22 @@ Here is how to run Windows Updates:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c20e613f781.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c20ee5332a7.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Check to see if there is a graphics driver available. If yes, then great – just run the update and you’ll automatically fix the problem. If Windows doesn’t provide you with a graphics driver update, please move on to**Fix 2** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -87,11 +75,9 @@ Here is how to run Windows Updates:
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_all_ the drivers.  
  （You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  right now with a discount, or activate the 7-day free trial version. With the trial version, you will have access to_all features_ of the Pro version such as high-speed download and one-click install. You won’t be charged before your 7-day trial ends and you can easily cancel any time during the trial period.）
 
@@ -103,12 +89,6 @@ Here is how to run Windows Updates:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Replace the graphics card
 
  If updating your graphics card driver doesn’t help to solve the problem, you may need to consider getting your graphics card replaced, as it might be faulty.
@@ -120,11 +100,9 @@ Here is how to run Windows Updates:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Downgrade operating system
 
  If you are not ready to make a new investment by purchasing a brand new graphics card for your PC, here is your alternative: downgrade your Windows 10 to its previous version, be it Windows 8 or Windows 7\.
@@ -141,8 +119,6 @@ Here is how to run Windows Updates:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,6 +126,17 @@ Here is how to run Windows Updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-capture-engaging-shots-using-strategic-leading-lines-iphone/"><u>[New] Capture Engaging Shots Using Strategic Leading Lines (iPhone)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elite-race-sims-ultimate-selection/"><u>[New] Elite Race Sims Ultimate Selection</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-master-the-art-of-sowing-and-cultivation-in-valheim/"><u>[New] Master the Art of Sowing and Cultivation in Valheim</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-8-best-practices-in-pc-and-microphone-sounds-logging/"><u>[Updated] 2024 Approved 8 Best Practices in PC and Microphone Sounds Logging</u></a></li>
+<li><a href="https://win-studio.techidaily.com/beginners-guide-mastering-your-dj-controller-with-pcdj-essential-tips-and-tricks/"><u>Beginner's Guide: Mastering Your DJ Controller with PCDJ - Essential Tips & Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-your-computers-memory-capacity-and-performance-a-step-by-step-guide/"><u>Discovering Your Computer's Memory Capacity and Performance: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-and-resolve-qualcomm-atheros-bluetooth-driver-problems-in-windows-11/"><u>Troubleshoot and Resolve Qualcomm Atheros Bluetooth Driver Problems in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsupported-device-no-intel-adapters-detected/"><u>Unsupported Device - No Intel Adapters Detected</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-system-thwarts-gpu-connection/"><u>Win11 System Thwarts GPU Connection</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-smooth-screens-and-fast-responses/"><u>Win11: Smooth Screens and Fast Responses</u></a></li>
+</ul></div>
 

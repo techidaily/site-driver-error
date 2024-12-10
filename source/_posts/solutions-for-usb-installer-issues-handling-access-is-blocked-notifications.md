@@ -1,7 +1,7 @@
 ---
 title: "Solutions for USB Installer Issues: Handling Access Is Blocked Notifications"
-date: 2024-09-09T03:09:40.837Z
-updated: 2024-09-10T03:09:40.837Z
+date: 2024-12-08T21:37:55.656Z
+updated: 2024-12-09T22:31:16.755Z
 tags:
   - win11
   - win10
@@ -13,36 +13,18 @@ excerpt: "This Article Describes Solutions for USB Installer Issues: Handling Ac
 thumbnail: https://thmb.techidaily.com/4c147f639cee2585f7f88020d64ed44f6ab3d2fb87afeca6ceadabb8d346628a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solutions for USB Installer Issues: Handling Access Is Blocked Notifications
 
 If you can’t install any new USB devices due to error “Access is denied”, it can be frustrating. But don’t worry, here you will find the solution to fix the problem.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6862c6dbe8.png) .
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 First, make sure that you login to computer as Administrator. If you are not logged in with Administrator, follow steps below to switch it to Administrator.  
   
 1\. Go to**Control Panel**and View by**Category**. Click**User Accounts**.(In your case, this may be “User Accounts and Family Safety”.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c68c5d7bf6a.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2\. Click **Change your account type** and enter your password if necessary.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791ba4e50787.png)
@@ -51,12 +33,6 @@ First, make sure that you login to computer as Administrator. If you are not log
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791bab2104ee.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After that, reinstall the driver again.  
   
  **Turn off any antivirus or anti-spyware program**
@@ -72,22 +48,10 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6905ba04f8.png)
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. Go to **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\USBSTOR.** Right-click on it and select**Permissions…** from the context menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c692c5d030c.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. Select**SYSTEM** from the Group or user names. In Permissions for SYSTEM section, make sure the Full Control Allow checkbox is checked and uncheck any Deny checkbox. Click Apply button to apply the changes.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6933c3f709.png)
@@ -105,8 +69,6 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,6 +76,27 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-list-of-free-rippers-for-video-conversion/"><u>[New] In 2024, Essential List of Free Rippers For Video Conversion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-illustrator-way-how-to-create-stunning-motion-effects/"><u>[New] The Illustrator Way How to Create Stunning Motion Effects</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unleash-your-devices-full-potential-capture-and-store-youtube-streams-flawlessly-for-2024/"><u>[New] Unleash Your Device's Full Potential Capture and Store YouTube Streams Flawlessly for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unveiling-the-secrets-of-gopro-timelapse-photography/"><u>[Updated] Unveiling the Secrets of GoPro Timelapse Photography</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-perfect-mix-of-design-and-performance/"><u>A Perfect Mix of Design & Performance</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exploring-the-soundscape-of-tomorrow-an-in-depth-look-at-apple-musics-latest-discovery-tool-for-fresh-tunes/"><u>Exploring the Soundscape of Tomorrow: An In-Depth Look at Apple Music’s Latest Discovery Tool for Fresh Tunes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-nvidia-windows-kernel-mode-driver-stopped-responding-issue/"><u>Fix NVIDIA Windows Kernel Mode Driver Stopped Responding Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-a-supported-tablet-was-not-found-on-the-system/"><u>Fixed: A Supported Tablet Was Not Found on the System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-a-missing-intel-processor-driver-error-on-windows-11-instantly-solved/"><u>How to Fix a Missing Intel Processor Driver Error on Windows 11 (Instantly Solved)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-instantly-access-all-episodes-premium-downloader-tools-reviewed/"><u>In 2024, Instantly Access All Episodes Premium Downloader Tools Reviewed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/invalid-inf-service-setup-resolved/"><u>Invalid INF Service Setup - Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/removing-your-graphics-cards-driver-in-windows-safemode-a-step-by-step-tutorial/"><u>Removing Your Graphics Card's Driver in Windows #SafeMode – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-endless-bluetooth-in-win10/"><u>Solving Endless Bluetooth in Win10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-burning-a-dvd-from-an-existing-disc-using-windows-11-10-8-or-7/"><u>Step-by-Step Guide: Burning a DVD From an Existing Disc Using Windows 11, 10, 8 or 7</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/wickedfun-video-converter-effortless-transfers-from-wickedfun-in-mp4-mov-and-avi-formats/"><u>Wickedfun Video Converter: Effortless Transfers From Wickedfun in MP4, MOV & AVI Formats</u></a></li>
+<li><a href="https://driver-error.techidaily.com/widest-issue-flawed-usb-serial-interface-in-windows/"><u>Widest Issue: Flawed USB-Serial Interface in Windows</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

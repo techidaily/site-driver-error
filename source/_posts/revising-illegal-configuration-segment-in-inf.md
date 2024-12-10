@@ -1,7 +1,7 @@
 ---
 title: Revising Illegal Configuration Segment in INF
-date: 2024-09-09T03:07:41.846Z
-updated: 2024-09-10T03:07:41.846Z
+date: 2024-12-07T04:34:19.548Z
+updated: 2024-12-10T06:48:07.662Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Revising Illegal Configuration Segment in INF
 thumbnail: https://thmb.techidaily.com/cc01732303965dd5a4fe7a6395032b1f09e613e114a6e6344628791c15998f0f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Revising Illegal Configuration Segment in INF
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/a-service-installation-section-in-this-inf-is-invalid.jpg)
@@ -35,12 +29,6 @@ thumbnail: https://thmb.techidaily.com/cc01732303965dd5a4fe7a6395032b1f09e613e11
 2. [**Update the driver manually**](https://technitya.sjv.io/dkpn02)
 3. [**Install the missing driver files manually**](https://dhgate.sjv.io/5g6yb2)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 1: Update the driver automatically
 
  Since you can’t update the driver via Windows Update, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to update the driver automatically.
@@ -54,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/cc01732303965dd5a4fe7a6395032b1f09e613e11
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged MTP USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -75,38 +67,18 @@ thumbnail: https://thmb.techidaily.com/cc01732303965dd5a4fe7a6395032b1f09e613e11
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687740cb79e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Select**Let me pick from a list of available drivers on my computer** and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68744ea8804.png)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) In Device Manager, if you see the device shown as MTP USB device. You’ll see**MTP USB Device** listed in the list.**Highlight** it then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687724c3ed9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you see the device shown as Unknown Device. You’ll see an Android phone or Android device in the long list.**Highlight** it and click**Next** then select**MTP USB device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68796507b2b.png)
@@ -114,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/cc01732303965dd5a4fe7a6395032b1f09e613e11
  6) The driver will install automatically. You just need to wait for a while until the installation completes.
 
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
 
@@ -125,16 +101,18 @@ thumbnail: https://thmb.techidaily.com/cc01732303965dd5a4fe7a6395032b1f09e613e11
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
 
  4) Reconnect your Android device and check to see if the problem is resolved.
@@ -153,8 +131,6 @@ thumbnail: https://thmb.techidaily.com/cc01732303965dd5a4fe7a6395032b1f09e613e11
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,6 +138,20 @@ thumbnail: https://thmb.techidaily.com/cc01732303965dd5a4fe7a6395032b1f09e613e11
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-how-to-edit-360-degree-video-in-premiere-pro/"><u>[New] How to Edit 360 Degree Video in Premiere Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-probing-the-capabilities-of-ffmpeg-in-maintaining-audible-formats/"><u>[New] Probing the Capabilities of FFmpeg in Maintaining Audible Formats</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-avoid-pitfalls-maintaining-youtube-thumbnail-quality/"><u>[Updated] 2024 Approved Avoid Pitfalls Maintaining YouTube Thumbnail Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-completely-erase-youtube-shorts-footprint/"><u>[Updated] In 2024, How To Completely Erase YouTube Shorts Footprint</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-keyboard-lights-not-switching-on/"><u>Asus Keyboard Lights Not Switching On</u></a></li>
+<li><a href="https://driver-error.techidaily.com/beat-the-blues-on-windows-7-solving-0x0000007e-blue-screen-of-death-issue/"><u>Beat the Blues on Windows 7: Solving 0X0000007E Blue Screen of Death Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-revival-for-lenovo-in-the-realm-of-windows-11/"><u>Bluetooth Revival for Lenovo in the Realm of Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-huion-kamvas-gt-n-artist-pro-touch-screen-sketchpad-detailed-evaluation/"><u>Comprehensive Huion Kamvas GT-N Artist Pro Touch Screen Sketchpad - Detailed Evaluation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-asus-usb20-webcam-drivers-in-windows-11/"><u>Corrected ASUS USB2.0 Webcam Drivers in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104280835-expert-tips-restoring-your-qualcomm-atheros-bluetooth-connection-on-windows-vehicles-with-the-following-titles/"><u>Expert Tips: Restoring Your Qualcomm Atheros Bluetooth Connection on Windows Vehicles with the Following Titles:</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-nubia-red-magic-8s-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Nubia Red Magic 8S Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721100936688-missing-cpu-coprocessor-driver-in-windows-10-heres-how-to-fix-it/"><u>Missing CPU Coprocessor Driver in Windows 10? Here's How to Fix It!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Disabled Issue Eliminated
-date: 2024-11-29T02:06:23.736Z
-updated: 2024-12-03T06:33:07.033Z
+date: 2024-12-03T20:37:04.713Z
+updated: 2024-12-10T00:37:48.469Z
 tags:
   - win11
   - win10
@@ -33,21 +33,17 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 1. On your keyboard, press the**Windows** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png) key and**R** at the same time to open the Run box.
 2. Type **devmgmt.msc** and press**Enter**  to access Device Manager.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e3f572c04.png)
 3. Expand the category that your device belongs to, right-click your device and select**Enable device** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your device driver
 
@@ -58,16 +54,16 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecd845a65.jpg)
 3. Click the **Update** button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).Or click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Uninstall your device driver
@@ -77,6 +73,10 @@ Uninstalling your device driver is another solution you can try to fix **This de
 1. In Device Manager, right-click your device and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ea2541557.jpg)
 2. Restart your computer, and Windows will automatically reinstall the driver for your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -92,13 +92,13 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)  
  Example – CMOS battery on a desktop PC  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)  
  Example – CMOS battery on a laptop
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 6. Wait for about one or two minutes for the CMOS to reset itself to its defaults.
@@ -126,17 +126,20 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-mastering-macos-sierra-installation-procedures/"><u>[New] In 2024, Mastering macOS Sierra Installation Procedures</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-depth-look-at-camstudios-capturing-capabilities-for-2024/"><u>[New] In-Depth Look at CamStudio's Capturing Capabilities for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expertly-selected-8-filters-for-virtual-showcases/"><u>[Updated] Expertly Selected 8 Filters for Virtual Showcases</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/creating-captivating-podcast-summaries-for-2024/"><u>Creating Captivating Podcast Summaries for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/gelatogags-humor-graphics-online/"><u>GelatoGags Humor Graphics Online</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-15-pro-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 15 Pro When You Forget the Passcode?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-poco-m6-pro-4g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Poco M6 Pro 4G Phone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-erratic-dell-touch-screen-driver/"><u>Resolve Erratic Dell Touch Screen Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/seagate-hard-drive-not-detected-w10-troubleshooting/"><u>Seagate Hard Drive Not Detected - W10 Troubleshooting</u></a></li>
-<li><a href="https://driver-error.techidaily.com/smooth-touchscreen-experience-in-new-windows-11-with-elan/"><u>Smooth Touchscreen Experience in New Windows 11 with Elan</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-invalid-driver-installations-a-step-by-step-guide/"><u>Troubleshooting Invalid Driver Installations - A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-is-it-illegal-to-archive-your-youtube-watch-history/"><u>[Updated] 2024 Approved Is It Illegal to Archive Your YouTube Watch History?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques-for-2024/"><u>[Updated] From Concept to Screen Channel YT for Pioneering Filmmaking Techniques for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-optimal-techniques-for-altering-song-pace-on-spotify-for-2024/"><u>[Updated] Optimal Techniques for Altering Song Pace on Spotify for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-correct-the-data-center-not-sending-a-ping-error-in-halo-infinite/"><u>Expert Tips to Correct the Data Center Not Sending a Ping Error in Halo Infinite</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-windows-did-not-detect-a-properly-installed-network-adapter/"><u>How To Fix Windows Did Not Detect a Properly Installed Network Adapter</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-install-necessary-drivers-for-your-hardware-in-windows-1187-solutions-inside/"><u>How to Install Necessary Drivers for Your Hardware in Windows 11/8/7 - Solutions Inside</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-yuva-3-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Yuva 3 Phone FRP Lock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-14-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 14 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-gaming-stability-6-essential-fixes-to-eliminate-street-fighter-6-pc-crashes/"><u>Master Gaming Stability: 6 Essential Fixes to Eliminate Street Fighter 6 PC Crashes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigating-the-electronics-scene-with-tom-comprehensive-guides/"><u>Navigating the Electronics Scene with Tom - Comprehensive Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/remote-work-mastery-top-rated-ultraportable-laptop-that-delivers-unmatched-performance-for-professionals/"><u>Remote Work Mastery: Top-Rated Ultraportable Laptop That Delivers Unmatched Performance for Professionals</u></a></li>
+<li><a href="https://driver-error.techidaily.com/streamlined-razer-drivers-for-the-latest-windows/"><u>Streamlined Razer Drivers for the Latest Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-asus-laptops-a-step-by-step-guide-to-fix-screen-flip-issues-with-video-files/"><u>Troubleshooting Asus Laptops: A Step-by-Step Guide to Fix Screen Flip Issues with Video Files</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-and-fixing-driver-misconfigurations/"><u>Understanding and Fixing Driver Misconfigurations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-hello-isnt-available-on-this-device-on-windows-11-solved/"><u>Windows Hello Isn't Available on This Device on Windows 11 [Solved]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixed: wdcsam64_prewin8.sys - No Core Isolation"
-date: 2024-09-09T03:08:08.865Z
-updated: 2024-09-10T03:08:08.865Z
+date: 2024-12-06T01:10:27.856Z
+updated: 2024-12-10T03:06:57.598Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: "This Article Describes Fixed: wdcsam64_prewin8.sys - No Core Isolation
 thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f4d45de0f56404a9b7904a53.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixed: wdcsam64_prewin8.sys - No Core Isolation
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-70.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  wdcsam64\_prewin8.sys as an incompatible driver that turns off Memory Integrity in Core Isolation
 
  When checking your Memory Integrity settings in Core Isolation, you find that it was turned off automatically due to an incompatible driver called**_wdcsam64\_prewin8.sys_** , but you have absolutely no idea what this file is. If this is also you, don’t worry, it’s not at all a rare problem on Windows 11 and Windows 10 computers.
@@ -36,11 +24,9 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
  We have some fixes here that’ll help to sort out the wdcsam64\_prewin8.sys driver issue for you. When the incompatible driver problem is fixed, you can then enable your Memory Integrity in Core Isolation with no further problems.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes for wdcsam64\_prewin8.sys being an incompatible driver issue
 
  You don’t have to try all the following methods: simply work your way down the list until you find the one that does the trick to fix the incompatible driver issue with**_wdcsam64\_prewin8.sys_** for you.
@@ -54,11 +40,9 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Update Windows
 
  If you’ve disabled Windows from automatically updating manually, there are chances that you missed some driver updates that could help to fix incompatible drivers like wdcsam64\_prewin8.sys. To make sure that you have the latest available updates installed:
@@ -67,12 +51,11 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -81,12 +64,6 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Reinstall the wdcsam64\_prewin8.sys driver
 
  wdcsam64\_prewin8.sys is a driver file from Western Digital Technologies, a hard drive manufacturer. So when Core Isolation reminds you that wdcsam64\_prewin8.sys is incompatible, you may have some problem with the drivers for your hard drives. If you don’t recall any hard drive from Western Digital, it’s probably pre-installed on your computer.
@@ -102,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-72.png)
 3. This is what the command looks like on my computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-74.png)  
  Hit **Enter**  when the command is typed in.
 4. When you see **Driver package deleted successfully** , restart your computer for the wdcsam64\_prewin8.sys driver to be installed automatically by Windows again.
@@ -109,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
  Go to Core Isolation and see if**_wdcsam64\_prewin8.sys_** is still regarded as an incompatible driver that stops Memory Integrity from turning on. If so, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Manually download and install the wdcsam64\_prewin8.sys driver
 
@@ -118,28 +103,10 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-75.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then check to see if the wdcsam64\_prewin8.sys driver is still marked as incompatible. If so, please move further.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Automatically update the wdcsam64\_prewin8.sys driver
 
  If the above driver doesn’t help, and don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -151,11 +118,9 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/wd-device.png)
 4. Restart your computer for the changes to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -174,12 +139,6 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
@@ -196,8 +155,6 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,6 +162,21 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-video-quality-mastering-fb-1080p-streams/"><u>[New] Elevate Video Quality Mastering FB 1080P Streams</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mastering-faces-incorporating-motion-blur-in-photos-with-picsart/"><u>[New] Mastering Faces Incorporating Motion Blur in Photos with Picsart</u></a></li>
+<li><a href="https://driver-error.techidaily.com/passed-tests-drivers-installation-succeeded-post-correction/"><u>[PASSED TESTS] Drivers Installation Succeeded Post-Correction</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-sm-bus-controller-driver-issues-in-windows-1111/"><u>[SOLVED] SM Bus Controller Driver Issues in Windows 11/11</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-beginners-pathway-to-premium-gopro-accessories/"><u>[Updated] 2024 Approved Beginner’s Pathway to Premium GoPro Accessories</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-video-counts-and-quantities-within-64128gb/"><u>2024 Approved Video Counts & Quantities Within 64/128GB</u></a></li>
+<li><a href="https://driver-error.techidaily.com/direct-linux-interface-to-samsung-os-via-windows/"><u>Direct Linux Interface to Samsung OS via Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-restore-functionality-to-a-non-working-wireless-keyboard-on-pcs/"><u>How to Restore Functionality to a Non-Working Wireless Keyboard on PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-bambu-labs-clarified-plans-for-printer-firmware-evolution/"><u>Inside Look: Bambu Lab's Clarified Plans for Printer Firmware Evolution</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ast-an-analysis-of-assets-for-2024/"><u>Mr. Beast An Analysis of Assets for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fix-for-asus-acpi-and-drivers-in-win10/"><u>Quick Fix for Asus ACPI and Drivers in Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-itbm-driver-errors-quickly-and-efficiently/"><u>Resolving ITBM Driver Errors Quickly and Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-update-loop-at-99-or-full-get-back-on-track-now/"><u>Resolving Windows 10 Update Loop at 99% or Full - Get Back on Track Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguarding-your-information-with-tailored-ai-tools/"><u>Safeguarding Your Information with Tailored AI Tools</u></a></li>
+</ul></div>
 

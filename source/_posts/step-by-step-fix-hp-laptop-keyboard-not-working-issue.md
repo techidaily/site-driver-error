@@ -1,7 +1,7 @@
 ---
 title: Step by Step Fix HP Laptop Keyboard Not Working Issue
-date: 2024-11-29T18:12:13.822Z
-updated: 2024-12-03T03:44:21.801Z
+date: 2024-12-04T22:11:21.888Z
+updated: 2024-12-10T05:41:34.355Z
 tags:
   - win11
   - win10
@@ -25,12 +25,16 @@ We have received reports from user saying that they have trouble using their HP 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc3af48b92.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) In the Device Manager window, click to expand**Keyboards**category. Then right click the keyboard option listed here and choose**Uninstall**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc4306d960.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When prompted to confirm the uninstall, press**OK**to continue.
@@ -42,7 +46,7 @@ When prompted to confirm the uninstall, press**OK**to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcb25486f6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You will be able to see the on-screen keyboard appear. Use your mouse cursor to type in your password and click**Enter**key You should be able to see Windows is automatically searching and updating the keyboard driver for you.
@@ -50,7 +54,7 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 2: Check Keyboard Settings**
@@ -60,7 +64,7 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcfa0068ce.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) On the left side of the pane, choose**Region & language**, then on the right side, make sure that the language is set to**English (United States)**.
@@ -80,10 +84,6 @@ Then make sure the Keyboards is selected as**US**.
 If you have tried the above methods but they are not helpful, you may need to plug in a USB external keyboard and see if the second keyboard works. 1) If the external keyboard**works perfectly**, then you need to consider searching and downloading the latest version of the laptop driver from HP support. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). You can try its Free version, and update your drivers one by one. Or you can update all your missing and outdated drivers automatically with just one-click with Driver Easy [**Pro version**](https://tools.techidaily.com/drivereasy/download/). No worry to try it as it comes with a no-questions-asked 30-day money-back guarantee and professional tech support 24/7\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
 
@@ -109,22 +109,20 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-windows-snapshot-simplified-2-methods-for-2024/"><u>[New] Windows Snapshot Simplified (2 Methods) for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-subtle-symmetry-balancing-visuals-like-a-pro/"><u>[Updated] Subtle Symmetry Balancing Visuals Like a Pro</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-dominating-the-digital-space-with-trending-content/"><u>2024 Approved Dominating the Digital Space with Trending Content</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-disappeared-bluetooth-manage-your-devices/"><u>Fixing: Disappeared Bluetooth, Manage Your Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo A1x 5G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-15-pro-max-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 15 Pro Max Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gigglegraphy-laughter-in-a-frame/"><u>In 2024, GiggleGraphy Laughter in a Frame</u></a></li>
-<li><a href="https://driver-error.techidaily.com/make-your-computer-listen-a-quick-guide-to-fix-unresponsive-bluetooth-on-latest-os-update-guide-inside/"><u>Make Your Computer Listen: A Quick Guide To Fix Unresponsive Bluetooth on Latest OS Update [Guide Inside]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/multi-os-pci-hardware-support-tools/"><u>Multi-OS PCI Hardware Support Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-transform-your-videos-the-best-free-green-screen-apps-for-android-and-ios-devices/"><u>New Transform Your Videos The Best Free Green Screen Apps for Android and iOS Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-crash-and-reboot-default-radeon-wattman-setting-issue/"><u>Resolving the 'Crash & Reboot: Default Radeon Wattman Setting' Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sound-problems-resolved-after-latest-windows-11-update/"><u>Sound Problems Resolved After Latest Windows 11 Update?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solution-fixing-qualcomm-atheros-bluetooth-connectivity-on-windows-11/"><u>Step-by-Step Solution: Fixing Qualcomm Atheros Bluetooth Connectivity on Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-best-8-screenshot-and-video-editing-tools-for-phones-for-2024/"><u>The Best 8 Screenshot & Video Editing Tools for Phones for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/understanding-the-legacy-of-usb-composite-devices-insights-and-solutions/"><u>Understanding the Legacy of USB Composite Devices: Insights and Solutions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/usb-speaker-lacks-volume-how-to-fix-it-on-win10/"><u>USB Speaker Lacks Volume - How to Fix It on Win10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wi-fi-6ax201-connectivity-anomaly-addressed-now/"><u>Wi-Fi 6Ax201 Connectivity Anomaly - Addressed Now</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-discovering-periscope-its-features-pricing-and-user-registration/"><u>[Updated] 2024 Approved Discovering Periscope Its Features, Pricing & User Registration</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-virality-to-value-gauge-your-content-against-competing-craftsmen-for-2024/"><u>[Updated] From Virality to Value Gauge Your Content Against Competing Craftsmen for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-taming-zooms-visuals-a-step-by-step-blur-journey/"><u>[Updated] In 2024, Taming Zoom's Visuals A Step-by-Step Blur Journey</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/windows-server-20192022/"><u>完整用户手册：将Windows Server 2019升级到最新的2022年版本</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/dynamic-public-speaker-review-v8-for-2024/"><u>Dynamic Public Speaker Review V8 for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-to-fix-mtp-usb-device-driver-failed-problem/"><u>Easy to Fix MTP USB Device Driver Failed Problem</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209781790-9781439667989-ghosts-and-legends-of-northern-ohio/"><u>Ghosts and Legends of Northern Ohio | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-remedy-to-amd-driver-errors/"><u>Immediate Remedy to AMD Driver Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/immobile-device-display-shift-the-secret-technique-for-rotating-your-iphoneipad/"><u>Immobile Device Display Shift: The Secret Technique for Rotating Your iPhone/iPad</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-honor-100-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Honor 100 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/logitech-brio-webcam-doesnt-show-in-windows-after-recent-update-a-quick-fix-for-you-all-105-answered/"><u>Logitech Brio Webcam Doesn't Show in Windows After Recent Update - A Quick Fix for You All (10/5) [Answered]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-non-recognized-device-hurdles-in-win-78/"><u>Overcoming Non-Recognized Device Hurdles in Win 7/8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-for-repairing-device-manager-faults/"><u>Steps for Repairing Device Manager Faults</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win1110-resolving-issues-with-stable-sm-bus-drivers/"><u>Win11/10: Resolving Issues with Stable Sm Bus Drivers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: INF Setup Error - Now Corrected & Validated
-date: 2024-11-27T00:09:50.945Z
-updated: 2024-12-02T23:00:39.199Z
+date: 2024-12-04T07:56:07.477Z
+updated: 2024-12-09T17:27:20.957Z
 tags:
   - win11
   - win10
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68744ea8804.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) In Device Manager, if you see the device shown as MTP USB device. You’ll see**MTP USB Device** listed in the list.**Highlight** it then click**Next** .
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687724c3ed9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you see the device shown as Unknown Device. You’ll see an Android phone or Android device in the long list.**Highlight** it and click**Next** then select**MTP USB device** .
@@ -84,16 +84,12 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68796507b2b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) The driver will install automatically. You just need to wait for a while until the installation completes.
 
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
 
@@ -105,12 +101,16 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -140,24 +140,24 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-mini-masterpieces-top-6-coolest-mini-houses-in-mc/"><u>[New] Mini Masterpieces Top 6 Coolest Mini-Houses in MC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-efficient-strategies-to-record-ppt-sessions/"><u>[Updated] 2024 Approved Efficient Strategies to Record PPT Sessions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-golden-text-in-3d-selecting-quality-online-sites/"><u>[Updated] Golden Text in 3D Selecting Quality Online Sites</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diy-solutions-for-hp-wireless-keyboards-that-wont-respond/"><u>DIY Solutions for HP Wireless Keyboards That Won't Respond</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ensuring-smooth-gaming-regularly-update-windows-10s-deadrivers/"><u>Ensuring Smooth Gaming: Regularly Update Windows 10'S DeaDrivers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-alert-score-microsoft-surface-pro-pro-8-at-amazing-prices-up-to-600-less-after-black-friday-cyber-monday-deals/"><u>Exclusive Offer Alert! Score Microsoft Surface Pro ([Pro 8] at Amazing Prices, Up to $600 Less After Black Friday Cyber Monday Deals!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-inoperative-right-click-not-working-on-windows-11-touchpad/"><u>Fix: Inoperative Right-Click Not Working on Windows 11 Touchpad</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-itel-p40-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Itel P40? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/how-to-add-and-change-thumbnails-of-twitter-videos-for-2024/"><u>How to Add and Change Thumbnails of Twitter Videos for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro Max To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/i-migliori-3-tecniche-di-installazione-di-windows-7-su-disco-ssd-nvme/"><u>I Migliori 3 Tecniche Di Installazione Di Windows 7 Su Disco SSD NVMe</u></a></li>
-<li><a href="https://driver-error.techidaily.com/instant-remedy-troubleshooting-failed-mtp-connectivity/"><u>Instant Remedy: Troubleshooting Failed MTP Connectivity</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-virtualdub-review-and-best-alternatives/"><u>New In 2024, Virtualdub Review and Best Alternatives</u></a></li>
-<li><a href="https://driver-error.techidaily.com/re-establishing-bluetooths-return-to-devices-manager/"><u>Re-Establishing: Bluetooth's Return to Devices Manager</u></a></li>
-<li><a href="https://driver-error.techidaily.com/recover-absent-pci-controller-on-win-1011/"><u>Recover Absent PCI Controller on Win 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solution-to-upgrade-glitch-windows-11s-error-0x80246007/"><u>Swift Solution to Upgrade Glitch: Windows 11'S Error 0X80246007</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-non-functional-qualcomm-atheros-bluetooth-driver-on-windows-10-systems/"><u>Troubleshooting and Solving Non-Functional Qualcomm Atheros Bluetooth Driver on Windows 10 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-usb-install-failure-with-access-is-denied/"><u>Troubleshooting USB Install Failure with 'Access Is Denied'</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-and-nvidia-geforce-gtx-950-code-43-error-solutions-and-workarounds/"><u>Windows 11 and NVIDIA GeForce GTX 950 Code 43 Error: Solutions and Workarounds</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-highlighting-the-finest-video-grabbers-in-windows-10/"><u>[New] In 2024, Highlighting the Finest Video Grabbers in Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovateimages-ai-next-level-editing-excellence/"><u>[New] InnovateImages AI Next-Level Editing Excellence</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-navigating-through-youtubes-content-id-system-issues/"><u>[Updated] Navigating Through YouTube's Content ID System Issues</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-innovate-your-tiktok-openings-with-macos-expertise/"><u>2024 Approved Innovate Your TikTok Openings with MacOS Expertise</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-mastery-in-motion-selecting-top-video-editors/"><u>2024 Approved Mastery in Motion Selecting Top Video Editors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/affordable-screen-recorders-with-extra-features/"><u>Affordable Screen Recorders with Extra Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convert-videos-seamlessly-with-macx-free-video-converter-across-all-formats-and-gadgets/"><u>Convert Videos Seamlessly with MacX Free Video Converter Across All Formats and Gadgets!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosed-storage-system-issue/"><u>Diagnosed Storage System Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-errors-ensuring-proper-driver-validation-for-your-pcs-hardware/"><u>Fixing Errors: Ensuring Proper Driver Validation for Your PC's Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/force-abandoned-for-a-flawless-graphics-setup/"><u>Force Abandoned for a Flawless Graphics Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-prevent-your-amd-radeon-wattman-from-crashing-settings-restored-guide/"><u>How to Prevent Your AMD Radeon Wattman From Crashing: Settings Restored Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-malfunction-heres-how-you-can-repair-it/"><u>HP Wireless Keyboard Malfunction? Here's How You Can Repair It</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722894084551-msstfmtdll-file-not-found-heres-how-to-correctly-resolve-the-error/"><u>msstfmt.dll File Not Found? Here's How to Correctly Resolve the Error</u></a></li>
+<li><a href="https://fox-info.techidaily.com/narrative-noble-order-honors-hexagon-for-2024/"><u>Narrative Noble Order - Honor's Hexagon for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-devhub-48-issue/"><u>Resolved: DevHub #48 Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-intel-me-errors/"><u>Resolving Intel ME Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-detected-hardware-lacking-support-for-your-idt-software-system/"><u>Solve Detected Hardware Lacking Support for Your IDT Software System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/the-ultimate-guide-to-solving-deadly-glitches-via-event-tracer-on-your-windows-10-machine-fix-now/"><u>The Ultimate Guide to Solving Deadly Glitches via Event Tracer on Your Windows 10 Machine – Fix Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-when-windows-ignores-your-latest-usb-attachment/"><u>Troubleshooting Steps When Windows Ignores Your Latest USB Attachment</u></a></li>
 </ul></div>
 

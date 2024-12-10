@@ -1,7 +1,7 @@
 ---
 title: Solution for Broken Windows Serial Driver Connection
-date: 2024-09-09T03:06:35.369Z
-updated: 2024-09-10T03:06:35.369Z
+date: 2024-12-07T19:17:20.640Z
+updated: 2024-12-09T16:36:06.010Z
 tags:
   - win11
   - win10
@@ -13,18 +13,6 @@ excerpt: This Article Describes Solution for Broken Windows Serial Driver Connec
 thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5b37d142ebd628755c0e5ec6.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution for Broken Windows Serial Driver Connection
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb06fba6a83e.png)
@@ -39,11 +27,9 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 2. **[Roll your Prolific USB to Serial driver back to an older version](https://pish-posh-baby.sjv.io/g1jg15)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 1: Update your Prolific USB to Serial driver to the latest version
 
  Your not working Prolific USB to Serial driver problem could be caused by the**corrupted, missing, or outdated driver itself** . So it would help if you update the driver to the latest version.
@@ -58,17 +44,13 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back** guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb072bf3dffe.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 2: Roll your Prolific USB to Serial driver back to an older version
 
  You may note that up-to-date drivers always keep your devices working in the best condition. But sometimes the latest driver doesn’t work with old hardware.
@@ -81,22 +63,19 @@ Here’s how you can do it:
 2. Type**devmgmt.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. Double-click**Ports(COM & LPT)** , then**right-click** on your Prolific USB to Serial driver to select**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075701f308.jpg)
 4. Click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075c361cc6.png)
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Select**Let me pick from a list of available drivers on my computer** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075da68269.png)
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Select an older version on the Model list. Then**Next** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb076059c302.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then the driver you select would be installed on your Windows 10 computer automatically.
 
@@ -115,8 +94,6 @@ Once it’s done, connect your device again and see if it goes well.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,6 +101,23 @@ Once it’s done, connect your device again and see if it goes well.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-ios-video-experience-the-10-most-excellent-players-for-2024/"><u>[Updated] IOS Video Experience The 10 Most Excellent Players for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-art-and-science-of-buying-profitable-yt-content/"><u>[Updated] The Art and Science of Buying Profitable YT Content</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-sonic-prowess-of-soundbot-sb210-superior-clarity-during-optimal-function/"><u>Analyzing the Sonic Prowess of Soundbot SB210 - Superior Clarity During Optimal Function</u></a></li>
+<li><a href="https://driver-error.techidaily.com/clearing-up-the-driver-hurdle-hd/"><u>Clearing Up the Driver Hurdle (HD)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-instructions-installing-and-maintaining-your-epson-printer-drivers-on-windows-11/"><u>Complete Instructions: Installing and Maintaining Your Epson Printer Drivers on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-support-added-to-win-8-desktop/"><u>Device Support Added to Win 8 Desktop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-wireless-network-adapter-issues-on-windows-11-a-comprehensive-guide/"><u>Fixing Qualcomm Wireless Network Adapter Issues on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-wps-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .wps file</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-boot-into-safe-mode-and-remove-your-graphics-card-driver-in-windows-8/"><u>How to Boot Into Safe Mode and Remove Your Graphics Card Driver in Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-solutions-for-driver-not-available-on-itbm-system-effortless-troubleshooting-guide/"><u>Immediate Solutions for 'Driver Not Available' On ITBM System - Effortless Troubleshooting Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-xiaomi-14-ultra-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Xiaomi 14 Ultra</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-exploring-the-best-a-ranked-list-of-6-top-transcription-automation-tools-for-2024/"><u>New Exploring the Best A Ranked List of 6 Top Transcription Automation Tools for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/released-irql-anomaly-in-win11/"><u>Released: Irql Anomaly in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-your-hp-laptops-keyboard-functionality-quick-fix-for-the-inactive-keys-syndrome-article-name-356-characters/"><u>Restore Your HP Laptop's Keyboard Functionality: Quick Fix For the 'Inactive Keys’ Syndrome - Article Name — 356 Characters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-chatgpt-platinum-its-merits-and-shortcomings/"><u>Unmasking ChatGPT Platinum - Its Merits and Shortcomings</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/wie-man-einen-kompletten-harterest-auf-dem-iphone-14-13-12-usw-durchfuhrt-schritt-fur-schritt-anleitung-und-uberprufung/"><u>Wie Man Einen Kompletten Härterest Auf Dem iPhone 14, 13, 12 Usw. Durchführt - Schritt-Für-Schritt Anleitung Und Überprüfung</u></a></li>
+</ul></div>
 

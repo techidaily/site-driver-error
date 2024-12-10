@@ -1,7 +1,7 @@
 ---
 title: Steps to Address Logitech Receptor Errors
-date: 2024-09-09T03:03:48.505Z
-updated: 2024-09-10T03:03:48.505Z
+date: 2024-12-04T21:33:20.398Z
+updated: 2024-12-10T04:52:34.444Z
 tags:
   - win11
   - win10
@@ -17,22 +17,10 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a8eaab2959a4-300x120.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you have a Logitech wireless mouse, and you get a message saying **Device driver software was not successfully installed** when you plug your unifying receiver into your PC, you’re not alone. Many Windows are reporting this problem as well. But no worries, this is not at all a hard problem to fix.
 
  If you’re bugged by this problem, no worries. Many Windows users are able to resolve it with one of the following solutions. You may not have to try them all; just work your way down until you find the one that works.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes, one at a time
 
 1. [**Copy the driver file from a well-functioning computer**](https://ursime.pxf.io/r5bm57)
@@ -51,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-usb-inf.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) If you can’t see them,**copy** them from another computer whose USB receiver is working properly and **paste** them onto this folder.
 
  3) If you don’t have another computer, see if you can find them via this path**C:\\Windows\\ System32** .
@@ -58,17 +50,9 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
  4) If you can find the**usb.inf** and**usb.PNF** files, still, copy and paste them to the folder **C:\\Windows\\inf\\** .
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **2: Remove possible conflict applications**
 
  If you have MotionInJoy installed on your PC, it could be the culprit. It’s reported to conflict with Logitech unifying receiver. You can remove it:
@@ -78,14 +62,16 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) View by**Category** and click **Uninstall a program** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-control-category-uninstall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-lick **MotionInJoy** and click **Uninstall** .
 
@@ -103,12 +89,6 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/registry-delete-ds3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) Unplug your**Logitech Unifying Receiver** .
 
  8) Restart your computer and then plug in your Logitech Unifying Receiver.
@@ -132,11 +112,9 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db63a8174fd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged mouse device and/or USB port to automatically download and install the correct version of that driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -144,45 +122,23 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db63d8ac59f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **4: Run Logitech Unifying Receiver as administrator**
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time. Type**devmgmt.msc** and press**Enter** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Expand **Mice and other pointing devices,** right-click the**HID-compliant mouse** and click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57834599bc659.png)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Download [Logitech Unifying Software](http://support.logitech.com/en%5Fus/software/unifying) . After the download, right-click the icon and click **Run as administrator** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-logi-run-as-adm.jpg)
@@ -193,12 +149,6 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 
 5) Your Logitech receiver should be able to work now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **5: Perform a hard reset**
 
 **Note:**  When performing a**hard reset** , you must disconnect or remove all peripheral devices. You should start and test the computer by itself, and then reconnect one peripheral device at a time.
@@ -230,8 +180,6 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,6 +187,23 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-breakthrough-techniques-in-iphone-hdr-image-making/"><u>[Updated] Breakthrough Techniques in iPhone HDR Image Making</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-expert-tips-on-softening-volume-in-logic-pro-mixes/"><u>[Updated] In 2024, Expert Tips on Softening Volume in Logic Pro Mixes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-windows-11-guide-titling-video-files-in-photos-app/"><u>[Updated] In 2024, Windows 11 Guide Titling Video Files in Photos App</u></a></li>
+<li><a href="https://driver-error.techidaily.com/75-times-smaller-and-fibonaccistuesday-we-need-to-ensure-that-individuals-withholding-the-right-handedness-of-ctrlplus123-mvn-but-i-wastingjuneau-is-an-unpu6/"><u>75 Times Smaller and Fibonacci_s/Tuesday, We Need to Ensure that Individuals Withholding the Right-Handedness of Ctrl+123 Mvn, but I Wasting=Juneau Is an Unpublished Researchers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bypassing-uninitialized-directx-9-a-stepwise-approach/"><u>Bypassing Uninitialized DirectX 9: A Stepwise Approach</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decode-your-pcs-blue-screen-of-death-fixing-the-0x0000007e-error-on-windows-solved/"><u>Decode Your PC's Blue Screen of Death: Fixing the 0X0000007E Error on Windows [Solved]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-steals-from-walmart-pre-prime-day-shopping-extravaganza-202n-get-ahead-with-zdnet-insights/"><u>Essential Steals From Walmart Pre-Prime Day Shopping Extravaganza 202N - Get Ahead with ZDNET Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy S23</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovation-in-interaction-top-5-advanced-ai-prompts-creators/"><u>Innovation in Interaction: Top 5 Advanced AI Prompts Creators</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-driver-update-no-errors-detected-in-installation/"><u>Nvidia Driver Update: No Errors Detected in Installation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-3-camera-insight-mastering-video-on-the-go-with-ion/"><u>Pro 3 Camera Insight Mastering Video on the Go with ION</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-guide-resolving-qualcomm-atheros-bluetooth-driver-failures-on-pc-with-windows-10/"><u>Quick Guide: Resolving Qualcomm Atheros Bluetooth Driver Failures on PC with Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-ndis-solutions-for-windows-users/"><u>Quick NDIS Solutions for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-solution-to-elgato-hd60-connectivity-problems-step-by-step-guide/"><u>Quick Solution to Elgato HD60 Connectivity Problems: Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-resolving-nvidia-gtx-950-code-43-malfunction-on-windows-ten-systems/"><u>Troubleshooting and Resolving NVIDIA GTX 950 Code 43 Malfunction on Windows Ten Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-mystery-of-apples-new-ios-camera-for-2024/"><u>Unraveling the Mystery of Apple's New iOS Camera for 2024</u></a></li>
+</ul></div>
 

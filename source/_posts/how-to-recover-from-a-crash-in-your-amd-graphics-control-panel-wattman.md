@@ -1,7 +1,7 @@
 ---
 title: How to Recover From a Crash in Your AMD Graphics Control Panel (WattMan)
-date: 2024-09-09T03:01:28.928Z
-updated: 2024-09-10T03:01:28.928Z
+date: 2024-12-06T16:36:01.376Z
+updated: 2024-12-10T01:59:46.030Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: This Article Describes How to Recover From a Crash in Your AMD Graphics
 thumbnail: https://thmb.techidaily.com/c77f42fc64b6007637ed0af75d65eab3269f8768c72afbf1c512e303a34ac930.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Recover From a Crash in Your AMD Graphics Control Panel (WattMan)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58d895485ccdd.jpg)  
   
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Since Anniversary Update of Windows 10, which was in August in 2016, AMD users have been reporting that Radeon WattMan sometimes stops working on their PCs.
   
  Radeon WattMan is the power management utility provided by AMD. It gives you insights of how your games or applications are running in your PC. The data of which enables you to configure as per your own needs in a very straightforward way.
@@ -62,22 +50,10 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da15224ee2b.jpg)  
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) If the **Roll Back Driver** button here is **grey out**, that means this option is unavailable in your situation. You need to go to the options below for more help.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1595caf55.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Option 2:** **Clean re-install display card driver**  
   
 **Note**: This option requires that you install a **DDU**, **Display Driver Uninstaller**, on your computer first. You can of course use similar programs such as Cc Cleaners to help you with the uninstall.
@@ -94,38 +70,14 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da122aa7042.png)  
   
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Expand category **Display adapters**. Then double click the AMD Radeon device driver that you can see.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da14a5b79bf.jpg)  
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Navigate to **Driver** tab, then choose **Uninstall**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1e9101343.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When prompted with the following notification, click **OK** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1ea6e2b3a.png)
@@ -136,12 +88,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1f79327c3.jpg)  
   
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) You can go to the support website of AMD to locate the driver you need. The baisc procedure is not that difficult, go to AMD support, then search for the driver that matches your operating system.
   
  But from our findings, the drivers on AMD support has not all passed WHQL test, which means that there is a big chance that you will download the beta version of a certain driver, which could bring you more troubles than you already have. Definitely not something you want to go through.
@@ -180,12 +126,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da2c0eabed8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [AMD](https://tools.techidaily.com/drivereasy/download/)
 * [graphics](https://tools.techidaily.com/drivereasy/download/)
 
@@ -195,8 +135,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,6 +142,28 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevating-user-engagement-with-detailed-video-chapters-in-youtube/"><u>[New] 2024 Approved Elevating User Engagement with Detailed Video Chapters in YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-illuminate-a-guide-to-great-vlog-images/"><u>[Updated] How to Illuminate A Guide to Great Vlog Images</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-swift-snapfile-reinstatement-guide/"><u>[Updated] In 2024, Swift Snapfile Reinstatement Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-to-enhance-stability-of-win-11s-photo-viewer/"><u>[Updated] Strategies to Enhance Stability of Win 11'S Photo Viewer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104231373-demystifying-the-legacy-usb-composite-device-problems-now-fixed/"><u>Demystifying the Legacy USB Composite Device Problems - Now Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-install-realtek-hd-audio-driver-failure-easily/"><u>Fix Install Realtek HD Audio Driver Failure. Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-intel-mcpu-driver-problems/"><u>Fixing Intel MCPU Driver Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-failed-to-start-battleye-addressing-the-1450-driver-load-issue/"><u>How to Fix 'Failed to Start BattlEye': Addressing the 1450 Driver Load Issue</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ignite-creativity-with-the-best-android-drawing-app-selection/"><u>Ignite Creativity with the Best Android Drawing App Selection</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-web-conferences-archival/"><u>In 2024, Web Conferences Archival</u></a></li>
+<li><a href="https://driver-error.techidaily.com/master-the-fix-how-to-properly-configure-devices-and-avoid-error-code-1-issues/"><u>Master the Fix: How to Properly Configure Devices & Avoid Error Code 1 Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-challenge-of-a-nonfunctional-coprocessor-module-for-windows-10-users-solutions-unveiled/"><u>Overcoming the Challenge of a Nonfunctional Coprocessor Module for Windows 10 Users – Solutions Unveiled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/printer-driver-issue-resolved-quickly/"><u>Printer Driver Issue Resolved Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/silent-keyboard-lights-asus/"><u>Silent Keyboard Lights ASUS</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-asus-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Asus without backup.</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/ultimate-guide-streamline-your-server-storage-with-leading-disk-utilities-for-winsrv-2012r2/"><u>Ultimate Guide: Streamline Your Server Storage with Leading Disk Utilities for WinSrv 2012(R2)</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

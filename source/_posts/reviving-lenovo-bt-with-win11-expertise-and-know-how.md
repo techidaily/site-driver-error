@@ -1,7 +1,7 @@
 ---
 title: Reviving Lenovo BT with Win11 Expertise and Know-How
-date: 2024-11-26T00:47:00.773Z
-updated: 2024-12-03T03:11:48.739Z
+date: 2024-12-04T19:05:42.862Z
+updated: 2024-12-10T06:57:07.950Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 * [Option 3: Update Bluetooth driver](https://lightailing.sjv.io/k0ez0m)
 * [Option 4: Perform a refresh](https://collovinc.sjv.io/jrkzwp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1: Enable Bluetooth hardware
 
 **NOTE** : Please make sure that your computer has the necessary hardware and your wireless is turned on. Also, check the support website of Lenovo to make sure that your device is Bluetooth capable.
@@ -50,24 +46,20 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7d4daf634.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If you see a down arrow, your Bluetooth device is disabled, just right-click the item and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b810d497f1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) If you see a yellow exclamation mark next to your Bluetooth driver, your Bluetooth hardware is not responding or set up correctly. You can refer to **Option 3** for more help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2: Enable discovery mode
@@ -75,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
  1) On your keyboard, press the Windows logo key and S at the same time, then type **change bluetooth** . Click **Change Bluetooth** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e564dcca0a6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
@@ -94,13 +90,17 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver-scan.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 4: Perform a refresh
 
@@ -124,17 +124,22 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-get-to-know-vrecorder-the-perfect-installation-process/"><u>2024 Approved Get to Know VRecorder The Perfect Installation Process</u></a></li>
-<li><a href="https://driver-error.techidaily.com/common-problems-with-hp-wireless-peripherals-diagnosis-and-repair-tips/"><u>Common Problems with HP Wireless Peripherals: Diagnosis & Repair Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/diy-youtube-channel-intros-made-easy-using-movavi-software/"><u>DIY YouTube Channel Intros Made Easy Using Movavi Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphics-hardware-blockage-for-windows-10-system/"><u>Graphics Hardware Blockage for Windows 10 System</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-visionary-filmmaker-blending-clips-and-chords/"><u>In 2024, Visionary Filmmaker Blending Clips & Chords</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leading-crypto-discussion-starters-for-engaging-conversations-with-chatgpt/"><u>Leading Crypto Discussion Starters for Engaging Conversations with ChatGPT</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/live-broadcast-converter-decoder/"><u>Live Broadcast Converter Decoder</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restore-your-control-the-ultimate-guide-for-effortlessly-fixing-unresponsive-bluetech-in-windows-11-fix-revealed/"><u>Restore Your Control: The Ultimate Guide for Effortlessly Fixing Unresponsive BlueTech in Windows 11 (Fix Revealed)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/strategies-to-overcome-base-driver-issues-dm/"><u>Strategies to Overcome Base Driver Issues (DM)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-asus-rog-phone-7-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Asus ROG Phone 7 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-lava-blaze-pro-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Lava Blaze Pro 5G? Here is How | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/windows-10avimp4-windows10avi-mp4/"><u>Windows 10でAVIファイルをMP4に転換する究極のガイド - Windows10専用、シンプルなAVI MP4変換ツール紹介</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ree-youtube-endings-that-stand-out-ranked/"><u>[New] Free YouTube Endings That Stand Out - Ranked!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-dive-into-the-world-of-ifunny-meme-app/"><u>[New] In 2024, Dive Into the World of iFunny Meme App</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-screen-snatching-made-easy-analyzing-no-cost-recording-apps/"><u>[New] Screen Snatching Made Easy – Analyzing No-Cost Recording Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-step-into-reflection-editing-your-facebook-past-videos/"><u>[New] Step Into Reflection Editing Your Facebook Past Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-cutting-edge-screen-recorders-for-professionals/"><u>[Updated] In 2024, Cutting-Edge Screen Recorders for Professionals</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/20-easygoing-country-rhythms-to-boogie-down-and-unwind-on-tiktok/"><u>20 Easygoing Country Rhythms to Boogie Down & Unwind on TikTok</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-unsupported-intelamd-drivers-within-adobe-premiere-pro/"><u>Corrected Unsupported Intel/AMD Drivers Within Adobe Premiere Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-speed-negotiation-failure/"><u>Fix Speed Negotiation Failure</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-error-bcm2omedian-device-unsupported/"><u>Hardware Error - BCM2omedian Device Unsupported</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-access-denied-when-setting-up-a-new-usb-device/"><u>How to Overcome 'Access Denied' When Setting Up a New USB Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Samsung Galaxy F04</u></a></li>
+<li><a href="https://driver-error.techidaily.com/meltdown-fixing-intellme-malfunctions/"><u>Meltdown: Fixing IntellME Malfunctions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-vehicle-load-for-this-equipment/"><u>No Vehicle Load for This Equipment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revise-and-validate-inf-service-installation/"><u>Revise and Validate INF Service Installation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionary-ar-technology-by-dyson-promises-perfect-vacuum-navigation-say-goodbye-to-missed-spots-zdnet-insights/"><u>Revolutionary AR Technology by Dyson Promises Perfect Vacuum Navigation: Say Goodbye to Missed Spots | ZDNET Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-the-top-to-bottom-problem-correcting-your-asus-laptops-inverted-videos/"><u>Solving the Top-to-Bottom Problem: Correcting Your ASUS Laptop's Inverted Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-iphone-16-and-16-pro-durability-the-elite-selection-of-cases-for-202n4-tested-and-reviewed-by-industry-leaders-zdnet/"><u>Unlocking iPhone 16 and 16 Pro Durability: The Elite Selection of Cases for 202N4 - Tested & Reviewed by Industry Leaders | ZDNET</u></a></li>
 </ul></div>
 

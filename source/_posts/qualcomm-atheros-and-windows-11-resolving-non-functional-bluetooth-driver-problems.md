@@ -1,7 +1,7 @@
 ---
 title: "Qualcomm Atheros and Windows 11: Resolving Non-Functional Bluetooth Driver Problems"
-date: 2024-09-09T03:07:31.159Z
-updated: 2024-09-10T03:07:31.159Z
+date: 2024-12-04T01:59:40.021Z
+updated: 2024-12-09T22:39:50.072Z
 tags:
   - win11
   - win10
@@ -13,28 +13,10 @@ excerpt: "This Article Describes Qualcomm Atheros and Windows 11: Resolving Non-
 thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b1b8e67663aad45fe3a9f4b0.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Qualcomm Atheros and Windows 11: Resolving Non-Functional Bluetooth Driver Problems
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587848fa4952b.png)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Windows 10 users have reported to have problems with their Atheros Bluetooth driver on and off for months since the upgrade. When Bluetooth driver is sloppy, your Bluetooth devices, wireless mouse, wireless keyboard, wireless headphone, are not working properly.
   
 Just relax, this is a very easy problem to solve. Just follow the instructions below to get it done!
@@ -88,30 +70,12 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787077d9b1c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6) When the uninstall finishes, restart your computer.
   
 7) Now, go to the folder where you store the setup file of the Qualcomm Atheros Bluetooth driver, double the**setup file**and run the installation as instructed.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587857485a0a6.png)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8) When the install finishes, reboot your computer for the change to take effect.
   
  **Option Three: Reinstall Bluetooth Driver Manually**
@@ -128,42 +92,18 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878625e408ff.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Update Driver Software**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878797a95615.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Choose**Browse my computer for driver software** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787a96b276c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Choose **Let me pick from a list of the drivers on my computer** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787ac962e8f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6) Un-tick the box for **Show compatible hardware** . Then you should be able to see **Qualcomm Atheros** driver option on the left. On the right, choose one of the drivers listed. We go with**Qualcomm Atheros AR3011 Bluetooth 3.0** . You need to try them one by one by yourself to select the right one for your PC. When done picking, click**Next** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787b0460727.png)
@@ -186,12 +126,6 @@ Then the**Update**button next to the driver you need to update.
 
  ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76eb162d8c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 That’s all.
   
 Compare with the above methods, how easy is this?
@@ -209,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,6 +150,22 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-x-media-converter-desktop-application/"><u>[Updated] X-Media Converter Desktop Application</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluray-non-display-issue-resolved-in-windows-11/"><u>BluRay Non-Display Issue Resolved in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/broadcoms-solution-enhanced-functionality-for-n-adapter-in-windows/"><u>Broadcom's Solution: Enhanced Functionality for N Adapter in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/controller-error-notice-at-idedevice/"><u>Controller Error Notice at Idedevice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-apples-game-changing-understated-ai-feature-set-for-next-big-reveal-at-wwdc-futuretechtrends/"><u>Discover Apple's Game-Changing, Understated AI Feature Set for Next Big Reveal at WWDC | FutureTechTrends</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721097739479-overcoming-the-missing-coprocessor-driver-error-on-your-windows-10-machine-solutions-inside/"><u>Overcoming the Missing Coprocessor Driver Error on Your Windows 10 Machine - Solutions Inside</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ring-video-dimensions-on-youtube-a-users-guide-to-perfect-uploads-for-2024/"><u>Tailoring Video Dimensions on YouTube A User's Guide to Perfect Uploads for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-costly-creativity-companion-comprehensive-review-of-microsoft-surface-studio-2/"><u>The Costly Creativity Companion: Comprehensive Review of Microsoft Surface Studio 2</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103903270-weve-found-a-quick-resolution-for-your-gpu-related-gaming-woes/"><u>We've Found a Quick Resolution for Your GPU-Related Gaming Woes!</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

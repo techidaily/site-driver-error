@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Cards Not Shown on Windows Machine"
-date: 2024-08-02T07:27:55.801Z
-updated: 2024-08-03T07:27:55.801Z
+date: 2024-12-02T21:02:24.319Z
+updated: 2024-12-09T17:02:54.483Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Show hidden devices
 
  If you recently got a new graphics card for your computer, then there’s a good chance it shows up as hidden. So we might have to un-hide it. Here’s a quick run-down:
@@ -35,26 +39,11 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91effe026eb.png)
 2. Click **View**   and then click **Show hidden devices** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/windows11showhiddendevices.jpg)
 3. Click **Action** \> **Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9234ccb8e93.jpg)
 4. Check if your Nvidia graphics driver shows up under the **Display adapters** category as a gray-out device, i.e. it looks pale compared to other functioning devices. If so, right-click your Nvidia display card and select**Uninstall device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-30.png)
 5. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-32.png)
 6. Then restart your computer.
 7. If the Nvidia display card remains disappeared when your computer restarts, don’t worry, move on to the next fix.
@@ -62,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  This**graphics card not detected** problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience, or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -79,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Update your BIOS
 
 **BIOS**   (**Basic Input/Output System**) performs the hardware initialization and jumpstarts the processes during the booting process of your computer. So we can try updating our **BIOS**   to see if it solves this   **graphics card not showing up in Device Manager in Windows 10/8/7**   issue.
@@ -95,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Repair corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -105,10 +96,16 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
 2. Open Fortectand run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -126,8 +123,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,6 +130,24 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-elevate-your-meetings-best-tools-to-record-zoom-for-2024/"><u>[New] Elevate Your Meetings Best Tools to Record Zoom for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-first-steps-to-picture-perfection-demystifying-pixels-for-2024/"><u>[New] First Steps to Picture Perfection Demystifying Pixels for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-eliminating-an-obsolete-linkedin-identity-stepwise-guide/"><u>[Updated] 2024 Approved Eliminating an Obsolete LinkedIn Identity Stepwise Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-catalyze-viewers-interest-tutorial-for-traffic-triumphs-for-2024/"><u>[Updated] Catalyze Viewers' Interest Tutorial for Traffic Triumphs for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-insta-photo-watermarks-a-step-by-step-guide-for-2024/"><u>[Updated] Mastering Insta Photo Watermarks A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205592094-constraint-b-each-historical-event-chosen-for-the-footnotes-should-not-have-been-commonly-referenced-in-mainstream-media/"><u>Constraint B: Each Historical Event Chosen for the Footnotes Should Not Have Been Commonly Referenced in Mainstream Media</u></a></li>
+<li><a href="https://driver-error.techidaily.com/discovery-and-fix-for-error-45/"><u>Discovery and Fix for Error #45</u></a></li>
+<li><a href="https://techtrends.techidaily.com/extend-your-ipads-lifespan-a-comprehensive-guide-to-replacing-its-battery/"><u>Extend Your iPad's Lifespan - A Comprehensive Guide to Replacing Its Battery</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-usb-serial-converter-driver-issue-solved/"><u>Fix USB Serial Converter Driver Issue [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-your-nonfunctional-laptoppc-keyboard-in-minutes-article-name-358-characters/"><u>Fix Your Nonfunctional Laptop/PC Keyboard in Minutes - Article Name — 358 Characters</u></a></li>
+<li><a href="https://driver-error.techidaily.com/install-samsung-driver-in-minutes/"><u>Install Samsung Driver in Minutes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidias-swift-fix-on-opengl-driver-trouble/"><u>NVIDIA's Swift Fix on OpenGL Driver Trouble</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-challenge-of-a-gtx-nineties-fifty-and-windows-eleven-understanding-code-43-error/"><u>Overcoming the Challenge of a GTX Nineties Fifty and Windows Eleven - Understanding 'Code 43 Error'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repair-right-click-failure-in-windows-11-touchpad-system/"><u>Repair Right Click Failure in Windows 11 Touchpad System</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-to-accessing-vmdk-files-with-vmware-esxi-or-workstation/"><u>Step-by-Step Guide to Accessing VMDK Files with VMware ESXi or Workstation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-resolving-the-incorrect-setup-alert-code-1-on-your-device/"><u>Step-by-Step Guide: Resolving the Incorrect Setup Alert (Code 1) on Your Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-resolve-access-denied-during-usb-installer-errors/"><u>Troubleshooting: Resolve 'Access Denied' During USB Installer Errors</u></a></li>
+</ul></div>
 

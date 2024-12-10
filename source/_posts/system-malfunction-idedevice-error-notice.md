@@ -1,7 +1,7 @@
 ---
 title: "System Malfunction: Idedevice Error Notice"
-date: 2024-09-09T03:04:42.744Z
-updated: 2024-09-10T03:04:42.744Z
+date: 2024-12-05T01:50:50.837Z
+updated: 2024-12-10T06:33:39.510Z
 tags:
   - win11
   - win10
@@ -27,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
 2. [**Update your drivers**](https://appsumo.8odi.net/gmezyk)
 3. [**Update your BIOS**](https://tidio.pxf.io/9grog5)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Unplug and replug your hard disk cable
 
  Make sure your hard disk cable is properly connected to your motherboard. Try unplugging and then re-plugging your hard disk cable and see if it solves your “The driver detected a controller error on \\Device\\Ide\\Ideport0” problem.
@@ -41,11 +35,9 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
 2. **Unplug** your hard disk cable from your motherboard, wait a moment and then replug it into the motherboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7a3ca9a5a8-300x280.jpg)
 3. Start your computer and see if the error is fixed. If not, try Fix 2, below.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
@@ -66,6 +58,11 @@ OR
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b920d759d33e.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b920e62afcac.jpg)
 4. Restart your computer and check if your “The driver detected a controller error on \\Device\\Ide\\Ideport0” problem is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 3, below.
 
@@ -77,48 +74,33 @@ OR
    1. Type **msinfo32**  in the Windows search box and press**Enter** on your keyboard.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type your system’s manufacturer name, your system’s model name and “BIOS” in the Google search box, then select the matching result to go to the manufacturer’s official website and download BIOS update.  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.**Note:** If you find there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
  If you’re using**Lenovo** , press**F1** ;  
@@ -142,8 +124,6 @@ Hopefully this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,6 +131,22 @@ Hopefully this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-revel-in-reality-an-extensive-review-of-lgs-high-fidelity-monitor-31mu97-b/"><u>[New] 2024 Approved Revel in Reality - An Extensive Review of LG's High-Fidelity Monitor, 31MU97-B</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-memetic-mastery-creating-viral-content-on-facebook-and-insta/"><u>[New] In 2024, Memetic Mastery Creating Viral Content on Facebook and Insta</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-to-share-a-tiktok-video-on-twitter/"><u>[Updated] How to Share A Tiktok Video on Twitter?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-curated-list-of-happiness-crying-combo-on-instagram-pages/"><u>A Curated List of Happiness-Crying Combo on Instagram Pages</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-steps-for-fixing-the-gtx-950-code-43-error-on-windows-11-a-users-manual/"><u>Comprehensive Steps for Fixing the GTX 950 Code 43 Error on Windows 11 - A User’s Manual</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-the-issue-when-your-computer-detects-unsupported-components-on-idt-software/"><u>Correcting the Issue When Your Computer Detects Unsupported Components on IDT Software</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/drm-free-conversion-transform-epub-and-pdf-files-on-mac-with-no-restrictions/"><u>DRM-Free Conversion: Transform EPUB and PDF Files on Mac with No Restrictions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/faster-vimeo-viewing-experiences/"><u>Faster Vimeo Viewing Experiences</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-get-my-latest-cam-back-in-sight-post-windows-10-creators-update-all-fixed-fixed/"><u>How to Get My Latest Cam Back in Sight Post-Windows 10 Creators Update - All Fixed ![Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-failures-heres-how-to-get-it-working-again/"><u>HP Wireless Keyboard Failures? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-repair-for-persistent-amd-issues/"><u>Immediate Repair for Persistent AMD Issues</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-return-artisan-set/"><u>In 2024, Return Artisan Set</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lenovo-plus-w11-bluetooth-sync-fixes-and-solutions/"><u>Lenovo + W11 Bluetooth Sync: Fixes & Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-circuitry-with-toms-hardware-experts/"><u>Navigating the Circuitry with Tom's Hardware Experts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-guide-for-professional-use-of-screen-recorder-by-zd-soft-for-2024/"><u>The Ultimate Guide for Professional Use of Screen Recorder by ZD Soft for 2024</u></a></li>
+</ul></div>
 

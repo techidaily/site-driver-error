@@ -1,7 +1,7 @@
 ---
 title: How To Correct the 'Access Denied' Hurdle in Your USB Device Setup Process
-date: 2024-09-09T03:08:13.864Z
-updated: 2024-09-10T03:08:13.864Z
+date: 2024-12-06T22:32:56.704Z
+updated: 2024-12-09T16:14:18.584Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes How To Correct the 'Access Denied' Hurdle in You
 thumbnail: https://thmb.techidaily.com/fed3ffae9229ff3a7d3580519bb324f0e6bad8a6cd96fa55cbded24321f049a3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Correct the 'Access Denied' Hurdle in Your USB Device Setup Process
 
 If you can’t install any new USB devices due to error “Access is denied”, it can be frustrating. But don’t worry, here you will find the solution to fix the problem.  
@@ -31,32 +25,14 @@ First, make sure that you login to computer as Administrator. If you are not log
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c68c5d7bf6a.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2\. Click **Change your account type** and enter your password if necessary.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791ba4e50787.png)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. Then click**Start** button and choose to **Log off**  of Windows, and then log back in again.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791bab2104ee.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After that, reinstall the driver again.  
   
  **Turn off any antivirus or anti-spyware program**
@@ -76,22 +52,10 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c692c5d030c.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. Select**SYSTEM** from the Group or user names. In Permissions for SYSTEM section, make sure the Full Control Allow checkbox is checked and uncheck any Deny checkbox. Click Apply button to apply the changes.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6933c3f709.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Also check your user account and see if it has full control of the system and any deny checkbox is unchecked.
 
  After that, update the USB driver again and it should work this time.
@@ -105,8 +69,6 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,6 +76,30 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-detection-issue-for-graphic-cards/"><u>[FIXED] Detection Issue for Graphic Cards</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-visual-mastery-crop-and-edit-videos-like-pros/"><u>[New] Instagram Visual Mastery Crop and Edit Videos Like Pros</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-immerse-in-ideas-multitasking-activities-for-podcast-fans/"><u>[Updated] Immerse in Ideas Multitasking Activities for Podcast Fans</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-your-last-plugged-in-usb-gear-that-windows-cant-detect/"><u>Diagnosing and Repairing Your Last Plugged-In USB Gear That Windows Can't Detect</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-22-rectified-activation-successful/"><u>Error 22 Rectified; Activation Successful</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-rapid-car-power-up-with-the-lowest-priced-high-speed-portable-chargers/"><u>Experience Rapid Car Power-Up with the Lowest Priced High Speed Portable Chargers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mouse-lags-freezes-stutters-in-windows-11-fixed/"><u>Mouse Lags, Freezes, Stutters in Windows 11 [Fixed]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-wrc-10-game-crashing-problems-solved-enhanced-performance-guaranteed/"><u>PC Players Rejoice - WRC 10 Game Crashing Problems Solved! Enhanced Performance Guaranteed.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-win10-no-display-for-seagate-hdd/"><u>Solving Win10: No Display for Seagate HDD</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tightening-up-inf-service-setup-issues/"><u>Tightening Up INF Service Setup Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-repairing-the-apple-watchs-touch-sensor-issues/"><u>Understanding and Repairing the Apple Watch's Touch Sensor Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/uninstall-troubleshooting-stubborn-nvidia-driver/"><u>Uninstall Troubleshooting: Stubborn Nvidia Driver</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/utilizing-cookiebot-technology-for-optimized-website-performance/"><u>Utilizing Cookiebot Technology for Optimized Website Performance</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-record-how-to-use-vimeo-record-to-capture-screen-and-webcam/"><u>Vimeo Record How to Use Vimeo Record to Capture Screen and Webcam</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wi-fi-80211n-broadcoms-solved-problem-on-windows-platform/"><u>Wi-Fi 802.11N: Broadcom's Solved Problem on Windows Platform</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-ignoring-seagate-external-drive-fix-tips/"><u>Windows 10 Ignoring Seagate External Drive - Fix Tips</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

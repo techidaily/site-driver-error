@@ -1,7 +1,7 @@
 ---
 title: Fix Speed Negotiation Failure
-date: 2024-09-09T03:02:19.458Z
-updated: 2024-09-10T03:02:19.458Z
+date: 2024-12-08T18:40:43.232Z
+updated: 2024-12-10T01:24:58.950Z
 tags:
   - win11
   - win10
@@ -13,28 +13,10 @@ excerpt: This Article Describes Fix Speed Negotiation Failure
 thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d430e8488c37e77595b9f657.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix Speed Negotiation Failure
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b55a005ac85d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A yellow exclamation mark next to**Universal Serial Bus (USB) Controller** means the device driver is not installed correctly. In this case, your USB devices can’t be recognized by the computer.
 
  But don’t worry. There are**three** methods for you to try to fix this issue. You may not have to try them all; just work your way down the list until you find the one that works for you. All steps apply to Windows 11, 10, 7, 8 & 8.1.
@@ -48,11 +30,9 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Mehtod 1: Uninstall the Device Driver
 
 Follow these steps:
@@ -60,37 +40,26 @@ Follow these steps:
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. In Device Manager, right-click on the **Universal Serial Bus (USB) Controller** with the yellow exclamation mark and select**Uninstall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_590197be52699.png)
 3. If prompted for confirmation, click the box next to**Delete the driver software for this device** (if you see this), and click**OK** button.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_590197eb1814f.png)
 4. Restart your PC then check if the driver is installed correctly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Way 2: Update the Chipset Drivers
 
  To fix the problem, you can try updating the Chipset drivers. Chipset drivers are responsible for controlling communication between various components in your system like USB devices, which includes the USB drivers.
@@ -117,6 +86,10 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/Intel-9-series-chipset-family-sata-ahci-controller.jpg)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  Hopefully the methods above will help you solve the Universal Serial Bus (USB) Controller driver issue. If you have any questions, feel free to leave your comments below.
@@ -129,8 +102,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,6 +109,19 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-in-the-ring-of-creatives-evaluating-own-and-adversary-arts/"><u>[New] 2024 Approved In the Ring of Creatives Evaluating Own and Adversary Arts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-seamless-ppt-showcase-across-tablets-and-laptops-for-gmeet/"><u>[New] 2024 Approved Seamless PPT Showcase Across Tablets & Laptops for GMeet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-how-to-safeguard-your-live-streams-on-periscope/"><u>[New] How To Safeguard Your Live Streams on Periscope</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-complete-rundown-how-google-podcast-works/"><u>[Updated] Complete Rundown How Google Podcast Works</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-review-and-alternatives-unveiled-by-az-screenshotter-for-2024/"><u>[Updated] Review & Alternatives Unveiled by AZ Screenshotter for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-overlooked-yet-best-free-speech-transcribers-for-mac/"><u>2024 Approved Top 10 Overlooked, Yet Best Free Speech Transcribers for Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/a-comprehensive-look-at-stardew-and-ginger-isle-for-2024/"><u>A Comprehensive Look at Stardew and Ginger Isle for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-malfunctioning-inf-installation-clause/"><u>Correcting Malfunctioning INF Installation Clause</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-navigate-windows-8-safe-mode-for-graphics-driver-uninstallation/"><u>How to Navigate Windows 8 Safe Mode for Graphics Driver Uninstallation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-to-boot-windows-8-into-safe-mode-and-remove-graphics-drivers/"><u>Steps to Boot Windows 8 Into Safe Mode & Remove Graphics Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-eliminate-user-specific-ms-errors/"><u>Steps to Eliminate User-Specific MS Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/zero-stutter-in-win11-upgrade/"><u>Zero Stutter in Win11 Upgrade</u></a></li>
+</ul></div>
 

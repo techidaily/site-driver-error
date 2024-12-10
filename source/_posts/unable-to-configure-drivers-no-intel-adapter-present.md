@@ -1,7 +1,7 @@
 ---
 title: Unable to Configure Drivers; No Intel Adapter Present
-date: 2024-09-09T03:06:45.675Z
-updated: 2024-09-10T03:06:45.675Z
+date: 2024-12-03T16:19:59.048Z
+updated: 2024-12-10T07:09:02.635Z
 tags:
   - win11
   - win10
@@ -17,20 +17,8 @@ thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be110e744e15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you try to install the Intel Network driver, if you run into the error “ **Cannot install drivers. No Intel(R) Adapters are present in this computer** “, don’t worry. You can fix the error with one of the solutions below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 1: Update the driver via Device Manager
 
 **First** , ensure the driver was downloaded from [Intel official website](https://www-ssl.intel.com/content/www/us/en/homepage.html) . If you have downloaded the driver from Intel’s official website, then ensure the driver has the latest version.
@@ -43,36 +31,42 @@ thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5
 2. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Type**devmgmt.msc** and hit Enter to open the Device Manager.  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. Expand the category “Network adapters”. Right-click on the Intel network device and select**Update Driver Software…**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be11a51c846d.jpg)  
 **Note** if the network driver is missing, it might be listed under the category “Other devices”. In this case, there is a yellow mark next to the device which is probably displayed as Ethernet Controller.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click**Browser my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be11a73cf24c.jpg)
 5. Click**Let me pick from a list of device drivers on my computer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be11a8857ad7.jpg)
 6. Check the box next to**Show compatible hardware** and click**Have Disk** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c3e5e43700b.png)
 7. Click**Browse**  and navigate to the folder where you extracted the driver file to in Step 1).  
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c3e66d00df9.png)
 8. Continue to open the folders until you can choose any of the**.INF** files. Then follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Solution 2: Update the driver automatically
 
  The above steps above may help resolve the problem, but if they don’t, you can update the driver automatically using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -91,12 +85,6 @@ thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/intel-wifi-wireless-adaper.png)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -108,8 +96,6 @@ thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,6 +103,18 @@ thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-selecting-the-perfect-online-source-15-best-royalty-free-music-urls-for-2024/"><u>[Updated] Selecting the Perfect Online Source 15 Best Royalty-Free Music URLs for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-regulatory-guidelines-youtube-video-recording/"><u>2024 Approved Regulatory Guidelines YouTube Video Recording</u></a></li>
+<li><a href="https://driver-error.techidaily.com/a-comprehensive-guide-enabling-safe-mode-on-window-8-pcs-and-efficiently-uninstalling-gpu-drivers/"><u>A Comprehensive Guide: Enabling Safe Mode on Window 8 PCs and Efficiently Uninstalling GPU Drivers</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ampliando-el-espacio-de-la-unidad-c-rapida-y-facil-con-estas-3-tecnicas-para-windows-11/"><u>Ampliando El Espacio De La Unidad C Rápida Y Fácil Con Estas 3 Técnicas Para Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-errors-and-enhancing-performance-of-win1110s-sm-bus-controllers/"><u>Fixing Errors & Enhancing Performance of WIN11/10's SM Bus Controllers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/image-isolation-pro-eliminate-backgrounds-in-affinity-for-2024/"><u>Image Isolation Pro Eliminate Backgrounds in Affinity for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-x265-coding-advanced-handbrake-setup-guidelines-for-quality-hevc-content-creation/"><u>Mastering X265 Coding: Advanced Handbrake Setup Guidelines for Quality HEVC Content Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-excel-notation-on-notepad/"><u>Quick Fixes for Excel Notation on Notepad</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-asus-camera-connectivity-on-windows-10/"><u>Resolved ASUS Camera Connectivity on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-issue-of-absent-cpu-co-processor-drivers-in-windows-10-systems/"><u>Resolving the Issue of Absent CPU Co-Processor Drivers in Windows 10 Systems</u></a></li>
+</ul></div>
 

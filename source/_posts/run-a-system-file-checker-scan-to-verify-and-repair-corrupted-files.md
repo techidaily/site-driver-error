@@ -1,7 +1,7 @@
 ---
 title: Run a System File Checker Scan to Verify and Repair Corrupted Files.
-date: 2024-09-09T03:09:24.160Z
-updated: 2024-09-10T03:09:24.160Z
+date: 2024-12-08T08:30:09.985Z
+updated: 2024-12-09T19:53:01.959Z
 tags:
   - win11
   - win10
@@ -13,29 +13,29 @@ excerpt: This Article Describes Run a System File Checker Scan to Verify and Rep
 thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e29c16f1ef4c1543e402a7a3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Run a System File Checker Scan to Verify and Repair Corrupted Files
 
  It’s rather annoying to see**Unable to initialize DirectX 9 device** when you start a game. However, you’re not alone here. It’s a common problem especially for Grand Theft Auto V (GTA 5) and Warcraft 3\. Luckily, it’s not hard to fix it at all…
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## About DirectX 9
 
  Microsoft DirectX 9 is a group of technologies designed to make Windows-based computers an ideal platform for running and displaying applications rich in multimedia elements such as full-color graphics, video, 3D animation, and rich audio.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does this error occur?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/unable-to-initialize-direct-9-device-gta5-warcraft-3-1024x701.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This error can occur for the following reasons:
 
@@ -46,18 +46,6 @@ This error can occur for the following reasons:
 * A specific DirectX file is missing.
 * Conflicting apps.
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Update your graphics card driver](https://aidotcom.pxf.io/nkz4kv)
@@ -67,17 +55,9 @@ This error can occur for the following reasons:
 5. [Perform a clean boot](https://bluettiit.sjv.io/xkwq91)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics card driver
 
 **Unable to Initialize DirectX 9 Device error** is most likely caused by an outdated or corrupted graphics driver, which can also cause game crashing and not launching issues.
@@ -121,11 +101,9 @@ This error can occur for the following reasons:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update** next to the flagged graphics card driver to automatically download and install the correct version of the driver (you can do this with the FREE version).
 
 **OR**
@@ -133,6 +111,10 @@ This error can occur for the following reasons:
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click_Update All_ .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -159,11 +141,9 @@ This error can occur for the following reasons:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/turn-windows-feature-on-or-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Alternatively, you can go to**Control Panel** \>**Programs and Features** , then from the sidebar click**Turn Windows features on or off** (or**add/remove Windows Features**).
 
  2) Scroll down to**Legacy Components** , and check the box for**DirectPlay** .
@@ -180,12 +160,6 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  _This is the only officially supported way to check if the correct DirectX files are currently installed._
 
  2) Open the**dxwebsetup.exe** file and follow the onscreen instructions to install the software on your computer.
@@ -198,18 +172,6 @@ This error can occur for the following reasons:
   
  Go to Steam > SteamApps > Common > GTA V > \_CommonRedist > DirectX > Jun2010 > DXSETUP
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Perform a clean boot
 
  Circumstances are there are other conflicting applications that prevent your game from working properly. To see if that’s your problem, try performing a clean boot.
@@ -218,48 +180,22 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/msconfig.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click the**Service** s tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/disable-all.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Then click the**Startup** tab and select**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/open-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Select every startup application and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/disable-all-startups.png)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Restart your PC and launch your game again.
 
  If the error message is gone, then congrats! However, you’ll need to find out the problematic software. Here is how to do it:
@@ -284,8 +220,6 @@ This error can occur for the following reasons:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -293,6 +227,26 @@ This error can occur for the following reasons:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-speakers-guide-to-voiceover-on-microsoft-ppt-for-2024/"><u>[New] The Speaker's Guide to Voiceover on Microsoft PPT for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-8-premium-complimentary-streaming-media-processors/"><u>[Updated] In 2024, 8 Premium Complimentary Streaming Media Processors</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-infographics-boosting-buzz-through-social-videos-for-2024/"><u>[Updated] Infographics Boosting Buzz Through Social Videos for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/best-low-cost-drones-the-minute-leaders-reviewed-for-2024/"><u>Best Low-Cost Drones The Minute Leaders Reviewed for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-content-that-encourages-constructive-youtube-commentary/"><u>Crafting Content that Encourages Constructive YouTube Commentary</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/current-drone-applications-vs-future-technological-paradigm/"><u>Current Drone Applications vs Future Technological Paradigm</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976840534-download-the-official-asus-dvd-driver-software-today/"><u>Download the Official ASUS DVD Driver Software Today!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-correcting-battleye-service-startup-failures-due-to-driver-loading-mistakes/"><u>Expert Tips: Correcting BattlEye Service Startup Failures Due to Driver Loading Mistakes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-windows-10-not-seeing-logitech-receiver/"><u>Fix: Windows 10 Not Seeing Logitech Receiver</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-simulation-to-reality-jaunt-vrs-journey/"><u>From Simulation to Reality Jaunt VR's Journey</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-download-and-install-hp-officejet-6600-driver/"><u>How to Download & Install HP Officejet 6600 Driver</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-nvidia-geforce-gtx-950-code-43-error-steps-to-successfully-fix-it-on-windows-10/"><u>Overcoming the NVIDIA GeForce GTX 950 Code 43 Error: Steps to Successfully Fix It on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-windows-11s-missing-coprocessor-driver-problem-successfully/"><u>Resolving Windows 11'S Missing Coprocessor Driver Problem Successfully</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-hat-driver-update-for-windows-11/"><u>Seamless HAT Driver Update for Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-updating-and-downloading-drivers-on-your-hp-envy-20-pc/"><u>Step-by-Step Guide: Updating and Downloading Drivers on Your HP Envy 20 PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-bluetooth-fixes-for-smooth-windows-experience/"><u>Swift Bluetooth Fixes for Smooth Windows Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-old-school-usb-composite-device-puzzle-solved/"><u>The Old School USB Composite Device Puzzle: Solved</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-to-manipulate-windows-11-search-highlights/"><u>Tricks to Manipulate Windows 11 Search Highlights</u></a></li>
+</ul></div>
 

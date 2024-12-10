@@ -1,7 +1,7 @@
 ---
 title: How to Make Win10/11 See Logitech Receiver
-date: 2024-11-27T04:22:11.250Z
-updated: 2024-12-02T19:11:13.993Z
+date: 2024-12-03T22:46:14.476Z
+updated: 2024-12-10T04:21:09.369Z
 tags:
   - win11
   - win10
@@ -53,20 +53,20 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) View by**Category** and click **Uninstall a program** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-control-category-uninstall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-lick **MotionInJoy** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57830b6e39c32.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Type in**regedit** in the search bar and then open it.
@@ -77,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-registry-editor-ds3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Delete all the DS3 files that you can see, especially the DS3.exe file.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/registry-delete-ds3.png)
@@ -86,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
  8) Restart your computer and then plug in your Logitech Unifying Receiver.
 
  9) Wait for Windows Update to help you find the correct driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **3: Update Mouse and USB Drivers**
 
@@ -107,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db63a8174fd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged mouse device and/or USB port to automatically download and install the correct version of that driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -114,11 +118,7 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db63d8ac59f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **4: Run Logitech Unifying Receiver as administrator**
@@ -128,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Expand **Mice and other pointing devices,** right-click the**HID-compliant mouse** and click **Disable** .
@@ -139,15 +139,15 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-logi-run-as-adm.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After the installation, right-click**Logitech Unifying Software** in the**Start** panel and click **Run as administrator** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-logi-run-as-adm-start.jpg)
 
 5) Your Logitech receiver should be able to work now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **5: Perform a hard reset**
 
@@ -189,24 +189,22 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-charting-the-financial-pathway-of-tseries-within-youtube-market-space/"><u>[New] In 2024, Charting the Financial Pathway of TSeries Within YouTube Market Space</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-enjoy-a-stream-of-nine-complete-christmas-capsules-on-youtube-for-2024/"><u>[Updated] Enjoy a Stream of Nine Complete Christmas Capsules on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-free-to-do-approach-for-text-and-video-combination/"><u>[Updated] In 2024, The Free-to-Do Approach for Text & Video Combination</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-screenflow-unleashed-a-comprehensive-macos-review/"><u>[Updated] ScreenFlow Unleashed A Comprehensive macOS Review</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-endless-humor-best-free-meme-designs/"><u>2024 Approved Endless Humor Best Free Meme Designs</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-7-plus-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 7 Plus and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/capturing-slide-decks-via-webcam-a-step-by-step-guide/"><u>Capturing Slide Decks via Webcam A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-lensdirects-prescription-sunglasses-for-digital-screen-protection/"><u>Comprehensive Review: LensDirect’s Prescription Sunglasses for Digital Screen Protection</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-issues-with-hps-wireless-keyboards-a-comprehensive-guide/"><u>Diagnosing and Repairing Issues with HP's Wireless Keyboards: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-on-wudfrd-driver-initialization-id-219/"><u>Error on WudfRd Driver Initialization, ID 219</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-best-video-grabbers-for-windows-10-pc/"><u>In 2024, Best Video Grabbers for Windows 10 PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-computer-hardware-tips-from-toms-digital-world/"><u>Mastering Computer Hardware - Tips From Tom's Digital World</u></a></li>
-<li><a href="https://driver-error.techidaily.com/remedying-inability-to-use-windows-enter-key/"><u>Remedying Inability to Use Windows Enter Key</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-issue-initialization-fails-due-to-battleye-driver-error-code-1450/"><u>Resolved Issue: Initialization Fails Due to BattlEye Driver Error Code 1450</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-non-functioning-qualcomm-atheros-bluetooth-drivers-in-windows-10-step-by-step-guide/"><u>Resolving Non-Functioning Qualcomm Atheros Bluetooth Drivers in Windows 10: Step by Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-touchpad-driver-not-working-on-windows-11/"><u>Solved Touchpad Driver Not Working on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-driver-load-problem-in-battleye-service-with-error-message-1450/"><u>Troubleshooting Steps for 'Driver Load Problem' In BattlEye Service with Error Message (1450)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unidentified-discdvdcd-in-w10w11/"><u>Unidentified Disc/DVD/CD in W10/W11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlock-frozen-dell-mouse-on-win7/"><u>Unlock Frozen Dell Mouse on Win7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-initial-boot-failure-from-drivers-not-installed/"><u>[FIXED] Initial Boot Failure From Drivers Not Installed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-responsive-keys-restored-to-windows-11/"><u>[Fixed]: Responsive Keys Restored to Windows 11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-a-step-by-step-guide-implementing-vimeo-end-cuts/"><u>[New] In 2024, A Step-by-Step Guide Implementing Vimeo End Cuts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-essential-video-equipment-for-successful-youtube-channels/"><u>[Updated] Essential Video Equipment for Successful YouTube Channels</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-close-up-shots-with-videoleaps-zoom-feature/"><u>2024 Approved Mastering Close-Up Shots with VideoLeap's Zoom Feature</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/a-comprehensive-fix-for-bluetooth-driver-glitches-in-windows-10-solution/"><u>A Comprehensive Fix for Bluetooth Driver Glitches in Windows 10 [SOLUTION]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/changing-your-protonvpn-account-e-mail-a-step-by-step-guide/"><u>Changing Your ProtonVPN Account E-Mail: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciding-on-an-upgrade-understanding-the-key-features-that-set-copilot-apart-from-copilot-pro/"><u>Deciding on an Upgrade: Understanding the Key Features that Set Copilot Apart From Copilot Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-11-pro-max-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 11 Pro Max Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-solutions-when-confronted-with-failed-hcmonservice-installs/"><u>Easy Solutions When Confronted with Failed Hcmonservice Installs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-gtx-ebx-950-code-43-issue-in-windows-11-a-comprehensive-guide/"><u>Fixing the GTX Ebx 950 'Code 43' Issue in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-boot-into-safe-mode-and-efficiently-uninstall-graphics-driver-on-windows-8/"><u>How To Boot Into Safe Mode & Efficiently Uninstall Graphics Driver On Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-failed-to-install-the-hcmon-driver-error/"><u>How to Fix Failed to Install the Hcmon Driver Error</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/humorhub-your-step-by-step-to-fun-videos/"><u>HumorHub Your Step-by-Step to Fun Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-bluetooth-shutdown-on-windows-10/"><u>Mastering Bluetooth Shutdown on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nonresponsive-or-stuck-pclaptop-key-issue-here-is-a-simple-fix-for-your-beloved-machine-article-title-how-to-guide-tech-talker402-chars/"><u>Nonresponsive or Stuck PC/Laptop Key Issue? Here Is a Simple Fix for Your Beloved Machine (Article Title) – How-To Guide | Tech Talker—402 Chars</u></a></li>
 </ul></div>
 

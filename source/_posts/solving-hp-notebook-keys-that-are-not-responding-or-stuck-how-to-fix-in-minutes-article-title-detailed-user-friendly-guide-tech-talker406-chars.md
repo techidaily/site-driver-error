@@ -1,7 +1,7 @@
 ---
 title: Solving HP Notebook Keys That Are ‘Not Responding’ or Stuck – How To Fix in Minutes (Article Title)– Detailed, User Friendly Guide | Tech Talker—406 Chars
-date: 2024-09-09T03:09:26.681Z
-updated: 2024-09-10T03:09:26.681Z
+date: 2024-12-04T21:15:00.890Z
+updated: 2024-12-09T21:01:57.280Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bb93fdc792.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 We have received reports from user saying that they have trouble using their HP laptop keyboard. Some of them complained that certain keys, such as functional keys (F1, F12 etc.), are unusable, while a small number of users mentioned that the laptop keyboard is totally useless and they have to turn to an external one. If you are one of the “victims”, no worries, there are some effective ways that are going to help you solve this problem. Please follow the instructions below and get your laptop keyboard fixed!
 
 ## **Step 1: Reinstall Keyboard Driver**
@@ -31,12 +25,6 @@ We have received reports from user saying that they have trouble using their HP 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc3af48b92.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) In the Device Manager window, click to expand**Keyboards**category. Then right click the keyboard option listed here and choose**Uninstall**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc4306d960.jpg)
@@ -45,12 +33,6 @@ When prompted to confirm the uninstall, press**OK**to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc902b86a2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Wait for the uninstall to finish. Then**restart**your computer. The keyboard driver will be reinstalled automatically once you restart your laptop. **Note**: If you need to type in password to log into your desktop, please use the on-screen keyboard by choosing the middle icon from the three icons on the bottom right corner, then select**On-Screen Keyboard**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcb25486f6.png)
@@ -60,66 +42,50 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Step 2: Check Keyboard Settings**
 
 1) Click your**Start**button, then choose**Settings**icon from it. Then choose**Time & language**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcfa0068ce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) On the left side of the pane, choose**Region & language**, then on the right side, make sure that the language is set to**English (United States)**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd71980796.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If not, click the**Options**button as shown in the screen shot.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd7a070a5e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Then make sure the Keyboards is selected as**US**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Step 3: Try an External Keyboard**
 
 If you have tried the above methods but they are not helpful, you may need to plug in a USB external keyboard and see if the second keyboard works. 1) If the external keyboard**works perfectly**, then you need to consider searching and downloading the latest version of the laptop driver from HP support. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). You can try its Free version, and update your drivers one by one. Or you can update all your missing and outdated drivers automatically with just one-click with Driver Easy [**Pro version**](https://tools.techidaily.com/drivereasy/download/). No worry to try it as it comes with a no-questions-asked 30-day money-back guarantee and professional tech support 24/7\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step 4:** **Perform a Hard Reset**
 
@@ -134,8 +100,6 @@ A hard reset will not remove any of your data in your computer, it is a move tha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,6 +107,24 @@ A hard reset will not remove any of your data in your computer, it is a move tha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-wdcsam64prewin8sys-turned-off-core-isolation/"><u>[Fixed] wdcsam64_prewin8.sys Turned Off Core Isolation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-metaverse-branding-strategies-unveiled/"><u>[New] 2024 Approved Metaverse Branding Strategies Unveiled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-microsoft-teredo-tunneling-adapter-missing/"><u>[Solved] Microsoft Teredo Tunneling Adapter Missing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-streamline-live-4-proven-recording-techniques-for-fb/"><u>[Updated] In 2024, Streamline Live 4 Proven Recording Techniques for FB</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-load-not-achieved-for-device-id-219/"><u>Driver Load Not Achieved for Device (ID: 219)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-the-error-when-windows-11-wont-start-on-your-pc/"><u>Fixing the Error When Windows 11 Won’t Start on Your PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-error-code-43-explained-easy-fixes-for-a-smooth-windows-11-experience/"><u>GTX 950 Error Code 43 Explained - Easy Fixes for a Smooth Windows 11 Experience</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/hewlett-packard-enterprise-files-suit-against-inspur-for-intellectual-property-rights-violation-despite-ongoing-operations-in-the-us-post-sanctions-claims.m109/"><u>Hewlett-Packard Enterprise Files Suit Against Inspur for Intellectual Property Rights Violation, Despite Ongoing Operations in the US Post-Sanctions Claims</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-access-is-denied-when-setting-up-your-usb-device/"><u>How to Overcome 'Access Is Denied' When Setting Up Your USB Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-work-with-outdated-usb-composite-devices-a-step-by-step-guide/"><u>How to Work with Outdated USB Composite Devices - A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/impending-closure-of-t-mobiles-2g-cellular-service/"><u>Impending Closure of T-Mobile's 2G Cellular Service</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-tecno-spark-10-4g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Tecno Spark 10 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/stunning-iphone-portraits-through-water-imagery-techniques-for-2024/"><u>Stunning iPhone Portraits Through Water Imagery Techniques for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-fix-amd-drivers-keep-hitting-issues/"><u>Swift Fix: AMD Drivers Keep Hitting Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/triumph-over-graphics-error-during-install/"><u>Triumph over Graphics Error During Install</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-frame-by-frame-mastering-video-freeze-frames-for-2024/"><u>Updated Frame by Frame Mastering Video Freeze Frames for 2024</u></a></li>
+</ul></div>
 

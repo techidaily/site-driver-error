@@ -1,7 +1,7 @@
 ---
 title: "Immediate Fix: Persistent AMD Driver Glitches"
-date: 2024-09-09T03:08:17.692Z
-updated: 2024-09-10T03:08:17.692Z
+date: 2024-12-05T16:24:06.357Z
+updated: 2024-12-10T06:38:56.590Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: "This Article Describes Immediate Fix: Persistent AMD Driver Glitches"
 thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d863043aff159270d3e923d41f323.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Immediate Fix: Persistent AMD Driver Glitches
 
  If your computer keeps running into the**AMD driver crashing** issue, don’t worry. It’s usually easy to fix…
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3 Fixes for AMD Drivers Crash
 
  Just work your way down until the**AMD driver crashing** issue is resolved.
@@ -37,12 +25,6 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 2. [**Roll back the faulty AMD driver**](https://zebaoaffiliateprogram.pxf.io/xkwqe1)
 3. **[Repair system files](https://newchic.sjv.io/jzg4zq)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Update the faulty AMD driver (nearly always fixes the problem)
 
  Perhaps the most common cause of the**AMD driver crash** error is an outdated or corrupt AMD driver. So you should update your AMD drivers to see if it fixes the problem.  If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -59,16 +41,14 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/12/AMD-Radeon-RX-6700-XT.jpg)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Roll back the faulty AMD driver
 
@@ -79,9 +59,19 @@ Here’s how:
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 2. Locate on **the faulty AMD driver** and double-click on it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click the **Driver** tab and then click **Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-1.png)
 4. Click **Yes** to confirm. Then the driver will be restored to a previous version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. **Restart** you computer and check if the problem is resolved.
 
 ## Fix 3: Repair system files
@@ -91,12 +81,6 @@ Here’s how:
 1. [**Repair & replace corrupt system files with Fortect**](https://tinyland.pxf.io/org4ra)
 2. [**Run SFC scan**](https://homestyler.sjv.io/y209g3)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Repair & replace corrupt system files with Fortect
 
  The driver crashing issue could be caused by corrupt system files.[**Fortect**](https://tools.techidaily.com/drivereasy/download/) is a tool that specializes in Windows repairing and fixes corrupt files automatically.
@@ -115,17 +99,9 @@ Here’s how to use Fortect to repair system files on your PC:
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Run SFC scan
 
 **System File Checker** (**SFC**) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files(including those related to **BSOD**). To **run the SFC scan** :
@@ -133,12 +109,11 @@ Here’s how to use Fortect to repair system files on your PC:
 1. On your keyboard, press the**Windows logo key**  and type **cmd** . Then click **Run as administrator** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/cmd-run-as-admin-1.jpg)
 2. Click**Yes** when prompted to confirm.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
 
@@ -158,8 +133,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +140,19 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-get-it-right-three-pro-tips-for-lol-gameplay-captures-for-2024/"><u>[New] Get It Right Three Pro Tips for LOL Gameplay Captures for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-flawless-video-calls-from-laptop-using-the-desktop-whatsapp-browser-for-2024/"><u>[Updated] Flawless Video Calls From Laptop Using the Desktop WhatsApp Browser for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-rise-in-rankings-14-high-impact-gaming-videos-for-youtube/"><u>[Updated] Rise in Rankings 14 High-Impact Gaming Videos for YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-peals-of-laughter-fun-tones-websites-unveiled/"><u>2024 Approved Peals of Laughter Fun Tones Websites Unveiled</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/u/"><u>从日常中创造非凡人生——U兄撰写：百万孤独的诱惑与选择</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-missing-driver-issues-on-windows-10-8-and-7-a-comprehensive-guide/"><u>Fixing Missing Driver Issues on Windows 10, 8, and 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-can-i-make-my-seagate-disk-appear-on-windows-10/"><u>How Can I Make My Seagate Disk Appear on Windows 10?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-inferno-captures-best-slow-motion-cameras/"><u>In 2024, Inferno Captures Best Slow-Motion Cameras</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/jetzt-12-strategien-zum-konvertieren-von-videoobjektdateien-in-hochwertiges-mp4-was-sie-uber-den-neuesten-stand-wissen-mussen/"><u>Jetzt: 12 Strategien Zum Konvertieren Von Videoobjektdateien in Hochwertiges MP4 - Was Sie Über Den Neuesten Stand Wissen Müssen</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-troubleshooting-entering-safe-mode-and-removing-graphics-card-software-in-window-8/"><u>Mastering Troubleshooting: Entering Safe Mode and Removing Graphics Card Software in Window 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/my-computer-wont-recognize-my-latest-era-logitech-prodigy-cam-post-10-update-heres-why-and-how-to-fix-it-solved/"><u>My Computer Won't Recognize My Latest-Era Logitech Prodigy Cam, Post 10 Update – Here’s Why and How to Fix It ![Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-guide-to-get-the-latest-driver-updates-for-your-hp-envy-20-notebook/"><u>Ultimate Guide to Get the Latest Driver Updates for Your HP ENVY 20 Notebook</u></a></li>
+</ul></div>
 

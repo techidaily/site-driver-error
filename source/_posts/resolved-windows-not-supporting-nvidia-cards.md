@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Windows Not Supporting Nvidia Cards"
-date: 2024-11-27T17:53:08.671Z
-updated: 2024-12-03T00:47:15.215Z
+date: 2024-12-06T03:43:16.858Z
+updated: 2024-12-10T07:01:21.858Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Show hidden devices
 
  If you recently got a new graphics card for your computer, then there’s a good chance it shows up as hidden. So we might have to un-hide it. Here’s a quick run-down:
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91effe026eb.png)
 2. Click **View**   and then click **Show hidden devices** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/windows11showhiddendevices.jpg)
 3. Click **Action** \> **Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9234ccb8e93.jpg)
@@ -50,9 +50,17 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-32.png)
 6. Then restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. If the Nvidia display card remains disappeared when your computer restarts, don’t worry, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -65,21 +73,17 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/nvidia-graphics.png)
 4. **Restart** your computer, then check if the**graphics card not detected** problem is resolved. If yes, then congrats! But if the issue remains, please move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your BIOS
@@ -105,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 2. Open Fortectand run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
@@ -137,22 +137,20 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-pace-perfection-on-instagram-a-guide-to-tempo-tweaks/"><u>[Updated] Pace Perfection on Instagram A Guide to Tempo Tweaks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-social-blade-the-comprehensive-guide-to-youtube-performance-tracking-for-2024/"><u>[Updated] Social Blade The Comprehensive Guide to YouTube Performance Tracking for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-scholarly-work-how-to-employ-chatgpt-in-research-and-essay-creation/"><u>Boosting Scholarly Work: How to Employ ChatGPT in Research and Essay Creation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-45-successfully-solved/"><u>Error 45: Successfully Solved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gpu-installation-error-resolved-easily/"><u>GPU Installation Error Resolved Easily</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-13-mini-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone 13 mini The Right Way</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/immediate-fix-available-for-total-video-transformation-problems-in-vlc-media-player/"><u>Immediate Fix Available for Total Video Transformation Problems in VLC Media Player</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intel-hd-graphics-4000-driver-download/"><u>Intel HD Graphics 4000 Driver Download</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-common-problems-with-non-responsive-hp-bluetooth-keyboards/"><u>Resolving Common Problems with Non-Responsive HP Bluetooth Keyboards</u></a></li>
-<li><a href="https://fox-links.techidaily.com/top-rated-asmr-gear-high-quality-priced-right-for-2024/"><u>Top-Rated ASMR Gear High Quality, Priced Right for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/upgrading-to-latest-hat-supports-for-win11/"><u>Upgrading to Latest HAT Supports for Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/w11-mastered-solving-common-elan-touchpad-errors/"><u>W11 Mastered: Solving Common Elan Touchpad Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/what-isoffered-but-it-has-been-the-same-for-loops/"><u>What Is_offered, but It Has Been the Same for Loops</u></a></li>
-<li><a href="https://win-special.techidaily.com/1728509787126-win11/"><u>Win11 成功恢復最新遭到刪除的檔案：[用戶証明範例]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/winnt-4-reconnecting-disconnected-devices/"><u>WinNT 4: Reconnecting Disconnected Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-download-hassle-free-video-closures-here/"><u>[New] Exclusive Download Hassle-Free Video Closures Here</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-boot-loop-issue-due-to-missing-drivers/"><u>[SOLVED] Boot Loop Issue Due to Missing Drivers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-value-budget-friendly-pros-for-high-impact-sports-for-2024/"><u>Best Value Budget-Friendly Pros for High-Impact Sports for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-signal-bcm20702a0-missing-driver/"><u>Error Signal: BCM20702A0 Missing Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-missing-touchpad-driver-dilemma/"><u>Fixing the Missing Touchpad Driver Dilemma</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-error-ninetyfive-and-code-43-comprehensive-solutions-for-the-latest-microsoft-operating-system/"><u>GTX Error NinetyFive & Code 43: Comprehensive Solutions for the Latest Microsoft Operating System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/identification-and-troubleshooting-for-vintage-usb-composite-devices-solved/"><u>Identification & Troubleshooting for Vintage USB Composite Devices [SOLVED]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/in-depth-analysis-of-samsung-galaxy-s24-ultra-leading-with-advanced-ai-features/"><u>In-Depth Analysis of Samsung Galaxy S24 Ultra: Leading with Advanced AI Features</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-wi-fi-signal-dropout-inspiron-14/"><u>Resolve Wi-Fi Signal Dropout, Inspiron 14</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/screen-moments-a-compreenasive-recorder-roundup/"><u>Screen Moments A Compreenasive Recorder Roundup</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/e-a-unique-chanel-identity-with-these-top-11-affordable-tools-for-2024/"><u>Secure a Unique Chanel Identity with These Top 11 Affordable Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/social-sharing-simplified-uploading-immersive-mobile-photography/"><u>Social Sharing Simplified Uploading Immersive Mobile Photography</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-correcting-unverified-device-drivers-in-windows/"><u>Step-by-Step Guide: Correcting Unverified Device Drivers in Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 14 Pro Max?</u></a></li>
 </ul></div>
 

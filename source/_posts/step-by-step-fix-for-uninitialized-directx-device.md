@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for 'Uninitialized DirectX Device'
-date: 2024-11-30T19:10:32.640Z
-updated: 2024-12-02T20:10:41.115Z
+date: 2024-12-05T22:55:11.114Z
+updated: 2024-12-10T01:12:12.415Z
 tags:
   - win11
   - win10
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/unable-to-initialize-direct-9-device-gta5-warcraft-3-1024x701.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This error can occur for the following reasons:
@@ -66,10 +66,6 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/DEvice-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Expand**Display adapters** \> right click your graphics driver > select**Uninstall device** , and check the box**Delete the driver software for this device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/uninstall-graphics-driver.jpg)
@@ -100,6 +96,10 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 ### Fix 2: Direct3D Acceleration
@@ -112,6 +112,10 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/direct-3D-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If you have more than one video adapter, check each Display tab in the DirectX Diagnostic Tool.
 
  3) If they are all working perfectly, then you can skip to the**[next fix](https://bluettide.pxf.io/ekmjb2)** to solve your problem.
@@ -119,7 +123,7 @@ This error can occur for the following reasons:
  If it shows**Disabled** or**Not Available** , then head to **[Direct3D Acceleration Not Available](https://tools.techidaily.com/drivereasy/download/)**  to further solve your problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Enable DirectPlay
@@ -128,17 +132,21 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/turn-windows-feature-on-or-off.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can go to**Control Panel** \>**Programs and Features** , then from the sidebar click**Turn Windows features on or off** (or**add/remove Windows Features**).
 
  2) Scroll down to**Legacy Components** , and check the box for**DirectPlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/turn-on-DirectPlay.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If that doesn’t work then you’ll need to find the**DX9 runtime installer** . ie.**DirectX folder**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall DirectX Installer
 
@@ -147,10 +155,6 @@ This error can occur for the following reasons:
  1) Go to Microsoft’s **[DirectX End-User Runtimes download site](https://www.microsoft.com/en-us/download/details.aspx?id=35)**  and download Microsoft’s DirectX installer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  _This is the only officially supported way to check if the correct DirectX files are currently installed._
 
@@ -164,6 +168,10 @@ This error can occur for the following reasons:
   
  Go to Steam > SteamApps > Common > GTA V > \_CommonRedist > DirectX > Jun2010 > DXSETUP
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Perform a clean boot
 
  Circumstances are there are other conflicting applications that prevent your game from working properly. To see if that’s your problem, try performing a clean boot.
@@ -176,16 +184,12 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/disable-all.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Then click the**Startup** tab and select**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/open-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Select every startup application and click**Disable** .
@@ -202,10 +206,6 @@ This error can occur for the following reasons:
 * Once you find out the problematic software, you may need to uninstall or disable it to avoid running into the same issue in the future.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Good to go?
 
@@ -229,24 +229,15 @@ This error can occur for the following reasons:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-nocostcam-the-infinite-gaming-screen-record-tool-for-2024/"><u>[Updated] NoCostCam The Infinite Gaming Screen Record Tool for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/achieving-flawless-aerial-shots-the-best-gimbals-for-drones-for-2024/"><u>Achieving Flawless Aerial Shots The Best Gimbals for Drones for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/beyond-the-screen-top-periscope-substitutes-for-smartphones-for-2024/"><u>Beyond the Screen Top Periscope Substitutes for Smartphones for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/easy-steps-transforming-images-into-motion-a-beginners-guide/"><u>Easy Steps: Transforming Images Into Motion - A Beginner's Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/enlightening-opengl-support-in-icd-drivers/"><u>Enlightening OpenGL Support in ICD Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-cleared-devmgrs-48/"><u>Error Cleared: DevMgr's #48</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-missing-drives-cddvd-troubleshooting-in-win11/"><u>Fixing Missing Drives: CD/DVD Troubleshooting in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guardian-angel-for-graphics-driver-setup/"><u>Guardian Angel for Graphics Driver Setup</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reader-disappearance-on-win11-repair-guide-here/"><u>Reader Disappearance on Win11 - Repair Guide Here</u></a></li>
-<li><a href="https://win-able.techidaily.com/reborn-globe-still-stops-short-no-more-freezing-issues/"><u>Reborn Globe Still Stops Short, No More Freezing Issues!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restoring-functionality-after-an-enex-driver-not-loading-error/"><u>Restoring Functionality After an eNEX Driver Not Loading Error</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-hp-bluetooth-driver-issue-in-windows-10/"><u>Solved HP Bluetooth Driver Issue in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-warning-bcm20702a0-driver-not-found/"><u>System Warning: BCM20702A0 Driver Not Found</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/three-essential-steps-apple-needs-to-take-to-revitalize-the-vision-pro-insights-from-zdnet/"><u>Three Essential Steps Apple Needs to Take to Revitalize the Vision Pro - Insights From ZDNet</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlocking-solution-to-error-code-52/"><u>Unlocking Solution to Error Code 52</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-here-weve-selected-some-of-the-best-online-video-compressors-for-compressing-webm-videos-with-best-quality-for-2024/"><u>Updated Here Weve Selected some of the Best Online Video Compressors for Compressing WebM Videos with Best Quality for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-coprocessor-error-resolution-a-comprehensive-guide-to-fixing-the-missing-driver-dilemma/"><u>Windows 11 Coprocessor Error Resolution - A Comprehensive Guide to Fixing the Missing Driver Dilemma</u></a></li>
-<li><a href="https://media-tips.techidaily.com/windows7-blu-ray-windows7-blu-ray-playback-troubleshooting-guide/"><u>Windows7 でBlu-Rayディスク視聴困難？ - Windows7 Blu-Ray Playback Troubleshooting Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-easy-ways-to-record-steam-gameplay-2023/"><u>[New] Easy Ways to Record Steam Gameplay 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/cybersecurity-challenges-adapting-to-modern-attack-methods-for-enhanced-defense-articles-by-zdnet/"><u>Cybersecurity Challenges: Adapting to Modern Attack Methods for Enhanced Defense | Articles by ZDNET</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103393943-fixing-the-unintended-restoration-of-radeon-wattman-settings-expert-guidance-inside/"><u>Fixing the Unintended Restoration of Radeon Wattman Settings – Expert Guidance Inside</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-youtube-potential-editing-after-the-upload-process/"><u>In 2024, Unlocking YouTube Potential Editing After the Upload Process</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/installation-rapide-et-facile-de-la-version-pro-convertisseur-video-mac-x-hd-sur-votre-ordinateur-sous-windows-achat-direct/"><u>Installation Rapide Et Facile De La Version Pro Convertisseur Vidéo Mac X HD Sur Votre Ordinateur Sous Windows - Achat Direct</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-errors-with-nvidia-driver-installation/"><u>No More Errors with Nvidia Driver Installation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/preventing-persistent-device-failures-dm/"><u>Preventing Persistent Device Failures (DM)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-and-repair-realtek-hd-audio-issues-in-windows-1011/"><u>Troubleshoot and Repair Realtek HD Audio Issues in Windows 10/11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unable-to-configure-drivers-no-intel-adapter-present/"><u>Unable to Configure Drivers; No Intel Adapter Present</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cure Persistent Bluetooth on Windows 10
-date: 2024-09-09T03:04:06.329Z
-updated: 2024-09-10T03:04:06.329Z
+date: 2024-12-02T16:24:12.133Z
+updated: 2024-12-10T02:40:25.172Z
 tags:
   - win11
   - win10
@@ -19,42 +19,18 @@ Windows 10 users have been complaining that they are**unable to turn off**the Bl
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-bluetooth-devices.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The reason why this is happening is that Microsoft seems to have an odd logic. It will recognize laptops with battery on is the mobile devices, thus with the Bluetooth device toggle available and easy to access. But if you are with a desktop, or sometimes, an all-in-one, chances are Windows 10 will not see your computer as a mobile device, thus it will not let you have access to the Bluetooth devices management panel. Luckily, this is not a difficult question to solve, not at all. Follow the options below to fix your problem fast and easily ![**Option 1: Disable Bluetooth device driver**](https://boody-eco-wear.pxf.io/qyo4oo) [**Option 2: Update Bluetooth device driver**](https://propmoneyinc.pxf.io/q4jzdy) [**Option 3: Modify Registry settings**](https://united.elfm.net/zqobdx)   **Option 1: Disable Bluetooth device driver** 1) Open**Device Manager** by pressing**Windows key**and**R**at the same time. Then type in**devmgmt.msc** and hit**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/devmgmt-msc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In**Device Manager** , expand category Bluetooth, then right click the Bluetooth device that you want to temporarily disconnect and choose**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/disable-bluetooth-device-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you cannot see all of your Bluetooth devices, please click the**View** button and then select**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/show-hidden-devices.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Please note that the name of your Bluetooth device could be different from mine, which is very natural and normal. If you have multiple Bluetooth devices, you might see other options here. The procedure is the same, just right click them and**Disable** them.   **Option 2: Update Bluetooth device driver** If the steps above don’t resolve your Bluetooth problem in Windows 10, it may be caused by a device driver.  You can automatically update all your device drivers to the latest correct version with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .  Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy. 2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b60655cf90.png)
@@ -63,22 +39,10 @@ The reason why this is happening is that Microsoft seems to have an odd logic. I
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/regedit-run-command.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 When prompted for administrator permission, just click**Yes**to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uac.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Follow the path:   **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\ActionCenter\\Quick Actions\\All\\SystemSettings\_Device\_BluetoothQuickAction**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/hkey_local_machinesoftwaremicrosoftwindowscurrentversionactioncenterquick-actionsallsystemsettings_device_bluetoothquickaction.png)
@@ -95,8 +59,6 @@ When prompted for administrator permission, just click**Yes**to continue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,6 +66,28 @@ When prompted for administrator permission, just click**Yes**to continue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-self-balancing-snap-shots-without-supports/"><u>[New] 2024 Approved Self-Balancing Snap Shots Without Supports</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-examining-the-elite-the-top-10-pc-vr-headsets-of-now/"><u>[New] Examining the Elite The Top 10 PC VR Headsets of Now</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-comprehensive-snapshot-service-azs-app-testing/"><u>[Updated] In 2024, Comprehensive Snapshot Service - AZ's App Testing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-invaluable-list-of-costless-photographic-and-moving-images/"><u>[Updated] Invaluable List of Costless Photographic and Moving Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-speech-to-text-conversion-with-ms-word/"><u>[Updated] Mastering Speech-to-Text Conversion with MS Word</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-issue-no-intel-adapter-detected/"><u>Driver Issue: No Intel Adapter Detected</u></a></li>
+<li><a href="https://driver-error.techidaily.com/essential-fixes-for-hardware-devices-in-windows-manager/"><u>Essential Fixes for Hardware Devices in Windows Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-troubleshooting-guide-for-windows-10-fixes-and-solutions/"><u>GTX 950 'Code 43' Troubleshooting Guide for Windows 10 - Fixes and Solutions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-six-super-simple-free-fb-downloader-tools/"><u>In 2024, Six Super Simple Free FB Downloader Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12-proplus-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12 Pro+ 5GFRP Lock</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lost-hardware-notifications-in-w10w11-system/"><u>Lost Hardware Notifications in W10/W11 System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcome-iphone-mtp-usb-compatibility-challenges-a-step-by-step-solution/"><u>Overcome iPhone MTP USB Compatibility Challenges – A Step-by-Step Solution</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/pemilihanku-best-softwares-untuk-mengalihubungkan-file-di-komputer-anda-download-gratis/"><u>Pemilihanku Best Softwares Untuk Mengalihubungkan File Di Komputer Anda - Download GRATIS!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reliable-non-stuttering-windows-11/"><u>Reliable, Non-Stuttering Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-iphone-usb-connection-issues-solve-mtp-driver-problems-today/"><u>Troubleshooting iPhone USB Connection Issues: Solve MTP Driver Problems Today</u></a></li>
+<li><a href="https://driver-error.techidaily.com/uncovering-solutions-for-unidentified-usb-errors-win-78/"><u>Uncovering Solutions for Unidentified USB Errors Win 7/8</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

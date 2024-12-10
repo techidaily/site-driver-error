@@ -1,7 +1,7 @@
 ---
 title: Fixing Incorrect Configuration Issue - Understanding Error Code 1
-date: 2024-09-09T03:03:16.910Z
-updated: 2024-09-10T03:03:16.910Z
+date: 2024-12-05T00:45:42.757Z
+updated: 2024-12-10T07:23:06.732Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: This Article Describes Fixing Incorrect Configuration Issue - Understan
 thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b39864edef92685020cbb6c9.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Incorrect Configuration Issue - Understanding Error Code 1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a977c5211acf.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In Device Manager, if you get error “**This device is not configured correctly (Code 1)** ” with your device, don’t worry. You can fix the problem by following the instructions in this article.
 
  This is a driver related problem. To resolve the problem, you just need to update the driver. There are two methods you can update the driver. You can try Method 1 first. If Method 1 doesn’t work, try Method 2\.
@@ -37,11 +25,9 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 2. [**Update the driver automatically**](https://atezr.pxf.io/752omg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 1: Update the driver manually via Device Manager
 
  You can update the driver via Device Manager. Follow these steps (Here take steps in Windows 7 as reference, which also apply to Windows 10, 8, 8.1, XP & Vista.):  
@@ -54,28 +40,22 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57318a0304278.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Click**Search automatically for updated driver software**. Then Windows will update the driver automatically.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57318a2bd0396.png)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Check to see if the yellow mark next to the device is gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 2: Update the driver automatically
 
@@ -92,11 +72,9 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97796ac519e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update** button next to the problem device to automatically download and install the correct version of the driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a9779737fc89.jpg)
@@ -111,8 +89,6 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,6 +96,24 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-newsletter-the-most-recent-changes/"><u>[New] Facebook Newsletter - The Most Recent Changes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restored-compatibility-issues-with-new-device-driver-update/"><u>[RESTORED] Compatibility Issues with New Device Driver Update</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-xiaomi-redmi-note-12-4g-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Xiaomi Redmi Note 12 4G Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-printer-functionality-in-windows-11-today/"><u>Enhance Printer Functionality in Windows 11 Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-savings-strategies-for-maximizing-deals-on-pre-prime-day-sale-events-of-2024-gadgetguru/"><u>Essential Savings Strategies for Maximizing Deals on Pre-Prime Day Sale Events of 2024 | GadgetGuru</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-reviews-premium-high-quality-bluelight-film-protectors-for-screens-techsavvy/"><u>Expert Reviews: Premium High-Quality Bluelight Film Protectors for Screens | TechSavvy</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-galaxy-m14-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Galaxy M14 5G? </u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-itel-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Itel</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098770708-pchelp-i-need-to-turn-off-the-built-in-bluetooth-on-my-windows-10-machine/"><u>PCHelp I Need to Turn Off the Built-In Bluetooth on My Windows 10 Machine.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-access-denied-errors-during-usb-device-setup/"><u>Resolving 'Access Denied' Errors During USB Device Setup</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/sync-up-to-share-live-moments-on-tiktok/"><u>Sync Up to Share Live Moments on TikTok</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackle-device-recognition-issue/"><u>Tackle Device Recognition Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-video-flipping-issues-fixes-for-inverted-images-on-asus-systems/"><u>Troubleshooting Video Flipping Issues: Fixes for Inverted Images on Asus Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unresponsive-games-due-to-gpu-issue-quick-solution-inside/"><u>Unresponsive Games Due to GPU Issue? Quick Solution Inside</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-composite-device-is-an-older-usb-device-solved/"><u>USB Composite Device Is an Older USB Device [SOLVED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11s-irqlnotless-problem-overcome/"><u>Win11's [IRQL_NOT_LESS] Problem Overcome</u></a></li>
+</ul></div>
 

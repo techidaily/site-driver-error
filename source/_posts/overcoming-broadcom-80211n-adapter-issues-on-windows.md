@@ -1,7 +1,7 @@
 ---
 title: Overcoming Broadcom 802.11N Adapter Issues on Windows
-date: 2024-11-29T23:50:59.389Z
-updated: 2024-12-03T03:18:49.723Z
+date: 2024-12-08T03:36:43.669Z
+updated: 2024-12-09T23:30:18.586Z
 tags:
   - win11
   - win10
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
  Here are 4 fixes for you to try. You may not have to try them all; just work your way down until you find the one works for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Table of contents
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/browse-my-computer-for-driver-software.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click   **Let me pick from a list of device drivers on my computer.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/let-me-pick-from-a-list-of-device-drivers-on-my-computer.jpg)
@@ -66,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/cthe-name-of-your-laptop-manufacturedrivers.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You should be able to see the name of the file ends with**.inf** .
@@ -79,15 +83,7 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/install-from-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the correct driver to be installed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2: Update Device Drivers
 
@@ -99,21 +95,21 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/DE-scan-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged network card device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3: Update Software and Operating System
 
  Sometimes missing software updates and service packs could cause the Code 10 error in device manager. If you suspect this is the problem, it is suggested that you update and install the latest updates for Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4: Manually fix corrupted registry entries
 
@@ -122,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke a **Run** command. Then type **regedit** in the search box and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/ype-regedit-in-the-search-box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Follow the path   **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\4D36E978-E325-11CE-BFC1-08002BE10318** and locate the the folder.
 
@@ -132,7 +132,7 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/delete-upperfilter-and-lowerfilter.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) If prompted to confirm the delete, click **Yes** . 5) Exit Registry Editor and restart the computer.
@@ -156,24 +156,19 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-ultimate-guide-to-self-validation-on-social-media/"><u>2024 Approved The Ultimate Guide to Self-Validation on Social Media</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-11-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone 11 When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easily-fix-multimedia-audio-controller-driver-issue/"><u>Easily Fix Multimedia Audio Controller Driver Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-solving-the-terraria-disconnect-issue-in-6-simple-steps/"><u>Expert Tips: Solving the Terraria Disconnect Issue in 6 Simple Steps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/harmonize-dell-touchpad-in-win7/"><u>Harmonize Dell Touchpad in Win7</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-repair-your-windows-windows-11-bluetooth-connection-fixing-qualcomm-atheros-drivers/"><u>How to Repair Your Windows ([Windows) 11 Bluetooth Connection: Fixing Qualcomm Atheros Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-not-working-solved/"><u>HP Wireless Keyboard Not Working [Solved]</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-revolutionize-your-videos-with-360-degrees-a-step-by-step-guide-for-youtube-enthusiasts/"><u>In 2024, Revolutionize Your Videos with 360 Degrees A Step-by-Step Guide for YouTube Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/linksys-wrt1900acs-open-source-wi-fi-router-review/"><u>Linksys WRT1900ACS Open Source Wi-Fi Router Review</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/miniaturized-performance-on-a-budget-unveiling-the-potential-of-the-acer-predator-triton-300-se/"><u>Miniaturized Performance on a Budget: Unveiling the Potential of the Acer Predator Triton 300 SE</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-enex-driver-loading-problems-in-win11/"><u>Overcoming eNEX Driver Loading Problems in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-and-windows-11-effective-solutions-for-faulty-bluetooth-drivers/"><u>Qualcomm Atheros & Windows 11: Effective Solutions for Faulty Bluetooth Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reinstating-failed-enex-driver-on-windows-11-systems/"><u>Reinstating Failed eNEX Driver on Windows 11 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solution-for-detected-hardware-not-compatible-with-current-device-management-suite/"><u>Solution for 'Detected Hardware Not Compatible with Current Device Management Suite'</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-tweaking-your-iphone-control-center-settings-in-ios-18-infographic/"><u>Step-by-Step Guide: Tweaking Your iPhone Control Center Settings in iOS 18 [Infographic]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-bsod-error-0x0000007e-on-microsofts-windows-7/"><u>Step-by-Step Solution for BSOD Error 0X0000007E on Microsoft's Windows 7</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-gopro-video-editing-quik-review-and-pc-alternatives/"><u>The Ultimate Guide to GoPro Video Editing Quik Review and PC Alternatives</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ocam-screen-recorder-download/"><u>[New] 2024 Approved OCam Screen Recorder Download</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-privacy-preservation-through-invisible-modifications/"><u>[New] 2024 Approved Privacy Preservation Through Invisible Modifications</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-drivers-engaged-on-win-os/"><u>[Solved]: Drivers Engaged on Win OS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-download-custom-mcb-banner-packs/"><u>[Updated] 2024 Approved Download Custom MCB Banner Packs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-enhancing-facebook-nostalgia-video-tweaks/"><u>2024 Approved Enhancing Facebook Nostalgia Video Tweaks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-from-youtube-to-tiktok-and-now-vimeo-gifs/"><u>2024 Approved From YouTube to TikTok, and Now Vimeo-Gifs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/canon-sx530-revealed-the-best-camera-for-newbies/"><u>Canon SX530 Revealed: The Best Camera for Newbies</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-resolving-the-absence-of-a-coprocessor-driver-in-windows-11/"><u>Fix Guide: Resolving the Absence of a Coprocessor Driver in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-module-blockage-in-windows-operating-system/"><u>Graphics Module Blockage in Windows Operating System</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-complete-guide-to-producing-professional-gopro-video-content/"><u>In 2024, The Complete Guide to Producing Professional GoPro Video Content</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-13-pro-5-ways-to-get-into-a-locked-iphone-13-pro-drfone-by-drfone-ios/"><u>Locked Out of iPhone 13 Pro? 5 Ways to get into a Locked iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-the-complete-fix-for-amd-radeon-wattman-restoration-glitches/"><u>Resolved! The Complete Fix for AMD Radeon Wattman Restoration Glitches</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-collection-top-rated-gratuitous-gags-for-2024/"><u>Ultimate Collection Top-Rated Gratuitous Gags for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-to-serial-restoring-functionality-in-windows/"><u>USB to Serial: Restoring Functionality in Windows</u></a></li>
 </ul></div>
 

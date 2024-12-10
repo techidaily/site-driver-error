@@ -1,7 +1,7 @@
 ---
 title: Auto-Load Not Permitted by Hardware
-date: 2024-09-09T03:06:01.367Z
-updated: 2024-09-10T03:06:01.367Z
+date: 2024-12-09T00:08:49.614Z
+updated: 2024-12-09T18:28:56.613Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-67.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A driver cannot load on this device error message by Program Compatibility Assistant
 
  If you’re seeing**_A driver cannot load on this device_** error on your computer, no need to worry much about it, since it’s a rather common issue for many Windows 10 and Windows 11 users. According to Microsoft:
@@ -32,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
  In other words, the mentioned driver won’t do much harm to your computer even if you don’t do anything with the error message. Based on our experience, the mentioned driver in the**_A driver cannot load on this device_** message is most likely just too old for your new operating system.
 
  But if you’re bothered by this error very much, you can still try the methods in this post to get it sorted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes for the A driver cannot load on this device error
 
@@ -51,26 +49,27 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer, and see if the**_A driver cannot load on this device_** error still remains. If the problem persists, please move on.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Update related driver via its manufacturer
 
  If Windows Update can’t help to install the mentioned driver, you’ll need to see if you can download and install the driver via its manufacturer manually. And you can get more detailed information from the driver description in the error message.
@@ -79,16 +78,14 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-68.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When I Google_**CY3014.X64**_ , I see that it’s a file for the**Elgato Game Capture HD60 S device** . By searching the device name plus driver (i.e. Elgato Game Capture HD60 S driver), I land on this page:[https://help.elgato.com/hc/en-us/articles/360027961152-Elgato-Gaming-Hardware-Drivers](https://help.elgato.com/hc/en-us/articles/360027961152-Elgato-Gaming-Hardware-Drivers) , where I can download and later install the correct driver for my computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-69.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 So in all, to download and install the driver manually, you need to:
 
 1. Search for the driver description mentioned in the error message;
@@ -103,25 +100,7 @@ So in all, to download and install the driver manually, you need to:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -130,12 +109,6 @@ So in all, to download and install the driver manually, you need to:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run Program Compatibility Troubleshooter
 
  If the above two methods don’t help to fix the**_A driver cannot load on this device_** error for you, it’s time to run the program compatibility troubleshooter, which helps older programs to run properly on newer operating systems like Windows 11 and Windows 10, since as mentioned, the error is usually related to older drivers that can’t run well on newer systems.
@@ -145,45 +118,26 @@ To run this troubleshooter:
 1. On your keyboard, press the **Windows** key and the **R**  key together. Copy and paste **ms-settings:troubleshoot** and hit **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-42.png)
 2. Select **Other troubleshooters** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-43.png)
 3. Find **Program Compatibility Troubleshooter** , and click the **Run** button next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-44.png)
 4. See if you can find the related app mentioned in the error message from the list. If not, select **Not listed** and click **Next** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-45.png)
 5. Then**Browse** to the location where your related system file is, and click Next.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-46.png)
 6. Tick the boxes that fit your description, and click Next.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-47.png)
 7. Then follow the on-screen instructions to run the troubleshooter.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then see if the**_A driver cannot load on this device_** error is fixed. If not, please move further.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Turn off Memory Integrity
 
  It’s recommended by Microsoft that you turn off Memory Integrity if there are no new drivers for the mentioned driver in the**_A driver cannot load on this device_** message.
@@ -197,6 +151,10 @@ To run this troubleshooter:
 2. Toggle off the option for Memory integrity.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-37.png)
 3. Restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then see if the _**A driver cannot load on this device**_  error still remains.
 
@@ -212,8 +170,6 @@ To run this troubleshooter:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,6 +177,24 @@ To run this troubleshooter:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-easy-guide-to-capturing-youtube-content/"><u>[Updated] Easy Guide to Capturing YouTube Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-scene-selection-mastery-livestreams/"><u>2024 Approved Scene Selection Mastery Livestreams</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-14-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi 14 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-strategies-to-fetch-latest-drivers-for-your-hp-envy-20-laptop/"><u>Effective Strategies to Fetch Latest Drivers for Your HP Envy 20 Laptop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-free-drivers-ensuring-validation-and-proper-computer-fit/"><u>Error-Free Drivers: Ensuring Validation and Proper Computer Fit</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-frustrating-access-is-denied-during-usb-installation-process/"><u>Fixing the Frustrating 'Access Is Denied' During USB Installation Process</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-the-bluetooth-connectivity-problem-on-windows-11/"><u>How to Solve the Bluetooth Connectivity Problem on Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/leading-talents-premier-instragram-hlv-creators-for-2024/"><u>Leading Talents Premier Instragram HLV Creators for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-device-error-repair-in-dm/"><u>Mastering Device Error Repair in DM</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-safe-mode-a-users-manual-to-uninstall-graphics-card-drivers-on-windows-ebox/"><u>Mastering Safe Mode: A User's Manual to Uninstall Graphics Card Drivers on Windows Ebox</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-absent-coprocessor-driver-on-your-windows-10-system-guide/"><u>Resolving the Absent Coprocessor Driver on Your Windows 10 System [Guide]</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-poco-x5-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Poco X5 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/sustainable-growth-developing-a-long-term-personal-brand-on-youtube-for-2024/"><u>Sustainable Growth Developing a Long-Term Personal Brand on YouTube for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-guide-to-address-and-solve-incorrectly-set-up-errors-in-your-device-tackling-code-ebeerf/"><u>The Ultimate Guide to Address and Solve 'Incorrectly Set Up' Errors in Your Device - Tackling Code Ebeerf</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/transforming-photo-bgs-into-clear-canvas-a-simple-how-to-tutorial/"><u>Transforming Photo Bg's Into Clear Canvas: A Simple How-To Tutorial</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unmasking-ms-bda-via-visual-rendering/"><u>Unmasking MS BDA via Visual Rendering</u></a></li>
+</ul></div>
 

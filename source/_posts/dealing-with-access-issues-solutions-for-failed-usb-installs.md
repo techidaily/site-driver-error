@@ -1,7 +1,7 @@
 ---
 title: "Dealing With Access Issues: Solutions for Failed USB Installs"
-date: 2024-09-09T03:03:09.031Z
-updated: 2024-09-10T03:03:09.031Z
+date: 2024-12-06T08:08:03.531Z
+updated: 2024-12-10T06:03:13.256Z
 tags:
   - win11
   - win10
@@ -13,52 +13,22 @@ excerpt: "This Article Describes Dealing With Access Issues: Solutions for Faile
 thumbnail: https://thmb.techidaily.com/c4e970c61c745a22a93f179d1f650cdbb34448ec2a9158efa033c2403816542e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Dealing With Access Issues: Solutions for Failed USB Installs
 
 If you can’t install any new USB devices due to error “Access is denied”, it can be frustrating. But don’t worry, here you will find the solution to fix the problem.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6862c6dbe8.png) .
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 First, make sure that you login to computer as Administrator. If you are not logged in with Administrator, follow steps below to switch it to Administrator.  
   
 1\. Go to**Control Panel**and View by**Category**. Click**User Accounts**.(In your case, this may be “User Accounts and Family Safety”.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c68c5d7bf6a.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2\. Click **Change your account type** and enter your password if necessary.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791ba4e50787.png)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. Then click**Start** button and choose to **Log off**  of Windows, and then log back in again.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791bab2104ee.png)
@@ -82,22 +52,10 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c692c5d030c.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. Select**SYSTEM** from the Group or user names. In Permissions for SYSTEM section, make sure the Full Control Allow checkbox is checked and uncheck any Deny checkbox. Click Apply button to apply the changes.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6933c3f709.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Also check your user account and see if it has full control of the system and any deny checkbox is unchecked.
 
  After that, update the USB driver again and it should work this time.
@@ -111,8 +69,6 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,6 +76,24 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/solved-error-code-48-in-device-manager/"><u>[SOLVED] Error Code 48 in Device Manager</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-twitter-videos-with-pro-convertors/"><u>[Updated] Streamline Your Twitter Videos with Pro Convertors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-revolutionizing-video-speed-in-social-networks/"><u>2024 Approved Revolutionizing Video Speed in Social Networks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-marvell-91xx-driver-issue-on-windows-10-solved/"><u>Fix Marvell 91Xx Driver Issue on Windows 10 [Solved]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-realm-of-melodies-where-to-get-hearing-heroes-ringtones/"><u>In 2024, The Realm of Melodies Where to Get Hearing Heroes' Ringtones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/iphone-usb-connection-fixed-resolving-the-mtp-device-driver-problem/"><u>IPhone USB Connection Fixed: Resolving the MTP Device Driver Problem</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-to-perfect-elgato-stream-deck-selection/"><u>Navigate to Perfect Elgato Stream Deck Selection</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-usb-wire-connection-problem-poweredge/"><u>Troubleshoot USB-WIRE Connection Problem, PowerEdge</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-windows-7-bsod-with-stop-code-0x0000007e/"><u>Troubleshooting Guide: Resolving Windows 7 BSOD with Stop Code 0X0000007E</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/using-big-data-techniques-to-revolutionize-market-research-insights/"><u>Using Big Data Techniques to Revolutionize Market Research Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-os-missing-data-acquisition-device/"><u>Win OS Missing Data Acquisition Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-touchpad-woes-heres-how-to-fix-sluggish-or-nonfunctional-scroll-buttons/"><u>Windows 10 Touchpad Woes? Here's How to Fix Sluggish or Nonfunctional Scroll Buttons</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

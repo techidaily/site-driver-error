@@ -1,7 +1,7 @@
 ---
 title: "Device Revived: Status Update - Code Unlocked"
-date: 2024-11-28T03:09:26.058Z
-updated: 2024-12-03T03:12:36.121Z
+date: 2024-12-06T17:19:12.013Z
+updated: 2024-12-09T21:32:39.271Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ If you encounter**This device is disabled. (Code 22)**in Device Manager, here ar
 4. **[Reset the BIOS settings](https://bluettius.sjv.io/dkpnv2)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Enable your device driver
@@ -43,10 +43,14 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your device driver
@@ -60,10 +64,6 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 ### Fix 3: Uninstall your device driver
@@ -73,6 +73,10 @@ Uninstalling your device driver is another solution you can try to fix **This de
 1. In Device Manager, right-click your device and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ea2541557.jpg)
 2. Restart your computer, and Windows will automatically reinstall the driver for your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -92,18 +96,14 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)  
  Example – CMOS battery on a laptop
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 6. Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
-7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 ---
 
@@ -126,20 +126,22 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-prime-pick-all-angle-action-cameras/"><u>[New] 2024 Approved Prime Pick All-Angle Action Cameras</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-capturing-moments-seamlessly-with-snap-and-meet/"><u>[New] Capturing Moments Seamlessly with Snap and Meet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-8-most-reliable-and-free-open-source-video-chat-options-for-2024/"><u>[Updated] The 8 Most Reliable and Free Open Source Video Chat Options for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-20-minutes-to-master-vrecorder-instalment/"><u>2024 Approved 20 Minutes To Master VRecorder Instalment</u></a></li>
-<li><a href="https://driver-error.techidaily.com/breaking-barrier-error-52-in-car-systems/"><u>Breaking Barrier Error 52 in Car Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-48-cleared-from-device-hub/"><u>Error 48 Cleared From Device Hub</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-check-if-your-systems-ram-is-malfunctioning-with-tips-by-yl-software/"><u>How to Check If Your System's RAM Is Malfunctioning with Tips by YL Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-maintain-consistent-mouse-delta-values-and-eliminate-acceleration-on-your-mac-device/"><u>How To Maintain Consistent Mouse Delta Values and Eliminate Acceleration on Your Mac Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-zexmte-bluetooth-device-download-official-windows-compatible-driver-for-windows-1078/"><u>Secure Your Zexmte Bluetooth Device - Download Official Windows-Compatible Driver for WINDOWS 10/7/8</u></a></li>
-<li><a href="https://driver-error.techidaily.com/smoothing-over-elans-operational-snags-in-win10/"><u>Smoothing Over Elan's Operational Snags in Win10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-your-hcmon-driver-problems-effective-fixes-for-installation-errors/"><u>Solve Your HCMon Driver Problems: Effective Fixes for Installation Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/sound-fix-no-more-driver-trouble-hd/"><u>Sound Fix: No More Driver Trouble (HD)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-when-your-pc-cant-access-event-logging-services-in-windows/"><u>Troubleshooting Guide: When Your PC Can't Access Event Logging Services in Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-7-bsod-troubleshooting-resolve-error-code-0x0000007e-step-by-step-guide/"><u>Windows 7 BSOD Troubleshooting: Resolve Error Code 0X0000007E Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-windows-11-sound-issues/"><u>[Fixed] Windows 11 Sound Issues</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-path-to-exceptional-editing-with-kinemaster/"><u>[New] 2024 Approved The Path to Exceptional Editing with Kinemaster</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-collective-evaluation-of-vllo/"><u>[New] In 2024, The Collective Evaluation of VLLO</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-new-world-of-360-camera-shopping/"><u>[New] Navigating the New World of 360 Camera Shopping</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-plot-to-post-a-detailed-guide-to-writing-youtube-videos/"><u>[Updated] 2024 Approved From Plot to Post A Detailed Guide to Writing YouTube Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-demystifying-complexities-a-guide-to-understanding-slug-lines/"><u>2024 Approved Demystifying Complexities A Guide to Understanding Slug Lines</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-snapedit-101-simple-steps-to-stunning-photos/"><u>2024 Approved Snapedit 101 Simple Steps to Stunning Photos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-resolving-unsupported-device-found-warnings-in-integration-development-tools/"><u>Guide to Resolving 'Unsupported Device Found' Warnings in Integration Development Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-sony-xperia-5-v-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/identify-opengl-drivers-for-intel-chipsets-quickly/"><u>Identify OpenGL Drivers for Intel Chipsets Quickly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-free-software-leaders-in-chromebook-screen-recording/"><u>In 2024, Free Software Leaders in Chromebook Screen Recording</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-icd-driver-identity-crisis/"><u>Intel ICD Driver Identity Crisis?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lenovo-bluetooth-driver-not-working-issues-on-windows-11-solved/"><u>Lenovo Bluetooth Driver Not Working Issues on Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-hd-audio-in-windows-11/"><u>Resolved HD Audio in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-strategies-leveraging-chatgpt-to-boost-your-freelancing-success/"><u>Top Strategies: Leveraging ChatGPT to Boost Your Freelancing Success</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-touchpad-click-problem-fixed/"><u>Windows 11 Touchpad Click Problem Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-a-step-by-step-solution-for-the-coprocessor-driver-not-detected-glitch/"><u>Windows 11: A Step-by-Step Solution for the Coprocessor Driver Not Detected Glitch</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: USB Headset Not Working on Windows 11 [Solved]
-date: 2024-09-09T03:01:00.180Z
-updated: 2024-09-10T03:01:00.180Z
+date: 2024-12-07T03:42:01.896Z
+updated: 2024-12-09T16:05:59.592Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes USB Headset Not Working on Windows 11 [Solved]
 thumbnail: https://thmb.techidaily.com/82206d914fca4236ea98cfd9aa8de4878e7651f5b583f7c9d1a03e80009ea26b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## USB Headset Not Working on Windows 11 [Solved]
 
 **No sound from your USB headset?**  No worries. Here you’ll be relieved to know it’s possible to fix. Read on and find out how…
@@ -32,12 +26,6 @@ thumbnail: https://thmb.techidaily.com/82206d914fca4236ea98cfd9aa8de4878e7651f5b
 
 **Note:** Before we go, plug your headset into different USB ports and replace your USB headset with another one to check if the issue is due to the headset. If it doesn’t work either, then go with the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Do not plug your USB headset while Windows 10 is booting
 
  Some conflicts could exist between your USB headset and other USB devices. To avoid this conflict, please be sure to plug your USB headset in after your computer gets into Windows 10.```` ``
@@ -46,12 +34,6 @@ thumbnail: https://thmb.techidaily.com/82206d914fca4236ea98cfd9aa8de4878e7651f5b
 
 Check if your headset works properly now.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run the Hardware Devices troubleshooter
 
  The troubleshooter can find and automatically fix some problems with your computer.
@@ -59,39 +41,24 @@ Check if your headset works properly now.
 1. Type **troubleshooting**  in the search box from the Start menu. Then click **Find and fix problems**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-14.png)  
 ```` ```` ````
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click **Hardware and Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-12.png)  
 ```` ```` ````
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click **Hardware and Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-14.png)
 4. Click **Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-13.png)
 5. Now the troubleshooter starts detecting problems. Complete troubleshooting by following on-screen instructions.  
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After that, check if your headset works properly now.
 
@@ -104,41 +71,31 @@ After that, check if your headset works properly now.
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Relaunch your computer and check whether the issue is resolved or not.````
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Set your USB headset as default device
 
 1. Right-click on**Speakers/Headphone** icon at the bottom right of your taskbar. Then click **Playback devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.png)
 2. Highlight your headset, then click **Set** **Default** . Click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
 
 ```` ```` ```` Check if your headset works properly now.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your audio driver
 
  An old, corrupted, or missing audio driver can also cause your USB headset not to work. You can update your driver to solve this problem.```` ``
@@ -151,15 +108,13 @@ After that, check if your headset works properly now.
 2. Click **Scan Now** . It will quickly detect all driver problems of your computer. Your printer driver is no exception.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/SCAN.jpg)
 3. Click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Note: You can also do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Sound-driver.jpg)
 4. Restart your computer and check to see if your headset works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -173,8 +128,6 @@ After that, check if your headset works properly now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,6 +135,24 @@ After that, check if your headset works properly now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveil-your-video-potential-streaming-google-meet-to-youtube-guide/"><u>[Updated] Unveil Your Video Potential Streaming Google Meet to YouTube Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-pc-backlight-malfunctioning/"><u>Asus PC Backlight Malfunctioning</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-error-wudfrd-loading-failure-event-id-219/"><u>Device Error: WudfRd Loading Failure (Event ID 219)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-code-45-from-devmgmt-fixed/"><u>Error Code 45 From DevMgmt Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-glitch-overcome-seamless-setup/"><u>Graphics Glitch Overcome – Seamless Setup</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/guia-paso-a-paso-para-realizar-una-copia-de-seguridad-en-windows-10-previamente-al-migrar-a-windows-11/"><u>Guía Paso a Paso Para Realizar Una Copia De Seguridad en Windows 10 Previamente Al Migrar a Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/octobers-greatest-tech-steals-post-prime-day-discover-the-most-weird-and-wonderful-deals-on-gadgets-insider-tips-by-zdnet/"><u>October's Greatest Tech Steals Post-Prime Day – Discover the Most Weird and Wonderful Deals on Gadgets | Insider Tips by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/playing-previous-generation-games-on-ps5-is-it-possible/"><u>Playing Previous Generation Games on PS5 - Is It Possible?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-access-denied-during-usb-installation-problems/"><u>Resolving 'Access Denied' During USB Installation Problems</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/revolutionize-your-home-network-with-netgear-nighthawk-x6-wireless-mesh-extender-a-complete-review/"><u>Revolutionize Your Home Network with Netgear Nighthawk X6 Wireless Mesh Extender: A Complete Review</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ripristina-i-tuoi-download-eliminati-di-windows-1011-una-guida-completa/"><u>Ripristina I Tuoi Download Eliminati Di Windows 10/11: Una Guida Completa</u></a></li>
+<li><a href="https://blog-min.techidaily.com/share-the-love-how-to-send-kobo-ebooks-to-pals-effortlessly/"><u>Share the Love: How to Send Kobo eBooks to Pals Effortlessly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-restoring-the-missing-coprocessor-on-windows-nix/"><u>Step-by-Step Guide: Restoring the Missing Coprocessor on Windows Nix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-qualcomm-atheros-bluetooth-drivers-for-optimal-performance-on-windows-n11/"><u>Troubleshooting and Fixing Qualcomm Atheros Bluetooth Drivers for Optimal Performance on Windows N11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-selection-of-free-streaming-options-reviewed-for-2024/"><u>Ultimate Selection of Free Streaming Options Reviewed for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wi-fi-6ax201-not-operating-fixed-connectivity-issues/"><u>Wi-Fi 6Ax201 Not Operating - Fixed Connectivity Issues</u></a></li>
+</ul></div>
 

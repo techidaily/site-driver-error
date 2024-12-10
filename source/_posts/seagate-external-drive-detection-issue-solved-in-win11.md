@@ -1,7 +1,7 @@
 ---
 title: Seagate External Drive Detection Issue Solved in Win11
-date: 2024-11-27T21:51:37.212Z
-updated: 2024-12-03T02:48:56.867Z
+date: 2024-12-02T23:56:58.455Z
+updated: 2024-12-10T01:25:20.022Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
  If you’re on Windows 10 and you have no access to your Seagate GoFlex external hard drive, you’re not alone. Many users have reported having this problem as well. No worries, here are 5 solutions for you to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How can I make my external Seagate hard drive show up again?
 
  You may not need to try them all, just work your way down until you find the one that works for you.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 **[3: Partition the Hard Drive](https://versadesk.pxf.io/xyboxx)**
 **[4: Assign Driver Letter to Seagate GoFlex](https://dreoaffiliateprogram.pxf.io/k0ezjl)**
 **[5: Disable Fast Startup](https://coinrule.sjv.io/rqzonv)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 1: Try A Different USB Port**
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
  If your Seagate external hard drive won’t work in either situation, your hard drive could be at fault. You might need to consult the technical support of Seagate to see if your data in the hard drive can be retrieved somehow.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 2: Reinstall Seagate Programs**
@@ -78,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e4afa92a309.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) If your Seagate external hard drive still doesn’t work after you reinstall the software and update the drivers,you should reinstall**Paragon driver**  in compatibility mode. Here is how:
 
  1) Go to**Settings > System> Apps & features** window, remove **Paragon driver** .
@@ -88,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/properties.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the**Compatibility** tab, and tick the box for**Run this program in compatibility mode for:** . Select an older version of Windows. You might need to try a couple of times before you fix this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-this-program-in-compatibility-mode-for.jpg)
@@ -96,11 +104,19 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apply-and-ok.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 3: Partition the Hard Drive**
 
  1) On your keyboard, press the**Windows logo key** and**S** at the same time. Type**apps: computer management** in and click **Computer Management** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-computer-management.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the left side of the pane, click**Disk Management** . Right-click **Seagate Central driver** , and click **Delete Volume…** . This will**delete all** the files from your Seagate hard drive.
 
@@ -110,17 +126,9 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/gpt-guid-partition-table.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click it again and click **New simple volume** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/new-simple-volume.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There you go, your Seagate external hard drive should be able to work without any problems.
 
@@ -138,21 +146,21 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-drive-letter-and-paths.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If your external hard drive doesn’t have a letter, press **Add…** to add a letter for this drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/add-a-letter.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Assign a letter to it and click**OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/ok.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 5: Disable Fast Startup**
 
@@ -165,21 +173,17 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/hardware-and-sound-600x450.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click **Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Click   **Change what the power button does.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-what-the-power-button-does.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Click   **Change settings that are currently unavailable** .
 
@@ -188,10 +192,6 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
  6) Scroll down to the _**Shutdown** settings_ section and uncheck**Turn off fast startup (recommended)** . Click **Save changes**  . You might need to restart your computer after this change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uncheck-turn-off-fast-startup-recommended-600x450.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -208,22 +208,18 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://data-safeguard.techidaily.com/1721267961752-a-quantum-leap-in-photography-meet-the-cutting-edge-photo-restoration-innovation-by-stellarian-enterprises/"><u>A Quantum Leap in Photography: Meet the Cutting-Edge Photo Restoration Innovation by Stellarian Enterprises</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-x-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone X with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-installation-woes-heres-how-to-fix-invalid-or-unrecognized-drivers-on-windows/"><u>Driver Installation Woes? Here’s How to Fix Invalid or Unrecognized Drivers on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-fixes-for-compatibility-issues-with-vintage-usb-composite-hardware/"><u>Easy Fixes for Compatibility Issues with Vintage USB Composite Hardware</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-classic-usb-composite-devices-a-step-by-step-solution/"><u>Fixing Classic USB Composite Devices: A Step-by-Step Solution</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-play-7t-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Honor Play 7T Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-a-non-responsive-wireless-keyboard-on-pc-a-step-by-step-guide/"><u>How to Fix a Non-Responsive Wireless Keyboard on PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/name-discovery-gpus-opengl-capable-in-intel/"><u>Name Discovery: GPU's OpenGL Capable in Intel</u></a></li>
-<li><a href="https://driver-error.techidaily.com/navigating-w11s-elan-issues-a-resolution-guide/"><u>Navigating W11's Elan Issues: A Resolution Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reinstallation-triumph-no-errors-now/"><u>Reinstallation Triumph: No Errors Now</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-device-misconfiguration-problems-overcoming-error-code-1/"><u>Resolving Device Misconfiguration Problems – Overcoming Error Code 1</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/resolving-hp-envys-unresponsive-power-key-problem-for-seamless-functionality/"><u>Resolving HP Envy's Unresponsive Power Key Problem for Seamless Functionality</u></a></li>
-<li><a href="https://article-posts.techidaily.com/spark-joy-with-these-14-playful-text-animations/"><u>Spark Joy with These 14 Playful Text Animations</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-apple-tv-4k-review-202ebeef8-796b-45d2-acf3-6a5c66691eeeen/"><u>The Ultimate Apple TV 4K Review (202Ebeef8-796b-45d2-Acf3-6a5c66691eee/en/)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-master-class-in-music-production-dj-video-samples-galore/"><u>[Updated] 2024 Approved Master Class in Music Production DJ Video Samples Galore</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-instantly-spice-up-videos-on-facebook-with-music-steps/"><u>[Updated] Instantly Spice Up Videos on Facebook With Music Steps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/exploring-many-youtube-courses-together-for-2024/"><u>Exploring Many YouTube Courses Together for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-usb-composite-device-driver-error-solved/"><u>How to Fix USB Composite Device Driver Error [Solved]</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Sony Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-realme-narzo-60-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Realme Narzo 60 5G Location | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lost-hardware-detectability-on-win-oses/"><u>Lost Hardware Detectability on Win OSes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-stable-defaults-overcoming-radeon-wattmans-temporary-setup-failures/"><u>Mastering Stable Defaults: Overcoming Radeon Wattman's Temporary Setup Failures</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unlimited-gif-loops-top-free-creators-and-makers/"><u>New In 2024, Unlimited GIF Loops Top Free Creators and Makers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-sm-bus-driver-problems-in-windows/"><u>Overcoming Sm Bus Driver Problems in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-for-broken-windows-serial-driver-connection/"><u>Solution for Broken Windows Serial Driver Connection</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-disappearing-win1110-pci-devices/"><u>Tackling Disappearing Win11/10 PCI Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranked-ipad-gadgets-and-extensions-expert-picks/"><u>Top-Ranked iPad Gadgets and Extensions : Expert Picks</u></a></li>
 </ul></div>
 

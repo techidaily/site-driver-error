@@ -1,7 +1,7 @@
 ---
 title: "Mastering AMD Radeon Wattman: Overcoming Configuration Setbacks & Resets"
-date: 2024-09-09T03:09:08.774Z
-updated: 2024-09-10T03:09:08.774Z
+date: 2024-12-06T01:54:06.771Z
+updated: 2024-12-10T07:20:24.038Z
 tags:
   - win11
   - win10
@@ -17,18 +17,6 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58d895485ccdd.jpg)  
   
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Since Anniversary Update of Windows 10, which was in August in 2016, AMD users have been reporting that Radeon WattMan sometimes stops working on their PCs.
   
  Radeon WattMan is the power management utility provided by AMD. It gives you insights of how your games or applications are running in your PC. The data of which enables you to configure as per your own needs in a very straightforward way.
@@ -54,32 +42,14 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da122aa7042.png)  
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Expand category **Display adapters**. Then double click the AMD Radeon device driver that you can see.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da14a5b79bf.jpg)  
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Then navigate to **Driver** tab, and then choose **Roll Back Driver**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da15224ee2b.jpg)  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) If the **Roll Back Driver** button here is **grey out**, that means this option is unavailable in your situation. You need to go to the options below for more help.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1595caf55.jpg)
@@ -92,12 +62,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1cb2befea.jpg)  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Now, choose **AMD Catalyst** program or other **AMD programs**, then choose **Uninstall**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1d980a082.jpg)  
@@ -110,12 +74,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da14a5b79bf.jpg)  
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Navigate to **Driver** tab, then choose **Uninstall**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1e9101343.jpg)
@@ -124,18 +82,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1ea6e2b3a.png)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Now open the Display Driver Uninstaller that we previously installed. Click **Clean and Restart (highly recommended)** option. Then DDU will do its job.
   
  Your PC will automatically restart when the uninstall finishes. Please make sure that you have saved all your important files before the restart.
@@ -150,12 +96,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da264342d54.jpg)  
   
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With the help of [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/), you don’t need to worry about downloading wrong device drivers any more! Leave everything to the professionals, and Driver Easy will take care of the rest for you.
   
 **Option 3: Run a RAM check**
@@ -170,12 +110,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) You will be seeing this page showing the progress of the check and number of passes it will run on memory.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
@@ -201,8 +135,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,6 +142,26 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-powerpoint-persona-establishing-your-presentations-voice/"><u>[New] PowerPoint Persona Establishing Your Presentation's Voice</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-securing-premium-image-on-zoom-via-strategic-filters-for-2024/"><u>[New] Securing Premium Image on Zoom via Strategic Filters for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-list-of-low-cost-desktop-encoder-software/"><u>[New] Ultimate List of Low-Cost Desktop Encoder Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-picks-explore-the-best-new-windows-10-apps-and-games/"><u>2024 Approved Top Picks Explore the Best New Windows 10 Apps and Games</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/can-you-manage-kids-internet-safety-with-windows-defender-parent-controls-insights-from-yl-computing/"><u>Can You Manage Kids' Internet Safety with Windows Defender Parent Controls? - Insights From YL Computing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-45-successfully-solved/"><u>Error 45: Successfully Solved</u></a></li>
+<li><a href="https://win-tips.techidaily.com/expert-tips-from-yl-computing-how-to-verify-your-systems-gpu-is-working-correctly/"><u>Expert Tips From YL Computing: How to Verify Your System's GPU Is Working Correctly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-diagnose-and-rectify-problematic-usb-devices-that-go-unseen-by-windows-software/"><u>How to Diagnose & Rectify Problematic USB Devices That Go Unseen by Windows Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mobile-operating-system-for-windows-samsung/"><u>Mobile Operating System for Windows (Samsung)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-challenges-with-vintage-usb-composite-devices-step-by-step-solutions/"><u>Overcoming Challenges with Vintage USB Composite Devices - Step-by-Step Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fixes-overcoming-the-unavailable-itbm-driver-error/"><u>Quick Fixes: Overcoming the Unavailable ITBM Driver Error</u></a></li>
+<li><a href="https://win11.techidaily.com/razer-synapse-recovery-guide-steps-to-revive-in-windows/"><u>Razer Synapse Recovery Guide: Steps to Revive in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safe-mental-support-mastering-gpt-4-in-therapy/"><u>Safe Mental Support: Mastering GPT-4 in Therapy</u></a></li>
+<li><a href="https://driver-error.techidaily.com/upgrading-to-latest-hat-supports-for-win11/"><u>Upgrading to Latest HAT Supports for Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/what-isoffered-but-it-has-been-the-same-for-loops/"><u>What Is_offered, but It Has Been the Same for Loops</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

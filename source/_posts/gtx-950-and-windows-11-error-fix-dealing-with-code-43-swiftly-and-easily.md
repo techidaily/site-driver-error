@@ -1,7 +1,7 @@
 ---
 title: "GTX 950 and Windows 11 Error Fix: Dealing with 'Code 43' Swiftly and Easily"
-date: 2024-09-09T03:01:25.138Z
-updated: 2024-09-10T03:01:25.138Z
+date: 2024-12-07T01:58:29.391Z
+updated: 2024-12-09T21:18:46.976Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes GTX 950 and Windows 11 Error Fix: Dealing with 
 thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d31378e1f478ed8a82b6ec5c28d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## GTX 950 and Windows 11 Error Fix: Dealing with 'Code 43' Swiftly and Easily
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59410acca7efb.jpg)
@@ -46,17 +40,9 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** .
@@ -64,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
  1) First, you need to download [**Display Driver Uninstaller**](http://download-eu2.guru3d.com/ddu/[Guru3D.com]-DDU.zip) . After the download, extract the setup file from the downloaded folder. Then double click the**Display Driver Uninstaller** file to get started.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
@@ -82,11 +72,9 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then follow the on-screen instructions to get the driver downloaded.
 
  When the download finish, just double click the setup file to run the driver installation.
@@ -103,12 +91,6 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -116,42 +98,26 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Option 2: Update Windows 10**
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click the**Check for updates** button to see if there are any new updates available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) If new updates are available, just download and then update them as instructed.
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -180,8 +146,6 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,6 +153,24 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/onfigure-youtubes-audience-options-with-ease/"><u>[New] Configure YouTube's Audience Options with Ease</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-easy-peasy-ffvegior-grab-facebook-video-mp4-files/"><u>[New] Easy Peasy FFVEGIOR Grab Facebook Video MP4 Files</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-advancing-google-meet-sessions-implementing-effects-and-masks/"><u>[New] In 2024, Advancing Google Meet Sessions Implementing Effects & Masks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-teredo-tunneling-pseudo-interface-code-10-error/"><u>[Solved] Teredo Tunneling Pseudo-Interface Code 10 Error</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-accessing-and-saving-fb-stories-made-simple-5-top-tactics-mobiledesktop/"><u>[Updated] In 2024, Accessing & Saving FB Stories Made Simple 5 Top Tactics (Mobile/Desktop)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-vimeos-edge-over-youtube-what-the-data-says/"><u>[Updated] Vimeo’s Edge Over YouTube? What the Data Says</u></a></li>
+<li><a href="https://driver-error.techidaily.com/a-deep-dive-into-retro-usb-systems-understanding-the-functionality-and-limitations-of-usb-composite-gadgets/"><u>A Deep Dive Into Retro USB Systems: Understanding the Functionality and Limitations of USB Composite Gadgets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-impact-on-employment-discovering-emerging-job-roles-with-ambiguous-titles-zdnet-insights/"><u>AI's Impact on Employment: Discovering Emerging Job Roles with Ambiguous Titles | ZDNET Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-recommendations-the-finest-fee-free-streamers-and-tools/"><u>Expert Recommendations The Finest, Fee-Free Streamers and Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-windows-inability-to-press-enter-key/"><u>Fixing Windows' Inability to Press Enter Key</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-collection-to-showstopper-editing-techniques-for-hauls-for-2024/"><u>From Collection to Showstopper Editing Techniques for Hauls for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-hardware-not-recognized-problems-in-idt-software-packages/"><u>How to Fix 'Hardware Not Recognized' Problems in IDT Software Packages</u></a></li>
+<li><a href="https://driver-error.techidaily.com/printer-driver-update-successful/"><u>Printer Driver Update - Successful</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smoothing-glitches-out-in-win10-elan-touchpad-setup/"><u>Smoothing Glitches Out in Win10, Elan Touchpad Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-device-not-properly-set-up-error-error-code-1/"><u>Troubleshooting Guide: Fixing 'Device Not Properly Set Up' Error (Error Code 1)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unlock-the-full-potential-of-instagram-stories/"><u>Unlock the Full Potential of Instagram Stories</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-the-key-to-lenovo-bluetooth-success/"><u>Windows 10: The Key to Lenovo Bluetooth Success</u></a></li>
+</ul></div>
 

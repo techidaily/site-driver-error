@@ -1,7 +1,7 @@
 ---
 title: Address Repeated AMD Drivers Crashes
-date: 2024-09-09T03:05:58.836Z
-updated: 2024-09-10T03:05:58.836Z
+date: 2024-12-08T06:00:31.768Z
+updated: 2024-12-09T20:43:48.878Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 
  If your computer keeps running into the**AMD driver crashing** issue, don’t worry. It’s usually easy to fix…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Fixes for AMD Drivers Crash
 
  Just work your way down until the**AMD driver crashing** issue is resolved.
@@ -26,11 +30,9 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 3. **[Repair system files](https://newchic.sjv.io/jzg4zq)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Update the faulty AMD driver (nearly always fixes the problem)
 
  Perhaps the most common cause of the**AMD driver crash** error is an outdated or corrupt AMD driver. So you should update your AMD drivers to see if it fixes the problem.  If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -43,33 +45,15 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/12/AMD-Radeon-RX-6700-XT.jpg)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Roll back the faulty AMD driver
 
  If you never have this**AMD driver crashing** issue until recently when you updated the most recent driver, chances are it’s this new driver that’s causing the problem. So we should try rolling it back to the previous version.
@@ -79,16 +63,19 @@ Here’s how:
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 2. Locate on **the faulty AMD driver** and double-click on it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click the **Driver** tab and then click **Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-1.png)
 4. Click **Yes** to confirm. Then the driver will be restored to a previous version.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. **Restart** you computer and check if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Repair system files
 
@@ -110,12 +97,6 @@ Here’s how to use Fortect to repair system files on your PC:
 3. Once finished, Fortect will generate a detailed report of your computer health, which includes all possible issues detected.
 4. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 5. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Check your computer to see if the driver crash issue is fixed.
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
@@ -131,11 +112,9 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the**AMD drivers crashing** problem has been fixed.
@@ -152,8 +131,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,6 +138,24 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-decide-your-videoclip-layout-fbs-dilemma/"><u>[New] In 2024, Decide Your Videoclip Layout FB’s Dilemma</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reversal-blueprint-swiftly-backward-apple-vids/"><u>[New] Reversal Blueprint Swiftly Backward Apple Vids</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/chip-select-failures-resolved-in-io-driver/"><u>Chip Select Failures Resolved in I/O Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correct-usb-to-ethernet-connector-glitch-optiplex/"><u>Correct USB-to-Ethernet Connector Glitch, OptiPlex</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-overcoming-0x0000007e-bsod-issue-in-windows-7-computers/"><u>Expert Advice: Overcoming 0X0000007E BSoD Issue in Windows 7 Computers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fast-and-effortless-mts-file-transformation-into-avi-video/"><u>Fast & Effortless MTS File Transformation Into AVI Video</u></a></li>
+<li><a href="https://driver-error.techidaily.com/flawless-pc-interaction-without-freezes/"><u>Flawless PC Interaction without Freezes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-migrate-windows-10-to-your-freshly-installed-hard-drive/"><u>How To Seamlessly Migrate Windows 10 to Your Freshly Installed Hard Drive</u></a></li>
+<li><a href="https://driver-error.techidaily.com/install-missing-hardware-drivers-for-your-pc-a-comprehensive-guide-to-windows-1087/"><u>Install Missing Hardware Drivers for Your PC: A Comprehensive Guide to Windows 10/8/7</u></a></li>
+<li><a href="https://video-capture.techidaily.com/iphone-filmmaking-101-capturing-time-in-pixels/"><u>IPhone Filmmaking 101 Capturing Time in Pixels</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-resolve-mtp-usb-issue/"><u>Quick Resolve: MTP USB Issue</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simplify-driver-management-download-compatible-amd-drivers-here/"><u>Simplify Driver Management: Download Compatible AMD Drivers Here</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stop-repeated-crashes-from-amd-software/"><u>Stop Repeated Crashes From AMD Software</u></a></li>
+<li><a href="https://discover-community.techidaily.com/struggling-with-flv-uploads-on-youtube-discover-easy-conversion-techniques/"><u>Struggling with FLV Uploads on YouTube? Discover Easy Conversion Techniques!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-tactics-in-producing-convincing-customer-testimonial-videos-for-2024/"><u>Top Tactics in Producing Convincing Customer Testimonial Videos for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-hd-driver-harmony-achieved/"><u>Win11 HD Driver Harmony Achieved</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Identifying Non-Detectable CD/DVDs in W10/W11
-date: 2024-09-09T03:07:24.818Z
-updated: 2024-09-10T03:07:24.818Z
+date: 2024-12-07T16:38:48.462Z
+updated: 2024-12-10T04:11:14.450Z
 tags:
   - win11
   - win10
@@ -37,22 +37,18 @@ thumbnail: https://thmb.techidaily.com/4f2d8016e3108f947ee3774ed234e522592c51bdb
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6098ec3402.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Locate**IDE ATA/ ATAPI controllers** .
  3) Right-click **ATA Channel 0** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e194a84fe7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Right-click **ATA Channel 1** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e199372f3c.png)
@@ -85,12 +81,6 @@ thumbnail: https://thmb.techidaily.com/4f2d8016e3108f947ee3774ed234e522592c51bdb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **3: Manually fix corrupted registry entries**
 
 **IMPORTANT** : Before we move on, it’s strongly recommended that you [back-up and restore your registry](https://tools.techidaily.com/drivereasy/download/) first.
@@ -106,26 +96,26 @@ thumbnail: https://thmb.techidaily.com/4f2d8016e3108f947ee3774ed234e522592c51bdb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55543336b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) **Delete**  them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **4: Create a registry subkey**
 
  If you can’t see**UpperFilters** and**LowerFilters** in the Registry pane, please follow the steps below.
@@ -134,74 +124,34 @@ thumbnail: https://thmb.techidaily.com/4f2d8016e3108f947ee3774ed234e522592c51bdb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Follow the path:
 **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\atapi\\**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd3791d37b.png)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Create a new**Controller0** key under**atapi** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -213,8 +163,6 @@ thumbnail: https://thmb.techidaily.com/4f2d8016e3108f947ee3774ed234e522592c51bdb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,6 +170,26 @@ thumbnail: https://thmb.techidaily.com/4f2d8016e3108f947ee3774ed234e522592c51bdb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-nextgen-android-for-immersive-3d-viewing/"><u>[New] NextGen Android for Immersive 3D Viewing</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-step-by-step-strategies-for-discord-video-streamers-for-2024/"><u>[New] Step-By-Step Strategies for Discord Video Streamers for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/adjusting-win1011-for-stable-sm-bus-driver/"><u>Adjusting Win10/11 for Stable Sm Bus Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/battleye-setup-error-overcoming-the-driver-load-error-hurdle-in-your-gameplay-experience/"><u>BattlEye Setup Error: Overcoming the 'Driver Load Error' Hurdle in Your Gameplay Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-peripheral-device-driver-not-found-on-windows-7-solved/"><u>Bluetooth Peripheral Device Driver Not Found on Windows 7 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bring-back-lost-lfe-channel-with-your-pcs-audio-system-after-dynaudio-driver-installation-fixed-yes/"><u>Bring Back Lost LFE Channel with Your PC’s Audio System After Dynaudio Driver Installation, Fixed - Yes!✔️</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-errors-in-the-service-configuration-segment-of-inf/"><u>Correcting Errors in the Service Configuration Segment of INF</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-edge-techniques-for-excellent-sound-no-mic-included/"><u>Cutting-Edge Techniques for Excellent Sound, No Mic Included</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-initialization-success-for-code-37/"><u>Device Initialization Success for Code 37</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098903197-efficiently-tackle-wireless-issues-windows-style/"><u>Efficiently Tackle Wireless Issues, Windows Style</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/embrace-a-holistic-approach-to-health-with-fitbit-sense-vs-apple-watch/"><u>Embrace a Holistic Approach to Health with Fitbit Sense Vs. Apple Watch</u></a></li>
+<li><a href="https://win-community.techidaily.com/gratis-software-de-duplicacao-e-ripagem-para-drives-hddssd-aulas-detalhadas/"><u>Grátis Software De Duplicação E Ripagem Para Drives HDD/SSD: Aulas Detalhadas</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-accelerating-or-decelerating-mastering-snapchats-timeline-controls/"><u>In 2024, Accelerating or Decelerating Mastering Snapchat's Timeline Controls</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-sumind-bt70b-bluetooth-unit-perfect-companion-for-on-the-go-music-streaming/"><u>In-Depth Analysis of Sumind BT70B Bluetooth Unit – Perfect Companion for On-The-Go Music Streaming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/maximize-fun-5-windows-11-gamers-recording-tactics/"><u>Maximize Fun 5 Windows 11 Gamers' Recording Tactics</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-speakers-selection-top-rated-audio-recording-applications-of-the-year/"><u>New In 2024, The Speakers Selection Top-Rated Audio Recording Applications of the Year</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-30-best-gmail-keyboard-shortcuts/"><u>The 30 Best Gmail Keyboard Shortcuts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104996068-troubles-with-your-recently-updated-pc-cant-find-my-dear-old-prodigy-cam-heres-what-i-learned-to-do-about-it-solved/"><u>Troubles with Your Recently Updated PC? Can't Find My Dear Old Prodigy Cam – Here’s What I Learned to Do About It ![Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721096890246-windowstechissue-my-pc-wont-stop-responding-to-my-built-in-wifibluetooth-commands/"><u>WindowsTechIssue - My PC Won’t Stop Responding to My Built-In WIFI/Bluetooth Commands</u></a></li>
+</ul></div>
 

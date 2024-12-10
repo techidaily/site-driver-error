@@ -1,7 +1,7 @@
 ---
 title: "Hardware Mgmt: Error #45 Resolved"
-date: 2024-11-26T02:40:32.424Z
-updated: 2024-12-02T17:55:41.144Z
+date: 2024-12-05T04:29:11.257Z
+updated: 2024-12-10T00:10:35.857Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 
  If you notice**Code 45** in Device Manager when checking the device status in device properties, don’t worry. Code 45 is a common error in Device Manager and you can fix it easily!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  This error occurs when your computer fails to recognize the connected device, so it can be a hardware or software issue. You can try the following 7 solutions to fix code 45.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 5. [Run CHKDSK](https://versadesk.pxf.io/xyboxx)
 6. [Run a DISM scan](https://jalbum-affiliate-program.sjv.io/mmjynq)
 7. [Update your device drivers](https://versadesk.pxf.io/xyboxx)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Reconnect your device
 
@@ -49,15 +49,7 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 6. Check the device status in**Device Manager** to see if it’s been back on track. If it is, you’ll see the**This device is working properly** message as illustrated below.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-21.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Manually uninstall and reinstall your device driver
 
@@ -66,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Then enter**devmgmt.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 2. In the**Device Manager** window, locate the device that’s giving you Code 45.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Right-click on that device entry and select**Uninstall device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-2.png)
@@ -90,12 +86,24 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-12.png)
 3. Now you should see the Hardware and Devices Troubleshooter. Click**Next** to continue.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-13.png)
 4. Follow the on-screen instructions to finish troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Restart your computer and your problem should be resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Run System File Checker
 
@@ -106,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 3. Once you see the command prompt, type **`sfc /scannow`**  and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-15.png)
 4. Windows will now verify the system files and automatically fix any detected issues.
 
@@ -117,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 6. Reconnect your hardware device and see if it’s working properly.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Run CHKDSK
 
@@ -131,18 +131,14 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 3. The command prompt will once again display. Type in the command:`**chkdsk.exe /f /r**` and hit Enter.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-16.png)
 4. Type **Y** to confirm that you’d like to perform the disk check the next time you restart your computer. Please make sure you have closed all of your applications first.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-17.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2020/02/image-17.png)
 
 **Note** : Running a disk check could take some time to complete. So if you don’t have the time to run the disk check the next time you boot, you can skip it and reschedule again by following the steps above.
 
@@ -151,6 +147,10 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
  If this method doesn’t resolve your issue, don’t worry. There is something else to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Run a DISM scan
 
@@ -162,7 +162,7 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 3. Click **Yes** if prompted for permission.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. The command prompt will once again display. Type in the command`**DISM /Online /Cleanup-Image /RestoreHealth**` and press**Enter** .  
@@ -172,6 +172,10 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 6. Restart your computer and relaunch Device Manager. Check to see if Code 45 has been fixed; if it has, then congrats! Otherwise, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Update your device drivers
 
@@ -196,10 +200,6 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/graphics-card-and-chipset..jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ---
@@ -223,22 +223,19 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-first-steps-in-film-making-top-8-recommended-cameras-for-2024/"><u>[New] First Steps in Film Making Top 8 Recommended Cameras for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-social-media-marketing-elevating-public-health-dialogue/"><u>[New] Social Media Marketing Elevating Public Health Dialogue</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-zte-blade-a73-5g-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from ZTE Blade A73 5G</u></a></li>
-<li><a href="https://driver-error.techidaily.com/darkened-asus-keyboard-lights/"><u>Darkened ASUS Keyboard Lights</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnosing-and-fixing-error-e052-driver/"><u>Diagnosing & Fixing Error E052-Driver</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/digital-distinction-design-molding-an-animated-profile-for-2024/"><u>Digital Distinction Design Molding an Animated Profile for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-missing-recognition-of-your-logitech-brio-cam-on-updated-pcs-running-win-10-fixed/"><u>How to Resolve Missing Recognition of Your Logitech Brio Cam on Updated PCs Running Win 10 [Fixed]</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-affordable-pc-frame-capture-apps/"><u>In 2024, Affordable PC Frame Capture Apps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/nyanser-i-videospel-urskilt-av-virtual-backgrounds-movavi/"><u>Nyanser I Videospel Urskilt Av Virtual Backgrounds - Movavi</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/open-source-tranquil-harmony/"><u>Open Source Tranquil Harmony</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-windows-enter-key-malfunction/"><u>Overcoming Windows Enter Key Malfunction</u></a></li>
-<li><a href="https://driver-error.techidaily.com/streamlined-pci-hardware-software/"><u>Streamlined PCI Hardware Software</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-surprising-strengths-and-limitations-of-the-compact-apple-iphone-12-mini/"><u>The Surprising Strengths and Limitations of the Compact Apple iPhone 12 Mini</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/timeless-classics-most-iconic-anime-openers/"><u>Timeless Classics Most Iconic Anime Openers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-the-gtx-950-code-43-error-on-windows-11-systems/"><u>Troubleshooting and Fixing the GTX 950 Code 43 Error on Windows 11 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721097223338-tutorial-identifying-and-fixing-missing-drivers-for-devices-on-windows-versions-win1087-solution-found/"><u>Tutorial: Identifying & Fixing Missing Drivers for Devices on Windows Versions (Win10/8/7) - SOLUTION FOUND!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-cuick-fix-for-non-responsive-qualcomm-atheros-bluetooth-devices/"><u>Windows Cuick Fix for Non-Responsive Qualcomm Atheros Bluetooth Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-tailoring-your-vtubers-tone-best-app-recommendations-unveiled/"><u>[New] In 2024, Tailoring Your Vtuber's Tone Best App Recommendations Unveiled</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-journey-to-perfect-audio-ultimate-iphone-podcast-downloading-techniques-for-2024/"><u>[New] Journey to Perfect Audio Ultimate iPhone Podcast Downloading Techniques for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtube-introduction-guide-2-approaches-explored/"><u>[Updated] In 2024, YouTube Introduction Guide - 2 Approaches Explored</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-meizu-21-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-samsung-galaxy-s24-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Samsung Galaxy S24? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cleared-error-device-error-48/"><u>Cleared Error - Device Error 48</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-fixes-to-tackle-the-blue-screen-of-death-code-0x0000007e-in-windows-7/"><u>Comprehensive Fixes to Tackle the Blue Screen of Death (Code: 0X0000007E) in Windows 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-resolution-fixing-the-not-properly-set-up-issue-device-code-1/"><u>Error Resolution: Fixing the 'Not Properly Set Up' Issue (Device Code 1)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guida-rapida-alla-conversione-da-mkv-a-avi-tecniche-di-trasformazione-piu-semplici/"><u>Guida Rapida Alla Conversione Da MKV a AVI: Tecniche Di Trasformazione Più Semplici</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-13-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 13 Pro? | Stellar</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-graphics-missing-in-winos/"><u>Nvidia Graphics Missing in WINOS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/perfecting-windows-11s-input-with-elan-driver-fixes/"><u>Perfecting Windows 11'S Input with Elan Driver Fixes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/re-troubleshooting-tl-wn722n-wireless-adapter-undetectable-on-windows/"><u>Re: Troubleshooting TL-WN722N Wireless Adapter - Undetectable on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synergizing-machine-intelligence-3-ways-to-leverage-chatgpt-and-wolframalpha/"><u>Synergizing Machine Intelligence: 3 Ways to Leverage ChatGPT & WolframAlpha</u></a></li>
 </ul></div>
 

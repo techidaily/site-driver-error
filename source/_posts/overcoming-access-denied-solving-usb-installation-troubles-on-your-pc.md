@@ -1,7 +1,7 @@
 ---
 title: "Overcoming 'Access Denied': Solving USB Installation Troubles on Your PC"
-date: 2024-09-09T03:09:12.675Z
-updated: 2024-09-10T03:09:12.675Z
+date: 2024-12-06T20:07:45.442Z
+updated: 2024-12-09T22:22:39.961Z
 tags:
   - win11
   - win10
@@ -19,12 +19,6 @@ If you can’t install any new USB devices due to error “Access is denied”, 
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6862c6dbe8.png) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 First, make sure that you login to computer as Administrator. If you are not logged in with Administrator, follow steps below to switch it to Administrator.  
   
 1\. Go to**Control Panel**and View by**Category**. Click**User Accounts**.(In your case, this may be “User Accounts and Family Safety”.)  
@@ -35,22 +29,10 @@ First, make sure that you login to computer as Administrator. If you are not log
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791ba4e50787.png)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. Then click**Start** button and choose to **Log off**  of Windows, and then log back in again.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791bab2104ee.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After that, reinstall the driver again.  
   
  **Turn off any antivirus or anti-spyware program**
@@ -66,32 +48,14 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6905ba04f8.png)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. Go to **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\USBSTOR.** Right-click on it and select**Permissions…** from the context menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c692c5d030c.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. Select**SYSTEM** from the Group or user names. In Permissions for SYSTEM section, make sure the Full Control Allow checkbox is checked and uncheck any Deny checkbox. Click Apply button to apply the changes.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6933c3f709.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Also check your user account and see if it has full control of the system and any deny checkbox is unchecked.
 
  After that, update the USB driver again and it should work this time.
@@ -105,8 +69,6 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,6 +76,26 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beginning-with-youtube-essential-steps-to-create-your-space/"><u>[New] 2024 Approved Beginning with YouTube Essential Steps to Create Your Space</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-break-barriers-enhancing-live-social-media-collaborations/"><u>[New] 2024 Approved Break Barriers Enhancing Live Social Media Collaborations</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-testing-the-capabilities-of-magix-image-viewer/"><u>[New] Testing the Capabilities of MAGIX Image Viewer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-grandview-alliance-how-to-settle-on-a-cms-for-2024/"><u>[Updated] Grandview Alliance How to Settle on a CMS for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-gentle-volume-declines-in-premiere-pro-videos/"><u>2024 Approved Crafting Gentle Volume Declines in Premiere Pro Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/biomutant-for-pc-expert-strategies-to-avoid-crashes-and-enhance-performance/"><u>Biomutant for PC: Expert Strategies to Avoid Crashes and Enhance Performance</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-load-error-device-event-identifier-219/"><u>Driver Load Error - Device Event Identifier 219</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-45-dealt-with-efficiently/"><u>Error 45: Dealt with Efficiently</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fast-lanes-migrating-iphone-media-to-a-desktop/"><u>In 2024, Fast Lanes Migrating iPhone Media to a Desktop</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-softened-screen-debut/"><u>In 2024, Softened Screen Debut</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigating-through-nvidia-drivers-issues/"><u>Navigating Through Nvidia Drivers Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/purging-invalid-sections-from-inf-services/"><u>Purging Invalid Sections From INF Services</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-honor-x9b-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Honor X9b with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successful-installation-guide-how-to-add-missing-drivers-for-your-device-on-windows-11-8-and-7/"><u>Successful Installation Guide: How to Add Missing Drivers for Your Device on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-reset-completed/"><u>System Reset Completed</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

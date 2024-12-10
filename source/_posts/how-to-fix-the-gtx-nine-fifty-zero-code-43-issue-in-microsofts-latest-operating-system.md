@@ -1,7 +1,7 @@
 ---
 title: How to Fix the GTX Nine-Fifty Zero 'Code 43' Issue in Microsoft's Latest Operating System
-date: 2024-11-29T21:19:17.236Z
-updated: 2024-12-03T04:39:07.849Z
+date: 2024-12-07T02:08:06.262Z
+updated: 2024-12-10T00:28:22.086Z
 tags:
   - win11
   - win10
@@ -47,29 +47,29 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode.
 
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded.
 
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -96,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 2: Update Windows 10**
 
@@ -112,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
  4) Restart your computer after the update. Then check to see if the code 43 still remains.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see.
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 4: Reinstall Windows 10**
 
@@ -155,22 +155,21 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-facebook-live-the-world-in-minutes/"><u>[New] Facebook Live The World in Minutes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-beginners-blueprint-for-yourwebcamrecord/"><u>[Updated] 2024 Approved Beginner's Blueprint for YourWebcamRecord</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-narrowing-down-to-top-8-exceptional-online-platforms-for-free-srt/"><u>2024 Approved Narrowing Down to Top 8 Exceptional Online Platforms for Free SRT</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effective-solutions-for-reinstalling-lost-intelamd-graphics-drivers-on-windows-nt/"><u>Effective Solutions for Reinstalling Lost Intel/AMD Graphics Drivers on Windows nT</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effortless-solutions-for-the-itbm-driver-missing-error-message/"><u>Effortless Solutions for the ITBM Driver Missing Error Message</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-nvidia-geforce-gtx-950-code-43-error-on-your-windows-11-pc-easily/"><u>How to Resolve NVIDIA GeForce GTX 950 Code 43 Error on Your Windows 11 PC Easily!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-15-youtube-financial-experts-you-can-trust/"><u>In 2024, 15 YouTube Financial Experts You Can Trust</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-content-efficiently-adding-youtube-captions/"><u>In 2024, Streamline Your Content Efficiently Adding YouTube Captions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcome-the-gtx-950-code-43-hurdle-in-windows-11-effective-troubleshooting-steps/"><u>Overcome the GTX 950 Code 43 Hurdle in Windows 11 - Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-fix-for-an-unresponsive-or-stuck-pclaptop-keyboard-how-to-guide-tech-talker406-chars/"><u>Quick Fix for an Unresponsive or Stuck PC/Laptop Keyboard – How-To Guide | Tech Talker—406 Chars</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-fixes-for-win10s-asus-acpi-drivers/"><u>Quick Fixes for Win10's Asus ACPI Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revival-of-dormant-serial-connections-on-windows-device/"><u>Revival of Dormant Serial Connections on WINDOWS DEVICE</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/secrets-to-capturing-your-iphone-7-screen/"><u>Secrets to Capturing Your iPhone 7 Screen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ethics-of-modifying-gpts-limits/"><u>The Ethics of Modifying GPT's Limits</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-rpc-communication-issue-diagnoses-on-a-windows-machine/"><u>Troubleshooting Steps for 'RPC Communication Issue' Diagnoses on a Windows Machine</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-driver-woes-solved-quickly-and-effectively/"><u>Windows Driver Woes, Solved Quickly and Effectively</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/1726227027185-flacm4a-movavi/"><u>オンライン音楽ファイルの容易なFLAC/M4A変換 - Movavi無料ツール</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/lite-screening-pacts-how-to-choose-a-cms/"><u>[New] Elite Screening Pacts How to Choose a CMS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-optimizing-online-content-delivery-to-key-social-media-channels/"><u>[New] In 2024, Optimizing Online Content Delivery to Key Social Media Channels</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-guide-to-ppt-capture-excellence-for-2024/"><u>[Updated] The Ultimate Guide to PPT Capture Excellence for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-smartphone-image-editing-the-best-free-layers-and-tools-guide-top-10/"><u>2024 Approved Smartphone Image Editing - The Best Free Layers & Tools Guide (Top 10)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-how-to-resolve-missing-coprocessor-driver-issue-in-windows-10/"><u>Fix: How to Resolve Missing Coprocessor Driver Issue in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-repairing-unverified-device-drivers-overcoming-installation-hurdles-on-computers/"><u>Guide to Repairing Unverified Device Drivers: Overcoming Installation Hurdles on Computers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726027611669-mp3/"><u>MP3オーディオファイル品質改善テクニック</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-mac-video-creator-the-ultimate-guide-to-making-professional-looking-videos/"><u>New In 2024, Mac Video Creator The Ultimate Guide to Making Professional-Looking Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-broadcom-80211n-adapter-issues-on-windows/"><u>Overcoming Broadcom 802.11N Adapter Issues on Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-the-art-of-zooming-expert-strategies-for-snapchat-users/"><u>Perfecting the Art of Zooming Expert Strategies for Snapchat Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-missing-coprocessor-driver-issue-in-windows-10-a-step-by-step-guide/"><u>Resolving the 'Missing Coprocessor Driver' Issue in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-windows-11-with-no-lag/"><u>Smooth Windows 11 with No Lag</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-correcting-iphone-external-hardware-connection-error-via-mtp-usb-driver-restoration/"><u>Step-by-Step Guide to Correcting iPhone External Hardware Connection Error via MTP USB Driver Restoration</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-prosperous-path-share-tiktok-via-twitter/"><u>The Prosperous Path Share TikTok via Twitter</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-3-methods-to-transform-m4a-audio-files-into-high-quality-flac/"><u>Top 3 Methods to Transform M4A Audio Files Into High-Quality FLAC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-non-detection-of-seagate-drive-on-win11-pc/"><u>Troubleshooting Non-Detection of Seagate Drive on Win11 PC</u></a></li>
 </ul></div>
 

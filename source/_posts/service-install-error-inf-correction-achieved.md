@@ -1,7 +1,7 @@
 ---
 title: "Service Install Error: INF Correction Achieved"
-date: 2024-09-09T03:08:32.294Z
-updated: 2024-09-10T03:08:32.294Z
+date: 2024-12-05T02:37:09.222Z
+updated: 2024-12-10T05:06:57.502Z
 tags:
   - win11
   - win10
@@ -13,45 +13,25 @@ excerpt: "This Article Describes Service Install Error: INF Correction Achieved"
 thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1ef1aeadb85afda988825dc9.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Service Install Error: INF Correction Achieved
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/a-service-installation-section-in-this-inf-is-invalid.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Fix a Service Installation Section in this INF is Invalid issue. Follow the steps in this article.
 
  After you connect your Android device to your computer, you find you can’t use the device and don’t see it on your computer. Then you go to Device Manager to check for the driver status. In Device Manager, you see a MTP USB device with a yellow exclamation mark under the category “Portable Devices” (In some cases, Unknown Devices under Other Devices). When you try to update the driver via Windows Update, you get this error message: _**A service installation section in this INF is invalid**_  . You have no idea how to fix this problem. That’s why you come to this post, right? Don’t worry. You can fix the problem easily with one of the solutions here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6866fadc093.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The problem occurs probably due to missing or corrupted USB driver files. Windows has built-in USB drivers, which allow you to connect USB devices to your PC without installing the drivers manually. But if the drivers are missing or having problems, after connecting the USB devices to your computer, you can’t use it directly. In this case, you need to install the drivers manually. There are different reasons causing driver files missing or corrupted. You’re likely to get this error especially if you’re using the streamlined system or upgraded the system to Windows 10.
 
 1. [**Update the driver automatically**](https://bluetties.sjv.io/lxv4pm)
 2. [**Update the driver manually**](https://technitya.sjv.io/dkpn02)
 3. [**Install the missing driver files manually**](https://dhgate.sjv.io/5g6yb2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 1: Update the driver automatically
 
@@ -67,12 +47,6 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update** button next to a flagged MTP USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -93,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687740cb79e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Select**Let me pick from a list of available drivers on my computer** and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68744ea8804.png)
@@ -100,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
  5) In Device Manager, if you see the device shown as MTP USB device. You’ll see**MTP USB Device** listed in the list.**Highlight** it then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687724c3ed9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you see the device shown as Unknown Device. You’ll see an Android phone or Android device in the long list.**Highlight** it and click**Next** then select**MTP USB device** .
 
@@ -109,12 +91,6 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 3: Install the missing driver files manually
 
  If the built-in USB driver fiels**mdmcpq.inf** and usbser.sys are missing or corrupted, the problem could occur. So to fix the problem, you can try to install these two driver files. You can replace them with the same files on another computer. Follow the steps below：
@@ -125,16 +101,18 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
 
  4) Reconnect your Android device and check to see if the problem is resolved.
@@ -153,8 +131,6 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,6 +138,19 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-craft-your-first-short-film-with-windows-8-movie-maker/"><u>[New] In 2024, Craft Your First Short Film with Windows 8 Movie Maker</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-step-by-step-visual-tutorial-applying-filters-and-masks-in-meet/"><u>[New] In 2024, Step-by-Step Visual Tutorial Applying Filters & Masks in Meet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-system-bootback-initiated-without-errors/"><u>[RESOLVED] System Bootback Initiated Without Errors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-avoiding-pitfalls-understanding-youtube-standards-for-2024/"><u>[Updated] Avoiding Pitfalls Understanding YouTube Standards for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-speedy-retrieval-of-snap-archive/"><u>[Updated] Speedy Retrieval of Snap Archive</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-musical-talent-with-magix-studio/"><u>2024 Approved Unleashing Musical Talent with Magix Studio</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-to-reactivate-your-corsair-icue-on-the-latest-windows-11-os/"><u>Expert Solutions to Reactivate Your Corsair iCUE on the Latest Windows 11 OS</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ricodifica-online-gratuita-dei-file-mp4-in-formato-aiff-con-assistenza-professionale-convertitore-video/"><u>Ricodifica Online Gratuita Dei File MP4 in Formato AIFF Con Assistenza Professionale - Convertitore Video</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-qualcomm-atheros-bluetooth-driver-problems-in-windows-10/"><u>Step-by-Step Solution for Qualcomm Atheros Bluetooth Driver Problems in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-to-recognize-usb-devices-on-w78/"><u>Troubleshooting Steps to Recognize USB Devices on W7/8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-the-legacy-how-usb-composite-devices-differ-from-modern-usbs/"><u>Understanding the Legacy: How USB Composite Devices Differ From Modern USBs</u></a></li>
+</ul></div>
 

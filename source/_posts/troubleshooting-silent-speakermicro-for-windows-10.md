@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Silent Speaker/Micro for Windows 10
-date: 2024-09-09T03:04:47.922Z
-updated: 2024-09-10T03:04:47.922Z
+date: 2024-12-06T16:59:09.156Z
+updated: 2024-12-10T08:06:17.530Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 
 **No sound from your USB headset?**  No worries. Here you’ll be relieved to know it’s possible to fix. Read on and find out how…
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Do not plug your USB headset while Windows 10 is booting](https://malaysia-healthcare-travel-council.pxf.io/752oeg)**
@@ -32,12 +26,6 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 
 **Note:** Before we go, plug your headset into different USB ports and replace your USB headset with another one to check if the issue is due to the headset. If it doesn’t work either, then go with the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Do not plug your USB headset while Windows 10 is booting
 
  Some conflicts could exist between your USB headset and other USB devices. To avoid this conflict, please be sure to plug your USB headset in after your computer gets into Windows 10.```` ``
@@ -53,12 +41,11 @@ Check if your headset works properly now.
 1. Type **troubleshooting**  in the search box from the Start menu. Then click **Find and fix problems**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-14.png)  
 ```` ```` ````
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 2. Click **Hardware and Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-12.png)  
 ```` ```` ````
@@ -67,20 +54,8 @@ Check if your headset works properly now.
 4. Click **Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-13.png)
 5. Now the troubleshooter starts detecting problems. Complete troubleshooting by following on-screen instructions.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After that, check if your headset works properly now.
 
  If you fail to find the Hardware and Devices Troubleshooter in the Control Panel, that’s probably because your computer version is after **Windows 10 build 1809** . The version has removed the Hardware and Devices Troubleshooter. Don’t worry, you can still run the Hardware and Devices Troubleshooter in this way:
@@ -88,34 +63,15 @@ After that, check if your headset works properly now.
 1. Right-click on the**Start** button, then click**Windows PowerShell (Admin)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_15-52-49.jpg)
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Relaunch your computer and check whether the issue is resolved or not.````
 
 ### Fix 3: Set your USB headset as default device
@@ -125,7 +81,15 @@ After that, check if your headset works properly now.
 2. Highlight your headset, then click **Set** **Default** . Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ```` ```` ```` Check if your headset works properly now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -139,15 +103,18 @@ After that, check if your headset works properly now.
 2. Click **Scan Now** . It will quickly detect all driver problems of your computer. Your printer driver is no exception.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/SCAN.jpg)
 3. Click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Note: You can also do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Sound-driver.jpg)
 4. Restart your computer and check to see if your headset works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -161,8 +128,6 @@ After that, check if your headset works properly now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,6 +135,19 @@ After that, check if your headset works properly now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-exclusive-sneak-peek-at-apples-finest-facebook-video-extractor-apps/"><u>[New] 2024 Approved Exclusive Sneak Peek at Apple's Finest Facebook Video Extractor Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-overcome-unseen-blanks-in-game-transmission/"><u>[New] Overcome Unseen Blanks in Game Transmission</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721099736614-solved-cant-find-the-name-of-intel-icd-opengl-driver/"><u>[SOLVED] Can’t Find the Name of Intel ICD OpenGL Driver</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-affordable-cloud-vaulting-mass-file-saving-made-cheap/"><u>2024 Approved Affordable Cloud Vaulting Mass File Saving Made Cheap</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-driver-installation-without-intel-component/"><u>Error: Driver Installation Without Intel Component</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-cannot-disable-bluetooth-functionality-in-my-laptop-using-cortana/"><u>Fix: Cannot Disable Bluetooth Functionality in My Laptop Using Cortana</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/guide-obtaining-vlc-player-at-no-cost-and-safety-on-mac/"><u>Guide Obtaining VLC Player at No Cost & Safety on Mac</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro Max to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-mastering-webinar-recording-techniques/"><u>In 2024, Mastering Webinar Recording Techniques</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-integration-drivers-for-pci-devices/"><u>Seamless Integration: Drivers for PCI Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-say-goodbye-to-blemishes-fcpx-skin-smoothing-techniques/"><u>Updated In 2024, Say Goodbye to Blemishes FCPX Skin Smoothing Techniques</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-disallows-graphics-card-use/"><u>Win11 Disallows Graphics Card Use</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Irql] Solved: Win11 Blue Screen of Death"
-date: 2024-09-09T03:02:29.598Z
-updated: 2024-09-10T03:02:29.598Z
+date: 2024-12-07T18:21:21.597Z
+updated: 2024-12-09T21:20:36.274Z
 tags:
   - win11
   - win10
@@ -17,18 +17,6 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 
 ![fix IRQL NOT LESS OR EQUAL on Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/irql.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you’re playing games in Windows 10, if you keep getting **IRQL\_NOT\_LESS\_OR\_EQUAL** blue screen error, it can be frustrating. This error probably is caused by faulty drivers, which are programmed to access improper hardware addresses.**To fix this error, simply try solutions in this post** .
 
  There are**4** solutions to fix this blue screen error. You may not have to try them all. Just work your way down at the top of the list until you find the one that works for you.
@@ -60,24 +48,16 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 2: Uninstall problem drivers to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
 
  The problem can be caused by faulty drivers. To fix the problem, go to**Device Manager** and find the faulty drivers, then uninstall the drivers. If a driver is having problems, you’ll see a yellow mark next to its device (see the screenshot shown below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad8287f6daa6.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Following steps are for your reference on how to uninstall a driver:
 
  1) Press  Win+R  (**Windows logo** key and**R** key) at the same time to invoke the run box.  
@@ -95,19 +75,15 @@ Following steps are for your reference on how to uninstall a driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13feb35a43d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Restart your PC and check to see if the blue screen is gone  .  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Solution 3 **: Perform a System Restore to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
 
  The last solution that you can try is to do a system restore. If your System Protection is turned on, Windows will create a restore point before you install the driver. Then you can follow these steps to restore the driver to an earlier version to fix this issue.
@@ -124,20 +100,8 @@ Following steps are for your reference on how to uninstall a driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a14004645d52.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Reboot your PC and check to see if the blue screen is gone.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Solution** 4: Reset or reinstall Windows
 
  If all else fails, you may have to [reset Windows](https://tools.techidaily.com/drivereasy/download/) , or maybe even [reinstall it](https://tools.techidaily.com/drivereasy/download/) together. We all know reinstalling will delete all the data on your hard drive, you have to [back up all your important files](https://tools.techidaily.com/drivereasy/download/) before doing it.  
@@ -148,28 +112,20 @@ Following steps are for your reference on how to uninstall a driver:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
-4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -186,8 +142,6 @@ Following steps are for your reference on how to uninstall a driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,6 +149,20 @@ Following steps are for your reference on how to uninstall a driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-prime-video-broadcast-software-choice/"><u>[New] In 2024, Prime Video Broadcast Software Choice</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-satiating-the-social-hangry-with-hilarious-9gag-memes/"><u>[Updated] 2024 Approved Satiating the Social Hangry With Hilarious 9GAG Memes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-visual-enhancements-with-polarrs-platform/"><u>[Updated] Mastering Visual Enhancements with Polarr's Platform</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-box-it-up-right-10-online-haunts-for-tailored-gift-boxes/"><u>2024 Approved Box It Up Right 10 Online Haunts for Tailored Gift Boxes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-not-recognized-by-os-duo/"><u>Graphics Not Recognized by OS Duo</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104671957-resolving-non-responsive-hp-wireless-keyboard-problems-effective-solutions-inside/"><u>Resolving Non-Responsive HP Wireless Keyboard Problems - Effective Solutions Inside!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamless-facial-smoothing-motion-blur-techniques-in-picsart/"><u>Seamless Facial Smoothing Motion Blur Techniques in Picsart</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-erasing-your-entire-snapchat-message-and-chat-records/"><u>Step-by-Step Guide: Erasing Your Entire Snapchat Message and Chat Records</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-elan-tablet-hurdles-on-windows-10/"><u>Tackling Elan Tablet Hurdles on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-must-try-alarm-clock-applications/"><u>Top 7 Must-Try Alarm Clock Applications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-hey-siri-issues-top-17-solutions-for-iphones/"><u>Troubleshoot 'Hey Siri' Issues: Top 17 Solutions for iPhones</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unveiling-the-power-of-consistency-in-your-tiktok-clone-journey/"><u>Unveiling the Power of Consistency in Your TikTok Clone Journey</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-bus-management-problem-solved/"><u>Win11 Bus Management: Problem Solved</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Demystifying the Legacy USB Composite Device Problems - Now Fixed!
-date: 2024-09-09T03:08:54.115Z
-updated: 2024-09-10T03:08:54.115Z
+date: 2024-12-03T16:11:55.027Z
+updated: 2024-12-10T01:26:15.153Z
 tags:
   - win11
   - win10
@@ -13,17 +13,15 @@ excerpt: This Article Describes Demystifying the Legacy USB Composite Device Pro
 thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b9361503ab0ea4cb809046ec66.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Demystifying the Legacy USB Composite Device Problems - Now Fixed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6187a52b640.jpg)
 
  If you keep getting the above error message when trying to connect your USB Composite Device to your computer, here are the real fixes for your issue. This article helps you solve the problem, quickly and easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -34,11 +32,9 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 3. **[Use the Windows USB Troubleshooter](https://ukaidot.sjv.io/daqnoj)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your USB Composite Device driver
 
  The most likely cause for your USB Composite Device error is a device driver problem.
@@ -55,12 +51,6 @@ Fortunately, this is one of the easiest problems to fix.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb894ac5bd51.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb894ea5449a.jpg)
 4. Restart your computer and check if your USB Composite Device now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
@@ -72,36 +62,32 @@ Fortunately, this is one of the easiest problems to fix.
 
 1. On your keyboard, press the   **Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62735e40ac6.png)**  
 **key**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  and  
 **R**  
   key simultaneously to open the Run box.
 2. Type **devmgmt.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b616832c16a0.jpg)
 3. In Device Manger, scroll down to find**Universal Serial Bus controllers** and expand the entry.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b61714f05a95.jpg)
 4. Right-click on the first USB device and select**Uninstall device**  to remove it.  
+
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Important:** Make sure you’ve saved any open files on your computer before you click**Uninstall device** , as you might need to force shutdown and restart later.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6171a9ae8b0.jpg)
 5. Repeat step 4) with every other USB device that is listed under the**Universal Serial Bus controllers** entry.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** Some USB devices have to do with your wired mouse, keyboard etc, which means uninstalling those devices will make them not working, don’t worry, just temporarily. As long as Windows restarts, it will automatically install the drivers again.
 6. Once you’ve uninstalled them all,**restart** your computer.  
@@ -111,12 +97,6 @@ Fortunately, this is one of the easiest problems to fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Use the Windows USB Troubleshooter
 
  If the steps above steps didn’t work for you, you can then try the Windows USB Troubleshooter.
@@ -135,8 +115,6 @@ Fortunately, this is one of the easiest problems to fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,6 +122,20 @@ Fortunately, this is one of the easiest problems to fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-building-a-thriving-igtv-following-the-ultimate-guide-for-2024/"><u>[New] Building a Thriving IGTV Following The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/80-less-on-the-apple-watch-se-2nd-generation-post-prime-day-bargains-insights-from-zdnet/"><u>$80 Less on the Apple Watch SE (2Nd Generation): Post-Prime Day Bargains - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-a-compreenas-guide-to-choosing-ideal-lenses-for-filmmaking/"><u>2024 Approved A Compreenas Guide to Choosing Ideal Lenses for Filmmaking</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-dive-into-todays-top-8-viral-video-phenomena/"><u>2024 Approved Dive Into Today’s Top 8 Viral Video Phenomena</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhance-system-stability-and-performance-with-updated-deathadder-bios/"><u>Enhance System Stability and Performance with Updated Deathadder Bios</u></a></li>
+<li><a href="https://driver-error.techidaily.com/get-error-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>Get Error “This Computer Does Not Meet the Minimum Requirement for Installing Software.” When Installing Intel Graphics Driver</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-listen-to-podcasts-on-your-iphone-for-2024/"><u>How to Listen to Podcasts on Your iPhone for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-display-for-hardware-drives-in-w1011/"><u>No Display for Hardware Drives in W10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-initial-set-up-hurdle-for-age-of-empires-iii-gamers/"><u>Resolving the Initial Set-Up Hurdle for Age of Empires III Gamers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revive-nonfunctional-usb-serial-connections-in-windows/"><u>Revive Nonfunctional USB Serial Connections in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-guide-to-diagnosing-and-fixing-wireless-keyboard-problems-in-windows/"><u>The Ultimate Guide to Diagnosing and Fixing Wireless Keyboard Problems in Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/understanding-the-dynamics-of-facebooks-in-stream-ad-model/"><u>Understanding the Dynamics of Facebook's In-Stream Ad Model</u></a></li>
+<li><a href="https://driver-error.techidaily.com/update-dell-touchpad-on-windows-7/"><u>Update Dell Touchpad on Windows 7</u></a></li>
+</ul></div>
 
