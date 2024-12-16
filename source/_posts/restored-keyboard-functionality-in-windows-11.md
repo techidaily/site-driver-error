@@ -1,7 +1,7 @@
 ---
 title: "[Restored] Keyboard Functionality in Windows 11"
-date: 2024-12-07T06:59:19.088Z
-updated: 2024-12-10T02:09:48.618Z
+date: 2024-12-12T08:21:40.380Z
+updated: 2024-12-16T00:04:27.906Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -53,17 +49,21 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
@@ -114,18 +114,18 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 5: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -164,22 +164,24 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-filching-frames-from-films-for-windows-10-photos-collection/"><u>[New] Filching Frames From Films for Windows 10 Photos Collection</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-markets-tiny-helicopters-a-ranked-list/"><u>[New] In 2024, Market's Tiny Helicopters A Ranked List</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-ndis-driver-issues-in-windows-quickly-and-easily/"><u>[SOLVED] NDIS Driver Issues in Windows | Quickly & Easily</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/box-by-strategy-market-success-blueprints-for-2024/"><u>Box by Strategy Market Success Blueprints for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/creative-geniuses-in-naming-top-10-ai-powerhouse-generators/"><u>Creative Geniuses in Naming Top 10 AI Powerhouse Generators</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/enhancing-collaboration-slack-melded-with-filmoras-video-capabilities/"><u>Enhancing Collaboration Slack Melded With Filmora’s Video Capabilities</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/eral-clip-creator-for-2024/"><u>Ephemeral Clip Creator for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-unauthorized-hardware-driver-errors-in-windows-systems/"><u>Fixing Unauthorized Hardware Driver Errors in Windows Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/harmonized-device-errors-correctly/"><u>Harmonized Device Errors Correctly</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/o-boost-your-youtube-revenue-from-mobile-a-comprehensive-guide-for-2024/"><u>How to Boost Your YouTube Revenue From Mobile - A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-nokia-c02-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Nokia C02</u></a></li>
-<li><a href="https://driver-error.techidaily.com/introducing-the-ultimate-portable-server-solution-packed-with-up-to-256-cores-ampere-altra-cpu-and-an-impressive-combination-of-480tb-nvme-and-4tb-ram-for-o85/"><u>Introducing the Ultimate Portable Server Solution – Packed with Up to 256 Cores, Ampere Altra CPU, and an Impressive Combination of 480TB NVMe & 4TB RAM for Optimal Performance</u></a></li>
-<li><a href="https://driver-error.techidaily.com/swift-correction-of-ndis-anomalies-on-windows/"><u>Swift Correction of NDIS Anomalies on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-buying-windows-11-keys/"><u>The Ultimate Guide to Buying Windows 11 Keys</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-the-code-43-problem-with-your-nvidia-gpu-in-windows-10/"><u>Troubleshooting and Solving the 'Code 43' Problem with Your Nvidia GPU in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-unsupported-hardware-message-and-software-solutions/"><u>Troubleshooting Guide: Unsupported Hardware Message & Software Solutions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-users-learn-how-to-fix-a-malfunctioning-wireless-keyboard-today/"><u>Windows Users! Learn How to Fix a Malfunctioning Wireless Keyboard Today</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-empowerment-through-knowledge-lut-design-for-the-aspiring-film-professional/"><u>[New] 2024 Approved Empowerment Through Knowledge LUT Design for the Aspiring Film Professional</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-enhancing-collaboration-whiteboard-tactics-for-all-zoom-users/"><u>[New] 2024 Approved Enhancing Collaboration Whiteboard Tactics for All Zoom Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-tips-for-quickly-and-securely-scrape-gifs-from-social-networking-sites-like-fb/"><u>[New] 2024 Approved Tips for Quickly and Securely Scrape GIFs From Social Networking Sites Like FB</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-this-device-cannot-find-enough-free-resources-that-it-can-use/"><u>[SOLVED] This Device Cannot Find Enough Free Resources that It Can Use</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-how-to-add-divine-chant-to-smartphone-notifications-for-2024/"><u>[Updated] How to Add Divine Chant to Smartphone Notifications for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-streamline-your-screen-share-with-enhanced-zoom-on-google-meet/"><u>[Updated] Streamline Your Screen Share with Enhanced Zoom on Google Meet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/captivate-audiences-techniques-for-livestreaming-video-in-spherical-views-on-youtube-for-2024/"><u>Captivate Audiences Techniques for Livestreaming Video in Spherical Views on YouTube for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-restriction-graphic-hardware-access-cut-off/"><u>Device Restriction: Graphic Hardware Access Cut Off</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminate-cable-signal-degradation/"><u>Eliminate Cable Signal Degradation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-48-in-devmgr-addressed/"><u>Error 48 in DevMgr Addressed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-wedding-countdown-clock-apps-top-10-picks-androidios/"><u>Essential Wedding Countdown Clock Apps Top 10 Picks (Android/iOS)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/methods-for-unloading-enex-drivers-from-windows-11/"><u>Methods for Unloading eNEX Drivers From Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/old-usb-composite-devices-common-issues-and-solutions-for-effective-troubleshooting/"><u>Old USB Composite Devices - Common Issues and Solutions for Effective Troubleshooting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/premium-picks-discover-the-ultimate-4k-uhd-video-players-on-pcmac-detailed-comparisons-and-free-access/"><u>Premium Picks: Discover the Ultimate 4K UHD Video Players on PC/Mac - Detailed Comparisons & Free Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-expires-shortly-alert-in-windows-11/"><u>Resolving Windows Expires Shortly Alert in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revealing-naming-of-intelligent-driver-with-opengl/"><u>Revealing Naming of Intelligent Driver with OpenGL</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/securely-shifting-snapchat-images-onto-your-device-storage-for-2024/"><u>Securely Shifting SnapChat Images Onto Your Device Storage for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-nvidia-driver-instability/"><u>Troubleshooting Nvidia Driver Instability</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unveiling-the-latest-in-hardware-toms-authoritative-reviews/"><u>Unveiling the Latest in Hardware: Tom’s Authoritative Reviews</u></a></li>
 </ul></div>
 

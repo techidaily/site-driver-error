@@ -1,7 +1,7 @@
 ---
 title: Win 10/11'S Missed Connection with Unify Hub
-date: 2024-08-02T07:26:53.192Z
-updated: 2024-08-03T07:26:53.192Z
+date: 2024-12-11T23:12:10.482Z
+updated: 2024-12-15T23:13:19.907Z
 tags:
   - win11
   - win10
@@ -45,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
  4) If you can find the**usb.inf** and**usb.PNF** files, still, copy and paste them to the folder **C:\\Windows\\inf\\** .
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **2: Remove possible conflict applications**
 
  If you have MotionInJoy installed on your PC, it could be the culprit. It’s reported to conflict with Logitech unifying receiver. You can remove it:
@@ -56,16 +53,25 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) View by**Category** and click **Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-control-category-uninstall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-lick **MotionInJoy** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57830b6e39c32.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Type in**regedit** in the search bar and then open it.
 
@@ -79,15 +85,16 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/registry-delete-ds3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Unplug your**Logitech Unifying Receiver** .
 
  8) Restart your computer and then plug in your Logitech Unifying Receiver.
 
  9) Wait for Windows Update to help you find the correct driver.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **3: Update Mouse and USB Drivers**
 
  One of the most common causes of an unresponsive keyboard is an outdated mouse or USB driver.
@@ -111,13 +118,18 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db63d8ac59f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **4: Run Logitech Unifying Receiver as administrator**
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time. Type**devmgmt.msc** and press**Enter** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Expand **Mice and other pointing devices,** right-click the**HID-compliant mouse** and click **Disable** .
 
@@ -134,8 +146,9 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 5) Your Logitech receiver should be able to work now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **5: Perform a hard reset**
 
 **Note:**  When performing a**hard reset** , you must disconnect or remove all peripheral devices. You should start and test the computer by itself, and then reconnect one peripheral device at a time.
@@ -167,8 +180,6 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,6 +187,23 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-revolutionizing-adventure-recording-with-garmin-ultra-30/"><u>[Updated] 2024 Approved Revolutionizing Adventure Recording with Garmin Ultra 30</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-start-off-right-top-gear-for-aspiring-gopro-users/"><u>[Updated] 2024 Approved Start Off Right Top Gear for Aspiring GoPro Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-essential-knowledge-for-using-final-cut-pro-effectively-for-2024/"><u>[Updated] Essential Knowledge for Using Final Cut Pro Effectively for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-quick-guide-how-to-download-windows-movie-maker-6-for-2024/"><u>[Updated] Quick Guide How to Download Windows Movie Maker 6 for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/balanced-hdd-control-mechanism/"><u>Balanced HDD Control Mechanism</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-guide-installing-epson-xp-430-printer-drivers-on-windows-a-step-by-step-walkthrough/"><u>Complete Guide: Installing Epson XP-430 Printer Drivers on Windows - A Step by Step Walkthrough</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-erratic-trackpad-behavior-in-dell-windows-7/"><u>Fix Erratic Trackpad Behavior in Dell-Windows 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-installing-necessary-drivers-for-your-windows-pc-windows-1187/"><u>Guide: Installing Necessary Drivers for Your Windows PC [WINDOWS 11/8/7]</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-15-plus-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone 15 Plus Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-get-your-qualcomm-atheros-bluetooth-working-again-on-a-windows-10-pc/"><u>How to Get Your Qualcomm Atheros Bluetooth Working Again on a Windows 10 PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-get-your-qualcomm-atheros-devices-bluetooth-working-perfectly-on-windows-jndz-eleven/"><u>How to Get Your Qualcomm Atheros Device's Bluetooth Working Perfectly on Windows ˈ|jɪndz Eleven</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-premiere-rush-too-expensive-check-out-these-4-affordable-alternatives/"><u>New In 2024, Premiere Rush Too Expensive? Check Out These 4 Affordable Alternatives</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-invisible-cddvd-on-windows-11/"><u>Resolving Invisible CD/DVD on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/testing-the-apple-studio-display-stunning-price-tag-on-a-must-have-27-inch-5k-screen-for-creative-professionals-insights/"><u>Testing the Apple Studio Display: Stunning Price Tag on a Must-Have 27-Inch 5K Screen for Creative Professionals - Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-your-movie-grading-skills-using-cg-centrals-luts/"><u>Transform Your Movie Grading Skills Using CG Central's Luts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-restoring-bluetooth-functionality-for-qualcomm-atheros-on-windows-10/"><u>Troubleshooting Guide: Restoring Bluetooth Functionality for Qualcomm Atheros on Windows 10</u></a></li>
+</ul></div>
 

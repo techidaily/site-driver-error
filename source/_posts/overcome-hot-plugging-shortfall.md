@@ -1,7 +1,7 @@
 ---
 title: Overcome Hot-Plugging Shortfall
-date: 2024-08-02T07:25:31.090Z
-updated: 2024-08-03T07:25:31.090Z
+date: 2024-12-14T22:07:14.931Z
+updated: 2024-12-15T19:22:32.371Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/91640d3f48e05abf1077e677bdbbda7bdefb1b3dd
 
 ## Overcome Hot-Plugging Shortfall
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b55a005ac85d.jpg)
 
  A yellow exclamation mark next to**Universal Serial Bus (USB) Controller** means the device driver is not installed correctly. In this case, your USB devices can’t be recognized by the computer.
@@ -32,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/91640d3f48e05abf1077e677bdbbda7bdefb1b3dd
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## Mehtod 1: Uninstall the Device Driver
 
 Follow these steps:
@@ -42,15 +36,21 @@ Follow these steps:
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. In Device Manager, right-click on the **Universal Serial Bus (USB) Controller** with the yellow exclamation mark and select**Uninstall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_590197be52699.png)
 3. If prompted for confirmation, click the box next to**Delete the driver software for this device** (if you see this), and click**OK** button.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/04/img_590197eb1814f.png)
 4. Restart your PC then check if the driver is installed correctly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 2: Update the Chipset Drivers
 
@@ -63,8 +63,9 @@ Follow these steps:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Way 3: Update All Drivers Automatically
 
  If the above methods don’t work for you, you can update all drivers automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -76,22 +77,18 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/Intel-9-series-chipset-family-sata-ahci-controller.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -105,8 +102,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,6 +109,23 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/irqlfix-bsod-error-on-windows-11/"><u>[IRQL_FIX] BSOD Error on Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-6-best-slideshow-making-apps-on-iphone-11xrxsx876-for-2024/"><u>[New] 6 Best Slideshow-Making Apps on iPhone 11/XR/Xs/X/8/7/6 for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-daily-digital-deluge-youtubes-prime-videos-ranked-1-10/"><u>[New] Daily Digital Deluge YouTube's Prime Videos Ranked #1-10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-pursuit-of-detail-zoom-tactics-for-videoleap-enthusiasts-for-2024/"><u>[New] In Pursuit of Detail Zoom Tactics for VideoLeap Enthusiasts for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-crafting-captivating-content-the-power-of-hashtagging-in-gaming-yt/"><u>[Updated] 2024 Approved Crafting Captivating Content The Power of Hashtagging in Gaming YT</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premier-low-carbon-screen-recording-solutions/"><u>[Updated] Premier Low-Carbon Screen Recording Solutions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-uncovering-ustream-plus-other-live-streamers-for-2024/"><u>[Updated] Uncovering Ustream + Other Live Streamers for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/complete-instructions-on-how-to-get-the-latest-drivers-for-your-hp-envy-20-computer/"><u>Complete Instructions on How To Get The Latest Drivers For Your HP Envy 20 Computer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enable-recognition-of-misidentified-usb-devices-on-w78-os/"><u>Enable Recognition of Misidentified USB Devices on W7/8 OS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-meizu-21-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Meizu 21 Unlock Without Password</u></a></li>
+<li><a href="https://driver-error.techidaily.com/recovering-operability-of-right-click-functionality-for-windows-11-touchpad/"><u>Recovering Operability of Right Click Functionality for Windows 11 Touchpad</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-no-display-of-seagate-hd-in-win11/"><u>Resolving No Display of Seagate HD in Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-chill-masters-exploring-the-finest-coolers-of-2022-insights-from-zdnet/"><u>Top 5 Chill-Masters: Exploring the Finest Coolers of 2022 - Insights From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforma-streaming-mkv-en-video-flv-sin-gastos-usando-la-herramienta-online-de-movavi/"><u>Transforma Streaming MKV en Video FLV Sin Gastos Usando La Herramienta Online De Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-your-final-usb-error-on-windows-tips-and-solutions/"><u>Troubleshooting Your Final USB Error on Windows - Tips & Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-and-missing-coprocessor-drivers-solutions-for-seamless-operations/"><u>Windows 11 and Missing Coprocessor Drivers - Solutions for Seamless Operations</u></a></li>
+</ul></div>
 

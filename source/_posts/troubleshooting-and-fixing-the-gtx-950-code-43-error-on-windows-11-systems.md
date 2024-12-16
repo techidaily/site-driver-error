@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing the GTX 950 Code 43 Error on Windows 11 Systems
-date: 2024-08-02T07:26:00.217Z
-updated: 2024-08-03T07:26:00.217Z
+date: 2024-12-09T05:23:17.851Z
+updated: 2024-12-15T16:13:22.676Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
 ## Troubleshooting and Fixing the GTX 950 Code 43 Error on Windows 11 Systems
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59410acca7efb.jpg)
 
  Users with NVIDIA GTX 950 graphics card installed on their computer reported to have found that they see a yellow exclamation mark next to their display driver. when checking the properties of the video card driver, the following error notification appears:
@@ -42,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** .
@@ -54,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png)
 
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
@@ -83,28 +81,31 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Option 2: Update Windows 10**
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click the**Check for updates** button to see if there are any new updates available.
 
@@ -113,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
  3) If new updates are available, just download and then update them as instructed.
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -141,8 +146,6 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,6 +153,26 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-instagram-playback-why-are-videos-spinning/"><u>[New] Instagram Playback Why Are Videos Spinning?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-master-screen-capture-on-chromebook-the-5-superior-tools-for-2024/"><u>[New] Master Screen Capture on Chromebook The 5 Superior Tools for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/google-drive/"><u>「文書見つからず？ - Google Driveとファイルエクスプローラの同期不具合解決方法」</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-audio-driver-on-hidef-bus/"><u>Corrected Audio Driver on HiDef Bus</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-the-349-ipad-stole-the-spotlight-in-apples-lively-unleashing-event-covered/"><u>Discover How the $349 iPad Stole the Spotlight in Apple's Lively Unleashing Event Covered</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-solutions-to-fix-a-malfunctioned-usb-recognition-issue-in-windows-os/"><u>Effective Solutions to Fix a Malfunctioned USB Recognition Issue in Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-on-overcoming-battleyes-failed-initialization-addressing-the-driver-load-challenge/"><u>Expert Tips on Overcoming BattlEye's Failed Initialization: Addressing the Driver Load Challenge</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-fix-video-playback-reversed-horizontally-on-asus-laptops/"><u>Guide to Fix Video Playback Reversed Horizontally on ASUS Laptops</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-g2-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo G2 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-9-best-iphone-watermarking-solutions/"><u>In 2024, Explore the 9 Best iPhone Watermarking Solutions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-mirrorless-vs-dslr-in-the-realm-of-video-filmmaking/"><u>In 2024, Mirrorless vs DSLR in the Realm of Video Filmmaking</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-intel-management-engine-hurdles/"><u>Overcoming Intel Management Engine Hurdles</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-poco-x5-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Poco X5</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revive-nonresponsive-serial-ports-on-os-windows/"><u>Revive Nonresponsive Serial Ports on OS WINDOWS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solutions-for-installing-drivers-that-arent-compatible-with-your-system/"><u>Solutions for Installing Drivers That Aren't Compatible with Your System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-fixing-your-game-services-startup-issues-battlenet-error-1450/"><u>Step-by-Step Guide to Fixing Your Game Service's Startup Issues (Battlenet Error 1450)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-path-to-perpetual-fortune-in-pc-gaming-deciphering-everlast-crash/"><u>The Path to Perpetual Fortune in Pc Gaming: Deciphering 'Everlast Crash'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-unable-to-stop-bluetooth-from-working/"><u>Windows 10: Unable to Stop Bluetooth From Working.</u></a></li>
+</ul></div>
 

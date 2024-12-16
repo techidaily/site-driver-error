@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing USB Setup Errors Caused by 'Access Is Denied'
-date: 2024-08-02T07:27:30.835Z
-updated: 2024-08-03T07:27:30.835Z
+date: 2024-12-15T10:26:53.229Z
+updated: 2024-12-16T07:50:15.626Z
 tags:
   - win11
   - win10
@@ -17,32 +17,20 @@ thumbnail: https://thmb.techidaily.com/b5892d15fb0cdebf3fe54704e2a326cc057eaac75
 
 If you can’t install any new USB devices due to error “Access is denied”, it can be frustrating. But don’t worry, here you will find the solution to fix the problem.  
   
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6862c6dbe8.png) .
 
 First, make sure that you login to computer as Administrator. If you are not logged in with Administrator, follow steps below to switch it to Administrator.  
   
 1\. Go to**Control Panel**and View by**Category**. Click**User Accounts**.(In your case, this may be “User Accounts and Family Safety”.)  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c68c5d7bf6a.jpg)
   
 2\. Click **Change your account type** and enter your password if necessary.
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791ba4e50787.png)
   
  3\. Then click**Start** button and choose to **Log off**  of Windows, and then log back in again.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5791bab2104ee.png)
 
 After that, reinstall the driver again.  
@@ -66,9 +54,6 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
   
  4\. Select**SYSTEM** from the Group or user names. In Permissions for SYSTEM section, make sure the Full Control Allow checkbox is checked and uncheck any Deny checkbox. Click Apply button to apply the changes.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57c6933c3f709.png)
 
  Also check your user account and see if it has full control of the system and any deny checkbox is unchecked.
@@ -84,8 +69,6 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,6 +76,28 @@ If the problem could not be resolved, the USBSTOR registry key most probably has
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-how-to-use-periscope-the-complete-guide-for-2024/"><u>[New] How to Use Periscope The Complete Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-premier-6-platforms-for-video-localization/"><u>[New] In 2024, Premier 6 Platforms for Video Localization</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-lens-kings-battle-sj6-vs-the-four-k-creators-of-xiaomi-for-2024/"><u>[Updated] Lens Kings Battle SJ6 Vs. The Four-K Creators of Xiaomi for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-io-screen-recording-essentials-quick-start/"><u>2024 Approved IO Screen Recording Essentials Quick Start</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-lava-agni-2-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Lava Agni 2 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-solutions-to-overcome-failed-to-instalh-hcmon-driver-problem/"><u>Comprehensive Solutions to Overcome 'Failed to InstalH' HcMon Driver Problem</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-asus-bt400-bluetooth-driver/"><u>Download Asus BT400 Bluetooth Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensuring-smooth-connection-lenovo-on-windows-10/"><u>Ensuring Smooth Connection: Lenovo on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-iphone-usb-connection-detailed-guide-on-resolving-mtp-device-driver-problems/"><u>Fixing the iPhone USB Connection: Detailed Guide on Resolving MTP Device Driver Problems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-20-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Tecno Spark 20 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-14-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 14 Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-bluetooth-driver-solution-for-windows/"><u>Quick Bluetooth Driver Solution for Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-disabled-right-click-issue-in-windows-11-touchpad-environment/"><u>Resolve Disabled Right Click Issue in Windows 11 Touchpad Environment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-connectivity-issues-a-users-handbook-to-fixing-wireless-keyboards-on-windows-machines/"><u>Resolving Connectivity Issues: A User's Handbook to Fixing Wireless Keyboards on Windows Machines</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-a58-4g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from A58 4G</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104156655-solve-unresponsive-issue-with-disabling-inbuilt-wi-fi-and-bluetooth-step-by-step/"><u>Solve Unresponsive Issue with Disabling Inbuilt Wi-Fi and Bluetooth - Step by Step!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/upgraded-video-feeds-asus-webcam-and-windows-1e-connection/"><u>Upgraded Video Feeds: ASUS Webcam & Windows 1E Connection</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

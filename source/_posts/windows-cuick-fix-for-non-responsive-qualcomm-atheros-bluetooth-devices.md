@@ -1,7 +1,7 @@
 ---
 title: Windows Cuick Fix for Non-Responsive Qualcomm Atheros Bluetooth Devices
-date: 2024-08-02T07:26:28.765Z
-updated: 2024-08-03T07:26:28.765Z
+date: 2024-12-13T22:54:53.064Z
+updated: 2024-12-15T18:17:15.972Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
  Scroll down to see if you can find the**KB3061161** . It should be a rather old update, so it might cost you some time to locate.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587852a8ba348.jpg)
 
 If you don’t see such an update, don’t freak out, just go to Microsoft and get in downloaded and installed, and you will be fine.
@@ -67,9 +64,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 4) Then locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Uninstall**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878700f160fd.jpg)
 
 5) When prompted with the following notification, tick the box for**Delete the driver software for this device**and then hit**OK**to continue.
@@ -100,9 +94,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 3) Locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Update Driver Software**.
   
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878797a95615.png)
 
  4) Choose**Browse my computer for driver software** .
@@ -111,16 +102,10 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
  5) Choose **Let me pick from a list of the drivers on my computer** .
   
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787ac962e8f.jpg)
 
 6) Un-tick the box for **Show compatible hardware** . Then you should be able to see **Qualcomm Atheros** driver option on the left. On the right, choose one of the drivers listed. We go with**Qualcomm Atheros AR3011 Bluetooth 3.0** . You need to try them one by one by yourself to select the right one for your PC. When done picking, click**Next** to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787b0460727.png)
 
 7)Then follow the instructions on screen to get your Qualcomm Atheros Bluetooth drive installed.  
@@ -158,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +150,30 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-selecting-the-ultimate-5-game-chat-devices/"><u>[New] 2024 Approved Selecting the Ultimate 5 Game Chat Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-basketball-enthusiasts-guide-to-online-viewing/"><u>[New] Basketball Enthusiast's Guide to Online Viewing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-configuring-windows-11-for-automatic-hdr-mode/"><u>[New] Configuring Windows 11 for Automatic HDR Mode</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-rectifying-partial-muted-sounds-in-facebook-media-shows/"><u>[Updated] In 2024, Rectifying Partial Muted Sounds in Facebook Media Shows</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-spark-the-momentum-channels-best-inspirational-videos-for-2024/"><u>[Updated] Spark the Momentum Channel's Best Inspirational Videos for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-non-recognized-usb-in-older-windows-systems/"><u>Addressing Non-Recognized USB in Older Windows Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-driver-update-for-lenovo-on-windows-11/"><u>Bluetooth Driver Update for Lenovo on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-never-turns-off-on-windows-11-fix/"><u>Bluetooth Never Turns Off on Windows 11 [Fix]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fault-alarm-ideport0-system-disturbance/"><u>Fault Alarm: Ideport0 System Disturbance</u></a></li>
+<li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/hitman-3-dark-screen-fiasco-fixing-the-pc-game-issue-effectively/"><u>Hitman 3 Dark Screen Fiasco - Fixing the PC Game Issue Effectively</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-adjust-and-fix-sideways-video-display-errors-in-asus-systems/"><u>How to Adjust and Fix Sideways Video Display Errors in ASUS Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/life-without-ps-plus-gamings-new-dawn/"><u>Life Without PS Plus: Gaming's New Dawn</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-cards-unseen-by-windows-variants/"><u>Nvidia Cards Unseen by Windows Variants</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/scarlett-solo-top-tier-windows-audio-interface-download-ready-now/"><u>Scarlett Solo - Top-Tier Windows Audio Interface Download Ready Now!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unavailable-driver-error-bcm20702a0/"><u>Unavailable Driver Error - BCM20702A0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-meets-lenovo-bluetooth-driver-fix-explained/"><u>Win11 Meets Lenovo: Bluetooth Driver Fix Explained</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-not-recognizing-nvidia-gpus/"><u>Windows Not Recognizing Nvidia GPUs</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Bluetooth Troubles? Solve Your Qualcomm Atheros Driver Problems on Windows 10 Today!
-date: 2024-08-02T07:26:55.514Z
-updated: 2024-08-03T07:26:55.514Z
+date: 2024-12-10T01:28:29.072Z
+updated: 2024-12-15T18:42:45.557Z
 tags:
   - win11
   - win10
@@ -32,9 +32,6 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
 **KB3061161** is auto updated via Windows Update. So you can follow the path:**Start button > Settings > Update & security** .
   
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878512a85d87.jpg)
   
  Then choose**Update history** .
@@ -67,9 +64,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 4) Then locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Uninstall**.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878700f160fd.jpg)
 
 5) When prompted with the following notification, tick the box for**Delete the driver software for this device**and then hit**OK**to continue.
@@ -96,9 +90,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
  2) When the download completes, press**Windows key** and**X** at the same time and choose**Device Manager** .
   
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878625e408ff.png)
 
 3) Locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Update Driver Software**.
@@ -111,16 +102,10 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
  5) Choose **Let me pick from a list of the drivers on my computer** .
   
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787ac962e8f.jpg)
 
 6) Un-tick the box for **Show compatible hardware** . Then you should be able to see **Qualcomm Atheros** driver option on the left. On the right, choose one of the drivers listed. We go with**Qualcomm Atheros AR3011 Bluetooth 3.0** . You need to try them one by one by yourself to select the right one for your PC. When done picking, click**Next** to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787b0460727.png)
 
 7)Then follow the instructions on screen to get your Qualcomm Atheros Bluetooth drive installed.  
@@ -158,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +150,27 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-exploring-subscriptions-the-value-of-youtube-premium/"><u>[New] 2024 Approved Exploring Subscriptions The Value of YouTube Premium</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-initial-steps-to-professional-motion-graphics/"><u>[New] Initial Steps to Professional Motion Graphics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-fullscreen-capturing-software-pcmac-edition-for-2024/"><u>[New] Top Fullscreen Capturing Software, PC/Mac Edition for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ultimate-unseen-ui-techniques-for-newcomers-for-2024/"><u>[New] Ultimate Unseen UI Techniques for Newcomers for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-link-up-in-the-world-of-instagram/"><u>[Updated] How-To Link Up in the World of Instagram</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-venintanddev33a0-acpi-faults/"><u>Addressing VEN_INT&DEV_33A0 Acpi Faults</u></a></li>
+<li><a href="https://driver-error.techidaily.com/controller-failure-detected-at-ideport0/"><u>Controller Failure Detected at Ideport0</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-to-grasp-ai-concepts/"><u>Easy-to-Grasp AI Concepts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolved-fix-for-semaphore-error-code-0x80070079-now-available/"><u>Error Resolved: Fix for Semaphore Error Code 0X80070079 Now Available</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-non-detected-end-usb-devices-troubleshooting-steps-for-windows-users/"><u>Fixing Non-Detected End USB Devices - Troubleshooting Steps for Windows Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-ru7300-55-4k-ultra-hd-smart-led-tv-assessment-is-it-as-good-as-its-shape/"><u>Samsung RU7300 55 4K Ultra HD Smart LED TV Assessment: Is It as Good as Its Shape?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-and-fix-why-isnt-my-hp-wireless-keyboard-working-step-by-step/"><u>Troubleshoot and Fix: Why Isn't My HP Wireless Keyboard Working? Step by Step</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-guide-installing-latest-drivers-on-your-hp-envy-20-series-laptop/"><u>Ultimate Guide: Installing Latest Drivers on Your HP Envy 20 Series Laptop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-composite-device-explained-a-look-into-its-past-usage-and-current-relevance/"><u>USB Composite Device Explained: A Look Into Its Past Usage and Current Relevance</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win10-and-seagate-connection-woes-fix-now/"><u>Win10 & Seagate Connection Woes - Fix Now</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

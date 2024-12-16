@@ -1,7 +1,7 @@
 ---
 title: Smoothing Out Bluetooth on Lenovo with W11
-date: 2024-08-02T07:25:57.855Z
-updated: 2024-08-03T07:25:57.855Z
+date: 2024-12-12T23:37:22.252Z
+updated: 2024-12-16T06:36:08.064Z
 tags:
   - win11
   - win10
@@ -29,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 * [Option 4: Perform a refresh](https://collovinc.sjv.io/jrkzwp)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 1: Enable Bluetooth hardware
 
 **NOTE** : Please make sure that your computer has the necessary hardware and your wireless is turned on. Also, check the support website of Lenovo to make sure that your device is Bluetooth capable.
@@ -55,10 +56,11 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 
  5) If you see a yellow exclamation mark next to your Bluetooth driver, your Bluetooth hardware is not responding or set up correctly. You can refer to **Option 3** for more help.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2: Enable discovery mode
 
@@ -68,10 +70,11 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 3: Update Bluetooth driver
 
@@ -85,18 +88,20 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver-scan.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 4: Perform a refresh
 
  If none of the above options help, you might need to perform a refresh to get your Bluetooth devices working again. For more information as to how to perform a refresh on Windows 10, please visit the following post: **[How to refresh my Windows 10?](https://tools.techidaily.com/drivereasy/download/)**
@@ -110,8 +115,6 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,6 +122,21 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-vr-comfort-mastery-top-10-strategies/"><u>[New] 2024 Approved VR Comfort Mastery Top 10 Strategies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-mac-capture-hacks-top-5-methods-reviewed/"><u>[New] Ultimate Mac Capture Hacks Top 5 Methods Reviewed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-prophotomaster-the-ai-enhanced-editing-edge/"><u>[Updated] ProPhotoMaster The AI-Enhanced Editing Edge</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-editors-deep-dive-into-pixelcut-pro-latest-features-in-review/"><u>2024 Approved Editor's Deep Dive Into PixelCut Pro - Latest Features in Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dive-into-the-most-effective-online-tools-your-guide-to-perfect-captions/"><u>Dive Into the Most Effective Online Tools Your Guide to Perfect Captions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-installation-problems-with-the-hcmon-system-driver/"><u>Fixing Installation Problems with the Hcmon System Driver</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/master-file-transfers-and-conversions-using-winx-mediatrans-ultimate-tutorial/"><u>Master File Transfers & Conversions Using WinX MediaTrans Ultimate Tutorial</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectifying-issues-with-wm11-sm-bus-drivers/"><u>Rectifying Issues with WM11 SM Bus Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-tutorial-fixing-the-absent-coprocessor-driver-issue-on-your-windows-10-pc/"><u>Step-by-Step Tutorial: Fixing the Absent Coprocessor Driver Issue on Your Windows 10 PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102275486-troubleshooting-guide-for-iphone-usb-device-connection-error-successful-solutions/"><u>Troubleshooting Guide for iPhone USB Device Connection Error - Successful Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-battleyfield-2042-continuous-crashes-on-windowsmacos-pcs/"><u>Troubleshooting Tips for Battleyfield 2042 Continuous Crashes on Windows/MacOS PCs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/understanding-igtv-from-basics-to-boosting-your-presence/"><u>Understanding IGTV From Basics, to Boosting Your Presence</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unwanted-bluetooth-stayin-fix-for-windows-11/"><u>Unwanted Bluetooth Stayin': Fix for Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721096790905-windows-10-gtx-950-code-43/"><u>Windows 10를 사용하는 GTX 950의 Code 43 오류를 해결하는 획기적인 공유</u></a></li>
+</ul></div>
 

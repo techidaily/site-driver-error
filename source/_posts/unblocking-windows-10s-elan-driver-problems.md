@@ -1,7 +1,7 @@
 ---
 title: Unblocking Windows 10'S Elan Driver Problems
-date: 2024-08-02T07:27:20.272Z
-updated: 2024-08-03T07:27:20.272Z
+date: 2024-12-11T21:02:25.379Z
+updated: 2024-12-16T02:41:39.147Z
 tags:
   - win11
   - win10
@@ -23,19 +23,17 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 [**2: Reinstall your drivers**](https://getlyla.pxf.io/ek9gkg)
 [**3: Stop automatic updates from Windows Update**](https://tinyland.pxf.io/org4ra)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1: Make sure your touchpad is enabled
 
  Some changes to your PC might automatically change your touchpad status to disable without informing you. You can set it back to enable status:
 
  1) On your keyboard, press the**Windows logo key** and**I** at the same time. Click **Devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-settings-devices.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Click **Mouse & touchpad,**  then click **Additional mouse options** .
 
@@ -48,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2: Reinstall your drivers
 
  Faulty drivers provided by Microsoft could be the reason why your touchpad stops working properly. To tackle this problem, you should reinstall the driver.
@@ -70,6 +69,14 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **3: Stop automatic updates from Windows Update**
 
  A faulty or buggy driver from Windows Update could be the cause of this problem. You can disable the automatic update via:
@@ -78,18 +85,16 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-clickyour computer icon and click **Device installation settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
 
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
@@ -100,8 +105,6 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,6 +112,22 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-hero-session-x-vs-polaroid-cube-the-ultimate-editing-showdown/"><u>[Updated] Hero Session X Vs. Polaroid Cube The Ultimate Editing Showdown</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-artistic-science-behind-youtube-live-imagery/"><u>[Updated] In 2024, The Artistic Science Behind YouTube Live Imagery</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-5-advanced-car-tracking-camera-systems/"><u>[Updated] In 2024, Top 5 Advanced Car Tracking Camera Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-15-free-audio-resources-for-youtube-clips-makers/"><u>[Updated] Top 15 FREE Audio Resources for YouTube Clips Makers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ideal-steps-for-silent-screen-imaging/"><u>2024 Approved Ideal Steps for Silent Screen Imaging</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-to-securing-photographic-backdrops/"><u>2024 Approved Ultimate Guide to Securing Photographic Backdrops</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-must-consider-elements-before-committing-to-your-next-gaming-device/"><u>5 Must-Consider Elements Before Committing to Your Next Gaming Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/critical-guide-preparing-to-embrace-the-apple-world/"><u>Critical Guide: Preparing to Embrace the Apple World</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-and-solving-the-code-43-problem-for-your-nvidia-geforce-gtx-950-in-windows-11-environment/"><u>Decoding and Solving the 'Code 43' Problem for Your Nvidia GeForce GTX 950 in Windows 11 Environment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-non-detectable-external-drives-and-usb-gadgets-on-windows-systems/"><u>Fixing Non-Detectable External Drives and USB Gadgets on Windows Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-initialization-no-more-trouble/"><u>Hardware Initialization, No More Trouble</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-link-unifying-hub-with-new-oses-successfully/"><u>How to Link Unifying Hub with New OSes Successfully</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oppo-find-n3-flip-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Oppo Find N3 Flip Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-for-resolving-non-loading-of-enex-drivers-on-windows-11/"><u>Steps for Resolving Non-Loading of eNEX Drivers on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-to-restore-failed-enex-driver-loading-in-windows-11/"><u>Steps to Restore Failed eNEX Driver Loading in Windows 11</u></a></li>
+</ul></div>
 

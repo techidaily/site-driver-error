@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Getting Your Qualcomm Atheros Bluetooth Driver Working Again on Windows 11
-date: 2024-08-02T07:27:16.988Z
-updated: 2024-08-03T07:27:16.988Z
+date: 2024-12-13T17:59:58.475Z
+updated: 2024-12-16T03:08:38.768Z
 tags:
   - win11
   - win10
@@ -36,18 +36,6 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
  Then choose**Update history** .
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878514d080da.jpg)
   
  Scroll down to see if you can find the**KB3061161** . It should be a rather old update, so it might cost you some time to locate.
@@ -62,9 +50,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
  1) Go to the support website of the manufacture of your PC. We are using**ASUS** as an example. Then locate the support page of your PC by entering the model of your product.
   
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587854520d556.jpg)
 
 2) Then go to drivers section. (The name of the section could be different on different manufacturers’ websites.) You will be asked to select what operating system that you are using (we are going**Windows 10 64-bit**), and then a list of device drivers will be shown. Scroll down a little to choose**Qualcomm Atheros Bluetooth**driver under Bluetooth category. Then hit the**Global**button to get it downloaded.
@@ -121,9 +106,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 6) Un-tick the box for **Show compatible hardware** . Then you should be able to see **Qualcomm Atheros** driver option on the left. On the right, choose one of the drivers listed. We go with**Qualcomm Atheros AR3011 Bluetooth 3.0** . You need to try them one by one by yourself to select the right one for your PC. When done picking, click**Next** to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787b0460727.png)
 
 7)Then follow the instructions on screen to get your Qualcomm Atheros Bluetooth drive installed.  
@@ -138,16 +120,10 @@ Why not have a try at [**Driver Easy**](https://tools.techidaily.com/drivereasy/
   
 Moreover, it is very easy to use. Just click the**Scan Now**button for**Driver Easy**to help you with the scan for missing or outdated drivers;
   
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  \\![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76e376da11.png)
 
 Then the**Update**button next to the driver you need to update.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76eb162d8c.jpg)
 
 That’s all.
@@ -167,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,6 +150,23 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-interactive-storytelling-vrs-entertainment-potential/"><u>[New] Interactive Storytelling VR's Entertainment Potential</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-chuckling-and-crying-on-the-same-ig-feed-top-memetic-pages/"><u>[Updated] Chuckling and Crying on the Same IG Feed Top Memetic Pages</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-screenshot-simplicity-compatible-free-capturing-apps-for-windows/"><u>[Updated] In 2024, Screenshot Simplicity Compatible Free Capturing Apps for Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-skys-biggest-load-carriers-drones-ranked/"><u>[Updated] Sky's Biggest Load Carriers Drones Ranked</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-softening-edges-strategic-lighting-for-content-creators/"><u>[Updated] Softening Edges Strategic Lighting for Content Creators</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-14-pro-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 14 Pro Max</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-the-windows-10-co-processor-driver-not-found-problem-with-ease-an-in-depth-guide/"><u>Solving the 'Windows 10 Co-Processor Driver Not Found' Problem with Ease: An In-Depth Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/techniques-to-overcome-enex-driver-launch-issue-in-win11/"><u>Techniques to Overcome eNEX Driver Launch Issue in Win11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-performance-issues-making-your-age-of-empires-4-gameplay-smoother/"><u>Troubleshooting Performance Issues: Making Your Age of Empires 4 Gameplay Smoother</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-turn-your-photos-into-funny-cartoons-online/"><u>Updated In 2024, Turn Your Photos Into Funny Cartoons Online</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-and-gtx-950-code-43-error-a-detailed-guide-to-finding-a-solution/"><u>Windows 11 and GTX 950 Code 43 Error: A Detailed Guide to Finding a Solution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/xbox-one-controller-unresponsive-to-windows-10-home-resolved/"><u>Xbox One Controller Unresponsive to Windows 10 Home [Resolved]</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

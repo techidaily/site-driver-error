@@ -1,7 +1,7 @@
 ---
 title: Discover Top-Tier Computer Specs with Tom's Hardware - Your Essential Gadget Companion
-date: 2024-12-06T22:41:51.736Z
-updated: 2024-12-09T22:06:58.753Z
+date: 2024-12-12T05:20:27.990Z
+updated: 2024-12-16T10:40:46.935Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,20 +66,19 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-ultimate-highlight-optimization-checklist-for-brands/"><u>[New] 2024 Approved The Ultimate Highlight Optimization Checklist for Brands</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-mastery-unleashed-top-10-no-cost-mac-painting-tools/"><u>[New] Mastery Unleashed Top 10 No-Cost Mac Painting Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-optimize-productivity-with-mematic-app/"><u>[New] Optimize Productivity with Mematic App</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-windows-11-100-disk-usage-in-task-manager/"><u>[SOLVED] Windows 11 100% Disk Usage in Task Manager</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-insiders-guide-to-premium-camera-lenses-in-4k-for-2024/"><u>[Updated] The Insider's Guide to Premium Camera Lenses in 4K for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-fixing-techniques-for-windows-11-users-expert-tips-and-tricks/"><u>GTX 950 'Code 43' Fixing Techniques for Windows 11 Users - Expert Tips & Tricks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hdr-audio-hub-fixed-complaint-addressed/"><u>HDR Audio Hub: Fixed Complaint Addressed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/idt-software-compatibility-issue-correcting-the-detected-hardware-is-not-supported-message/"><u>IDT Software Compatibility Issue: Correcting the Detected Hardware Is Not Supported Message</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-refine-your-recordings-the-art-of-sound-reduction/"><u>In 2024, Refine Your Recordings The Art of Sound Reduction</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-15-analysis-top-features-that-impress-even-seasoned-pros-a-comprehensive-guide/"><u>IPhone 15 Analysis: Top Features That Impress Even Seasoned Pros - A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/preventing-sm-bus-errors-in-windows-1011-devices/"><u>Preventing SM Bus Errors in Windows 10/11 Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/repair-steps-to-reactivate-spell-correction-in-your-outlook-email-client/"><u>Repair Steps to Reactivate Spell Correction in Your Outlook Email Client</u></a></li>
-<li><a href="https://driver-error.techidaily.com/stop-bluetooth-auto-connect-on-windows-10/"><u>Stop Bluetooth Auto-Connect on Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-ndis-troubleshooting-done-in-a-flash/"><u>Windows NDIS Troubleshooting, Done in a Flash</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wireless-mouse-setup-a-step-by-step-guide-for-pc-and-mac-users/"><u>Wireless Mouse Setup: A Step-by-Step Guide for PC and Mac Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rom-video-to-music-selecting-the-cheapest-online-converters-for-2024/"><u>[New] From Video to Music Selecting the Cheapest Online Converters for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-flexible-cam-mount-revolutionary-positioning-control-for-2024/"><u>[Updated] Flexible Cam Mount Revolutionary Positioning Control for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-simplifying-your-system-switch-from-sierra-to-os-x-1010-for-2024/"><u>[Updated] Simplifying Your System Switch From Sierra to OS X 10.10 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/digging-deep-into-windows-11-its-inner-workings-revealed/"><u>Digging Deep Into Windows 11: Its Inner Workings Revealed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-iphone-se-2022-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on iPhone SE (2022) Safe and Legal</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-iphone-usb-device-driver-problems-successful-guidance/"><u>Fixing iPhone USB Device Driver Problems - Successful Guidance</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-remove-unwanted-applications-and-system-tasks-expert-tips-from-yl-computing/"><u>How to Remove Unwanted Applications & System Tasks: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-driver-updates-on-the-hp-envy-2n-pc-series-a-user-friendly-guide/"><u>Mastering Driver Updates on the HP ENVY 2N PC Series - A User-Friendly Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/save-big-leading-discounts-on-computers-and-notebooks-this-year/"><u>Save Big: Leading Discounts on Computers and Notebooks This Year</u></a></li>
+<li><a href="https://driver-error.techidaily.com/sounds-clear-driver-issue-resolved-hidef/"><u>Sounds Clear: Driver Issue Resolved (HiDef)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-towards-a-reliable-nvidia-driver-setup/"><u>Steps Towards a Reliable Nvidia Driver Setup</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-smart-approach-to-video-marketing-for-smbs/"><u>The SMART Approach to Video Marketing for SMBs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-and-resolve-unrecognized-devices-on-windows-11-8-and-e/"><u>Troubleshoot and Resolve Unrecognized Devices on Windows 11, 8 & E</u></a></li>
 </ul></div>
 

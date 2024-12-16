@@ -1,7 +1,7 @@
 ---
 title: Solved Driver Support Failure for Intel & AMD in Premier Pro
-date: 2024-08-02T07:27:15.458Z
-updated: 2024-08-03T07:27:15.458Z
+date: 2024-12-11T03:45:58.438Z
+updated: 2024-12-16T00:37:13.377Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 
 ## Solved Driver Support Failure for Intel & AMD in Premier Pro
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-25_10-45-14.png)
 
  Getting the “Unsupported Video Driver” error when you’re launching Adobe Premiere Pro and the program just crashes at startup? This is a quite common error and also an easy one to fix. Read on and find out how to solve the problem right away.
@@ -26,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 
  The “Unsupported Video Driver” error message suggests that your current graphics driver is not compatible with Premiere Pro. An outdated or faulty video driver could cause this problem. Or, in some cases, Premiere Pro fails to recognize your driver which is actually functional and thus triggers the error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
 [1: Update your video driver](https://ukaidot.sjv.io/daqnoj)
@@ -33,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 [2: Update Premiere Pro](https://ukaidot.sjv.io/daqnoj)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Update your video driver
 
  There are two ways to update your video driver: Automatically (recommended!) and manually.
@@ -47,11 +49,16 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged video driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -64,11 +71,13 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 
 1. Press the**Windows key** and**R** on your keyboard to invoke the Run box.
 2. Type in**dxdiag** , then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Run-dxdiag.jpg)
 3. Click**Display** (I have two monitors so it’s shown as Display 1.) You’ll find your graphics card information here. Mark down the**name** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-25_15-01-41.png)
 4. Go to the official sites and search for your video driver. Make sure you download only the driver that’s compatible with your Windows version.  
 
@@ -82,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 
  After you install the latest video driver, restart your PC and test if Premiere Pro still shows you the error message. If the problem persists, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Update Premiere Pro
 
  If your driver is up-to-date but you still get the “Unsupported Video Driver” error, you may need to update your Premiere Pro. New Adobe updates usually fix known bugs and may release new features that are compatible with the latest driver, so it may solve the “Unsupported Video Driver” error.
@@ -104,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,6 +117,21 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-red-zones-best-unraveling-zombie-gaming-delights/"><u>[Updated] In 2024, The Red Zone's Best Unraveling Zombie Gaming Delights</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-liberating-video-files-free-mp4-and-hd-from-facebook-posts-for-2024/"><u>[Updated] Liberating Video Files Free MP4 & HD From Facebook Posts for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweetbite-download-twitter-vids-with-mobile-app/"><u>2024 Approved TweetBite Download Twitter Vids with Mobile App</u></a></li>
+<li><a href="https://driver-error.techidaily.com/heal-tcpip-configuration-fault-latitude-laptop/"><u>Heal TCP/IP Configuration Fault, Latitude Laptop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-repair-your-qualcomm-atheros-bluetooth-driver-problems-with-windows-11-easily/"><u>How to Repair Your Qualcomm Atheros Bluetooth Driver Problems with Windows 11 Easily</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-x-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone X</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-safe-mode-boot-and-graphics-card-driver-removal-techniques-for-windows-8-systems/"><u>Mastering Safe Mode Boot & Graphics Card Driver Removal Techniques for Windows 8 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104594806-no-more-frustration-quickly-fix-driver-not-available-for-itbm/"><u>No More Frustration – Quickly Fix 'Driver Not Available' For ITBM!</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-nokia-g310-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Nokia G310 Black and White | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/scalable-skills-for-versatile-gif-production-techniques/"><u>Scalable Skills for Versatile GIF Production Techniques</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-2-tips-voor-de-vaste-maatstaf-van-formateerd-xqd-plaat-oprichtigheid-en-duurzaamheid/"><u>Top 2 Tips Voor De Vaste Maatstaf Van Formateerd XQD-Plaat: Oprichtigheid En Duurzaamheid</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/understanding-the-differences-apples-gps-vs-cellular-enhanced-smartwatches/"><u>Understanding the Differences: Apple's GPS Vs. Cellular Enhanced Smartwatches</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win10-troubleshooting-a-complete-look-at-asus-acpi/"><u>Win10 Troubleshooting: A Complete Look at Asus ACPI</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-and-lenovo-blue-tooth-harmony-achieved/"><u>Win11 & Lenovo Blue-Tooth Harmony Achieved!</u></a></li>
+</ul></div>
 

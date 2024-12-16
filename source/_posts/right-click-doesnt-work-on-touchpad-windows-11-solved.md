@@ -1,7 +1,7 @@
 ---
 title: Right Click Doesn't Work on Touchpad Windows 11 [Solved]
-date: 2024-08-02T07:27:13.910Z
-updated: 2024-08-03T07:27:13.910Z
+date: 2024-12-14T16:40:57.400Z
+updated: 2024-12-16T01:02:47.572Z
 tags:
   - win11
   - win10
@@ -32,16 +32,18 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 1: Enable your touchpad**
 
  1) Click**Start** button, and then choose**Settings** . Then choose**Devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c8131acdae.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the left side of the pane, choose**Mouse & touchpad** . Then scroll down to the bottom of the screen and click**Additional mouse options** .
 
@@ -51,16 +53,21 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the option you see here is**Device Settings** , check to see if the the Touchpad is enabled. If not, you need to press the**Settings** button to change the status to**Enabled** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c853d19a3d.png)
 
  4) You should also check to see if there is a function key that enables or disables the touchpad. On some laptop, this key is **F6** , or the combination of **Fn+F5** , or **Fn+F6**  . The icons looks like a tiny touchpad with a diagonal line through it. You should check your manual to see which key or keys could be at fault.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Check your touchpad setting
 
@@ -77,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 3: Reinstall**   **your driver**
 
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
@@ -85,10 +96,11 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
 
  2) Locate and expand the option**Mice and other pointing devices** . Then right click your touchpad drive. (Mine is called **Synaptics Pointing Device** , yours could be different.)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/synaptics-pointing-device.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Then go to**Driver** tab, choose**Uninstall** option.
 
@@ -97,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
  4) Confirm the uninstall of your touchpad driver by ticking the box of **Delete the driver software to uninstall this device from your system** . Then check**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/delete-the-driver-software-to-uninstall-this-device-from-your-system.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) When the uninstall completes, restart your computer. Windows should help you automatically install the latest version of the driver it could find. See if your problem solved after the reinstall. If not, please follow the third option below.
 
@@ -124,9 +140,6 @@ There’re mainly 2 ways for you to update your driver:
 
 3) Then go to **Driver** tab, choose **Update Driver…**  option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c89a864856.png)
 
  4) Windows will start helping you find the latest version of touchpad driver that it could find. But if you see the notification like the following one:
@@ -172,8 +185,6 @@ You might need to search for the driver by yourself on the Internet.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,6 +192,19 @@ You might need to search for the driver by yourself on the Internet.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-from-stills-to-motion-creating-engaging-timelapse-videos-on-ipad-for-2024/"><u>[New] From Stills to Motion Creating Engaging Timelapse Videos on iPad for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-streamlining-video-production-mastering-the-use-of-obs-and-zoom/"><u>[Updated] Streamlining Video Production Mastering the Use of OBS & Zoom</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-the-complete-guide-to-tweeting-visual-content-in-form-of-customized-gifs/"><u>[Updated] The Complete Guide to Tweeting Visual Content in Form of Customized GIFS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-how-to-make-youtube-video-the-ultimate-guide/"><u>2024 Approved How to Make YouTube Video The Ultimate Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-adb-connection-gone-wrong-in-osx/"><u>Fix ADB Connection Gone Wrong in OSX</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-missing-touchpad-driver-issue/"><u>Fixing the Missing Touchpad Driver Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-idt-high-definition-audio-codec-driver-problem/"><u>How to Fix IDT High Definition Audio CODEC Driver Problem</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-iphone-15-pro-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On iPhone 15 Pro Online</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-12-proplus-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 12 Pro+ 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mouse-lags-freezes-stutters-in-windows-10-fixed/"><u>Mouse Lags, Freezes, Stutters in Windows 10 [Fixed]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-file-management-windows-11s-auto-transfer-trick/"><u>Streamlining File Management: Windows 11'S Auto-Transfer Trick</u></a></li>
+</ul></div>
 

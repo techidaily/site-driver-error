@@ -1,7 +1,7 @@
 ---
 title: Resolving Windows 10 Gesture Gone Wrong with Elan
-date: 2024-08-02T07:27:12.283Z
-updated: 2024-08-03T07:27:12.283Z
+date: 2024-12-13T04:53:36.971Z
+updated: 2024-12-16T03:30:00.329Z
 tags:
   - win11
   - win10
@@ -23,32 +23,39 @@ thumbnail: https://thmb.techidaily.com/c923509aabb39b0eb7c18cacb723349038dd49742
 [**2: Reinstall your drivers**](https://getlyla.pxf.io/ek9gkg)
 [**3: Stop automatic updates from Windows Update**](https://tinyland.pxf.io/org4ra)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1: Make sure your touchpad is enabled
 
  Some changes to your PC might automatically change your touchpad status to disable without informing you. You can set it back to enable status:
 
  1) On your keyboard, press the**Windows logo key** and**I** at the same time. Click **Devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-settings-devices.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Click **Mouse & touchpad,**  then click **Additional mouse options** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/additional-mouse-options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the furthest right option (the option could be **Device Settings** or **ELAN**), and make sure your touchpad is enabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2: Reinstall your drivers
 
@@ -70,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/c923509aabb39b0eb7c18cacb723349038dd49742
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **3: Stop automatic updates from Windows Update**
 
  A faulty or buggy driver from Windows Update could be the cause of this problem. You can disable the automatic update via:
@@ -83,14 +87,15 @@ thumbnail: https://thmb.techidaily.com/c923509aabb39b0eb7c18cacb723349038dd49742
 
  2) Right-clickyour computer icon and click **Device installation settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
 
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
 
@@ -100,8 +105,6 @@ thumbnail: https://thmb.techidaily.com/c923509aabb39b0eb7c18cacb723349038dd49742
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,6 +112,23 @@ thumbnail: https://thmb.techidaily.com/c923509aabb39b0eb7c18cacb723349038dd49742
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-navigating-color-grading-a-look-at-luts-significance/"><u>[New] 2024 Approved Navigating Color Grading A Look at LUT's Significance</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-luminous-leadership-elevating-content-through-insta-hits/"><u>[New] In 2024, Luminous Leadership Elevating Content Through Insta Hits</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-best-budget-friendly-ticking-clocks-online/"><u>[Updated] Best Budget-Friendly Ticking Clocks Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-ringtune-guide-downloading-and-cutting-tamil-melodies/"><u>2024 Approved RingTune Guide Downloading and Cutting Tamil Melodies</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-c51-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme C51 FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-xiaomi-redmi-k70-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Xiaomi Redmi K70 FRP Bypass Instantly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ax201-unresponsive-to-wi-fi-6-networks-now-fixed/"><u>Ax201 Unresponsive to Wi-Fi 6 Networks, Now Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103291054-bypass-the-frustrating-itbm-driver-not-available-message-quick-and-effective-fixes-inside/"><u>Bypass the Frustrating 'ITBM Driver Not Available' Message – Quick and Effective Fixes Inside!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/charting-course-out-of-drivers-dilemma-52/"><u>Charting Course Out of Driver's Dilemma #52</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-and-redirect-http-to-https-using-nginx/"><u>Convert and Redirect Http to Https Using Nginx</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dealing-with-unauthorized-access-issues-in-usb-device-setup-and-configuration/"><u>Dealing with Unauthorized Access Issues in USB Device Setup and Configuration</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-card-shows-as-microsoft-basic-display-adapter-solved/"><u>Graphics Card Shows as Microsoft Basic Display Adapter [Solved]</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimize-media-consumption-with-picture-in-progress-screen-chrome/"><u>In 2024, Optimize Media Consumption with Picture In Progress Screen Chrome</u></a></li>
+<li><a href="https://driver-error.techidaily.com/innovations-to-overcome-drivers-misstep-52/"><u>Innovations to Overcome Driver's Misstep #52</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a14-4g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A14 4G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721101406254-troubleshooting-and-installing-missing-drivers-for-your-device-on-windows-operating-systems-11-8-and-aturdays-a-comprehensive-guide/"><u>Troubleshooting and Installing Missing Drivers for Your Device on Windows Operating Systems (11, 8 & Aturdays) - A Comprehensive Guide</u></a></li>
+</ul></div>
 

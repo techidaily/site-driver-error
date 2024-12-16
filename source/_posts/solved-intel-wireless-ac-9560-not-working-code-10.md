@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Intel Wireless-AC 9560 Not Working (Code 10)"
-date: 2024-08-02T07:25:35.987Z
-updated: 2024-08-03T07:25:35.987Z
+date: 2024-12-14T06:24:29.328Z
+updated: 2024-12-16T00:24:18.860Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/88c6b83c6e65598f301ec5b1e8fb9b13fd16a0c81
 4. **[Reinstall the AC-9560 drivers](https://25home.pxf.io/vnbxnv)**
 5. **[Turn on WLAN AutoConfig service](https://uperfect.sjv.io/g1jgba)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check if your system is corrupted
 
  The issue could indicate that your system is corrupted or misconfigured. You can follow [this guide](https://support.microsoft.com/en-us/topic/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system-files-79aa86cb-ca52-166a-92a3-966e85d4094e) by Microsoft to scan for system issues manually. But if you don’t have the time or skills to do it yourself, you can give **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  a try. It’s a system repair kit that detects and fixes corrupted system files without losing any settings or data.
@@ -35,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/88c6b83c6e65598f301ec5b1e8fb9b13fd16a0c81
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -50,10 +51,11 @@ thumbnail: https://thmb.techidaily.com/88c6b83c6e65598f301ec5b1e8fb9b13fd16a0c81
 
 The switch may look like the following:
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f17e7c46827.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f17ebaccb9a.jpg)
 
@@ -83,13 +85,15 @@ If this trick doesn’t give you luck, take a look at the next one.
 First you need to uninstall the driver:
 
 1. On your keyboard, press**Win+X** (the Windows key and the X key) to open the WinX menu. Then select**Device Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/winx-menu-device-manager.jpg)
 2. Double click**Network adapters** to expand the node. Then right click**Intel(R) Wireless-AC 9560** and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/reinstall-9560-1.jpg)
 3. Select the box in front of**Delete the driver software for this device** . Then click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/reinstall-9560-2.jpg)
 4. Now restart your computer.
 
@@ -103,20 +107,23 @@ First you need to uninstall the driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/9560-de-update.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  Once you’ve installed the latest AC-9560 driver, restart your PC for the changes to apply.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Turn on WLAN AutoConfig service
 
@@ -127,8 +134,18 @@ Here’s how you can check:
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the**Run** dialog. Then type or paste**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-box-services-msc.jpg)
 2. Find a service named**WLAN AutoConfig** . Right click and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/wlan-autoconfig-properties-1.jpg)
 3. Make sure**Startup type** is set to**Automatic** . And**Service status** is**Running** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/wlan-autoconfig-properties-2.jpg)
 
 ---
@@ -141,8 +158,6 @@ Here’s how you can check:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,6 +165,17 @@ Here’s how you can check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-a-beginners-guide-to-profitable-animated-advertising-in-facebook/"><u>[New] 2024 Approved A Beginner's Guide to Profitable Animated Advertising in Facebook</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ce-your-shots-top-cameras-and-lenses-for-youtubers-for-2024/"><u>[New] Ace Your Shots Top Cameras & Lenses for YouTubers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-content-that-captivates-easy-to-try-videos/"><u>2024 Approved Crafting Content That Captivates Easy-to-Try Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-data-acquisitions-failure/"><u>Addressing Data Acquisitions Failure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-jest-dynamics-by-ai-potential-for-laughter/"><u>Digital Jest Dynamics by AI: Potential for Laughter?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-code-error-1-detailed-guide-on-proper-configuration-of-your-device/"><u>Fixing Code Error 1: Detailed Guide on Proper Configuration of Your Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-the-magic-of-bluetech-with-this-quick-guide-fixed-bluescreen-issue-for-latest-os-update-guide-inside/"><u>Restore The Magic of BlueTech With This Quick Guide- Fixed Bluescreen Issue for Latest OS Update [Guide Inside!]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-journey-of-usb-composite-devices-from-old-to-revolutionary-technology/"><u>The Journey of USB Composite Devices: From Old to Revolutionary Technology</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/thriving-in-the-economy-of-youtube-shorts-the-ultimate-guide-for-2024/"><u>Thriving in the Economy of YouTube Shorts – The Ultimate Guide for 2024</u></a></li>
+</ul></div>
 

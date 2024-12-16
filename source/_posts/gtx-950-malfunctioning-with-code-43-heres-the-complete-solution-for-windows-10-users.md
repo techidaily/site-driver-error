@@ -1,7 +1,7 @@
 ---
 title: GTX 950 Malfunctioning with Code 43? Here's the Complete Solution for Windows 10 Users
-date: 2024-08-02T07:25:25.101Z
-updated: 2024-08-03T07:25:25.101Z
+date: 2024-12-11T22:24:25.486Z
+updated: 2024-12-16T09:07:26.318Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/011cd437a5e5d10d41a78dcfee8a0e614c88ee22e
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** .
@@ -55,18 +59,12 @@ thumbnail: https://thmb.techidaily.com/011cd437a5e5d10d41a78dcfee8a0e614c88ee22e
 
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg)
 
  4) Wait for the process to finish, and your PC will restart in normal mode.
 
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png)
 
  Then follow the on-screen instructions to get the driver downloaded.
@@ -83,36 +81,43 @@ thumbnail: https://thmb.techidaily.com/011cd437a5e5d10d41a78dcfee8a0e614c88ee22e
 
  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
 
 ## **Option 2: Update Windows 10**
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** .
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click the**Check for updates** button to see if there are any new updates available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) If new updates are available, just download and then update them as instructed.
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -141,8 +146,6 @@ thumbnail: https://thmb.techidaily.com/011cd437a5e5d10d41a78dcfee8a0e614c88ee22e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,6 +153,24 @@ thumbnail: https://thmb.techidaily.com/011cd437a5e5d10d41a78dcfee8a0e614c88ee22e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-maximizing-impact-with-instagrams-top-marketing-tactics/"><u>[Updated] 2024 Approved Maximizing Impact with Instagram's Top Marketing Tactics</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-engaging-viewers-with-unique-square-videography-techniques/"><u>[Updated] Engaging Viewers with Unique Square Videography Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-peering-behind-the-scenes-of-youtube-reviews/"><u>[Updated] Peering Behind the Scenes of YouTube Reviews</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-becoming-an-exemplary-conductor-of-candidate-assessments/"><u>2024 Approved Becoming An Exemplary Conductor of Candidate Assessments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-webcam-seamless-integration-with-windows-10-os/"><u>ASUS Webcam Seamless Integration with Windows 10 OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bcm20702a0-non-operational-driver-detected/"><u>BCM20702A0 Non-Operational Driver Detected</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-ranked-5-mobile-backdrop-change-applications-iphone-x78-for-2024/"><u>Best-Ranked 5 Mobile Backdrop Change Applications (iPhone X/7/8) for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210966189-9781088228791-episodio-en-la-vida-de-tiberius/"><u>Episodio en la Vida de Tiberius | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hd-audio-mastery-on-windows-11/"><u>HD Audio Mastery on Windows 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-green-canvas-essential-templates-to-enhance-your-cinematographic-journey/"><u>In 2024, Green Canvas Essential Templates to Enhance Your Cinematographic Journey</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fixes-for-when-you-encounter-an-itbm-driver-missing-error/"><u>Quick Fixes for When You Encounter an ITBM Driver Missing Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-to-driver-problems-in-windows-11-8-or-7-get-your-devices-working-now/"><u>Step-by-Step Solution to Driver Problems in Windows 11, 8 or 7 – Get Your Devices Working Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stop-amd-crashing-easy-driver-repair/"><u>Stop AMD Crashing: Easy Driver Repair</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-fixes-bluetooth-radios-on-windows-resolved/"><u>Swift Fixes: Bluetooth Radios on Windows Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-driver-errors-for-optimal-device-performance-in-windows-versions/"><u>Troubleshooting Driver Errors for Optimal Device Performance in Windows Versions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y78t | Dr.fone</u></a></li>
+</ul></div>
 

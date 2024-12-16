@@ -1,7 +1,7 @@
 ---
 title: "Win11 Touchpad Glitches: Resolved Quickly"
-date: 2024-12-02T16:35:11.161Z
-updated: 2024-12-10T06:21:05.729Z
+date: 2024-12-13T18:08:28.920Z
+updated: 2024-12-16T08:12:12.165Z
 tags:
   - win11
   - win10
@@ -31,27 +31,23 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-settings-devices.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Click **Mouse & touchpad,**  then click **Additional mouse options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/additional-mouse-options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the furthest right option (the option could be **Device Settings** or **ELAN**), and make sure your touchpad is enabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2: Reinstall your drivers
 
@@ -73,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **3: Stop automatic updates from Windows Update**
 
  A faulty or buggy driver from Windows Update could be the cause of this problem. You can disable the automatic update via:
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Right-clickyour computer icon and click **Device installation settings** .
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
@@ -114,18 +114,21 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-navigating-subtitle-files-like-a-pro-in-macos/"><u>[New] 2024 Approved Navigating Subtitle Files Like a Pro in macOS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-silent-illumination-issue-asus/"><u>[RESOLVED] Silent Illumination Issue - Asus</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-start-a-successful-youtube-gaming-channel/"><u>[Updated] 2024 Approved How to Start a Successful YouTube Gaming Channel</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-art-of-editing-crafting-your-youtube-story-with-precision/"><u>[Updated] 2024 Approved The Art of Editing Crafting Your YouTube Story with Precision</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-solution-to-overcome-nvidia-gtx-950-code-43-problems-in-windows-11/"><u>Expert Solution to Overcome NVIDIA GTX 950 'Code 43' Problems in Windows 11</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/gain-popularity-power-secrets-to-staff-picked-videos-on-vimeo/"><u>Gain Popularity Power Secrets to Staff-Picked Videos on Vimeo</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-realme-c33-2023-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Realme C33 2023 by Name | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-the-reboot-of-radeon-wattman-for-optimal-performance-and-stability/"><u>Mastering the Reboot of Radeon Wattman for Optimal Performance and Stability</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/snapping-secrets-the-invisible-way-to-save-messages-from-snapchat/"><u>Snapping Secrets: The Invisible Way to Save Messages From Snapchat</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-lack-of-driver-integration-with-amd-and-intel-video-in-premiere-pro/"><u>Solved: Lack of Driver Integration with AMD & Intel Video in Premiere Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-straight-line-distortions-on-samsung-televisions/"><u>Step-by-Step Guide: Resolving Straight Line Distortions on Samsung Televisions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unwanted-bsod-windows-11-irql-resolution/"><u>Unwanted [BSOD]: Windows 11 Irql Resolution</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-10-kb-issues-detected/"><u>Win 10 KB Issues Detected</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-uncomplicated-approaches-to-saving-gameplay/"><u>[Updated] 2024 Approved Uncomplicated Approaches to Saving Gameplay</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-efficient-flow-of-content-tiktok-to-your-fb-profile/"><u>[Updated] In 2024, The Efficient Flow of Content TikTok to Your FB Profile</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-hot-30i-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Hot 30i</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-critique-on-star-wars-squadrons-a-deep-dive-into-epic-galactic-fights/"><u>Expert Critique on Star Wars: Squadrons – A Deep Dive Into Epic Galactic Fights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/harmonize-dell-touchpad-in-win7/"><u>Harmonize Dell Touchpad in Win7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-repair-your-windows-windows-11-bluetooth-connection-fixing-qualcomm-atheros-drivers/"><u>How to Repair Your Windows ([Windows) 11 Bluetooth Connection: Fixing Qualcomm Atheros Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-not-working-solved/"><u>HP Wireless Keyboard Not Working [Solved]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-storm-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-innovators-defining-the-future-of-virtual-realms/"><u>In 2024, Innovators Defining the Future of Virtual Realms</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-xs-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone XS Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/learn-to-conduct-zoom-webinars-a-newbies-blueprint/"><u>Learn to Conduct Zoom Webinars A Newbie's Blueprint</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-enex-driver-loading-problems-in-win11/"><u>Overcoming eNEX Driver Loading Problems in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-and-windows-11-effective-solutions-for-faulty-bluetooth-drivers/"><u>Qualcomm Atheros & Windows 11: Effective Solutions for Faulty Bluetooth Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-for-detected-hardware-not-compatible-with-current-device-management-suite/"><u>Solution for 'Detected Hardware Not Compatible with Current Device Management Suite'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-bsod-error-0x0000007e-on-microsofts-windows-7/"><u>Step-by-Step Solution for BSOD Error 0X0000007E on Microsoft's Windows 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/up-to-date-driver-support-for-your-hp-deskjet-3700-printer/"><u>Up-to-Date Driver Support for Your HP DeskJet 3700 Printer</u></a></li>
 </ul></div>
 

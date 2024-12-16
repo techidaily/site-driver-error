@@ -1,7 +1,7 @@
 ---
 title: Windows Hello Isn't Available on This Device on Windows 10 [Solved]
-date: 2024-08-02T07:25:15.559Z
-updated: 2024-08-03T07:25:15.559Z
+date: 2024-12-09T21:41:34.279Z
+updated: 2024-12-15T19:19:28.392Z
 tags:
   - win11
   - win10
@@ -19,14 +19,15 @@ thumbnail: https://thmb.techidaily.com/0fffdaf6b0345d8277ec9fafebd3429c28f703cd8
 
  If you’re having “**Windows Hello isn’t available on this device.** ” in your **Settings** windows, you’re not alone. Many Windows 10 users are reporting this problem as well. No worries, it’s possible to fix. Here is the 3-step fixes for you to fix your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **What is Windows Hello?**
 
 **Windows Hello** allows you to login into your system by recognizing your fingerprint or your face or your iris (like Surface) rather than using a pin code or a password, provided that you have a webcam and a finger scanner that work.  
   
  With Windows 10 Anniversary Update, this feature has extended to apps and websites, which include banking apps and other sensitive apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **How do I fix it?**
 
@@ -41,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/0fffdaf6b0345d8277ec9fafebd3429c28f703cd8
 
  1) On your keyboard, press the**Windows logo key** and**I** at the same time. Click **Update & security** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b4ea4caaadc.jpg)
   
  2) Click the**Check for updates** button. Install available updates found.
@@ -58,23 +56,30 @@ When you finish, move on to the second step.
 
  1) On your keyboard, press **the Windows logo key** and**R** at the same time, then type **gpedit.msc** and press **Enter** .
   
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b4f84461830.png)
   
  2) Follow the path: **Computer Configuration > Administrative Templates > Windows Components** . On the right side of the pane, double-click **Allow the use of biometrics** .  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b4f93772ff1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Enabled** . Then click**Apply** and**OK** to save the change.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b4fbb725f87.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Reboot your computer and then move on to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step 3: Update Your Fingerprint Device Driver**
 
@@ -90,10 +95,11 @@ When you finish, move on to the second step.
 
  3) Expand**Biometric devices** . Right-click the fingerprint sensor device that you have and click **Uninstall** .
   
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b4f1b295d04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) You can choose to reboot your computer for Windows to help you locate the driver that it could find for your device.  
   
@@ -125,8 +131,6 @@ When you finish, move on to the second step.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,6 +138,23 @@ When you finish, move on to the second step.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-visionaryvideoeditor-thorough-breakdown-and-opinions/"><u>[New] 2024 Approved VisionaryVideoEditor Thorough Breakdown & Opinions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-waterproof-accessories-for-outdoor-filming-for-2024/"><u>[New] Waterproof Accessories for Outdoor Filming for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-get-real-with-your-logitech-webcam-recording/"><u>[Updated] In 2024, Get Real with Your Logitech Webcam Recording</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-making-your-slides-come-alive-with-youtube-in-ppt/"><u>2024 Approved Making Your Slides Come Alive with YouTube in PPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-f1-2020s-pc-crashes-tips-and-solutions-to-keep-your-race-running-uninterrupted/"><u>Conquering F1 2020'S PC Crashes: Tips and Solutions to Keep Your Race Running Uninterrupted</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craft-your-content-uniquely-with-openais-tailored-gpt/"><u>Craft Your Content Uniquely with OpenAI’s Tailored GPT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-install-latest-drivers-on-your-hp-envy-151720-laptop/"><u>Easy Steps: Install Latest Drivers on Your HP ENVY 15/17/20 Laptop</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/eight-crucial-tips-for-making-an-informed-tablet-buying-decision/"><u>Eight Crucial Tips for Making an Informed Tablet Buying Decision</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphical-interrupt-blocked-by-os-win11/"><u>Graphical Interrupt Blocked by OS Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-illustration-of-ms-bda/"><u>Graphics Illustration of MS BDA</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-identify-and-fix-missing-seagate-hd-on-pc/"><u>How To Identify & Fix Missing Seagate HD on PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-6s-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone 6s? | Stellar</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solutions-for-handling-unrecognized-hardware-messages-by-idt-software-products/"><u>Solutions for Handling Unrecognized Hardware Messages by IDT Software Products</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-updating-and-downloading-drivers-for-your-hp-envy-m6-spectre-x360/"><u>Step-by-Step Guide: Updating and Downloading Drivers for Your HP ENVY M6 Spectre X360</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-broken-widgets-on-ios-devices-10-easy-fixes/"><u>Troubleshoot Broken Widgets on iOS Devices: 10 Easy Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/what-to-do-when-dolby-pro-logic-iix-doesnt-work-on-windows-resolved/"><u>What to Do When Dolby Pro Logic IIx Doesn't Work on Windows? - Resolved</u></a></li>
+</ul></div>
 

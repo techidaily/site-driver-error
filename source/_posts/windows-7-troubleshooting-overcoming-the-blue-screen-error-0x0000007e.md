@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Troubleshooting: Overcoming the Blue Screen Error 0X0000007E"
-date: 2024-08-02T07:26:03.302Z
-updated: 2024-08-03T07:26:03.302Z
+date: 2024-12-09T21:14:09.113Z
+updated: 2024-12-15T17:05:25.407Z
 tags:
   - win11
   - win10
@@ -15,18 +15,6 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
 ## Windows 7 Troubleshooting: Overcoming the Blue Screen Error 0X0000007E
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb5165ee5b3.jpg)
 
  If you’re on Windows and you suddenly run into the blue screen of death error with the error code 0x0000007E, you’re not alone. Many Windows 7 users are reporting this problem as well. But no worries, it’s possible to fix, however dreadful the blue screen may look like.
@@ -41,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 **IMPORTANT** :  You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, reboot your computer into [safe mode](https://tools.techidaily.com/drivereasy/download/) , then try these solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Remove unsafe or incompatible drivers
 
  This blue screen of death error is likely to be caused by unsafe or incompatible drivers.
@@ -63,17 +52,26 @@ See if this problem is resolved after the restart.
 
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a513e390723.png) and **R** key at the same time, then type **devmgmt.msc**  and press**Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb626dc93bd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Expand**Display adapters** . Right-click your current video adapter driver and click**Update Driver Software…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb62c2b9405.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Browse my computer for driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb6329bc1ce.jpg)
 
  4) Click**Let me pick from a list of device drivers on my computer** .
@@ -110,10 +108,11 @@ See if this problem is resolved after the restart.
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb6be24f873.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged video device to automatically download and install the correct version of its driver (you can do this with the FREE version).
 
@@ -135,9 +134,6 @@ See if this problem is resolved after the restart.
 
  3) Change the current option to**AHCI** . Then save an exit. Reboot your PC into normal mode.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb6c5780af2.jpg)
 
 4) See if the problem is resolved.
@@ -153,8 +149,6 @@ See if this problem is resolved after the restart.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,6 +156,20 @@ See if this problem is resolved after the restart.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-compreenasian-guide-to-beautiful-collage-making/"><u>[New] Compreenasian Guide to Beautiful Collage Making</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-perfect-slideshow-software-for-iphone-fi-and-pro-max/"><u>[New] Perfect Slideshow Software For iPhone Fi & Pro Max</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-tales-the-top-storytelling-channels-on-yt-this-year/"><u>2024 Approved Unraveling Tales The Top Storytelling Channels on YT This Year</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-no-cost-youtube-video-downloading-apps-for-windows-11-users/"><u>Best No-Cost YouTube Video Downloading Apps for Windows 11 Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-4-step-guide-for-converting-mxf-footage-to-sony-vegas-mp4-with-avchdhevc-encoding/"><u>Easy 4-Step Guide for Converting MXF Footage to Sony Vegas MP4 with AVCHD/HEVC Encoding</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hidef-audio-system-error-corrected/"><u>HiDef Audio System: Error Corrected</u></a></li>
+<li><a href="https://win11.techidaily.com/prodigy-preparation-must-haves-from-microsoft-store/"><u>Prodigy Preparation: Must-Haves From Microsoft Store</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pros-cons-ai-driven-creative-writing-tools/"><u>Pros, Cons: AI-Driven Creative Writing Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-guide-tackling-windows-10s-asus-drivers/"><u>Quick Guide: Tackling Windows 10'S Asus Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-steps-for-the-critical-bsod-error-0x0000007e-on-your-windows-7-pc/"><u>Solution Steps for the Critical BSOD Error 0X0000007E on Your Windows 7 PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-initialization-issues-with-battleye-service-and-overcoming-driver-loading-errors/"><u>Troubleshooting Guide: Fixing Initialization Issues with BattlEye Service and Overcoming Driver Loading Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-do-when-your-computer-says-winhttpdll-is-missing-an-expert-guide/"><u>What to Do When Your Computer Says Winhttp.dll Is Missing? An Expert Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-printer-drivers-found-and-fixed/"><u>Win Printer Drivers - Found & Fixed</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Windows 7 'Blue Screen with Stop Code 0X0000007E'
-date: 2024-08-02T07:25:50.680Z
-updated: 2024-08-03T07:25:50.680Z
+date: 2024-12-12T05:20:00.368Z
+updated: 2024-12-16T11:42:29.944Z
 tags:
   - win11
   - win10
@@ -48,39 +48,39 @@ See if this problem is resolved after the restart.
 
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a513e390723.png) and **R** key at the same time, then type **devmgmt.msc**  and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb626dc93bd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Expand**Display adapters** . Right-click your current video adapter driver and click**Update Driver Software…** .
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb62c2b9405.jpg)
 
  3) Click**Browse my computer for driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb6329bc1ce.jpg)
 
  4) Click**Let me pick from a list of device drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb63501b229.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Select the one that is different from what you saw earlier and click**Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb6386d89e3.jpg)
 
 6) Wait for the new adapter to be installed. Restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb63deddd2a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) See if the problem is resolved.
 
@@ -104,10 +104,11 @@ See if this problem is resolved after the restart.
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb6be24f873.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged video device to automatically download and install the correct version of its driver (you can do this with the FREE version).
 
@@ -131,6 +132,10 @@ See if this problem is resolved after the restart.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb6c5780af2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) See if the problem is resolved.
 
  If the same blue screen of death error keeps reoccurring and you are not sure how to deal with it, feel free to leave us comment and we will see what more we can do to help.
@@ -144,8 +149,6 @@ See if this problem is resolved after the restart.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,6 +156,22 @@ See if this problem is resolved after the restart.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-discovering-one-platform-play-in-apex-legends-without-cross-play-complications/"><u>[New] In 2024, Discovering One-Platform Play in Apex Legends Without Cross-Play Complications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-financial-lifeline-of-podcasting/"><u>[New] The Financial Lifeline of Podcasting</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-windows-11-discover-new-apps-and-games-now-for-2024/"><u>[Updated] Windows 11 Discover New Apps & Games Now for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unlock-creative-potential-strategic-use-of-strikethrough/"><u>2024 Approved Unlock Creative Potential Strategic Use of Strikethrough</u></a></li>
+<li><a href="https://driver-error.techidaily.com/freeze-free-fast-windows-11/"><u>Freeze-Free, Fast Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/getting-your-hp-wireless-keyboard-back-to-work-expert-fixes-and-advice/"><u>Getting Your HP Wireless Keyboard Back to Work: Expert Fixes and Advice</u></a></li>
+<li><a href="https://driver-error.techidaily.com/i-cant-locate-my-recently-updated-logitech-brio-webcam-heres-what-troubleshooting-steps-did-solved/"><u>I Can't Locate My Recently Updated Logitech Brio Webcam – Here’s What Troubleshooting Steps Did (Solved)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-unsupported-hardware-warnings-in-your-systems-integrated-development-tools/"><u>Resolving Unsupported Hardware Warnings in Your System's Integrated Development Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-hcmon-driver-not-installed-issues-a-step-by-step-guide/"><u>Solving 'HcMon Driver Not Installed' Issues - A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-intel-mlc-issues/"><u>Understanding Intel MLC Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-blocks-graphics-hardware-access-attempt/"><u>Win11 Blocks Graphics Hardware Access Attempt</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728475969262-7/"><u>データを安全に削除するためには7サイクル以上か?セキュリティ押さえ方法</u></a></li>
+</ul></div>
 

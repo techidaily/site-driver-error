@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Solving Qualcomm Atheros Bluetooth Driver Problems in Windows 11
-date: 2024-08-02T07:26:00.977Z
-updated: 2024-08-03T07:26:00.977Z
+date: 2024-12-12T18:18:31.025Z
+updated: 2024-12-16T06:14:47.954Z
 tags:
   - win11
   - win10
@@ -64,9 +64,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 4) Then locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Uninstall**.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878700f160fd.jpg)
 
 5) When prompted with the following notification, tick the box for**Delete the driver software for this device**and then hit**OK**to continue.
@@ -97,9 +94,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 3) Locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Update Driver Software**.
   
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878797a95615.png)
 
  4) Choose**Browse my computer for driver software** .
@@ -108,9 +102,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
  5) Choose **Let me pick from a list of the drivers on my computer** .
   
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787ac962e8f.jpg)
 
 6) Un-tick the box for **Show compatible hardware** . Then you should be able to see **Qualcomm Atheros** driver option on the left. On the right, choose one of the drivers listed. We go with**Qualcomm Atheros AR3011 Bluetooth 3.0** . You need to try them one by one by yourself to select the right one for your PC. When done picking, click**Next** to continue.
@@ -129,16 +120,10 @@ Why not have a try at [**Driver Easy**](https://tools.techidaily.com/drivereasy/
   
 Moreover, it is very easy to use. Just click the**Scan Now**button for**Driver Easy**to help you with the scan for missing or outdated drivers;
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  \\![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76e376da11.png)
 
 Then the**Update**button next to the driver you need to update.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e76eb162d8c.jpg)
 
 That’s all.
@@ -158,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +150,27 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-achieving-professional-screen-record-quality-on-your-hp-notebook/"><u>[New] Achieving Professional Screen Record Quality on Your HP Notebook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-prime-collection-of-effortless-phone-apps/"><u>[New] In 2024, Prime Collection of Effortless Phone Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-comprehensive-instructions-for-disposing-of-video-downloads-for-2024/"><u>[Updated] Comprehensive Instructions for Disposing of Video Downloads for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-maximize-communication-video-conferencing-tips-for-android/"><u>[Updated] Maximize Communication Video Conferencing Tips for Android</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013199964-destiny-2-pc-version-fixed-now-running-smoothly/"><u>Destiny 2 PC Version Fixed - Now Running Smoothly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-code-43-error-windows-has-stopped-this-device-because-it-has-reported-problems/"><u>Fix Code 43 Error: Windows Has Stopped This Device because It Has Reported Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-ninety-five-error-code-43-issue-solved-for-windows-eleven-enthusiasts/"><u>GTX Ninety-Five 'Error Code 43' Issue: Solved for Windows Eleven Enthusiasts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-imaging-devices-missing-in-windows-11/"><u>How To Fix Imaging Devices Missing in Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone 14 Pro Max If Youve Tried Everything</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-compilation-4-websites-for-ringtone-hunt/"><u>In 2024, The Ultimate Compilation 4 Websites for Ringtone Hunt</u></a></li>
+<li><a href="https://driver-error.techidaily.com/locating-opengl-drivers-within-intels-sdk/"><u>Locating OpenGL Drivers Within Intel's SDK</u></a></li>
+<li><a href="https://driver-error.techidaily.com/operating-system-keys-unresponsive/"><u>Operating System: Keys Unresponsive</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-steps-to-resolve-faulty-mtp-usb/"><u>Quick Steps to Resolve Faulty MTP USB</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-amd-radeon-wattman-malfunction-crashed-and-restored-expert-troubleshooting-guide/"><u>Resolving AMD Radeon Wattman Malfunction: Crashed and Restored - Expert Troubleshooting Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-xs-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone XS Max</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-8-best-professional-audio-editing-software-for-powerful-editing/"><u>Updated 2024 Approved 8 Best Professional Audio Editing Software for Powerful Editing</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

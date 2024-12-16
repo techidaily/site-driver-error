@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Fixing Qualcomm Atheros Bluetooth Connectivity on Windows 11"
-date: 2024-08-02T07:26:46.952Z
-updated: 2024-08-03T07:26:46.952Z
+date: 2024-12-13T23:07:41.435Z
+updated: 2024-12-15T18:02:09.314Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
  Scroll down to see if you can find the**KB3061161** . It should be a rather old update, so it might cost you some time to locate.
   
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587852a8ba348.jpg)
 
 If you don’t see such an update, don’t freak out, just go to Microsoft and get in downloaded and installed, and you will be fine.
@@ -77,9 +74,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 7) Now, go to the folder where you store the setup file of the Qualcomm Atheros Bluetooth driver, double the**setup file**and run the installation as instructed.
   
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587857485a0a6.png)
 
 8) When the install finishes, reboot your computer for the change to take effect.
@@ -96,9 +90,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
  2) When the download completes, press**Windows key** and**X** at the same time and choose**Device Manager** .
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878625e408ff.png)
 
 3) Locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Update Driver Software**.
@@ -107,9 +98,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
  4) Choose**Browse my computer for driver software** .
   
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787a96b276c.jpg)
 
  5) Choose **Let me pick from a list of the drivers on my computer** .
@@ -118,9 +106,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 6) Un-tick the box for **Show compatible hardware** . Then you should be able to see **Qualcomm Atheros** driver option on the left. On the right, choose one of the drivers listed. We go with**Qualcomm Atheros AR3011 Bluetooth 3.0** . You need to try them one by one by yourself to select the right one for your PC. When done picking, click**Next** to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787b0460727.png)
 
 7)Then follow the instructions on screen to get your Qualcomm Atheros Bluetooth drive installed.  
@@ -158,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +150,22 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-home-cinematic-wonders-fastest-tips-and-tricks/"><u>[Updated] 2024 Approved Home Cinematic Wonders Fastest Tips & Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-design-a-post-that-sparks-wide-scale-interest-in-fb-giving/"><u>2024 Approved How to Design a Post That Sparks Wide-Scale Interest in FB Giving</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-your-computer-when-it-says-access-is-denied-during-usb-setup/"><u>Fix Your Computer When It Says Access Is Denied During USB Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-hcom-monitor-drivers-installation-failures-efficiently/"><u>How to Resolve HCOM Monitor Drivers Installation Failures Efficiently</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/post-windows-10-creators-update-my-prodigy-brio-webcam-vanished-here-are-solved-steps-to-reconnect-it-answered/"><u>Post Windows 10 Creators Update: My Prodigy Brio Webcam Vanished? Here Are Solved Steps to Reconnect It (Answered)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-guides-for-when-internet-explorer-wont-load-pages-correctly/"><u>Solution Guides for When Internet Explorer Won't Load Pages Correctly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-6-must-have-mobile-apps-for-tracking-your-nutrition/"><u>Top 6 Must-Have Mobile Apps for Tracking Your Nutrition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solutions-for-hcmondriver-installation-issues/"><u>Troubleshooting and Solutions for Hcmondriver Installation Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/universal-device-compatibility-software/"><u>Universal Device Compatibility Software</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>Updated 2024 Approved Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

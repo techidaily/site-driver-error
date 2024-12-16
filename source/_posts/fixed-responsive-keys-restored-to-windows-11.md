@@ -1,7 +1,7 @@
 ---
 title: "[Fixed]: Responsive Keys Restored to Windows 11"
-date: 2024-08-02T07:25:23.537Z
-updated: 2024-08-03T07:25:23.537Z
+date: 2024-12-13T06:08:08.565Z
+updated: 2024-12-16T00:31:27.689Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
 ## [Fixed]: Responsive Keys Restored to Windows 11
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/kb1.jpg)
 
  If you’ve recently upgraded to Windows 10 and now**your keyboard isn’t working** , you’re not alone. Many other Windows 10 users are reporting the same problem, especially after installing the KB4074588 update on February 13, 2018\.
@@ -31,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 5. **[Switch to ChromeOS](https://getlyla.pxf.io/ek9gkg)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Check your USB port is working
 
@@ -46,10 +47,11 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
  1) On your PC desktop, click the**Action Center** icon in the lower-right corner and click**All settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Ease of Access** .
 
@@ -57,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
  3) Click**Keyboard** .
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
 
  4) Ensure**Filter Keys** is**OFF** , and close the window.
@@ -67,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Reinstall your keyboard driver
 
@@ -78,17 +81,15 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
  3) When prompted to confirm, click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
@@ -122,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
  Now that we have the internet, fast connection speeds, free cloud storage, and endless web apps (like Gmail, Google Docs, Slack, Facebook, Dropbox and Spotify), the entire Windows way of doing things – with locally installed programs and local file storage – is totally outdated.
@@ -150,8 +155,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,6 +162,23 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-ax201-intel-wi-fi-6-initializing-fails/"><u>[FIXED] AX201: Intel Wi-Fi 6 Initializing Fails</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-setting-up-seamless-network-video-broadcasts-with-vlc/"><u>[New] 2024 Approved Setting Up Seamless Network Video Broadcasts with VLC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-you-need-a-wia-driver-to-use-this-device-scanner-driver-error/"><u>[SOLVED] “You Need a WIA Driver to Use This Device” Scanner Driver Error</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-compre-cookies-guide-to-marketing-magic-with-20-terms/"><u>[Updated] A Compre Cookie's Guide to Marketing Magic with 20 Terms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-maximizing-engagement-with-dual-screen-broadcasting-techniques-in-facebook-for-2024/"><u>[Updated] Maximizing Engagement with Dual-Screen Broadcasting Techniques in Facebook for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-photoshop-starter-kit-10-crucial-tips-to-know/"><u>[Updated] Photoshop Starter Kit 10 Crucial Tips to Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-y36i-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo Y36i Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104681699-blackberry-storm-beta-not-recognized-by-fedora-33-solution-found/"><u>Blackberry Storm Beta Not Recognized by Fedora 33 - Solution Found</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-rtos-interrupt-manager-error/"><u>Fixing RTOS Interrupt Manager Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-bsod-error-code-0x0000007e-in-windows-7-a-step-by-step-guide/"><u>Fixing the BSOD Error Code 0X0000007E in Windows 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/flashtimemacflv/"><u>Flashtime!：Mac上でFLV動画をスムーズに表示するコツ</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722050088001-free-gpt-4-available-to-everyone-dont-overlook-the-6-platinum-perks/"><u>Free GPT-4 Available to Everyone! Don't Overlook the 6 Platinum Perks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-works-perfectly-post-fix-in-windows-11/"><u>Keyboard Works Perfectly Post-Fix in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-resolving-constant-stalling-in-deathloop-across-pc-and-playstation-5/"><u>Solutions for Resolving Constant Stalling in Deathloop Across PC and PlayStation 5</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-coprocessor-driver-not-found-heres-how-to-rectify-it/"><u>Windows 11 Coprocessor Driver Not Found? Here's How to Rectify It</u></a></li>
+</ul></div>
 

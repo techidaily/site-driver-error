@@ -1,7 +1,7 @@
 ---
 title: “Internal WIFI & Bluetooth Always ON - Can't Turn OFF in My Win10 Laptop(48 Chars)
-date: 2024-08-02T07:27:34.633Z
-updated: 2024-08-03T07:27:34.633Z
+date: 2024-12-10T07:43:04.198Z
+updated: 2024-12-16T07:01:10.374Z
 tags:
   - win11
   - win10
@@ -17,26 +17,14 @@ thumbnail: https://thmb.techidaily.com/8dfe4059cd52efc1a8d1f8ea14ff74784ad821c4e
 
 Windows 10 users have been complaining that they are**unable to turn off**the Bluetooth connection even when they don’t want to use their Bluetooth devices, for instance, when they are in a neighborhood where there are so many Bluetooth devices detected. They cannot see the toggle switch (circled out in the screenshot) in Bluetooth device setting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-bluetooth-devices.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The reason why this is happening is that Microsoft seems to have an odd logic. It will recognize laptops with battery on is the mobile devices, thus with the Bluetooth device toggle available and easy to access. But if you are with a desktop, or sometimes, an all-in-one, chances are Windows 10 will not see your computer as a mobile device, thus it will not let you have access to the Bluetooth devices management panel. Luckily, this is not a difficult question to solve, not at all. Follow the options below to fix your problem fast and easily ![**Option 1: Disable Bluetooth device driver**](https://boody-eco-wear.pxf.io/qyo4oo) [**Option 2: Update Bluetooth device driver**](https://propmoneyinc.pxf.io/q4jzdy) [**Option 3: Modify Registry settings**](https://united.elfm.net/zqobdx)   **Option 1: Disable Bluetooth device driver** 1) Open**Device Manager** by pressing**Windows key**and**R**at the same time. Then type in**devmgmt.msc** and hit**Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/devmgmt-msc.png)
 
  2) In**Device Manager** , expand category Bluetooth, then right click the Bluetooth device that you want to temporarily disconnect and choose**Disable** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/disable-bluetooth-device-manager.jpg)
 
  If you cannot see all of your Bluetooth devices, please click the**View** button and then select**Show hidden devices** .
@@ -49,9 +37,6 @@ The reason why this is happening is that Microsoft seems to have an odd logic. I
 
 3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of that driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of **_all_**  the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e613efeb2c3.jpg)   **Option 3: Modify Registry settings** **Note**: In this option, we will be making some changes to the Registry. Before doing that, it is very important for you to [**backup**](https://tools.techidaily.com/drivereasy/download/) the registry first, just in case any unwanted error happens. 1) Type**regedit**in the search box and then choose**regedit Run command** from the list of choice.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/regedit-run-command.png)
 
 When prompted for administrator permission, just click**Yes**to continue.
@@ -74,8 +59,6 @@ When prompted for administrator permission, just click**Yes**to continue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -83,6 +66,24 @@ When prompted for administrator permission, just click**Yes**to continue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/a-comprehensive-guide-downloading-from-instagram-to-iphone/"><u>A Comprehensive Guide Downloading From Instagram to iPhone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ax201-wi-fi-6ax201-initialization-errors-solved/"><u>AX201: Wi-Fi 6Ax201 Initialization Errors Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-unresponsive-windows-10-a-step-by-step-guide/"><u>Bluetooth Unresponsive – Windows 10: A Step by Step Guide!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminate-disk-maximum-usage-in-windows/"><u>Eliminate Disk Maximum Usage in Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/essential-steps-for-establishing-engaging-social-spheres-on-fb/"><u>Essential Steps for Establishing Engaging Social Spheres on FB</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-code-43-error-on-your-gtx-950-under-windows-10-detailed-guide/"><u>Fixing the Code 43 Error on Your GTX 950 Under Windows 10 [Detailed Guide]</u></a></li>
+<li><a href="https://article-tips.techidaily.com/husqvarna-h501x4-fpv-quad-examination-for-2024/"><u>Husqvarna H501X4 FPV Quad Examination for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unveil-the-secrets-of-successful-fb-strategies-in-these-top-15-insight-tools/"><u>In 2024, Unveil the Secrets of Successful FB Strategies in These Top 15 Insight Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intels-opengl-drivers-what-are-they-called/"><u>Intel's OpenGL Drivers, What Are They Called?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722894063034-solving-the-mystery-recover-from-msstdfmtdll-error-not-found/"><u>Solving the Mystery: Recover From msstdfmt.dll Error - Not Found!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-resolving-driver-installation-unrecognized-on-your-pc/"><u>Troubleshooting Steps: Resolving 'Driver Installation Unrecognized on Your PC'</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y27s-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y27s Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

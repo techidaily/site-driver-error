@@ -1,7 +1,7 @@
 ---
 title: "Fixing: Disappeared Bluetooth, Manage Your Devices"
-date: 2024-08-02T07:26:35.004Z
-updated: 2024-08-03T07:26:35.004Z
+date: 2024-12-14T02:58:54.803Z
+updated: 2024-12-16T04:40:16.182Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
 3. **[Reinstall the Bluetooth driver manually](https://25home.pxf.io/vnbxnv)**
 4. **[Restart the Bluetooth service](https://bluetties.sjv.io/lxv4pm)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Make sure your Bluetooth is turned on
 
  Before getting started, it’s recommended that you check your Bluetooth status to make sure it’s already on by going to the Action Center (in the lower-right corner of your desktop):
@@ -36,17 +40,15 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
 
  2) On your keyboard, press the**Windows** logo key +**R** key and enter**ms-settings:bluetooth** to open your Bluetooth settings.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-14.png)
 
  3) Add Bluetooth devices again. If your devices are listed here, you can remove them and add them back again. If your Bluetooth option is also missing from settings or grayed out, it means there’s some problem with your Bluetooth driver, and you should go to the next fix instead.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth settings](https://images.drivereasy.com/wp-content/uploads/2021/11/image-15-1200x938.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your PC and check if this fixes your**Bluetooth missing from Device Manager** problem. If it doesn’t show in the Device Manager, you can try the next fix below.
 
@@ -56,14 +58,19 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
 
  1) On your keyboard, press the**Windows** logo key +**R** key at the same time and enter the command line:**`msdt.exe -id DeviceDiagnostic`** to open the device troubleshooter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-16.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) The Windows diagnostic tool will start detecting problems. Wait for the process to complete.
 
@@ -93,9 +100,6 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
 
  Or click**_Update All_** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-21-1200x914.png)
 
 **Note:** You can uninstall a driver by clicking the down arrow key next to a device, and selecting**Uninstall driver** .
@@ -107,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
 
 ![show hidden devices](https://images.drivereasy.com/wp-content/uploads/2021/11/image-26-1200x890.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Restart the Bluetooth service
 
  If reinstalling the Bluetooth driver still fails to fix your Bluetooth missing from Device Manager problem, you can restart the Bluetooth-related system services to check if this does the trick.
@@ -115,9 +123,17 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-22.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Once the Services window opens, locate Restart Bluetooth Support Service. Right-click the**Bluetooth Support Service** and select**Restart** . If it’s not working, you can right-click it and select**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-23-1200x856.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) After enabling this service or the restart, right-click on it again, and choose **Properties** .
 
@@ -125,9 +141,6 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
 
  4) Ensure **startup type** is**Automatic** .
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-25.png)
 
  5) Click**Apply** \>**OK** to save the changes.
@@ -145,8 +158,6 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,6 +165,22 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/restored-compatibility-issues-with-new-device-driver-update/"><u>[RESTORED] Compatibility Issues with New Device Driver Update</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-optimize-your-content-for-higher-views-and-more-likes/"><u>[Updated] How to Optimize Your Content for Higher Views and More 'Likes'</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-interactive-overlays-redefining-experience/"><u>[Updated] Interactive Overlays Redefining Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/aacmpeg/"><u>AACとMPEGファイルを無料で簡単に変換: オンラインツールのトップ選手</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ering-audiences-the-playlist-sharing-approach/"><u>Empowering Audiences The Playlist Sharing Approach</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a1-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A1 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-android-and-ios-timer-tools-reviewed-your-big-day-planners-must-haves-for-2024/"><u>Leading Android & iOS Timer Tools Reviewed Your Big Day Planner's Must-Haves for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098770708-pchelp-i-need-to-turn-off-the-built-in-bluetooth-on-my-windows-10-machine/"><u>PCHelp I Need to Turn Off the Built-In Bluetooth on My Windows 10 Machine.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-access-denied-errors-during-usb-device-setup/"><u>Resolving 'Access Denied' Errors During USB Device Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steelseries-arctis-5-microphone-not-working-heres-how-you-can-fix-it/"><u>SteelSeries Arctis 5 Microphone Not Working? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackle-device-recognition-issue/"><u>Tackle Device Recognition Issue</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-zoo-matic-guide-to-improved-snapchat-media/"><u>The Zoo-Matic Guide to Improved Snapchat Media</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-video-flipping-issues-fixes-for-inverted-images-on-asus-systems/"><u>Troubleshooting Video Flipping Issues: Fixes for Inverted Images on Asus Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unresponsive-games-due-to-gpu-issue-quick-solution-inside/"><u>Unresponsive Games Due to GPU Issue? Quick Solution Inside</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11s-irqlnotless-problem-overcome/"><u>Win11's [IRQL_NOT_LESS] Problem Overcome</u></a></li>
+</ul></div>
 

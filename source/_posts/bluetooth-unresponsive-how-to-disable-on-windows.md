@@ -1,7 +1,7 @@
 ---
 title: Bluetooth Unresponsive - How to Disable on Windows
-date: 2024-08-02T07:26:57.121Z
-updated: 2024-08-03T07:26:57.121Z
+date: 2024-12-13T22:01:47.655Z
+updated: 2024-12-16T07:03:21.408Z
 tags:
   - win11
   - win10
@@ -17,18 +17,6 @@ thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3db
 
 Windows 10 users have been complaining that they are**unable to turn off**the Bluetooth connection even when they don’t want to use their Bluetooth devices, for instance, when they are in a neighborhood where there are so many Bluetooth devices detected. They cannot see the toggle switch (circled out in the screenshot) in Bluetooth device setting.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-bluetooth-devices.jpg)
 
 The reason why this is happening is that Microsoft seems to have an odd logic. It will recognize laptops with battery on is the mobile devices, thus with the Bluetooth device toggle available and easy to access. But if you are with a desktop, or sometimes, an all-in-one, chances are Windows 10 will not see your computer as a mobile device, thus it will not let you have access to the Bluetooth devices management panel. Luckily, this is not a difficult question to solve, not at all. Follow the options below to fix your problem fast and easily ![**Option 1: Disable Bluetooth device driver**](https://boody-eco-wear.pxf.io/qyo4oo) [**Option 2: Update Bluetooth device driver**](https://propmoneyinc.pxf.io/q4jzdy) [**Option 3: Modify Registry settings**](https://united.elfm.net/zqobdx)   **Option 1: Disable Bluetooth device driver** 1) Open**Device Manager** by pressing**Windows key**and**R**at the same time. Then type in**devmgmt.msc** and hit**Enter**.
@@ -37,9 +25,6 @@ The reason why this is happening is that Microsoft seems to have an odd logic. I
 
  2) In**Device Manager** , expand category Bluetooth, then right click the Bluetooth device that you want to temporarily disconnect and choose**Disable** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/disable-bluetooth-device-manager.jpg)
 
  If you cannot see all of your Bluetooth devices, please click the**View** button and then select**Show hidden devices** .
@@ -60,24 +45,10 @@ When prompted for administrator permission, just click**Yes**to continue.
 
 2) Follow the path:   **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\ActionCenter\\Quick Actions\\All\\SystemSettings\_Device\_BluetoothQuickAction**.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/hkey_local_machinesoftwaremicrosoftwindowscurrentversionactioncenterquick-actionsallsystemsettings_device_bluetoothquickaction.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) On the right pane, locate and right click the file with the name **Type**and choose**Modify**. ![](https://images.drivereasy.com/wp-content/uploads/2016/11/modify-value.png) 4) Then change the**Value data**from 0 to**1**. Then hit**OK**to save and exit.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/value-data.png)
 
 5) Restart your computer after the change.
@@ -88,8 +59,6 @@ When prompted for administrator permission, just click**Yes**to continue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,6 +66,27 @@ When prompted for administrator permission, just click**Yes**to continue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/eats-and-bands-how-to-upload-music-online/"><u>[New] Beats & Bands How to Upload Music Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-a-guide-to-googles-augmented-reality-sticker-features/"><u>[Updated] 2024 Approved A Guide to Google's Augmented Reality Sticker Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-novice-to-pro-steps-for-social-success/"><u>[Updated] From Novice to Pro Steps for Social Success</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-step-by-step-guide-to-joining-and-initiating-zoom-meetings-on-android/"><u>[Updated] In 2024, Step-By-Step Guide to Joining & Initiating Zoom Meetings on Android</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-zd-soft-an-in-depth-guide-to-capture-record-and-edit-videos-for-2024/"><u>[Updated] ZD Soft An In-Depth Guide to Capture, Record & Edit Videos for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-all-about-lightroom-a-comprehensive-android-study/"><u>2024 Approved All About Lightroom A Comprehensive Android Study</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-y78t-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo Y78t Phone When You Forget the Password</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-address-hardware-not-recognized-compatibility-fixes-for-your-equipment/"><u>How to Address 'Hardware Not Recognized' - Compatibility Fixes for Your Equipment</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-boosting-skypes-performance-with-advanced-zoom-functionalities/"><u>In 2024, Boosting Skype's Performance with Advanced Zoom Functionalities</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-rdp-troubleshooting-in-windows-oses/"><u>Mastering RDP Troubleshooting in Windows OSes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mouse-disconnecting-a-common-issue-with-wireless-devices/"><u>Mouse Disconnecting: A Common Issue with Wireless Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigating-the-evolution-of-usb-technology-the-era-of-usb-composite-devices-explained/"><u>Navigating the Evolution of USB Technology: The Era of USB Composite Devices Explained</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-issues-with-unrecognized-or-invalid-driver-installations-on-pcs/"><u>Resolving Issues With Unrecognized or Invalid Driver Installations on PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reversing-unstoppable-bluetooth-on-win11/"><u>Reversing Unstoppable Bluetooth on WIN11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-task-manager-full-disk-warning/"><u>Understanding Task Manager Full Disk Warning</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wudfrd-loading-failure-device-error-id-219/"><u>WudfRd Loading Failure - Device Error ID 219</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

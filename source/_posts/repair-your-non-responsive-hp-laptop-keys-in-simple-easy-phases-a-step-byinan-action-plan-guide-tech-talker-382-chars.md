@@ -1,7 +1,7 @@
 ---
 title: "Repair Your Non-Responsive HP Laptop Keys in Simple, Easy Phases: A Step-Byinan Action Plan – Guide | Tech Talker 382 Chars"
-date: 2024-08-02T07:26:39.536Z
-updated: 2024-08-03T07:26:39.536Z
+date: 2024-12-13T09:59:16.938Z
+updated: 2024-12-16T07:35:41.674Z
 tags:
   - win11
   - win10
@@ -15,12 +15,13 @@ thumbnail: https://thmb.techidaily.com/bb329675ec6f2f23457017515efa91abef31819e6
 
 ## Repair Your Non-Responsive HP Laptop Keys in Simple, Easy Phases: A Step-Byinan Action Plan – Guide | Tech Talker 382 Chars
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bb93fdc792.jpg)
 
 We have received reports from user saying that they have trouble using their HP laptop keyboard. Some of them complained that certain keys, such as functional keys (F1, F12 etc.), are unusable, while a small number of users mentioned that the laptop keyboard is totally useless and they have to turn to an external one. If you are one of the “victims”, no worries, there are some effective ways that are going to help you solve this problem. Please follow the instructions below and get your laptop keyboard fixed!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step 1: Reinstall Keyboard Driver**
 
@@ -28,16 +29,25 @@ We have received reports from user saying that they have trouble using their HP 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc3af48b92.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) In the Device Manager window, click to expand**Keyboards**category. Then right click the keyboard option listed here and choose**Uninstall**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc4306d960.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When prompted to confirm the uninstall, press**OK**to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc902b86a2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait for the uninstall to finish. Then**restart**your computer. The keyboard driver will be reinstalled automatically once you restart your laptop. **Note**: If you need to type in password to log into your desktop, please use the on-screen keyboard by choosing the middle icon from the three icons on the bottom right corner, then select**On-Screen Keyboard**.
 
@@ -47,16 +57,10 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Step 2: Check Keyboard Settings**
 
 1) Click your**Start**button, then choose**Settings**icon from it. Then choose**Time & language**.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcfa0068ce.jpg)
 
 2) On the left side of the pane, choose**Region & language**, then on the right side, make sure that the language is set to**English (United States)**.
@@ -71,9 +75,6 @@ Then make sure the Keyboards is selected as**US**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Step 3: Try an External Keyboard**
 
 If you have tried the above methods but they are not helpful, you may need to plug in a USB external keyboard and see if the second keyboard works. 1) If the external keyboard**works perfectly**, then you need to consider searching and downloading the latest version of the laptop driver from HP support. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). You can try its Free version, and update your drivers one by one. Or you can update all your missing and outdated drivers automatically with just one-click with Driver Easy [**Pro version**](https://tools.techidaily.com/drivereasy/download/). No worry to try it as it comes with a no-questions-asked 30-day money-back guarantee and professional tech support 24/7\.
@@ -81,6 +82,10 @@ If you have tried the above methods but they are not helpful, you may need to pl
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step 4:** **Perform a Hard Reset**
 
@@ -95,8 +100,6 @@ A hard reset will not remove any of your data in your computer, it is a move tha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,6 +107,26 @@ A hard reset will not remove any of your data in your computer, it is a move tha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-clearing-up-black-screens-in-youtube-playback-for-2024/"><u>[New] Clearing Up Black Screens in YouTube Playback for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-techniques-for-exceptional-audio-recording-without-a-mic/"><u>[New] In 2024, Techniques for Exceptional Audio Recording without a Mic</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-best-toy-drones-for-kids/"><u>[Updated] The Ultimate Guide to Best Toy Drones for Kids</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-tools-for-inserting-text-into-pictures/"><u>Cutting-Edge Tools for Inserting Text Into Pictures</u></a></li>
+<li><a href="https://driver-error.techidaily.com/deciphering-and-solving-the-battlenee-driver-loading-glitch-for-a-smoother-gaming-experience/"><u>Deciphering and Solving the Battlenee Driver Loading Glitch for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-unsuccessful-lacking-intel-adapter-support/"><u>Drivers Unsuccessful; Lacking Intel Adapter Support</u></a></li>
+<li><a href="https://driver-error.techidaily.com/elevating-system-bus-efficiency-on-win11/"><u>Elevating System Bus Efficiency on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-atheros-bluetooth-issues-on-windows-11-comprehensive-guide/"><u>Fixing Qualcomm Atheros Bluetooth Issues on Windows 11: Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-resolve-blizzards-battlenet-launcher-failures-on-windows-pcs/"><u>Fixing the Issue: How to Resolve Blizzard's Battle.net Launcher Failures on Windows PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-force-boot-into-secure-operating-environment-and-eliminate-graphics-driver-issues-on-windows-8-systems/"><u>How to Force Boot Into Secure Operating Environment and Eliminate Graphics Driver Issues on Windows 8 Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-prime-construction-tips-for-mc-community-abodes/"><u>In 2024, Prime Construction Tips for MC Community Abodes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-secure-your-shots-in-the-cloud-unlimited-free-space-plus-charged-premium-solutions/"><u>In 2024, Secure Your Shots in the Cloud Unlimited Free Space + Charged Premium Solutions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-art-of-adding-gifs-to-instagram-posts-4-easy-steps/"><u>In 2024, The Art of Adding GIFs to Instagram Posts (4 Easy Steps)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/issue-settled-amdintel-graphics-not-backed-by-premiere-pro/"><u>Issue Settled: AMD/Intel Graphics Not Backed by Premiere Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/realtek-ethernet-controller-driver-not-working-after-windows-11-upgrade-solved/"><u>Realtek Ethernet Controller Driver Not Working After Windows 11 Upgrade [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-fixing-issues-with-your-outdated-usb-composite-device/"><u>Troubleshooting: Fixing Issues with Your Outdated USB Composite Device</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlocking-potential-the-right-propeller-match-in-fpv-flight/"><u>Unlocking Potential The Right Propeller Match in FPV Flight</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-of-google-pixel-watch-series-e-what-to-expect-in-terms-of-cost-launch-date-specs-and-more-gossip/"><u>Unlocking the Secrets of Google Pixel Watch (Series E): What to Expect in Terms of Cost, Launch Date, Specs & More Gossip!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-compatible-samsung-mobile-system/"><u>Windows-Compatible: Samsung Mobile System</u></a></li>
+</ul></div>
 

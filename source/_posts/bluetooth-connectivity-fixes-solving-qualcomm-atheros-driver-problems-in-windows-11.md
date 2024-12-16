@@ -1,7 +1,7 @@
 ---
 title: "Bluetooth Connectivity Fixes: Solving Qualcomm Atheros Driver Problems in Windows 11"
-date: 2024-08-02T07:26:56.359Z
-updated: 2024-08-03T07:26:56.359Z
+date: 2024-12-14T06:52:22.662Z
+updated: 2024-12-16T00:57:40.307Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ Just relax, this is a very easy problem to solve. Just follow the instructions b
   
  Scroll down to see if you can find the**KB3061161** . It should be a rather old update, so it might cost you some time to locate.
   
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587852a8ba348.jpg)
 
 If you don’t see such an update, don’t freak out, just go to Microsoft and get in downloaded and installed, and you will be fine.
@@ -63,9 +60,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
   
 3) Now press**Windows key**and**X**at the same time and choose**Device Manager**.
   
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878625e408ff.png)
 
 4) Then locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Uninstall**.
@@ -74,9 +68,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 5) When prompted with the following notification, tick the box for**Delete the driver software for this device**and then hit**OK**to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787077d9b1c.png)
 
 6) When the uninstall finishes, restart your computer.
@@ -103,9 +94,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 3) Locate and expand category**Bluetooth**. Right click the**Qualcomm Atheros Bluetooth driver**you have and choose**Update Driver Software**.
   
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5878797a95615.png)
 
  4) Choose**Browse my computer for driver software** .
@@ -118,9 +106,6 @@ If you don’t see such an update, don’t freak out, just go to Microsoft and g
 
 6) Un-tick the box for **Show compatible hardware** . Then you should be able to see **Qualcomm Atheros** driver option on the left. On the right, choose one of the drivers listed. We go with**Qualcomm Atheros AR3011 Bluetooth 3.0** . You need to try them one by one by yourself to select the right one for your PC. When done picking, click**Next** to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58787b0460727.png)
 
 7)Then follow the instructions on screen to get your Qualcomm Atheros Bluetooth drive installed.  
@@ -158,8 +143,6 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +150,25 @@ What are you still waiting for, download [**Driver Easy**](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fast-fix-nvidia-geforce-experience-issue-now-solved/"><u>[Fast Fix] Nvidia GeForce Experience Issue – Now Solved</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-partedpicture-breakdown/"><u>[Updated] PartedPicture Breakdown</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-data-compression-a-cli-command-guidebook/"><u>Conquering Data Compression: A CLI Command Guidebook</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/global-top-rated-mp3-editing-applications-for-2024/"><u>Global Top-Rated MP3 Editing Applications for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-xiaomi-13t-pro-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Xiaomi 13T Pro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-raising-livestock-a-guide-to-ginger-island-farm/"><u>In 2024, Raising Livestock A Guide to Ginger Island Farm</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-vital-guide-to-cost-effective-video-and-photography-archives/"><u>In 2024, Vital Guide to Cost-Effective Video and Photography Archives</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-the-disablement-of-win11-bluetooth/"><u>Mastering the Disablement of Win11 Bluetooth</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-incompatibility-ensuring-your-hardware-works-with-the-latest-idt-software-package/"><u>Overcoming Incompatibility: Ensuring Your Hardware Works with the Latest IDT Software Package</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ringtone-riches-where-to-acquire-vintage-melodies-online/"><u>Ringtone Riches Where to Acquire Vintage Melodies Online</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-your-windows-8-gpu-drivers/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing Your Windows 8 GPU Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/taming-nonstop-buzz-effortlessly-resolving-unresponsive-bluetooth-devices-in-windows-11-done/"><u>Taming Nonstop Buzz - Effortlessly Resolving Unresponsive Bluetooth Devices in Windows 11 (Done!)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ltimate-guide-for-effortless-youtube-shorts-design/"><u>The Ultimate Guide for Effortless YouTube Shorts Design</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-narzo-n55-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme Narzo N55 Pattern Lock Screen Everything You Need to Know</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Bluetooth Enabling for Lenovo on Win11 Platform
-date: 2024-08-02T07:25:16.322Z
-updated: 2024-08-03T07:25:16.322Z
+date: 2024-12-12T17:20:28.075Z
+updated: 2024-12-15T20:23:29.093Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
 * [Option 3: Update Bluetooth driver](https://lightailing.sjv.io/k0ez0m)
 * [Option 4: Perform a refresh](https://collovinc.sjv.io/jrkzwp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Enable Bluetooth hardware
 
 **NOTE** : Please make sure that your computer has the necessary hardware and your wireless is turned on. Also, check the support website of Lenovo to make sure that your device is Bluetooth capable.
@@ -44,14 +48,15 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
 
 **Note** : If you **cannot** see any items listed under Network adapters or Bluetooth Radios, please proceed to **Option 2** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7d4daf634.png)
 
  4) If you see a down arrow, your Bluetooth device is disabled, just right-click the item and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b810d497f1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) If you see a yellow exclamation mark next to your Bluetooth driver, your Bluetooth hardware is not responding or set up correctly. You can refer to **Option 3** for more help.
 
@@ -63,16 +68,18 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e564dcca0a6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 3: Update Bluetooth driver
 
  If, after trying the above, your Bluetooth still refuses to work, it’s time to update your device driver.
@@ -89,14 +96,12 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
 
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 4: Perform a refresh
 
  If none of the above options help, you might need to perform a refresh to get your Bluetooth devices working again. For more information as to how to perform a refresh on Windows 10, please visit the following post: **[How to refresh my Windows 10?](https://tools.techidaily.com/drivereasy/download/)**
@@ -110,8 +115,6 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,6 +122,22 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-immersive-worlds-unveiled-jaunt-vr-in-focus-for-2024/"><u>[New] Immersive Worlds Unveiled Jaunt VR in Focus for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-video-editing-tools-on-the-latest-windows-11/"><u>[New] Navigating Video Editing Tools on the Latest Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-maximizing-hit-rates-with-youtubes-best-thumbnail-strategies/"><u>[Updated] Maximizing Hit Rates with YouTube's Best Thumbnail Strategies</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-invalid-service-inf-for-proper-setup/"><u>Correcting Invalid Service INF for Proper Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/desktop-dilemma-non-functional-wireless-mouse-on-pc/"><u>Desktop Dilemma: Non-Functional Wireless Mouse on PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/gentle-fading-audio-paths-in-live-for-2024/"><u>Gentle Fading Audio Paths in Live for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-harmonizing-highlights-how-to-embed-songs-on-instagram-stories/"><u>In 2024, Harmonizing Highlights How to Embed Songs on Instagram Stories</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/recovered-touchpad-solving-driver-absence/"><u>Recovered Touchpad: Solving Driver Absence</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102329107-solve-the-driver-not-found-issue-with-our-simple-steps/"><u>Solve the 'Driver Not Found' Issue with Our Simple Steps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-dealing-with-incorrect-device-settings-error-code-1/"><u>Step-by-Step Solution for Dealing With Incorrect Device Settings (Error Code 1)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-social-network-savants-secret-for-downloading-chats/"><u>The Social Network Savant’s Secret for Downloading Chats</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-unrecognized-devices-on-windows-drivers-for-version-11-8-and-7/"><u>Troubleshooting Unrecognized Devices on Windows: Drivers for Version 11, 8 & 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/turn-down-the-noise-and-restore-control-to-windows-11s-bluescreened-free-state-heres-how-resolved/"><u>Turn Down the Noise and Restore Control to Windows 11'S Bluescreened-Free State - Here’s How! (Resolved)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unique-content-creation-the-ultimate-guide-to-6-video-types/"><u>Unique Content Creation The Ultimate Guide to 6 Video Types</u></a></li>
+</ul></div>
 

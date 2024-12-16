@@ -1,7 +1,7 @@
 ---
 title: Fix Your Non-Functional HP Laptop Keys Step By Step Guide – 356 Chars
-date: 2024-12-02T16:39:20.147Z
-updated: 2024-12-10T03:06:06.546Z
+date: 2024-12-13T16:19:10.691Z
+updated: 2024-12-16T11:35:28.485Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 
 We have received reports from user saying that they have trouble using their HP laptop keyboard. Some of them complained that certain keys, such as functional keys (F1, F12 etc.), are unusable, while a small number of users mentioned that the laptop keyboard is totally useless and they have to turn to an external one. If you are one of the “victims”, no worries, there are some effective ways that are going to help you solve this problem. Please follow the instructions below and get your laptop keyboard fixed!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Step 1: Reinstall Keyboard Driver**
 
 1) Follow the path:**Start**icon**\> Control Panel**(View by**Large icons)>** **Device Manager**.
@@ -34,7 +30,7 @@ We have received reports from user saying that they have trouble using their HP 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc4306d960.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When prompted to confirm the uninstall, press**OK**to continue.
@@ -50,7 +46,11 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 2: Check Keyboard Settings**
@@ -58,10 +58,6 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 1) Click your**Start**button, then choose**Settings**icon from it. Then choose**Time & language**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcfa0068ce.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) On the left side of the pane, choose**Region & language**, then on the right side, make sure that the language is set to**English (United States)**.
 
@@ -75,17 +71,21 @@ Then make sure the Keyboards is selected as**US**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Step 3: Try an External Keyboard**
 
 If you have tried the above methods but they are not helpful, you may need to plug in a USB external keyboard and see if the second keyboard works. 1) If the external keyboard**works perfectly**, then you need to consider searching and downloading the latest version of the laptop driver from HP support. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). You can try its Free version, and update your drivers one by one. Or you can update all your missing and outdated drivers automatically with just one-click with Driver Easy [**Pro version**](https://tools.techidaily.com/drivereasy/download/). No worry to try it as it comes with a no-questions-asked 30-day money-back guarantee and professional tech support 24/7\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step 4:** **Perform a Hard Reset**
 
@@ -109,14 +109,18 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-avoiding-content-id-alerts-strategies-on-youtube-for-2024/"><u>[Updated] Avoiding Content ID Alerts Strategies on YouTube for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/code-1-troubleshooting-steps-for-configuring-devices-correctly/"><u>Code 1 Troubleshooting: Steps for Configuring Devices Correctly</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/effortless-recording-of-netflix-a-step-by-step-guide-for-2024/"><u>Effortless Recording of Netflix A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/flight-simulation-at-its-best-the-x-plane-11-analysis-showcases-impressive-graphics-upgrades/"><u>Flight Simulation at Its Best: The X-Plane 11 Analysis Showcases Impressive Graphics Upgrades</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-huawei-nova-y71-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Huawei Nova Y71 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/insufficient-resources-on-system/"><u>Insufficient Resources on System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcome-hot-plugging-shortfall/"><u>Overcome Hot-Plugging Shortfall</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unsupported-device-error-solutions-for-incompatible-hardware-in-your-idt-software/"><u>Unsupported Device Error: Solutions for Incompatible Hardware in Your IDT Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ultimate-conversion-manual-from-srt-to-various-formats/"><u>[New] Ultimate Conversion Manual From SRT to Various Formats</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-viewers-perspectives-on-instagram-stories-not-known-for-2024/"><u>[New] Viewers' Perspectives on Instagram Stories Not Known for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-clip-groove-best-bgm-choices-for-todays-popular-yt-shorts/"><u>[Updated] 2024 Approved Clip Groove Best BGM Choices For Today's Popular YT Shorts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-for-setting-up-your-device-correctly-and-fixing-mistakes-code-1/"><u>Easy Steps for Setting Up Your Device Correctly and Fixing Mistakes (Code 1)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-enhanced-self-service-repair-functionality-by-apple-integrating-remote-diagnostic-tools-for-new-models-like-iphone-15-and-m2-mac-insights-on-zdn154/"><u>Explore the Enhanced Self Service Repair Functionality by Apple, Integrating Remote Diagnostic Tools for New Models Like iPhone 15 and M2 Mac - Insights on ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-organizing-xbox-extras-for-s-series/"><u>Guide to Organizing Xbox Extras for S Series</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-install-necessary-drivers-on-windows-1087-devices-a-comprehensive-guide/"><u>How to Install Necessary Drivers on Windows 10/8/7 Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-se-2022-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone SE (2022)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reattach-regaining-lost-bluetooth-connection-in-manager/"><u>Reattach: Regaining Lost Bluetooth Connection in Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-drive-error-venintanddev33a0/"><u>Solving Drive Error VEN_INT&DEV_33A0</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-spectrum-of-ai-accessibility-community-to-individual-models/"><u>The Spectrum of AI Accessibility: Community to Individual Models</u></a></li>
+<li><a href="https://driver-error.techidaily.com/trouble-with-windows-unresponsive-mouse/"><u>Trouble with Windows: Unresponsive Mouse</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-why-is-my-hp-wireless-keyboard-non-responsive/"><u>Troubleshooting Guide: Why Is My HP Wireless Keyboard Non-Responsive?</u></a></li>
 </ul></div>
 

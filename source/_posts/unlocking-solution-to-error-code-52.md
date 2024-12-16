@@ -1,7 +1,7 @@
 ---
 title: Unlocking Solution to Error Code 52
-date: 2024-12-07T02:00:51.022Z
-updated: 2024-12-09T23:29:51.342Z
+date: 2024-12-10T02:42:17.173Z
+updated: 2024-12-15T20:17:43.713Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ Does this screenshot look similar?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.png)
 
  If you’re getting the **Code 52 driver error** of your USB devices on your computer, it could be super frustrating. But don’t panic. You’re certainly not the only one. We’ve seen many users are reporting this issue. Luckily, we’ve found the answer for you. Read on and find out how…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -57,15 +61,15 @@ Does this screenshot look similar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97921901b04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note: You can do it **for free** if you like, but it’s partly manual.
 
  Once you install the correct driver for your device, check if the error disappears. If your device works without any problem, so great! If you still see the error, don’t give up hope, you still have something else to try…
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Delete both the UpperFilters and LowerFilters Registry values
 
@@ -88,17 +92,13 @@ Here’s how to delete the values:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978e6de98f1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) ➡ **Important** : We highly recommend performing a backup for the registry keys in case any error occurs during the following process. Follow these simple steps:  
  Right-click on Class to select **Export** . Then give the export file a name, say, Class Backup. Proceed to select the backup folder, then **Save** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978ec11e9f5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) In the Class section, Click **{36FC9E60-C465-11CF-8056-444553540000}** , then on its edit pane on the right side, right-click **UpperFilters** to select **Delete** \> **OK** .
 
@@ -107,6 +107,10 @@ Here’s how to delete the values:
  Close the Registry Editor window and restart your computer. Then check if the error disappears.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3: Enable the ‘Disable driver signature enforcement’ feature
 
@@ -123,16 +127,12 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97906e91771.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9790a2dce62.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click **Startup Settings** , then **Restart** .
 
@@ -166,24 +166,18 @@ Here’s how you can do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-enhancing-listener-engagement-through-excellent-intros/"><u>[New] 2024 Approved Enhancing Listener Engagement Through Excellent Intros</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-best-photo-boosts-for-perfecting-your-feed/"><u>[New] In 2024, Best Photo Boosts for Perfecting Your Feed</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-culinary-quests-tiktoks-best-food-content/"><u>[New] In 2024, Culinary Quests TikTok's Best Food Content</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elite-streaming-sensations-worlds-most-popular-video-content-makers/"><u>2024 Approved Elite Streaming Sensations World's Most Popular Video Content Makers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-gaming-on-one-disabling-cross-play-and-selecting-top-platforms/"><u>2024 Approved Gaming on One Disabling Cross-Play and Selecting Top Platforms</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-11-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme 11 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/expert-techniques-for-swift-mac-screenshotting-using-shortcuts/"><u>Expert Techniques for Swift Mac Screenshotting Using Shortcuts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/expert-tips-to-seamlessly-retrieve-youtube-srt-subtitles-for-2024/"><u>Expert Tips to Seamlessly Retrieve YouTube SRT Subtitles for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hidden-media-devices-in-win-1011/"><u>Hidden Media Devices in Win 10/11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-nvidia-geforce-gtx-950-code-43-error-on-your-windows-11-pc-easily/"><u>How to Resolve NVIDIA GeForce GTX 950 Code 43 Error on Your Windows 11 PC Easily!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/missing-dvd-driver-in-windows-11-now-fixed/"><u>Missing DVD Driver in Windows 11 - Now Fixed!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcome-the-gtx-950-code-43-hurdle-in-windows-11-effective-troubleshooting-steps/"><u>Overcome the GTX 950 Code 43 Hurdle in Windows 11 - Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-windows-driver-hurdles/"><u>Overcoming Windows Driver Hurdles</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-fixes-for-win10s-asus-acpi-drivers/"><u>Quick Fixes for Win10's Asus ACPI Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revival-of-dormant-serial-connections-on-windows-device/"><u>Revival of Dormant Serial Connections on WINDOWS DEVICE</u></a></li>
-<li><a href="https://driver-error.techidaily.com/stabilized-external-hdd-controls/"><u>Stabilized External HDD Controls</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-s23-tactical-edition-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy S23 Tactical Edition Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/sh-gaming-potential-top-30-strategies-to-increase-video-popularity-for-2024/"><u>Unleash Gaming Potential Top 30 Strategies to Increase Video Popularity for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-driver-woes-solved-quickly-and-effectively/"><u>Windows Driver Woes, Solved Quickly and Effectively</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-beginners-guide-decoding-av1-technology/"><u>[New] 2024 Approved Beginner's Guide Decoding AV1 Technology</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1725288258213-2022dvd/"><u>2022最强大的DVD到数字化转换技术：终极指南</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-insta-to-tik-flow-guidebook/"><u>2024 Approved Insta to Tik Flow Guidebook</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-infinix-smart-8-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-non-recognized-device-issue-a-guide-to-usb-and-windows/"><u>Fix Non-Recognized Device Issue: A Guide to USB & Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-the-hardware-detected-is-not-supported-by-this-idt-software-package-issue/"><u>Fix The Hardware Detected Is Not Supported by This IDT Software Package Issue</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigate-through-green-screen-muddle-on-mac-for-smooth-youtubing/"><u>In 2024, Navigate Through Green Screen Muddle on Mac for Smooth YouTubing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-innovators-defining-next-gen-vr-experiences/"><u>In 2024, Top Innovators Defining Next-Gen VR Experiences</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/installing-da-only-wizard-and-constructing-da-butcher-mods-in-kodi-a-comprehensive-guide/"><u>Installing Da Only Wizard & Constructing Da Butcher Mods in Kodi: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-non-supportive-device-alerts-within-idt-software-environments/"><u>Overcoming Non-Supportive Device Alerts Within IDT Software Environments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/silent-peripheral-no-response-in-windows-os/"><u>Silent Peripheral: No Response in Windows OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-sailing-ahead-resolving-game-crashes-on-sea-of-thieves/"><u>Smooth Sailing Ahead - Resolving Game Crashes on Sea of Thieves</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-solution-getting-your-device-recognized-with-proper-drivers-on-widows-os/"><u>Ultimate Solution: Getting Your Device Recognized with Proper Drivers on Widows OS</u></a></li>
 </ul></div>
 

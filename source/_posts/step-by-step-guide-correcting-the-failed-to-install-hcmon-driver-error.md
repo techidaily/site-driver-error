@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Correcting the 'Failed to Install Hcmon Driver Error'"
-date: 2024-08-02T07:25:37.545Z
-updated: 2024-08-03T07:25:37.545Z
+date: 2024-12-09T18:19:08.846Z
+updated: 2024-12-16T07:56:57.499Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/4e8500390862c71ba9fd3f45025661c15b6c8c5d9
 
  HCMON driver is a virtual USB driver. It allows your physical USB ports to connect to the virtual machines.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix this error?
 
  The error occurs can be due to different issues. We post the top 5 solutions in this article. You can fix this error with one of these solutions. You may not have to try them all. Just work your way down until you find the one that works for you.
@@ -34,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/4e8500390862c71ba9fd3f45025661c15b6c8c5d9
  Solution 5: **[Install .NET Framework 3.5.1](https://ursime.pxf.io/r5bm57)**
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Solution 1: Install the product as an administrator
 
  When you install the product, you’re required to install the hcmon driver. Windows may see this as a user adding hardware to the PC. But this user doesn’t have the permission to do that. In this case, this error may occur. Try to install the product as an administrator:
@@ -45,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/4e8500390862c71ba9fd3f45025661c15b6c8c5d9
 2) Click**Run as administrator** . If you don’t see the option “Run as administrator”, this solution doesn’t apply to you. Skip then move on to other solutions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca09694f9d6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##
 
@@ -66,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/4e8500390862c71ba9fd3f45025661c15b6c8c5d9
 
  3) Click the **Update** button next to the flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca0a7166942.jpg)
 
 ##
@@ -81,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/4e8500390862c71ba9fd3f45025661c15b6c8c5d9
 
  2) Click**View** \>**Show hidden devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca0ccee9685.png)
 
  3) Double-click**Non-Plug and Play Drivers.**
@@ -102,10 +105,11 @@ Try to install the product in PowerShell. Follow steps below:
 
  1) Type “powershell” in the search field. Right-click**Windows PowerShell** (The name may be different depending on the Windows version you’re using.) and click**Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca0f0ca0506.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Go to the location where you saved the setup file. This is to get the msi name.
 
@@ -113,14 +117,15 @@ Try to install the product in PowerShell. Follow steps below:
 
 In my case, my file is “VMware-VMRC-10.0.1-5898794”:
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca1311509ab.png)
 
 So I typed “.\\VMware-VMRC-10.0.1-5898794.msi”:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca13ea65f0f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##
 
@@ -139,8 +144,6 @@ So I typed “.\\VMware-VMRC-10.0.1-5898794.msi”:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,6 +151,23 @@ So I typed “.\\VMware-VMRC-10.0.1-5898794.msi”:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guiding-adding-songs-to-your-yt-channel/"><u>[New] 2024 Approved Guiding Adding Songs to Your YT Channel</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-boosting-remote-meeting-effectiveness-through-optimized-zoom-recordings-for-2024/"><u>[New] Boosting Remote Meeting Effectiveness Through Optimized Zoom Recordings for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/harting-growth-the-best-online-stock-yts-for-2024/"><u>[New] Charting Growth The Best Online Stock YTs for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-instas-archive-maze-for-optimal-results/"><u>[New] Navigating Insta’s Archive Maze for Optimal Results</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-pros-picks-best-10-terraria-mods/"><u>[Updated] Pro's Picks Best 10 Terraria Mods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-path-to-flawless-video-subtitles-via-internet-services/"><u>2024 Approved The Ultimate Path to Flawless Video Subtitles via Internet Services</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bring-back-your-touchpad-driver-missing-heres-what-you-can-do/"><u>Bring Back Your Touchpad: Driver Missing? Here's What You Can Do</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-your-iphones-media-transport-problem-with-updated-usb-drivers/"><u>How to Resolve Your iPhone's Media Transport Problem with Updated USB Drivers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-poco-x5-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Poco X5?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/iphone-cannot-connect-to-computer-heres-how-you-can-fix-the-mtp-usb-device-driver-malfunction/"><u>IPhone Cannot Connect to Computer? Here's How You Can Fix the MTP USB Device Driver Malfunction</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-windows-11s-elan-pad-hurdles-for-smooth-use/"><u>Overcoming Windows 11'S Elan Pad Hurdles for Smooth Use</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-and-resolve-qualcomm-atheros-bluetooth-driver-problems-in-windows-11/"><u>Troubleshoot and Resolve Qualcomm Atheros Bluetooth Driver Problems in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsupported-device-no-intel-adapters-detected/"><u>Unsupported Device - No Intel Adapters Detected</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-videopad-video-editor-a-thorough-review-and-comparison-with-other-options/"><u>Updated In 2024, Videopad Video Editor A Thorough Review and Comparison with Other Options</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-system-thwarts-gpu-connection/"><u>Win11 System Thwarts GPU Connection</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Rectify Disabled Right-Click Windows 11 Touchpad
-date: 2024-08-02T07:27:06.797Z
-updated: 2024-08-03T07:27:06.797Z
+date: 2024-12-09T23:27:22.993Z
+updated: 2024-12-16T08:35:33.365Z
 tags:
   - win11
   - win10
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Option 1: Enable your touchpad**
 
  1) Click**Start** button, and then choose**Settings** . Then choose**Devices** .
@@ -44,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c81858e3a5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then the **Mouse Properties**  window will open. Go to the furthest right option (the name of this option could be **Device Settings** or **ELAN**), then make sure your touchpad is enabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
@@ -51,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
  If the option you see here is**Device Settings** , check to see if the the Touchpad is enabled. If not, you need to press the**Settings** button to change the status to**Enabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c853d19a3d.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) You should also check to see if there is a function key that enables or disables the touchpad. On some laptop, this key is **F6** , or the combination of **Fn+F5** , or **Fn+F6**  . The icons looks like a tiny touchpad with a diagonal line through it. You should check your manual to see which key or keys could be at fault.
 
@@ -65,11 +70,19 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
  2) Go to**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On the**Touchpad** tab, in the results pane, make sure you tick the**Press the lower right corner of the touchpad to right-click** option.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/微信图片编辑_20200313133743.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 3: Reinstall**   **your driver**
 
@@ -77,11 +90,12 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c879b4b0a0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and expand the option**Mice and other pointing devices** . Then right click your touchpad drive. (Mine is called **Synaptics Pointing Device** , yours could be different.)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/synaptics-pointing-device.png)
 
  3) Then go to**Driver** tab, choose**Uninstall** option.
@@ -91,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
  4) Confirm the uninstall of your touchpad driver by ticking the box of **Delete the driver software to uninstall this device from your system** . Then check**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/delete-the-driver-software-to-uninstall-this-device-from-your-system.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) When the uninstall completes, restart your computer. Windows should help you automatically install the latest version of the driver it could find. See if your problem solved after the reinstall. If not, please follow the third option below.
 
@@ -118,16 +136,10 @@ There’re mainly 2 ways for you to update your driver:
 
 3) Then go to **Driver** tab, choose **Update Driver…**  option.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c89a864856.png)
 
  4) Windows will start helping you find the latest version of touchpad driver that it could find. But if you see the notification like the following one:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58633c3acc5d9.png)
 
 You might need to search for the driver by yourself on the Internet.
@@ -148,13 +160,14 @@ You might need to search for the driver by yourself on the Internet.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-629.png)
 
 **Note:** If you have any problems using Driver Easy Pro to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -172,8 +185,6 @@ You might need to search for the driver by yourself on the Internet.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,6 +192,20 @@ You might need to search for the driver by yourself on the Internet.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-guide-to-notable-platforms-offering-text-modifications/"><u>[Updated] 2024 Approved Guide to Notable Platforms Offering Text Modifications</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-next-level-livestream-selecting-the-best-360-cameras-for-2024/"><u>[Updated] Next-Level Livestream Selecting the Best 360° Cameras for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-hd-driver-problems-settled/"><u>[Win11] HD Driver Problems Settled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-fix-for-missing-hardware-drivers-on-pcs-with-windows-1187/"><u>Comprehensive Fix for Missing Hardware Drivers on PCs with Windows 11/8/7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-dell-touchpad-driver-issue-for-windows-7/"><u>Fix Dell Touchpad Driver Issue for Windows 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>Identify missing drivers with Windows Device Manager in Windows 7</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-the-strengths-and-flaws-in-marvels-avengers-an-in-depth-review/"><u>Navigating the Strengths and Flaws in Marvel’s Avengers - An In-Depth Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimize-win10-high-disk-utilization-fix/"><u>Optimize Win10: High Disk Utilization Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-tackling-the-missing-coprocessor-driver-error-on-windows-11-systems/"><u>Solved! Tackling The Missing Coprocessor Driver Error on Windows 11 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-reconnecting-with-your-lost-co-processor-driver-on-windows-10-machine/"><u>Step-by-Step Solution for Reconnecting with Your Lost Co-Processor Driver on Windows #10 Machine</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-razer-barracuda-x-microphone-issues-on-win11win10-systems/"><u>Troubleshooting Razer Barracuda X Microphone Issues on Win11/Win10 Systems</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-vivo-y28-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Vivo Y28 5G.</u></a></li>
+<li><a href="https://win11.techidaily.com/win-tips-swapping-display-screens/"><u>Win Tips: Swapping Display Screens</u></a></li>
+</ul></div>
 

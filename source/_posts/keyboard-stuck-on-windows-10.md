@@ -1,7 +1,7 @@
 ---
 title: Keyboard Stuck on Windows 10
-date: 2024-08-02T07:25:53.349Z
-updated: 2024-08-03T07:25:53.349Z
+date: 2024-12-11T06:21:06.863Z
+updated: 2024-12-15T19:26:43.695Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
 ## Keyboard Stuck on Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/kb1.jpg)
 
  If you’ve recently upgraded to Windows 10 and now**your keyboard isn’t working** , you’re not alone. Many other Windows 10 users are reporting the same problem, especially after installing the KB4074588 update on February 13, 2018\.
@@ -31,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 5. **[Switch to ChromeOS](https://getlyla.pxf.io/ek9gkg)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Check your USB port is working
 
@@ -54,28 +55,17 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
  3) Click**Keyboard** .
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
 
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Reinstall your keyboard driver
 
@@ -83,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
  1) Right-click the**Start** button, then click**Device Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
@@ -116,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -125,11 +116,16 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 5: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -159,8 +155,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,6 +162,22 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-2023s-top-contenders-gopro-hero5-vs-yi-4k-action-cameras/"><u>[New] 2024 Approved 2023'S Top Contenders GoPro Hero5 Vs. Yi 4K Action Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-budget-recording-tools-the-ultimate-guide-for-windows/"><u>[New] 2024 Approved Budget Recording Tools The Ultimate Guide for Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721099736614-solved-cant-find-the-name-of-intel-icd-opengl-driver/"><u>[SOLVED] Can’t Find the Name of Intel ICD OpenGL Driver</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-font-selection-wonders-enhancing-youtube-video-thumbnails/"><u>[Updated] Font Selection Wonders Enhancing YouTube Video Thumbnails</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-platforms-converting-vids-for-the-bird/"><u>[Updated] Premium Platforms Converting Vids for the Bird</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-secrets-revealed-how-to-boost-facebook-rankings-in-under-a-minute/"><u>[Updated] Secrets Revealed How to Boost Facebook Rankings in Under a Minute</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-ultimate-guide-how-to-combine-mp3s-efficiently-on-windows-11/"><u>1. Ultimate Guide: How to Combine MP3s Efficiently on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-driver-installation-without-intel-component/"><u>Error: Driver Installation Without Intel Component</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-errors-how-to-update-incompatible-computer-drivers-successfully/"><u>Fixing Errors: How To Update Incompatible Computer Drivers Successfully</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/free-online-converter-switch-from-aiff-to-aac-format-with-ease-movavi/"><u>Free Online Converter: Switch From AIFF to AAC Format with Ease - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-the-cloud-directly-from-windows-accessible-storage-solutions/"><u>Harnessing the Cloud Directly From Windows: Accessible Storage Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncover-top-affordable-video-enhancement-platforms-a-comprehensive-guide/"><u>In 2024, Uncover Top Affordable Video Enhancement Platforms - A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-lenovos-windows-10-connectivity-issues/"><u>Overcoming Lenovo's Windows 10 Connectivity Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unseen-usb-devices-on-win-1011/"><u>Unseen USB Devices on Win 10/11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-disallows-graphics-card-use/"><u>Win11 Disallows Graphics Card Use</u></a></li>
+</ul></div>
 

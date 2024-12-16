@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 and NVIDIA GeForce GTX 950 Code 43 Error: Solutions and Workarounds"
-date: 2024-12-07T08:01:22.210Z
-updated: 2024-12-10T00:18:29.055Z
+date: 2024-12-13T10:39:12.899Z
+updated: 2024-12-15T21:26:15.443Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** .
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
@@ -60,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
 
@@ -74,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded.
 
@@ -92,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -101,19 +97,23 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Option 2: Update Windows 10**
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Check for updates** button to see if there are any new updates available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) If new updates are available, just download and then update them as instructed.
 
@@ -155,21 +155,22 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-enhancing-listener-engagement-through-excellent-intros/"><u>[New] 2024 Approved Enhancing Listener Engagement Through Excellent Intros</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-to-make-reels-on-facebook/"><u>[New] 2024 Approved How to Make Reels on Facebook?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-boost-your-chances-strategic-keywords-for-youtubers-for-2024/"><u>[Updated] Boost Your Chances Strategic Keywords for YouTubers for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-precision-in-sound-10-tips-for-professional-audio-quality/"><u>2024 Approved Precision in Sound 10 Tips for Professional Audio Quality</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/download-and-update-your-brother-mfc-ebcdw-driver-on-windows-1087-with-simple-steps/"><u>Download & Update Your Brother MFC-Ebcdw Driver on Windows 10/8/7 with Simple Steps!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-installation-guide-brother-mfc-9340cdw-drivers-for-windows-11-8-and-7/"><u>Easy Installation Guide - Brother MFC-9340CDW Drivers for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effortlessly-update-and-fix-hp-envy-7640-graphics-card-drivers/"><u>Effortlessly Update and Fix HP ENVY 7640 Graphics Card Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-hp-envy-7640-driver-issues-easily/"><u>Fix HP ENVY 7640 Driver Issues. Easily!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/get-the-latest-netgear-a6210-driver-software-for-windows-8-or-7-free-download-option/"><u>Get the Latest NetGear A6210 Driver Software for Windows 8 or 7 - Free Download Option</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-x-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone X In Different Conditionsin</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-4650dn-driver-download-and-update-easily/"><u>HP 4650Dn Driver Download & Update EASILY!</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-combine-audio-streams-into-powerpoint-flow/"><u>In 2024, Combine Audio Streams Into PowerPoint Flow</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-unlock-full-potential-of-obs-studio-for-android-devices/"><u>In 2024, Unlock Full Potential of OBS Studio for Android Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intel-bluetooth-driver-update-quickly-and-easily/"><u>Intel Bluetooth Driver Update Quickly & Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016533120-revitalize-your-webex-audio-the-essential-guide-to-mic-fixes-in-2n4/"><u>Revitalize Your Webex Audio - The Essential Guide to Mic Fixes in 2N4</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-effortlessly-convert-youtube-audio-top-4-low-cost-apps/"><u>[New] In 2024, Effortlessly Convert YouTube Audio - Top 4 Low-Cost Apps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-optimal-downloaders-your-guide-to-superior-4k-content/"><u>[New] In 2024, Optimal Downloaders Your Guide to Superior 4K Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-from-amateurs-to-experts-shooting-spectacentic-photos-and-videos/"><u>[Updated] In 2024, From Amateurs to Experts Shooting Spectacentic Photos & Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-asmr-app-selection-guide-for-phones/"><u>2024 Approved ASMR App Selection Guide for Phones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-nvidia-windows-kernel-mode-driver-stopped-responding-issue/"><u>Fix NVIDIA Windows Kernel Mode Driver Stopped Responding Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-lack-of-support-for-amdintel-drivers-in-premier-pro-software/"><u>Fixed Lack of Support for AMD/Intel Drivers in Premier Pro Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967281568-get-the-newest-mpow-bluetooth-software-for-windows-update-now/"><u>Get the Newest MPOW Bluetooth Software for Windows - Update Now!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/home-grown-solution-for-chinese-servers-how-tencentos-optimizes-performance-on-kunpeng-hygon-and-feiteng-cpus/"><u>Home-Grown Solution for Chinese Servers: How TencentOS Optimizes Performance on Kunpeng, Hygon & FeiTeng CPUs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-a-missing-intel-processor-driver-error-on-windows-11-instantly-solved/"><u>How to Fix a Missing Intel Processor Driver Error on Windows 11 (Instantly Solved)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-dealing-with-outdated-usb-composite-devices-solution/"><u>How to Fix: Dealing with Outdated USB Composite Devices - SOLUTION</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-banner-bliss-get-a-peek-at-our-library-of-50-free-youtube-banners/"><u>In 2024, Banner Bliss Get a Peek at Our Library of 50 Free YouTube Banners!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tment-edutainment-the-best-channels-reviewed-for-2024/"><u>Investment Edutainment The Best Channels Reviewed for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/mastering-the-aws-s3-sync-command-a-step-by-step-guide-with-cli-examples/"><u>Mastering the AWS S3 'Sync' Command: A Step-by-Step Guide with CLI Examples</u></a></li>
+<li><a href="https://driver-error.techidaily.com/removing-your-graphics-cards-driver-in-windows-safemode-a-step-by-step-tutorial/"><u>Removing Your Graphics Card's Driver in Windows #SafeMode – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/the-evolution-of-mobile-and-sms-advertising-in-the-last-decade-a-comprehensive-guide-to-campaign-strategies-and-best-practices-updated/"><u>The Evolution of Mobile & SMS Advertising in the Last Decade: A Comprehensive Guide to Campaign Strategies and Best Practices (Updated)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-and-solve-your-gtx-950-with-error-code-43-in-win11/"><u>Troubleshoot and Solve Your GTX 950 with Error Code 43 in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-troubleshooting-bluetooth-glitches-fixed/"><u>Windows Troubleshooting: Bluetooth Glitches Fixed!</u></a></li>
 </ul></div>
 

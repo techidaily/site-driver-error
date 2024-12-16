@@ -1,7 +1,7 @@
 ---
 title: Missing DVD/CD Driver on Win11? Fixed!
-date: 2024-08-02T07:26:38.028Z
-updated: 2024-08-03T07:26:38.028Z
+date: 2024-12-15T08:05:21.997Z
+updated: 2024-12-16T11:30:40.686Z
 tags:
   - win11
   - win10
@@ -34,15 +34,11 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time, click**Device Manager** .
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6098ec3402.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Locate**IDE ATA/ ATAPI controllers** .
  3) Right-click **ATA Channel 0** and click **Uninstall** .
@@ -53,15 +49,16 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e199372f3c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) If you have more options under**IDE/ ATAPI controllers** category, right-click them and click**Uninstall** as above procedures.
 
  6) Reboot your computer after these changes.
 
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **2: Update drivers**
 
  If uninstalling the IDE ATA/ ATAPI controller drivers doesn’t solve the problem for you, it’s likely that you’re using the wrong driver altogether.
@@ -82,10 +79,15 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
 
@@ -97,13 +99,18 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Follow the path:
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\ {4D36E965-E325-11CE-BFC1-08002BE10318}**
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
 
@@ -136,14 +143,15 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -155,8 +163,6 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,6 +170,23 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/titled-successful-installation-of-essential-hardware-drivers/"><u>[TITLED] Successful Installation of Essential Hardware Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/conquer-directx-9-startup-issues-in-5-minutes/"><u>Conquer DirectX 9 Startup Issues in 5 Minutes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-methods-to-transform-ipad-footage-into-mp4-files/"><u>Easy Methods to Transform iPad Footage Into MP4 Files</u></a></li>
+<li><a href="https://driver-error.techidaily.com/endless-bluetooth-woes-no-more-win10-edition/"><u>Endless Bluetooth Woes, No More! - Win10 Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-ready-fun-the-top-contenders-in-next-years-console-war/"><u>Future-Ready Fun: The Top Contenders in Next Year's Console War</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-for-cognitive-behavioral-therapy/"><u>How to Use ChatGPT for Cognitive Behavioral Therapy</u></a></li>
+<li><a href="https://driver-error.techidaily.com/htc-one-mini-bluetooth-failure-on-elementary-os-4-loki-resolved-37-characters/"><u>HTC One Mini Bluetooth Failure on Elementary OS 4 Loki, Resolved! (37 Characters)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-fortune-awaits-in-marketing-unveil-the-full-set-of-our-50-free-youtube-ads/"><u>In 2024, Fortune Awaits in Marketing! Unveil the Full Set of Our 50 Free YouTube Ads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instant-sticker-transformation-your-guide-to-making-gifs-pop-in-telegram-and-more/"><u>In 2024, Instant Sticker Transformation Your Guide to Making GIFs Pop in Telegram & More</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-review-of-the-revolutionary-2-in-1-lenovo-thinkpad-x1-titanium-perfect-for-devoted-thinkpad-aficionados/"><u>In-Depth Review of the Revolutionary 2-in-1 Lenovo ThinkPad X1 Titanium: Perfect for Devoted ThinkPad Aficionados</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reactivation-process-complete/"><u>Reactivation Process Complete</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-ranking-of-superior-external-blu-ray-drives-to-upgrade-your-setup-in-2024/"><u>The Definitive Ranking of Superior External Blu-Ray Drives to Upgrade Your Setup in 지난해 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-impact-of-photoshops-stabilization-on-quality-control-for-2024/"><u>The Impact of Photoshop's Stabilization on Quality Control for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-high-speed-mobile-connections-expert-tips-for-improved-performance/"><u>Unlocking High-Speed Mobile Connections: Expert Tips for Improved Performance</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win10-addressing-usb-non-responsive/"><u>Win10: Addressing USB Non-Responsive</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-1011-recover-absent-data-acquisitor/"><u>Windows 10/11: Recover Absent Data Acquisitor</u></a></li>
+</ul></div>
 
