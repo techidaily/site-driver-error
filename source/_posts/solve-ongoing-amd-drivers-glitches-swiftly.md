@@ -1,7 +1,7 @@
 ---
 title: Solve Ongoing AMD Drivers Glitches Swiftly
-date: 2024-12-11T05:47:02.545Z
-updated: 2024-12-15T16:30:38.862Z
+date: 2024-12-19T06:54:36.915Z
+updated: 2024-12-25T06:08:17.524Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/0354f8e14674fab0ca20c7e6ac5698288d836a493
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/12/AMD-Radeon-RX-6700-XT.jpg)
 4. After updating, restart your computer to take effect.
@@ -49,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/0354f8e14674fab0ca20c7e6ac5698288d836a493
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Roll back the faulty AMD driver
 
@@ -61,7 +61,7 @@ Here’s how:
 2. Locate on **the faulty AMD driver** and double-click on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click the **Driver** tab and then click **Roll Back Driver** .  
@@ -69,10 +69,14 @@ Here’s how:
 4. Click **Yes** to confirm. Then the driver will be restored to a previous version.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. **Restart** you computer and check if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Repair system files
 
@@ -108,15 +112,11 @@ Here’s how to use Fortect to repair system files on your PC:
 2. Click**Yes** when prompted to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 4. Restart your computer for the changes to take effect.
@@ -143,17 +143,17 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-get-creative-streamline-your-movies-with-one-clicks-on-windows-10/"><u>[Updated] Get Creative Streamline Your Movies with One Clicks on Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bring-new-life-to-old-computers-mastering-the-art-of-damn-small-linux-installation/"><u>Bring New Life to Old Computers: Mastering the Art of Damn Small Linux Installation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-prime-spots-to-purchase-quality-mobile-devices/"><u>Discover Prime Spots to Purchase Quality Mobile Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-realtek-network-not-operational-in-10/"><u>Fixing Realtek Network Not Operational in 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-video-upside-down-issue-on-asus-laptop/"><u>How to Fix Video Upside Down Issue on ASUS Laptop</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfectly-sync-apple-music-to-your-videos/"><u>In 2024, Perfectly Sync Apple Music to Your Videos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/in-depth-strategies-for-curtailing-the-starfield-high-cpu-drain/"><u>In-Depth Strategies for Curtailing the Starfield High CPU Drain</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-canvass-skin-removal-an-experts-handbook/"><u>Mastering Canvas's Skin Removal An Expert's Handbook</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-sovled-warno-malfunctions-on-desktop-effective-strategies-to-stop-the-crashing/"><u>Overcome [SOVLED] Warno Malfunctions on Desktop: Effective Strategies to Stop the Crashing</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlocking-the-mystery-getting-your-wireless-keyboard-functional-again-on-windows/"><u>Unlocking the Mystery: Getting Your Wireless Keyboard Functional Again on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11s-high-def-audio-triumph/"><u>Win11's High-Def Audio Triumph</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-prodigy-vs-creative-hub-beta-edition-for-2024/"><u>YouTube Prodigy Vs. Creative Hub Beta Edition for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-enhance-photos-on-the-go-top-10-no-cost-android-and-iphone-editors/"><u>[New] 2024 Approved Enhance Photos on the Go – Top 10 No-Cost Android & iPhone Editors</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enhancing-facebooks-reflective-feature-editing-techniques-for-2024/"><u>[Updated] Enhancing Facebook's Reflective Feature Editing Techniques for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-economic-approaches-to-online-educational-broadcasting/"><u>[Updated] In 2024, Economic Approaches to Online Educational Broadcasting</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/beyond-netflix-and-co-building-my-custom-streaming-experience-a-step-by-step-guide/"><u>Beyond Netflix & Co.: Building My Custom Streaming Experience - A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-interrupt-denied-win11-error/"><u>Graphics Interrupt Denied: Win11 Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/historical-tech-revisited-navigating-and-resolving-classic-usb-composite-device-challenges/"><u>Historical Tech Revisited: Navigating and Resolving Classic USB Composite Device Challenges</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-update-razer-deathadder-driver-on-windows-11/"><u>How to Update Razer Deathadder Driver on Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oneplus-ace-2-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor OnePlus Ace 2 Activity | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-itbm-driver-not-found-effortless-solutions-at-hand/"><u>Troubleshooting ITBM Driver Not Found: Effortless Solutions at Hand</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970537692-update-your-intel-nuc-drives-with-ease-and-enhance-your-computers-speed/"><u>Update Your Intel NUC Drives with Ease and Enhance Your Computer's Speed</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/why-does-your-pc-crash-when-launching-specific-applications-solutions-by-yl-computing-and-yl-software/"><u>Why Does Your PC Crash When Launching Specific Applications? - Solutions by YL Computing & YL Software</u></a></li>
 </ul></div>
 

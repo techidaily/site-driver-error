@@ -1,7 +1,7 @@
 ---
 title: "Reinstating Lost Connection: Fix Disappearing Bluetooth Hub"
-date: 2024-12-12T10:40:03.107Z
-updated: 2024-12-16T00:08:30.000Z
+date: 2024-12-18T16:55:08.594Z
+updated: 2024-12-25T07:05:31.467Z
 tags:
   - win11
   - win10
@@ -34,21 +34,17 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On your keyboard, press the**Windows** logo key +**R** key and enter**ms-settings:bluetooth** to open your Bluetooth settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-14.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Add Bluetooth devices again. If your devices are listed here, you can remove them and add them back again. If your Bluetooth option is also missing from settings or grayed out, it means there’s some problem with your Bluetooth driver, and you should go to the next fix instead.
 
 ![bluetooth settings](https://images.drivereasy.com/wp-content/uploads/2021/11/image-15-1200x938.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart your PC and check if this fixes your**Bluetooth missing from Device Manager** problem. If it doesn’t show in the Device Manager, you can try the next fix below.
 
@@ -60,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-17.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-16.png)
@@ -71,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
  3) The Windows diagnostic tool will start detecting problems. Wait for the process to complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-18-1200x934.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Apply this fix** to install some missing drivers and updates that your system finds. Usually, this requires a restart. Make sure you have saved the opened files prior to that.
 
@@ -98,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-21-1200x914.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** You can uninstall a driver by clicking the down arrow key next to a device, and selecting**Uninstall driver** .
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -108,11 +108,11 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 ![show hidden devices](https://images.drivereasy.com/wp-content/uploads/2021/11/image-26-1200x890.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Restart the Bluetooth service
@@ -124,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-22.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Once the Services window opens, locate Restart Bluetooth Support Service. Right-click the**Bluetooth Support Service** and select**Restart** . If it’s not working, you can right-click it and select**Start** .
@@ -136,7 +136,7 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-24-1200x854.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Ensure **startup type** is**Automatic** .
@@ -167,15 +167,17 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-effortless-screen-capture-in-dota-2-matches/"><u>[New] Effortless Screen Capture in Dota 2 Matches</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-mastering-waves-with-top-surf-cams/"><u>[New] Mastering Waves with Top Surf Cams</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-bcm20702a0-driver-is-unavailable-error/"><u>[SOLVED] BCM20702A0 Driver Is Unavailable Error</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-tips-for-effective-mov-storage-in-windows-10/"><u>2024 Approved Essential Tips for Effective .mov Storage in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enhance-gaming-performance-on-windows-10-via-razer-driver-update/"><u>Enhance Gaming Performance on Windows 10 via Razer Driver Update</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-renesas-usb-30-driver-issue-on-windows-11/"><u>Fix Renesas USB 3.0 Driver Issue on Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-claude-3-learn-how-to-utilize-this-advanced-tool-effectively/"><u>Mastering Claude 3: Learn How To Utilize This Advanced Tool Effectively</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/protection-complet-du-sys-par-le-biais-de-backup-guide-facile-5-etapes/"><u>Protection Complet Du Sys Par Le Biais De Backup: Guide Facile 5 Étapes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/seagate-hdd-unseen-in-windows-10-resolution-guide/"><u>Seagate HDD Unseen in Windows 10 - Resolution Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/sometimes-you-may-come-across-avidemux-no-sound-issue-after-exporting-the-project-want-to-find-a-solution-just-read-on-this-article-for-2024/"><u>Sometimes You May Come Across Avidemux No Sound Issue After Exporting the Project. Want to Find a Solution? Just Read on This Article for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-excellence-engineers-select-laptop-choices-for-4k-editing-pros/"><u>[New] 2024 Approved Excellence Engineers Select Laptop Choices for 4K Editing Pros</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-harmonious-hummingbird-hustle/"><u>[New] Harmonious Hummingbird Hustle</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mac-high-quality-video-and-audible-recording/"><u>[New] In 2024, Mac High-Quality Video & Audible Recording</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-art-of-video-popularity-secrets-for-youtube-stardom-for-2024/"><u>[New] The Art of Video Popularity Secrets for YouTube Stardom for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-complete-checklist-for-pureaudioextract-2024-usage/"><u>[Updated] The Complete Checklist for PureAudioExtract 2024 Usage</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategic-steps-making-your-private-yt-videos-public-via-google/"><u>2024 Approved Strategic Steps Making Your Private YT Videos Public via Google</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/basta-2024-vokaliserar-softwaren-gratist-och-priserad-alternativ/"><u>Bästa 2024 Vokaliserar-Softwaren: Gratist Och Priserad Alternativ</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-base-system-device-driver-issue-in-device-manager/"><u>How to Fix Base System Device Driver Issue in Device Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revising-illegal-configuration-segment-in-inf/"><u>Revising Illegal Configuration Segment in INF</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-and-simple-how-to-update-windows-10s-deadriver-seamlessly/"><u>Swift and Simple: How to Update Windows 10'S DeaDriver Seamlessly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721100561642-tackling-vintage-usb-composite-unit-issues-solutions-for-a-smarter-connection/"><u>Tackling Vintage USB Composite Unit Issues - Solutions for a Smarter Connection!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-get-creative-with-audio-best-video-dubbing-apps-of-the-year/"><u>Updated Get Creative with Audio Best Video Dubbing Apps of the Year</u></a></li>
 </ul></div>
 

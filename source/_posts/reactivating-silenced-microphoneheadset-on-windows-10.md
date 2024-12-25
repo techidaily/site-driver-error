@@ -1,7 +1,7 @@
 ---
 title: Reactivating Silenced Microphone/Headset on Windows 10
-date: 2024-12-05T05:26:44.170Z
-updated: 2024-12-10T00:48:12.790Z
+date: 2024-12-18T05:35:21.894Z
+updated: 2024-12-24T22:14:32.074Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/c06aefbb181f576852b2577ec9d3544ebd6635b5e
 
 **Note:** Before we go, plug your headset into different USB ports and replace your USB headset with another one to check if the issue is due to the headset. If it doesn’t work either, then go with the fixes below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Do not plug your USB headset while Windows 10 is booting
 
  Some conflicts could exist between your USB headset and other USB devices. To avoid this conflict, please be sure to plug your USB headset in after your computer gets into Windows 10.```` ``
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/c06aefbb181f576852b2577ec9d3544ebd6635b5e
 
 Check if your headset works properly now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run the Hardware Devices troubleshooter
 
  The troubleshooter can find and automatically fix some problems with your computer.
@@ -49,6 +41,10 @@ Check if your headset works properly now.
 1. Type **troubleshooting**  in the search box from the Start menu. Then click **Find and fix problems**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-14.png)  
 ```` ```` ````
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2. Click **Hardware and Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-12.png)  
@@ -63,10 +59,6 @@ Check if your headset works properly now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After that, check if your headset works properly now.
 
  If you fail to find the Hardware and Devices Troubleshooter in the Control Panel, that’s probably because your computer version is after **Windows 10 build 1809** . The version has removed the Hardware and Devices Troubleshooter. Don’t worry, you can still run the Hardware and Devices Troubleshooter in this way:
@@ -75,17 +67,25 @@ After that, check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_15-52-49.jpg)
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
 
 5. Relaunch your computer and check whether the issue is resolved or not.````
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Set your USB headset as default device
 
@@ -94,16 +94,12 @@ After that, check if your headset works properly now.
 2. Highlight your headset, then click **Set** **Default** . Click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
 
 ```` ```` ```` Check if your headset works properly now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -121,6 +117,10 @@ After that, check if your headset works properly now.
  Note: You can also do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Sound-driver.jpg)
 4. Restart your computer and check to see if your headset works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -143,18 +143,18 @@ After that, check if your headset works properly now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-secrets-to-storing-and-viewing-digital-television-shows/"><u>[New] 2024 Approved Secrets to Storing and Viewing Digital Television Shows</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-ideal-internet-spots-curated-custom-tones-downloads-for-2024/"><u>[Updated] Ideal Internet Spots Curated Custom Tones Downloads for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-expert-tips-for-obs-and-facebook-integration/"><u>2024 Approved Expert Tips for OBS and Facebook Integration</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cant-install-drivers-due-to-lack-of-intel-card/"><u>Can't Install Drivers Due to Lack of Intel Card</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-errors-with-your-final-usb-gadget-when-windows-fails-to-detect/"><u>Fixing Errors with Your Final USB Gadget: When Windows Fails to Detect</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-correct-the-access-denied-hurdle-in-your-usb-device-setup-process/"><u>How To Correct the 'Access Denied' Hurdle in Your USB Device Setup Process</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oppo-reno-11-pro-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Oppo Reno 11 Pro 5G Phones</u></a></li>
-<li><a href="https://driver-error.techidaily.com/lost-the-sight-of-my-logitech-brio-webcam-in-windows-heres-what-i-did-to-find-it-again-post-update-step-by-step-fixed/"><u>Lost the Sight of My Logitech Brio Webcam in Windows? Here's What I Did to Find It Again Post-Update (Step by Step) [Fixed]</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamlining-post-production-mastering-the-green-screen-process-kinemaster-for-2024/"><u>Streamlining Post-Production Mastering the Green Screen Process (KineMaster) for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/swift-remediation-of-windows-drivers/"><u>Swift Remediation of Windows Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-resolving-nvidias-gtx-950-code-43-issue-in-windows-10-operating-system/"><u>Troubleshooting and Resolving NVIDIA's GTX 950 'Code 43' Issue in Windows 10 Operating System</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unveiling-the-technology-behind-whatsapp-voice-calls-for-2024/"><u>Unveiling the Technology Behind WhatsApp Voice Calls for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/windows-11-pcmov/"><u>Windows 11 PC上でMOVファイルが正常に再生するためのガイド</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-freeze-time-like-never-before-on-the-newest-mi-phone/"><u>[New] 2024 Approved Freeze Time Like Never Before on the Newest Mi Phone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-empowerment-in-entertainment-top-10-inspirational-women/"><u>[New] In 2024, Empowerment in Entertainment Top 10 Inspirational Women</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-nvidia-kernel-mode-driver-crash/"><u>[Solved] NVIDIA Kernel Mode Driver Crash</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-swift-snapfile-reinstatement-guide-for-2024/"><u>[Updated] Swift Snapfile Reinstatement Guide for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/connecting-unify-linker-on-latest-windows-editions/"><u>Connecting Unify Linker on Latest Windows Editions</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-breaking-down-barriers-for-windows-games-on-applesilicon/"><u>CrossOver: Breaking Down Barriers for Windows Games on AppleSilicon</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-transformation-of-swf-videos-into-high-quality-mkv-files-try-it-now/"><u>Effortless Transformation of SWF Videos Into High-Quality MKV Files - Try It Now!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-touchpad-right-click-issue-in-windows-11-resolved/"><u>Fix: Touchpad Right-Click Issue in Windows 11 - Resolved</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210835946-9783988263483-household-gods/"><u>Household Gods | Free Book</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-11-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone 11 in the Best Ways</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-honor-100-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Honor 100 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-1011-bring-back-lost-acquisitor/"><u>Win 10/11: Bring Back Lost Acquisitor</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-sound-restored-no-drivers-worrying/"><u>Win11 Sound Restored, No Drivers Worrying</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Solution to Error Code 52
-date: 2024-12-10T02:42:17.173Z
-updated: 2024-12-15T20:17:43.713Z
+date: 2024-12-18T18:37:54.605Z
+updated: 2024-12-25T00:28:03.324Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ Does this screenshot look similar?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.png)
 
  If you’re getting the **Code 52 driver error** of your USB devices on your computer, it could be super frustrating. But don’t panic. You’re certainly not the only one. We’ve seen many users are reporting this issue. Luckily, we’ve found the answer for you. Read on and find out how…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -61,15 +57,15 @@ Does this screenshot look similar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97921901b04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note: You can do it **for free** if you like, but it’s partly manual.
 
  Once you install the correct driver for your device, check if the error disappears. If your device works without any problem, so great! If you still see the error, don’t give up hope, you still have something else to try…
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Delete both the UpperFilters and LowerFilters Registry values
 
@@ -87,18 +83,22 @@ Here’s how to delete the values:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978e1d8c395.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Go to **Computer** \> **HKEY\_LOCAL\_MACHINE** \> **SYSTEM** \> **CurrentControlSet** \> **Control** \> **Class** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978e6de98f1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) ➡ **Important** : We highly recommend performing a backup for the registry keys in case any error occurs during the following process. Follow these simple steps:  
  Right-click on Class to select **Export** . Then give the export file a name, say, Class Backup. Proceed to select the backup folder, then **Save** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978ec11e9f5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) In the Class section, Click **{36FC9E60-C465-11CF-8056-444553540000}** , then on its edit pane on the right side, right-click **UpperFilters** to select **Delete** \> **OK** .
 
@@ -109,7 +109,7 @@ Here’s how to delete the values:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 3: Enable the ‘Disable driver signature enforcement’ feature
@@ -127,7 +127,7 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97906e91771.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click **Advanced options** .
@@ -166,18 +166,22 @@ Here’s how you can do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-beginners-guide-decoding-av1-technology/"><u>[New] 2024 Approved Beginner's Guide Decoding AV1 Technology</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1725288258213-2022dvd/"><u>2022最强大的DVD到数字化转换技术：终极指南</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-insta-to-tik-flow-guidebook/"><u>2024 Approved Insta to Tik Flow Guidebook</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-infinix-smart-8-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-non-recognized-device-issue-a-guide-to-usb-and-windows/"><u>Fix Non-Recognized Device Issue: A Guide to USB & Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-the-hardware-detected-is-not-supported-by-this-idt-software-package-issue/"><u>Fix The Hardware Detected Is Not Supported by This IDT Software Package Issue</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigate-through-green-screen-muddle-on-mac-for-smooth-youtubing/"><u>In 2024, Navigate Through Green Screen Muddle on Mac for Smooth YouTubing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-innovators-defining-next-gen-vr-experiences/"><u>In 2024, Top Innovators Defining Next-Gen VR Experiences</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/installing-da-only-wizard-and-constructing-da-butcher-mods-in-kodi-a-comprehensive-guide/"><u>Installing Da Only Wizard & Constructing Da Butcher Mods in Kodi: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-non-supportive-device-alerts-within-idt-software-environments/"><u>Overcoming Non-Supportive Device Alerts Within IDT Software Environments</u></a></li>
-<li><a href="https://driver-error.techidaily.com/silent-peripheral-no-response-in-windows-os/"><u>Silent Peripheral: No Response in Windows OS</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-sailing-ahead-resolving-game-crashes-on-sea-of-thieves/"><u>Smooth Sailing Ahead - Resolving Game Crashes on Sea of Thieves</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ultimate-solution-getting-your-device-recognized-with-proper-drivers-on-widows-os/"><u>Ultimate Solution: Getting Your Device Recognized with Proper Drivers on Widows OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-exceptional-zero-cost-passport-portrait-clients/"><u>10 Exceptional, Zero-Cost Passport Portrait Clients</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-maximizing-reach-sharing-igtv-to-fb-4-methods/"><u>2024 Approved Maximizing Reach Sharing IGTV to FB (4 Methods)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnose-and-repair-device-is-misconfigured-with-helpful-tips-for-code-1/"><u>Diagnose and Repair 'Device Is Misconfigured' With Helpful Tips for Code 1</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/easy-guide-on-converting-and-downloading-skillmeup-video-content-in-various-formats/"><u>Easy Guide on Converting and Downloading SkillMeup Video Content in Various Formats</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/efficient-and-discreet-iphone-data-removal-tools-keep-private-info-safe/"><u>Efficient & Discreet iPhone Data Removal Tools – Keep Private Info Safe</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-mgmt-error-45-resolved/"><u>Hardware Mgmt: Error #45 Resolved</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-y77t-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y77t Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/in-built-wi-fi-bluetooth-not-responding-on-laptop-running-win-10-how-to-fix/"><u>In-Built Wi-Fi, Bluetooth Not Responding on Laptop Running Win 10 - How to Fix?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-perception-pioneering-hdr-art-with-photoshop-for-2024/"><u>Professional Perception Pioneering HDR Art with PhotoShop for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2543810-9781780289786-radical-awakening/"><u>Radical Awakening | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reliable-or-risky-assessing-chatgpt-plugins-security/"><u>Reliable or Risky: Assessing ChatGPT Plugins' Security</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-unsupported-graphics-in-premiere-pro-with-amdintel/"><u>Resolved: Unsupported Graphics in Premiere Pro with AMD/Intel</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reviving-lenovo-bt-with-win11-expertise-and-know-how/"><u>Reviving Lenovo BT with Win11 Expertise and Know-How</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-repair-methods-for-fixing-madden-22-errors-fast/"><u>Step-by-Step Repair Methods for Fixing Madden 22 Errors Fast</u></a></li>
+<li><a href="https://driver-error.techidaily.com/viking-saga-unleashed-in-assassins-creed-valhalla-a-gripping-journey-through-medieval-times/"><u>Viking Saga Unleashed in 'Assassin's Creed: Valhalla': A Gripping Journey Through Medieval Times</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wdcsam64prewin8sys-disabling-core-isolation/"><u>wdcsam64_prewin8.sys - Disabling Core Isolation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win10-solution-lenovo-bt-driver-malfunction/"><u>Win10 Solution: Lenovo BT Driver Malfunction</u></a></li>
 </ul></div>
 

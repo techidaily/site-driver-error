@@ -1,7 +1,7 @@
 ---
 title: "Fix: Inoperative Right-Click Not Working on Windows 11 Touchpad"
-date: 2024-12-10T21:14:14.937Z
-updated: 2024-12-16T00:39:30.649Z
+date: 2024-12-21T23:09:41.126Z
+updated: 2024-12-24T17:18:23.330Z
 tags:
   - win11
   - win10
@@ -37,9 +37,17 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c8131acdae.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, choose**Mouse & touchpad** . Then scroll down to the bottom of the screen and click**Additional mouse options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c81858e3a5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Then the **Mouse Properties**  window will open. Go to the furthest right option (the name of this option could be **Device Settings** or **ELAN**), then make sure your touchpad is enabled.
 
@@ -49,17 +57,9 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c853d19a3d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) You should also check to see if there is a function key that enables or disables the touchpad. On some laptop, this key is **F6** , or the combination of **Fn+F5** , or **Fn+F6**  . The icons looks like a tiny touchpad with a diagonal line through it. You should check your manual to see which key or keys could be at fault.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Check your touchpad setting
 
@@ -74,10 +74,14 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/微信图片编辑_20200313133743.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 3: Reinstall**   **your driver**
@@ -87,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c879b4b0a0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and expand the option**Mice and other pointing devices** . Then right click your touchpad drive. (Mine is called **Synaptics Pointing Device** , yours could be different.)
@@ -97,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
  3) Then go to**Driver** tab, choose**Uninstall** option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/driver-uninstall-properties.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Confirm the uninstall of your touchpad driver by ticking the box of **Delete the driver software to uninstall this device from your system** . Then check**OK** to save the change.
 
@@ -122,17 +130,9 @@ There’re mainly 2 ways for you to update your driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c879b4b0a0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Locate and expand the option**Mice and other pointing devices** . Then right click your touchpad drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/synaptics-pointing-device.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Then go to **Driver** tab, choose **Update Driver…**  option.
 
@@ -160,15 +160,15 @@ You might need to search for the driver by yourself on the Internet.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-629.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** If you have any problems using Driver Easy Pro to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -194,21 +194,14 @@ You might need to search for the driver by yourself on the Internet.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-hilarity-unleashed-prime-meme-text-generators/"><u>[New] In 2024, Hilarity Unleashed Prime Meme Text Generators</u></a></li>
-<li><a href="https://driver-error.techidaily.com/status-update-device-recognition-success/"><u>[Status Update: Device Recognition Success]</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-securely-accessing-your-fb-status-video/"><u>[Updated] Securely Accessing Your FB Status Video</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-quick-guide-to-capturing-and-storing-twitter-animated-content/"><u>[Updated] The Quick Guide to Capturing and Storing Twitter Animated Content</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-guide-to-calculate-your-youtube-views-and-money-for-2024/"><u>[Updated] Ultimate Guide to Calculate Your YouTube Views and Money for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/advanced-tips-for-3d-color-grading/"><u>Advanced Tips for 3D Color Grading</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/budget-friendly-cloud-pricing-showdown-for-2024/"><u>Budget-Friendly Cloud Pricing Showdown for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-a-supported-tablet-was-not-found-on-the-system/"><u>Fixed: A Supported Tablet Was Not Found on the System</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-crop-image-online-in-2024/"><u>How To Crop Image Online, In 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/invalid-inf-service-setup-resolved/"><u>Invalid INF Service Setup - Resolved</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/preserving-perfection-a-step-by-step-guide-to-change-hevc-video-format-to-mp4-without-compromising-clarity/"><u>Preserving Perfection: A Step-by-Step Guide to Change HEVC Video Format to MP4 Without Compromising Clarity</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-endless-bluetooth-in-win10/"><u>Solving Endless Bluetooth in Win10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-tutorial-to-recover-disappeared-gpu-drivers-on-windows-10-platforms/"><u>Step-by-Step Tutorial to Recover Disappeared GPU Drivers on Windows 10 Platforms</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unearthing-the-opengl-enhanced-intel-chipset/"><u>Unearthing the OpenGL-Enhanced Intel Chipset</u></a></li>
-<li><a href="https://driver-error.techidaily.com/widest-issue-flawed-usb-serial-interface-in-windows/"><u>Widest Issue: Flawed USB-Serial Interface in Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/iuu5houuloyypoyxkoyencdsm4zthldrp4jtgawg7kcc6rgw7zwy64quioyekoyeudog66qo67cu7j2866gc7j2yio2aqoqzvoyggeyducdshozsnkai/"><u>비디오에서 워터마크 제거하는 자세: 모바일로의 효과적인 소유</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-maximize-impact-mastering-igtv-content-submission/"><u>[New] Maximize Impact Mastering IGTV Content Submission</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098332496-bluetooth-unresponsive-windows-10-a-step-by-step-guide/"><u>Bluetooth Unresponsive – Windows 10: A Step by Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/boost-your-pc-with-new-razer-deadriver-on-windows-10/"><u>Boost Your PC with New Razer DeaDriver on Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-multi-core-setup-silverstones-xe360-dual-all-in-one-liquid-cooler-for-two-cpus-simultaneously/"><u>Elevate Your Multi-Core Setup: SilverStone's XE360-Dual All-in-One Liquid Cooler for Two CPUs Simultaneously</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-pro-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme 12 Pro 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-ringtone-overhaul-transforming-your-phones-sound-identity/"><u>In 2024, Ringtone Overhaul Transforming Your Phone's Sound Identity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-touchpad-fixes-for-windows-users-with-elan/"><u>Mastering Touchpad Fixes for Windows Users with Elan</u></a></li>
+<li><a href="https://win-web.techidaily.com/top-10-highly-rated-xvid-video-players-compatible-with-pc-systems/"><u>Top 10 Highly Rated Xvid Video Players Compatible with PC Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/weve-found-a-quick-resolution-for-your-gpu-related-gaming-woes/"><u>We've Found a Quick Resolution for Your GPU-Related Gaming Woes</u></a></li>
 </ul></div>
 

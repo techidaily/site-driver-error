@@ -1,7 +1,7 @@
 ---
 title: Realtek Ethernet Controller Driver Not Working After Windows 10 Upgrade [Solved]
-date: 2024-12-11T05:26:15.214Z
-updated: 2024-12-16T01:30:26.912Z
+date: 2024-12-21T17:46:49.543Z
+updated: 2024-12-24T23:59:41.335Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/f48216f44870658586ad3ccce716597fb01e77f08
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option One: Reset TCP/IP**
 
 1) On your keyboard, press the**Windows logo key** , type**cmd** , right-click**Command Prompt** from the results, and select**Run as administrator** .  
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/f48216f44870658586ad3ccce716597fb01e77f08
  When prompted with the following notification, hit**Yes** to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de25ac8c94.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type in the following command:
 
 netsh int ip reset c:\resetlog.txt
@@ -48,10 +48,6 @@ netsh int ip reset c:\resetlog.txt
  Make sure that you have made no typo and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de2ea5a2ef.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This will help you reset your TCP/IP (Transmission Control Protocol/Internet Protocol). To make it easier to understand, TCP/IP is the language that your computer uses to communicate with the outside world. Reseting TCP/IP will help you revert your Internet settings to the stage where it still works.
 
@@ -63,8 +59,16 @@ netsh int ip reset c:\resetlog.txt
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de5537df74.png)
  2) Locate and click the arrow to expand category**Network adapters** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
 3) Then right-click Realtek PCIe GBE Family Controller option and choose **Properties** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de65b229a9.png)
 
@@ -76,23 +80,19 @@ netsh int ip reset c:\resetlog.txt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587deb007e7e1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Now on the left side of the pane, choose**Energy Efficient Ethernet** option, then change the Value to**Disabled** . After the changes, hit**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587deab52d9e0.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Still, in the**Properties** window, this time, let’s go to**Power Management** tab. Un-tick the box for**Allow the computer to turn off this device to save power** . Then hit**OK** to save and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587decc3276b5.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option Three:** **Reinstall or Rollback Realtek Adapter Driver**
 
@@ -103,17 +103,17 @@ netsh int ip reset c:\resetlog.txt
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
  3) Then right-click click**Realtek PCIe GBE Family Controller** option and then choose**Uninstall** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee15b99f3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hit**OK** to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee50286a0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Go to the menu bar on the top and click the button for **Scan for hardware changes** .  
@@ -124,10 +124,6 @@ netsh int ip reset c:\resetlog.txt
  If you clearly remember that your Ethernet stops working after you update to a certain version of the driver, it is suggested that you roll it back to the stage where it was working well.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Option Four: Update the Realtek Driver**
 
@@ -151,6 +147,10 @@ netsh int ip reset c:\resetlog.txt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-network-adapter-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hopefully the tips above help you fix the Realtek Ethernet Controller driver not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
 
 * [Realtek](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
@@ -170,17 +170,19 @@ netsh int ip reset c:\resetlog.txt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/troubleshooted-driver-deployment-error-on-startup/"><u>[TROUBLESHOOTED] Driver Deployment Error on Startup</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-create-youtube-intros-and-end-cards-free-and-easy/"><u>[Updated] In 2024, How to Create YouTube Intros & End Cards - Free and Easy</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-next-gen-skyborne-a-deep-dive-into-h501s-x4-for-2024/"><u>[Updated] Next-Gen Skyborne A Deep Dive Into H501S X4 for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-a-broken-wireless-keyboard-connection-on-windows-expert-tips-and-tricks/"><u>Fixing a Broken Wireless Keyboard Connection on Windows - Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/gmail-pstand/"><u>Gmail メールを迅速に PST形式でエクスポート&バックアップするテクニック</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-your-iphones-mtp-connectivity-issue-efficiently/"><u>How to Resolve Your iPhone's MTP Connectivity Issue Efficiently</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-direct-performance-views-on-younow/"><u>In 2024, Direct Performance Views on YouNow</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 11 Pro Max?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-tecno-spark-20-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Tecno Spark 20 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/invalid-inf-repair-completed/"><u>Invalid INF Repair Completed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/perfect-pitches-and-polished-pictures-music-mixing-for-youtube-for-2024/"><u>Perfect Pitches and Polished Pictures Music Mixing for YouTube for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-mastering-windows-telnet-command-line-tool/"><u>Ultimate Guide to Mastering Windows Telnet Command Line Tool</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-a-comprehensive-guide-to-modern-versatile-game-recording-software/"><u>[New] 2024 Approved A Comprehensive Guide to Modern, Versatile Game Recording Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-dark-realm-explorations-dos-and-donts-of-nocturnal-shooting-for-2024/"><u>[New] Dark Realm Explorations Do's & Don'ts of Nocturnal Shooting for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-step-by-step-turn-your-ios-images-into-accessible-pdfs/"><u>[Updated] In 2024, Step by Step Turn Your IOS Images Into Accessible PDFs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/essential-tips-for-fixing-windows-acpi-on-asus-laptops/"><u>Essential Tips for Fixing Windows ACPI on Asus Laptops</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-install-issues-new-nvidia-driver-compatible/"><u>Fixing Install Issues: New Nvidia Driver Compatible</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hd-audio-revolution-for-win11-users/"><u>HD Audio Revolution for Win11 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-radeon-wattman-configuration-errors-after-a-system-crash/"><u>How to Fix Radeon Wattman Configuration Errors After a System Crash</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-waiting-wacom-devices-now-talking/"><u>No More Waiting: Wacom Devices Now Talking!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/soaring-in-high-definition-an-in-depth-xiaomi-analysis-for-2024/"><u>Soaring in High Definition An In-Depth Xiaomi Analysis for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-zoomers-guide-to-instagram-story-clarity/"><u>The Zoomer’s Guide to Instagram Story Clarity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-the-best-current-series-on-discoveryplus-july-2024-edition/"><u>Top Picks: The Best Current Series on Discovery+ - July 2024 Edition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-win11-qualcomm-atheros-bluetooth-driver-problems/"><u>Troubleshooting and Solving Win11 Qualcomm Atheros Bluetooth Driver Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-mechanics-of-electric-bikes-how-they-operate/"><u>Understanding the Mechanics of Electric Bikes: How They Operate</u></a></li>
 </ul></div>
 

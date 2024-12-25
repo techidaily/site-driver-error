@@ -1,7 +1,7 @@
 ---
 title: Overcoming Elan Driver Woes on Windows 11
-date: 2024-12-12T21:52:42.103Z
-updated: 2024-12-15T18:21:59.317Z
+date: 2024-12-20T18:11:11.326Z
+updated: 2024-12-24T22:06:12.081Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 [**3: Stop automatic updates from Windows Update**](https://tinyland.pxf.io/org4ra)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Make sure your touchpad is enabled
@@ -35,21 +35,21 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-settings-devices.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Click **Mouse & touchpad,**  then click **Additional mouse options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/additional-mouse-options.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Go to the furthest right option (the option could be **Device Settings** or **ELAN**), and make sure your touchpad is enabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
 
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
@@ -114,22 +114,19 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-intel-wi-fi-ax201-signal-strength-issue/"><u>[FIXED] Intel Wi-Fi AX201 Signal Strength Issue</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlocking-the-potential-of-instagrams-live-video-features/"><u>[New] 2024 Approved Unlocking the Potential of Instagram’s Live Video Features</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-impactful-online-ads-on-a-limited-budget/"><u>[New] In 2024, How to Create Impactful Online Ads on a Limited Budget</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-skype-meeting-recording-made-easy-for-both-oses/"><u>[New] In 2024, Skype Meeting Recording Made Easy for Both OSes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-transform-engagement-crafted-queries-for-personalized-ig-stories/"><u>[New] Transform Engagement Crafted Queries for Personalized IG Stories</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-fundamental-equipment-for-channel-foundations-for-2024/"><u>[Updated] Fundamental Equipment for Channel Foundations for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/competitive-showdown-microsoft-resurrects-surface-laptop-rivals-macbook-air/"><u>Competitive Showdown: Microsoft Resurrects Surface Laptop, Rivals MacBook Air</u></a></li>
-<li><a href="https://driver-error.techidaily.com/elan-touchscreen-hiccups-no-more-on-latest-windows-11/"><u>Elan Touchscreen Hiccups No More on Latest Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/eliminate-usb-port-malfunction-in-dell-notebook/"><u>Eliminate USB Port Malfunction in Dell Notebook</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-successfully-update-your-devices-drivers-on-windows-operating-systems-win10-8-and-7-solved/"><u>How To Successfully Update Your Device's Driver(s) on Windows Operating Systems: Win10, 8 & 7 [SOLVED]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-troubleshoot-with-safe-mode-graphics-card-driver-removal-techniques-for-window-8-users/"><u>How To Troubleshoot with Safe Mode: Graphics Card Driver Removal Techniques for Window 8 Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/old-school-usb-compose-device-troubles-heres-your-comprehensive-fix-guide/"><u>Old School USB Compose Device Troubles? Here's Your Comprehensive Fix Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/secrets-of-the-top-social-media-videos-for-2024/"><u>Secrets of the Top Social Media Videos for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-resolution-of-non-responsive-qualcomm-atheros-bluetooth-driver-problems-in-windows-11/"><u>Step-by-Step Resolution of Non-Responsive Qualcomm Atheros Bluetooth Driver Problems in Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-most-innovative-and-easy-to-use-mobile-photo-layers-top-10/"><u>The Most Innovative & Easy-to-Use Mobile Photo Layers (Top 10)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-installing-missing-drivers-for-your-device-on-windows-operating-systems-11-8-and-aturdays-a-comprehensive-guide/"><u>Troubleshooting and Installing Missing Drivers for Your Device on Windows Operating Systems (11, 8 & Aturdays) - A Comprehensive Guide!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-live-streaming-360-video-to-youtube/"><u>[New] 2024 Approved How to Live Streaming 360 Video to Youtube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-enhancing-social-media-engagement-with-branded-icons-on-instagram/"><u>[Updated] 2024 Approved Enhancing Social Media Engagement with Branded Icons on Instagram</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-dive-into-action-4-easy-steps-for-audience-captivating-instagram-loops-for-2024/"><u>[Updated] Dive Into Action 4 Easy Steps for Audience-Captivating Instagram Loops for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-to-resolve-your-itbm-driver-availability-error-fast/"><u>Expert Tips to Resolve Your ITBM Driver Availability Error Fast</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-nvidia-driver-issues-systems/"><u>Fix: Nvidia Driver Issues Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-updated-driver-for-canons-lide-220-all-in-one-scanner-today/"><u>Get the Updated Driver for Canon's LiDE 220 All-in-One Scanner Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-apply-local-group-policies-to-a-specific-user-account-in-windows-10-and-11/"><u>How to Apply Local Group Policies to a Specific User Account in Windows 10 and 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/individualized-fan-settings-optimize-gpu-temperature-and-power/"><u>Individualized Fan Settings Optimize GPU Temperature & Power</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigate-back-to-functionality-with-these-fixes-for-your-touchpad/"><u>Navigate Back to Functionality with These Fixes for Your Touchpad</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-issue-coprocessor-driver-unavailable-in-windows-10/"><u>Resolving the Issue: Coprocessor Driver Unavailable in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-installing-usb-drive-fails-access-is-blocked-difficulty/"><u>Solve Installing USB Drive Fails: Access Is Blocked Difficulty</u></a></li>
+<li><a href="https://driver-error.techidaily.com/vehicle-not-compatible-with-tech/"><u>Vehicle Not Compatible with Tech</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/why-are-my-instagram-photos-flipped-seeking-answers-for-2024/"><u>Why Are My Instagram Photos Flipped? Seeking Answers for 2024</u></a></li>
 </ul></div>
 

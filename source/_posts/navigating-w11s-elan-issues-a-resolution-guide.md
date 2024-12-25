@@ -1,7 +1,7 @@
 ---
 title: "Navigating W11's Elan Issues: A Resolution Guide"
-date: 2024-12-11T06:12:30.941Z
-updated: 2024-12-15T17:47:48.747Z
+date: 2024-12-22T07:41:44.025Z
+updated: 2024-12-25T03:45:42.595Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 [**2: Reinstall your drivers**](https://getlyla.pxf.io/ek9gkg)
 [**3: Stop automatic updates from Windows Update**](https://tinyland.pxf.io/org4ra)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1: Make sure your touchpad is enabled
 
  Some changes to your PC might automatically change your touchpad status to disable without informing you. You can set it back to enable status:
@@ -35,18 +31,30 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-settings-devices.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click **Mouse & touchpad,**  then click **Additional mouse options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/additional-mouse-options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the furthest right option (the option could be **Device Settings** or **ELAN**), and make sure your touchpad is enabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2: Reinstall your drivers
@@ -78,24 +86,16 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Right-clickyour computer icon and click **Device installation settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
 
@@ -114,21 +114,20 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-drivers-installation-failed-completely/"><u>[FIXED] Drivers Installation Failed Completely</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/mbrace-9-festive-feasts-watch-holiday-epics-at-zero-cost-online/"><u>[New] Embrace 9 Festive Feasts Watch Holiday Epics at Zero Cost Online</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-pro-video-setup-utilizing-your-logitech-webcam/"><u>[Updated] 2024 Approved Pro Video Setup Utilizing Your Logitech Webcam</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-cost-effective-pc-screen-recording-apps/"><u>[Updated] 2024 Approved Ultimate Guide Cost-Effective PC Screen Recording Apps</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/effortless-conversion-downloading-your-favorite-vevo-songs-as-mp3/"><u>Effortless Conversion: Downloading Your Favorite Vevo Songs as MP3</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-savings-alert-exclusive-pre-prime-day-deals-from-best-buy-insider-tips-for-2n4-zdnet-news/"><u>Essential Savings Alert: Exclusive Pre-Prime Day Deals From Best Buy | Insider Tips for 2N4 | ZDNET News</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-detect-and-connect-overlooked-seagate-drive-in-w10/"><u>How To Detect & Connect Overlooked Seagate Drive in W10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-nokia-c12-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Nokia C12 Phones</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-y100a-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo Y100A Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-youtube-snippets-guide-essential-insights-unveiled/"><u>In 2024, YouTube Snippets Guide Essential Insights Unveiled</u></a></li>
-<li><a href="https://driver-error.techidaily.com/pci-missing-hardware-issue-windows-fix/"><u>PCI Missing Hardware Issue: Windows Fix</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repair-your-qualcomm-atheros-bluetooth-connection-on-windows-10-easy-fixes-revealed/"><u>Repair Your Qualcomm Atheros Bluetooth Connection on Windows 10 - Easy Fixes Revealed</u></a></li>
-<li><a href="https://driver-download.techidaily.com/revel-in-every-smile-tail-wag-petcube-bites-2/"><u>Revel in Every Smile, Tail Wag: Petcube Bites 2</u></a></li>
-<li><a href="https://driver-error.techidaily.com/simplified-troubleshoot-for-mtp-drivers/"><u>Simplified Troubleshoot for MTP Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/toms-innovative-solutions-a-closer-look-at-cutting-edge-hardware/"><u>Tom’s Innovative Solutions: A Closer Look at Cutting-Edge Hardware</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-invalid-driver-installs-how-to-ensure-device-compatibility/"><u>Troubleshooting Invalid Driver Installs: How to Ensure Device Compatibility</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dissecting-biggest-fifa-footage-trends-in-graphs/"><u>[New] 2024 Approved Dissecting Biggest FIFA Footage Trends in Graphs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-leading-brands-car-compatible-viewing-devices/"><u>[New] Leading Brands' Car-Compatible Viewing Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-online-placements-for-youtube-video-popularity/"><u>[Updated] Best Online Placements for YouTube Video Popularity</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-step-by-step-guide-to-dimming-audio-with-logic-pro/"><u>[Updated] In 2024, Step-by-Step Guide to Dimming Audio with Logic Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/discover-top-tier-computer-specs-with-toms-hardware-your-essential-gadget-companion/"><u>Discover Top-Tier Computer Specs with Tom's Hardware - Your Essential Gadget Companion</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-missing-drives-cddvd-troubleshooting-in-win11/"><u>Fixing Missing Drives: CD/DVD Troubleshooting in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guardian-angel-for-graphics-driver-setup/"><u>Guardian Angel for Graphics Driver Setup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-speedily-upgrade-windows-drivers-in-moments-win10-81/"><u>How to Speedily Upgrade Windows Drivers in Moments (Win10-8.1)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-collection-8-amazing-3d-websites-with-gold/"><u>In 2024, The Ultimate Collection 8 Amazing 3D Websites with Gold</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-todays-drones-tomorrows-landscapes-an-overview/"><u>In 2024, Today’s Drones, Tomorrow's Landscapes An Overview</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lightning-fast-windows-evaluation-path-for-2024/"><u>Lightning-Fast Windows Evaluation Path for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-hp-bluetooth-driver-issue-in-windows-10/"><u>Solved HP Bluetooth Driver Issue in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-warning-bcm20702a0-driver-not-found/"><u>System Warning: BCM20702A0 Driver Not Found</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlocking-solution-to-error-code-52/"><u>Unlocking Solution to Error Code 52</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-coprocessor-error-resolution-a-comprehensive-guide-to-fixing-the-missing-driver-dilemma/"><u>Windows 11 Coprocessor Error Resolution - A Comprehensive Guide to Fixing the Missing Driver Dilemma</u></a></li>
 </ul></div>
 

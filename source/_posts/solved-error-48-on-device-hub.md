@@ -1,7 +1,7 @@
 ---
 title: Solved Error #48 on Device Hub
-date: 2024-12-15T00:07:06.008Z
-updated: 2024-12-16T07:30:01.887Z
+date: 2024-12-22T00:48:28.507Z
+updated: 2024-12-25T05:00:25.403Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ To check if the device is running into the error code 48:
 
 `"The driver for this device has been blocked from starting because it is known to have problems with Windows. Contact the hardware vendor for a new driver. (Code 48)"`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Windows users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -41,6 +37,10 @@ To check if the device is running into the error code 48:
 2. **[Disable Hyper-V](https://godlikehost.sjv.io/vnbxzv)**
 3. **[Turn off Memory Integrity in Core isolation](https://aligracehair.sjv.io/y209r3)**
 4. **[Run the System File Checker and the Windows Memory Diagnostic Test](https://parisrhonecom.sjv.io/zqobqr)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Update your driver
 
@@ -60,6 +60,10 @@ Or
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2 – Automatically update drivers
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) .
@@ -74,15 +78,11 @@ Or
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-drivers-with-Driver-Easy.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and [manually install them, the normal Windows way](https://tools.techidaily.com/drivereasy/download/) .)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your PC and check if this issue persists.
 
@@ -106,13 +106,17 @@ Or
 3. In the Window that pops up,**uncheck the box** next to**Hyper-V** and click**OK** to disable the Hyper-V feature.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable the Hyper-V feature](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Hyper-V-feature.jpg)
 4. Restart Windows 10 to see if the issue persists.
 
  If this fix didn’t work, try the next fix to turn off Memory Integrity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Turn off Memory Integrity in Core isolation
 
@@ -128,10 +132,6 @@ To turn off Memory Integrity, simply follow the steps below:
 
 ![Turn off Memory integrity](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Memory-integrity.jpg)
 3. Restart Windows 10 and reinstall the latest driver of the problematic device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 See if this fix works. If not, try the next fix, below.
 
@@ -154,14 +154,14 @@ See if this fix works. If not, try the next fix, below.
 2. Double-click**Windows Memory Diagnostic** to run it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Windows Memory Diagnostic](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-Memory-Diagnostic.jpg)
 3. Select**Restart now and check for problems (recommended)** to run the test immediately. Before restarting, you need to save your work and close any open programs. It may take some time to complete the test.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Check your computer for memory problems](https://images.drivereasy.com/wp-content/uploads/2021/04/Check-your-computer-for-memory-problems.jpg)
@@ -192,22 +192,22 @@ See if this fix works. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/incident-wireless-mouse-not-recognized-by-os/"><u>[Incident] Wireless Mouse Not Recognized by OS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-turn-any-device-into-a-youtube-livestream-capturing-tool/"><u>[New] How to Turn Any Device Into a YouTube Livestream Capturing Tool</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-zero-price-techniques-for-online-educational-recordings-for-2024/"><u>[New] Zero Price Techniques for Online Educational Recordings for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-nine-leading-iphone-image-watermarking-tools-analysis/"><u>[Updated] 2024 Approved Nine Leading iPhone Image Watermarking Tools Analysis</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-scope-of-panoramic-filmmaking-explained/"><u>2024 Approved The Scope of Panoramic Filmmaking Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ballads-battlefield-poetic-giants-versus-gpt-shepherds-wooly-kinfolk/"><u>Ballads' Battlefield - Poetic Giants Versus GPT Shepherds, Wooly Kinfolk</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/bypassing-the-blank-screen-dilemma-7-key-fixes-to-restore-steam-functionality/"><u>Bypassing the Blank Screen Dilemma: 7 Key Fixes to Restore Steam Functionality</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-blocked-usb-installation-understanding-the-access-is-denied-message/"><u>Fixing Blocked USB Installation: Understanding the 'Access Is Denied' Message</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/global-leaders-in-real-time-gaming-streams-for-2024/"><u>Global Leaders in Real-Time Gaming Streams for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-windows-10/"><u>GTX 950에서 Code 43 문제 해결: Windows 10에 대한 고급 가이드</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-overcome-lsa-unavailable-alert-in-os/"><u>How to Overcome LSA Unavailable Alert in OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-sign-of-optical-drives-on-win11-screened/"><u>No Sign of Optical Drives on Win11 Screened</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solutions-for-unrecognized-usb-errors-in-windows-oses/"><u>Solutions for Unrecognized USB Errors in Windows OSes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-for-unresponsive-wireless-keyboards-on-pcs-with-windows-os/"><u>Step-by-Step Solutions for Unresponsive Wireless Keyboards on PCs with Windows OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-unable-to-locate-driver-software/"><u>System Unable to Locate Driver Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-10-streamline-your-bluetooth-setup/"><u>Windows 10: Streamline Your Bluetooth Setup</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastery-in-monitors-selecting-top-4k-panels-for-video-editors/"><u>[New] Mastery in Monitors Selecting Top 4K Panels for Video Editors</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-enhancing-community-management-with-discord-roles/"><u>[Updated] 2024 Approved Enhancing Community Management with Discord Roles</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-vrs-8-best-equipment-choices-guidebook/"><u>[Updated] 2024 Approved VR's 8 Best Equipment Choices Guidebook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-harnessing-the-power-of-gratuitous-text-animations/"><u>[Updated] In 2024, Harnessing the Power of Gratuitous Text Animations</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nokia-130-music-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nokia 130 Music without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/decoding-and-defeating-the-notorious-0x0000000a-bsod-issue-on-your-pc/"><u>Decoding and Defeating the Notorious 0X0000000A BSOD Issue on Your PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-walkthrough-to-update-your-epson-xp-400-driver-software-step-by-step/"><u>Easy Walkthrough to Update Your Epson XP 400 Driver Software: Step by Step</u></a></li>
+<li><a href="https://driver-error.techidaily.com/elevate-razer-hats-update-driver-in-win11-platform/"><u>Elevate Razer HATs: Update Driver in Win11 Platform</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-iphone-mobile-host-controller-driver-problem-a-step-by-step-guide/"><u>Fixing the iPhone Mobile Host Controller Driver Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oppo-find-x7-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Oppo Find X7 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/journey-through-time-demystifying-and-fixing-age-old-usb-composite-device-issues/"><u>Journey Through Time: Demystifying and Fixing Age-Old USB Composite Device Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-stuck-on-windows-10/"><u>Keyboard Stuck on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-method-to-solve-the-broken-key-issue-on-your-hp-notebooks-detailed-steps-included-article-title-407-chars/"><u>Quick Method to Solve the 'Broken' Key Issue on Your HP Notebooks — Detailed Steps Included! - Article Title (407 Chars)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reintroduce-hidden-dvds-to-windows-os/"><u>Reintroduce Hidden DVDs to Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsung-system-files-windows-download/"><u>Samsung System Files - Windows Download</u></a></li>
+<li><a href="https://driver-error.techidaily.com/turn-off-stubborn-bluetooth-on-windows-10-answer/"><u>Turn Off Stubborn Bluetooth on Windows 10 [Answer]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-a-world-of-movies-captions-in-windows-media-player-for-2024/"><u>Unlock a World of Movies Captions in Windows Media Player for 2024</u></a></li>
 </ul></div>
 

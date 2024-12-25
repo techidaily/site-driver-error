@@ -1,7 +1,7 @@
 ---
 title: Disabled Issue Eliminated
-date: 2024-12-10T07:14:36.897Z
-updated: 2024-12-16T09:12:37.564Z
+date: 2024-12-23T19:01:38.048Z
+updated: 2024-12-25T02:22:07.946Z
 tags:
   - win11
   - win10
@@ -34,24 +34,24 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 2. Type **devmgmt.msc** and press**Enter**  to access Device Manager.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e3f572c04.png)
 3. Expand the category that your device belongs to, right-click your device and select**Enable device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your device driver
 
@@ -66,6 +66,10 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Uninstall your device driver
 
 Uninstalling your device driver is another solution you can try to fix **This device is disabled (Code 22).**Here’s how:
@@ -77,7 +81,7 @@ Uninstalling your device driver is another solution you can try to fix **This de
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reset the BIOS settings
@@ -91,10 +95,6 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
  On desktop PCs, the CMOS battery is usually located in an exposed housing on the motherboard (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)  
  Example – CMOS battery on a desktop PC  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)  
@@ -126,17 +126,22 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-elevate-gameplay-memories-overwatchs-recording-hacks/"><u>[New] Elevate Gameplay Memories - Overwatch's Recording Hacks</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-turbocharge-your-tiktok-videos-for-instant-viewing-for-2024/"><u>[New] Turbocharge Your TikTok Videos for Instant Viewing for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-high-definition-cameras-perfect-picks-for-live-streaming-for-2024/"><u>[Updated] High-Definition Cameras Perfect Picks for Live Streaming for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-find-x7-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/adaptive-drivers-package-for-windows-pci/"><u>Adaptive Drivers Package for Windows PCI</u></a></li>
-<li><a href="https://driver-error.techidaily.com/asus-usb-webcam-issue-fixed-for-windows-users/"><u>ASUS USB Webcam Issue Fixed for Windows Users</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/complete-investigation-into-razers-kiyo-webcam-for-2024/"><u>Complete Investigation Into Razer's Kiyo Webcam for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-guide-to-updating-or-adding-missing-drivers-in-windows-environments/"><u>Comprehensive Guide to Updating or Adding Missing Drivers in Windows Environments</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721100980582-fix-pc-issues-enter-safe-mode-and-uninstall-graphic-cards-driver-on-win-8-easily/"><u>Fix PC Issues? Enter Safe Mode & Uninstall Graphic Cards Driver on Win 8 Easily</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-oneplus-ace-2-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from OnePlus Ace 2 Pro</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103553339-hp-wireless-keyboard-malfunction-heres-how-you-can-repair-it/"><u>HP Wireless Keyboard Malfunction? Here's How You Can Repair It!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/street-saga-best-gaming-matches-to-gta-v-for-2024/"><u>Street Saga Best Gaming Matches to GTA V for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-simple-solutions-to-capture-gotomeetings-effectively/"><u>[New] Simple Solutions to Capture GoToMeetings Effectively</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-zero-budget-football-broadcasting-101-for-2024/"><u>[New] Zero Budget Football Broadcasting 101 for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-from-good-to-great-unveiling-video-enhance-22-secrets/"><u>[Updated] 2024 Approved From Good to Great Unveiling Video Enhance 2.2 Secrets</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-iphone-videography-elevated-8-key-techniques-for-professional-recordings/"><u>2024 Approved IPhone Videography Elevated 8 Key Techniques for Professional Recordings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/d3d-vanished-will-unreal-engine-cease/"><u>D3D Vanished, Will Unreal Engine Cease?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-your-pc-how-to-address-the-coprocessor-driver-not-found-error-in-windows-11/"><u>Fix Your PC: How to Address the 'Coprocessor Driver Not Found' Error in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphic-interface-access-hindered-on-pc/"><u>Graphic Interface Access Hindered on PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-detection-failed-missing-intel-component/"><u>Hardware Detection Failed: Missing Intel Component</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-google-phone-by-drfone-android/"><u>How to Reset a Locked Google Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/securely-installing-apple-podcasts-episodes/"><u>Securely Installing Apple Podcasts Episodes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-the-problem-why-is-my-wireless-keyboard-not-responding-on-windows/"><u>Solve the Problem: Why Is My Wireless Keyboard Not Responding on Windows?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-unresponsive-issue-with-disabling-inbuilt-wi-fi-and-bluetooth-step-by-step/"><u>Solve Unresponsive Issue with Disabling Inbuilt Wi-Fi and Bluetooth - Step by Step</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-fix-for-incompatible-hardware-alerts-with-your-idt-system/"><u>Step-by-Step Fix for Incompatible Hardware Alerts with Your IDT System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-address-unsupported-peripheral-devices-with-idt-software/"><u>Step-by-Step Guide to Address Unsupported Peripheral Devices with IDT Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-composite-device-an-overview-of-older-technology-fixes-solved/"><u>USB Composite Device - An Overview of Older Technology Fixes [SOLVED]</u></a></li>
 </ul></div>
 

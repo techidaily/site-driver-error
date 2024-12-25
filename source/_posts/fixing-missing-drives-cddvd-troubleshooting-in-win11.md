@@ -1,7 +1,7 @@
 ---
 title: "Fixing Missing Drives: CD/DVD Troubleshooting in Win11"
-date: 2024-12-09T09:49:14.794Z
-updated: 2024-12-15T20:57:29.390Z
+date: 2024-12-19T07:36:46.217Z
+updated: 2024-12-24T23:00:03.320Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
  Method 3:[**Manually fix corrupted registry entries**](https://tidio.pxf.io/9grog5)
  Method 4:[**Create a registry subkey**](https://modlily.sjv.io/aw92wr)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **1: Uninstall IDE ATA/ ATAPI controllers**
 
  One of the reasons why you can’t see DVD/CD-ROM in your Windows 10 PC could be faulty device drivers. You can reinstall the drivers to fix it. Here is how:
@@ -50,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e199372f3c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) If you have more options under**IDE/ ATAPI controllers** category, right-click them and click**Uninstall** as above procedures.
@@ -81,6 +77,14 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **3: Manually fix corrupted registry entries**
 
 **IMPORTANT** : Before we move on, it’s strongly recommended that you [back-up and restore your registry](https://tools.techidaily.com/drivereasy/download/) first.
@@ -96,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55543336b.jpg)
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
@@ -120,22 +120,22 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Follow the path:
 **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\atapi\\**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd3791d37b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Create a new**Controller0** key under**atapi** key.
 
@@ -150,7 +150,7 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) Exit Registry Editor.
@@ -172,14 +172,24 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-bite-size-beats-characters-in-soundscape/"><u>[New] 2024 Approved Bite-Size Beats Characters in Soundscape</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-architecting-a-stellar-tiktok-closing-segment-for-2024/"><u>[Updated] Architecting a Stellar TikTok Closing Segment for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-skype-calls-on-pc-and-mac-free-vs-paid-recording-tips-for-2024/"><u>[Updated] Mastering Skype Calls on PC & Mac Free vs Paid Recording Tips for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enhance-dell-clicker-with-driver-update/"><u>Enhance Dell Clicker with Driver Update</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphics-device-blocked-in-windows-10-os/"><u>Graphics Device Blocked in Windows 10 OS</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-8-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-silencing-sounds-techniques-for-audio-deletion-in-imovie-videos/"><u>In 2024, Silencing Sounds Techniques for Audio Deletion in iMovie Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-the-driver-not-found-issue-with-our-simple-steps/"><u>Solve the 'Driver Not Found' Issue with Our Simple Steps!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-driver-errors-in-windows-systems-11-8-7-steps-to-solve/"><u>Troubleshooting Driver Errors in Windows Systems (11, 8, 7) – Steps to Solve</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-gopros-camera-faceoff-master-360-versus-hero-11-pro/"><u>[Updated] 2024 Approved GoPro's Camera Faceoff Master 360 versus Hero 11 Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-a-look-inside-magix-pixel-management/"><u>2024 Approved A Look Inside MAGIX Pixel Management</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-revived-status-update-code-unlocked/"><u>Device Revived: Status Update - Code Unlocked</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-struggles-with-available-resources-quota/"><u>Device Struggles with Available Resources Quota</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensuring-reliability-of-your-nvidia-codebase/"><u>Ensuring Reliability of Your Nvidia Codebase</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eradicate-bus-latency-anomaly/"><u>Eradicate Bus Latency Anomaly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-motorola-razr-40-ultra-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Motorola Razr 40 Ultra Phone that is Locked?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-windows-movie-maker-your-gateway-into-the-world-of-digital-cartoons/"><u>In 2024, Windows Movie Maker Your Gateway Into the World of Digital Cartoons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-microphone-malfunction-heres-the-solution/"><u>Laptop Microphone Malfunction? Here's the Solution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-support-for-drivers-without-intel-card/"><u>No Support for Drivers Without Intel Card</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2173157-9781848587021-nostradamus-other-prophets-and-seers/"><u>Nostradamus & Other Prophets and Seers | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pitting-two-titans-of-chatbots-gpt-and-huggingchat/"><u>Pitting Two Titans of ChatBots: GPT & HuggingChat</u></a></li>
+<li><a href="https://driver-error.techidaily.com/simple-solutions-for-pc-users-how-to-activate-safe-mode-and-remove-graphics-driver-on-windows-8/"><u>Simple Solutions for PC Users: How to Activate Safe Mode & Remove Graphics Driver on Windows 8</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simplified-steps-to-download-and-update-microsoft-drivers-on-windows-systems/"><u>Simplified Steps to Download & Update Microsoft Drivers on Windows Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-dolby-advanced-audio-unable-to-start-the-dolby-audio-driver-in-windows-10/"><u>Solved Dolby Advanced Audio: Unable to Start the Dolby Audio Driver in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-hcomdevicenotfound-a-step-by-step-guide/"><u>Solving 'HcomDeviceNotFound' - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-silent-videos-expert-advice-for-restoring-audio-in-your-facebook-movies-on-pc/"><u>Solving the Issue of Silent Videos: Expert Advice for Restoring Audio in Your Facebook Movies on PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-fix-hp-laptop-keyboard-not-working-issue/"><u>Step by Step Fix HP Laptop Keyboard Not Working Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-how-to-restore-microphone-functionality-on-your-steelseries-arctis-prime/"><u>Troubleshooting Fixes: How to Restore Microphone Functionality on Your SteelSeries Arctis Prime</u></a></li>
 </ul></div>
 

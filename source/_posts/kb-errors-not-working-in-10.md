@@ -1,7 +1,7 @@
 ---
 title: Kb Errors, Not Working in 10
-date: 2024-12-12T22:56:59.888Z
-updated: 2024-12-15T20:12:27.336Z
+date: 2024-12-18T16:55:15.518Z
+updated: 2024-12-24T20:59:15.701Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
  Fortunately, it’s easy to test: simply unplug the keyboard from the USB port and plug in another USB device – like a mouse or an external hard drive. If that device doesn’t work either, the USB port itself is the problem, and you should skip straight to [Method 4](https://pish-posh-baby.sjv.io/g1jg15) . If the device you just plugged in does work, then continue to [Method 2](https://zonlipartnershipprogram.pxf.io/b0rbxy) .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Adjust your keyboard settings
 
@@ -45,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
@@ -56,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
  3) Click**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
@@ -79,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
@@ -86,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -103,24 +111,16 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Switch to ChromeOS
@@ -164,18 +164,20 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/aking-compelling-media-previews-for-channels/"><u>[New] Making Compelling Media Previews for Channels</u></a></li>
-<li><a href="https://win-top.techidaily.com/descubra-o-mundo-visual-atraves-dos-olhos-de-douglas-franca-fotografo-experiente-com-links-para-sua-criacao-no-movavi/"><u>Descubra O Mundo Visual Através Dos Olhos De Douglas França, Fotógrafo Experiente Com Links Para Sua Criação No Movavi</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-load-error-device-event-identifier-219/"><u>Driver Load Error - Device Event Identifier 219</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experts-take-on-the-samsung-galaxy-a71-5g-the-smart-choice-over-expensive-flagship-models/"><u>Experts' Take on the Samsung Galaxy A71 5G: The Smart Choice Over Expensive Flagship Models</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/free-and-fantastic-the-best-avi-video-editors/"><u>Free and Fantastic The Best AVI Video Editors</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-apps-best-10-software-to-capture-your-screens/"><u>In 2024, Essential Apps Best 10 Software to Capture Your Screens</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/maintaining-optimal-printer-performance/"><u>Maintaining Optimal Printer Performance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-ps4-game-footage-a-comprehensive-screen-recording-guide/"><u>Mastering PS4 Game Footage: A Comprehensive Screen Recording Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/purging-invalid-sections-from-inf-services/"><u>Purging Invalid Sections From INF Services</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-not-delivered-errors-in-ios-messaging-a-guide/"><u>Resolving 'Not Delivered' Errors in iOS Messaging - A Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/successful-installation-guide-how-to-add-missing-drivers-for-your-device-on-windows-11-8-and-7/"><u>Successful Installation Guide: How to Add Missing Drivers for Your Device on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-reset-completed/"><u>System Reset Completed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-enhancing-engagement-the-ultimate-guide-for-tiktok-unboxings-for-2024/"><u>[New] Enhancing Engagement The Ultimate Guide for TikTok Unboxings for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-how-to-on-using-voice-input-in-google-docs/"><u>[New] The Ultimate How-To on Using Voice Input in Google Docs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-mac-speech-to-text-apps-youre-not-aware-of/"><u>[New] Top Mac Speech-to-Text Apps You're Not Aware Of</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-comprehensible-guide-to-controlling-video-speed-in-feed/"><u>[Updated] A Comprehensible Guide to Controlling Video Speed in Feed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortlessly-update-and-fix-hp-envy-7640-graphics-card-drivers/"><u>Effortlessly Update and Fix HP ENVY 7640 Graphics Card Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-hp-envy-7640-driver-issues-easily/"><u>Fix HP ENVY 7640 Driver Issues. Easily!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/get-the-latest-netgear-a6210-driver-software-for-windows-8-or-7-free-download-option/"><u>Get the Latest NetGear A6210 Driver Software for Windows 8 or 7 - Free Download Option</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-4650dn-driver-download-and-update-easily/"><u>HP 4650Dn Driver Download & Update EASILY!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-bluetooth-driver-update-quickly-and-easily/"><u>Intel Bluetooth Driver Update Quickly & Easily</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-italy-top-100-expressions-for-the-travelers-toolkit/"><u>Navigating Italy: Top 100 Expressions for the Traveler's Toolkit</u></a></li>
+<li><a href="https://driver-error.techidaily.com/netgear-a6210-driver-free-download-and-update-for-your-windows-87/"><u>Netgear a6210 Driver Free Download & Update for Your Windows 8/7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-and-easy-guide-downloading-and-installing-intel-drivers-on-windows/"><u>Quick & Easy Guide: Downloading & Installing Intel Drivers on Windows</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/the-ultimate-guide-to-the-most-effective-av-to-dvd-converters-of-2024-for-pcs-running-win-1011/"><u>The Ultimate Guide To The Most Effective Av To Dvd Converters of 2024 for PCs Running Win 10/11</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-connection-issues-in-utorrent/"><u>Troubleshooting Guide: Resolving Connection Issues in uTorrent</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-social-media-personalization-is-unchangeable/"><u>Why Social Media Personalization Is Unchangeable?</u></a></li>
 </ul></div>
 

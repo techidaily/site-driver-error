@@ -1,7 +1,7 @@
 ---
 title: "Service Section Fix: Validated INF"
-date: 2024-12-11T00:03:35.918Z
-updated: 2024-12-16T05:04:16.360Z
+date: 2024-12-21T04:19:48.297Z
+updated: 2024-12-25T05:07:13.771Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 3. [**Install the missing driver files manually**](https://dhgate.sjv.io/5g6yb2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 1: Update the driver automatically
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged MTP USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -67,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687740cb79e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Select**Let me pick from a list of available drivers on my computer** and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68744ea8804.png)
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687724c3ed9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you see the device shown as Unknown Device. You’ll see an Android phone or Android device in the long list.**Highlight** it and click**Next** then select**MTP USB device** .
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
@@ -106,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
@@ -140,18 +140,19 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-voice-of-the-visionary-beginning-your-journey-in-auditions-fading-for-2024/"><u>[New] Voice of the Visionary Beginning Your Journey in Audition’s Fading for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-master-upside-down-and-sideways-iphone-photo-rotation/"><u>[Updated] 2024 Approved Master Upside-Down and Sideways iPhone Photo Rotation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/get-your-qualcomm-atheros-bluetooth-back-to-life-on-windows-10-step-by-step-solution/"><u>Get Your Qualcomm Atheros Bluetooth Back to Life on Windows 10 - Step by Step Solution</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hardware-graphical-limitation-detected-on-window/"><u>Hardware Graphical Limitation Detected on Window</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-blueprint-for-gathering-free-pictorial-video-files/"><u>In 2024, The Blueprint for Gathering Free Pictorial Video Files</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-z-flip-5-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy Z Flip 5 Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/inception-excitingly-and/"><u>Inception - Excitingly) And</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-oppo-reno-11-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Oppo Reno 11 5G</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-driver-conflicts-in-windows-quickly/"><u>Resolving Driver Conflicts in Windows Quickly</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-prevents-graphics-hardware-connection/"><u>Win11 Prevents Graphics Hardware Connection</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-update-what-to-do-when-you-encounter-a-missing-coprocessor-driver-problem/"><u>Windows 11 Update: What To Do When You Encounter a Missing Coprocessor Driver Problem</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-a-user-friendly-guide-to-board-integration-in-desktopiosandroid-zoom-meetings/"><u>[Updated] 2024 Approved A User-Friendly Guide to Board Integration in Desktop/iOS/Android Zoom Meetings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-customize-confidently-express-optimizing-your-voice-on-snapchat/"><u>[Updated] In 2024, Customize, Confidently Express Optimizing Your Voice on Snapchat</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-savvy-sound-engineers-10-best-free-lut-picks/"><u>[Updated] Savvy Sound Engineers' 10 Best FREE LUT Picks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-crafting-an-easy-to-use-youtube-subscription-tagline/"><u>2024 Approved Crafting an Easy-to-Use YouTube Subscription Tagline</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-iphone-12-mini-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 12 mini SIM Lock?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210484516-revitalize-your-laptops-charging-issues-with-these-straightforward-tips/"><u>Revitalize Your Laptop's Charging Issues with These Straightforward Tips!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-iphone-driver-is-not-installed-waiting-for-windows-update/"><u>Solved: IPhone Driver Is Not Installed. Waiting for Windows Update</u></a></li>
+<li><a href="https://driver-error.techidaily.com/this-is-an-article-for-this-case-the-daylightning-disease-of-the-other-handicaps/"><u>This Is an Article for This Case the Daylightning Disease of the Other Handicaps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-savings-on-apple-products-in-july-2024-iphone-apple-watch-ipad-offers-and-extra-bargains-zdnet/"><u>Top Savings on Apple Products in July 2024: IPhone, Apple Watch, iPad Offers & Extra Bargains | ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-hp-wireless-keyboard-connectivity-issues/"><u>Troubleshooting Guide: Fixing HP Wireless Keyboard Connectivity Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-enabling-safe-mode-and-discarding-gpu-drivers-in-windows-8-system/"><u>Troubleshooting Tips: Enabling Safe Mode and Discarding GPU Drivers in Windows 8 System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win1011-optimizing-sm-bus-drivers-efficiency/"><u>Win10/11: Optimizing Sm Bus Drivers Efficiency</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-and-qualcomm-atheros-bluetooth-woes-heres-your-ultimate-fix/"><u>Windows 11 and Qualcomm Atheros Bluetooth Woes? Here's Your Ultimate Fix</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Mouse & Keyboard Glitch on Windows 11"
-date: 2024-12-13T02:55:52.453Z
-updated: 2024-12-16T10:20:12.360Z
+date: 2024-12-24T04:12:17.199Z
+updated: 2024-12-24T20:01:54.276Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Adjust your keyboard settings
@@ -54,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Keyboard** .
@@ -65,7 +69,15 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Reinstall your keyboard driver
 
@@ -79,17 +91,9 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
@@ -116,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  Or click**Update All** to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -164,17 +164,20 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-reel-your-best-footage-from-instagram-with-these-aids/"><u>2024 Approved Reel Your Best Footage From Instagram With These Aids</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ameliorez-votre-streaming-avec-des-astuces-pour-changer-rapidement-des-fichiers-ts-en-format-mp4-premium-10-conseils-essentiels/"><u>Améliorez Votre Streaming Avec Des Astuces Pour Changer Rapidement Des Fichiers .TS en Format MP4 Premium: 10 Conseils Essentiels</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On OnePlus Ace 3? | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/easy-tips-for-saving-your-flipboard-visuals-as-pdf-documents/"><u>Easy Tips for Saving Your Flipboard Visuals as PDF Documents</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/gear-selection-guide-for-global-filmmakers/"><u>Gear Selection Guide for Global Filmmakers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721099236532-happy-campers-wacom-connected-everywhere/"><u>Happy Campers: Wacom Connected, Everywhere!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-successfully-update-your-hcmon-driver-and-avoid-common-mistakes/"><u>How to Successfully Update Your HCMon Driver and Avoid Common Mistakes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-redmi-note-13-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Xiaomi Redmi Note 13 5G Without PUK Codes</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/iphone-under-the-moonlight-photography-tips/"><u>IPhone Under the Moonlight Photography Tips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-non-responsive-hp-wireless-keyboard-problems-effective-solutions-inside/"><u>Resolving Non-Responsive HP Wireless Keyboard Problems - Effective Solutions Inside</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/tackling-social-media-platforms-an-in-depth-look-at-igtv-and-youtube-for-2024/"><u>Tackling Social Media Platforms An In-Depth Look at IGTV and YouTube for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-addressing-bus-controllers/"><u>Windows 11: Addressing Bus Controllers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/apture-your-best-moments-top-8-mirrorless-cameras-for-you-for-2024/"><u>[New] Capture Your Best Moments Top 8 Mirrorless Cameras For You for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-inside-polarrs-magic-box-the-ultimate-digital-image-enhancer/"><u>[New] In 2024, Inside Polarr's Magic Box The Ultimate Digital Image Enhancer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-key-platforms-ranking-the-best-6-sites-for-business-interaction/"><u>[New] Key Platforms Ranking the Best 6 Sites for Business Interaction</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restored-device-functionality-post-driver-update/"><u>[RESTORED] Device Functionality Post Driver Update</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-streamline-your-instagram-top-8-planning-apps-for-iosandroid-devices/"><u>[Updated] In 2024, Streamline Your Instagram Top 8 Planning Apps for iOS/Android Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-simplified-methods-capturing-powerpoint-talks/"><u>[Updated] Simplified Methods Capturing PowerPoint Talks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722204985467-chatgpt-just-got-ios-friendly/"><u>ChatGPT Just Got iOS-Friendly!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/emergency-fix-for-wet-tech-restoring-your-submerged-iphone-or-ipod/"><u>Emergency Fix for Wet Tech: Restoring Your Submerged iPhone or iPod</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-x100-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo X100</u></a></li>
+<li><a href="https://driver-error.techidaily.com/operational-normality-restored/"><u>Operational Normality Restored</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-the-error-when-your-usb-device-wont-install-access-denied/"><u>Resolve the Error When Your USB Device Won't Install - 'Access Denied'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-detected-hardware-not-supported-issues-in-idt-software-packages/"><u>Resolving 'Detected Hardware Not Supported' Issues in IDT Software Packages</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-tackling-itbm-missing-driver-problems-swiftly/"><u>Step-by-Step Guide to Tackling ITBM Missing Driver Problems Swiftly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-guide-on-latest-hardware-trends/"><u>Tom's Tech Review: In-Depth Guide on Latest Hardware Trends</u></a></li>
+<li><a href="https://driver-error.techidaily.com/toms-tech-reviews-in-depth-computer-hardware-insights/"><u>Tom's Tech Reviews: In-Depth Computer Hardware Insights</u></a></li>
 </ul></div>
 

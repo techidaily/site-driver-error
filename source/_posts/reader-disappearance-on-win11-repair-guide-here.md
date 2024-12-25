@@ -1,7 +1,7 @@
 ---
 title: Reader Disappearance on Win11 - Repair Guide Here
-date: 2024-12-13T17:07:51.318Z
-updated: 2024-12-16T06:39:12.619Z
+date: 2024-12-22T01:02:39.982Z
+updated: 2024-12-24T18:21:19.763Z
 tags:
   - win11
   - win10
@@ -36,10 +36,18 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6098ec3402.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate**IDE ATA/ ATAPI controllers** .
  3) Right-click **ATA Channel 0** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e194a84fe7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click **ATA Channel 1** and click**Uninstall** .
 
@@ -50,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
  6) Reboot your computer after these changes.
 
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **2: Update drivers**
 
@@ -67,19 +79,11 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a61a4afa.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
 
@@ -91,18 +95,10 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Follow the path:
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\ {4D36E965-E325-11CE-BFC1-08002BE10318}**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
 
@@ -111,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
  4) **Delete**  them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
 
@@ -129,20 +129,20 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Create a new**Controller0** key under**atapi** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
@@ -150,7 +150,7 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) Exit Registry Editor.
@@ -172,17 +172,21 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-superior-hd-visual-capture-systems/"><u>[Updated] In 2024, Superior HD Visual Capture Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-oppo-a56s-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Oppo A56s 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-fix-wsd-device-on-windows-os/"><u>Driver Fix: WSD Device on Windows OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-tips-solving-last-usb-malfunction-and-recognition-issues-on-your-computer-with-windows/"><u>Expert Tips: Solving Last USB Malfunction & Recognition Issues on Your Computer with Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fixing-communication-breakdown-with-chatgpts-plugin-services/"><u>Fixing Communication Breakdown with ChatGPT's Plugin Services</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-tecno-spark-20-proplus-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Tecno Spark 20 Pro+ Phone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-poco-m6-pro-4g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Poco M6 Pro 4G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restoring-bluetooth-addition-to-device-control-panel/"><u>Restoring: Bluetooth Addition to Device Control Panel</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-startup-five-must-do-activities-when-you-get-your-new-tech-gadget/"><u>Seamless Startup: Five Must-Do Activities When You Get Your New Tech Gadget</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-stylus-tablet-picks-featuring-comprehensive-reviews-by-tech-gurus-see-what-weve-found/"><u>Top-Rated Stylus Tablet Picks , Featuring Comprehensive Reviews by Tech Gurus - See What We've Found!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unboxing-the-new-microsoft-surface-laptop-n-is-it-just-a-skin-deep-redesign-full-analysis-on-zdnet/"><u>Unboxing the New Microsoft Surface Laptop N: Is It Just a Skin-Deep Redesign? Full Analysis on ZDNet</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-vista-cant-recognize-acer-aspire-e1-572-laptop-solved/"><u>Windows Vista Can't Recognize Acer Aspire E1-572 Laptop [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-car-load-error-on-gadget/"><u>[Fixed] Car Load Error on Gadget</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-path-to-perfected-video-covers-update-guide-and-tips/"><u>[New] The Path to Perfected Video Covers Update Guide & Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ticklishtones-selecting-the-best-ringtones-for-smiles-for-2024/"><u>[New] TicklishTones Selecting the Best Ringtones for Smiles for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-windows-could-not-find-driver-software-for-your-device/"><u>[Solved] Windows Could Not Find Driver Software for Your Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-first-steps-to-successful-vlogging-essentials/"><u>2024 Approved First Steps to Successful Vlogging Essentials</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improving-sifu-gameplay-overcoming-stuttering-issues-and-frame-drops-on-pc/"><u>Improving Sifu Gameplay: Overcoming Stuttering Issues and Frame Drops on PC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-guide-to-top-free-vectors-graphics-sites-worldwide/"><u>In 2024, Guide to Top Free Vectors, Graphics Sites Worldwide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/iphone-12-icloud-activation-lock-bypass-by-drfone-ios/"><u>iPhone 12 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-usb-functionality-post-adb-error/"><u>Restoring USB Functionality Post ADB Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsung-galaxy-tab-a6-not-recognized-by-arch-linux-fixed-it/"><u>Samsung Galaxy Tab A6 Not Recognized by Arch Linux, Fixed It</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-missing-msvcr100dll-a-step-by-step-fix-guide/"><u>Solving 'Missing MSVCR100.DLL': A Step-By-Step Fix Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-driver-issues-solving-no-driver-found-for-windows-devices-in-versions-11-8-and-7/"><u>Troubleshooting Driver Issues: Solving 'No Driver Found' For Windows Devices in Versions 11, 8 and 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-guide-updating-and-downloading-drivers-for-your-hp-envy-20/"><u>Ultimate Guide: Updating and Downloading Drivers for Your HP ENVY 20</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/k-creative-potential-top-10-online-banners-tools/"><u>Unlock Creative Potential - Top 10 Online Banners Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-drives-vanishing-from-windows-1011/"><u>USB Drives Vanishing From Windows 10/11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Samsung Galaxy S23+? | Dr.fone</u></a></li>
 </ul></div>
 
