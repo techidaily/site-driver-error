@@ -1,7 +1,7 @@
 ---
 title: Restored Controller on DeviceHarddisk
-date: 2024-10-24T03:33:18.230Z
-updated: 2024-10-29T21:05:29.784Z
+date: 2025-01-02T03:02:21.363Z
+updated: 2025-01-03T02:01:29.215Z
 tags:
   - win11
   - win10
@@ -19,15 +19,16 @@ thumbnail: https://thmb.techidaily.com/6e5f95b25124810982ee054b31aff132061c491b9
 
  Whenever you insert your USB drive into your computer, you keep getting this error message   **The driver detected a controller error on \\Device\\Harddisk1\\DR1** or**DR3**  ? Many users have reported this issue. But don’t worry, you can try the solutions below to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Switch your USB drive to a different port
 
  Some sectors in your computer may be damaged, and you can try**switching your USB drive to a different port** . It worked for some users. If it doesn’t solve your “ The driver detected a controller error on \\Device\\Harddisk1\\DR1″ problem,  try Solution 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 2: Update your USB driver
@@ -50,20 +51,14 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84c2843cf68.jpg)
 4. You may need to restart your computer to finish the process. Then check if your “The driver detected a controller error on \\Device\\Harddisk1\\DR1 ” problem is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -89,22 +84,22 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/irql-solved-win11-blue-screen-of-death/"><u>[Irql] Solved: Win11 Blue Screen of Death</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-unleashing-creativity-capturing-and-editing-impressive-videos-in-adobe-connect/"><u>[Updated] In 2024, Unleashing Creativity Capturing & Editing Impressive Videos in Adobe Connect</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1874sales-taxis-in-their-owners-they-were-given-500-miles-for-each-individualrevenue-ioteaching-the-world-and-aftermath-of-an-interview-with-a-stringent-sta2/"><u>1874/Sales Taxis in Their Owners, They Were Given $500 Miles for Each Individual_revenue = 'IoTeaching the World, and Aftermath of an Interview with a Stringent Standards-Based on December 6Th Floor (C) - Tweet</u></a></li>
-<li><a href="https://win-web.techidaily.com/1728472621428-2024/"><u>網路安全提示：如何在2024年使用最新技術，成功地進行重要文件的隨身碟刪除與救回步驟</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cleared-error-device-error-48/"><u>Cleared Error - Device Error 48</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-fixes-to-tackle-the-blue-screen-of-death-code-0x0000007e-in-windows-7/"><u>Comprehensive Fixes to Tackle the Blue Screen of Death (Code: 0X0000007E) in Windows 7</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-12-pro-max-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 12 Pro Max</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-resolution-fixing-the-not-properly-set-up-issue-device-code-1/"><u>Error Resolution: Fixing the 'Not Properly Set Up' Issue (Device Code 1)</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-strategies-to-maintain-administrator-mode-for-your-applications-on-windows-11/"><u>Expert Strategies to Maintain Administrator Mode for Your Applications on Windows 11</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/free-admin-template-with-bootstrap-4-discover-the-new-nowui-dashboard-by-creative-tim/"><u>Free Admin Template with Bootstrap 4: Discover the New NowUI Dashboard by Creative Tim</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/nvidia-graphics-missing-in-winos/"><u>Nvidia Graphics Missing in WINOS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/perfecting-windows-11s-input-with-elan-driver-fixes/"><u>Perfecting Windows 11'S Input with Elan Driver Fixes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-fix-guide-what-to-do-if-your-most-recent-usb-connection-errors-and-windows-disregards-them/"><u>Quick Fix Guide: What To Do If Your Most Recent USB Connection Errors & Windows Disregards Them</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stop-the-frustration-effective-fixes-for-constant-keeps-on-wwe-2k22-pc/"><u>Stop the Frustration: Effective Fixes for Constant Keeps on WWE 2K22 PC</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-ranking-of-top-10-classic-disney-films-and-comprehensive-guide-on-where-to-legally-stream-or-download-them/"><u>Ultimate Ranking of Top 10 Classic Disney Films & Comprehensive Guide on Where to Legally Stream or Download Them</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11s-aesthetic-edge-maximizing-backdrop-impact/"><u>Windows 11'S Aesthetic Edge: Maximizing Backdrop Impact</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-top-quality-free-fb-image-and-video-designer/"><u>[New] 2024 Approved Top Quality FREE FB Image & Video Designer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-tailored-strategies-for-recording-mov-files-in-win10/"><u>[New] In 2024, Tailored Strategies for Recording MOV Files in Win10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-corporate-cloud-storage-platforms-for-2024/"><u>[Updated] Top Corporate Cloud Storage Platforms for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-quest-for-the-best-framerate-balancing-speed-and-clarity/"><u>2024 Approved The Quest for the Best Framerate - Balancing Speed & Clarity</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/deciphering-the-difficulty-of-german-language-studies/"><u>Deciphering the Difficulty of German Language Studies</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-logged-ideport0-control-defect/"><u>Error Logged: Ideport0 Control Defect</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-error-in-device-manager-48/"><u>Fixed Error in Device Manager (#48)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highlighted-visions-is-intensified-lighting-the-future-of-hd-in-hdr-in-2024/"><u>Highlighted Visions Is Intensified Lighting the Future of HD in HDR, In 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-sony-xperia-5-v-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Sony Xperia 5 V Through Google Earth?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-usb-camera-anomalies-in-asus-w10-edition/"><u>Overcoming USB Camera Anomalies in ASUS, W10 Edition</u></a></li>
+<li><a href="https://win-docs.techidaily.com/resetting-ios-apps-back-from-itunes-restore-step-by-step-guide/"><u>Resetting iOS Apps Back From iTunes Restore – Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-unsupported-hardware-alerts-in-your-software-suite-a-step-by-step-solution/"><u>Resolve 'Unsupported Hardware' Alerts in Your Software Suite – A Step-by-Step Solution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-understanding-and-identifying-the-classic-usb-composite-device/"><u>Solved: Understanding and Identifying the Classic USB Composite Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tech-meets-barista-mode-a-unique-computer-tower-with-an-integrated-coffee-making-system-complete-with-roaster-and-grinder/"><u>Tech Meets Barista Mode: A Unique Computer Tower with an Integrated Coffee-Making System, Complete with Roaster and Grinder</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Will the iPogo Get You Banned and How to Solve It On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-changes-impact-realtek-lan-driver/"><u>Windows 10 Changes Impact Realtek LAN Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-pc-no-response-when-trying-to-mute-or-disable-bluetooth/"><u>Windows PC: No Response when Trying to Mute or Disable Bluetooth.</u></a></li>
 </ul></div>
 

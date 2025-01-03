@@ -1,7 +1,7 @@
 ---
 title: "Optical Drive Missing: Windows 11 Issue Addressed"
-date: 2024-12-07T02:16:25.163Z
-updated: 2024-12-09T18:59:05.771Z
+date: 2024-12-29T01:11:57.717Z
+updated: 2025-01-02T19:58:19.825Z
 tags:
   - win11
   - win10
@@ -36,18 +36,10 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6098ec3402.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate**IDE ATA/ ATAPI controllers** .
  3) Right-click **ATA Channel 0** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e194a84fe7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Right-click **ATA Channel 1** and click**Uninstall** .
 
@@ -58,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
  6) Reboot your computer after these changes.
 
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **2: Update drivers**
 
@@ -82,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
@@ -95,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Follow the path:
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\ {4D36E965-E325-11CE-BFC1-08002BE10318}**
 
@@ -108,17 +100,13 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55543336b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) **Delete**  them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
 
@@ -133,16 +121,24 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd3791d37b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Create a new**Controller0** key under**atapi** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
@@ -152,6 +148,10 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -172,17 +172,16 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-snap-inspiration-selecting-stunning-ig-visuals/"><u>[New] 2024 Approved Snap Inspiration! Selecting Stunning IG Visuals</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-top-8-linux-screenshot-utilities-compared/"><u>[New] In 2024, Top 8 Linux Screenshot Utilities Compared</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-maximize-virtual-realty-setting-up-room-and-tech/"><u>[New] Maximize Virtual Realty Setting Up Room and Tech</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-syncing-soundscape-and-scene-editing-tips-for-canva-videographers/"><u>[New] Syncing Soundscape and Scene Editing Tips for Canva Videographers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-complete-reference-to-display-recording-methods/"><u>[Updated] In 2024, The Complete Reference to Display Recording Methods</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-skyrocket-views-with-these-proven-youtube-optimization-strategies/"><u>[Updated] Skyrocket Views with These Proven YouTube Optimization Strategies</u></a></li>
-<li><a href="https://driver-error.techidaily.com/a-comprehensible-guide-to-updating-razers-bios-driver-for-pc-users/"><u>A Comprehensible Guide to Updating Razer's BIOS Driver for PC Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hardware-integration-limitation-for-graphic-driver/"><u>Hardware Integration Limitation for Graphic Driver</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/name-seek-opengl-drivers-for-intels-chipset/"><u>Name Seek: OpenGL Drivers for Intel's Chipset</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-common-problems-with-hp-keyboards-a-comprehensive-guide/"><u>Resolving Common Problems with HP Keyboards: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-unsupported-hardware-errors-with-your-current-software-suite/"><u>Resolving Unsupported Hardware Errors with Your Current Software Suite</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-wi-fi-6ax201-connection-drops-rectified/"><u>[FIXED] Wi-Fi 6Ax201 Connection Drops Rectified</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-leading-tech-the-top-10-4k-camera-phones-reviewed/"><u>[New] Leading Tech The Top 10 4K Camera Phones Reviewed</u></a></li>
+<li><a href="https://win-info.techidaily.com/access-treehouse-learning-content-now-no-charge-direct-online-download/"><u>Access Treehouse Learning Content Now - No Charge, Direct Online Download!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/breaking-barriers-lenovos-success-on-win10/"><u>Breaking Barriers: Lenovo's Success on Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bring-back-life-to-a-nonfunctional-laptop-keyboard-article-name-358-characters/"><u>Bring Back Life to a Nonfunctional Laptop Keyboard - Article Name — 358 Characters</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/fix-slow-startup-issues-in-windows-11-using-these-7-effective-methods-for-ssd-drives/"><u>Fix Slow Startup Issues in Windows 11 Using These 7 Effective Methods for SSD Drives</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-12-pro-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-gamers-top-picks-1-ranked-4k-laptops/"><u>In 2024, Gamers' Top Picks #1 Ranked 4K Laptops</u></a></li>
+<li><a href="https://driver-error.techidaily.com/silent-input-device-windows-mystery/"><u>Silent Input Device - Windows Mystery</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-resolving-nonfunctional-qualcomm-atheros-bluetooth-drivers-on-windows-10-computers/"><u>Step-by-Step Guide: Resolving Nonfunctional Qualcomm Atheros Bluetooth Drivers on Windows 10 Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-csv-files-a-beginners-guide-to-opening-and-usage/"><u>Understanding CSV Files: A Beginner's Guide to Opening & Usage</u></a></li>
 </ul></div>
 

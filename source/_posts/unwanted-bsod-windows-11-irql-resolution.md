@@ -1,7 +1,7 @@
 ---
 title: "Unwanted [BSOD]: Windows 11 Irql Resolution"
-date: 2024-11-13T02:26:49.788Z
-updated: 2024-11-14T17:05:45.539Z
+date: 2024-12-31T04:44:21.139Z
+updated: 2025-01-02T18:26:14.971Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 4. **[Reset or reinstall Windows](https://tinyland.pxf.io/org4ra)**
 
 **IMPORTANT** : You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, [restart it in Safe Mode,](https://tools.techidaily.com/drivereasy/download/) then try these solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 1: Update the drivers to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
 
@@ -63,10 +67,7 @@ Following steps are for your reference on how to uninstall a driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13fde1d72b1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In Device Manager, locate the faulty driver. If the driver is having problems, you’ll see a yellow mark next to the device name. Then right-click on the device name (For example, uninstall graphics card driver.) and select**Uninstall** .
@@ -78,19 +79,14 @@ Following steps are for your reference on how to uninstall a driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13feb35a43d.png)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Restart your PC and check to see if the blue screen is gone  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3 **: Perform a System Restore to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
 
@@ -108,6 +104,10 @@ Following steps are for your reference on how to uninstall a driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a14004645d52.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Reboot your PC and check to see if the blue screen is gone.
 
 ## **Solution** 4: Reset or reinstall Windows
@@ -121,30 +121,10 @@ Following steps are for your reference on how to uninstall a driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -171,22 +151,17 @@ Following steps are for your reference on how to uninstall a driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-from-zero-to-zoom-expertise-in-a-flash/"><u>[New] 2024 Approved From Zero to Zoom Expertise in a Flash</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-seamless-web-converters-turning-your-gif-into-professional-video/"><u>[New] Seamless Web Converters Turning Your GIF Into Professional Video</u></a></li>
-<li><a href="https://driver-error.techidaily.com/eliminate-disk-maximum-usage-in-windows/"><u>Eliminate Disk Maximum Usage in Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhance-your-computer-audio-a-guide-to-setting-up-unknown-speaker-systems-on-windows-10/"><u>Enhance Your Computer Audio: A Guide to Setting Up Unknown Speaker Systems on Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-correctly-set-up-your-gadget-after-receiving-a-config-error-code-1/"><u>Guide to Correctly Set Up Your Gadget After Receiving a Config Error (Code 1)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-get-your-hp-wireless-keyboard-back-in-action-expert-tips-and-tricks/"><u>How To Get Your HP Wireless Keyboard Back in Action: Expert Tips & Tricks</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-xs-max-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From Apple iPhone XS Max? Find the Best Solution Here</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intels-opengl-drivers-what-are-they-called/"><u>Intel's OpenGL Drivers, What Are They Called?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/navigating-snapchat-for-twitter-vids-distribution-for-2024/"><u>Navigating Snapchat for Twitter Vids Distribution for 2024</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/online-free-ts-mp4-movavi/"><u>Online Free TS 프리미우스를 MP4로 자동 변환 - Movavi</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-how-to-address-iphones-external-device-recognition-error/"><u>Resolved: How to Address iPhone's External Device Recognition Error</u></a></li>
-<li><a href="https://driver-error.techidaily.com/strategies-for-correcting-windows-acpi-issues-on-asus-devices/"><u>Strategies for Correcting Windows Acpi Issues on ASUS Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-novices-roadmap-to-mastering-key-ai-tools-top-9-picks/"><u>The Novice's Roadmap to Mastering Key AI Tools (Top 9 Picks)</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/troubleshooting-and-solutions-for-clipconvertercc-security-error-issues/"><u>Troubleshooting & Solutions for ClipConverter.cc Security Error Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlocking-iphone-data-sync-via-usb-overcoming-device-driver-challenges/"><u>Unlocking iPhone Data Sync via USB: Overcoming Device Driver Challenges</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/what-users-are-saying-about-viber-out-review-summary/"><u>What Users Are Saying About Viber Out – Review Summary</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-impact-realtek-network-device-stumbles-now-ok/"><u>Win11 Impact: Realtek Network Device Stumbles, Now OK</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-premiere-pro-masterclass-essential-templates-for-free/"><u>[New] 2024 Approved Premiere Pro Masterclass - Essential Templates for Free</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-kakaotalk-elites-flash-chats-on-snapchat/"><u>[New] KakaoTalk Elites' Flash Chats on Snapchat</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-to-follow-guide-to-fixing-mtp-devices/"><u>Easy-to-Follow Guide to Fixing MTP Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-battleye-setup-issues-how-to-handle-the-infamous-driver-load-error-1450/"><u>Fixing BattlEye Setup Issues: How to Handle the Infamous Driver Load Error (1450)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-breakdown-of-essential-video-effects-in-tiktok-editing/"><u>In 2024, Breakdown of Essential Video Effects in TikTok Editing</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-digital-dynamo-dames-the-next-generation-of-youtubes-powerhouses/"><u>In 2024, Digital Dynamo Dames The Next Generation of YouTube's Powerhouses</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-enhancing-youtube-videos-proper-lighting-methods/"><u>In 2024, Enhancing YouTube Videos Proper Lighting Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-vm-speed-six-windows-tips-and-tricks/"><u>Maximizing VM Speed: Six Windows Tips & Tricks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimized-mouse-performance-in-windows/"><u>Optimized Mouse Performance in Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ranking-the-greatest-9-mobile-video-communication-services-ios-android-for-2024/"><u>Ranking the Greatest 9 Mobile Video Communication Services (iOS, Android) for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-nonfunctional-hardware-in-windows-11-8-or-7-driver-solutions-fixed/"><u>Troubleshoot Nonfunctional Hardware in Windows 11, 8 or 7: Driver Solutions [FIXED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlit-asus-keyboard-mystery/"><u>Unlit ASUS Keyboard Mystery</u></a></li>
 </ul></div>
 

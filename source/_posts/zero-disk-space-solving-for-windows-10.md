@@ -1,7 +1,7 @@
 ---
 title: "Zero Disk Space: Solving for Windows 10"
-date: 2024-11-08T17:20:37.410Z
-updated: 2024-11-15T01:37:06.262Z
+date: 2024-12-30T01:17:30.398Z
+updated: 2025-01-03T06:29:39.217Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a1aef9ac34b30a9b89c44b4090cc093f70a661d81
  If your Windows 10 Task Manager shows 100% disk usage, something is causing your hard drive to over-work. The good news is, it’s usually not a hard problem to fix.
 
  Before you start troubleshooting, check if it’s a temporary system glicth. You can do that by simply restarting the PC and see if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 fixes for 100% disk usage on Windows 10
 
@@ -46,10 +50,7 @@ thumbnail: https://thmb.techidaily.com/a1aef9ac34b30a9b89c44b4090cc093f70a661d81
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-19_11-01-38.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Click **Yes**  at the**User Account Control** prompt.
@@ -76,6 +77,10 @@ If the 100% disk usage problem persists, try the next method, below.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your device drivers
 
  The 100% disk usage problem in Windows 10 could indicate a driver issue. In other words, it could mean that you’re using a faulty or outdated device drivers.
@@ -101,6 +106,10 @@ With Driver Easy, updating drivers only takes 2 clicks:
 If the 100% disk usage problem persists, try the next method, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Check for corrupted system files
 
@@ -145,10 +154,7 @@ chkdsk.exe /f /r
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594c79d06cf80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **IMPORTANT:** Disk check will start the next time you boot your PC and it might take some time to complete (could be a day for some). If, when you restart, you don’t have time to wait for the disk check to complete, you can skip it. You’ll need to reschedule it again, as described above, though.
@@ -156,6 +162,10 @@ chkdsk.exe /f /r
  5) Once you’ve completed the disk check, check your computer’s disk usage again: Type “task manager” in the Windows search bar and select**Task Manager** , then in the Processes tab, look at the % at the top of the Disk column. If it’s no longer 100%, you’ve fixed the problem!
 
 ![100% disk usage resolved](https://images.drivereasy.com/wp-content/uploads/2016/08/100-disk-usage-resolved.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the 100% disk usage problem persists, try the next method, below.
 
@@ -179,16 +189,13 @@ If the 100% disk usage problem persists, try the next method, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Ensure the **Automatically manage paging file size for all drives** checkbox is**NOT** ticked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-37-37.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Select your windows drive (the hard drive or partition that has Windows installed on it – usually **C:**)**,** and enter an Initial size and Maximum size for your virtual memory:
 
@@ -204,10 +211,7 @@ If the 100% disk usage problem persists, try the next method, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a4d089b3e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) Select all the files in the Temp folder and delete them.
@@ -238,6 +242,10 @@ If the 100% disk usage problem persists, try the next method, below.
 
 ![100% disk usage resolved](https://images.drivereasy.com/wp-content/uploads/2016/08/100-disk-usage-resolved.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the 100% disk usage problem persists, try the next method, below.
 
 ---
@@ -254,13 +262,6 @@ Here’s how to determine if this is your problem and fix it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b453d7e242.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Expand the **IDE ATA/ATAPI Controllers**  category, and double-click the**AHCI controller** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b45719881f.png)
@@ -268,13 +269,6 @@ Here’s how to determine if this is your problem and fix it:
  3) Go to the **Driver** tab and click**Driver Details** . If you can see**storahci.sys** stored in a path of system32 folder, then you are running the inbox AHCI driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b4611132d9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Close the Driver Details window and go to**Details** tab. From the drop-down menu, select **Device Instance Path** . Make note of the path, starting from**VEN\_** .
 
@@ -315,19 +309,6 @@ Here’s how you can check the disk health easily with HD Tune:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-2.jpg)
 3. On the top left corner, you can toggle the drop down menu to select the disk (if you have multiple). This will allow you to check the health of each disk.  
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-3.jpg)
 
  You’d also need to check if the disk has bad blocks. **Before you start, note that this process could take hours to complete.** You may want to try other fixes before this one.
@@ -338,14 +319,11 @@ Here’s how you can check the disk health easily with HD Tune:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-6.jpg)
 3. Again, you can use the drop down menu on the top left corner to scan different disk. It’s recommended you scan all the disk to make sure all your hard drives are in good condiction.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Tips to secure your data** : Since hard drives have a finite lifetime and can fail without a warning, consider using a free backup software like AOMEI Backupper to [create a system image](https://prf.hn/click/camref:1011l3x6jb/pubref:drivereasyen2039/ar:drivereasyen2039/[p%5Fid:1100l557026]/destination:https%3A%2F%2Fwww.ubackup.com%2Ffeatures%2Fcreate-system-image.html) , especially when the disk carries important data. A backup system protects you against random disk failures.
 
@@ -394,21 +372,21 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/igital-splendor-on-youtube-the-hue-harmonization-way/"><u>[New] Digital Splendor on YouTube The Hue Harmonization Way</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-discovering-superior-alternatives-to-cyberlink/"><u>[Updated] Discovering Superior Alternatives to Cyberlink</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-earn-extra-bucks-maximizing-youtubes-mobile-revenue-opportunities/"><u>[Updated] Earn Extra Bucks Maximizing YouTube's Mobile Revenue Opportunities</u></a></li>
-<li><a href="https://win-answers.techidaily.com/burning-iso-files-to-dvd-in-windows-top-2-no-cost-techniques-for-windows-11-and-earlier-versions/"><u>Burning ISO Files to DVD in Windows - Top 2 No-Cost Techniques for Windows 11 & Earlier Versions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correcting-venintanddev33a0-drive-errors/"><u>Correcting VEN_INT&DEV_33A0 Drive Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/elan-touchpad-driver-issues-in-windows-11-solved/"><u>Elan Touchpad Driver Issues in Windows 11 [Solved]</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/ice-cream-capture-technology-reviewed-deeply/"><u>Ice Cream Capture Technology Reviewed Deeply</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-grow-youtube-subscriber/"><u>In 2024, How to Grow Youtube Subscriber</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-path-to-making-popular-twitch-channels/"><u>In 2024, The Path to Making Popular Twitch Channels</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-vllo-for-mac-a-comprehensive-guide-to-downloads-and-substitutes/"><u>New 2024 Approved VLLO for Mac A Comprehensive Guide to Downloads and Substitutes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-the-device-misconfigured-hurdle-resolving-code-1-issues/"><u>Overcoming the 'Device Misconfigured' Hurdle - Resolving Code 1 Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-venintanddev33a0-acpi-challenges/"><u>Overcoming VEN_INT&DEV_33A0 Acpi Challenges</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolution-fixing-invalid-inf-install-section/"><u>Resolution: Fixing Invalid INF Install Section</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-screen-reset-on-windows-with-elan-tablet-driver/"><u>Solving Screen Reset on Windows with Elan Tablet Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-complete-tutorial-upgrading-and-downloading-drivers-for-hps-envy-13-15-and-17-series-computers/"><u>The Complete Tutorial: Upgrading and Downloading Drivers for HP's Envy 13, 15, and 17 Series Computers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unlocking-potential-expert-insights-into-hashtag-usage-on-facebook/"><u>Unlocking Potential Expert Insights Into Hashtag Usage on Facebook</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-intel-wi-fi-ax201-signal-strength-issue/"><u>[FIXED] Intel Wi-Fi AX201 Signal Strength Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-how-to-fix-wpd-filesystem-volume-driver-issues/"><u>[SOLVED] How to Fix WPD FileSystem Volume Driver Issues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-finest-global-virtual-learning-hubs-outside-udemy-for-2024/"><u>[Updated] The Finest Global Virtual Learning Hubs Outside Udemy for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-list-of-iphone-selfie-perks-8/"><u>2024 Approved The Ultimate List of IPhone Selfie Perks #8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/direct-fix-reconnecting-with-mtp-drivers/"><u>Direct Fix: Reconnecting with MTP Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminate-usb-port-malfunction-in-dell-notebook/"><u>Eliminate USB Port Malfunction in Dell Notebook</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-reviving-classic-usb-composite-devices/"><u>Guide to Reviving Classic USB Composite Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-troubleshoot-with-safe-mode-graphics-card-driver-removal-techniques-for-window-8-users/"><u>How To Troubleshoot with Safe Mode: Graphics Card Driver Removal Techniques for Window 8 Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-13-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From Apple iPhone 13? Find the Best Solution Here</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/prime-7-film-downloader-tools-for-2024/"><u>Prime 7 Film Downloader Tools for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/shift-key-failure-solved-tips-for-restoring-functionality/"><u>Shift Key Failure Solved: Tips for Restoring Functionality</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solve-scrambled-xvid-and-hds-clips/"><u>Solve Scrambled XviD & HDS Clips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-installing-missing-drivers-for-your-device-on-windows-operating-systems-11-8-and-aturdays-a-comprehensive-guide/"><u>Troubleshooting and Installing Missing Drivers for Your Device on Windows Operating Systems (11, 8 & Aturdays) - A Comprehensive Guide!</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-most-popular-websites-offering-montage-audio-archives/"><u>Updated Most Popular Websites Offering Montage Audio Archives</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1725287877794-winxvideo-ai-webcam/"><u>Winxvideo AI - 화면 이미지, Webcam, 오디오 버전 변환</u></a></li>
 </ul></div>
 

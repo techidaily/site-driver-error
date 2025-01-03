@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving Issues When Your Final USB Device Fails & Windows Ignores It"
-date: 2024-11-08T21:59:06.747Z
-updated: 2024-11-14T18:42:44.960Z
+date: 2024-12-29T16:59:22.005Z
+updated: 2025-01-02T22:09:05.126Z
 tags:
   - win11
   - win10
@@ -82,13 +82,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377758f2bdc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Change plan settings** next to the plan option you’re having now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3777c0a811b.png)
@@ -97,27 +90,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377814e701a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click to expand**USB settings** and**USB selective suspend setting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3778a48905d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Select**Disabled** from the drop-down option. Then click**Apply** and**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377b3cef938.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **NOTE** : If you’re using a laptop, click**On battery** , then**Disabled** from the drop-down menu.
 
@@ -133,17 +120,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3786b06277a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the top bar, click**View** and then**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378723b37b6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click to expand**Universal Serial Bus controllers.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3.1) If you see any device drivers marked by**yellow exclamation marks** or**question marks:**
@@ -157,10 +149,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37895fbce37.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3.1.3) When the uninstall finishes, restart your computer. Then repeat the same procedure with the rest of the USB controllers marked by yellow exclamation marks or question marks one by one.
@@ -172,10 +161,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e629ee28.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3.2.3) When the disable finishes, restart your PC. Repeat the same procedure as above, and if your USB controller driver is not enabled automatically, right-click it and click**Enable device** .
@@ -201,20 +187,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-joining-in-on-tiktok-gigs-without-causing-a-ruckus/"><u>[New] 2024 Approved Joining in on TikTok Gigs Without Causing a Ruckus</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-efficient-chrome-os-snaps-4-techniques-to-try-for-2024/"><u>[Updated] Efficient Chrome OS Snaps - 4 Techniques to Try for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/o-execute-a-budget-friendly-youtube-seminar-for-2024/"><u>How to Execute a Budget-Friendly Youtube Seminar for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-spectacular-stop-motion-animations-15-list/"><u>In 2024, Spectacular Stop-Motion Animations #15 List</u></a></li>
-<li><a href="https://video-capture.techidaily.com/latest-guide-on-saving-twitch-video-broadcasts-from-2022/"><u>Latest Guide on Saving Twitch Video Broadcasts From 2022</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-bt-speakers-volume-level-on-windows-11-pcs/"><u>Optimizing BT Speakers Volume Level on Windows 11 PCs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-win-strategies-for-windows-ndis-issues/"><u>Quick-Win Strategies for Windows NDIS Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-errors-in-the-configuration-segment-for-services/"><u>Resolving Errors in the Configuration Segment for Services</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revitalizing-your-touchpads-performance-no-driver/"><u>Revitalizing Your Touchpad's Performance, No Driver?</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/securing-your-data-top-3-techniques-for-safe-hyper-v-storage-transfers/"><u>Securing Your Data: Top 3 Techniques for Safe Hyper-V Storage Transfers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-call-issue-with-io-controller-over/"><u>System Call Issue with I/O Controller Over</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-16-essential-nasa-technologies-integrated-into-daily-life/"><u>Top 16 Essential NASA Technologies Integrated Into Daily Life</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-sideways-videos-a-guide-to-adjusting-orientation-on-asus-pcs/"><u>Troubleshooting Sideways Videos: A Guide to Adjusting Orientation on ASUS PCs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-for-recovering-from-default-radeon-wattman-setup-errors/"><u>Troubleshooting Tips for Recovering From Default Radeon Wattman Setup Errors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/utorrent-media-player-seamless-streaming/"><u>UTorrent Media Player Seamless Streaming</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-struggling-to-run-rtx-gaming-weve-got-your-back/"><u>(Solved): Struggling to Run RTX Gaming? We've Got Your Back</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-earnings-exploration-how-much-does-pewdiepie-earn-in-2024/"><u>[New] Earnings Exploration How Much Does PewDiePie Earn, In 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-drivers-engaged-on-win-os/"><u>[Solved]: Drivers Engaged on Win OS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-top-pick-top-10-android-and-ios-wedding-countdown-clock-apps-of-the-year/"><u>[Updated] The Top Pick Top 10 Android and iOS Wedding Countdown Clock Apps of the Year</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-complete-lowdown-on-using-showmores-recorder/"><u>2024 Approved The Complete Lowdown on Using ShowMore's Recorder</u></a></li>
+<li><a href="https://driver-error.techidaily.com/canon-sx530-revealed-the-best-camera-for-newbies/"><u>Canon SX530 Revealed: The Best Camera for Newbies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cookiebot-driven-automation-boost-your-sites-traffic-effortlessly/"><u>Cookiebot-Driven Automation: Boost Your Site's Traffic Effortlessly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enable-unseen-logitech-brio-camera-post-windows-update-step-by-step-guide-solved/"><u>Enable Unseen Logitech Brio Camera Post Windows Update – Step by Step Guide [Solved!]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-resolving-the-absence-of-a-coprocessor-driver-in-windows-11/"><u>Fix Guide: Resolving the Absence of a Coprocessor Driver in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-module-blockage-in-windows-operating-system/"><u>Graphics Module Blockage in Windows Operating System</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-fix-your-pc-when-the-gpu-is-triggering-frequent-crashes-expert-guide-by-yl-computing/"><u>How to Fix Your PC When the GPU Is Triggering Frequent Crashes - Expert Guide by YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-itel-p40-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Itel P40 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-blaze-curve-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Lava Blaze Curve 5G Bootloader Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-samsung-galaxy-f54-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Samsung Galaxy F54 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-to-serial-restoring-functionality-in-windows/"><u>USB to Serial: Restoring Functionality in Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/visionplay-app-feedback-summary/"><u>VisionPlay App Feedback Summary</u></a></li>
 </ul></div>
 

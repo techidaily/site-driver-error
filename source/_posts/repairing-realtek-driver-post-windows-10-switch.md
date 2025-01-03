@@ -1,7 +1,7 @@
 ---
 title: Repairing Realtek Driver Post-Windows 10 Switch
-date: 2024-11-09T18:13:20.021Z
-updated: 2024-11-14T16:05:38.502Z
+date: 2024-12-27T09:10:18.849Z
+updated: 2025-01-02T20:31:37.489Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option One: Reset TCP/IP**
 
 1) On your keyboard, press the**Windows logo key** , type**cmd** , right-click**Command Prompt** from the results, and select**Run as administrator** .  
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
  When prompted with the following notification, hit**Yes** to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de25ac8c94.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Type in the following command:
 
@@ -49,6 +57,10 @@ netsh int ip reset c:\resetlog.txt
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option Two:** **Change Settings in Network Adapter Properties**
 
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
@@ -56,16 +68,7 @@ netsh int ip reset c:\resetlog.txt
  2) Locate and click the arrow to expand category**Network adapters** .
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
@@ -77,6 +80,10 @@ netsh int ip reset c:\resetlog.txt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de6ed4d026.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) On the**Value** bar, change the default Auto Negotiation to **100 Mbps Full Duplex**  or some other options accordingly. We chose**100 Mbps Full Duplex** here, but yours could be different.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587deb007e7e1.png)
@@ -85,13 +92,6 @@ netsh int ip reset c:\resetlog.txt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587deab52d9e0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Still, in the**Properties** window, this time, let’s go to**Power Management** tab. Un-tick the box for**Allow the computer to turn off this device to save power** . Then hit**OK** to save and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587decc3276b5.png)
@@ -99,16 +99,7 @@ netsh int ip reset c:\resetlog.txt
 ---
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option Three:** **Reinstall or Rollback Realtek Adapter Driver**
@@ -120,21 +111,7 @@ netsh int ip reset c:\resetlog.txt
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
  3) Then right-click click**Realtek PCIe GBE Family Controller** option and then choose**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee15b99f3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hit**OK** to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee50286a0.png)
@@ -171,10 +148,7 @@ netsh int ip reset c:\resetlog.txt
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-network-adapter-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hopefully the tips above help you fix the Realtek Ethernet Controller driver not working issue. If you have any questions or ideas, feel free to leave your comments below, please.
@@ -196,20 +170,18 @@ netsh int ip reset c:\resetlog.txt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-demystifying-vimeo-top-choice-for-filmmakers/"><u>[New] Demystifying Vimeo Top Choice for Filmmakers</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easing-anxiety-with-intelligent-ai-help/"><u>Easing Anxiety with Intelligent AI Help</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effortless-fix-restore-your-bluetooth-settings-in-latest-operating-system-fast-and-simple/"><u>Effortless Fix: Restore Your Bluetooth Settings in Latest Operating System [Fast and Simple]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-guide-how-to-address-the-absent-coprocessor-driver-error-on-windows-11/"><u>Fix Guide: How to Address the Absent Coprocessor Driver Error on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-restoring-access-to-the-disappeared-co-processor-driver-on-windows-10-solved/"><u>Guide: Restoring Access to the Disappeared Co-Processor Driver on Windows 10 [Solved]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-mini-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 mini without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/immerse-in-depths-with-a-trusty-sidekick-the-insta360-one-x2/"><u>Immerse in Depths with a Trusty Sidekick - The Insta360 One X2</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-tech-choices-delineating-the-features-that-set-an-ipad-apart-from-regular-tablets/"><u>Navigating Tech Choices: Delineating the Features That Set an iPad Apart From Regular Tablets</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-your-qualcomm-bluetooth-driver-woes-in-windows-11-step-by-step-solutions/"><u>Solving Your Qualcomm Bluetooth Driver Woes in Windows 11 – Step-by-Step Solutions</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/top-5-reliable-chrome-extensions-for-downloading-videos-from-multiple-platforms-like-youtube-and-facebook/"><u>Top 5 Reliable Chrome Extensions for Downloading Videos From Multiple Platforms Like YouTube and Facebook</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721098981663-unlock-the-secret-to-a-smooth-iphone-pc-connection-by-fixing-mtp-usb-drivers/"><u>Unlock the Secret to a Smooth iPhone-PC Connection by Fixing MTP USB Drivers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/what-caused-the-guilty-gear-strive-postponement-insights-and-speculations/"><u>What Caused the Guilty Gear Strive Postponement? Insights & Speculations</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wi-fi-6ax201-unresponsive-fixed-now/"><u>Wi-Fi 6Ax201 Unresponsive - Fixed Now</u></a></li>
-<li><a href="https://driver-error.techidaily.com/winnt-solving-usb-device-detection-problems/"><u>WinNT: Solving USB Device Detection Problems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-navigating-virtual-boards-with-ease-a-guide-to-using-google-meet-on-diverse-devices/"><u>[New] Navigating Virtual Boards with Ease A Guide to Using Google Meet on Diverse Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-elite-applications-facilitating-video-discussions/"><u>[Updated] 2024 Approved Elite Applications Facilitating Video Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-mobile-technology-the-top-8-ai-apps-for-you/"><u>Cutting-Edge Mobile Technology: The Top 8 AI Apps for You</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deducing-the-return-on-investment-for-elite-ai-services/"><u>Deducing the Return on Investment for Elite AI Services</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-troubleshooting-guide-for-installed-device-drivers-windows-10-8-and-7-issue-solved/"><u>Easy Troubleshooting Guide for Installed Device Drivers: Windows 10, 8 and 7 (ISSUE SOLVED)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-tutorial-for-enabling-safe-mode-and-updating-intel-gpu-software-on-win8-computers/"><u>Easy Tutorial for Enabling Safe Mode & Updating Intel GPU Software on Win8 Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-screen-flip-issues-on-asus-notebooks-a-guide/"><u>Solving Screen Flip Issues on Asus Notebooks - A Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-guide-stop-windows-11s-persistent-bluetooth/"><u>The Ultimate Guide: Stop Windows 11'S Persistent Bluetooth</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-end-video-refresher-resolution-renaissance/"><u>Top-End Video Refresher Resolution Renaissance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warframe-fixes-how-to-get-past-the-not-launching-error/"><u>Warframe Fixes: How To Get Past the 'Not Launching' Error</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-are-my-youtube-comments-disappearing-troubleshooting-tips-and-solutions/"><u>Why Are My YouTube Comments Disappearing? Troubleshooting Tips & Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-mystery-of-missing-disk-drive-explained/"><u>Win11: Mystery of Missing Disk Drive Explained</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-1110-fix-pci-controller-loss/"><u>Windows 11/10: Fix PCI Controller Loss</u></a></li>
 </ul></div>
 

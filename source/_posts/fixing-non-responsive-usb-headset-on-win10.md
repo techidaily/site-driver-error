@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Responsive USB Headset on WIN10
-date: 2024-12-07T08:11:13.155Z
-updated: 2024-12-10T00:13:36.030Z
+date: 2024-12-28T02:10:54.431Z
+updated: 2025-01-02T23:30:41.260Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3
 
 **No sound from your USB headset?**  No worries. Here you’ll be relieved to know it’s possible to fix. Read on and find out how…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Do not plug your USB headset while Windows 10 is booting](https://malaysia-healthcare-travel-council.pxf.io/752oeg)**
@@ -25,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3
 4. **[Update your audio driver](https://coinrule.sjv.io/rqzonv)**
 
 **Note:** Before we go, plug your headset into different USB ports and replace your USB headset with another one to check if the issue is due to the headset. If it doesn’t work either, then go with the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Do not plug your USB headset while Windows 10 is booting
 
@@ -42,10 +50,6 @@ Check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-14.png)  
 ```` ```` ````
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Click **Hardware and Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-12.png)  
 ```` ```` ````
@@ -60,7 +64,7 @@ Check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After that, check if your headset works properly now.
@@ -72,24 +76,16 @@ After that, check if your headset works properly now.
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
 
 5. Relaunch your computer and check whether the issue is resolved or not.````
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Set your USB headset as default device
 
@@ -100,7 +96,7 @@ After that, check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ```` ```` ```` Check if your headset works properly now.
@@ -121,6 +117,10 @@ After that, check if your headset works properly now.
  Note: You can also do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Sound-driver.jpg)
 4. Restart your computer and check to see if your headset works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -143,22 +143,16 @@ After that, check if your headset works properly now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-screen-capturing-made-easy-best-apps-for-windows-10/"><u>[New] 2024 Approved Screen Capturing Made Easy Best Apps for Windows 10</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-boosting-your-youtube-views-a-strategy-guide/"><u>[New] Boosting Your YouTube Views A Strategy Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-elevate-your-reel-game-on-insta-with-tiktoks-best-practices/"><u>2024 Approved Elevate Your Reel Game on Insta with TikTok's Best Practices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/a-tale-of-triumph-over-driving-error-e052/"><u>A Tale of Triumph over Driving Error E052</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-reunion-wacoms-joyful-news/"><u>Device Reunion: Wacom's Joyful News!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-radeon-wattmans-crashed-configuration-step-by-step-fix-now-available/"><u>Fixing Radeon Wattman's Crashed Configuration - Step by Step Fix Now Available</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-a-nonfunctional-cpu-in-windows-10-due-to-absence-of-coprocessor-driver/"><u>How to Fix a Nonfunctional CPU in Windows 10 Due to Absence of Coprocessor Driver</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-display-apple-iphone-11-screen-on-pc-easily-drfone-by-drfone-ios/"><u>In 2024, How to Display Apple iPhone 11 Screen on PC Easily? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/lost-airpods-found-proven-strategies-and-preventative-tips-for-keeping-them-safe/"><u>Lost AirPods Found: Proven Strategies & Preventative Tips for Keeping Them Safe</u></a></li>
-<li><a href="https://win-news.techidaily.com/mastering-dynamic-presentations-create-interactive-powerpoints-with-flippower-your-guide-to-animated-content-and-ebook-style-pages/"><u>Mastering Dynamic Presentations: Create Interactive PowerPoints with FlipPower - Your Guide to Animated Content and Ebook-Style Pages</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-itbm-drivers-missing-error-effortless-techniques-revealed/"><u>Overcoming ITBM Drivers Missing Error - Effortless Techniques Revealed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repairing-issues-with-non-recognition-last-usb-failure-and-ignored-by-windows-expert-tips/"><u>Repairing Issues with Non-Recognition: Last USB Failure and Ignored by Windows - Expert Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-left-4-dead-2-sudden-game-crashes/"><u>Resolved: Fixing Left 4 Dead 2 Sudden Game Crashes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-inoperative-right-click-on-windows-11-mousepad/"><u>Resolved: Inoperative Right Click on Windows 11 Mousepad</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-location-unavailable-error-on-your-iphone-a-step-by-step-guide/"><u>Solving the 'Location Unavailable' Error on Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103586885-swiftly-solve-bluetooth-connectivity-problems/"><u>Swiftly Solve Bluetooth Connectivity Problems!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-core-of-russian-numbers-foundation-skills/"><u>The Core of Russian Numbers - Foundation Skills</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-usb-not-detected-issue-in-windows-7-and-8/"><u>Addressing USB Not Detected Issue in Windows 7 & 8</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-free-video-shrinker-apps-a-comprehensive-guide-for-windows-and-mac-users-top-24-picks/"><u>Best Free Video Shrinker Apps: A Comprehensive Guide for Windows and Mac Users (Top 24 Picks)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098253699-bluetooth-wont-turn-off-on-win-10-troubleshooting-steps/"><u>Bluetooth Won't Turn Off on Win 10 - Troubleshooting Steps!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/code-37-solved-hardware-and-dev-driver-connected/"><u>Code 37 Solved: Hardware & Dev Driver Connected</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-7-drone-gimbal-selections/"><u>Elite 7 Drone Gimbal Selections</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apple-could-outshine-microsoft-and-googles-ai-strategies-with-bold-moves-at-wwdc-2023-expert-insights/"><u>How Apple Could Outshine Microsoft & Google's AI Strategies with Bold Moves at WWDC 2023: Expert Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-huawei-nova-y91-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Huawei Nova Y91 Phone without PIN</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/investigating-actives-prowess-in-recording-technology/"><u>Investigating Active's Prowess in Recording Technology</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098655562-overcome-itbm-not-available-driver-glitch-without-a-hitch/"><u>Overcome ITBM 'Not Available' Driver Glitch Without a Hitch!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721097739479-overcoming-the-missing-coprocessor-driver-error-on-your-windows-10-machine-solutions-inside/"><u>Overcoming the Missing Coprocessor Driver Error on Your Windows 10 Machine - Solutions Inside</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-tech-indulge-in-the-sweet-scents-of-advanced-cooling-paste-technology/"><u>Transform Your Tech: Indulge in the Sweet Scents of Advanced Cooling Paste Technology!</u></a></li>
 </ul></div>
 

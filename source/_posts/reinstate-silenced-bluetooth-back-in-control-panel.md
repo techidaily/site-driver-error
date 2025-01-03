@@ -1,7 +1,7 @@
 ---
 title: "Reinstate: Silenced Bluetooth, Back in Control Panel"
-date: 2024-11-07T16:37:16.286Z
-updated: 2024-11-15T03:46:42.945Z
+date: 2025-01-01T12:06:42.060Z
+updated: 2025-01-03T01:02:04.788Z
 tags:
   - win11
   - win10
@@ -19,12 +19,20 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
  Many users are experiencing issues with their Bluetooth devices, and have trouble connecting Bluetooth headphones, keyboards, and mice, etc. What to do when the Bluetooth is missing from Device Manager?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Make sure your Bluetooth is turned on](https://modlily.sjv.io/aw92wr)**
 2. **[Run the Bluetooth troubleshooter](https://exvist.pxf.io/dkpnky)**
 3. **[Reinstall the Bluetooth driver manually](https://25home.pxf.io/vnbxnv)**
 4. **[Restart the Bluetooth service](https://bluetties.sjv.io/lxv4pm)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Make sure your Bluetooth is turned on
 
@@ -38,18 +46,19 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Add Bluetooth devices again. If your devices are listed here, you can remove them and add them back again. If your Bluetooth option is also missing from settings or grayed out, it means there’s some problem with your Bluetooth driver, and you should go to the next fix instead.
 
 ![bluetooth settings](https://images.drivereasy.com/wp-content/uploads/2021/11/image-15-1200x938.png)
 
- Restart your PC and check if this fixes your**Bluetooth missing from Device Manager** problem. If it doesn’t show in the Device Manager, you can try the next fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Restart your PC and check if this fixes your**Bluetooth missing from Device Manager** problem. If it doesn’t show in the Device Manager, you can try the next fix below.
 
 ### 2\. Run the Bluetooth troubleshooter
 
@@ -59,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-16.png)
@@ -74,24 +76,18 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-18-1200x934.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Apply this fix** to install some missing drivers and updates that your system finds. Usually, this requires a restart. Make sure you have saved the opened files prior to that.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-19.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But if there’s no problem detected, you can head on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Reinstall the Bluetooth driver manually
@@ -107,19 +103,6 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
  1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 
 ![update with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/11/image-20-1200x914.png)
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) If you just want to update your Bluetooth driver for free, simply click the**_Update_** button next to it (it’s partly manual).
 
@@ -149,10 +132,7 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-23-1200x856.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) After enabling this service or the restart, right-click on it again, and choose **Properties** .
@@ -187,21 +167,22 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/completely-fixed-system-non-bootable-after-installation/"><u>[COMPLETELY FIXED] System Non-Bootable After Installation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-elevate-with-these-top-10-igtv-experts/"><u>[New] 2024 Approved Elevate with These Top 10 IGTV Experts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-traction-on-youtube-surpass-10000-viewer-count-for-affiliate-rewards/"><u>[New] In 2024, Gain Traction on YouTube - Surpass 10,000 Viewer Count for Affiliate Rewards</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-learn-to-switch-up-your-instagram-vocal-branding/"><u>2024 Approved Learn to Switch Up Your Instagram Vocal Branding</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-streamlining-social-sharing-coordinating-vids-on-tweets-plus-tumbles/"><u>2024 Approved Streamlining Social Sharing Coordinating Vids on Tweets + Tumbles</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-quick-windows-photo-zoom/"><u>2024 Approved Ultimate Quick Windows Photo Zoom</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/addressing-deviceid-33a0-acpi-issues/"><u>Addressing DEVICE_ID 33A0 Acpi Issues</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/change-your-video-format-hassle-free-convert-flv-to-3gp-on-the-web-no-cost-involved/"><u>Change Your Video Format Hassle-Free: Convert FLV to 3GP on the Web - No Cost Involved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correcting-the-error-of-unrecognized-hardware-by-idt-software-package/"><u>Correcting the Error of Unrecognized Hardware by IDT Software Package</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-best-practices-the-8-truly-effective-promotion-techniques/"><u>In 2024, Best Practices The 8 Truly Effective Promotion Techniques</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-undo-livestream-progress-with-twitch-tricks/"><u>In 2024, Undo Livestream Progress with Twitch Tricks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-longer-disconnected-wacoms-triumph/"><u>No Longer Disconnected: Wacom's Triumph</u></a></li>
-<li><a href="https://driver-error.techidaily.com/seagate-disk-vanished-on-windows-10-heres-how-to-fetch-it-back/"><u>Seagate Disk Vanished on Windows 10? Here's How to Fetch It Back</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-intel-coprocessor-drivers-disappearance-on-windows-11-systems/"><u>Step-by-Step Solution for Intel Coprocessor Drivers Disappearance on Windows 11 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/streamline-your-game-with-updated-razer-deathadder-driver/"><u>Streamline Your Game with Updated Razer Deathadder Driver</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-impact-with-creative-video-titles/"><u>[New] Maximizing Impact with Creative Video Titles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-virtual-producer-duel/"><u>[New] Virtual Producer Duel</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-stream-and-save-a-guide-to-xbox-broadcasting/"><u>[Updated] Stream and Save A Guide to Xbox Broadcasting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-kickstart-your-telegram-promotion-journey-tips-for-newbies/"><u>2024 Approved Kickstart Your Telegram Promotion Journey Tips for Newbies</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-honor-70-lite-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Honor 70 Lite 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-chromebooks-and-convey-a-similar-meaning-to-the-original-phrase-while-being-seo-optimized-with-relevant-terms-like-luxury-top-tier-devices-and-high-end18/"><u>Acer, Chromebooks and Convey a Similar Meaning to the Original Phrase While Being SEO Optimized with Relevant Terms Like Luxury, Top-Tier Devices, and High-End Selection.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-solutions-for-restoring-functionality-of-your-wireless-keyboard-on-windows-machines/"><u>Effective Solutions for Restoring Functionality of Your Wireless Keyboard on Windows Machines</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-correcting-crashes-in-radeon-wattman-control-panel-defaults-guide/"><u>Expert Advice: Correcting Crashes in Radeon WattMan Control Panel Defaults [Guide]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-usb-cannot-be-installed-problem-due-to-access-issues/"><u>How to Fix the ‘USB Cannot Be Installed’ Problem Due to Access Issues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rejuvenating-pc-gaming-update-razer-deathadder-driver/"><u>Rejuvenating PC Gaming: Update Razer Deathadder Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-crashed-and-fixed-standard-radeon-wattman-parameters-issues-easily/"><u>Resolving 'Crashed and Fixed: Standard Radeon WattMan Parameters' Issues Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-functionality-to-ethernet-controller-in-new-os-version/"><u>Restoring Functionality to Ethernet Controller in New OS Version</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-connectivity-how-to-make-sure-you-never-experience-a-bluescreen-again-with-fixed-bluetooth-issues-guide-inside/"><u>Smooth Connectivity - How to Make Sure You Never Experience a Bluescreen Again with Fixed Bluetooth Issues [Guide Inside]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-to-restore-your-hp-wireless-keyboard-functionality/"><u>Step-by-Step Solutions to Restore Your HP Wireless Keyboard Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-ios-177-the-safety-advantages-over-the-upcoming-ios-nvite-insights-from-zdnet/"><u>Unveiling IOS 17.7: The Safety Advantages Over the Upcoming iOS Nvite - Insights From ZDNet</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-x-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone X? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

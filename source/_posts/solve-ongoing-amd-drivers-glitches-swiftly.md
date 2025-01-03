@@ -1,7 +1,7 @@
 ---
 title: Solve Ongoing AMD Drivers Glitches Swiftly
-date: 2024-12-19T06:54:36.915Z
-updated: 2024-12-25T06:08:17.524Z
+date: 2024-12-26T17:04:06.281Z
+updated: 2025-01-03T07:19:10.713Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/0354f8e14674fab0ca20c7e6ac5698288d836a493
 
  If your computer keeps running into the**AMD driver crashing** issue, don’t worry. It’s usually easy to fix…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Fixes for AMD Drivers Crash
 
  Just work your way down until the**AMD driver crashing** issue is resolved.
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/0354f8e14674fab0ca20c7e6ac5698288d836a493
 1. [**Update the faulty AMD driver (nearly always fixes the problem)**](#F1)
 2. [**Roll back the faulty AMD driver**](https://zebaoaffiliateprogram.pxf.io/xkwqe1)
 3. **[Repair system files](https://newchic.sjv.io/jzg4zq)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Update the faulty AMD driver (nearly always fixes the problem)
 
@@ -46,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/0354f8e14674fab0ca20c7e6ac5698288d836a493
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Roll back the faulty AMD driver
 
  If you never have this**AMD driver crashing** issue until recently when you updated the most recent driver, chances are it’s this new driver that’s causing the problem. So we should try rolling it back to the previous version.
@@ -60,23 +64,15 @@ Here’s how:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 2. Locate on **the faulty AMD driver** and double-click on it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click the **Driver** tab and then click **Roll Back Driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-1.png)
 4. Click **Yes** to confirm. Then the driver will be restored to a previous version.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. **Restart** you computer and check if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Repair system files
 
@@ -99,6 +95,10 @@ Here’s how to use Fortect to repair system files on your PC:
 4. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 5. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Check your computer to see if the driver crash issue is fixed.
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
@@ -112,7 +112,7 @@ Here’s how to use Fortect to repair system files on your PC:
 2. Click**Yes** when prompted to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
@@ -143,17 +143,24 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-enhance-photos-on-the-go-top-10-no-cost-android-and-iphone-editors/"><u>[New] 2024 Approved Enhance Photos on the Go – Top 10 No-Cost Android & iPhone Editors</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-enhancing-facebooks-reflective-feature-editing-techniques-for-2024/"><u>[Updated] Enhancing Facebook's Reflective Feature Editing Techniques for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-economic-approaches-to-online-educational-broadcasting/"><u>[Updated] In 2024, Economic Approaches to Online Educational Broadcasting</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/beyond-netflix-and-co-building-my-custom-streaming-experience-a-step-by-step-guide/"><u>Beyond Netflix & Co.: Building My Custom Streaming Experience - A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphics-interrupt-denied-win11-error/"><u>Graphics Interrupt Denied: Win11 Error</u></a></li>
-<li><a href="https://driver-error.techidaily.com/historical-tech-revisited-navigating-and-resolving-classic-usb-composite-device-challenges/"><u>Historical Tech Revisited: Navigating and Resolving Classic USB Composite Device Challenges</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-update-razer-deathadder-driver-on-windows-11/"><u>How to Update Razer Deathadder Driver on Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oneplus-ace-2-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor OnePlus Ace 2 Activity | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-itbm-driver-not-found-effortless-solutions-at-hand/"><u>Troubleshooting ITBM Driver Not Found: Effortless Solutions at Hand</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722970537692-update-your-intel-nuc-drives-with-ease-and-enhance-your-computers-speed/"><u>Update Your Intel NUC Drives with Ease and Enhance Your Computer's Speed</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/why-does-your-pc-crash-when-launching-specific-applications-solutions-by-yl-computing-and-yl-software/"><u>Why Does Your PC Crash When Launching Specific Applications? - Solutions by YL Computing & YL Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-emojis-explained-more-than-meets-the-eye/"><u>[New] In 2024, Snapchat Emojis Explained More Than Meets the Eye</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-display-driver-failed-to-start-in-windows-10/"><u>[Solved] Display Driver Failed to Start in Windows 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-11-free-youtube-video-rippers-to-download-youtube-videos/"><u>[Updated] 2024 Approved 11 FREE YouTube Video Rippers to Download YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-discovering-local-insta-stars-finding-your-niches-top-influencers/"><u>[Updated] 2024 Approved Discovering Local Insta Stars Finding Your Niche's Top Influencers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-endorsed-webcams-for-top-notch-zoom-engagement/"><u>2024 Approved Expert-Endorsed Webcams for Top-Notch Zoom Engagement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721429042472-cleanse-tweets-of-cursive-symbols-linuss-disclosures-trojan-explanation-and-chatbot-issues/"><u>Cleanse Tweets of Cursive Symbols, Linus’s Disclosures, Trojan Explanation, & ChatBot Issues.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/compatibility-fixes-for-hardware-not-recognized-by-your-integrated-device-technology-idt-package/"><u>Compatibility Fixes for Hardware Not Recognized by Your Integrated Device Technology (IDT) Package</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-issue-no-intel-adapter-detected/"><u>Driver Issue: No Intel Adapter Detected</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empowering-online-engagement-through-advanced-cookiebot-features/"><u>Empowering Online Engagement Through Advanced Cookiebot Features</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-detected-bcm20702a0-driver-missing/"><u>Error Detected: BCM20702A0 Driver Missing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-successfully-solve-the-iphone-mtp-connection-problem/"><u>How To Successfully Solve The iPhone MTP Connection Problem</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-on-the-go-video-making-essentials/"><u>In 2024, On-The-Go Video Making Essentials</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/innovating-with-technology-advanced-gopro-4k-editing-techniques/"><u>Innovating with Technology Advanced GoPro 4K Editing Techniques</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-unrecognized-hardware-error-compatibility-fixes-for-your-device/"><u>Resolve 'Unrecognized Hardware' Error - Compatibility Fixes for Your Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/six-ways-to-play-on-ps5-beyond-traditional-methods/"><u>Six Ways to Play on PS5 Beyond Traditional Methods</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-itbm-drivers-missing-error-swiftly-effective-strategies-inside/"><u>Solve ITBM Drivers Missing Error Swiftly – Effective Strategies Inside</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-installing-usb-drives-when-faced-with-access-denied/"><u>Step-by-Step Guide: Installing USB Drives When Faced With 'Access Denied'</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-essential-guide-to-low-cost-cloud-storage-plans/"><u>The Essential Guide to Low-Cost Cloud Storage Plans</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-iphone-usb-connection-issues-solve-mtp-driver-problems-today/"><u>Troubleshooting iPhone USB Connection Issues: Solve MTP Driver Problems Today</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tackling Erratic Behavior: Windows 10 and Elan Pad"
-date: 2024-11-09T18:01:59.938Z
-updated: 2024-11-14T19:21:51.556Z
+date: 2025-01-02T02:02:14.212Z
+updated: 2025-01-03T12:06:29.232Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 [**2: Reinstall your drivers**](https://getlyla.pxf.io/ek9gkg)
 [**3: Stop automatic updates from Windows Update**](https://tinyland.pxf.io/org4ra)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Make sure your touchpad is enabled
 
  Some changes to your PC might automatically change your touchpad status to disable without informing you. You can set it back to enable status:
@@ -31,9 +35,17 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-settings-devices.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click **Mouse & touchpad,**  then click **Additional mouse options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/additional-mouse-options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the furthest right option (the option could be **Device Settings** or **ELAN**), and make sure your touchpad is enabled.
 
@@ -42,16 +54,7 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2: Reinstall your drivers
@@ -75,17 +78,7 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3: Stop automatic updates from Windows Update**
@@ -95,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
  1) Type**device and printers** in the search bar, then click **Device and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Right-clickyour computer icon and click **Device installation settings** .
 
@@ -128,20 +114,18 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-a-step-by-step-process-of-board-use-in-zoom-sessions-desktopiosandroid-for-2024/"><u>[New] A Step-by-Step Process of Board Use in Zoom Sessions (Desktop/iOS/Android) for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-quintessential-list-best-tales-from-youtube-in-23/"><u>[New] The Quintessential List Best Tales From YouTube in '23</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-capturing-android-sounds-without-root-access-guide-for-2024/"><u>[Updated] Capturing Android Sounds Without Root Access [Guide] for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnose-and-repair-slimbooks-wi-fi-issue/"><u>Diagnose and Repair SlimBook's Wi-Fi Issue</u></a></li>
-<li><a href="https://driver-error.techidaily.com/finding-opengl-support-identity-within-intel-chipsets/"><u>Finding OpenGL Support Identity Within Intel Chipsets</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-ensure-smooth-performance-with-updated-hp-envy-series-drivers/"><u>How to Ensure Smooth Performance with Updated HP ENVY Series Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-and-set-up-your-linksys-wusb63e-wi-fi-usb-adapter-drivers-a-comprehensive-guide/"><u>How to Get & Set Up Your Linksys WUSB63e Wi-Fi USB Adapter Drivers: A Comprehensive Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-your-step-by-step-adventure-in-metaverse-avatar-crafting/"><u>In 2024, Your Step-by-Step Adventure in Metaverse Avatar Crafting</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keyboard-error-in-win-10-logic/"><u>Keyboard Error in Win 10 Logic</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-get-ready-to-groove-the-best-lip-sync-video-maker-apps-for-2024/"><u>New Get Ready to Groove The Best Lip Sync Video Maker Apps for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/removing-autostart-of-win11s-bluetooth/"><u>Removing Autostart of Win11's Bluetooth</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-tools-for-crafting-unforgettable-highlight-reels/"><u>The Best Tools for Crafting Unforgettable Highlight Reels</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unsighted-cddvd-in-win11-solution-found/"><u>Unsighted CD/DVD in Win11, Solution Found</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/what-should-i-upgrade-on-my-pc/"><u>What Should I Upgrade on My PC?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-product-reviews-for-monetary-rewards-on-youtube/"><u>[New] Mastering Product Reviews for Monetary Rewards on YouTube</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/beyerdynamic-mmx-30e-pro-headphones-tested-exceptional-sound-with-basic-functionality/"><u>Beyerdynamic MMX 30E Pro Headphones Tested - Exceptional Sound with Basic Functionality</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bring-back-sharpness-the-ultimate-choice-for-restoring-images/"><u>In 2024, Bring Back Sharpness The Ultimate Choice for Restoring Images</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-zte-nubia-z60-ultra-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your ZTE Nubia Z60 Ultra Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-step-by-step-for-adding-srt-to-mp4/"><u>In 2024, The Ultimate Step-by-Step for Adding SRT to MP4</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-trailblazers-creating-engaging-marvellous-universe/"><u>In 2024, Trailblazers Creating Engaging Marvellous Universe</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-windows-11s-missing-coprocessor-driver-problem-successfully/"><u>Resolving Windows 11'S Missing Coprocessor Driver Problem Successfully</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-hat-driver-update-for-windows-11/"><u>Seamless HAT Driver Update for Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-updating-and-downloading-drivers-on-your-hp-envy-20-pc/"><u>Step-by-Step Guide: Updating and Downloading Drivers on Your HP Envy 20 PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-update-solving-non-functional-broadcom-wireless-n-adapter/"><u>Win Update: Solving Non-Functional Broadcom Wireless N Adapter</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-stutter-free-experience-achieved/"><u>Win11 Stutter-Free Experience Achieved</u></a></li>
 </ul></div>
 

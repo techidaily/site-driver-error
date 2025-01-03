@@ -1,7 +1,7 @@
 ---
 title: Enabling Functionality After Failed eNEX Load on Windows 11
-date: 2024-12-23T22:58:16.343Z
-updated: 2024-12-24T22:41:09.371Z
+date: 2024-12-26T20:54:27.749Z
+updated: 2025-01-03T01:17:45.885Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
  If you’re seeing**_ene.sys driver cannot load on this device error_** on your Windows 11, especially if this error message comes out after the last Windows update, don’t worry, you’re not alone. As luck would have it, it’s not at all a hard issue to resolve. Here we have gathered some proven fixes that will help to fix the ene.sys driver cannot load on this device error for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixed for ene.sys driver cannot load error
 
  You don’t have to try all the following fixes: simply work your way down the list until you find the one that does the trick to fix the ene.sys driver cannot load on this device error for you.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 5. **[Update the driver for ENE device](https://ship7com.pxf.io/0zwaz3)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Turn off the memory Integrity setting
 
@@ -50,11 +50,19 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-37.png)
 3. Restart your computer for the change to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then see if the_**ene.sys driver cannot load error**_ still remains. If the error message is still seen, please repeat the above to toggle on the option for Memory Integrity, then move on to the next step.
 
  Turning off Memory Integrity may render the RGB lighting function on your keyboard and/or mouse not working anymore. It’s entirely up to you whether this is acceptable or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Rename the ene.sys file
 
@@ -67,20 +75,16 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-38.png)
 5. When asked for permission, click**Continue** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-39.png)
-6. When this is done, restart your computer into normal mode as instructed in the post shared in step 1, then see if the ene.sys driver cannot load error is fixed.
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-39.png)
+6. When this is done, restart your computer into normal mode as instructed in the post shared in step 1, then see if the ene.sys driver cannot load error is fixed.
+
  If the_**ene.sys driver cannot load error**_ remains, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Uninstall the last Windows update patch
 
@@ -95,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-40.png)
 4. Click the**Uninstall** button to remove the latest Windows update patch before the**_ene.sys driver cannot load error_** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-41.png)
 5. Restart your computer afterward.
@@ -119,15 +119,11 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 3. Find**Program Compatibility Troubleshooter** , and click the**Run** button next to it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-44.png)
 4. See if you can find any**ene.sys** \-related app from the list. If not, select**Not listed** and click**Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-45.png)
 5. **Browse** to the location where your ene.sys file is, and click**Next** .  
@@ -135,11 +131,15 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-46.png)
 6. Tick the boxes that fits your description, and click**Next** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-47.png)
 7. Then follow the on-screen instructions to run the tourbleshooter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then see if the ene.sys driver cannot load on this device error is fixed. If not, please move further.
@@ -157,14 +157,14 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-scan.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -189,19 +189,22 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-complete-guide-to-proficient-periscope-operation/"><u>[New] Complete Guide to Proficient Periscope Operation</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-videographers-choice-top-audio-for-unboxing-experiences/"><u>[New] Videographers' Choice Top Audio for Unboxing Experiences</u></a></li>
-<li><a href="https://driver-error.techidaily.com/finding-the-correct-label-for-opengl-enabled-icd/"><u>Finding the Correct Label for OpenGL-Enabled ICD</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Huawei Nova Y91? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/non-standard-video-editing-applications-on-windows/"><u>Non-Standard Video Editing Applications on WIndows</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/phantom-footprints-videography-review/"><u>Phantom Footprints Videography Review</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resetting-functionality-enable-right-click-on-windows-11-touchpad/"><u>Resetting Functionality: Enable Right-Click on Windows 11 Touchpad</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/simplified-avatar-design-in-the-metaverse-explained/"><u>Simplified Avatar Design in the Metaverse Explained</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/step-into-hd-color-on-windows-watch-edit-relish-videos/"><u>Step Into HD Color on Windows Watch, Edit, Relish Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tech-limits-on-automobile-upload/"><u>Tech Limits on Automobile Upload</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-98-unmissable-cyber-monday-offers-of-2022-spotted-on-zdnet/"><u>Top 98 Unmissable Cyber Monday Offers of 2022 - Spotted on ZDNet!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformar-video-de-h265-en-h-264-gratis-con-garantia-de-alta-fidelidad-visual/"><u>Transformar Video De H.265 En H. 264 Gratis Con Garantía De Alta Fidelidad Visual</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unraveling-the-mystery-of-classic-usb-composite-devices-resolved/"><u>Unraveling the Mystery of Classic USB Composite Devices - Resolved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/visual-exploration-of-ms-bdas-graphics-impact/"><u>Visual Exploration of MS BDA's Graphics Impact</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-a-world-of-sound-the-ultimate-guide-to-androids-music-videos/"><u>[New] Explore a World of Sound The Ultimate Guide to Android's Music Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/0x80070057-what-does-it-mean-and-how-to-fix-it/"><u>0X80070057: What Does It Mean & How to Fix It?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-awesome-iphone-selfie-solutions-spot-8-now/"><u>2024 Approved Awesome iPhone Selfie Solutions - Spot #8 Now</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-y100t-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo Y100t Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/earths-richest-digital-content-wizard-for-2024/"><u>Earth's Richest Digital Content Wizard for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/end-of-the-line-no-more-wacom-issues/"><u>End of The Line: No More Wacom Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhancing-win1110-performance-with-sm-bus-driver/"><u>Enhancing WIN11/10 Performance with SM Bus Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/failed-to-boot-driver-event-id-219-noticed/"><u>Failed to Boot Driver - Event ID 219 Noticed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-valheims-optimal-seed-selection-strategies/"><u>In 2024, Valheim's Optimal Seed Selection Strategies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-sony-xperia-5-v-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Sony Xperia 5 V</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-the-art-of-troubleshooting-asus-acpi/"><u>Mastering the Art of Troubleshooting Asus' ACPI</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/preservation-des-historiques-de-fichiers-avec-two-options-sur-microsoft-onedrive/"><u>Préservation Des Historiques De Fichiers Avec Two Options Sur Microsoft OneDrive</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-settings-mastery-for-efficient-pc-use-on-win-11/"><u>Quick Settings Mastery for Efficient PC Use on Win 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-itbm-driver-unavailable-issue-quickly-and-effectively/"><u>Resolve 'ITBM Driver Unavailable' Issue Quickly & Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-inbuilt-webcam-a-comprehensive-guide-for-windows-users-facing-hardware-glitches/"><u>Revive Your Inbuilt Webcam: A Comprehensive Guide for Windows Users Facing Hardware Glitches</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steering-through-technical-hiccups-elan-and-win10/"><u>Steering Through Technical Hiccups: Elan & Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-usb-installation-failures-due-to-permission-issues/"><u>Troubleshooting USB Installation Failures Due to Permission Issues</u></a></li>
 </ul></div>
 

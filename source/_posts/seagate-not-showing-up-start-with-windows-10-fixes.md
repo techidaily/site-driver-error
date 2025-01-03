@@ -1,7 +1,7 @@
 ---
 title: Seagate Not Showing Up? Start with Windows 10 Fixes
-date: 2024-11-14T01:00:13.544Z
-updated: 2024-11-14T19:59:48.019Z
+date: 2024-12-31T10:56:12.629Z
+updated: 2025-01-03T11:44:50.286Z
 tags:
   - win11
   - win10
@@ -71,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
   
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) If your Seagate external hard drive still doesn’t work after you reinstall the software and update the drivers,you should reinstall**Paragon driver**  in compatibility mode. Here is how:
@@ -92,15 +89,16 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-this-program-in-compatibility-mode-for.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click**Apply** and**OK** to save and then run the setup again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apply-and-ok.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 3: Partition the Hard Drive**
 
@@ -112,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/disk-management.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) You should be able to see **Disk 1** is available. Right-click it and click **GPT (GUID Partition Table)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/gpt-guid-partition-table.jpg)
@@ -126,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
  4) Right-click it again and click **New simple volume** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/new-simple-volume.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There you go, your Seagate external hard drive should be able to work without any problems.
 
@@ -140,19 +135,6 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57f9f9701ebe7-600x294.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click it and click **Change Drive Letter and Paths…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-drive-letter-and-paths.png)
@@ -161,15 +143,16 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/add-a-letter.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Assign a letter to it and click**OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/ok.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 5: Disable Fast Startup**
@@ -179,22 +162,12 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/control-panel.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Hardware and Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/hardware-and-sound-600x450.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click **Power Options** .
@@ -202,10 +175,7 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Click   **Change what the power button does.**
@@ -219,6 +189,10 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
  6) Scroll down to the _**Shutdown** settings_ section and uncheck**Turn off fast startup (recommended)** . Click **Save changes**  . You might need to restart your computer after this change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uncheck-turn-off-fast-startup-recommended-600x450.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -235,15 +209,18 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-spectacular-top-ten-nintendo-switch-fighter-games-max-156/"><u>[New] In 2024, Spectacular Top Ten Nintendo Switch Fighter Games (Max 156)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-capturing-every-angle-samsungs-pro-versus-lgs-for-2024/"><u>[Updated] Capturing Every Angle Samsung's Pro Versus LG's for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-social-media-momentum-linking-igtv-and-fb/"><u>[Updated] Social Media Momentum Linking IGTV and FB</u></a></li>
-<li><a href="https://driver-error.techidaily.com/closed-unsupported-video-driver-case-for-premier-pro/"><u>Closed: Unsupported Video Driver Case for Premier Pro</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-realme-gt-3-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Realme GT 3? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/non-functional-keyboard-in-win-os/"><u>Non-Functional Keyboard in Win OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reconnect-ax201-to-intels-wi-fi-6-effort-successful/"><u>Reconnect AX201 to Intel's Wi-Fi 6 Effort Successful</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-missing-rpcrt4dll-a-step-by-step-guide/"><u>Solving the Mystery of Missing rpcrt4.dll: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-lasting-charm-of-samsung-galaxy-tab-s3-examined-in-our-latest-review/"><u>The Lasting Charm of Samsung Galaxy Tab S3 Examined in Our Latest Review!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-unresponsive-wireless-keyboards-in-windows-solution-inside/"><u>Troubleshoot Unresponsive Wireless Keyboards in Windows (Solution Inside)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-how-to-add-and-change-thumbnails-of-twitter-videos/"><u>[New] In 2024, How to Add and Change Thumbnails of Twitter Videos?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-simplified-platform-for-content-creators/"><u>[Updated] 2024 Approved Vimeo Simplified Platform for Content Creators</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-subtitle-tools-navigate-through-the-best-10-web-edits/"><u>2024 Approved Advanced Subtitle Tools - Navigate Through the Best 10 Web Edits</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-innovative-dvd-production-modern-techniques-for-mac-users/"><u>2024 Approved Innovative DVD Production Modern Techniques for Mac Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-honor-magic-vs-2-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Honor Magic Vs 2 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-fixed-gpu-driver-successful-installer/"><u>Error Fixed: GPU Driver Successful Installer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-erratic-dell-touch-screen-driver/"><u>Resolve Erratic Dell Touch Screen Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-default-radeon-wattman-issues-a-comprehensive-fix-guide/"><u>Resolving the Default Radeon Wattman Issues: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seagate-hard-drive-not-detected-w10-troubleshooting/"><u>Seagate Hard Drive Not Detected - W10 Troubleshooting</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-touchscreen-experience-in-new-windows-11-with-elan/"><u>Smooth Touchscreen Experience in New Windows 11 with Elan</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-adding-video-filter-magic-to-zoom-meetings-for-2024/"><u>The Complete Guide to Adding Video Filter Magic to Zoom Meetings for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-ultimate-collection-8-amazing-3d-websites-with-gold/"><u>The Ultimate Collection 8 Amazing 3D Websites with Gold</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-invalid-driver-installations-a-step-by-step-guide/"><u>Troubleshooting Invalid Driver Installations - A Step-by-Step Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Restored] Keyboard Functionality in Windows 11"
-date: 2024-12-19T01:10:41.857Z
-updated: 2024-12-25T00:27:24.556Z
+date: 2024-12-26T18:33:16.106Z
+updated: 2025-01-02T21:56:10.615Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
  Fortunately, it’s easy to test: simply unplug the keyboard from the USB port and plug in another USB device – like a mouse or an external hard drive. If that device doesn’t work either, the USB port itself is the problem, and you should skip straight to [Method 4](https://pish-posh-baby.sjv.io/g1jg15) . If the device you just plugged in does work, then continue to [Method 2](https://zonlipartnershipprogram.pxf.io/b0rbxy) .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Adjust your keyboard settings
 
@@ -53,13 +45,13 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Keyboard** .
 
@@ -69,7 +61,15 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Reinstall your keyboard driver
 
@@ -84,12 +84,16 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
@@ -116,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
  Or click**Update All** to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -164,24 +164,20 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unbeatable-online-video-recorders-ranked-10/"><u>[New] In 2024, Unbeatable Online Video Recorders Ranked #10</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-how-to-use-periscope-the-complete-guide/"><u>[Updated] How to Use Periscope The Complete Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-htc-u23-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-tone-your-vlogs-access-free-sound-tracks/"><u>2024 Approved Tone Your Vlogs Access Free Sound Tracks!</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/blissful-onboarding-guide-for-new-users/"><u>Blissful Onboarding Guide for New Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-installation-hurdle-cleared-successful-run/"><u>Driver Installation Hurdle Cleared – Successful Run</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-unveils-ray-ban-stories-how-much-to-spend/"><u>Facebook Unveils Ray-Ban Stories - How Much to Spend?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/la-transition-en-douceur-guide-complet-de-migration-du-ss-a-nouveau-materiel/"><u>La Transition en Douceur: Guide Complet De Migration Du S/S À Nouveau Matériel</u></a></li>
-<li><a href="https://driver-error.techidaily.com/remedying-the-failure-of-enex-driver-integration-in-win11/"><u>Remedying the Failure of eNEX Driver Integration in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-hardware-not-compatible-messages-in-idt-software-packages/"><u>Resolving 'Hardware Not Compatible' Messages in IDT Software Packages</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-incompatibility-how-to-install-needed-drivers-for-your-hardware-in-windows-xpvista7/"><u>Resolving Incompatibility: How to Install Needed Drivers for Your Hardware in Windows XP/Vista/7</u></a></li>
-<li><a href="https://fox-that.techidaily.com/seamlessly-combine-identical-photographs-on-ios-and-macos-a-step-by-step-guide/"><u>Seamlessly Combine Identical Photographs on iOS and macOS – A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-for-when-your-computer-ignores-the-latest-plugged-in-usb/"><u>Step-by-Step Solutions for When Your Computer Ignores the Latest Plugged-In USB</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-setup-error-intelladapter-not-recognized/"><u>System Setup Error: IntellAdapter Not Recognized</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/troubleshooting-solo-earbuds/"><u>Troubleshooting Solo Earbuds</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlock-the-magic-of-bluetech-on-new-pc-with-this-quick-guide-fixed-windows-11-bluescreen-issue-done/"><u>Unlock the Magic of BlueTech on New PC with This Quick Guide - Fixed Windows 11 Bluescreen Issue – Done!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-cannot-locate-a-suitable-printer-driver-solved/"><u>Windows Cannot Locate a Suitable Printer Driver [SOLVED]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/winning-against-windows-7s-bsod-how-to-deal-with-error-code-0x0000007e-successfully/"><u>Winning Against Windows 7'S BSOD: How to Deal with Error Code 0X0000007E Successfully</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-radio-dramas-peak-of-creative-scripting/"><u>[New] Radio Dramas Peak of Creative Scripting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tonal-treasures-the-ultimate-list-of-classical-download-sites/"><u>[Updated] Tonal Treasures The Ultimate List of Classical Download Sites</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-walkthrough-mounting-your-wd-ses-external-hard-drive-on-current-windows-platforms-via-usb-drivers/"><u>Comprehensive Walkthrough: Mounting Your WD SES External Hard Drive on Current Windows Platforms via USB Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-deployment-mastery-error-no-more/"><u>Driver Deployment Mastery – Error No More</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exposing-the-truth-about-bingchatgpt-token-scams-tips-for-safeguarding-your-investments/"><u>Exposing the Truth About BingChatGPT Token Scams: Tips for Safeguarding Your Investments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-non-detectable-external-drives-and-usb-gadgets-on-windows-systems/"><u>Fixing Non-Detectable External Drives and USB Gadgets on Windows Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-access-refusal-win11s-decision/"><u>Hardware Access Refusal: Win11's Decision</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-x-flip-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo X Flip</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a1x-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo A1x 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-invalid-inf-configuration/"><u>Resolving Invalid INF Configuration</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-to-restore-failed-enex-driver-loading-in-windows-11/"><u>Steps to Restore Failed eNEX Driver Loading in Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-smart-lighting-solutions/"><u>Top Rated Smart Lighting Solutions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-elevate-your-events-best-video-invitation-apps-for-mobile-for-2024/"><u>Updated Elevate Your Events Best Video Invitation Apps for Mobile for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-top-video-invite-creators-for-mobile-devices-for-2024/"><u>Updated Top Video Invite Creators for Mobile Devices for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win10-system-locks-out-graphics-hardware-support/"><u>Win10 System Locks Out Graphics Hardware Support</u></a></li>
 </ul></div>
 

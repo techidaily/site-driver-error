@@ -1,7 +1,7 @@
 ---
 title: Overcoming Broadcom 802.11N Adapter Issues on Windows
-date: 2024-12-18T00:52:55.341Z
-updated: 2024-12-25T01:45:19.941Z
+date: 2024-12-26T19:14:42.063Z
+updated: 2025-01-02T17:11:54.909Z
 tags:
   - win11
   - win10
@@ -37,16 +37,12 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c37a43891ed.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Expand **Network adapters**  and double-click **Broadcom 802.11n network adapter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/broadcom-802-11n-network-adapter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Go to the **Driver** tab and click **Update Driver…** .
@@ -61,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/let-me-pick-from-a-list-of-device-drivers-on-my-computer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Click **Have Disk…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/have-disk.jpg)
@@ -74,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/cthe-name-of-your-laptop-manufacturedrivers.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You should be able to see the name of the file ends with**.inf** .
@@ -83,19 +75,11 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/inf-file.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  8) Then you will be lead back to the **Install From Disk** window, press **OK** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/install-from-disk.png)
 
  Wait for the correct driver to be installed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2: Update Device Drivers
 
@@ -107,9 +91,17 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/DE-scan-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged network card device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3: Update Software and Operating System
 
@@ -124,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/ype-regedit-in-the-search-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Follow the path   **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\4D36E978-E325-11CE-BFC1-08002BE10318** and locate the the folder.
@@ -135,7 +127,15 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/delete-upperfilter-and-lowerfilter.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) If prompted to confirm the delete, click **Yes** . 5) Exit Registry Editor and restart the computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Hardware Compatibility Issues
 
@@ -156,18 +156,20 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-guide-to-start-recording-with-vlc-software-for-2024/"><u>[Updated] Guide to Start Recording with VLC Software for 2024</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-reno-8t-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-fixing-missing-or-not-found-coredll-errors-effortlessly/"><u>Comprehensive Guide: Fixing Missing or Not Found Core.Dll Errors Effortlessly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-logged-ideport0-control-defect/"><u>Error Logged: Ideport0 Control Defect</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-review-testing-and-evaluating-the-linksys-wrt1900acs-for-diy-wi-fi-mastery/"><u>Expert Review: Testing and Evaluating the Linksys WRT1900ACS for DIY Wi-Fi Mastery</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-error-in-device-manager-48/"><u>Fixed Error in Device Manager (#48)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a78-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Oppo A78 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-usb-camera-anomalies-in-asus-w10-edition/"><u>Overcoming USB Camera Anomalies in ASUS, W10 Edition</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-windows-10-skype-mic-problems-a-comprehensive-guide/"><u>Solve Your Windows 10 Skype Mic Problems: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/spectacular-screenwriting-revealed-for-2024/"><u>Spectacular Screenwriting Revealed for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-vignette-apps-for-mobile-devices-free-and-premium-options/"><u>Updated 2024 Approved Top Vignette Apps for Mobile Devices Free and Premium Options</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-pc-no-response-when-trying-to-mute-or-disable-bluetooth/"><u>Windows PC: No Response when Trying to Mute or Disable Bluetooth.</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-supreme-five-optimal-dvd-software-for-sierra-os/"><u>[New] 2024 Approved Supreme Five Optimal Dvd Software for Sierra OS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unveiling-obs-screen-recorder-functionality-deeply/"><u>[Updated] Unveiling OBS Screen Recorder Functionality Deeply</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-excitement-of-high-speed-photography-with-iphone/"><u>2024 Approved Explore the Excitement of High-Speed Photography with iPhone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-finalcut-pro-101-crafting-professional-youtube-edits/"><u>2024 Approved FinalCut Pro 101 Crafting Professional YouTube Edits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-jokefactory-enjoy-and-create-online/"><u>2024 Approved JokeFactory Enjoy & Create Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-podcast-titling-with-leading-ai-driven-apps/"><u>2024 Approved Pioneering Podcast Titling with Leading AI-Driven Apps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dell-latitude-e4300-unsupported-in-debian-jessie-solved/"><u>Dell Latitude E4300 Unsupported in Debian Jessie [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-correcting-asus-windows-10-acpi-fails/"><u>Diagnosing & Correcting Asus Windows 10 Acpi Fails</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-windows-failure-to-recognize-your-most-recent-usb-device/"><u>Diagnosing and Repairing Windows' Failure to Recognize Your Most Recent USB Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-no-official-support-for-amdintel-drivers-in-premiere-pro-software/"><u>Fixed: No Official Support for AMD/Intel Drivers in Premiere Pro Software</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-realme-12-proplus-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Realme 12 Pro+ 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/multi-generation-driver-set-for-pci-cards/"><u>Multi-Generation Driver Set for PCI Cards</u></a></li>
+<li><a href="https://driver-error.techidaily.com/securing-seamless-connection-lenovo-on-windows-10/"><u>Securing Seamless Connection: Lenovo on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-touchpad-driver-not-working-on-windows-10/"><u>Solved Touchpad Driver Not Working on Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-solution-for-overcoming-steam-write-disc-issues/"><u>The Ultimate Solution for Overcoming Steam Write Disc Issues</u></a></li>
 </ul></div>
 

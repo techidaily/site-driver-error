@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Holds Off Graphics Card Use
-date: 2024-11-13T17:46:11.253Z
-updated: 2024-11-14T16:57:11.559Z
+date: 2024-12-30T04:04:19.236Z
+updated: 2025-01-02T19:55:27.207Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 1. [**Run System File Checker and DISM commands**](https://bluetties.sjv.io/lxv4pm)
 2. [**Reinstall your display driver**](https://coinrule.sjv.io/rqzonv)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run System File Checker and DISM commands
 
  This problem may occur if you have corrupted or damaged system files on your Windows computer.
@@ -39,10 +43,7 @@ Follow these steps to recover your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7aea748d7a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click**YES** when prompted by the User Account Control.
@@ -52,10 +53,7 @@ Follow these steps to recover your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7af1a7f21e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type the following commands and press **Enter**  after each.
@@ -66,7 +64,15 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Reboot Windows 10 and run your game software to see if it works. If it doesn’t work, you can try our other fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
 
@@ -84,29 +90,9 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509eed56b24.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. You can update the drivers one by one using the **Update**  button. But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can update all your drivers with one click — **Update All** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509f1432541.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Reboot your Windows 10 PC and run your game software to see if it works.
 
@@ -130,17 +116,22 @@ Follow these steps to recover your system files:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-effortless-gif-to-video-conversion-best-5-top-online-services/"><u>[New] 2024 Approved Effortless GIF-to-Video Conversion Best 5 Top Online Services</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-insights-adjusting-tempo-for-optimal-snapchat-viewing/"><u>2024 Approved Expert Insights Adjusting Tempo for Optimal Snapchat Viewing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/banish-your-frustrations-ultimate-solutions-for-mordhaus-persistent-crash-problem/"><u>Banish Your Frustrations - Ultimate Solutions for Mordhau's Persistent Crash Problem</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-address-hardware-not-recognized-compatibility-fixes-for-your-equipment/"><u>How to Address 'Hardware Not Recognized' - Compatibility Fixes for Your Equipment</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/innovative-insights-master-your-strategy-with-iadvinst-project/"><u>Innovative Insights: Master Your Strategy with iAdvinst Project</u></a></li>
-<li><a href="https://driver-error.techidaily.com/navigating-the-evolution-of-usb-technology-the-era-of-usb-composite-devices-explained/"><u>Navigating the Evolution of USB Technology: The Era of USB Composite Devices Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-hosted-network-could-not-start-errors-on-windows-11-devices/"><u>Overcoming 'Hosted Network Could Not Start' Errors on Windows 11 Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-issues-with-unrecognized-or-invalid-driver-installations-on-pcs/"><u>Resolving Issues With Unrecognized or Invalid Driver Installations on PCs</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solve-video-glitches-at-home-simple-fix-tips/"><u>Solve Video Glitches at Home – Simple Fix Tips</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-y56-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo Y56 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/understanding-task-manager-full-disk-warning/"><u>Understanding Task Manager Full Disk Warning</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-how-to-create-a-seamless-rss-feed-for-your-podcast/"><u>[Updated] How to Create a Seamless RSS Feed for Your Podcast</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-zoom-the-ultimate-guide-to-audio-recording-for-podcasts-for-2024/"><u>[Updated] Mastering Zoom The Ultimate Guide to Audio Recording for Podcasts for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-free-ticking-counters/"><u>[Updated] Premium Free Ticking Counters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-post-editing-eliminating-unwanted-picture-borders/"><u>2024 Approved Perfect Post-Editing Eliminating Unwanted Picture Borders</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-poco-x6-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Poco X6 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-struggles-with-resource-allocation/"><u>Device Struggles with Resource Allocation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-load-error-device-event-identifier-219/"><u>Driver Load Error - Device Event Identifier 219</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-broadcom-80211n-wi-fi-on-windows-solved/"><u>Fixing Broadcom 802.11N Wi-Fi on Windows [Solved]</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-takes-a-leap-forward-with-the-pdw4/"><u>Gaming Takes a Leap Forward with the PDW4</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gfx-analysis-the-role-of-ms-bda/"><u>GFX Analysis: The Role of MS BDA</u></a></li>
+<li><a href="https://win-blog.techidaily.com/halo-infinite-black-screen-error-effective-solutions-and-steps-for-players/"><u>Halo Infinite Black Screen Error - Effective Solutions and Steps for Players</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-delete-all-photos-from-iphone-15-pro-max-beyond-scope-of-recovery-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Delete All Photos from iPhone 15 Pro Max Beyond Scope of Recovery? | Stellar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-y55s-5g-2023-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo Y55s 5G (2023) via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/purging-invalid-sections-from-inf-services/"><u>Purging Invalid Sections From INF Services</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successful-installation-guide-how-to-add-missing-drivers-for-your-device-on-windows-11-8-and-7/"><u>Successful Installation Guide: How to Add Missing Drivers for Your Device on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-reset-completed/"><u>System Reset Completed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/updating-razer-deathadder-bios-in-win10-a-step-by-step-guide/"><u>Updating Razer Deathadder BIOS in Win10: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

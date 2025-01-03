@@ -1,7 +1,7 @@
 ---
 title: "Resolving Your Graphic Card Issues: Fixing a 'Code Forty-Three' With Windows Eleven and GTX Ninety-Five"
-date: 2024-11-09T19:26:41.738Z
-updated: 2024-11-14T17:11:02.941Z
+date: 2024-12-27T18:15:25.928Z
+updated: 2025-01-03T00:35:53.767Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you.
@@ -79,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -86,10 +94,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Option 2: Update Windows 10**
@@ -99,10 +104,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the**Check for updates** button to see if there are any new updates available.
@@ -114,10 +116,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
  4) Restart your computer after the update. Then check to see if the code 43 still remains.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
@@ -129,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see.
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Option 4: Reinstall Windows 10**
 
@@ -163,15 +155,21 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-error-45-in-system-settings/"><u>[FIXED] Error 45 in System Settings</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-enhanced-online-storefronts-in-3d/"><u>[Updated] 2024 Approved Enhanced Online Storefronts in 3D</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/comprehensive-troubleshooting-steps-for-fixing-invalid-memory-access-errors/"><u>Comprehensive Troubleshooting Steps for Fixing 'Invalid Memory Access' Errors</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/enhancing-social-media-visibility-with-quality-livestreams-on-wirecast-for-2024/"><u>Enhancing Social Media Visibility with Quality Livestreams on Wirecast for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-the-blue-screen-of-death-with-error-0x00000e-on-windows-7-computers/"><u>How to Resolve the 'Blue Screen of Death' With Error 0X00000e on Windows 7 Computers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-winning-conversations-top-20-marketing-terms-explained/"><u>In 2024, Winning Conversations Top 20 Marketing Terms Explained</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/prime-sound-alteration-apps-for-vloggers/"><u>Prime Sound Alteration Apps for Vloggers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/streamline-dell-input-device-in-win7/"><u>Streamline Dell Input Device in Win7</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-win-friendly-art-programs-all-free-and-subscription-options-for-2024/"><u>Top Win-Friendly Art Programs All-Free & Subscription Options for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102521284-windows-troubleshooting-bluetooth-glitches-fixed/"><u>Windows Troubleshooting: Bluetooth Glitches Fixed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-examining-how-youtube-curates-its-highlighted-discussion-threads/"><u>[Updated] In 2024, Examining How YouTube Curates Its Highlighted Discussion Threads</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-navigating-multiple-perspectives-with-fb-lives-split-view-functionality/"><u>[Updated] Navigating Multiple Perspectives with FB Live's Split View Functionality</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-make-facebook-videos-extend-the-wallpaper/"><u>2024 Approved Make Facebook Videos Extend the Wallpaper</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosis-and-fix-experiencing-sound-on-speakers-even-with-plugged-in-headphones/"><u>Diagnosis & Fix: Experiencing Sound on Speakers Even with Plugged-In Headphones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhancing-deathadder-support-in-win11/"><u>Enhancing DeathAdder Support in WIN11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-radeon-wattman-defaults-crash-and-recovery-issue-a-step-by-step-guide/"><u>How to Fix the 'Radeon WattMan Defaults Crash & Recovery' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-restore-your-hp-bluetooth-keyboard-functionality-step-by-step-solution/"><u>How to Restore Your HP Bluetooth Keyboard Functionality - Step-by-Step Solution</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-battleye-configuration-overcoming-initialization-challenges-and-error-code-1450/"><u>Mastering BattlEye Configuration: Overcoming Initialization Challenges and Error Code 1450</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-rtx-games-performance-unmet-quick-fix/"><u>Nvidia RTX Games Performance Unmet - Quick Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-errors-with-invalid-hardware-drivers-in-computer-systems/"><u>Overcoming Errors with Invalid Hardware Drivers in Computer Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pcie-lanes-interruption-remedy-found/"><u>PCIe Lanes Interruption Remedy Found</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/picprankster-laughlens-lab-for-2024/"><u>PicPrankster LaughLens Lab for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/reverse-disk-rotation-using-chdman-to-enhance-gaming-archives/"><u>Reverse Disk Rotation: Using CHDMAN to Enhance Gaming Archives</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/shadow-surge-and-sun-sweep-encounter/"><u>Shadow Surge and Sun Sweep Encounter</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Win 10 KB Issues Detected
-date: 2024-11-13T18:04:30.674Z
-updated: 2024-11-15T01:54:14.208Z
+date: 2024-12-29T08:31:46.162Z
+updated: 2025-01-03T05:29:26.979Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
  Fortunately, it’s easy to test: simply unplug the keyboard from the USB port and plug in another USB device – like a mouse or an external hard drive. If that device doesn’t work either, the USB port itself is the problem, and you should skip straight to [Method 4](https://pish-posh-baby.sjv.io/g1jg15) . If the device you just plugged in does work, then continue to [Method 2](https://zonlipartnershipprogram.pxf.io/b0rbxy) .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Adjust your keyboard settings
 
@@ -45,27 +53,17 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
@@ -81,23 +79,9 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) When prompted to confirm, click**OK** .
 
@@ -106,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -136,7 +113,15 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Switch to ChromeOS
 
@@ -179,20 +164,24 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-price-estimation-guide-for-music-video-production/"><u>[New] Price Estimation Guide for Music Video Production</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-clearscreenstreamer-seamless-easy-w11-screenshots/"><u>2024 Approved ClearScreenStreamer Seamless, Easy W11 Screenshots</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-implementing-luts-in-photoshop-cs6cc-an-in-depth-analysis/"><u>2024 Approved Implementing LUTs in Photoshop CS6/CC An In-Depth Analysis</u></a></li>
-<li><a href="https://games-able.techidaily.com/bringing-the-joy-ios-compatible-nintendo-games/"><u>Bringing the Joy: IOS Compatible Nintendo Games</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-troubleshooting-tips-for-a-functioning-steamvr/"><u>Effortless Troubleshooting Tips for a Functioning SteamVR</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-the-iphone-mass-storage-error-with-easy-steps/"><u>How to Fix the iPhone Mass Storage Error with Easy Steps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/samsungs-operating-system-for-the-winning-computer/"><u>Samsung's Operating System for the Winning Computer</u></a></li>
-<li><a href="https://driver-error.techidaily.com/seamless-sync-mouse-and-window-harmony/"><u>Seamless Sync: Mouse & Window Harmony</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-ipad-air-analysis-why-apples-latest-m2-powerhouse-is-the-ultimate-choice-for-consumers-insights/"><u>Top Rated iPad Air Analysis: Why Apple's Latest M2 Powerhouse Is the Ultimate Choice for Consumers - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-your-footage-techniques-for-outstanding-gopro-edits-for-2024/"><u>Transform Your Footage Techniques for Outstanding GoPro Edits for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-battlenee-error-code-1450-resolve-failed-driver-loading-problems/"><u>Troubleshooting Battlenee Error Code 1450: Resolve Failed Driver Loading Problems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-activating-safe-mode-on-windows-8-to-remove-problematic-graphics-card-drivers/"><u>Troubleshooting Tips: Activating Safe Mode on Windows 8 to Remove Problematic Graphics Card Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unraveling-intel-mmc-driver-woes/"><u>Unraveling Intel MMC Driver Woes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-champion-of-gamers-an-in-depth-analysis-of-the-alienware-aurora-r1n-as-best-gaming-computer-of-2021/"><u>Unveiling the Champion of Gamers: An In-Depth Analysis of the Alienware Aurora R1n as Best Gaming Computer of 2021</u></a></li>
-<li><a href="https://driver-error.techidaily.com/usb-earbuds-not-working-on-win10-simple-fix-guide/"><u>USB Earbuds Not Working on WIN10 - Simple Fix Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-single-shots-to-spectaculary-screenshots/"><u>[New] From Single Shots to Spectaculary Screenshots</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-high-definition-audio-device-driver-issue-after-windows-7-install/"><u>[Solved] High Definition Audio Device Driver Issue After Windows 7 Install</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-building-blocks-for-a-thriving-design-career/"><u>[Updated] Building Blocks for a Thriving Design Career</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-how-to-securely-download-youtubes-srt-subtitles-for-2024/"><u>[Updated] How to Securely Download YouTube's SRT Subtitles for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-streamlined-shots-in-the-sea-7-easy-to-follow-steps-for-2024/"><u>[Updated] Streamlined Shots in the Sea 7 Easy-to-Follow Steps for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-hidden-drain-unearthing-deceptive-likes-costs-for-2024/"><u>[Updated] The Hidden Drain Unearthing Deceptive Likes' Costs for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-brand-with-unique-email-signatures-a-how-to-on-godaddy-webmail-platform/"><u>Boost Your Brand with Unique Email Signatures - A How-To on GoDaddy Webmail Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-maplestory-initialization-errors-tips-and-fixes-for-smooth-launches/"><u>Bypassing Maplestory Initialization Errors: Tips & Fixes for Smooth Launches</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-detected-ideport0-control-error/"><u>Driver's Detected: Ideport0 Control Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-solutions-to-fix-unrecognized-driver-installations-for-compatibility/"><u>Effective Solutions to Fix Unrecognized Driver Installations for Compatibility</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-marvell-91xx-driver-issue-on-windows-11-solved/"><u>Fix Marvell 91Xx Driver Issue on Windows 11 [Solved]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-lava-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Lava</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-recover-from-a-crash-in-your-radeon-wattman-configurations-successfully/"><u>How To Recover From a Crash in Your Radeon Wattman Configurations Successfully</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-driver-update-successfully-installed/"><u>Nvidia Driver Update Successfully Installed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/repair-techniques-to-fix-visual-anomalies-like-discoloration-and-distortion-in-computer-display/"><u>Repair Techniques to Fix Visual Anomalies Like Discoloration and Distortion in Computer Display</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-hardware-drivers-across-windows-versions/"><u>Seamless Hardware Drivers Across Windows Versions</u></a></li>
+<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-15-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 15 failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-invalid-drivers-steps-to-rectify-unrecognized-installations/"><u>Troubleshooting Invalid Drivers: Steps to Rectify Unrecognized Installations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-serial-linkup-windows-system-recovery-tips/"><u>USB Serial Linkup: Windows System Recovery Tips</u></a></li>
 </ul></div>
 

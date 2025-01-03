@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Car Load Error on Gadget"
-date: 2024-12-04T00:55:31.863Z
-updated: 2024-12-10T04:29:16.319Z
+date: 2024-12-28T03:48:10.101Z
+updated: 2025-01-02T23:05:22.269Z
 tags:
   - win11
   - win10
@@ -49,11 +49,19 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Restart your computer, and see if the**_A driver cannot load on this device_** error still remains. If the problem persists, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update related driver via its manufacturer
 
@@ -64,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-68.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When I Google_**CY3014.X64**_ , I see that it’s a file for the**Elgato Game Capture HD60 S device** . By searching the device name plus driver (i.e. Elgato Game Capture HD60 S driver), I land on this page:[https://help.elgato.com/hc/en-us/articles/360027961152-Elgato-Gaming-Hardware-Drivers](https://help.elgato.com/hc/en-us/articles/360027961152-Elgato-Gaming-Hardware-Drivers) , where I can download and later install the correct driver for my computer.
@@ -86,10 +94,6 @@ So in all, to download and install the driver manually, you need to:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
@@ -99,10 +103,6 @@ So in all, to download and install the driver manually, you need to:
  Then see if the**_A driver cannot load on this device_** error still persists. If so, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Run Program Compatibility Troubleshooter
 
@@ -114,36 +114,28 @@ To run this troubleshooter:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-42.png)
 2. Select **Other troubleshooters** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-43.png)
 3. Find **Program Compatibility Troubleshooter** , and click the **Run** button next to it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-44.png)
 4. See if you can find the related app mentioned in the error message from the list. If not, select **Not listed** and click **Next** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-45.png)
 5. Then**Browse** to the location where your related system file is, and click Next.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-46.png)
 6. Tick the boxes that fit your description, and click Next.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-47.png)
 7. Then follow the on-screen instructions to run the troubleshooter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then see if the**_A driver cannot load on this device_** error is fixed. If not, please move further.
 
@@ -161,8 +153,16 @@ To run this troubleshooter:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-36.png)
 2. Toggle off the option for Memory integrity.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-37.png)
 3. Restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then see if the _**A driver cannot load on this device**_  error still remains.
 
@@ -187,24 +187,21 @@ To run this troubleshooter:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-engaging-audiences-with-jujutsu-kaisen-tiktok-content/"><u>[Updated] Engaging Audiences with Jujutsu Kaisen TikTok Content</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-navigating-windows-11-movie-maker-your-ultimate-instruction-manual/"><u>2024 Approved Navigating Windows 11 Movie Maker Your Ultimate Instruction Manual</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/detailed-review-of-the-economical-monoprice-drawing-pad-a-worthy-contender-in-art-tech/"><u>Detailed Review of the Economical Monoprice Drawing Pad: A Worthy Contender in Art Tech</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-setup-of-logitech-brio-usb-camera-download-latest-drivers-for-windows-10-8-and-7-users/"><u>Easy Setup of Logitech BRIO USB Camera - Download Latest Drivers for Windows 10, 8 & 7 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enable-microsofts-windows-companion-through-vivetool/"><u>Enable Microsoft's Windows Companion Through ViveTool</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/enhancing-video-narratives-mastering-fade-effects-for-2024/"><u>Enhancing Video Narratives Mastering Fade Effects for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/foremost-websites-accelerating-youtube-traffic-for-2024/"><u>Foremost Websites Accelerating YouTube Traffic for 2024</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/high-resolution-1920x1350-landscapes-and-abstracts-premium-wallpapers-by-yl-computing/"><u>High-Resolution 1920X1350 Landscapes & Abstracts: Premium Wallpapers by YL Computing</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-correctly-fix-the-itbm-driver-not-found-error-a-step-by-step-guide/"><u>How to Correctly Fix the ITBM Driver Not Found Error - A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keybacklight-dark-issue-asus/"><u>Keybacklight Dark Issue - ASUS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keys-locked-in-win-10-system/"><u>Keys Locked in Win 10 System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-usb-connectivity-problems-in-windows-when-new-devices-go-undetected/"><u>Overcoming USB Connectivity Problems in Windows When New Devices Go Undetected</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reconnecting-usb-hardware-tips-for-windows-78/"><u>Reconnecting USB Hardware: Tips for Windows 7/8</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solution-to-invalid-service-configuration-in-inf/"><u>Solution to Invalid Service Configuration in INF</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-your-itbm-driver-unavailable-problem-in-just-minutes/"><u>Solve Your ITBM Driver Unavailable Problem in Just Minutes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-common-problems-with-your-hp-wireless-keyboard-step-by-step-guide/"><u>Solving Common Problems with Your HP Wireless Keyboard: Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-validating-and-resolving-incompatible-device-drivers/"><u>Step-by-Step Guide: Validating and Resolving Incompatible Device Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-outriders-audio-trouble-expert-tips-and-techniques/"><u>The Ultimate Fix for Outriders' Audio Trouble: Expert Tips and Techniques</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/turning-up-the-focus-crafting-astonishing-slow-motion-videos-for-ig-reels/"><u>Turning Up the Focus Crafting Astonishing Slow Motion Videos for IG Reels</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-social-media-splitscreen-a-facebook-guide/"><u>[Updated] Mastering Social Media Splitscreen A Facebook Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-solving-instagram-the-mystery-of-intermittent-videos/"><u>[Updated] Solving Instagram The Mystery of Intermittent Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-creating-personalized-whatsapp-soundtracks/"><u>2024 Approved Step-by-Step Creating Personalized WhatsApp Soundtracks</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728493671576-windows-108/"><u>永遠に再起動が止まらないWindows 10？これで修正！8方法をご紹介</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/audio-aces-challenge-apples-airpods-pro-against-galaxy-buds-pro-rivalry/"><u>Audio Aces Challenge: Apple's Airpods Pro Against Galaxy Buds Pro Rivalry</u></a></li>
+<li><a href="https://driver-error.techidaily.com/broadcom-n-adapter-woes-ended-in-windows-os/"><u>Broadcom N Adapter Woes Ended in Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/default-amd-wattman-settings-collapse-and-recovery-complete-solution-guide/"><u>Default AMD Wattman Settings Collapse & Recovery: Complete Solution Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disconnect-dilemma-bluetooth-mouse-on-win-810/"><u>Disconnect Dilemma: Bluetooth Mouse on Win 8/10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/faulty-driver-bcm20702a0-not-found/"><u>Faulty Driver - BCM20702A0 Not Found</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/mastering-fpv-drones-picking-perfect-propellers/"><u>Mastering FPV Drones Picking Perfect Propellers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-troubleshoot-and-stop-no-rest-for-the-wicked-from-crashing-on-your-pc/"><u>Steps to Troubleshoot and Stop 'No Rest for the Wicked' From Crashing on Your PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unblocking-stuck-usb-to-serial-connections/"><u>Unblocking Stuck USB to Serial Connections</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-future-of-branding-10-indispensable-marketing-podcasts-on-social-media-integration/"><u>Updated The Future of Branding 10 Indispensable Marketing Podcasts on Social Media Integration</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updating-your-rtx-nvidia-drivers-on-windows-11-download-and-installation-tutorial/"><u>Updating Your RTX nVIDIA Drivers on Windows 11: Download and Installation Tutorial</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-disables-graphics-card-use/"><u>Win11 Disables Graphics Card Use</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wudfrd-not-booting-device-event-id-219/"><u>WudfRd Not Booting, Device Event ID: 219</u></a></li>
 </ul></div>
 

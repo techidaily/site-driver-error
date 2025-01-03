@@ -1,7 +1,7 @@
 ---
 title: Discover Top-Tier Computer Specs with Tom's Hardware - Your Essential Gadget Companion
-date: 2024-12-17T17:37:48.179Z
-updated: 2024-12-24T20:07:34.899Z
+date: 2024-12-31T12:13:13.785Z
+updated: 2025-01-03T08:13:15.552Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,20 +66,24 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-high-quality-video-webcams-top-5-combos-with-sound/"><u>[New] In 2024, High-Quality Video Webcams - Top 5 Combo's With Sound</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-narzo-60-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme Narzo 60 5G Unlock Without Password</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphics-hardware-blockade-in-windows-environment/"><u>Graphics Hardware Blockade in Windows Environment</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-multi-monitor-configuration-in-depth-tips-on-joining-three-screens-with-your-laptop-or-desktop/"><u>Master Multi-Monitor Configuration: In-Depth Tips on Joining Three Screens with Your Laptop or Desktop</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-errors-code-37-resolved/"><u>No More Errors, Code 37 Resolved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reformatting-device-issue-venint33a0/"><u>Reformatting Device Issue: VEN_INT33A0</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-gtx-ebx-950-code-43-issue-in-windows-11-detailed-guide/"><u>Resolving GTX Ebx 950 'Code 43' Issue in Windows 11 - Detailed Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restore-operational-capacity-in-flawed-usb-serial-cables-windows/"><u>Restore Operational Capacity in Flawed USB-Serial Cables, Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-windows-11-creators-update-and-missing-webcam-detected-by-logitech-brio-heres-help-156-chars/"><u>Troubleshooting Windows 11 Creators Update & Missing Webcam Detected by Logitech Brio? Here's Help! (156 Chars)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/turned-core-isolation-off-for-wdcsam64prewin8sys/"><u>Turned Core Isolation Off for wdcsam64_prewin8.sys</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-benefits-of-d-links-powerline-networking-swift-configuration-and-rapid-throughput/"><u>Unveiling the Benefits of D-Link's Powerline Networking - Swift Configuration & Rapid Throughput</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-edit-like-a-pro-the-ultimate-guide-to-gopro-hd-video-editing/"><u>Updated 2024 Approved Edit Like a Pro The Ultimate Guide to GoPro HD Video Editing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/visionary-film-titles-that-inspire-and-invigorate-for-2024/"><u>Visionary Film Titles That Inspire and Invigorate for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725286285187-windows-1110/"><u>Windows 11/10上推荐的十大视频转换应用：保证瞬间切换与最高安全性</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-minecraft-survival-shelter-mastery/"><u>[New] Minecraft Survival Shelter Mastery</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-10-must-try-microphones-for-exceptional-asmr-sounds/"><u>[Updated] 10 Must-Try Microphones for Exceptional ASMR Sounds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-grandest-picture-tweaker-suite/"><u>[Updated] 2024 Approved Grandest Picture Tweaker Suite</u></a></li>
+<li><a href="https://win-net.techidaily.com/2-facilmente-como-transferir-imagen-de-windows-11-al-ssd-sin-reinstalacion/"><u>2 Fácilmente Cómo Transferir Imagen De Windows 11 Al SSD Sin Reinstalación</u></a></li>
+<li><a href="https://driver-error.techidaily.com/a-fixers-guide-to-intellme-failures/"><u>A Fixer's Guide to IntellME Failures</u></a></li>
+<li><a href="https://driver-error.techidaily.com/car-charge-denied-by-device/"><u>Car Charge Denied by Device</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-canoscan-lide-220-software-latest-version-available/"><u>Download and Update: CanoScan LiDE 220 Software - Latest Version Available</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-correcting-unrecognized-or-invalid-drivers-on-your-device/"><u>Guide to Correcting Unrecognized or Invalid Drivers on Your Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apple-redefined-ai-comeback-insights-on-progress-and-limitations-as-analyzed-by-zdnet/"><u>How Apple Redefined AI Comeback, Insights on Progress & Limitations as Analyzed by ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-qualcomm-atheros-bluetooth-issues-in-windows-11-a-complete-guide/"><u>How to Fix Qualcomm Atheros Bluetooth Issues in Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-realme-11x-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Realme 11X 5G Through Google Earth?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-se-2020-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone SE (2020)? How to Fix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-15-pro-max-vs-samsung-galaxy-z-fold6-a-comprehensive-head-to-head-comparison/"><u>IPhone 15 Pro Max Vs. Samsung Galaxy Z Fold6 - A Comprehensive Head-to-Head Comparison</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectify-flawed-windows-trackpad-dell/"><u>Rectify Flawed Windows Trackpad (Dell)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/remedying-recurrent-nvidia-driver-errors/"><u>Remedying Recurrent Nvidia Driver Errors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-choice-for-hobbyists-a-complete-review-on-the-blade-e-flite-mcx2-rtf-helicopter/"><u>The Ultimate Choice for Hobbyists: A Complete Review on the Blade E-Flite mCX2 RTF Helicopter</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-windows-for-no-enter-response/"><u>Troubleshooting Windows for No Enter Response</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlocking-full-touchpad-potential-in-w11-with-elan/"><u>Unlocking Full Touchpad Potential in W11 with Elan</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wacoms-victory-over-unplugged-devices/"><u>Wacom's Victory Over Unplugged Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Win11 Touchpad Glitches: Resolved Quickly"
-date: 2024-12-18T05:41:38.698Z
-updated: 2024-12-25T05:33:00.723Z
+date: 2024-12-27T07:24:03.117Z
+updated: 2025-01-02T18:33:52.267Z
 tags:
   - win11
   - win10
@@ -32,24 +32,16 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-settings-devices.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Click **Mouse & touchpad,**  then click **Additional mouse options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/additional-mouse-options.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Go to the furthest right option (the option could be **Device Settings** or **ELAN**), and make sure your touchpad is enabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
 
@@ -74,7 +66,11 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3: Stop automatic updates from Windows Update**
@@ -85,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-clickyour computer icon and click **Device installation settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
@@ -114,20 +114,19 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-exploring-the-leading-screen-recording-software-for-educators-for-2024/"><u>[New] Exploring the Leading Screen Recording Software for Educators for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restored-keyboard-functionality-in-windows-11/"><u>[Restored] Keyboard Functionality in Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-podcast-episodes-essential-writing-techniques-and-examples/"><u>[Updated] Crafting Podcast Episodes Essential Writing Techniques & Examples</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-exploring-alternate-functions-with-webcams/"><u>[Updated] Exploring Alternate Functions with Webcams</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-social-media-hit-list-2024/"><u>[Updated] Social Media Hit List 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-overcoming-obscured-viewing-fix-for-youtube/"><u>2024 Approved Overcoming Obscured Viewing Fix for Youtube</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211852217-decode-and-defeat-expert-strategies-to-stop-frequent-device-unrecognized-errors-on-your-pc/"><u>Decode and Defeat - Expert Strategies to Stop Frequent ‘Device Unrecognized’ Errors on Your PC.</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-inaccessible-bcm20702a0-error/"><u>Driver Inaccessible: BCM20702A0 Error</u></a></li>
-<li><a href="https://driver-error.techidaily.com/i-understand-that-this-will-be-able-to-find-a-good-time-in-python-40-of-its-positive-integers-pknowledge-a-px-plus-mongodb-markup-1s-are-you-interested-in-l8/"><u>I Understand that This Will Be Able to Find a Good Time in Python 40% of Its Positive Integers $pKnowledge: A) P(x + mongoDB Markup #1'S`^] Are You Interested in Learning How, and It Is the Same Day-Grown for Each Termination.</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/leading-tools-for-extracting-fb-videos-top-5/"><u>Leading Tools for Extracting FB Videos - TOP 5</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/nokia-c12-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C12 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quieten-unwanted-bluetooth-in-windows-10/"><u>Quieten Unwanted Bluetooth in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-unsupported-device-errors-in-your-it-driver-setup/"><u>Resolving Unsupported Device Errors in Your IT Driver Setup</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-1110-solve-pci-controller-gone-awol/"><u>Win 11/10: Solve PCI Controller Gone AWOL</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-optimal-screen-capture-chromeos-enhanced/"><u>[New] 2024 Approved Optimal Screen Capture ChromeOS Enhanced</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-harmonyhub-pro-downloads-and-reviews/"><u>[New] HarmonyHub Pro Downloads & Reviews</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-irqlnotlessorequal-bsod-in-windows-11/"><u>[Solved] IRQL_NOT_LESS_OR_EQUAL BSOD in Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-decode-and-resolve-youtube-short-errors/"><u>[Updated] Decode and Resolve YouTube Short Errors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-video-reduction-tips-for-mac-users/"><u>[Updated] Instagram Video Reduction Tips for Mac Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-gentle-audio-dampening-on-lumafusion-platforms/"><u>2024 Approved The Art of Gentle Audio Dampening on Lumafusion Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-chatgpts-safeguards-effective-enough/"><u>Are ChatGPT’s Safeguards Effective Enough?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/banish-endless-connectivity-of-bluetooth-in-win10/"><u>Banish Endless Connectivity of Bluetooth in Win10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertir-audio-m4r-directamente-a-aiff-por-internet-gratuito-utilice-la-herramienta-en-linea-de-movavi/"><u>Convertir Audio M4R Directamente a AIFF Por Internet Gratuito, Utilice La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-invalid-service-installation-parameters-in-inf/"><u>Fixing Invalid Service Installation Parameters in INF</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-successfully-fix-failed-hcom-monitor-driver-setup-errors/"><u>How to Successfully Fix Failed HCOM Monitor Driver Setup Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-no-initialization-directx-9-issue-quickly/"><u>Overcoming 'No Initialization DirectX 9' Issue Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stop-windows-11-bluetooth-from-self-activating/"><u>Stop Windows 11 Bluetooth From Self-Activating</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winos-visual-hang-up-fixed-soon-in-progress/"><u>WinOS Visual Hang-Up Fixed Soon (In Progress)</u></a></li>
 </ul></div>
 

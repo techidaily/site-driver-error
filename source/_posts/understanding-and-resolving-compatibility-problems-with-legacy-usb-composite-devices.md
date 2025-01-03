@@ -1,7 +1,7 @@
 ---
 title: Understanding and Resolving Compatibility Problems with Legacy USB Composite Devices
-date: 2024-11-30T19:41:20.257Z
-updated: 2024-12-02T17:42:53.092Z
+date: 2024-12-28T20:11:24.299Z
+updated: 2025-01-02T19:02:46.186Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
  If you keep getting the above error message when trying to connect your USB Composite Device to your computer, here are the real fixes for your issue. This article helps you solve the problem, quickly and easily!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -49,7 +49,7 @@ Fortunately, this is one of the easiest problems to fix.
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb894ea5449a.jpg)
@@ -58,7 +58,7 @@ Fortunately, this is one of the easiest problems to fix.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reinstall your USB controller drivers
@@ -68,16 +68,16 @@ Fortunately, this is one of the easiest problems to fix.
 1. On your keyboard, press the   **Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62735e40ac6.png)**  
 **key**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  and  
 **R**  
   key simultaneously to open the Run box.
 2. Type **devmgmt.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b616832c16a0.jpg)
 3. In Device Manger, scroll down to find**Universal Serial Bus controllers** and expand the entry.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b61714f05a95.jpg)
 4. Right-click on the first USB device and select**Uninstall device**  to remove it.  
@@ -95,7 +95,7 @@ Fortunately, this is one of the easiest problems to fix.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Use the Windows USB Troubleshooter
@@ -125,21 +125,22 @@ Fortunately, this is one of the easiest problems to fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-xbox-livestreaming-on-facebook-platform/"><u>[Updated] Mastering Xbox Livestreaming on Facebook Platform</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchats-creative-frontier-mastering-more-than-120-stories-with-individual-flair/"><u>[Updated] Snapchat's Creative Frontier Mastering More than 120 Stories with Individual Flair</u></a></li>
-<li><a href="https://driver-error.techidaily.com/address-udma-driver-failure/"><u>Address UDMA Driver Failure</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevate-your-fall-guys-play-with-higher-frames-per-second-fps-and-lower-latency-solutions/"><u>Elevate Your Fall Guys Play with Higher Frames per Second (FPS) & Lower Latency Solutions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-overcome-usb-install-failures-due-to-access-denied-errors/"><u>How to Overcome USB Install Failures Due to Access Denied Errors</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-resolve-motorola-moto-g14-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Motorola Moto G14 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-motorola-moto-g14-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Motorola Moto G14</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-nokia-105-classic-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Nokia 105 Classic Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/innovating-beyond-boundaries-revitalizing-vr-content-for-2024/"><u>Innovating Beyond Boundaries Revitalizing VR Content for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/key-malfunction-report-for-windows-10/"><u>Key Malfunction Report for Windows 10</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/pickus-impact-on-mobile-photography-a-comparative-study/"><u>PickU's Impact on Mobile Photography – A Comparative Study</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-uninstalled-device-drivers-in-windows-1187-with-easy-fixes/"><u>Resolve Uninstalled Device Drivers in Windows 11/8/7 With Easy Fixes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-steps-to-retrieve-and-install-device-drivers-on-windows-10-8-and-7-systems/"><u>Resolved! Steps to Retrieve and Install Device Drivers on Windows 10, 8 & 7 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-vertical-display-problem-correcting-upward-facing-videos-on-your-asus-notebook/"><u>Resolving the Vertical Display Problem: Correcting Upward-Facing Videos on Your ASUS Notebook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-5-solutions-for-reducing-gpu-load-by-the-desktop-window-manager-on-windows-11/"><u>Top 5 Solutions for Reducing GPU Load by the Desktop Window Manager on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unveiling-the-secret-to-flawless-elan-pad-on-win11/"><u>Unveiling the Secret to Flawless Elan Pad on Win11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-19-critical-examples-of-the-metaverse-unveiled/"><u>[New] In 2024, 19 Critical Examples of the Metaverse Unveiled</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-dive-deep-into-vivacut-editor-review-and-tutorial/"><u>[New] In 2024, Dive Deep Into VivaCut Editor Review & Tutorial</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-enhancing-your-social-media-footprint-upload-success-tips-for-stories/"><u>[Updated] 2024 Approved Enhancing Your Social Media Footprint Upload Success Tips for Stories</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-navigating-challenges-in-job-interview-settings/"><u>[Updated] Navigating Challenges in Job Interview Settings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-piecing-together-attention-grabbing-channel-snippets/"><u>2024 Approved Piecing Together Attention-Grabbing Channel Snippets</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-enex-driver-incompatibility-with-windows-11/"><u>Addressing eNEX Driver Incompatibility with Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/audio-bus-error-on-hd-device-overcome/"><u>Audio Bus Error on HD Device Overcome</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bring-functionality-back-to-nonresponsive-serial-ports/"><u>Bring Functionality Back to Nonresponsive Serial Ports</u></a></li>
+<li><a href="https://driver-error.techidaily.com/clearing-up-high-quality-audio-message/"><u>Clearing Up High-Quality Audio Message</u></a></li>
+<li><a href="https://driver-error.techidaily.com/core-isolation-disabled-on-wdcsam64prewin8sys-fix/"><u>Core Isolation Disabled on wdcsam64_prewin8.sys Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-device-not-supported-error-on-winsta/"><u>Correcting 'Device Not Supported' Error on WinSta</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-on-realteks-digital-output-unit-a-step-by-step-solution/"><u>How To Restore Sounds on Realtek's Digital Output Unit: A Step-By-Step Solution</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-mosaicmaker-elite-designing-with-digital-threads/"><u>In 2024, MosaicMaker Elite Designing with Digital Threads</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721097937945-no-longer-disconnected-wacoms-triumph/"><u>No Longer Disconnected: Wacom's Triumph!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-wireless-integration-with-updated-atheros-drivers-for-windows-pcs/"><u>Seamless Wireless Integration with Updated Atheros Drivers for Windows PCs</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2225881-9781250102553-the-complete-book-of-numerology/"><u>The Complete Book of Numerology | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102696742-what-to-do-when-dolby-pro-logic-iix-doesnt-work-on-windows-resolved/"><u>What to Do When Dolby Pro Logic IIx Doesn't Work on Windows? - Resolved!</u></a></li>
 </ul></div>
 

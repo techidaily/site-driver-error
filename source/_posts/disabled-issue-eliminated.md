@@ -1,7 +1,7 @@
 ---
 title: Disabled Issue Eliminated
-date: 2024-12-23T19:01:38.048Z
-updated: 2024-12-25T02:22:07.946Z
+date: 2024-12-29T19:36:09.604Z
+updated: 2025-01-02T17:26:40.441Z
 tags:
   - win11
   - win10
@@ -34,24 +34,20 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 2. Type **devmgmt.msc** and press**Enter**  to access Device Manager.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e3f572c04.png)
 3. Expand the category that your device belongs to, right-click your device and select**Enable device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your device driver
 
@@ -66,10 +62,6 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Uninstall your device driver
 
 Uninstalling your device driver is another solution you can try to fix **This device is disabled (Code 22).**Here’s how:
@@ -79,10 +71,6 @@ Uninstalling your device driver is another solution you can try to fix **This de
 2. Restart your computer, and Windows will automatically reinstall the driver for your device.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reset the BIOS settings
 
@@ -96,14 +84,26 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)  
  Example – CMOS battery on a desktop PC  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)  
  Example – CMOS battery on a laptop
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 6. Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
 7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -126,22 +126,14 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-simple-solutions-to-capture-gotomeetings-effectively/"><u>[New] Simple Solutions to Capture GoToMeetings Effectively</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-zero-budget-football-broadcasting-101-for-2024/"><u>[New] Zero Budget Football Broadcasting 101 for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-from-good-to-great-unveiling-video-enhance-22-secrets/"><u>[Updated] 2024 Approved From Good to Great Unveiling Video Enhance 2.2 Secrets</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-iphone-videography-elevated-8-key-techniques-for-professional-recordings/"><u>2024 Approved IPhone Videography Elevated 8 Key Techniques for Professional Recordings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/d3d-vanished-will-unreal-engine-cease/"><u>D3D Vanished, Will Unreal Engine Cease?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-your-pc-how-to-address-the-coprocessor-driver-not-found-error-in-windows-11/"><u>Fix Your PC: How to Address the 'Coprocessor Driver Not Found' Error in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphic-interface-access-hindered-on-pc/"><u>Graphic Interface Access Hindered on PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hardware-detection-failed-missing-intel-component/"><u>Hardware Detection Failed: Missing Intel Component</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-google-phone-by-drfone-android/"><u>How to Reset a Locked Google Phone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6 without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/securely-installing-apple-podcasts-episodes/"><u>Securely Installing Apple Podcasts Episodes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-the-problem-why-is-my-wireless-keyboard-not-responding-on-windows/"><u>Solve the Problem: Why Is My Wireless Keyboard Not Responding on Windows?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-unresponsive-issue-with-disabling-inbuilt-wi-fi-and-bluetooth-step-by-step/"><u>Solve Unresponsive Issue with Disabling Inbuilt Wi-Fi and Bluetooth - Step by Step</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-fix-for-incompatible-hardware-alerts-with-your-idt-system/"><u>Step-by-Step Fix for Incompatible Hardware Alerts with Your IDT System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-address-unsupported-peripheral-devices-with-idt-software/"><u>Step-by-Step Guide to Address Unsupported Peripheral Devices with IDT Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/usb-composite-device-an-overview-of-older-technology-fixes-solved/"><u>USB Composite Device - An Overview of Older Technology Fixes [SOLVED]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-effortless-techniques-crafting-youtube-shorts-images-on-the-fly-for-2024/"><u>[New] Effortless Techniques Crafting YouTube Shorts Images on the Fly for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-fix-obs-full-screen-not-working-issue-for-2024/"><u>[Updated] How To Fix OBS Full Screen Not Working Issue for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/a6400s-visual-void-finding-video-fix/"><u>A6400's Visual Void - Finding Video Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/address-usb-30-bandwidth-limit/"><u>Address USB 3.0 Bandwidth Limit</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-disruption-drivers-enigma-52/"><u>Decoding Disruption: Driver's Enigma #52</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-issue-when-your-windows-10-lacks-a-coprocessor-driver/"><u>Fixing the Issue When Your Windows 10 Lacks a Coprocessor Driver</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS with/without SIM Card</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-challenge-fixed-windows-11-touchpad-no-right-click/"><u>Overcoming the Challenge: Fixed Windows 11 Touchpad No Right Click</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-methods-for-converting-wtv-files-into-avi-format-a-comprehensive-guide/"><u>Top Methods for Converting WTV Files Into AVI Format: A Comprehensive Guide</u></a></li>
 </ul></div>
 

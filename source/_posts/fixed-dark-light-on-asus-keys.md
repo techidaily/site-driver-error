@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Dark Light on ASUS Keys"
-date: 2024-12-08T21:54:43.953Z
-updated: 2024-12-10T03:48:35.211Z
+date: 2024-12-28T20:27:50.575Z
+updated: 2025-01-02T19:35:00.730Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
  If you find your**ASUS keyboard backlight not working** , please rest assured that you’re not alone. Just follow this tutorial step by step and you’ll easily get the problem fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 Ways to fix the ASUS keyboard backlight not working
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Way 1: Start the HControl.exe** program
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-53.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, on your keyboard, press**Fn** and**F4** at the same time to test if the backlight of your keyboard can be turned on.
 
  If you cannot navigate to this program, then perhaps your ATK package is installed in another folder. In this case, you should search for “ATK Package” in File Explorer until you find Hcontrol.exe in a folder named ATK Hotkey.  
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Way 2: Download and install the latest drivers**
@@ -85,11 +81,15 @@ OR
 3. On the next page, select your Windows version. Then you’ll be greeted with a list of drivers and programs available for download.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-25-19.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Scroll through the list until you find the following two drivers:**Smart Gesture** driver and**ATK Package** driver. Then, click on the**DOWNLOAD** button next to each driver.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-31-49.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-45-12.jpg)
 5. Wait till the download process is complete. The two downloaded files are compressed, so you need to extract them to a desired location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Open the extracted folders of the two drivers. Find**Setup.exe** in their folders respectively and click on it. Then, follow the onscreen instructions to install the drivers.
 7. When everything’s done, restart your computer for the changes to take effect. Then check to see if your keyboard backlight can be turned on properly (press**Fn+F4** on your keyboard to enable the backlight).
@@ -134,20 +134,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-best-ff-browser-add-ons-for-fb-videos/"><u>[New] In 2024, Best FF Browser Add-Ons for FB Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-vlogs-optimizing-title-description-and-tags/"><u>[New] In 2024, Elevate Your Vlogs Optimizing Title, Description & Tags</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ltimate-sound-editing-solutions-for-online-bloggers/"><u>[New] Ultimate Sound Editing Solutions for Online Bloggers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unlock-the-potential-of-pc-games-recording-in-win10-for-2024/"><u>[Updated] Unlock the Potential of PC Games Recording in Win10 for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/asus-laptop-display-glitch-resolved-methods-to-correct-vertically-reversed-videos/"><u>ASUS Laptop Display Glitch Resolved: Methods to Correct Vertically Reversed Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-base-system-device-driver-issue-in-device-manager/"><u>How to Fix Base System Device Driver Issue in Device Manager</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-15-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 15 Pro | Stellar</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improve-your-deathloop-gameplay-on-pc-by-fixing-stuttering-problems-strategies-revealed/"><u>Improve Your Deathloop Gameplay on PC by Fixing Stuttering Problems - Strategies Revealed</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-screen-capture-without-cost-best-free-software-guide/"><u>In 2024, Screen Capture Without Cost Best Free Software Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/optimized-video-recording-fixed-asus-usb-camera-for-win10-users/"><u>Optimized Video Recording: Fixed ASUS USB Camera for Win10 Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-and-windows-11-resolving-non-functional-bluetooth-driver-problems/"><u>Qualcomm Atheros and Windows 11: Resolving Non-Functional Bluetooth Driver Problems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repairing-qualcomm-atheros-bluetooth-driver-failures-on-microsofts-latest-os/"><u>Repairing Qualcomm Atheros Bluetooth Driver Failures on Microsoft's Latest OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/samsungs-virtual-machine-suite-for-pc-users/"><u>Samsung's Virtual Machine Suite for PC Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/save-200-on-dell-alienware-aw3225qf-premium-32-240hz-4k-oled-gamers-dream-display/"><u>Save $200 on Dell Alienware AW3225QF: Premium 32 240Hz, 4K OLED Gamer's Dream Display</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-color-grading-techniques-unraveling-the-mystery-of-luts/"><u>[New] Color Grading Techniques Unraveling the Mystery of LUTs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pioneering-camera-tech-an-analysis-of-manycams-new-recorder/"><u>[Updated] Pioneering Camera Tech An Analysis of ManyCam's New Recorder</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-enhance-mac-screenshot-with-quick-shortcut-tips/"><u>2024 Approved Enhance Mac Screenshot with Quick Shortcut Tips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/y-blogging-beginnings-crafting-a-captivating-youtube-channel-for-2024/"><u>Beauty Blogging Beginnings Crafting a Captivating YouTube Channel for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/htc-desire-z-not-detected-on-fedora-core-linux-problem-solved/"><u>HTC Desire Z Not Detected on Fedora Core Linux, Problem Solved!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-ace-the-game-download-every-tiktok-video-with-ease/"><u>In 2024, Ace the Game Download Every TikTok Video with Ease</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-p55-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from P55</u></a></li>
+<li><a href="https://driver-error.techidaily.com/sorry-for-the-criminal-justice-1973-which-is-a-complex-sentence/"><u>Sorry for the Criminal Justice (1973, Which Is a Complex Sentence</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-definitive-solution-for-the-blue-screen-error-0x0000007e-in-windows-7-systems/"><u>The Definitive Solution for the Blue Screen Error 0X0000007E in Windows 7 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-absence-of-seagate-hdd-in-win10/"><u>Troubleshooting Absence of Seagate HDD in Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wacom-unites-devices-linked-in-joyous-celebration/"><u>Wacom Unites: Devices Linked in Joyous Celebration</u></a></li>
 </ul></div>
 

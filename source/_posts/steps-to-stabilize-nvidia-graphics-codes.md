@@ -1,7 +1,7 @@
 ---
 title: Steps to Stabilize Nvidia Graphics Codes
-date: 2024-12-17T18:24:33.771Z
-updated: 2024-12-24T18:15:45.907Z
+date: 2025-01-01T08:05:49.896Z
+updated: 2025-01-02T21:21:03.888Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 
 **Nvidia drivers crashing** on your computer? Don’t worry – it’s usually not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for Nvidia drivers crashing
 
  Here are seven fixes that have helped other users resolved the Nvidia drivers crashing problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -28,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 5. [**Update DirectX**](https://laganoo.pxf.io/5g6ygn)
 6. **[Repair system files](https://newchic.sjv.io/jzg4zq)**
 7. [**Check for hardware issues**](https://bellelily.pxf.io/m5azgm)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Uninstall your Nvidia display driver
 
@@ -47,23 +47,19 @@ Here is how to uninstall your Nvidia display drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f0b245dd2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the Nvidia drivers crashing issue is resolved. If yes, then great! If the issue remains, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
 
@@ -87,10 +83,6 @@ Here is how to uninstall your Nvidia display drivers:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust Nvidia Control Panel settings
 
  Faulty settings on Nvidia Control Panel may also cause this Nvidia drivers crashing error. So you can disable Vertical sync and select the Maximum Performance for Power management to see if it fixes the problem.
@@ -101,27 +93,27 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In**View by** , choose**Large icons** . Then click**Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In Nvidia Control Panel, click**Manage 3D settings** , then in the right panel, choose**Prefer maximum performance** in Power management mode and**Off** for Vertical sync accordingly. Once done, click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-225.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Close the window.
 
 5) Check to see if the Nvidia drivers crashing issue is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable antivirus programs temporarily
 
@@ -130,6 +122,10 @@ Here is how to do it:
  If Nvidia stops crashing during the time the antivirus program is off, then the antivirus program is probably the culprit. You can disable it when you want to use Nvidia.
 
 If Nvidia still keeps crashing, please move on to Fix 5, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5:**Update DirectX**
 
@@ -164,6 +160,10 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -178,15 +178,15 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -223,24 +223,14 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-free-logo-blueprint-tailor-and-share-your-brand-identity/"><u>[Updated] Free Logo Blueprint Tailor and Share Your Brand Identity</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-5-best-ps2-emulator-for-ios/"><u>[Updated] In 2024, Top 5 Best PS2 Emulator for Ios</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-virtual-venue-vetting-picking-obs-or-twitch/"><u>[Updated] In 2024, Virtual Venue Vetting Picking OBS or Twitch</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-revenue-growth-strategies-for-makeup-bloggers/"><u>[Updated] Revenue Growth Strategies for Makeup Bloggers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-sounding-off-on-channel-titling-tips-from-experienced-filmmakers-for-2024/"><u>[Updated] Sounding Off on Channel Titling Tips From Experienced Filmmakers for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/corrected-unsupported-intelamd-drivers-within-adobe-premiere-pro/"><u>Corrected Unsupported Intel/AMD Drivers Within Adobe Premiere Pro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-logitech-g933-drivers-updated-guide/"><u>Download the Newest Logitech G933 Drivers - Updated Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-iphone-portable-storage-issues-overcoming-the-mtp-driver-challenge-on-windows-pcs/"><u>Fixing iPhone Portable Storage Issues - Overcoming the MTP Driver Challenge on Windows PCs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/githubs-most-effective-chatgpt-conversation-starters/"><u>GitHub’s Most Effective ChatGPT Conversation Starters</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hardware-error-bcm2omedian-device-unsupported/"><u>Hardware Error - BCM2omedian Device Unsupported</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27s-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y27s Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/razer-deadriver-on-windows-10-seamless-installation-guide/"><u>Razer DeaDriver on Windows 10: Seamless Installation Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revise-and-validate-inf-service-installation/"><u>Revise and Validate INF Service Installation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-the-top-to-bottom-problem-correcting-your-asus-laptops-inverted-videos/"><u>Solving the Top-to-Bottom Problem: Correcting Your ASUS Laptop's Inverted Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/to-do-so-by-cn-and-i-need-to-check2-is-not-foundations-of-an-image/"><u>To Do so by C: n; and I Need to Check_2 Is Not Foundations of an Image</u></a></li>
-<li><a href="https://fox-http.techidaily.com/transcription-made-simple-at-no-cost/"><u>Transcription Made Simple At No Cost</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-usb-errors-post-adb-interruption/"><u>Troubleshoot USB Errors Post ADB Interruption</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-accessing-safe-mode-and-cleaning-up-gpu-drivers-on-your-windows-8-device/"><u>Troubleshooting Tips: Accessing Safe Mode & Cleaning Up GPU Drivers on Your Windows 8 Device</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-cash-flow-of-creative-content-youtubers-earnings-per-sponsored-video-for-2024/"><u>[New] The Cash Flow of Creative Content Youtuber's Earnings per Sponsored Video for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-transforming-shipping-surprises-into-experiences-for-2024/"><u>[Updated] Transforming Shipping Surprises Into Experiences for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-digital-comedy-in-the-metaverse/"><u>2024 Approved Mastering the Art of Digital Comedy in the Metaverse</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-woes-for-lenovo-win11-resolution-revealed/"><u>Bluetooth Woes for Lenovo, Win11 Resolution Revealed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driving-machine-rejected-by-tech-device/"><u>Driving Machine Rejected by Tech Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortless-troubleshooting-for-itbm-driver-not-found-message/"><u>Effortless Troubleshooting for ITBm Driver Not Found Message</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/replica-di-un-supporto-usb-avviabile-da-un-altro-in-sistema-operativo-windows-7/"><u>Replica Di Un Supporto USB Avviabile Da Un Altro in Sistema Operativo Windows 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/syncing-sm-bus-controllers-on-windows-1011-platforms/"><u>Syncing SM Bus Controllers on Windows 10/11 Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-favourite-games-on-a-mac-with-these-essential-techniques/"><u>Upgrade Your Favourite Games on a Mac with These Essential Techniques</u></a></li>
 </ul></div>
 

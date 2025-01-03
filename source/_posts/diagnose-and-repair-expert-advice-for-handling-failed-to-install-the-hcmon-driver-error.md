@@ -1,7 +1,7 @@
 ---
 title: "Diagnose & Repair: Expert Advice for Handling 'Failed to Install the HCmon Driver' Error"
-date: 2024-11-10T21:14:12.031Z
-updated: 2024-11-14T18:36:39.996Z
+date: 2024-12-30T04:20:18.194Z
+updated: 2025-01-03T14:41:11.603Z
 tags:
   - win11
   - win10
@@ -19,9 +19,17 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 
  If you get error “Failed to install the hcmon driver” during installing the VMware products (vSphere, Remote Console, etc.),  don’t worry. You can fix the problem with one of the solutions in this article.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the HCMON driver?
 
  HCMON driver is a virtual USB driver. It allows your physical USB ports to connect to the virtual machines.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix this error?
 
@@ -61,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca0a63e05e5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca0a7166942.jpg)
@@ -75,10 +76,7 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 ##
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Remove the hcmon.sys driver
@@ -90,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
  2) Click**View** \>**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca0ccee9685.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Double-click**Non-Plug and Play Drivers.**
 
@@ -109,19 +111,6 @@ Try to install the product in PowerShell. Follow steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca0f0ca0506.png)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Go to the location where you saved the setup file. This is to get the msi name.
 
  3) Type**.\\xxxx.msi** in PowerShell command prompt and press**Enter** on your keyboard. XXXX means the name of msi file. Replace it with your msi file name.
@@ -131,22 +120,12 @@ In my case, my file is “VMware-VMRC-10.0.1-5898794”:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca1311509ab.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 So I typed “.\\VMware-VMRC-10.0.1-5898794.msi”:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ca13ea65f0f.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##
 
@@ -174,20 +153,22 @@ So I typed “.\\VMware-VMRC-10.0.1-5898794.msi”:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-captivate-with-these-14-astonishing-text-animations/"><u>[New] Captivate with These 14 Astonishing Text Animations</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-guide-shifting-your-profile-picture-on-global-platforms/"><u>[New] The Ultimate Guide Shifting Your Profile Picture on Global Platforms</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-heres-how-you-can-ace-the-tiktok-photo-editing-hacks/"><u>[Updated] Here’s How You Can Ace the TikTok Photo Editing Hacks</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-what-do-podcast-producers-really-make/"><u>[Updated] In 2024, What Do Podcast Producers Really Make?</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-selecting-the-best-the-top-5-fpv-goggles-list-for-2024/"><u>[Updated] Selecting the Best The Top 5 FPV Goggles List for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/devmgr-error-code-48-addressed/"><u>DevMgr: Error Code 48 Addressed</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-14-pro-to-chromecast-drfone-by-drfone-ios/"><u>How to Cast Apple iPhone 14 Pro to Chromecast? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-hands-free-tricks-capturing-gotomeetings-on-the-fly/"><u>In 2024, Hands-Free Tricks Capturing GoToMeetings on the Fly</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-transforming-vocal-landscapes-a-methodical-approach-to-swapping-video-audio-tracks-part-1/"><u>In 2024, Transforming Vocal Landscapes A Methodical Approach to Swapping Video Audio Tracks (Part 1)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-intermittent-asus-webcam-on-win11-platform/"><u>Resolved Intermittent ASUS Webcam on Win11 Platform</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-the-windows-10-co-processor-driver-not-found-problem-with-ease-an-in-depth-guide/"><u>Solving the 'Windows 10 Co-Processor Driver Not Found' Problem with Ease: An In-Depth Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-the-no-drivers-problem-compatible-devices-and-windows-versions-10-8-7/"><u>Solving the No-Drivers Problem: Compatible Devices & Windows Versions (10, 8, 7)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-dolby-digital-playback-problems-in-windows-11-how-to-get-your-sound-working-again/"><u>Troubleshooting Dolby Digital Playback Problems in Windows 11 – How To Get Your Sound Working Again</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-and-gtx-950-code-43-error-a-detailed-guide-to-finding-a-solution/"><u>Windows 11 and GTX 950 Code 43 Error: A Detailed Guide to Finding a Solution</u></a></li>
-<li><a href="https://driver-error.techidaily.com/xbox-one-controller-unresponsive-to-windows-10-home-resolved/"><u>Xbox One Controller Unresponsive to Windows 10 Home [Resolved]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-15-color-grading-plugins-for-action-cam-video/"><u>[New] Ultimate 15 Color Grading Plugins for Action Cam Video</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-essential-iphoneside-by-side-guide-for-fb-sharing/"><u>2024 Approved The Essential iPhoneside by Side Guide for FB Sharing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unlocking-creative-expression-tips-for-sharing-gifs-on-snapchat/"><u>2024 Approved Unlocking Creative Expression Tips for Sharing GIFs on Snapchat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-key-factors-that-make-artificial-intelligence-chatbots-unsuitable-alternatives-for-content-creators/"><u>7 Key Factors That Make Artificial Intelligence Chatbots Unsuitable Alternatives for Content Creators</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-geforce-gtx-1070-driver-issue-on-windows-10-solved/"><u>Fix GeForce GTX 1070 Driver Issue on Windows 10 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-how-to-restore-a-missing-coprocessor-driver-in-windows-10/"><u>Fix Guide: How to Restore a Missing Coprocessor Driver in Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-sony-xperia-1-v-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Sony Xperia 1 V Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/get-mobile-os-downloadable-samsung-driver-for-windows/"><u>Get Mobile OS: Downloadable Samsung Driver for Windows</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-ensure-proper-video-display-orientation-on-an-asus-computer-system/"><u>How To Ensure Proper Video Display Orientation on an Asus Computer System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-restore-functionality-of-a-non-responsive-hp-bluetooth-keyboard/"><u>How to Restore Functionality of a Non-Responsive HP Bluetooth Keyboard</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailored-video-epilogue-templates-available-free/"><u>In 2024, Tailored Video Epilogue Templates Available Free</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/should-you-go-for-chatgpt-plus-here-are-5-convincing-arguments-to-get-you-subscribed/"><u>Should You Go for ChatGPT Plus? Here Are 5 Convincing Arguments to Get You Subscribed.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-the-windows-10-missing-cpu-co-processor-drivers-issue/"><u>Step-by-Step Solution for the 'Windows 10 Missing CPU Co-Processor Drivers' Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-success-rectifying-elan-pad-problems/"><u>Win11 Success: Rectifying Elan Pad Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wudfrd-not-functioning-device-event-id-219/"><u>WudfRd Not Functioning - Device Event ID 219</u></a></li>
 </ul></div>
 

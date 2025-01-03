@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for When Your Computer Ignores the Latest Plugged-In USB
-date: 2024-12-19T04:43:06.135Z
-updated: 2024-12-24T16:09:11.653Z
+date: 2025-01-01T17:21:20.580Z
+updated: 2025-01-03T13:09:59.484Z
 tags:
   - win11
   - win10
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 
  making it impossible for you to do whatever you want to do, you’re not alone. Many Windows 10 users are reporting this as well. But no worries, this problem is not that hard to fix at all. If you’re not interested in the cause of this problem, jump ahead to the [fixes](https://uperfect.sjv.io/g1jgba) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why would I see this problem?
 
  The exact cause to this problem varies on different combinations of computer environments. It could be caused by malfunctioned USB ports, USB controllers bugs, or outdated, missing or faulty USB ports.
 
  As mentioned, the exact cause could be very different in different situations, but there are some general resolutions that you should try before you turn to technicians. And one of the solutions below is bound to fix the problem for you. No worries, we’ve got you covered.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How can I fix it?
 
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
  Method 3: [**Disable USB selective suspend settings**](https://exvist.pxf.io/dkpnky)
  Method 4:[](https://homestyler.sjv.io/y209g3) [**Re-enable USB controller driver**](https://bluettifr.pxf.io/bax2bv)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Try another USB port
 
  If you are with a desktop, try to connect your USB device to your computer via the USB ports at the back of your computer case. The USB ports at the back usually have stronger electricity power coming through, which will allow a more stable power supply to your USB device.
@@ -51,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
  If you are with a laptop, try unplugging your USB device from its current port and plug it into a different one. Try not to use any USB hubs.
 
  If your problem stops here, the USB port might be at fault, not your USB flash drive. Try to avoid using the same port next time, in case similar problem happens again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Update all possible device drivers
 
@@ -66,15 +74,15 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37710b44342.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged drivers to automatically download and install the correct versions (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the [**Pro**](https://tools.techidaily.com/drivereasy/download/) version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37721186152.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) You need to restart your PC for the updated drivers to work properly. Check if your USB device is recognized now.
 
@@ -90,29 +98,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377758f2bdc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Change plan settings** next to the plan option you’re having now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3777c0a811b.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377814e701a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click to expand**USB settings** and**USB selective suspend setting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3778a48905d.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Select**Disabled** from the drop-down option. Then click**Apply** and**OK** to save the change.
 
@@ -144,13 +144,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37894943164.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3.1.2) Click**Uninstall** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37895fbce37.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3.1.3) When the uninstall finishes, restart your computer. Then repeat the same procedure with the rest of the USB controllers marked by yellow exclamation marks or question marks one by one.
 
@@ -160,13 +160,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e629ee28.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3.2.3) When the disable finishes, restart your PC. Repeat the same procedure as above, and if your USB controller driver is not enabled automatically, right-click it and click**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e29c15b5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Your USB device should be recognized now.
 
@@ -187,24 +187,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-tactical-choices-for-future-cameras-2024/"><u>[New] Top Tactical Choices for Future Cameras, 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-iphone-screen-casts-with-ease/"><u>[Updated] 2024 Approved Mastering iPhone Screen Casts with Ease</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-boosting-popularity-on-tiktok-top-7-essential-apps-and-strategies/"><u>[Updated] In 2024, Boosting Popularity on TikTok Top 7 Essential Apps & Strategies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/choosing-between-ipad-pro-and-macbook-air-a-complete-guide-on-which-tabletlaptop-fits-you-best-tech-analysis/"><u>Choosing Between iPad Pro and MacBook Air: A Complete Guide on Which Tablet/Laptop Fits You Best Tech Analysis</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/crafting-content-12-best-for-insta-edits/"><u>Crafting Content 12 Best for Insta Edits</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ats-unleashed-high-fidelity-templates-downloaded-easily/"><u>DJ Beats Unleashed High-Fidelity Templates Downloaded Easily</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ensuring-reliable-sm-bus-driver-on-windows-1011/"><u>Ensuring Reliable SM Bus Driver on Windows 10/11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-usb-code-43-error-easily-with-pictures/"><u>Fix USB Code 43 Error Easily [with Pictures]</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-isolated-viewers-to-shared-experiences-online/"><u>In 2024, From Isolated Viewers to Shared Experiences Online</u></a></li>
-<li><a href="https://driver-error.techidaily.com/name-hunt-opengl-support-in-intel-graphics-cards/"><u>Name Hunt: OpenGL Support in Intel Graphics Cards</u></a></li>
-<li><a href="https://howto.techidaily.com/oppo-find-n3-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-solutions-for-when-your-qualcomm-atheros-bluetooth-wont-connect-on-windows-10-guide/"><u>Quick Solutions for When Your Qualcomm Atheros Bluetooth Won't Connect on Windows 10 [Guide]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/remedy-for-unidentified-usb-gadgets-on-windows-78/"><u>Remedy for Unidentified USB Gadgets on Windows 7/8</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resource-saturation-a-usage-dilemma/"><u>Resource Saturation: A Usage Dilemma</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/troubleshooting-connection-issues-how-to-fix-your-printers-failure-to-link-with-devices-tips-from-yl-computing/"><u>Troubleshooting Connection Issues: How to Fix Your Printer's Failure to Link with Devices - Tips From YL Computing</u></a></li>
-<li><a href="https://driver-error.techidaily.com/vehicle-unloading-barred-by-tech/"><u>Vehicle Unloading Barred by Tech</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-printer-works-driver-now-installed/"><u>Win Printer Works: Driver Now Installed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-install-realtek-ethernet-driver-error-resolved/"><u>Win11 Install: Realtek Ethernet Driver Error Resolved</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/prostejshij-sposob-klonirovaniya-ssd-na-bolee-krupnyj-v-sisteme-windows-1011/"><u>Простейший Способ Клонирования SSD На Более Крупный В Системе Windows 10/11</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-captivating-creators-pioneering-bio-ideas-that-triple-your-follower-count-on-tiktok-filmora-for-2024/"><u>[Updated] Captivating Creators Pioneering Bio Ideas that Triple Your Follower Count on TikTok-Filmora for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-selecting-the-best-mac-sniping-solutions/"><u>[Updated] In 2024, Selecting the Best Mac Sniping Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-xiaomi-redmi-note-12-proplus-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Xiaomi Redmi Note 12 Pro+ 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-windows-non-responsive-enter-issue/"><u>Addressing Windows Non-Responsive Enter Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/configuring-windows-10-to-disconnect-touchpad-with-usb-mouse-connection/"><u>Configuring Windows 10 to Disconnect Touchpad with USB Mouse Connection</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enabling-hardware-detection-for-seagate-external/"><u>Enabling Hardware Detection for Seagate External</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-affordable-fixes-for-the-latest-iphone-model-say-hello-to-the-15-pro-deals/"><u>Get Affordable Fixes for the Latest iPhone Model: Say Hello to the 15 Pro Deals!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-the-art-of-correcting-bcm2045a0-driver-glitches-quick-fix-strategies-revealed/"><u>Master the Art of Correcting BCM20#45A0 Driver Glitches: Quick Fix Strategies Revealed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reinstating-your-touchpad-driver-recovery-unveiled/"><u>Reinstating Your Touchpad - Driver Recovery Unveiled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-disappearing-optical-drives-on-win11/"><u>Solve Disappearing Optical Drives on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-recurring-amd-glitches-rapidly/"><u>Solve Recurring AMD Glitches Rapidly</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-eliminating-a-virtual-machine-in-vmware/"><u>Step-by-Step Guide: Eliminating a Virtual Machine in VMWare</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-the-radeon-wattman-defaults-crash-recovery-expert-solutions/"><u>Troubleshooting the 'Radeon WattMan Defaults Crash Recovery': Expert Solutions</u></a></li>
 </ul></div>
 

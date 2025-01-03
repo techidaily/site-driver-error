@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Silent Illumination Issue - Asus"
-date: 2024-11-13T20:46:33.069Z
-updated: 2024-11-14T20:24:00.822Z
+date: 2025-01-01T01:19:34.267Z
+updated: 2025-01-03T06:47:01.650Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/1df433206ff11dec7faaaf54cae7b4a5f98f51a6c
 
  If you find your**ASUS keyboard backlight not working** , please rest assured that you’re not alone. Just follow this tutorial step by step and you’ll easily get the problem fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 Ways to fix the ASUS keyboard backlight not working
 
  Here are two ways that have proved useful to other ASUS users. You don’t have to try them all; just work your way from the top down until you find the one that works for you.
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/1df433206ff11dec7faaaf54cae7b4a5f98f51a6c
 **[Way 2: Download and install the latest drivers](https://turbotech.pxf.io/pyx4je)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Way 1: Start the HControl.exe** program
 
@@ -37,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/1df433206ff11dec7faaaf54cae7b4a5f98f51a6c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-53.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, on your keyboard, press**Fn** and**F4** at the same time to test if the backlight of your keyboard can be turned on.
 
  If you cannot navigate to this program, then perhaps your ATK package is installed in another folder. In this case, you should search for “ATK Package” in File Explorer until you find Hcontrol.exe in a folder named ATK Hotkey.  
@@ -47,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/1df433206ff11dec7faaaf54cae7b4a5f98f51a6c
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Way 2: Download and install the latest drivers**
@@ -75,13 +84,6 @@ OR
 2. On the pop-up page, enter the model name of your laptop to search for its drivers. If you don’t know its exact model, then try to select a product from the given list. After that, hit**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-48.png)
 3. On the next page, select your Windows version. Then you’ll be greeted with a list of drivers and programs available for download.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-25-19.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Scroll through the list until you find the following two drivers:**Smart Gesture** driver and**ATK Package** driver. Then, click on the**DOWNLOAD** button next to each driver.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-31-49.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-45-12.jpg)
 5. Wait till the download process is complete. The two downloaded files are compressed, so you need to extract them to a desired location.
 
@@ -103,17 +105,7 @@ OR
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the ATK Package driver for now, simply click the **Update**  button next to it. ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_19-15-46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -142,14 +134,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-seamless-obs-zoom-connection-step-by-step/"><u>[New] In 2024, Seamless OBS-Zoom Connection Step-by-Step</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-avoid-common-pitfalls-in-ppt-recording-for-2024/"><u>[Updated] Avoid Common Pitfalls in PPT Recording for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-muting-problem-solutions-for-obs-sound-capture-for-2024/"><u>[Updated] Muting Problem Solutions for OBS Sound Capture for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ax201-wi-fi-6ax201-initialization-errors-solved/"><u>AX201: Wi-Fi 6Ax201 Initialization Errors Solved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-unresponsive-windows-10-a-step-by-step-guide/"><u>Bluetooth Unresponsive – Windows 10: A Step by Step Guide!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-sound-issues-turtle-beach-elite-atlas-mic-failure-guide/"><u>Diagnosing and Solving Sound Issues: Turtle Beach Elite Atlas Mic Failure Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-code-43-error-on-your-gtx-950-under-windows-10-detailed-guide/"><u>Fixing the Code 43 Error on Your GTX 950 Under Windows 10 [Detailed Guide]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-apple-watch-straps-comprehensive-reviews-by-industry-experts-featured/"><u>Top-Rated Apple Watch Straps : Comprehensive Reviews by Industry Experts - Featured</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-resolving-driver-installation-unrecognized-on-your-pc/"><u>Troubleshooting Steps: Resolving 'Driver Installation Unrecognized on Your PC'</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-elevating-listeners-interest-writing-podcast-summaries-for-2024/"><u>[New] Elevating Listeners' Interest Writing Podcast Summaries for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-tackling-tricky-feed-issues-hidden-youtubefacebook-videos/"><u>[Updated] In 2024, Tackling Tricky Feed Issues Hidden YouTube/Facebook Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unleashing-creativity-crafting-compelling-fb-video-campaigns/"><u>[Updated] In 2024, Unleashing Creativity Crafting Compelling FB Video Campaigns</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-friends-evaporation-identify-now-for-2024/"><u>[Updated] Instagram Friends Evaporation Identify Now for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-discontinues-finewoven-products-launches-partnership-with-beats-headphones-case-collection/"><u>Apple Discontinues FineWoven Products, Launches Partnership with Beats Headphones Case Collection</u></a></li>
+<li><a href="https://fox-access.techidaily.com/combining-audio-and-screens-apples-mix/"><u>Combining Audio & Screens Apple's Mix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-update-memory-controllers-stopped-crashing/"><u>Driver Update: Memory Controllers Stopped Crashing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driving-windows-home-smoothly-with-ndis-tips/"><u>Driving Windows Home Smoothly with NDIS Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/happiness-unplugs-wacom-gadgets-united/"><u>Happiness Unplugs: Wacom Gadgets United</u></a></li>
+<li><a href="https://driver-error.techidaily.com/in-depth-analysis-and-fixes-for-failed-to-initialize-battleye-service-with-driver-error-1450/"><u>In Depth Analysis and Fixes for 'Failed to Initialize BattlEye Service' With Driver Error 1450</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-y100i-power-5g-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Y100i Power 5G.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-constant-amd-drivers-problems/"><u>Resolve Constant AMD Drivers Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-navigation-a-win10-update/"><u>Seamless Navigation: A Win10 Update</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-v29e-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from V29e</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-to-preserve-chatgpt-discussions/"><u>Strategies to Preserve ChatGPT Discussions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-fix-for-a-missing-intel-xeon-coprocessor-driver-on-windows-10-tutorial/"><u>The Ultimate Fix for a Missing Intel Xeon Coprocessor Driver on Windows 10: Tutorial</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-infinix-hot-40-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Infinix Hot 40 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://driver-error.techidaily.com/upside-down-vision-no-more-troubleshooting-screen-orientation-for-asus-computers/"><u>Upside Down Vision No More: Troubleshooting Screen Orientation for ASUS Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wacom-the-tablet-driver-is-not-running-solved/"><u>Wacom The Tablet Driver Is Not Running [SOLVED]</u></a></li>
 </ul></div>
 

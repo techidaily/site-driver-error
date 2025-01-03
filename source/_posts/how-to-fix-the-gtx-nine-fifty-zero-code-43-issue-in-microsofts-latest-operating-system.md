@@ -1,7 +1,7 @@
 ---
 title: How to Fix the GTX Nine-Fifty Zero 'Code 43' Issue in Microsoft's Latest Operating System
-date: 2024-12-21T07:45:27.760Z
-updated: 2024-12-25T04:49:43.575Z
+date: 2024-12-28T05:04:04.796Z
+updated: 2025-01-03T02:25:00.054Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** .
@@ -51,11 +47,19 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
 
@@ -66,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded.
 
@@ -93,27 +93,31 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Option 2: Update Windows 10**
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Check for updates** button to see if there are any new updates available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) If new updates are available, just download and then update them as instructed.
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see.
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 4: Reinstall Windows 10**
 
@@ -155,19 +155,24 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-audiences-favorite-top-action-recording-tools/"><u>[New] In 2024, Audience's Favorite Top Action Recording Tools</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-error-code-devhub-48/"><u>[SOLVED] Error Code - DevHub 48</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-8-best-converters-bringing-your-subs-into-srt-format/"><u>[Updated] In 2024, 8 Best Converters Bringing Your Subs Into SRT Format</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comparacion-detallada-entre-dvds-blu-rays-y-almacenamiento-digital-que-opcion-vale-la-pena-comprar/"><u>Comparación Detallada Entre DVDs, Blu-Rays Y Almacenamiento Digital: ¿Qué Opción Vale La Pena Comprar?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-walkthrough-uninstalling-graphics-driver-in-safe-mode-on-window-8-systems/"><u>Comprehensive Walkthrough: Uninstalling Graphics Driver in Safe Mode on Window 8 Systems</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/decoding-the-magic-of-dynamic-range-capture/"><u>Decoding the Magic of Dynamic Range Capture</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/disponibilidad-inmediata-descargar-el-codificador-de-hardware-y-software-para-av1/"><u>Disponibilidad Inmediata: Descargar El Codificador De Hardware Y Software Para AV1</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-s23-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Itel S23 Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x9a-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor X9a Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-your-graphics-settings-default-radeon-wattman-stability-achieved/"><u>Mastering Your Graphics Settings: Default Radeon Wattman Stability Achieved</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/maximize-watch-time-minimize-leaving-6-key-tactics-to-retain-more-audience-for-2024/"><u>Maximize Watch Time, Minimize Leaving 6 Key Tactics to Retain More Audience for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-hub-error-48/"><u>Resolved Hub Error #48</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-best-visual-voicemail-software-2024-rankings/"><u>The Ultimate List of Best Visual Voicemail Software - 2024 Rankings</u></a></li>
-<li><a href="https://driver-error.techidaily.com/universal-pc-card-drivers-for-windows-series/"><u>Universal PC Card Drivers for Windows Series</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-pioneering-tools-top-5-cloud-based-videography-platforms/"><u>[Updated] 2024 Approved Pioneering Tools Top 5 Cloud-Based Videography Platforms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-prime-picks-easy-youtube-template-downloads/"><u>[Updated] In 2024, Prime Picks Easy YouTube Template Downloads</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtube-tv-everything-you-need-to-know/"><u>[Updated] In 2024, YouTube TV - Everything You Need to Know</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-c53-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme C53 Unlock Without Password</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-non-recognized-usb-in-older-windows-systems/"><u>Addressing Non-Recognized USB in Older Windows Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-never-turns-off-on-windows-11-fix/"><u>Bluetooth Never Turns Off on Windows 11 [Fix]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-guide-correcting-issues-with-installing-hcmondriver-drivers-efficiently/"><u>Comprehensive Guide: Correcting Issues with Installing Hcmondriver Drivers Efficiently</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/decoding-the-mechanics-of-obtaining-facebooks-badge-of-trust-for-2024/"><u>Decoding the Mechanics of Obtaining Facebook's Badge of Trust for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-steps-to-repairing-a-malfunctioning-computer-or-device/"><u>Expert Guide: Steps to Repairing a Malfunctioning Computer or Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-computing-with-toms-gadget-guide/"><u>Exploring the World of Computing with Tom's Gadget Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fault-alarm-ideport0-system-disturbance/"><u>Fault Alarm: Ideport0 System Disturbance</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-adjust-and-fix-sideways-video-display-errors-in-asus-systems/"><u>How to Adjust and Fix Sideways Video Display Errors in ASUS Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-se-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone SE Lock Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconnecting-bluetooth-disappeared-from-devices-hub/"><u>Reconnecting: Bluetooth Disappeared From Devices Hub</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-windows-11-error-missing-hardware-acceleration-coprocessor-driver/"><u>Resolving the Windows 11 Error: Missing Hardware Acceleration Coprocessor Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unavailable-driver-error-bcm20702a0/"><u>Unavailable Driver Error - BCM20702A0</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-meets-lenovo-bluetooth-driver-fix-explained/"><u>Win11 Meets Lenovo: Bluetooth Driver Fix Explained</u></a></li>
 </ul></div>
 

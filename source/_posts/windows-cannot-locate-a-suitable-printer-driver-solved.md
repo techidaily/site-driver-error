@@ -1,7 +1,7 @@
 ---
 title: Windows Cannot Locate a Suitable Printer Driver [SOLVED]
-date: 2024-12-23T00:56:00.973Z
-updated: 2024-12-24T19:34:18.488Z
+date: 2024-12-28T10:52:25.856Z
+updated: 2025-01-03T11:59:23.171Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
  Keep getting a**Windows cannot locate a suitable printer driver** error message? Don’t worry – it’s often quite easy to fix…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for **Windows cannot locate a suitable printer driver**
 
  Here are 2 ways that have helped other users resolved the Windows cannot locate a suitable printer driver problem.Just work your way down the list until the problem is resolved.
@@ -25,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 2. **[Set printer share permissions](https://engwe.pxf.io/jrkzrn)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 1: Update your printer driver**
 
@@ -44,21 +44,17 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd27a3449c1f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd27b9a107e9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4)**Restart** your computer and see if the **Windows cannot locate a suitable printer driver**  problem has been solved. If yes, then great! But if the error still pops up, you should try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: Set printer share permissions**
 
@@ -82,11 +78,11 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af6658ae1882.jpg)
 3. Click the**Sharing** tab, tick the box that says **Share this printer** , click **Apply** \->   **OK.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af922bdb75cb.png)**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Make sure you do steps 4-6 on**EVERY** computer that needs access to the printer.
 4. On your keyboard, press **the Windows logo key** and **R**  at the same time. Then copy & paste **control /name Microsoft.NetworkAndSharingCenter** into the box and click **OK**  .  
@@ -96,11 +92,15 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af66a50e9add.jpg)
 6. Under**Guest or Public (current profile)** , click the**Turn on network discovery** option and the **Turn on file and printer sharing** option. Click **Save changes**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af66bb7aee19.jpg)
 7. Restart your computer and check if the**Windows cannot locate a suitable printer driver** issue has been fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -125,15 +125,22 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-brain-snatching-battlegrounds-the-best-zombie-gaming-showdowns/"><u>[New] Brain-Snatching Battlegrounds The Best Zombie Gaming Showdowns</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/reaking-personal-barriers-in-yt-content-creation/"><u>[New] Breaking Personal Barriers in YT Content Creation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-creating-a-clickable-thumbnail-enhancing-video-visibility-without-costs/"><u>[Updated] Creating a Clickable Thumbnail Enhancing Video Visibility without Costs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ishowu-audio-capture-download-and-review/"><u>[Updated] In 2024, IShowU Audio Capture Download and Review</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-samsung-galaxy-f54-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung Galaxy F54 5G FRP</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hd-drivers-win11-success-story/"><u>HD Drivers: Win11 Success Story</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-your-latest-cam-recognition-issue-post-windows-10-update-solutions-found-fixed/"><u>How to Fix Your Latest Cam Recognition Issue Post Windows 10 Update - Solutions Found [Fixed]</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone 15 Pro</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-drive-operation-anomaly/"><u>Resolved Drive Operation Anomaly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tweak-pointer-efficiency-for-dell-windows/"><u>Tweak Pointer Efficiency for Dell (Windows)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-8-best-wedding-videos-on-youtube-and-vimeo/"><u>[New] 2024 Approved 8 Best Wedding Videos on YouTube and Vimeo</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-basic-to-breakthrough-content-crafting-the-top-10-simplest-youtube-projects/"><u>[New] 2024 Approved Basic to Breakthrough Content Crafting the Top 10 Simplest YouTube Projects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-advanced-ai-voice-to-text-apps/"><u>[Updated] 2024 Approved Advanced AI Voice to Text Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-visionary-views-top-tweets-bypassing-the-screen/"><u>[Updated] In 2024, Visionary Views Top Tweets Bypassing the Screen</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-spectrum-of-virtuality-from-meta-to-omniverse-explored-for-2024/"><u>[Updated] The Spectrum of Virtuality From Meta to Omniverse Explored for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-spy-on-fb-chronicles-unseen/"><u>2024 Approved Spy on FB Chronicles, Unseen</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-incompatibility-alerts-unsupported-hard-devices-on-idt-software-platforms/"><u>Fix Incompatibility Alerts: Unsupported Hard Devices on IDT Software Platforms</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/high-resolution-milky-way-image-ultra-hd-1920x1080-background-for-pc-and-mac-superior-wallpapers-collection-by-yl-computing/"><u>High-Resolution Milky Way Image - Ultra HD 1920X1080 Background for PC & Mac – Superior Wallpapers Collection by YL Computing</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-navigate-video-landscape-3-pros-of-using-zoom-altering-tools/"><u>In 2024, Navigate Video Landscape 3 Pros of Using Zoom Altering Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lenovos-blue-tooth-troubles-win11-remedied-strategies/"><u>Lenovo's Blue-Tooth Troubles, Win11 Remedied Strategies</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-win-strategies-for-windows-ndis-issues/"><u>Quick-Win Strategies for Windows NDIS Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-errors-in-the-configuration-segment-for-services/"><u>Resolving Errors in the Configuration Segment for Services</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-barred-from-using-win10s-graphics-hardware/"><u>System Barred From Using Win10's Graphics Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-call-issue-with-io-controller-over/"><u>System Call Issue with I/O Controller Over</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-5-kid-friendly-flying-toys-for-2024/"><u>Top 5 Kid-Friendly Flying Toys for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-sideways-videos-a-guide-to-adjusting-orientation-on-asus-pcs/"><u>Troubleshooting Sideways Videos: A Guide to Adjusting Orientation on ASUS PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-for-recovering-from-default-radeon-wattman-setup-errors/"><u>Troubleshooting Tips for Recovering From Default Radeon Wattman Setup Errors</u></a></li>
 </ul></div>
 

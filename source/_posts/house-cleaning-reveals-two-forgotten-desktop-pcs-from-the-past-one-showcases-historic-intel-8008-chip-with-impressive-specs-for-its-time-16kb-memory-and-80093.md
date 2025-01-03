@@ -1,7 +1,7 @@
 ---
 title: "House Cleaning Reveals Two Forgotten Desktop PCs From the Past: One Showcases Historic Intel 8008 Chip with Impressive Specs for Its Time (16KB Memory and 800 kHz CPU)"
-date: 2024-10-23T19:19:20.962Z
-updated: 2024-10-29T18:31:46.083Z
+date: 2024-12-31T21:40:06.106Z
+updated: 2025-01-03T02:36:02.149Z
 tags:
   - desktop
 categories:
@@ -29,6 +29,10 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,24 +56,20 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-premium-pfr-rate-for-easy-going-footage/"><u>[New] Premium PFR Rate for Easy-Going Footage</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-samsungs-gaming-memories-record-and-reveal/"><u>[New] Samsung's Gaming Memories Record and Reveal</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-ice-and-velocity-memorable-moments-from-the-winter-olympics-snowboard-race-for-2024/"><u>[Updated] Ice & Velocity Memorable Moments From the Winter Olympics Snowboard Race for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-top-10-best-flvto-alternatives-youtube-converter-you-can-try-for-2024/"><u>[Updated] Top 10 Best Flvto Alternatives YouTube Converter You Can Try for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enhanced-connectivity-asus-webcam-on-windows-10-revamped/"><u>Enhanced Connectivity: ASUS Webcam on Windows 10 Revamped</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-your-unresponsive-pclaptop-keys-a-simple-guide-article-title-how-to-guide-tech-talker406-chars/"><u>Fix Your Unresponsive PC/Laptop Keys: A Simple Guide (Article Title) – How-To Guide | Tech Talker—406 Chars</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphics-fix-resolving-installation-issues/"><u>Graphics Fix: Resolving Installation Issues</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/hero5-black-meets-hero5-session-a-visual-verdict-for-2024/"><u>Hero5 Black Meets Hero5 Session – A Visual Verdict for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/precision-in-recordings-discover-the-best-10-free-slack-apps-for-2024/"><u>Precision in Recordings Discover the Best 10 Free Slack Apps for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721098381909-reinstall-directx-9-and-related-components/"><u>Reinstall DirectX 9 and Related Components</u></a></li>
-<li><a href="https://driver-error.techidaily.com/seagate-external-hard-drive-not-showing-up-on-windows-10-solved/"><u>Seagate External Hard Drive Not Showing Up on Windows 10 [Solved]</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-simplified-conversion-strategies-for-xml-ssa-and-ttml-into-srt/"><u>[Updated] Simplified Conversion Strategies for XML, SSA & TTML Into SRT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-foremost-20-anime-music-opener-list/"><u>2024 Approved Foremost 20 Anime Music Opener List</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disappearing-cds-troubleshoot-for-windows-users/"><u>Disappearing CDs: Troubleshoot for Windows Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-download-and-update-the-right-drivers-for-your-hp-envy-20-laptopdesktop/"><u>Easy Steps to Download & Update the Right Drivers for Your HP ENVY 20 Laptop/Desktop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gpu-lens-peering-into-microsofts-bda/"><u>GPU Lens: Peering Into Microsoft's BDA</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-fix-top-bottom-flipped-videos-when-watching-on-an-asus-laptop-or-desktop/"><u>Guide to Fix Top-Bottom Flipped Videos When Watching on an ASUS Laptop or Desktop</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/innovative-recording-methods-windows-10-guide-for-2024/"><u>Innovative Recording Methods Windows 10 Guide for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/microsoft-video-editor-tutorial-simplify-your-video-editing-experience/"><u>Microsoft Video Editor Tutorial Simplify Your Video Editing Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-disappearing-pc-data-collectors/"><u>Resolve Disappearing PC Data Collectors</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/revolutionizing-photos-through-automated-hdr-techniques/"><u>Revolutionizing Photos Through Automated HDR Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-fixing-your-malfunctioning-computer-using-chatgpt/"><u>Step-by-Step Guide: Fixing Your Malfunctioning Computer Using ChatGPT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/taskbar-alert-managing-full-disk-on-win1110/"><u>Taskbar Alert: Managing Full Disk on Win11/10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-essence-of-embracing-electric-automobiles-in-modern-times/"><u>The Essence of Embracing Electric Automobiles in Modern Times</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-os-now-compatible-with-hardware/"><u>Win OS Now Compatible with Hardware</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

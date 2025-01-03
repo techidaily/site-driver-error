@@ -1,7 +1,7 @@
 ---
 title: Overcoming Device Manager Software Glitches
-date: 2024-11-13T01:59:47.913Z
-updated: 2024-11-14T17:19:11.909Z
+date: 2025-01-02T09:41:29.218Z
+updated: 2025-01-03T06:02:41.398Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ You can update the drivers through manager. Follow these steps:
 
  Windows may not provide the latest driver for the device. If this way doesn’t work for you, you can use [Method 2](https://zebaoaffiliateprogram.pxf.io/xkwqe1) or [Method 3](https://printrendy.pxf.io/xyboy5) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 2: Update the Base System Device driver manually**
 
  Usually, you can go to the device manufacturer’s website or the PC manufacturer’s website to download the latest driver. But for Base System Device, it is impossible to know what the specific device is. The good news is you can get its device name and its vendor name to determine what it is.
@@ -51,33 +55,31 @@ You can update the drivers through manager. Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785dc645de0d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Details** tab, then select**Hardware Ids** from the drop-down menu of**Property** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785de836c928.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) The Hardware Id Value should be like follows. The VEN code means vendor and the DEV code means device. (In the example below, the VEN code is 15AD and the device is 0740.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785df1376590.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Go to [https://pci-ids.ucw.cz/.](https://pci-ids.ucw.cz/) Then you can use the VEN code and the DEV code to figure out what the Base System Device stands for.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56e54a4e7b7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) After you figure out what the device is, you can go to the PC manufacturer’s website or the device manufacturer’s website to download the driver. It’s recommended to go to the PC manufacturer’s website first, as they may customize the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 3: Update the Base System Device driver automatically**
 
@@ -94,23 +96,13 @@ You can update the drivers through manager. Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_all_ the drivers.  
  (You can upgrade to the [Pro version](https://tools.techidaily.com/drivereasy/download/) right now with a discount, or activate the 7-day free trial version. With the trial version, you will have access to_all features_ of the Pro version such as high-speed download and one-click install. You won’t be charged before your 7-day trial ends and you can easily cancel any time during the trial period.)
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/graphic-chipset.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) After updating the driver, check to see if you still see the yellow mark in Device Manager.
 
@@ -134,24 +126,16 @@ You can update the drivers through manager. Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/alert-wireless-mouse-error-no-signal-detected/"><u>[Alert] Wireless Mouse Error - No Signal Detected</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-ambiance-with-thoughtful-lighting/"><u>[New] In 2024, Harnessing Ambiance with Thoughtful Lighting</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-power-of-niche-hashtags-for-targeted-instagram-reach/"><u>[New] In 2024, The Power of Niche Hashtags for Targeted Instagram Reach</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-pro-level-comparison-2022s-gopro-hero5-and-virb-streamers-for-2024/"><u>[New] Pro-Level Comparison 2022'S GoPro Hero5 & VIRB Streamers for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1715860022818-new-the-ultimate-cut-for-quality-offline-ipad-gaming/"><u>[New] The Ultimate Cut for Quality Offline iPad Gaming!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-your-content-potential-best-ideas-for-youtube-themes/"><u>[New] Unlock Your Content Potential Best Ideas for YouTube Themes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-asus-keyboard-backlight-not-working/"><u>[SOLVED] ASUS Keyboard Backlight Not Working</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-deepening-ties-techniques-for-meaningful-youtube-dialogue-for-2024/"><u>[Updated] Deepening Ties Techniques for Meaningful YouTube Dialogue for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-excellent-collection-top-webcam-grips-and-mounts/"><u>[Updated] Excellent Collection Top Webcam Grips & Mounts</u></a></li>
-<li><a href="https://driver-error.techidaily.com/complete-step-by-step-instructions-on-driver-management-for-the-hp-envy-20-computer-model/"><u>Complete Step-by-Step Instructions on Driver Management for the HP ENVY 20 Computer Model</u></a></li>
-<li><a href="https://driver-error.techidaily.com/defeating-the-gtx-groove-error-code-43-on-your-windows-10-pc-solutions-unveiled/"><u>Defeating the GTX Groove Error Code 43 on Your Windows 10 PC – Solutions Unveiled</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone SE (2022)?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keyboard-and-pc-now-harmonious-post-windows-11-fix/"><u>Keyboard & PC Now Harmonious Post-Windows 11 Fix</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-laggy-windows-11/"><u>No More Laggy Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-asus-usb-c-webcam-glitch-on-windows-11/"><u>Resolved ASUS USB-C Webcam Glitch on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restoring-sound-output-from-non-responsive-usb-device-on-win10/"><u>Restoring Sound Output From Non-Responsive USB Device on WIN10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104210852-revive-your-wireless-keyboard-on-a-windows-pc-solutions-that-work/"><u>Revive Your Wireless Keyboard on a Windows PC – Solutions That Work</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-boost-your-tiktok-presence-zoom-integration-guide/"><u>[New] Boost Your TikTok Presence Zoom Integration Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-ensuring-smooth-streaming-solutions-for-fb-livestream-problems/"><u>[Updated] In 2024, Ensuring Smooth Streaming Solutions for FB Livestream Problems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-quick-guide-embedding-time-markers-on-youtube-videos-desktopmobile/"><u>[Updated] In 2024, Quick Guide Embedding Time Markers on YouTube Videos (Desktop/Mobile)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-transform-your-youtube-routine-control-over-video-delivery-speeds/"><u>2024 Approved Transform Your YouTube Routine Control Over Video Delivery Speeds</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-nvidia-windows-kernel-mode-driver-stopped-responding-issue/"><u>Fix NVIDIA Windows Kernel Mode Driver Stopped Responding Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-a-missing-intel-processor-driver-error-on-windows-11-instantly-solved/"><u>How to Fix a Missing Intel Processor Driver Error on Windows 11 (Instantly Solved)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-invest-in-insta-success-the-top-earners-playbook/"><u>In 2024, Invest in Insta Success The Top Earners' Playbook</u></a></li>
+<li><a href="https://driver-error.techidaily.com/invalid-inf-service-setup-resolved/"><u>Invalid INF Service Setup - Resolved</u></a></li>
+<li><a href="https://some-skills.techidaily.com/july-16-2024-marks-the-start-of-amazon-prime-day-shopping-extravaganza/"><u>July 16, 2024 Marks the Start of Amazon Prime Day Shopping Extravaganza</u></a></li>
+<li><a href="https://driver-error.techidaily.com/removing-your-graphics-cards-driver-in-windows-safemode-a-step-by-step-tutorial/"><u>Removing Your Graphics Card's Driver in Windows #SafeMode – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://driver-error.techidaily.com/widest-issue-flawed-usb-serial-interface-in-windows/"><u>Widest Issue: Flawed USB-Serial Interface in Windows</u></a></li>
 </ul></div>
 

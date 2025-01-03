@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Mouse & Keyboard Glitch on Windows 11"
-date: 2024-12-24T04:12:17.199Z
-updated: 2024-12-24T20:01:54.276Z
+date: 2024-12-26T20:24:40.061Z
+updated: 2025-01-03T06:22:45.367Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Adjust your keyboard settings
@@ -57,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
@@ -70,13 +62,13 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Reinstall your keyboard driver
@@ -99,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 4: Update your keyboard and USB driver (recommended)
 
  One of the most common causes of an unresponsive keyboard is an outdated keyboard or USB driver.
@@ -114,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
 
@@ -164,20 +164,17 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/apture-your-best-moments-top-8-mirrorless-cameras-for-you-for-2024/"><u>[New] Capture Your Best Moments Top 8 Mirrorless Cameras For You for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-inside-polarrs-magic-box-the-ultimate-digital-image-enhancer/"><u>[New] In 2024, Inside Polarr's Magic Box The Ultimate Digital Image Enhancer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-key-platforms-ranking-the-best-6-sites-for-business-interaction/"><u>[New] Key Platforms Ranking the Best 6 Sites for Business Interaction</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restored-device-functionality-post-driver-update/"><u>[RESTORED] Device Functionality Post Driver Update</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-streamline-your-instagram-top-8-planning-apps-for-iosandroid-devices/"><u>[Updated] In 2024, Streamline Your Instagram Top 8 Planning Apps for iOS/Android Devices</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-simplified-methods-capturing-powerpoint-talks/"><u>[Updated] Simplified Methods Capturing PowerPoint Talks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722204985467-chatgpt-just-got-ios-friendly/"><u>ChatGPT Just Got iOS-Friendly!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/emergency-fix-for-wet-tech-restoring-your-submerged-iphone-or-ipod/"><u>Emergency Fix for Wet Tech: Restoring Your Submerged iPhone or iPod</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-x100-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo X100</u></a></li>
-<li><a href="https://driver-error.techidaily.com/operational-normality-restored/"><u>Operational Normality Restored</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-the-error-when-your-usb-device-wont-install-access-denied/"><u>Resolve the Error When Your USB Device Won't Install - 'Access Denied'</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-detected-hardware-not-supported-issues-in-idt-software-packages/"><u>Resolving 'Detected Hardware Not Supported' Issues in IDT Software Packages</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-tackling-itbm-missing-driver-problems-swiftly/"><u>Step-by-Step Guide to Tackling ITBM Missing Driver Problems Swiftly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-guide-on-latest-hardware-trends/"><u>Tom's Tech Review: In-Depth Guide on Latest Hardware Trends</u></a></li>
-<li><a href="https://driver-error.techidaily.com/toms-tech-reviews-in-depth-computer-hardware-insights/"><u>Tom's Tech Reviews: In-Depth Computer Hardware Insights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-prime-video-titans-the-tweeted-and-tested-binge-masters/"><u>[New] 2024 Approved Prime Video Titans The #Tweeted and Tested Binge Masters</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capture-the-action-easy-steps-for-overwatch-players-for-2024/"><u>[New] Capture the Action Easy Steps for Overwatch Players for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unlocking-your-ipads-voice-capture-potential/"><u>[New] Unlocking Your iPad's Voice Capture Potential</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-flight-paths-revealed-full-review-of-dji-phantom-4/"><u>[Updated] Flight Paths Revealed Full Review of DJI Phantom 4</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-to-triumph-in-spotifys-ad-marketplace/"><u>2024 Approved Expert Tips to Triumph in Spotify's Ad Marketplace</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-and-windows-11-error-fix-dealing-with-code-43-swiftly-and-easily/"><u>GTX 950 and Windows 11 Error Fix: Dealing with 'Code 43' Swiftly and Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-recover-from-a-crash-in-your-amd-graphics-control-panel-wattman/"><u>How to Recover From a Crash in Your AMD Graphics Control Panel (WattMan)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-your-marketing-edge-establishing-a-biz-page-on-instagram/"><u>In 2024, Mastering Your Marketing Edge Establishing a Biz Page on Instagram</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcame-error-45-alls-well-that-ends-well/"><u>Overcame Error #45, All's Well That Ends Well</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-iphone-mobile-transfer-protocol-mtp-device-driver-complications-effectively/"><u>Resolve iPhone Mobile Transfer Protocol (MTP) Device Driver Complications Effectively</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-the-access-is-denied-error-during-usb-device-installation/"><u>Solving the 'Access Is Denied' Error During USB Device Installation</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-every-gamer-needs-xbox-game-pass/"><u>Why Every Gamer Needs Xbox Game Pass</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Solution to Error Code 52
-date: 2024-12-18T18:37:54.605Z
-updated: 2024-12-25T00:28:03.324Z
+date: 2024-12-26T21:38:15.885Z
+updated: 2025-01-03T09:51:24.412Z
 tags:
   - win11
   - win10
@@ -57,10 +57,6 @@ Does this screenshot look similar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97921901b04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note: You can do it **for free** if you like, but it’s partly manual.
 
  Once you install the correct driver for your device, check if the error disappears. If your device works without any problem, so great! If you still see the error, don’t give up hope, you still have something else to try…
@@ -79,12 +75,16 @@ Here’s how to delete the values:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978ddf5949e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Yes** when prompted by **User Account Control** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978e1d8c395.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Go to **Computer** \> **HKEY\_LOCAL\_MACHINE** \> **SYSTEM** \> **CurrentControlSet** \> **Control** \> **Class** .
@@ -96,10 +96,6 @@ Here’s how to delete the values:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978ec11e9f5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) In the Class section, Click **{36FC9E60-C465-11CF-8056-444553540000}** , then on its edit pane on the right side, right-click **UpperFilters** to select **Delete** \> **OK** .
 
  7) On the same edit pane, right-click **LowerFilters** , then **Delete** \> **OK** .
@@ -107,10 +103,6 @@ Here’s how to delete the values:
  Close the Registry Editor window and restart your computer. Then check if the error disappears.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 3: Enable the ‘Disable driver signature enforcement’ feature
 
@@ -127,7 +119,7 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97906e91771.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click **Advanced options** .
@@ -138,9 +130,17 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9790de2ea99.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Once you see the Startup settings menu, press **F7** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b979135f28d1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your computer would then boot into the normal system. Go to the Device Manager to update the driver for the problem device. You can also try Driver Easy for updating drivers automatically.
 
@@ -166,22 +166,21 @@ Here’s how you can do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/10-exceptional-zero-cost-passport-portrait-clients/"><u>10 Exceptional, Zero-Cost Passport Portrait Clients</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-maximizing-reach-sharing-igtv-to-fb-4-methods/"><u>2024 Approved Maximizing Reach Sharing IGTV to FB (4 Methods)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnose-and-repair-device-is-misconfigured-with-helpful-tips-for-code-1/"><u>Diagnose and Repair 'Device Is Misconfigured' With Helpful Tips for Code 1</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/easy-guide-on-converting-and-downloading-skillmeup-video-content-in-various-formats/"><u>Easy Guide on Converting and Downloading SkillMeup Video Content in Various Formats</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/efficient-and-discreet-iphone-data-removal-tools-keep-private-info-safe/"><u>Efficient & Discreet iPhone Data Removal Tools – Keep Private Info Safe</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hardware-mgmt-error-45-resolved/"><u>Hardware Mgmt: Error #45 Resolved</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-y77t-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y77t Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/in-built-wi-fi-bluetooth-not-responding-on-laptop-running-win-10-how-to-fix/"><u>In-Built Wi-Fi, Bluetooth Not Responding on Laptop Running Win 10 - How to Fix?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/professional-perception-pioneering-hdr-art-with-photoshop-for-2024/"><u>Professional Perception Pioneering HDR Art with PhotoShop for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2543810-9781780289786-radical-awakening/"><u>Radical Awakening | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/reliable-or-risky-assessing-chatgpt-plugins-security/"><u>Reliable or Risky: Assessing ChatGPT Plugins' Security</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-unsupported-graphics-in-premiere-pro-with-amdintel/"><u>Resolved: Unsupported Graphics in Premiere Pro with AMD/Intel</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reviving-lenovo-bt-with-win11-expertise-and-know-how/"><u>Reviving Lenovo BT with Win11 Expertise and Know-How</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-repair-methods-for-fixing-madden-22-errors-fast/"><u>Step-by-Step Repair Methods for Fixing Madden 22 Errors Fast</u></a></li>
-<li><a href="https://driver-error.techidaily.com/viking-saga-unleashed-in-assassins-creed-valhalla-a-gripping-journey-through-medieval-times/"><u>Viking Saga Unleashed in 'Assassin's Creed: Valhalla': A Gripping Journey Through Medieval Times</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wdcsam64prewin8sys-disabling-core-isolation/"><u>wdcsam64_prewin8.sys - Disabling Core Isolation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win10-solution-lenovo-bt-driver-malfunction/"><u>Win10 Solution: Lenovo BT Driver Malfunction</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-hitting-the-high-notes-in-instagram-photography-for-2024/"><u>[New] Hitting the High Notes in Instagram Photography for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-unveiling-video-content-strategies-on-youtube/"><u>[New] In 2024, Unveiling Video Content Strategies on YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-wholesome-wheezes-your-easy-peasy-meme-manual/"><u>[Updated] 2024 Approved Wholesome Wheezes Your Easy-Peasy Meme Manual</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mastering-money-with-8-youtube-aspects-for-2024/"><u>[Updated] Mastering Money with 8 YouTube Aspects for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-hd-driver-problems-settled/"><u>[Win11] HD Driver Problems Settled</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-tecno-camon-20-pro-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Tecno Camon 20 Pro 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-fix-for-missing-hardware-drivers-on-pcs-with-windows-1187/"><u>Comprehensive Fix for Missing Hardware Drivers on PCs with Windows 11/8/7</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/convert-flawlessly-leading-software-for-high-res-videos-for-2024/"><u>Convert Flawlessly Leading Software for High-Res Videos for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-dell-touchpad-driver-issue-for-windows-7/"><u>Fix Dell Touchpad Driver Issue for Windows 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-problem-with-this-windows-installer-package-error-on-windows-10-and-11/"><u>How to Fix the Problem With This Windows Installer Package Error on Windows 10 & 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-dreamland-discourse-top-asmr-practitioners-recommended/"><u>In 2024, Dreamland Discourse Top ASMR Practitioners Recommended</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/melodic-compilation-a-comprehensive-guide-to-exclusive-online-sites-for-video-tune-libraries-for-2024/"><u>Melodic Compilation A Comprehensive Guide to Exclusive Online Sites for Video Tune Libraries for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/missing-cd-readers-a-guide-for-windows-users/"><u>Missing CD Readers: A Guide for Windows Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimize-win10-high-disk-utilization-fix/"><u>Optimize Win10: High Disk Utilization Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-tackling-the-missing-coprocessor-driver-error-on-windows-11-systems/"><u>Solved! Tackling The Missing Coprocessor Driver Error on Windows 11 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-reconnecting-with-your-lost-co-processor-driver-on-windows-10-machine/"><u>Step-by-Step Solution for Reconnecting with Your Lost Co-Processor Driver on Windows #10 Machine</u></a></li>
 </ul></div>
 

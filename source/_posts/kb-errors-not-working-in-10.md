@@ -1,7 +1,7 @@
 ---
 title: Kb Errors, Not Working in 10
-date: 2024-12-18T16:55:15.518Z
-updated: 2024-12-24T20:59:15.701Z
+date: 2024-12-29T08:37:24.111Z
+updated: 2025-01-03T10:43:02.111Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Adjust your keyboard settings
@@ -57,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
@@ -67,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Reinstall your keyboard driver
 
  If your keyboard driver has developed a fault, your keyboard may stop working. To fix it:
@@ -75,25 +79,25 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -118,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5: Switch to ChromeOS
 
@@ -164,20 +164,24 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-enhancing-engagement-the-ultimate-guide-for-tiktok-unboxings-for-2024/"><u>[New] Enhancing Engagement The Ultimate Guide for TikTok Unboxings for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-how-to-on-using-voice-input-in-google-docs/"><u>[New] The Ultimate How-To on Using Voice Input in Google Docs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-mac-speech-to-text-apps-youre-not-aware-of/"><u>[New] Top Mac Speech-to-Text Apps You're Not Aware Of</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-comprehensible-guide-to-controlling-video-speed-in-feed/"><u>[Updated] A Comprehensible Guide to Controlling Video Speed in Feed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effortlessly-update-and-fix-hp-envy-7640-graphics-card-drivers/"><u>Effortlessly Update and Fix HP ENVY 7640 Graphics Card Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-hp-envy-7640-driver-issues-easily/"><u>Fix HP ENVY 7640 Driver Issues. Easily!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/get-the-latest-netgear-a6210-driver-software-for-windows-8-or-7-free-download-option/"><u>Get the Latest NetGear A6210 Driver Software for Windows 8 or 7 - Free Download Option</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-4650dn-driver-download-and-update-easily/"><u>HP 4650Dn Driver Download & Update EASILY!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intel-bluetooth-driver-update-quickly-and-easily/"><u>Intel Bluetooth Driver Update Quickly & Easily</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/navigating-italy-top-100-expressions-for-the-travelers-toolkit/"><u>Navigating Italy: Top 100 Expressions for the Traveler's Toolkit</u></a></li>
-<li><a href="https://driver-error.techidaily.com/netgear-a6210-driver-free-download-and-update-for-your-windows-87/"><u>Netgear a6210 Driver Free Download & Update for Your Windows 8/7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-and-easy-guide-downloading-and-installing-intel-drivers-on-windows/"><u>Quick & Easy Guide: Downloading & Installing Intel Drivers on Windows</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/the-ultimate-guide-to-the-most-effective-av-to-dvd-converters-of-2024-for-pcs-running-win-1011/"><u>The Ultimate Guide To The Most Effective Av To Dvd Converters of 2024 for PCs Running Win 10/11</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-connection-issues-in-utorrent/"><u>Troubleshooting Guide: Resolving Connection Issues in uTorrent</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-social-media-personalization-is-unchangeable/"><u>Why Social Media Personalization Is Unchangeable?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-2017-data-overload-infographics-and-surprising-yt-stats/"><u>[New] 2024 Approved 2017 Data Overload Infographics & Surprising YT Stats</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-crafting-the-perfect-virtual-space-with-zooms-features-for-2024/"><u>[New] Crafting the Perfect Virtual Space with Zoom's Features for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/titled-successful-installation-of-essential-hardware-drivers/"><u>[TITLED] Successful Installation of Essential Hardware Drivers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audiovisual-alteration-apps-that-revolutionize-vtubing-soundscapes/"><u>Audiovisual Alteration Apps that Revolutionize Vtubing Soundscapes</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-reno-9a-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cutting-through-disk-space-errors-on-win1110/"><u>Cutting Through Disk Space Errors on Win11/10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-fixing-win1011-sm-bus-drivers/"><u>Diagnosing and Fixing Win10/11 Sm Bus Drivers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dissecting-youtubes-strategy-to-empower-short-form-content-makers/"><u>Dissecting YouTube’s Strategy to Empower Short-Form Content Makers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-unsuccessful-lacking-intel-adapter-support/"><u>Drivers Unsuccessful; Lacking Intel Adapter Support</u></a></li>
+<li><a href="https://driver-error.techidaily.com/elevating-system-bus-efficiency-on-win11/"><u>Elevating System Bus Efficiency on Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-festive-download-premium-hd-3d-christmas-walls-for-zero-cost/"><u>Get Festive: Download Premium HD 3D Christmas Walls for Zero Cost</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722959473202-get-the-latest-hp-deskjet-3630-printer-drivers-for-windows-10-users-free-download-now/"><u>Get the Latest HP Deskjet 3630 Printer Drivers for Windows 10 Users - Free Download Now!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/hourly-highlights-top-10-youtubes-biggest-view-count-for-2024/"><u>Hourly Highlights Top 10 YouTube's Biggest View Count for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-enter-key-not-working-on-windows/"><u>How to Fix Enter Key Not Working on Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-inspiring-interview-experiences/"><u>In 2024, Crafting Inspiring Interview Experiences</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-lags-streamlined-windows-control/"><u>No More Lags: Streamlined Windows Control</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-fix-how-to-correctly-install-your-hcmon-driver-and-avoid-failures/"><u>The Ultimate Fix: How to Correctly Install Your HCMon Driver and Avoid Failures</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-windows-10-qualcomm-atheros-bluetooth-not-working-solution/"><u>Troubleshooting Windows 10: Qualcomm Atheros Bluetooth Not Working Solution</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-behind-the-scenes-the-essential-roles-of-film-production-team-members/"><u>Updated Behind the Scenes The Essential Roles of Film Production Team Members</u></a></li>
 </ul></div>
 

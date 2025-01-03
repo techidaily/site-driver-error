@@ -1,7 +1,7 @@
 ---
 title: Graphics Not Found by Win 10/7
-date: 2024-11-09T16:45:46.371Z
-updated: 2024-11-14T23:57:12.885Z
+date: 2025-01-01T09:22:28.582Z
+updated: 2025-01-03T06:07:57.848Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 ## Graphics Not Found by Win 10/7
 
  If you ever encounter the**graphics card not detected on Device Manager** problem, you’re certainly not alone. But don’t worry, it can be easily fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for Nvidia Graphics Cards Not Detected
 
@@ -36,28 +40,8 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91effe026eb.png)
 2. Click **View**   and then click **Show hidden devices** .  
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/windows11showhiddendevices.jpg)
 3. Click **Action** \> **Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9234ccb8e93.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Check if your Nvidia graphics driver shows up under the **Display adapters** category as a gray-out device, i.e. it looks pale compared to other functioning devices. If so, right-click your Nvidia display card and select**Uninstall device** .  
 
@@ -67,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 6. Then restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. If the Nvidia display card remains disappeared when your computer restarts, don’t worry, move on to the next fix.
@@ -87,6 +68,11 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/nvidia-graphics.png)
 4. **Restart** your computer, then check if the**graphics card not detected** problem is resolved. If yes, then congrats! But if the issue remains, please move on to**Fix 3** , below.
 
@@ -106,16 +92,7 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 ---
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Repair corrupted system files
@@ -129,14 +106,11 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -163,22 +137,18 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-ultimate-viewer-writers-guide/"><u>[New] 2024 Approved The Ultimate Viewer' Writers Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-expert-roundup-comprehensive-camstudio-guide/"><u>[New] Expert Roundup Comprehensive CamStudio Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/erfecting-yt-thumbnails-with-aspect-ratios/"><u>[New] Perfecting YT Thumbnails with Aspect Ratios</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-premier-band-performances-web-for-2024/"><u>[New] Premier Band Performances Web for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-transformative-visuals-unleash-the-power-of-6-video-types/"><u>[New] Transformative Visuals Unleash the Power of 6 Video Types</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-conquer-and-cease-the-unremovable-guide-to-youtube-shorts/"><u>[Updated] Conquer & Cease The Unremovable Guide to Youtube Shorts</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetoothusb-headset-not-recognized-windows-10-guide-to-solutions/"><u>Bluetooth/USB Headset Not Recognized: Windows 10 Guide to Solutions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/discovering-name-for-glplusicd-driver/"><u>Discovering Name for GL+ICD Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-battleye-service-unable-to-initialize-due-to-error-1450-a-comprehensive-guide/"><u>Fixing 'BattlEye Service Unable To Initialize' Due To Error 1450 - A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/making-logitech-receptor-discoverable-on-pcs/"><u>Making Logitech Receptor Discoverable on PCs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-data-acquisition-issue-in-windows-os/"><u>Resolving Data Acquisition Issue in Windows OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/simple-fixes-for-itbm-driver-not-found-errors-on-your-computer/"><u>Simple Fixes for ITBM Driver Not Found Errors on Your Computer</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-installing-missing-device-drivers-in-windows-operating-systems/"><u>Step-by-Step Guide to Installing Missing Device Drivers in Windows Operating Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-to-prevent-videos-from-displaying-upside-down-on-an-asus-notebook/"><u>Step-by-Step Solutions to Prevent Videos From Displaying Upside Down on an ASUS Notebook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-disappearing-mouse-cursors-in-windows-11/"><u>The Ultimate Fix for Disappearing Mouse Cursors in Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-gear-and-hardware-reviews/"><u>Tom's Tech Insights: Gear and Hardware Reviews</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/your-go-to-tools-for-screen-recording-for-2024/"><u>Your Go-To Tools for Screen Recording for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-perfecting-channel-art-a-step-by-step-instructional-manual/"><u>[New] Perfecting Channel Art A Step-by-Step Instructional Manual</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fix-facing-issues-with-rtx-gaming-on-pc-heres-how-we-tackled-it/"><u>[Quick-Fix] Facing Issues with RTX Gaming on PC - Here's How We Tackled It</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-playtime-to-peak-time-top-gaming-women-in-the-digital-space/"><u>[Updated] From Playtime to Peak Time Top Gaming Women in the Digital Space</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-altering-visuals-in-teams-calls-timely-setup-adjustments/"><u>[Updated] In 2024, Altering Visuals in Teams Calls Timely Setup Adjustments</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-zero-30-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Infinix Zero 30 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dissolve-ongoing-bluetooth-link-issue-in-windows/"><u>Dissolve Ongoing Bluetooth Link Issue in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-usb-drive-not-showing-up-in-windows-11-issue/"><u>How to Fix USB Drive Not Showing Up in Windows 11 Issue</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-meizu-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Meizu</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-guide-to-taming-nonstop-buzzing-of-bluetooth-devices-on-latest-os-update-fix-revealed/"><u>Quick Guide to Taming Nonstop Buzzing of Bluetooth Devices on Latest OS Update ![Fix Revealed]</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-portable-macs-transform-the-gaming-world/"><u>Will Portable Macs Transform the Gaming World?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-80211n-broadcom-wi-fi-adapter-now-working-again/"><u>Win 802.11N Broadcom Wi-Fi Adapter Now Working Again</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-upgrading-deathadder-hat-drivers/"><u>Win11: Upgrading DeathAdder HAT Drivers</u></a></li>
 </ul></div>
 

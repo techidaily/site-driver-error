@@ -1,7 +1,7 @@
 ---
 title: Unresponsive Keys Issue in 10
-date: 2024-12-08T00:13:27.756Z
-updated: 2024-12-10T03:17:04.746Z
+date: 2024-12-30T02:24:25.302Z
+updated: 2025-01-03T08:21:36.704Z
 tags:
   - win11
   - win10
@@ -49,13 +49,13 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
@@ -71,28 +71,24 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
  2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
 
@@ -164,17 +164,18 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-grandview-media-mastering-the-art-of-selecting-a-cms/"><u>[New] In 2024, Grandview Media Mastering the Art of Selecting a CMS</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-mastering-vlc-mp4-and-various-format-conversion-techniques/"><u>[Updated] Mastering VLC MP4 & Various Format Conversion Techniques</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/become-a-facetime-pro-skype-call-basics-for-mobile-users/"><u>Become a Facetime Pro Skype Call Basics for Mobile Users</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/buying-cryptocurrencies-using-traditional-money-a-guide-by-yl-computing/"><u>Buying Cryptocurrencies Using Traditional Money: A Guide by YL Computing</u></a></li>
-<li><a href="https://facebook.techidaily.com/comprehensive-insight-on-fb-image-safety/"><u>Comprehensive Insight on FB Image Safety</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-asmedia-usb-host-controller-was-not-found-on-asus/"><u>Fixed: ASMedia USB Host Controller Was Not Found on Asus</u></a></li>
-<li><a href="https://driver-error.techidaily.com/identifying-and-correcting-unrecognized-usb-errors-in-win-78/"><u>Identifying and Correcting Unrecognized USB Errors in Win 7/8</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-cover-art-mastery-transforming-your-podcasts-first-impression-with-tips-and-tricks/"><u>New 2024 Approved Cover Art Mastery Transforming Your Podcasts First Impression (With Tips & Tricks)</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-gpu-drivers-on-windows-8/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing GPU Drivers on Windows 8</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-definitive-guide-to-download-and-refresh-drivers-on-the-hp-envy-20-computer-series/"><u>The Definitive Guide to Download & Refresh Drivers on the HP ENVY 20 Computer Series</u></a></li>
-<li><a href="https://driver-error.techidaily.com/winning-against-w11s-elan-input-issues-one-fix-at-a-time/"><u>Winning Against W11's Elan Input Issues, One Fix at a Time</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-gpu-recognition-failure-windows/"><u>[FIXED] GPU Recognition Failure Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-arcade-affordability-bar-reviews/"><u>[Updated] ARCADE AFFORDABILITY BAR Reviews</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-best-free-mac-apps-for-professional-tiktok-cuts/"><u>[Updated] Best Free Mac Apps for Professional TikTok Cuts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-role-of-gaming-in-e-commerce/"><u>[Updated] In 2024, The Role of Gaming in E-Commerce</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-top-video-professionals/"><u>2024 Approved Navigating Top Video Professionals</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-vg245h-24-inch-monitor-review/"><u>Asus VG245H 24-Inch Monitor Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-ensure-optimal-performance-with-updated-hp-envy-eb-pc-series-drivers/"><u>How to Ensure Optimal Performance with Updated HP Envy Eb PC Series Drivers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/e-editing-hacks-select-top-10-short-form-apps-for-2024/"><u>Mobile Editing Hacks Select Top 10 Short Form Apps for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nullifying-flawed-inf-setup-clause-for-service/"><u>Nullifying Flawed INF Setup Clause for Service</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-drive-errors-acpi-id-33a0/"><u>Resolving Drive Errors - Acpi ID 33A0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsung-galaxy-tab-a5-not-recognized-by-kde-neon-solution-here/"><u>Samsung Galaxy Tab A5 Not Recognized by KDE Neon, Solution Here</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streamline-your-day-with-these-proven-techniques-and-essential-tools-for-ultimate-productivity-tips-by-zdnet/"><u>Streamline Your Day with These Proven Techniques & Essential Tools for Ultimate Productivity - Tips by ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-solving-hcmon-driver-installation-issues/"><u>Troubleshooting Tips: Solving HCMON Driver Installation Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unidentified Disc/DVD/CD in W10/W11
-date: 2024-11-10T03:35:10.539Z
-updated: 2024-11-15T00:50:17.956Z
+date: 2024-12-31T08:25:39.348Z
+updated: 2025-01-03T07:27:38.225Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
  Method 3:[**Manually fix corrupted registry entries**](https://tidio.pxf.io/9grog5)
  Method 4:[**Create a registry subkey**](https://modlily.sjv.io/aw92wr)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1: Uninstall IDE ATA/ ATAPI controllers**
 
  One of the reasons why you can’t see DVD/CD-ROM in your Windows 10 PC could be faulty device drivers. You can reinstall the drivers to fix it. Here is how:
@@ -50,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
  6) Reboot your computer after these changes.
 
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **2: Update drivers**
 
@@ -81,10 +78,7 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
@@ -96,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke a**Run** command. Type **regedit** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Follow the path:
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\ {4D36E965-E325-11CE-BFC1-08002BE10318}**
@@ -111,17 +109,11 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
@@ -141,16 +133,13 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Create a new**Controller0** key under**atapi** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
@@ -159,6 +148,10 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -179,16 +172,17 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-thaw-out-with-five-inviting-winterscapes-for-video-filming/"><u>[Updated] Thaw Out with Five Inviting Winterscapes for Video Filming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/goproandpc/"><u>簡単GoPro動画カット&コンポーズツール：PCとスマホ向け</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-high-definition-hub-alert-relax/"><u>Fixed High-Definition Hub Alert, Relax</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-slow-graphics-on-pc-our-team-cracked-the-rtx-gaming-issue-check-out-this-quick-fix/"><u>Fixing Slow Graphics on PC? Our Team Cracked the RTX Gaming Issue - Check Out This Quick Fix</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/gratuitous-audio-to-text-conversion-tool/"><u>Gratuitous Audio to Text Conversion Tool</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a23-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A23 5GFRP Lock</u></a></li>
-<li><a href="https://driver-error.techidaily.com/lenovo-t460-drivers-download-and-update-on-windows-10/"><u>Lenovo T460 Drivers Download & Update on Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-success-6-strategies-for-flourishing-in-an-ai-enhanced-job-environment/"><u>Navigating Success: 6 Strategies for Flourishing in an AI-Enhanced Job Environment</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-sysware-device-lacks-os-compatibility/"><u>Solved: SysWare Device Lacks OS Compatibility</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-restricts-external-graphics-support/"><u>System Restricts External Graphics Support</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-selections-top-rated-webcam-platforms-for-2024/"><u>Ultimate Selections Top-Rated Webcam Platforms for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-exclusive-guide-to-high-performing-screens-for-xbox-series-x-gaming/"><u>[New] 2024 Approved Exclusive Guide to High-Performing Screens for Xbox Series X Gaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-leading-photo-and-tune-recorders-for-immersive-experience/"><u>[Updated] Leading Photo & Tune Recorders for Immersive Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beats-and-brilliance-creating-soundtracked-instagram-feeds-for-2024/"><u>Beats & Brilliance Creating Soundtracked Instagram Feeds for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-guide-to-repairing-default-settings-collapsed-in-radeon-wattman-and-restored/"><u>Expert Guide to Repairing 'Default Settings Collapsed in Radeon WattMan & Restored'</u></a></li>
+<li><a href="https://facebook.techidaily.com/fbs-new-admin-solutions-to-streamline-community-management/"><u>FB's New Admin Solutions to Streamline Community Management</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-invisible-disc-readers-in-windows/"><u>Fix: Invisible Disc Readers in Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-motorola-moto-g23-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Motorola Moto G23</u></a></li>
+<li><a href="https://driver-error.techidaily.com/inf-installment-fix-service-validation-success/"><u>INF Installment Fix: Service Validation Success</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-your-playstation-4-from-locking-up-with-these-simple-repair-steps/"><u>Stop Your PlayStation 4 From Locking Up with These Simple Repair Steps!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-fixing-hcmondriver-installation-errors/"><u>Troubleshooting Steps for Fixing Hcmondriver Installation Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-resolving-hcom-driver-installation-issues/"><u>Troubleshooting Steps for Resolving HCOM Driver Installation Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vcruntime140dll-missing-program-cant-start-on-windows-10-solved/"><u>VCRUNTIME140.dll Missing, Program Can’t Start on Windows 10 [Solved]</u></a></li>
 </ul></div>
 

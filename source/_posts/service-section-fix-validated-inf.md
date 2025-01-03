@@ -1,7 +1,7 @@
 ---
 title: "Service Section Fix: Validated INF"
-date: 2024-12-21T04:19:48.297Z
-updated: 2024-12-25T05:07:13.771Z
+date: 2024-12-30T08:53:36.306Z
+updated: 2025-01-03T13:30:15.375Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 3. [**Install the missing driver files manually**](https://dhgate.sjv.io/5g6yb2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 1: Update the driver automatically
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged MTP USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -71,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687740cb79e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Select**Let me pick from a list of available drivers on my computer** and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68744ea8804.png)
@@ -79,21 +83,17 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687724c3ed9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you see the device shown as Unknown Device. You’ll see an Android phone or Android device in the long list.**Highlight** it and click**Next** then select**MTP USB device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68796507b2b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) The driver will install automatically. You just need to wait for a while until the installation completes.
 
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
 
@@ -105,13 +105,13 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
 
@@ -140,19 +140,19 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-a-user-friendly-guide-to-board-integration-in-desktopiosandroid-zoom-meetings/"><u>[Updated] 2024 Approved A User-Friendly Guide to Board Integration in Desktop/iOS/Android Zoom Meetings</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-customize-confidently-express-optimizing-your-voice-on-snapchat/"><u>[Updated] In 2024, Customize, Confidently Express Optimizing Your Voice on Snapchat</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-savvy-sound-engineers-10-best-free-lut-picks/"><u>[Updated] Savvy Sound Engineers' 10 Best FREE LUT Picks</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-crafting-an-easy-to-use-youtube-subscription-tagline/"><u>2024 Approved Crafting an Easy-to-Use YouTube Subscription Tagline</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-iphone-12-mini-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 12 mini SIM Lock?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Itel S23+? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210484516-revitalize-your-laptops-charging-issues-with-these-straightforward-tips/"><u>Revitalize Your Laptop's Charging Issues with These Straightforward Tips!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-iphone-driver-is-not-installed-waiting-for-windows-update/"><u>Solved: IPhone Driver Is Not Installed. Waiting for Windows Update</u></a></li>
-<li><a href="https://driver-error.techidaily.com/this-is-an-article-for-this-case-the-daylightning-disease-of-the-other-handicaps/"><u>This Is an Article for This Case the Daylightning Disease of the Other Handicaps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-savings-on-apple-products-in-july-2024-iphone-apple-watch-ipad-offers-and-extra-bargains-zdnet/"><u>Top Savings on Apple Products in July 2024: IPhone, Apple Watch, iPad Offers & Extra Bargains | ZDNet</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-hp-wireless-keyboard-connectivity-issues/"><u>Troubleshooting Guide: Fixing HP Wireless Keyboard Connectivity Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-enabling-safe-mode-and-discarding-gpu-drivers-in-windows-8-system/"><u>Troubleshooting Tips: Enabling Safe Mode and Discarding GPU Drivers in Windows 8 System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win1011-optimizing-sm-bus-drivers-efficiency/"><u>Win10/11: Optimizing Sm Bus Drivers Efficiency</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-and-qualcomm-atheros-bluetooth-woes-heres-your-ultimate-fix/"><u>Windows 11 and Qualcomm Atheros Bluetooth Woes? Here's Your Ultimate Fix</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-web-surfing-on-film-the-best-screen-recording-apps-of-today/"><u>[New] Web Surfing on Film The Best Screen Recording Apps of Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/799-apple-m2-macbook-air-release-sets-new-standard-before-prime-day-latest-news/"><u>$799 Apple M2 MacBook Air Release Sets New Standard Before Prime Day - Latest News</u></a></li>
+<li><a href="https://fox-that.techidaily.com/accessible-apple-8-must-use-functionality-adjustments-for-blind-iphone-users/"><u>Accessible Apple: 8 Must-Use Functionality Adjustments for Blind iPhone Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fast-track-your-computer-essential-tips-for-accelerating-windows-11/"><u>Fast Track Your Computer: Essential Tips for Accelerating Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-adb-connection-gone-wrong-in-osx/"><u>Fix ADB Connection Gone Wrong in OSX</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-non-functional-dts-truehd-and-e628-drivers-on-windows-after-failed-upgrade-now-solved/"><u>Fix Non-Functional DTS TrueHD and E628 Drivers on Windows After Failed Upgrade - Now Solved!✅</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-missing-touchpad-driver-issue/"><u>Fixing the Missing Touchpad Driver Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-idt-high-definition-audio-codec-driver-problem/"><u>How to Fix IDT High Definition Audio CODEC Driver Problem</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-excellent-phones-apps-for-masterful-gopro-edits/"><u>In 2024, Excellent Phones' Apps for Masterful GoPro Edits</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-y28-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo Y28 5G Face Lock?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-glitches-the-ultimate-patched-version-of-five-nights-at-freddys-awaits-pc-players/"><u>No More Glitches: The Ultimate Patched Version of Five Nights at Freddy's Awaits PC Players</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-iphone-data-transfer-hurdles-essential-usb-driver-fixes/"><u>Overcoming iPhone Data Transfer Hurdles: Essential USB Driver Fixes</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/recuperacion-efectiva-de-archivos-desde-una-unidad-flash-usando-el-simbolo-del-sistema-en-windows/"><u>Recuperación Efectiva De Archivos Desde Una Unidad Flash Usando El Símbolo Del Sistema en Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/sysware-printer-driver-successfully-installed/"><u>SysWare Printer Driver - Successfully Installed</u></a></li>
 </ul></div>
 
