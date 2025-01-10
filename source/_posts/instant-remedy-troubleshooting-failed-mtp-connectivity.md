@@ -1,7 +1,7 @@
 ---
 title: "Instant Remedy: Troubleshooting Failed MTP Connectivity"
-date: 2024-12-28T21:14:56.357Z
-updated: 2025-01-03T13:22:39.423Z
+date: 2025-01-08T07:21:15.233Z
+updated: 2025-01-10T02:40:17.438Z
 tags:
   - win11
   - win10
@@ -19,13 +19,13 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
  If you’re connecting your mobile phone to your computer, and you see a message saying_**MTP USB Device Failed**_ , you’re not alone. Many Windows users are reporting it. No worries, it’s possible to fix. Here are 5 fixes for you to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **What is MTP?**
 
 **MTP** is the acronym for **Media Transfer Protocol** , which is supported by Andriod phones. If MTP driver failed to install, you won’t be able to transfer media files from or to Android devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **How do I fix it?**
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/debugging.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2: Update the MTP USB Driver
@@ -71,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afc071708b0.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **3: Run Command**
 
  If you don’t have the administrator permission to your PC, you’ll fail to use some functions. To fix it:
@@ -82,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  1) On your keyboard, press the **Start** button, then type**cmd.exe** . Right-click**cmd** and click **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/cmd-run-command-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click **Yes** at the prompted window.
 
@@ -95,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/net-localgroup-command.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) See if you can connect your Samsung mobile phone to your computer.
 
 ## **4: Repair Registry Settings**
@@ -111,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/regedit-in-start-panel.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click**Yes** at the prompt window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/registry-window-uac.jpg)
@@ -120,27 +120,27 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/registry-local-machine-control-class.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) On your keyboard, press the**Ctrl** **key** and **F** key at the same time. Type**Portable Devices** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/portable-devices.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) On the right hand pane, you’ll see the**(Default)** value**Portable Devices** on the string.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/portable-devices-default-value.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) If you can see**UpperFilters** here, right-click it and click **delete.**
 
  If you can’t see such an option, this method is not suitable for you, move on to next method.
 
  6)**Exit** Registry Editor.**Reboot** your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **5: Install MTP Porting Kit**
 
@@ -169,24 +169,16 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-gif-magic-transformations-without-extra-files-downloaded/"><u>[New] 2024 Approved GIF Magic Transformations Without Extra Files Downloaded</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-discover-the-enhanced-features-of-2023s-samsung-bd-j5900/"><u>[New] In 2024, Discover the Enhanced Features of 2023'S Samsung BD-J5900</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-sdk-upgrade-alert-enhancing-facebook-video-downloader-apps-for-android/"><u>[New] In 2024, SDK Upgrade Alert Enhancing Facebook Video Downloader Apps for Android</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-hardware-and-drivers-sync/"><u>[Solved: Hardware & Drivers Sync</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-stopping-auto-capture-in-apples-recorder/"><u>[Updated] Stopping Auto-Capture in Apple's Recorder</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bcm20702a0-component-failure-notice/"><u>BCM20702A0 Component Failure Notice</u></a></li>
-<li><a href="https://driver-error.techidaily.com/decrypting-opengl-integration-in-intels-driver/"><u>Decrypting OpenGL Integration in Intel's Driver</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/explore-the-leading-mac-video-editors-superior-options-beyond-imovie/"><u>Explore the Leading Mac Video Editors: Superior Options Beyond iMovie</u></a></li>
-<li><a href="https://driver-error.techidaily.com/from-missing-to-working-touchpad-driver-restored/"><u>From Missing to Working: Touchpad Driver Restored</u></a></li>
-<li><a href="https://win11.techidaily.com/go-pure-with-linux-avoid-wsl/"><u>Go Pure with Linux - Avoid WSL</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oppo-f23-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Oppo F23 5G Phones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/luminous-clips-discover-5-apps-that-shine-online/"><u>Luminous Clips Discover 5 Apps That Shine Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-gpo-data-exploration-using-gpresult-techniques/"><u>Mastering GPO Data Exploration Using GPResult Techniques</u></a></li>
-<li><a href="https://driver-error.techidaily.com/optimized-sm-bus-drives-with-win11-update/"><u>Optimized SM Bus Drives with Win11 Update</u></a></li>
-<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-driver-compatibility-overcoming-bluetooth-failures-on-windows-nt/"><u>Qualcomm Atheros Driver Compatibility: Overcoming Bluetooth Failures on Windows nT</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-directx-and-directinput-dll-issues-a-comprehensive-guide/"><u>Resolving DirectX and DirectInput DLL Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resource-shortage-unavailable-for-utilization/"><u>Resource Shortage: Unavailable for Utilization</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-qualcomm-atheros-bluetooth-issues-on-windows-10/"><u>Troubleshooting Guide: Fixing Qualcomm Atheros Bluetooth Issues on Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unwanted-windows-11-screensaver-bsod-irql-fixed/"><u>Unwanted Windows 11 Screensaver: [BSOD] IRQL Fixed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-commanding-voice-scrutiny-refined-version-8/"><u>[New] In 2024, Commanding Voice Scrutiny Refined Version 8</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-secrets-to-successful-vocal-sessions-for-video-content/"><u>2024 Approved Secrets to Successful Vocal Sessions for Video Content</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-pci-card-installers-win-10-8-7/"><u>Comprehensive PCI Card Installers (Win 10, 8, 7)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dealing-with-old-school-usb-composite-devices-solutions-and-tips-for-seamless-connectivity/"><u>Dealing with Old-School USB Composite Devices: Solutions and Tips for Seamless Connectivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-pc-master-distributed-transcoding-with-tdarr/"><u>Enhance PC: Master Distributed Transcoding with Tdarr</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-compendium-classification-of-camera-types-for-videos/"><u>In 2024, Compendium Classification of Camera Types for Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-select-8-dynamic-backgrounds-for-your-mbp/"><u>In 2024, Select 8 Dynamic Backgrounds for Your MBP</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reestablishing-enter-input-on-windows-os/"><u>Reestablishing Enter Input on Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-solution-to-the-missing-enhanced-processor-driver-problem-in-windows-10-explained/"><u>The Ultimate Solution to the Missing Enhanced Processor Driver Problem in Windows 10 Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-digital-aids-for-perfecting-prompt-craftsmanship/"><u>Top 7 Digital Aids for Perfecting Prompt Craftsmanship</u></a></li>
 </ul></div>
 

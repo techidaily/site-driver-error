@@ -1,7 +1,7 @@
 ---
 title: Resolving GTX Ebx 950 'Code 43' Issue in Windows 11 - Detailed Guide
-date: 2024-12-28T07:27:29.772Z
-updated: 2025-01-03T13:41:43.213Z
+date: 2025-01-03T22:09:20.588Z
+updated: 2025-01-09T18:30:45.784Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** .
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
  1) First, you need to download [**Display Driver Uninstaller**](http://download-eu2.guru3d.com/ddu/[Guru3D.com]-DDU.zip) . After the download, extract the setup file from the downloaded folder. Then double click the**Display Driver Uninstaller** file to get started.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
@@ -56,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode.
 
@@ -96,23 +100,19 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the**Check for updates** button to see if there are any new updates available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) If new updates are available, just download and then update them as instructed.
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
@@ -126,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Option 4: Reinstall Windows 10**
@@ -155,17 +155,22 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-charismatic-charm-of-moving-text-on-screen/"><u>[New] In 2024, Charismatic Charm of Moving Text on Screen</u></a></li>
-<li><a href="https://driver-error.techidaily.com/2-in-the-nextteacherbmwits/"><u>2 in the nextTeacher_BMWits</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-persists-in-win11-resolved-issue/"><u>Bluetooth Persists in Win11: Resolved Issue</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bridging-the-gap-uncover-missing-bluetooth-device-space/"><u>Bridging the Gap: Uncover Missing Bluetooth, Device Space</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bus-controller-protocols-streamlined-in-win11/"><u>Bus Controller Protocols Streamlined in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102978547-how-to-fix-unable-to-initialize-directx-9-device-in-5-easy-steps/"><u>How to Fix 'Unable to Initialize DirectX 9 Device' In 5 Easy Steps</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-realme-note-50-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Realme Note 50</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-skip-past-fb-video-ads-effectively/"><u>In 2024, Skip Past FB Video Ads Effectively</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/netgears-nighthawk-x4-a-game-changer-for-wi-fi-coverage-discover-in-our-full-product-review/"><u>Netgear's Nighthawk X4: A Game-Changer for Wi-Fi Coverage? Discover in Our Full Product Review</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-xiaomi-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Xiaomi .</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-xiaomi-redmi-note-13-proplus-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Xiaomi Redmi Note 13 Pro+ 5G FRP Bypass</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-solve-avidemux-no-audio-problem-quick-and-easy-fixes/"><u>Updated Solve Avidemux No Audio Problem Quick and Easy Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-preventing-non-bootable-state-due-to-software-issue/"><u>[FIXED] Preventing Non-Bootable State Due to Software Issue</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rom-raw-footage-to-polished-highlights/"><u>[New] From Raw Footage to Polished Highlights</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unlocking-hdr-potential-with-photo-hdr-techniques/"><u>[New] In 2024, Unlocking HDR Potential with Photo-HDR Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-silent-spectators-101-the-essentials-for-unnoticed-instagram-livestreams/"><u>[New] Silent Spectators 101 The Essentials for Unnoticed Instagram Livestreams</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tech-support-bluetooth-mouse-refuses-to-communicate-with-os/"><u>[Tech Support] Bluetooth Mouse Refuses to Communicate with OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enjoy-streamable-cinema-from-fandango-the-complete-instructions-for-your-fire-tv-box/"><u>Enjoy Streamable Cinema From Fandango – The Complete Instructions for Your Fire TV Box</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-how-to-fix-incorrect-device-configuration-error-code-1-quickly/"><u>Expert Advice: How To Fix Incorrect Device Configuration Error (Code 1) Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-print-device-now-supported-in-win-7/"><u>Fixed - Print Device Now Supported in Win 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-address-your-pcs-audio-glitch-fix-for-dolby-headphone-not-working-resolved/"><u>How to Address Your PC's Audio Glitch: Fix for Dolby Headphone Not Working, Resolved!✔️</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-7-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 7 Activation Lock</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-note-30-vip-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Note 30 VIP to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-driver-compatibility-problems-between-amdintel-and-premiere-pro/"><u>Resolved Driver Compatibility Problems Between AMD/Intel and Premiere Pro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-gameloop-issues-fixing-crashes-in-games-on-windows-11-and-10/"><u>Resolving GameLoop Issues: Fixing Crashes in Games on Windows 11 & 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-missing-driver-issues-on-your-device-fixes-for-windows-11-8-and-7/"><u>Resolving Missing Driver Issues on Your Device: Fixes for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-absent-acquisition-dev-in-windows/"><u>Restoring Absent Acquisition Dev in Windows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/e-your-watchlist-free-playlist-extractors-roundup-for-2024/"><u>Secure Your Watchlist Free Playlist Extractors Roundup for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme GT 5 (240W) | Dr.fone</u></a></li>
 </ul></div>
 

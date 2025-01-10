@@ -1,7 +1,7 @@
 ---
 title: The Evolution and Resolution of Older USB Composite Device Issues
-date: 2024-12-30T23:44:26.819Z
-updated: 2025-01-02T18:45:51.506Z
+date: 2025-01-05T02:55:21.446Z
+updated: 2025-01-10T05:31:07.564Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6187a52b640.jpg)
 
  If you keep getting the above error message when trying to connect your USB Composite Device to your computer, here are the real fixes for your issue. This article helps you solve the problem, quickly and easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -44,22 +48,10 @@ Fortunately, this is one of the easiest problems to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb894ac5bd51.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb894ea5449a.jpg)
 4. Restart your computer and check if your USB Composite Device now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Reinstall your USB controller drivers
 
@@ -68,10 +60,6 @@ Fortunately, this is one of the easiest problems to fix.
 1. On your keyboard, press the   **Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62735e40ac6.png)**  
 **key**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  and  
 **R**  
   key simultaneously to open the Run box.
@@ -79,12 +67,24 @@ Fortunately, this is one of the easiest problems to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b616832c16a0.jpg)
 3. In Device Manger, scroll down to find**Universal Serial Bus controllers** and expand the entry.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b61714f05a95.jpg)
 4. Right-click on the first USB device and select**Uninstall device**  to remove it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Important:** Make sure you’ve saved any open files on your computer before you click**Uninstall device** , as you might need to force shutdown and restart later.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6171a9ae8b0.jpg)
 5. Repeat step 4) with every other USB device that is listed under the**Universal Serial Bus controllers** entry.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** Some USB devices have to do with your wired mouse, keyboard etc, which means uninstalling those devices will make them not working, don’t worry, just temporarily. As long as Windows restarts, it will automatically install the drivers again.
 6. Once you’ve uninstalled them all,**restart** your computer.  
@@ -95,7 +95,7 @@ Fortunately, this is one of the easiest problems to fix.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Use the Windows USB Troubleshooter
@@ -125,16 +125,21 @@ Fortunately, this is one of the easiest problems to fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/rom-playtime-to-profits-ryan-kajis-youtube-cash-crusade-for-2024/"><u>[New] From Playtime to Profits Ryan Kaji's YouTube Cash Crusade for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-mov-file-saving-techniques-for-windows-11-users-for-2024/"><u>[Updated] .MOV File Saving Techniques for Windows 11 Users for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-pro-editors-manual-tackling-gopro-distortion/"><u>[Updated] In 2024, Pro Editor's Manual Tackling GoPro Distortion</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-virtual-artisans-haven-retreat/"><u>2024 Approved Virtual Artisans' Haven Retreat</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cheer-up-wacom-says-goodbye-to-connection-troubles/"><u>Cheer Up! Wacom Says Goodbye to Connection Troubles</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-bluetooth-auto-activation-in-win11/"><u>Overcoming Bluetooth Auto-Activation in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-and-windows-10-fixing-your-unresponsive-bluetooth-driver-step-by-step-solutions/"><u>Qualcomm Atheros and Windows 10: Fixing Your Unresponsive Bluetooth Driver - Step-by-Step Solutions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solutions-to-correctly-install-hcmon-device-drivers-after-failure/"><u>Solutions to Correctly Install HCMON Device Drivers After Failure</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/star-wars-squadrons-unveiled-breaking-down-its-thrilling-spaceship-combat-mechanics/"><u>Star Wars: Squadrons Unveiled – Breaking Down Its Thrilling Spaceship Combat Mechanics</u></a></li>
-<li><a href="https://win-able.techidaily.com/tackling-league-of-legends-online-communication-glitches-successfully/"><u>Tackling League of Legends' Online Communication Glitches Successfully</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-usb-installation-failures-caused-by-access-denied-messages/"><u>Troubleshooting USB Installation Failures Caused by Access Denied Messages</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlock-3-ways-to-download-youtubes-standardized-thumbnails/"><u>[New] Unlock 3 Ways to Download YouTube’s Standardized Thumbnails</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-path-to-podcast-success-through-seo-excellence/"><u>[Updated] The Ultimate Path to Podcast Success Through SEO Excellence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-como-reducir-el-tamano-de-un-archivo-mp3-guia-paso-a-paso-con-software-y-herramientas-en-linea/"><u>1. Cómo Reducir El Tamaño De Un Archivo MP3: Guía Paso a Paso Con Software Y Herramientas en Línea</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-desktop-and-laptops-troubleshooting-fixing-inverted-video-problems/"><u>Asus Desktop and Laptops Troubleshooting: Fixing Inverted Video Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-usb-webcam-error-with-asus-model/"><u>Fixed USB Webcam Error with ASUS Model</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-15-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 15 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guiding-users-through-driver-troubleshooting-dm/"><u>Guiding Users Through Driver Troubleshooting (DM)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-xiaomi-redmi-note-13-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Xiaomi Redmi Note 13 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-x-flip-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo X Flip Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/installation-complete-printer-drivers-installed/"><u>Installation Complete: Printer Drivers Installed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimize-point-touch-response-time-dell-windows-7/"><u>Optimize Point-Touch Response Time (Dell, Windows 7)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/press-pause-on-anxiety-with-these-games/"><u>Press Pause on Anxiety with These Games</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconnecting-devices-after-adb-failure/"><u>Reconnecting Devices After ADB Failure</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/strategies-for-effortlessly-sharing-youtube-videos-on-fb-for-2024/"><u>Strategies for Effortlessly Sharing YouTube Videos on FB for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-intermittent-nvidia-driver-crashes/"><u>Tackling Intermittent Nvidia Driver Crashes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-smart-8s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Infinix Smart 8s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

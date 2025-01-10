@@ -1,7 +1,7 @@
 ---
 title: "Solved: Lack of Driver Integration with AMD & Intel Video in Premiere Pro"
-date: 2024-12-28T14:10:21.996Z
-updated: 2025-01-03T13:53:35.095Z
+date: 2025-01-07T19:28:10.678Z
+updated: 2025-01-10T04:19:29.766Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
  The “Unsupported Video Driver” error message suggests that your current graphics driver is not compatible with Premiere Pro. An outdated or faulty video driver could cause this problem. Or, in some cases, Premiere Pro fails to recognize your driver which is actually functional and thus triggers the error.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -33,13 +33,13 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 
 [2: Update Premiere Pro](https://ukaidot.sjv.io/daqnoj)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your video driver
 
  There are two ways to update your video driver: Automatically (recommended!) and manually.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Automatic update
 
@@ -49,19 +49,15 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged video driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Manual update
 
@@ -74,11 +70,15 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Run-dxdiag.jpg)
 3. Click**Display** (I have two monitors so it’s shown as Display 1.) You’ll find your graphics card information here. Mark down the**name** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-25_15-01-41.png)
 4. Go to the official sites and search for your video driver. Make sure you download only the driver that’s compatible with your Windows version.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/)  
@@ -119,19 +119,15 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-resolving-disabled-state-of-obs-fullscreen/"><u>[New] In 2024, Resolving Disabled State of OBS Fullscreen</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-innovative-methods-for-3d-text-illustration/"><u>[New] Innovative Methods for 3D Text Illustration</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-seeing-the-upside-down-inventive-techniques-to-rewind-yt-media/"><u>[Updated] Seeing the Upside Down Inventive Techniques to Rewind YT Media</u></a></li>
-<li><a href="https://win-blog.techidaily.com/convert-mp4-video-files-to-free-mp3-audio-on-any-device-unlimited-online-service/"><u>Convert MP4 Video Files to Free MP3 Audio on Any Device - Unlimited Online Service</u></a></li>
-<li><a href="https://blog-min.techidaily.com/default-encryption-now-coming-to-windows-11-enhanced-security-measures/"><u>Default Encryption Now Coming to Windows 11: Enhanced Security Measures</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effective-strategies-for-avoiding-gpu-overheating-insights-from-yl-computing-experts/"><u>Effective Strategies for Avoiding GPU Overheating - Insights From YL Computing Experts</u></a></li>
-<li><a href="https://driver-error.techidaily.com/engineered-escape-plan-for-error-e52/"><u>Engineered Escape Plan for Error E52</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-advice-on-correcting-the-hcmon-driver-installation-problem/"><u>Expert Advice on Correcting the HCMon Driver Installation Problem</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/frugal-film-buffs-dream-navigating-the-path-to-complimentary-netflix-subscriptions/"><u>Frugal Film Buff's Dream: Navigating the Path to Complimentary Netflix Subscriptions</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/new-era-of-sm-bus-management-on-windows-11/"><u>New Era of Sm Bus Management on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/smooth-bluetooth-integration-on-windows/"><u>Smooth Bluetooth Integration on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-ultimate-solution-for-default-radeon-wattman-restoration-errors/"><u>The Ultimate Solution for Default Radeon Wattman Restoration Errors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-7-superior-mobile-bots-beyond-openais-chatgpt/"><u>Unveiling 7 Superior Mobile Bots: Beyond OpenAI's ChatGPT</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-photo-capture-techniques-of-smart-hdr-3-and-4-modules/"><u>[New] Mastering Photo Capture Techniques of Smart HDR 3 & 4 Modules</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-premium-extensions-for-after-effects-magic/"><u>[Updated] 2024 Approved Premium Extensions for After Effects Magic</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-snickerscreen-composer/"><u>[Updated] SnickerScreen Composer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/compatibility-fixes-for-hardware-not-recognized-by-your-integrated-device-technology-idt-package/"><u>Compatibility Fixes for Hardware Not Recognized by Your Integrated Device Technology (IDT) Package</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-issue-no-intel-adapter-detected/"><u>Driver Issue: No Intel Adapter Detected</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ient-ad-elimination-select-7-android-adblockers-for-2024/"><u>Efficient Ad Elimination Select 7 Android AdBlockers for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-successfully-solve-the-iphone-mtp-connection-problem/"><u>How To Successfully Solve The iPhone MTP Connection Problem</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reconfiguring-lockout-limit-after-incorrect-login-efforts-in-windows-1011/"><u>Reconfiguring Lockout Limit After Incorrect Login Efforts in Windows 10/11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-iphone-usb-connection-issues-solve-mtp-driver-problems-today/"><u>Troubleshooting iPhone USB Connection Issues: Solve MTP Driver Problems Today</u></a></li>
 </ul></div>
 

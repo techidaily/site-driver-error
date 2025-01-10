@@ -1,7 +1,7 @@
 ---
 title: Turned Core Isolation Off for wdcsam64_prewin8.sys
-date: 2024-12-27T19:10:03.645Z
-updated: 2025-01-03T10:26:21.988Z
+date: 2025-01-06T17:50:51.484Z
+updated: 2025-01-09T19:25:18.291Z
 tags:
   - win11
   - win10
@@ -47,18 +47,18 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then restart your computer and see if**_wdcsam64\_prewin8.sys_** is still listed as an incompatible file that stops Memory Integrity from working properly. If the problem remains, please move on.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reinstall the wdcsam64\_prewin8.sys driver
@@ -71,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-49.png)
 2. Type this command: **`pnputil.exe -d oem<NUMBER>.inf`**  and hit **Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The**`<NUMBER>`** here should be filled with the number you see on your computer. For instance, I’m seeing **16** , so my command here should be **`pnputil.exe -d oem16.inf`** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-72.png)
@@ -83,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-74.png)  
  Hit **Enter**  when the command is typed in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. When you see **Driver package deleted successfully** , restart your computer for the wdcsam64\_prewin8.sys driver to be installed automatically by Windows again.
 
  Go to Core Isolation and see if**_wdcsam64\_prewin8.sys_** is still regarded as an incompatible driver that stops Memory Integrity from turning on. If so, please move on.
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Manually download and install the wdcsam64\_prewin8.sys driver
@@ -106,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Automatically update the wdcsam64\_prewin8.sys driver
@@ -127,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Repair damaged or corrupt system files
 
  If none of the above helps, you may need to check if there are corrupt or damaged system files that lead to system conflicts, missing DLLs, registry errors, etc, thus stopping the wdcsam64\_prewin8.sys driver from loading. So you’ll need to repair such files. Tools like **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  can automate the repair process quickly and easily. To use it:
@@ -135,10 +139,6 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -167,17 +167,18 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-find-the-finest-websites-with-free-game-of-thrones-audio/"><u>[New] Find the Finest Websites with Free Game of Thrones Audio</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-insight-into-excellence-a-detailed-guide-to-mastering-vivacut-editing/"><u>[Updated] Insight Into Excellence A Detailed Guide to Mastering VivaCut Editing</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-swift-and-secure-efficient-downloads-of-podcasts-onto-iphone-for-2024/"><u>[Updated] Swift and Secure Efficient Downloads of Podcasts Onto iPhone for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bring-back-lost-lfe-channel-with-your-pcs-audio-system-after-dynaudio-driver-installation-fixed-yes/"><u>Bring Back Lost LFE Channel with Your PC’s Audio System After Dynaudio Driver Installation, Fixed - Yes!✔️</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correcting-errors-in-the-service-configuration-segment-of-inf/"><u>Correcting Errors in the Service Configuration Segment of INF</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721098903197-efficiently-tackle-wireless-issues-windows-style/"><u>Efficiently Tackle Wireless Issues, Windows Style</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/how-to-make-an-emoji-of-yourself-on-android-and-iphone-emoji-yourself/"><u>How to Make an Emoji of Yourself on Android and iPhone Emoji Yourself</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-modern-warfare-effective-strategies-to-resolve-dev-error-6034-for-both-pc-and-xbox-gamers/"><u>Mastering Modern Warfare: Effective Strategies to Resolve Dev Error 6034 for Both PC & Xbox Gamers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-enable-closed-captioning-on-roku-tvs-and-streamers/"><u>The Ultimate Guide to Enable Closed Captioning on Roku TVs & Streamers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104996068-troubles-with-your-recently-updated-pc-cant-find-my-dear-old-prodigy-cam-heres-what-i-learned-to-do-about-it-solved/"><u>Troubles with Your Recently Updated PC? Can't Find My Dear Old Prodigy Cam – Here’s What I Learned to Do About It ![Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104104972-unraveling-issues-with-windows-dts-truehd-and-the-missing-lfe-channel-now-solved/"><u>Unraveling Issues with Windows, DTS® TrueHD and the Missing LFE Channel - Now Solved!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-typical-podcasters-income/"><u>Unveiling the Typical Podcaster's Income</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-examining-the-efficacy-of-dji-mavic-mini-fpv-technology-for-2024/"><u>[New] Examining the Efficacy of DJi Mavic Mini FPV Technology for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-sincere-evaluation-of-a-digital-audio-player/"><u>[Updated] In 2024, The Sincere Evaluation of a Digital Audio Player</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtubing-upstarts-the-ideal-gadgets-list/"><u>[Updated] YouTubing Upstarts The Ideal Gadgets List</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ax201-unresponsive-to-wi-fi-6-networks-now-fixed/"><u>Ax201 Unresponsive to Wi-Fi 6 Networks, Now Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/charting-course-out-of-drivers-dilemma-52/"><u>Charting Course Out of Driver's Dilemma #52</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-strategies-for-overcoming-lag-problems-in-chivalry-2-updated-tips/"><u>Comprehensive Strategies for Overcoming Lag Problems in Chivalry 2 (Updated Tips !)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/crafting-connectivity-with-metaverse-strategies-for-2024/"><u>Crafting Connectivity with Metaverse Strategies for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dealing-with-unauthorized-access-issues-in-usb-device-setup-and-configuration/"><u>Dealing with Unauthorized Access Issues in USB Device Setup and Configuration</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-to-upgrade-your-notebooks-system-ram/"><u>How To Upgrade Your Notebook's System Ram</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-infinix-zero-5g-2023-turbo-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Infinix Zero 5G 2023 Turbo? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-light-functioning-on-asus-desk/"><u>No Light Functioning On ASUS Desk</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-gt-neo-5-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme GT Neo 5 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721101406254-troubleshooting-and-installing-missing-drivers-for-your-device-on-windows-operating-systems-11-8-and-aturdays-a-comprehensive-guide/"><u>Troubleshooting and Installing Missing Drivers for Your Device on Windows Operating Systems (11, 8 & Aturdays) - A Comprehensive Guide</u></a></li>
 </ul></div>
 

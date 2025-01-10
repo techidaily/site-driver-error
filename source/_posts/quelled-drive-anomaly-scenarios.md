@@ -1,7 +1,7 @@
 ---
 title: Quelled Drive Anomaly Scenarios
-date: 2024-12-29T07:41:02.312Z
-updated: 2025-01-03T11:26:53.004Z
+date: 2025-01-08T02:08:43.159Z
+updated: 2025-01-10T05:27:44.365Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/0c4fe2df3501ab3d12aff4159eef3a635fdab9589
  Whenever you insert your USB drive into your computer, you keep getting this error message   **The driver detected a controller error on \\Device\\Harddisk1\\DR1** or**DR3**  ? Many users have reported this issue. But don’t worry, you can try the solutions below to fix it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 1: Switch your USB drive to a different port
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/0c4fe2df3501ab3d12aff4159eef3a635fdab9589
  Some sectors in your computer may be damaged, and you can try**switching your USB drive to a different port** . It worked for some users. If it doesn’t solve your “ The driver detected a controller error on \\Device\\Harddisk1\\DR1″ problem,  try Solution 2, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 2: Update your USB driver
@@ -51,14 +51,14 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84c2843cf68.jpg)
 4. You may need to restart your computer to finish the process. Then check if your “The driver detected a controller error on \\Device\\Harddisk1\\DR1 ” problem is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -84,24 +84,20 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-incorporating-zoom-for-video-conferencing-a-guide-for-gmail-professionals-for-2024/"><u>[New] Incorporating Zoom for Video Conferencing A Guide for Gmail Professionals for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-modern-readers-pathway-to-capturing-internet-television/"><u>[New] The Modern Reader's Pathway to Capturing Internet Television</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hero5-vs-yi-evaluating-cutting-edge-cameras/"><u>2024 Approved Hero5 Vs. YI Evaluating Cutting-Edge Cameras</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-multimedia-artists-cyber-meeting-room/"><u>2024 Approved Multimedia Artists' Cyber Meeting Room</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-honor-90-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Honor 90 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-bluetooth-gaming-headsets-of-202carefully-crafted-to-offer-the-ultimate-wireless-experience-our-selection-includes-budget-and-premium-choices-alike-for5/"><u>Best Bluetooth Gaming Headsets of 202Carefully Crafted to Offer the Ultimate Wireless Experience, Our Selection Includes Budget and Premium Choices Alike for Gamers Seeking High-Quality Sound without Wires.</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/call-of-duty-warzone-stability-fixes-and-optimization-for-pc-users-april-2024-edition/"><u>Call of Duty Warzone Stability Fixes and Optimization for PC Users, April 2024 Edition</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-incompatible-or-invalid-driver-installations/"><u>How to Resolve Incompatible or Invalid Driver Installations</u></a></li>
-<li><a href="https://driver-error.techidaily.com/identify-hidden-seagate-hard-drive-on-your-windows-system/"><u>Identify Hidden Seagate Hard Drive on Your Windows System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/kernels-rtc-reset-fully-operational/"><u>Kernel's RTC Reset Fully Operational</u></a></li>
-<li><a href="https://driver-error.techidaily.com/masterminding-fix-for-52-drivers-glitches/"><u>Masterminding Fix for #52 Driver's Glitches</u></a></li>
-<li><a href="https://driver-error.techidaily.com/prevention-over-cure-keeping-your-nvidia-code-intact/"><u>Prevention Over Cure: Keeping Your Nvidia Code Intact</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-error-incorrect-configuration-issue-with-code-1/"><u>Resolving the Error: Incorrect Configuration Issue with Code 1</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/tap-out-of-tiktok-clutter-editing-guide-for-massive-drafts-for-2024/"><u>Tap Out of TikTok Clutter Editing Guide for Massive Drafts for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-compilation-of-windows-photo-orderers/"><u>The Ultimate Compilation of Windows Photo Orderers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-the-crashed-and-restored-error-on-amd-wattman-settings/"><u>Troubleshooting and Fixing the 'Crashed and Restored' Error on AMD Wattman Settings</u></a></li>
-<li><a href="https://driver-error.techidaily.com/understanding-the-legacy-insights-into-using-older-usb-composite-devices/"><u>Understanding the Legacy: Insights Into Using Older USB Composite Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unsupported-device-error-troubleshooting-guide-for-incompatible-hardware-recognition/"><u>Unsupported Device Error: Troubleshooting Guide for Incompatible Hardware Recognition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-deadline-microsoft-must-resolve-major-windows-10-issues-within-just-one-year-insights-from-zdnet/"><u>Urgent Deadline: Microsoft Must Resolve Major Windows 10 Issues Within Just One Year, Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outube-playlist-reordering-simplified-for-2024/"><u>[New] YouTube Playlist Reordering Simplified for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-first-footage-assessment-breakdown/"><u>[Updated] 2024 Approved First Footage Assessment Breakdown</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-budget-friendly-cam-stream-viewer/"><u>[Updated] 2024 Approved Top Budget-Friendly Cam Stream Viewer</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-enhancing-your-youtube-content-basic-premiere-pro-edits-for-2024/"><u>[Updated] Enhancing Your YouTube Content Basic Premiere Pro Edits for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-rank-the-best-10-cost-free-image-enhancers-for-smartphone-users-for-2024/"><u>[Updated] Rank the Best 10 Cost-Free Image Enhancers for Smartphone Users for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-skyrocketing-traffic-with-these-top-12-youtube-optimization-techniques-for-2024/"><u>[Updated] Skyrocketing Traffic with These Top 12 YouTube Optimization Techniques for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/demystifying-and-fixing-issues-related-to-vintage-usb-combined-devices/"><u>Demystifying and Fixing Issues Related to Vintage USB Combined Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-issue-failed-load-for-device-id-219/"><u>Driver Issue: Failed Load for Device (ID 219)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphic-exposure-ms-bda-interface/"><u>Graphic Exposure: MS BDA Interface</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-resolve-device-misconfigured-error-with-code-not-configured-correctly4/"><u>Guide to Resolve 'Device Misconfigured' Error with Code Not-Configured-Correctly(4)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-iphone-xs-activation-lock-by-drfone-ios/"><u>How to Remove iPhone XS Activation Lock</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hiding-unwanted-elements-with-smart-filters-ps/"><u>In 2024, Hiding Unwanted Elements with Smart Filters PS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/missing-seagate-drive-troubleshooting-on-win11/"><u>Missing Seagate Drive: Troubleshooting on Win11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-ultimate-guide-to-free-hilarious-memetic-art/"><u>The Ultimate Guide to Free, Hilarious Memetic Art</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win10-compatibility-how-to-get-your-usb-earbud-working/"><u>Win10 Compatibility: How to Get Your USB Earbud Working</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tackling Erratic Behavior: Windows 10 and Elan Pad"
-date: 2025-01-02T02:02:14.212Z
-updated: 2025-01-03T12:06:29.232Z
+date: 2025-01-02T17:55:02.540Z
+updated: 2025-01-10T07:10:27.260Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 [**2: Reinstall your drivers**](https://getlyla.pxf.io/ek9gkg)
 [**3: Stop automatic updates from Windows Update**](https://tinyland.pxf.io/org4ra)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1: Make sure your touchpad is enabled
 
  Some changes to your PC might automatically change your touchpad status to disable without informing you. You can set it back to enable status:
@@ -36,16 +32,12 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-settings-devices.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Click **Mouse & touchpad,**  then click **Additional mouse options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/additional-mouse-options.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Go to the furthest right option (the option could be **Device Settings** or **ELAN**), and make sure your touchpad is enabled.
 
@@ -54,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2: Reinstall your drivers
@@ -78,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3: Stop automatic updates from Windows Update**
@@ -93,9 +85,17 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
 
@@ -114,18 +114,18 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-mastering-product-reviews-for-monetary-rewards-on-youtube/"><u>[New] Mastering Product Reviews for Monetary Rewards on YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/beyerdynamic-mmx-30e-pro-headphones-tested-exceptional-sound-with-basic-functionality/"><u>Beyerdynamic MMX 30E Pro Headphones Tested - Exceptional Sound with Basic Functionality</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-bring-back-sharpness-the-ultimate-choice-for-restoring-images/"><u>In 2024, Bring Back Sharpness The Ultimate Choice for Restoring Images</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-zte-nubia-z60-ultra-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your ZTE Nubia Z60 Ultra Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-step-by-step-for-adding-srt-to-mp4/"><u>In 2024, The Ultimate Step-by-Step for Adding SRT to MP4</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-trailblazers-creating-engaging-marvellous-universe/"><u>In 2024, Trailblazers Creating Engaging Marvellous Universe</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-windows-11s-missing-coprocessor-driver-problem-successfully/"><u>Resolving Windows 11'S Missing Coprocessor Driver Problem Successfully</u></a></li>
-<li><a href="https://driver-error.techidaily.com/seamless-hat-driver-update-for-windows-11/"><u>Seamless HAT Driver Update for Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-updating-and-downloading-drivers-on-your-hp-envy-20-pc/"><u>Step-by-Step Guide: Updating and Downloading Drivers on Your HP Envy 20 PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-update-solving-non-functional-broadcom-wireless-n-adapter/"><u>Win Update: Solving Non-Functional Broadcom Wireless N Adapter</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-stutter-free-experience-achieved/"><u>Win11 Stutter-Free Experience Achieved</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eauty-blogging-beginnings-crafting-a-captivating-youtube-channel-for-2024/"><u>[New] Beauty Blogging Beginnings Crafting a Captivating YouTube Channel for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminating-device-manager-errors-effectively/"><u>Eliminating Device Manager Errors Effectively</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-atheros-bluetooth-connectivity-issues-on-windows-10-solutions-guide/"><u>Fixing Qualcomm Atheros Bluetooth Connectivity Issues on Windows 10 - Solutions Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-qualcomm-atheros-bluetooth-issues-in-windows-10/"><u>How to Fix Qualcomm Atheros Bluetooth Issues in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/implementing-solutions-for-device-manager-faults/"><u>Implementing Solutions for Device Manager Faults</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-samsung-galaxy-a34-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Samsung Galaxy A34 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-audio-anxiety-on-win11/"><u>No More Audio Anxiety on Win11</u></a></li>
+<li><a href="https://facebook.techidaily.com/pioneering-pathways-into-metas-administration-nexus/"><u>Pioneering Pathways Into Meta's Administration Nexus</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-lava-storm-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Lava Storm 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seagate-external-hard-drive-not-showing-up-on-windows-11-solved/"><u>Seagate External Hard Drive Not Showing Up on Windows 11 [Solved]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-micromobility-universe-key-events-breaking-news-speculations-and-more/"><u>The Micromobility Universe: Key Events, Breaking News, Speculations & More</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-revolutionary-features-of-dts-virtual-x/"><u>Understanding the Revolutionary Features of DTS Virtual X</u></a></li>
 </ul></div>
 

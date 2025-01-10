@@ -1,7 +1,7 @@
 ---
 title: Reactivating Silenced Microphone/Headset on Windows 10
-date: 2025-01-02T01:19:24.559Z
-updated: 2025-01-03T04:31:21.559Z
+date: 2025-01-06T18:05:53.021Z
+updated: 2025-01-09T22:50:02.635Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/c06aefbb181f576852b2577ec9d3544ebd6635b5e
 
 Check if your headset works properly now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run the Hardware Devices troubleshooter
 
  The troubleshooter can find and automatically fix some problems with your computer.
@@ -51,7 +47,7 @@ Check if your headset works properly now.
 ```` ```` ````
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click **Hardware and Devices** .  
@@ -64,7 +60,7 @@ Check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After that, check if your headset works properly now.
@@ -75,15 +71,19 @@ After that, check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_15-52-49.jpg)
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Relaunch your computer and check whether the issue is resolved or not.````
 
@@ -93,12 +93,16 @@ After that, check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.png)
 2. Highlight your headset, then click **Set** **Default** . Click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
 
 ```` ```` ```` Check if your headset works properly now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
@@ -113,10 +117,6 @@ After that, check if your headset works properly now.
 2. Click **Scan Now** . It will quickly detect all driver problems of your computer. Your printer driver is no exception.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/SCAN.jpg)
 3. Click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note: You can also do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Sound-driver.jpg)
@@ -143,20 +143,24 @@ After that, check if your headset works properly now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-apples-pride-ios-10-best-no-cost-collages-and-photo-edits-for-2024/"><u>[New] Apple's Pride IOS' 10 Best No-Cost Collages & Photo Edits for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-easyvidwin11-the-simplest-way-to-record-your-pc-screen-for-2024/"><u>[New] EasyVidWin11 The Simplest Way to Record Your PC Screen for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhancing-viewer-interest-with-accurate-time-stamping/"><u>[Updated] 2024 Approved Enhancing Viewer Interest with Accurate Time Stamping</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-realigning-your-personal-soundtracks-from-spotify-to-youtube-music/"><u>[Updated] Realigning Your Personal Soundtracks From Spotify to YouTube Music</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-dvd-copying-tools-of-2023-top-6-dvd-burner-programs-reviewed/"><u>Best DVD Copying Tools of 2023: Top 6 DVD Burner Programs Reviewed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/decoding-the-aged-usb-composite-apparatus-resolved-challenges-and-expert-advice/"><u>Decoding the Aged USB Composite Apparatus: Resolved Challenges and Expert Advice</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-correct-the-improper-configuration-issue-in-devices-error-101-solution/"><u>How to Correct the 'Improper Configuration' Issue in Devices (Error 101 Solution)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Nokia C22? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-nubia-z50-ultra-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Nubia Z50 Ultra with Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-nokia-g310-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Nokia G310 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/remedy-for-ignored-logitech-unifying-hub-in-oses/"><u>Remedy for Ignored Logitech Unifying Hub in OSes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tackle-network-configuration-misstep-on-xps-one-27/"><u>Tackle Network Configuration Misstep on XPS One 27</u></a></li>
-<li><a href="https://facebook.techidaily.com/uk-football-faction-steps-away-from-social-media-to-combat-hate-speech/"><u>UK Football Faction Steps Away From Social Media to Combat Hate Speech</u></a></li>
-<li><a href="https://driver-error.techidaily.com/understanding-the-legacy-of-usb-composite-devices-a-detailed-explanation/"><u>Understanding the Legacy of USB Composite Devices - A Detailed Explanation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-cannot-identify-devices-driver/"><u>Windows Cannot Identify Device's Driver</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-crafting-compelling-content-weaving-text-into-os-imagery/"><u>[New] 2024 Approved Crafting Compelling Content Weaving Text Into OS Imagery</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-androidiphones-ultimate-guide-top-10-free-photo-overlay-hacks/"><u>[Updated] In 2024, Android/iPhone's Ultimate Guide Top 10 Free Photo Overlay Hacks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-comparing-social-platforms-facebook-live-vs-youtube-live-and-twitter-periscope/"><u>[Updated] In 2024, Comparing Social Platforms Facebook LIVE Vs. YouTube Live & Twitter Periscope</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-optimal-strategies-to-store-itunes-visual-files/"><u>[Updated] Optimal Strategies to Store iTunes Visual Files</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-video-platforms-at-a-glance-comparing-vimeo-and-youtube/"><u>[Updated] Video Platforms at a Glance Comparing Vimeo & YouTube</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/2024s-top-strategies-for-repairing-damaged-video-game-data-on-your-computer/"><u>2024'S Top Strategies for Repairing Damaged Video Game Data on Your Computer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-pc-backlight-malfunctioning/"><u>Asus PC Backlight Malfunctioning</u></a></li>
+<li><a href="https://driver-error.techidaily.com/complete-solution-installing-a-missing-coprocessor-driver-for-windows-10/"><u>Complete Solution: Installing a Missing Coprocessor Driver for Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-error-wudfrd-loading-failure-event-id-219/"><u>Device Error: WudfRd Loading Failure (Event ID 219)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-code-45-from-devmgmt-fixed/"><u>Error Code 45 From DevMgmt Fixed</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-to-launch-end-to-end-encryption-for-messenger-calls-and-instagram-dms/"><u>Facebook to Launch End-to-End Encryption for Messenger Calls and Instagram DMs</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-microsoft-store-error-0x80072efd-on-pcs/"><u>Fixing Microsoft Store Error 0X80072EFD on PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-glitch-overcome-seamless-setup/"><u>Graphics Glitch Overcome – Seamless Setup</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-sony-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Sony</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-access-denied-during-usb-installation-problems/"><u>Resolving 'Access Denied' During USB Installation Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-restoring-the-missing-coprocessor-on-windows-nix/"><u>Step-by-Step Guide: Restoring the Missing Coprocessor on Windows Nix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-qualcomm-atheros-bluetooth-drivers-for-optimal-performance-on-windows-n11/"><u>Troubleshooting and Fixing Qualcomm Atheros Bluetooth Drivers for Optimal Performance on Windows N11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-fraudgpt-what-it-is-its-potential-harm-and-how-to-shield-yourself/"><u>Unveiling FraudGPT: What It Is, Its Potential Harm, and How to Shield Yourself</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wi-fi-6ax201-not-operating-fixed-connectivity-issues/"><u>Wi-Fi 6Ax201 Not Operating - Fixed Connectivity Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solved Error #48 on Device Hub
-date: 2025-01-01T21:10:03.412Z
-updated: 2025-01-03T02:04:36.810Z
+date: 2025-01-05T20:08:30.924Z
+updated: 2025-01-09T19:37:49.617Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/6631d02aad6297e4d6f700e032b5f1a6df7f0a482
 
  If a device on your computer is running into**Error Code 48** in Device Manager, don’t worry. You’ve come to the right place! Although it’s quite frustrating, you should be able to fix this issue on your own after reading this article.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Error Code 48 in Device Manager
 
 **Error Code 48** is a common error in Windows Device Manager. This error code suggests that Windows has blocked the driver for that device due to a serious driver problem detected by Windows OS.
@@ -30,7 +34,7 @@ To check if the device is running into the error code 48:
 `"The driver for this device has been blocked from starting because it is known to have problems with Windows. Contact the hardware vendor for a new driver. (Code 48)"`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -41,6 +45,10 @@ To check if the device is running into the error code 48:
 2. **[Disable Hyper-V](https://godlikehost.sjv.io/vnbxzv)**
 3. **[Turn off Memory Integrity in Core isolation](https://aligracehair.sjv.io/y209r3)**
 4. **[Run the System File Checker and the Windows Memory Diagnostic Test](https://parisrhonecom.sjv.io/zqobqr)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Update your driver
 
@@ -60,10 +68,6 @@ Or
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2 – Automatically update drivers
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) .
@@ -79,10 +83,6 @@ Or
 
 ![Update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-drivers-with-Driver-Easy.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and [manually install them, the normal Windows way](https://tools.techidaily.com/drivereasy/download/) .)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your PC and check if this issue persists.
 
@@ -102,21 +102,21 @@ Or
 ![appwiz.cpl](https://images.drivereasy.com/wp-content/uploads/2021/04/appwiz.cpl_.jpg)
 2. Click**Turn Windows features on or off** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn Windows features on or off](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-Windows-features-on-or-off.jpg)
 3. In the Window that pops up,**uncheck the box** next to**Hyper-V** and click**OK** to disable the Hyper-V feature.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Disable the Hyper-V feature](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Hyper-V-feature.jpg)
 4. Restart Windows 10 to see if the issue persists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this fix didn’t work, try the next fix to turn off Memory Integrity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Turn off Memory Integrity in Core isolation
 
@@ -130,14 +130,14 @@ To turn off Memory Integrity, simply follow the steps below:
 ![Open Core isolation](https://images.drivereasy.com/wp-content/uploads/2021/04/Open-Core-isolation.jpg)
 2. **Turn off** the toggle under**Memory integrity** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off Memory integrity](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Memory-integrity.jpg)
 3. Restart Windows 10 and reinstall the latest driver of the problematic device.
 
 See if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Run the System File Checker and the Windows Memory Diagnostic Test
 
@@ -151,15 +151,15 @@ See if this fix works. If not, try the next fix, below.
 ![run system file checker](https://images.drivereasy.com/wp-content/uploads/2021/04/run-system-file-checker.jpg)
 3. Close the Command Prompt window after the process ie complete.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **To run the Windows Memory Diagnostic Test:**
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the**Run** dialog. Type**control admintools** and press**Enter** to open the**Administrator Tools** window in the**Control Panel** .  
 ![open control panel from Run](https://images.drivereasy.com/wp-content/uploads/2021/04/open-control-panel-from-Run.jpg)
 2. Double-click**Windows Memory Diagnostic** to run it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Windows Memory Diagnostic](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-Memory-Diagnostic.jpg)
 3. Select**Restart now and check for problems (recommended)** to run the test immediately. Before restarting, you need to save your work and close any open programs. It may take some time to complete the test.  
@@ -192,16 +192,19 @@ See if this fix works. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-how-to-search-for-cool-photos-on-pexelscom/"><u>[New] How to Search for Cool Photos on Pexels.com?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-pinpoint-and-eliminate-android-video-glitches-for-2024/"><u>[New] Pinpoint & Eliminate Android Video Glitches for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-operational-system-after-drivers-reinstallation/"><u>[SOLVED] Operational System After Drivers Reinstallation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-choose-between-portable-and-plugged-in-vr-headsets-picking-between-wireless-mobile-or-connected-tethered/"><u>2024 Approved How to Choose Between Portable and Plugged-In VR Headsets Picking Between Wireless (Mobile) or Connected (Tethered)?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-sparkling-ideas-creating-engaging-fb-ad-videos/"><u>2024 Approved Sparkling Ideas Creating Engaging FB Ad Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/75-times-smaller-and-fibonaccistuesday-we-need-to-ensure-that-individuals-withholding-the-right-handedness-of-ctrlplus123-mvn-but-i-wastingjuneau-is-an-unpu6/"><u>75 Times Smaller and Fibonacci_s/Tuesday, We Need to Ensure that Individuals Withholding the Right-Handedness of Ctrl+123 Mvn, but I Wasting=Juneau Is an Unpublished Researchers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bypassing-uninitialized-directx-9-a-stepwise-approach/"><u>Bypassing Uninitialized DirectX 9: A Stepwise Approach</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/download-mastery-securing-the-livestream-lifeline-for-2024/"><u>Download Mastery Securing the Livestream Lifeline for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfect-5-monitors-to-boost-your-ps5-for-2024/"><u>Perfect 5 Monitors to Boost Your PS5 for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/simple-cure-for-usb-mtp-communication-breakdowns/"><u>Simple Cure for USB MTP Communication Breakdowns</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-resolving-nvidia-gtx-950-code-43-malfunction-on-windows-ten-systems/"><u>Troubleshooting and Resolving NVIDIA GTX 950 Code 43 Malfunction on Windows Ten Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-step-by-step-guide-to-periscope-video-preservation/"><u>[New] 2024 Approved Step-by-Step Guide to Periscope Video Preservation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-elevate-your-meetings-best-tools-to-record-zoom/"><u>[Updated] 2024 Approved Elevate Your Meetings Best Tools to Record Zoom</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-visionary-screens-leading-4k-monitors-for-media-professionals/"><u>2024 Approved Visionary Screens Leading 4K Monitors for Media Professionals</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-navigating-into-windows-8s-safe-mode-for-graphics-driver-issues-resolution/"><u>Expert Advice: Navigating Into Windows 8'S Safe Mode for Graphics Driver Issues Resolution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-on-fixing-incorrect-device-configuration-error-code-1/"><u>Expert Tips on Fixing Incorrect Device Configuration (Error Code 1)</u></a></li>
+<li><a href="https://discover-data.techidaily.com/fix-guide-for-live-net-problems-accessing-documents-in-office-online-on-windows-11-and-10/"><u>Fix Guide for 'Live Net' Problems Accessing Documents in Office Online on Windows 11 & 10</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/fixing-compatibility-errors-how-to-get-your-dvds-to-play-on-both-pc-and-mac/"><u>Fixing Compatibility Errors - How to Get Your DVDs to Play on Both PC and Mac</u></a></li>
+<li><a href="https://driver-error.techidaily.com/help-latest-logitech-cams-not-showing-on-updated-pc-got-answers-check-out-what-i-learned-fixed/"><u>Help! Latest Logitech Cam's Not Showing on Updated PC - Got Answers, Check Out What I Learned [Fixed]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-when-your-program-quits-with-applicationexe-message/"><u>How to Repair When Your Program Quits with 'Application.Exe' Message</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-streamlined-steps-for-preserving-vimeo-recordings/"><u>In 2024, Streamlined Steps for Preserving Vimeo Recordings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-mkv-video-on-redmi-note-12-4g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Issues playing MKV video on Redmi Note 12 4G</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-adding-required-device-drivers-on-windows-1187/"><u>Step-by-Step Solution: Adding Required Device Drivers on Windows 11/8/7</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/transform-your-chromebook-how-to-install-linux-and-unlock-new-features-for-2024/"><u>Transform Your Chromebook How to Install Linux and Unlock New Features for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsuccessful-graphic-device-connection-in-windows-11/"><u>Unsuccessful Graphic Device Connection in Windows 11</u></a></li>
 </ul></div>
 

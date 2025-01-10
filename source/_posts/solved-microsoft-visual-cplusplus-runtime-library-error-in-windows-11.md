@@ -1,7 +1,7 @@
 ---
 title: "Solved: Microsoft Visual C++ Runtime Library Error in Windows 11"
-date: 2025-01-02T15:00:06.887Z
-updated: 2025-01-03T02:11:13.892Z
+date: 2025-01-03T23:38:47.844Z
+updated: 2025-01-09T23:46:25.072Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 [**3: Perform a Clean boot**](https://bluettiit.sjv.io/xkwq91)
 [**Other options**](https://aidotcom.pxf.io/nkz4kv)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1: Reinstall display driver
 
  1) On your keyboard, press**Windows key** and**X** at the same time, then choose**Device Manager** from the list of choice.
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861e0aa65115.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Then right click the graphics card that you are using now and choose**Uninstall** .
   
@@ -62,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
  5) Check to see if the Runtime error stops now. If the problem persists, please continue with the next option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2: Update display driver
@@ -85,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965ed8fabadd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ## 3: Perform a Clean boot
@@ -101,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861de6d9c40f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On the same window, tick the box for**Hide all Microsoft services** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861dea18f75c.jpg)
@@ -110,14 +102,22 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861dee39618b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Then hit**Apply** and**OK** to close the System Configuration window.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861df26558e0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Restart your computer now. If the problem is gone, you need to repeat the similar procedure to boot into normal mode. But this time, you need to disable the applications one by one until you locate the culprit app that is causing this error. If you find it, go back to [**Method 1**](https://ukaidot.sjv.io/daqnoj) and [**Method 2**](https://tinyland.pxf.io/org4ra) to get the device driver reinstalled or updated as per your own need.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Other options**
 
@@ -148,20 +148,18 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-30-must-try-mp4-gadgets-unveiled/"><u>[New] 2024 Approved 30 Must-Try MP4 Gadgets Unveiled</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-cross-dimensional-analysis-understanding-the-metaverse-vs-omniverse-for-2024/"><u>[New] Cross-Dimensional Analysis Understanding the Metaverse Vs. Omniverse for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-saving-instagrams-a-step-by-step-approach-for-windowsmacos-users/"><u>[Updated] 2024 Approved Saving Instagrams A Step-by-Step Approach for Windows/macOS Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/address-erratic-dell-pointing-device-win7/"><u>Address Erratic Dell Pointing Device (Win7)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-guide-to-older-versions-of-usb-composite-devices/"><u>Comprehensive Guide to Older Versions of USB Composite Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/corrected-photo-output-glitch-for-asus-webcam-in-win11/"><u>Corrected Photo Output Glitch for ASUS Webcam in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-driver-loaded-on-win-os/"><u>Device Driver Loaded on Win OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102972909-fix-radeon-software-and-driver-versions-do-not-match/"><u>Fix: ‘Radeon Software and Driver Versions Do Not Match’</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-behind-the-numbers-deciphering-how-youtube-measures-popularity/"><u>In 2024, Behind the Numbers Deciphering How YouTube Measures Popularity</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-s24plus-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy S24+ for Free? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-pro-level-recording-highlighting-9-best-remote-mic-systems-23/"><u>In 2024, Pro-Level Recording Highlighting 9 Best Remote Mic Systems ('23)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-unleash-your-vision-the-best-360-livestimation-devices/"><u>In 2024, Unleash Your Vision The Best 360° Livestimation Devices</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/lowering-the-quality-of-obs-streaming-for-2024/"><u>Lowering the Quality of OBS Streaming for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721101503379-solved-no-valid-dx11-video-card-found-black-ops-error/"><u>Solved: No Valid DX11 Video Card Found Black Ops Ⅲ Error</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-your-vizio-televisions-wi-fi-connection-issues-a-step-by-step-guide/"><u>Solving Your Vizio Television's Wi-Fi Connection Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-budget-friendly-skydrive-solution-for-bulk-files/"><u>[New] 2024 Approved Budget-Friendly SkyDrive Solution for Bulk Files</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boosting-engagement-a-guide-to-more-youtube-shorts-success/"><u>[New] In 2024, Boosting Engagement A Guide to More YouTube Shorts Success</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-maximizing-visibility-post-facebook-update-for-2024/"><u>[New] Maximizing Visibility Post-Facebook Update for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unlocking-sound-capture-on-windows-10-for-2024/"><u>[New] Unlocking Sound Capture on Windows 10 for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-circles-vs-cubes-unraveling-camera-types/"><u>[Updated] Circles vs Cubes Unraveling Camera Types</u></a></li>
+<li><a href="https://driver-error.techidaily.com/deciphering-and-solving-the-battlenee-driver-loading-glitch-for-a-smoother-gaming-experience/"><u>Deciphering and Solving the Battlenee Driver Loading Glitch for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-unsuccessful-lacking-intel-adapter-support/"><u>Drivers Unsuccessful; Lacking Intel Adapter Support</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-driver-update-mastering-the-portable-app-for-windows-and-macos/"><u>Effortless Driver Update: Mastering the Portable App for Windows and MacOS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/elevating-system-bus-efficiency-on-win11/"><u>Elevating System Bus Efficiency on Win11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/top-picks-free-fb-to-mp4-file-transformers-for-2024/"><u>Top Picks Free FB to MP4 File Transformers for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-windows-10-qualcomm-atheros-bluetooth-not-working-solution/"><u>Troubleshooting Windows 10: Qualcomm Atheros Bluetooth Not Working Solution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-fixing-issues-with-your-outdated-usb-composite-device/"><u>Troubleshooting: Fixing Issues with Your Outdated USB Composite Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-compatible-samsung-mobile-system/"><u>Windows-Compatible: Samsung Mobile System</u></a></li>
 </ul></div>
 

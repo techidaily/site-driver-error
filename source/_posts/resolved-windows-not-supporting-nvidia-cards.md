@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Windows Not Supporting Nvidia Cards"
-date: 2024-12-29T18:05:10.786Z
-updated: 2025-01-03T11:42:16.877Z
+date: 2025-01-03T01:37:17.927Z
+updated: 2025-01-10T04:03:49.222Z
 tags:
   - win11
   - win10
@@ -37,22 +37,18 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 2. Click **View**   and then click **Show hidden devices** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/windows11showhiddendevices.jpg)
 3. Click **Action** \> **Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9234ccb8e93.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Check if your Nvidia graphics driver shows up under the **Display adapters** category as a gray-out device, i.e. it looks pale compared to other functioning devices. If so, right-click your Nvidia display card and select**Uninstall device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-30.png)
 5. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-32.png)
@@ -61,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 7. If the Nvidia display card remains disappeared when your computer restarts, don’t worry, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -78,13 +70,17 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/nvidia-graphics.png)
 4. **Restart** your computer, then check if the**graphics card not detected** problem is resolved. If yes, then congrats! But if the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your BIOS
 
@@ -109,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 2. Open Fortectand run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
@@ -137,22 +137,21 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-tips-for-efficiently-editing-videos-for-social-media-engagement/"><u>[New] Tips for Efficiently Editing Videos for Social Media Engagement</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-srt-translator-showdown-the-best-eight-in-ranking/"><u>[Updated] Free SRT Translator Showdown The Best Eight in Ranking</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-giggle-galore-curating-the-funniest-10-short-form-web-series-ideas/"><u>[Updated] Giggle Galore Curating the Funniest 10 Short-Form Web Series Ideas</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-video-capture-on-your-laptop-with-screenrec/"><u>[Updated] Mastering Video Capture on Your Laptop with ScreenRec</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effortless-nvidia-graphics-driver-setup/"><u>Effortless Nvidia Graphics Driver Setup</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gpu-interpretation-decoding-microsofts-bda-design/"><u>GPU Interpretation: Decoding Microsoft's BDA Design</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-discovering-your-youtube-comments-on-various-devices/"><u>In 2024, Discovering Your YouTube Comments on Various Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intel-me-driver-anomaly-solutions/"><u>Intel Me Driver Anomaly Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-repairing-system-call-failed-on-windows/"><u>Master the Art of Repairing System Call Failed on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-unexpected-amd-radeon-wattman-configuration-resets-easy-solutions-revealed/"><u>Overcoming Unexpected AMD Radeon Wattman Configuration Resets - Easy Solutions Revealed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/printer-no-drive-issue-resolved/"><u>Printer No-Drive Issue Resolved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repair-serial-bus-regulation-flaw/"><u>Repair Serial Bus Regulation Flaw</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/seamless-memory-wipe-experience-with-the-stellar-mobile-eraser-on-mac-devices/"><u>Seamless Memory Wipe Experience with the Stellar Mobile Eraser on Mac Devices</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/srt-transition-the-ultimate-subcap-guide/"><u>SRT Transition The Ultimate SUBCAP Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103791829-unresponsive-gaming-due-to-graphics-quick-resolution-guide/"><u>Unresponsive Gaming Due To Graphics – Quick Resolution Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-and-qualcomm-atheros-restoring-bluetooth-connectivity-with-proven-solutions/"><u>Windows 11 and Qualcomm Atheros: Restoring Bluetooth Connectivity with Proven Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-device-hubs-code-48/"><u>[FIXED] Device Hub's Code #48</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/astering-youtube-metrics-for-earning-livelihoods-for-2024/"><u>[New] Mastering YouTube Metrics for Earning Livelihoods for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-optimal-film-and-camera-choices-for-youtube-vloggers/"><u>[Updated] Optimal Film & Camera Choices for YouTube Vloggers</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/best-10-emoji-apps-to-emoji-yourself-make-an-emoji-of-yourself/"><u>Best 10 Emoji Apps to Emoji Yourself-Make an Emoji of Yourself</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/customized-marketing-automation-with-leading-ai-technology/"><u>Customized Marketing Automation with Leading AI Technology</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-setup-guide-clearing-the-incorrect-configuration-error-message-error-code-1/"><u>Device Setup Guide: Clearing the 'Incorrect Configuration' Error Message (Error Code 1)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/help-can0t-connect-to-latest-cam-post-windows-10-update-fixed-solutions-found-fixed/"><u>Help! Can'0t Connect to Latest Cam Post Windows 10 Update - Fixed Solutions Found [Fixed]</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-trouble-securely-installed-nvidia-drivers-2024/"><u>No Trouble: Securely Installed Nvidia Drivers 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/non-intel-adapter-unable-to-load-system-drivers/"><u>Non-Intel Adapter, Unable to Load System Drivers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-smart-8-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Smart 8 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-high-disk-usage-in-windows-1110/"><u>Resolving High Disk Usage in Windows 11/10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revo-uninstallers-powerful-features-for-emergency-shutdown-of-persistent-windows-applications/"><u>Revo Uninstaller's Powerful Features for Emergency Shutdown of Persistent Windows Applications</u></a></li>
+<li><a href="https://win-help.techidaily.com/step-by-step-guide-reinstalling-your-favorite-apps-from-an-itunes-backup/"><u>Step-by-Step Guide: Reinstalling Your Favorite Apps From an iTunes Backup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tutorial-identifying-and-fixing-missing-drivers-for-devices-on-windows-versions-win1087-solution-found/"><u>Tutorial: Identifying & Fixing Missing Drivers for Devices on Windows Versions (Win10/8/7) - SOLUTION FOUND</u></a></li>
 </ul></div>
 

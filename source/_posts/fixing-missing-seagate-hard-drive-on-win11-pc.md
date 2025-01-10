@@ -1,7 +1,7 @@
 ---
 title: Fixing Missing Seagate Hard Drive on Win11 PC
-date: 2025-01-01T01:58:23.550Z
-updated: 2025-01-03T08:40:59.169Z
+date: 2025-01-03T08:15:24.033Z
+updated: 2025-01-10T01:54:12.658Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
  If you’re on Windows 10 and you have no access to your Seagate GoFlex external hard drive, you’re not alone. Many users have reported having this problem as well. No worries, here are 5 solutions for you to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How can I make my external Seagate hard drive show up again?
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 
  If your Seagate external hard drive won’t work in either situation, your hard drive could be at fault. You might need to consult the technical support of Seagate to see if your data in the hard drive can be retrieved somehow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 2: Reinstall Seagate Programs**
 
  If your Seagate app is not installed properly, problems like not being recognized by computers will happen. To fix it:
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-and-features.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Go to the [**official website of Seagate**](http://www.seagate.com/gb/en/support/downloads/item/goflex-home-iso-software-master/) and download the software, create the install CD according to the instructions and then reinstall the software again on your computer.
@@ -89,16 +93,24 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/properties.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click the**Compatibility** tab, and tick the box for**Run this program in compatibility mode for:** . Select an older version of Windows. You might need to try a couple of times before you fix this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-this-program-in-compatibility-mode-for.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click**Apply** and**OK** to save and then run the setup again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apply-and-ok.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 3: Partition the Hard Drive**
 
@@ -110,16 +122,12 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/disk-management.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) You should be able to see **Disk 1** is available. Right-click it and click **GPT (GUID Partition Table)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/gpt-guid-partition-table.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right-click it again and click **New simple volume** .
@@ -128,16 +136,17 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 
  There you go, your Seagate external hard drive should be able to work without any problems.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 4: Assign Driver Letter to Seagate GoFlex**
 
  1) On your keyboard, press the**Windows logo key** and**S** at the same time. Type**apps: computer management** in and click **Computer Management.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-computer-management.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, click**Disk Management** . If you see a drive without a letter, check to make sure that it’s your**Seagate GoFlex drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57f9f9701ebe7-600x294.jpg)
@@ -146,13 +155,13 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-drive-letter-and-paths.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) If your external hard drive doesn’t have a letter, press **Add…** to add a letter for this drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/add-a-letter.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Assign a letter to it and click**OK.**
 
@@ -164,10 +173,6 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/control-panel.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click **Hardware and Sound** .
 
@@ -184,10 +189,6 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 5) Click   **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable-600x456.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Scroll down to the _**Shutdown** settings_ section and uncheck**Turn off fast startup (recommended)** . Click **Save changes**  . You might need to restart your computer after this change.
 
@@ -208,21 +209,22 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-optimal-cameras-for-puppet-film-projects/"><u>[New] Optimal Cameras for Puppet Film Projects</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-essential-guide-for-the-finest-travel-movie-tools/"><u>2024 Approved Essential Guide for the Finest Travel Movie Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comprehensive-guide-how-to-compress-and-downsize-your-4k-resolution-videos/"><u>Comprehensive Guide: How to Compress and Downsize Your 4K Resolution Videos</u></a></li>
-<li><a href="https://review-topics.techidaily.com/does-honor-magic-5-lite-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor Magic 5 Lite Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/dvd-non-discovery-in-windows-11-resolved-quickly/"><u>DVD Non-Discovery in Windows 11 - Resolved Quickly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/eradicating-invalid-configuration-segment-in-inf/"><u>Eradicating Invalid Configuration Segment in INF</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-sound-enhancement-software-conflict-resolution-on-windows-11-8-and-7/"><u>HP Sound Enhancement Software Conflict Resolution on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-motorola-g24-power-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Motorola G24 Power Phone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-safe-boot-in-windows-8-a-complete-guide-to-disable-and-reinstall-display-adapters/"><u>Mastering Safe Boot in Windows 8 - A Complete Guide to Disable and Reinstall Display Adapters</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-the-art-of-safeguarding-virtual-environments-discover-sicher-vm-security-techniques/"><u>Mastering the Art of Safeguarding Virtual Environments: Discover [Sicher] VM Security Techniques</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-usb-network-driver-not-working-after-update/"><u>Resolving USB Network Driver Not Working After Update</u></a></li>
-<li><a href="https://some-tips.techidaily.com/smartwatch-showdown-deciding-on-google-pixel-or-apple-watch-series-9-for-your-daily-tech-companion-zdnet-insights/"><u>Smartwatch Showdown: Deciding on Google Pixel or Apple Watch Series 9 for Your Daily Tech Companion | ZDNET Insights</u></a></li>
-<li><a href="https://driver-error.techidaily.com/steps-to-solve-windows-78-unsupported-usb-errors/"><u>Steps to Solve Windows 7/8 Unsupported USB Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-compatibility-solving-broadcom-wi-fi-n-adapter-problems/"><u>Win Compatibility: Solving Broadcom Wi-Fi N Adapter Problems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-10-supports-asus-usb-camera-better-now/"><u>Windows 10 Supports ASUS USB Camera Better Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/irqlfix-bsod-error-on-windows-11/"><u>[IRQL_FIX] BSOD Error on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-beyondbasics-futurecameraspost-mycam/"><u>[New] BeyondBasics FutureCamerasPost-MyCam</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-theory-to-canvas-color-essentials/"><u>[New] From Theory to Canvas Color Essentials</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102239488-solved-generic-bluetooth-radio-driver-issues-in-windows-quickly-and-easily/"><u>[SOLVED] Generic Bluetooth Radio Driver Issues in Windows. Quickly & Easily</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-definitive-2023-bandicam-handbook-for-gamers/"><u>[Updated] The Definitive 2023 Bandicam Handbook for Gamers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-techs-leading-edge-in-video-capturing-software/"><u>2024 Approved Tech's Leading Edge in Video Capturing Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-technical-marvels-of-dji-inspire-2/"><u>2024 Approved Unveiling the Technical Marvels of DJI Inspire 2</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enable-recognition-of-misidentified-usb-devices-on-w78-os/"><u>Enable Recognition of Misidentified USB Devices on W7/8 OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eradicating-the-elan-pad-anomalies-in-win11/"><u>Eradicating the Elan Pad Anomalies in Win11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-top-5-email-providers-with-robust-safety-features/"><u>Explore the Top 5 Email Providers with Robust Safety Features</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-itel-easily-by-drfone-android/"><u>How To Unlock a Itel Easily?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-magic-6-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor Magic 6 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-why-the-x-chair-x4-desk-chair-outshines-competitors-in-office-comfort/"><u>In-Depth Analysis: Why the X-Chair X4 Desk Chair Outshines Competitors in Office Comfort</u></a></li>
+<li><a href="https://driver-error.techidaily.com/remedy-for-ignored-logitech-unifying-hub-in-oses/"><u>Remedy for Ignored Logitech Unifying Hub in OSes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-no-display-of-seagate-hd-in-win11/"><u>Resolving No Display of Seagate HD in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-your-final-usb-error-on-windows-tips-and-solutions/"><u>Troubleshooting Your Final USB Error on Windows - Tips & Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unraveled-and-resolved-error-number-45/"><u>Unraveled and Resolved Error Number 45</u></a></li>
 </ul></div>
 

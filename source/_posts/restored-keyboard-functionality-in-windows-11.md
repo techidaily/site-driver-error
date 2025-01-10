@@ -1,7 +1,7 @@
 ---
 title: "[Restored] Keyboard Functionality in Windows 11"
-date: 2024-12-26T18:33:16.106Z
-updated: 2025-01-02T21:56:10.615Z
+date: 2025-01-03T20:19:21.757Z
+updated: 2025-01-10T04:56:55.835Z
 tags:
   - win11
   - win10
@@ -45,31 +45,31 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Reinstall your keyboard driver
 
@@ -83,17 +83,9 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
@@ -121,7 +113,15 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Switch to ChromeOS
 
@@ -164,20 +164,19 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-radio-dramas-peak-of-creative-scripting/"><u>[New] Radio Dramas Peak of Creative Scripting</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tonal-treasures-the-ultimate-list-of-classical-download-sites/"><u>[Updated] Tonal Treasures The Ultimate List of Classical Download Sites</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-walkthrough-mounting-your-wd-ses-external-hard-drive-on-current-windows-platforms-via-usb-drivers/"><u>Comprehensive Walkthrough: Mounting Your WD SES External Hard Drive on Current Windows Platforms via USB Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-deployment-mastery-error-no-more/"><u>Driver Deployment Mastery – Error No More</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exposing-the-truth-about-bingchatgpt-token-scams-tips-for-safeguarding-your-investments/"><u>Exposing the Truth About BingChatGPT Token Scams: Tips for Safeguarding Your Investments</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-non-detectable-external-drives-and-usb-gadgets-on-windows-systems/"><u>Fixing Non-Detectable External Drives and USB Gadgets on Windows Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hardware-access-refusal-win11s-decision/"><u>Hardware Access Refusal: Win11's Decision</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-x-flip-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo X Flip</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a1x-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo A1x 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-invalid-inf-configuration/"><u>Resolving Invalid INF Configuration</u></a></li>
-<li><a href="https://driver-error.techidaily.com/steps-to-restore-failed-enex-driver-loading-in-windows-11/"><u>Steps to Restore Failed eNEX Driver Loading in Windows 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-smart-lighting-solutions/"><u>Top Rated Smart Lighting Solutions</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-elevate-your-events-best-video-invitation-apps-for-mobile-for-2024/"><u>Updated Elevate Your Events Best Video Invitation Apps for Mobile for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-video-invite-creators-for-mobile-devices-for-2024/"><u>Updated Top Video Invite Creators for Mobile Devices for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win10-system-locks-out-graphics-hardware-support/"><u>Win10 System Locks Out Graphics Hardware Support</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-ai-name-magic-selecting-the-best-tools-for-your-podcast-titles/"><u>[New] In 2024, AI Name Magic Selecting the Best Tools for Your Podcast Titles</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-prioritizing-visibility-a-guide-to-insta-highlights-perfection/"><u>[Updated] 2024 Approved Prioritizing Visibility A Guide to Insta Highlights Perfection</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-sustained-disconnection-technique-from-youtube-shorts-for-2024/"><u>[Updated] Sustained Disconnection Technique From YouTube Shorts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-upgrading-your-mp4s-integrating-premium-srt-sound/"><u>[Updated] Upgrading Your MP4s Integrating Premium SRT Sound</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-play-8t-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creating-user-friendly-youtube-subscribe-icons/"><u>Creating User-Friendly YouTube Subscribe Icons</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-how-to-resolve-missing-coprocessor-driver-issue-in-windows-10/"><u>Fix: How to Resolve Missing Coprocessor Driver Issue in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-repairing-unverified-device-drivers-overcoming-installation-hurdles-on-computers/"><u>Guide to Repairing Unverified Device Drivers: Overcoming Installation Hurdles on Computers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-drivers-cant-be-removed-solution-discovered/"><u>Nvidia Drivers Can't Be Removed - Solution Discovered</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-missing-coprocessor-driver-issue-in-windows-10-a-step-by-step-guide/"><u>Resolving the 'Missing Coprocessor Driver' Issue in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-windows-11-with-no-lag/"><u>Smooth Windows 11 with No Lag</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-correcting-iphone-external-hardware-connection-error-via-mtp-usb-driver-restoration/"><u>Step-by-Step Guide to Correcting iPhone External Hardware Connection Error via MTP USB Driver Restoration</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-overcoming-bsod-errors-in-windows-10-efficiently/"><u>Step-by-Step Guide: Overcoming BSOD Errors in Windows 10 Efficiently</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Disabled Issue Eliminated
-date: 2024-12-29T19:36:09.604Z
-updated: 2025-01-02T17:26:40.441Z
+date: 2025-01-02T18:28:57.254Z
+updated: 2025-01-10T06:42:48.505Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 
 If you encounter**This device is disabled. (Code 22)**in Device Manager, here are 4 solutions you can try to fix it. You may not have to try them all. Just work your way down the list until you find the one that works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [**Enable your device driver**](https://imp.i357552.net/jzg4rq)
@@ -34,15 +38,11 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 2. Type **devmgmt.msc** and press**Enter**  to access Device Manager.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e3f572c04.png)
 3. Expand the category that your device belongs to, right-click your device and select**Enable device** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
@@ -58,6 +58,10 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecd845a65.jpg)
 3. Click the **Update** button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).Or click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
 
 ---
@@ -72,6 +76,10 @@ Uninstalling your device driver is another solution you can try to fix **This de
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Reset the BIOS settings
 
 If the above steps don’t work for you, to fix driver error code 22, you can try removing the CMOS battery to reset BIOS to its default settings, which sounds like an ultimate fix. It requires some skills. You can follow the instructions below:
@@ -85,25 +93,17 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
  Example – CMOS battery on a desktop PC  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)  
  Example – CMOS battery on a laptop
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 6. Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
 7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -126,14 +126,16 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-effortless-techniques-crafting-youtube-shorts-images-on-the-fly-for-2024/"><u>[New] Effortless Techniques Crafting YouTube Shorts Images on the Fly for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-fix-obs-full-screen-not-working-issue-for-2024/"><u>[Updated] How To Fix OBS Full Screen Not Working Issue for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/a6400s-visual-void-finding-video-fix/"><u>A6400's Visual Void - Finding Video Fix</u></a></li>
-<li><a href="https://driver-error.techidaily.com/address-usb-30-bandwidth-limit/"><u>Address USB 3.0 Bandwidth Limit</u></a></li>
-<li><a href="https://driver-error.techidaily.com/decoding-disruption-drivers-enigma-52/"><u>Decoding Disruption: Driver's Enigma #52</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-issue-when-your-windows-10-lacks-a-coprocessor-driver/"><u>Fixing the Issue When Your Windows 10 Lacks a Coprocessor Driver</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS with/without SIM Card</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-the-challenge-fixed-windows-11-touchpad-no-right-click/"><u>Overcoming the Challenge: Fixed Windows 11 Touchpad No Right Click</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-methods-for-converting-wtv-files-into-avi-format-a-comprehensive-guide/"><u>Top Methods for Converting WTV Files Into AVI Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harmonizing-tracks-understanding-crossfades/"><u>[New] Harmonizing Tracks Understanding Crossfades</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-prime-top-10-tools-convert-srt-files-for-no-charge/"><u>[New] In 2024, Prime Top 10 Tools Convert Srt Files for No Charge</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-revolutionizing-how-you-record-and-archive-ps3-gaming/"><u>[New] In 2024, Revolutionizing How You Record and Archive PS3 Gaming</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlock-the-magic-for-fbs-10-music-vids-recipe-book/"><u>[New] In 2024, Unlock the Magic for FB's #10 Music Vids Recipe Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-windows-11-100-disk-usage-in-task-manager/"><u>[SOLVED] Windows 11 100% Disk Usage in Task Manager</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715692096333-detailed-evaluation-razer-kiyo-webcam/"><u>Detailed Evaluation - Razer Kiyo Webcam</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-hp-printer-on-windows-107/"><u>Enabling HP Printer on Windows 10/7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/idt-software-compatibility-issue-correcting-the-detected-hardware-is-not-supported-message/"><u>IDT Software Compatibility Issue: Correcting the Detected Hardware Is Not Supported Message</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-usb-device-not-accepted-challenge-expert-advice-and-fixes/"><u>Overcoming the 'USB Device Not Accepted' Challenge: Expert Advice and Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stop-bluetooth-auto-connect-on-windows-10/"><u>Stop Bluetooth Auto-Connect on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-ndis-troubleshooting-done-in-a-flash/"><u>Windows NDIS Troubleshooting, Done in a Flash</u></a></li>
 </ul></div>
 

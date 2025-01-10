@@ -1,7 +1,7 @@
 ---
 title: "Resolving Your Graphic Card Issues: Fixing a 'Code Forty-Three' With Windows Eleven and GTX Ninety-Five"
-date: 2024-12-27T18:15:25.928Z
-updated: 2025-01-03T00:35:53.767Z
+date: 2025-01-07T07:21:28.468Z
+updated: 2025-01-10T01:25:37.782Z
 tags:
   - win11
   - win10
@@ -47,19 +47,23 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode.
 
@@ -83,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Option 2: Update Windows 10**
@@ -103,21 +103,17 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Check for updates** button to see if there are any new updates available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) If new updates are available, just download and then update them as instructed.
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -128,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see.
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 4: Reinstall Windows 10**
 
@@ -155,21 +155,21 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-examining-how-youtube-curates-its-highlighted-discussion-threads/"><u>[Updated] In 2024, Examining How YouTube Curates Its Highlighted Discussion Threads</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-navigating-multiple-perspectives-with-fb-lives-split-view-functionality/"><u>[Updated] Navigating Multiple Perspectives with FB Live's Split View Functionality</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-make-facebook-videos-extend-the-wallpaper/"><u>2024 Approved Make Facebook Videos Extend the Wallpaper</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosis-and-fix-experiencing-sound-on-speakers-even-with-plugged-in-headphones/"><u>Diagnosis & Fix: Experiencing Sound on Speakers Even with Plugged-In Headphones</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enhancing-deathadder-support-in-win11/"><u>Enhancing DeathAdder Support in WIN11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-the-radeon-wattman-defaults-crash-and-recovery-issue-a-step-by-step-guide/"><u>How to Fix the 'Radeon WattMan Defaults Crash & Recovery' Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-restore-your-hp-bluetooth-keyboard-functionality-step-by-step-solution/"><u>How to Restore Your HP Bluetooth Keyboard Functionality - Step-by-Step Solution</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-battleye-configuration-overcoming-initialization-challenges-and-error-code-1450/"><u>Mastering BattlEye Configuration: Overcoming Initialization Challenges and Error Code 1450</u></a></li>
-<li><a href="https://driver-error.techidaily.com/nvidia-rtx-games-performance-unmet-quick-fix/"><u>Nvidia RTX Games Performance Unmet - Quick Fix</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-errors-with-invalid-hardware-drivers-in-computer-systems/"><u>Overcoming Errors with Invalid Hardware Drivers in Computer Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/pcie-lanes-interruption-remedy-found/"><u>PCIe Lanes Interruption Remedy Found</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/picprankster-laughlens-lab-for-2024/"><u>PicPrankster LaughLens Lab for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/reverse-disk-rotation-using-chdman-to-enhance-gaming-archives/"><u>Reverse Disk Rotation: Using CHDMAN to Enhance Gaming Archives</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/shadow-surge-and-sun-sweep-encounter/"><u>Shadow Surge and Sun Sweep Encounter</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ppt-visualization-leveraging-webcam-tech/"><u>[New] In 2024, PPT Visualization Leveraging Webcam Tech</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-best-hash-tracking-apps-on-major-platforms-like-fb-tweet-and-insta/"><u>[Updated] 2024 Approved The Best Hash Tracking Apps on Major Platforms Like FB, Tweet & Insta</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-professional-insights-concealed-strategies-for-instagram-success/"><u>[Updated] Professional Insights Concealed Strategies for Instagram Success</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-webcam-seamless-integration-with-windows-10-os/"><u>ASUS Webcam Seamless Integration with Windows 10 OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bcm20702a0-non-operational-driver-detected/"><u>BCM20702A0 Non-Operational Driver Detected</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-30-new-dimensions-in-metaverse-memes/"><u>In 2024, Unveiling 30 New Dimensions in Metaverse Memes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repairing-faulty-inf-clause-for-service-setup/"><u>Repairing Faulty INF Clause for Service Setup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionary-virtual-wisdom-for-modern-souls/"><u>Revolutionary Virtual Wisdom for Modern Souls</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-how-to-install-missing-drivers-for-your-device-on-windows-10-8-and-7/"><u>Solved: How to Install Missing Driver(s) for Your Device on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-to-driver-problems-in-windows-11-8-or-7-get-your-devices-working-now/"><u>Step-by-Step Solution to Driver Problems in Windows 11, 8 or 7 – Get Your Devices Working Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-fixes-bluetooth-radios-on-windows-resolved/"><u>Swift Fixes: Bluetooth Radios on Windows Resolved</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722955946105-the-ultimate-solution-for-updating-asus-monitor-drivers-download-here-now/"><u>The Ultimate Solution for Updating ASUS Monitor Drivers - Download Here Now!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-driver-errors-for-optimal-device-performance-in-windows-versions/"><u>Troubleshooting Driver Errors for Optimal Device Performance in Windows Versions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-resolving-easy-anti-cheat-issues-in-new-world-game/"><u>Troubleshooting Tips for Resolving 'Easy Anti-Cheat' Issues in New World Game</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ate-crew-for-photographic-rhythm-films/"><u>Ultimate Crew for Photographic Rhythm Films</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-basics-of-vlogging-gear-and-software-for-2024/"><u>Unveiling the Basics of Vlogging Gear & Software for 2024</u></a></li>
 </ul></div>
 

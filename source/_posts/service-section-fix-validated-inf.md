@@ -1,7 +1,7 @@
 ---
 title: "Service Section Fix: Validated INF"
-date: 2024-12-30T08:53:36.306Z
-updated: 2025-01-03T13:30:15.375Z
+date: 2025-01-03T20:55:55.472Z
+updated: 2025-01-09T20:25:36.811Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 2. [**Update the driver manually**](https://technitya.sjv.io/dkpn02)
 3. [**Install the missing driver files manually**](https://dhgate.sjv.io/5g6yb2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 1: Update the driver automatically
 
  Since you can’t update the driver via Windows Update, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to update the driver automatically.
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged MTP USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -72,12 +68,16 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687740cb79e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Select**Let me pick from a list of available drivers on my computer** and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68744ea8804.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) In Device Manager, if you see the device shown as MTP USB device. You’ll see**MTP USB Device** listed in the list.**Highlight** it then click**Next** .
 
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68796507b2b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) The driver will install automatically. You just need to wait for a while until the installation completes.
@@ -110,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -140,19 +140,24 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-web-surfing-on-film-the-best-screen-recording-apps-of-today/"><u>[New] Web Surfing on Film The Best Screen Recording Apps of Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/799-apple-m2-macbook-air-release-sets-new-standard-before-prime-day-latest-news/"><u>$799 Apple M2 MacBook Air Release Sets New Standard Before Prime Day - Latest News</u></a></li>
-<li><a href="https://fox-that.techidaily.com/accessible-apple-8-must-use-functionality-adjustments-for-blind-iphone-users/"><u>Accessible Apple: 8 Must-Use Functionality Adjustments for Blind iPhone Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fast-track-your-computer-essential-tips-for-accelerating-windows-11/"><u>Fast Track Your Computer: Essential Tips for Accelerating Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-adb-connection-gone-wrong-in-osx/"><u>Fix ADB Connection Gone Wrong in OSX</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-non-functional-dts-truehd-and-e628-drivers-on-windows-after-failed-upgrade-now-solved/"><u>Fix Non-Functional DTS TrueHD and E628 Drivers on Windows After Failed Upgrade - Now Solved!✅</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-missing-touchpad-driver-issue/"><u>Fixing the Missing Touchpad Driver Issue</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-idt-high-definition-audio-codec-driver-problem/"><u>How to Fix IDT High Definition Audio CODEC Driver Problem</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-excellent-phones-apps-for-masterful-gopro-edits/"><u>In 2024, Excellent Phones' Apps for Masterful GoPro Edits</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-y28-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo Y28 5G Face Lock?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-glitches-the-ultimate-patched-version-of-five-nights-at-freddys-awaits-pc-players/"><u>No More Glitches: The Ultimate Patched Version of Five Nights at Freddy's Awaits PC Players</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-iphone-data-transfer-hurdles-essential-usb-driver-fixes/"><u>Overcoming iPhone Data Transfer Hurdles: Essential USB Driver Fixes</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/recuperacion-efectiva-de-archivos-desde-una-unidad-flash-usando-el-simbolo-del-sistema-en-windows/"><u>Recuperación Efectiva De Archivos Desde Una Unidad Flash Usando El Símbolo Del Sistema en Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/sysware-printer-driver-successfully-installed/"><u>SysWare Printer Driver - Successfully Installed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-crafting-allure-in-online-visuals-for-beauty/"><u>[Updated] In 2024, Crafting Allure in Online Visuals for Beauty</u></a></li>
+<li><a href="https://win-unique.techidaily.com/comprehensive-solutions-for-overcoming-crc-data-anomalies-in-your-system/"><u>Comprehensive Solutions for Overcoming CRC Data Anomalies in Your System</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dreamy-dialogues-in-dusk-examining-childrens-video-stories/"><u>Dreamy Dialogues in Dusk Examining Children's Video Stories</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-download-and-install-brother-l2340dw-color-printer-software-on-windows-operating-system/"><u>Easy Setup: Download & Install Brother L2340DW Color Printer Software on Windows Operating System</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-s17-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo S17? Try These Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/geforce-gtx-980-drivers-download-easily/"><u>GeForce GTX 980 Drivers Download Easily</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-honor-magic-v2-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Honor Magic V2 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722891833318-inside-android-16-what-to-expect-in-pricing-release-timeline-and-device-specs-get-the-rumors/"><u>Inside Android 16: What to Expect in Pricing, Release Timeline, and Device Specs – Get the Rumors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/latest-amd-gpu-drivers-compatible-with-windows-11-installation-and-update-guide/"><u>Latest AMD GPU Drivers Compatible with Windows 11: Installation & Update Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lenovo-thinkpad-edge-drivers-download-for-windows-10/"><u>Lenovo Thinkpad Edge Drivers Download for Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lenovo-y900-drivers-download-and-update-on-windows-11/"><u>Lenovo Y900 Drivers Download & Update on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/microsoft-lifecam-driver-download-the-easy-way/"><u>Microsoft Lifecam Driver Download — The Easy Way</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-rotate-your-iphone-videos-without-spending-a-dime-top-free-options-for-2024/"><u>New Rotate Your iPhone Videos Without Spending a Dime Top Free Options for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimizing-your-pc-installing-latest-amd-gpu-drivers-on-windows-10/"><u>Optimizing Your PC: Installing Latest AMD GPU Drivers on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-solutions-troubleshooting-ethernet-drivers-in-windows-20-proactively-improve-network-performance/"><u>Quick Solutions: Troubleshooting Ethernet Drivers in Windows # 20 Proactively Improve Network Performance</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-ethernet-connection-problems-on-windows-10-quickly-and-effectively/"><u>Resolve Ethernet Connection Problems on Windows 10 Quickly and Effectively</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revitalizing-vision-pro-the-top-three-actions-apple-needs-to-take-for-a-breakthrough/"><u>Revitalizing Vision Pro: The Top Three Actions Apple Needs to Take for a Breakthrough</u></a></li>
+<li><a href="https://win-best.techidaily.com/speeding-up-your-machine-expert-tips-by-yl-software-experts/"><u>Speeding Up Your Machine: Expert Tips by YL Software Experts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-fixes-for-nonfunctional-dell-trackpad-issues-in-windows-11/"><u>Step-by-Step Fixes for Nonfunctional Dell Trackpad Issues in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Kb Errors, Not Working in 10
-date: 2024-12-29T08:37:24.111Z
-updated: 2025-01-03T10:43:02.111Z
+date: 2025-01-09T04:14:40.564Z
+updated: 2025-01-09T19:42:09.291Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Adjust your keyboard settings
 
  Windows has a setting, called Filter Keys, that allows you to control how it deals with accidental repeated keystrokes. Unfortunately, if turned on, this setting has been known to cause some keyboards to stop working in Windows 10\. So you should check if it’s turned on. If it is, you should turn it off and see if that resolves the problem.
@@ -49,27 +45,27 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Reinstall your keyboard driver
 
@@ -80,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
@@ -92,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
@@ -122,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Switch to ChromeOS
 
@@ -164,24 +164,20 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-2017-data-overload-infographics-and-surprising-yt-stats/"><u>[New] 2024 Approved 2017 Data Overload Infographics & Surprising YT Stats</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-crafting-the-perfect-virtual-space-with-zooms-features-for-2024/"><u>[New] Crafting the Perfect Virtual Space with Zoom's Features for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/titled-successful-installation-of-essential-hardware-drivers/"><u>[TITLED] Successful Installation of Essential Hardware Drivers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/audiovisual-alteration-apps-that-revolutionize-vtubing-soundscapes/"><u>Audiovisual Alteration Apps that Revolutionize Vtubing Soundscapes</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-reno-9a-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cutting-through-disk-space-errors-on-win1110/"><u>Cutting Through Disk Space Errors on Win11/10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnosing-and-fixing-win1011-sm-bus-drivers/"><u>Diagnosing and Fixing Win10/11 Sm Bus Drivers</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/dissecting-youtubes-strategy-to-empower-short-form-content-makers/"><u>Dissecting YouTube’s Strategy to Empower Short-Form Content Makers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/drivers-unsuccessful-lacking-intel-adapter-support/"><u>Drivers Unsuccessful; Lacking Intel Adapter Support</u></a></li>
-<li><a href="https://driver-error.techidaily.com/elevating-system-bus-efficiency-on-win11/"><u>Elevating System Bus Efficiency on Win11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-festive-download-premium-hd-3d-christmas-walls-for-zero-cost/"><u>Get Festive: Download Premium HD 3D Christmas Walls for Zero Cost</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722959473202-get-the-latest-hp-deskjet-3630-printer-drivers-for-windows-10-users-free-download-now/"><u>Get the Latest HP Deskjet 3630 Printer Drivers for Windows 10 Users - Free Download Now!</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/hourly-highlights-top-10-youtubes-biggest-view-count-for-2024/"><u>Hourly Highlights Top 10 YouTube's Biggest View Count for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-enter-key-not-working-on-windows/"><u>How to Fix Enter Key Not Working on Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-inspiring-interview-experiences/"><u>In 2024, Crafting Inspiring Interview Experiences</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-lags-streamlined-windows-control/"><u>No More Lags: Streamlined Windows Control</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-ultimate-fix-how-to-correctly-install-your-hcmon-driver-and-avoid-failures/"><u>The Ultimate Fix: How to Correctly Install Your HCMon Driver and Avoid Failures</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-windows-10-qualcomm-atheros-bluetooth-not-working-solution/"><u>Troubleshooting Windows 10: Qualcomm Atheros Bluetooth Not Working Solution</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-behind-the-scenes-the-essential-roles-of-film-production-team-members/"><u>Updated Behind the Scenes The Essential Roles of Film Production Team Members</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-confronting-cameras-the-face-id-face-unlock-duel-for-2024/"><u>[New] Confronting Cameras The Face ID-Face Unlock Duel for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-premium-ways-to-broadcast-and-record-athletic-competitions-live/"><u>[Updated] In 2024, Premium Ways to Broadcast & Record Athletic Competitions Live</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-navigating-the-nuances-zooming-in-on-roblox/"><u>[Updated] Navigating the Nuances Zooming In on Roblox</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-motorola-moto-g73-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Moto G73 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/darkened-asus-keyboard-lights/"><u>Darkened ASUS Keyboard Lights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-fixing-error-e052-driver/"><u>Diagnosing & Fixing Error E052-Driver</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-stability-for-spellbreak-on-pc-troubleshooting-guide/"><u>Enhance Stability for Spellbreak on PC: Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-a-block-in-your-messages-detecting-when-youre-unblocked-on-imessage/"><u>Identifying a Block in Your Messages: Detecting When You're Unblocked on iMessage</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-tecno-phantom-v-fold-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Tecno Phantom V Fold Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-windows-enter-key-malfunction/"><u>Overcoming Windows Enter Key Malfunction</u></a></li>
+<li><a href="https://win-best.techidaily.com/secure-your-system-comprehensive-guide-to-shield-against-cyber-threats-insights-from-yl-software-professionals/"><u>Secure Your System: Comprehensive Guide to Shield Against Cyber Threats - Insights From YL Software Professionals</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-the-gtx-950-code-43-error-on-windows-11-systems/"><u>Troubleshooting and Fixing the GTX 950 Code 43 Error on Windows 11 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721097223338-tutorial-identifying-and-fixing-missing-drivers-for-devices-on-windows-versions-win1087-solution-found/"><u>Tutorial: Identifying & Fixing Missing Drivers for Devices on Windows Versions (Win10/8/7) - SOLUTION FOUND!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-the-potential-how-chatgpt-elevates-your-smartwatch-experience-in-six-ways/"><u>Unleash the Potential: How ChatGPT Elevates Your Smartwatch Experience in Six Ways</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-cuick-fix-for-non-responsive-qualcomm-atheros-bluetooth-devices/"><u>Windows Cuick Fix for Non-Responsive Qualcomm Atheros Bluetooth Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unwanted [BSOD]: Windows 11 Irql Resolution"
-date: 2024-12-31T04:44:21.139Z
-updated: 2025-01-02T18:26:14.971Z
+date: 2025-01-06T22:30:17.468Z
+updated: 2025-01-10T05:57:00.576Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 
 **IMPORTANT** : You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, [restart it in Safe Mode,](https://tools.techidaily.com/drivereasy/download/) then try these solutions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Solution 1: Update the drivers to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
 
  The problem can be caused by missing or corrupted drivers. To fix the problem, update the drivers.  If you don’t have the time, patience or computer skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -50,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13ff597e883.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
 ## **Solution 2: Uninstall problem drivers to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
@@ -57,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
  The problem can be caused by faulty drivers. To fix the problem, go to**Device Manager** and find the faulty drivers, then uninstall the drivers. If a driver is having problems, you’ll see a yellow mark next to its device (see the screenshot shown below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad8287f6daa6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Following steps are for your reference on how to uninstall a driver:
 
@@ -66,26 +70,22 @@ Following steps are for your reference on how to uninstall a driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13fde1d72b1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In Device Manager, locate the faulty driver. If the driver is having problems, you’ll see a yellow mark next to the device name. Then right-click on the device name (For example, uninstall graphics card driver.) and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13fe52a4642.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) If prompted to confirm  the uninstall, check the box next to “Delete the driver software for this device.” then click the **OK**  button. If you don’t see this box, just click**OK** to uninstall the driver.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13feb35a43d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Restart your PC and check to see if the blue screen is gone  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3 **: Perform a System Restore to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
@@ -105,7 +105,7 @@ Following steps are for your reference on how to uninstall a driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a14004645d52.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Reboot your PC and check to see if the blue screen is gone.
@@ -151,17 +151,17 @@ Following steps are for your reference on how to uninstall a driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-premiere-pro-masterclass-essential-templates-for-free/"><u>[New] 2024 Approved Premiere Pro Masterclass - Essential Templates for Free</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-kakaotalk-elites-flash-chats-on-snapchat/"><u>[New] KakaoTalk Elites' Flash Chats on Snapchat</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-to-follow-guide-to-fixing-mtp-devices/"><u>Easy-to-Follow Guide to Fixing MTP Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-battleye-setup-issues-how-to-handle-the-infamous-driver-load-error-1450/"><u>Fixing BattlEye Setup Issues: How to Handle the Infamous Driver Load Error (1450)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-breakdown-of-essential-video-effects-in-tiktok-editing/"><u>In 2024, Breakdown of Essential Video Effects in TikTok Editing</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-digital-dynamo-dames-the-next-generation-of-youtubes-powerhouses/"><u>In 2024, Digital Dynamo Dames The Next Generation of YouTube's Powerhouses</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-enhancing-youtube-videos-proper-lighting-methods/"><u>In 2024, Enhancing YouTube Videos Proper Lighting Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-vm-speed-six-windows-tips-and-tricks/"><u>Maximizing VM Speed: Six Windows Tips & Tricks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/optimized-mouse-performance-in-windows/"><u>Optimized Mouse Performance in Windows</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ranking-the-greatest-9-mobile-video-communication-services-ios-android-for-2024/"><u>Ranking the Greatest 9 Mobile Video Communication Services (iOS, Android) for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-nonfunctional-hardware-in-windows-11-8-or-7-driver-solutions-fixed/"><u>Troubleshoot Nonfunctional Hardware in Windows 11, 8 or 7: Driver Solutions [FIXED]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlit-asus-keyboard-mystery/"><u>Unlit ASUS Keyboard Mystery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-exclusive-no-cost-premiere-pro-resource-pack/"><u>[New] 2024 Approved Exclusive, No-Cost Premiere Pro Resource Pack</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-live-sound-excellence-unveiled-our-top-picks-for-streaming-quality/"><u>[New] Live Sound Excellence Unveiled Our Top Picks for Streaming Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-twirl-forge-instruments/"><u>[New] Twirl Forge Instruments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/essential-fixes-for-hardware-devices-in-windows-manager/"><u>Essential Fixes for Hardware Devices in Windows Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-stop-bluetooth-on-windows-11/"><u>How to Stop Bluetooth On Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-ultimate-strategy-for-bio-linking-on-tiktok/"><u>In 2024, Ultimate Strategy for Bio Linking on TikTok</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-miniature-marvel-of-additive-manufacturing-a-coin-sized-3d-printer-using-cutting-edge-silicon-technology-no-moving-parts/"><u>Introducing the Miniature Marvel of Additive Manufacturing: A Coin-Sized 3D Printer Using Cutting-Edge Silicon Technology, No Moving Parts!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/junior-savers-program-a-guide-for-instilling-savings-habits-in-teens-through-the-innovative-use-of-massmail-solutions/"><u>Junior Savers Program: A Guide for Instilling Savings Habits in Teens Through the Innovative Use of MassMail Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/subtitled-quickly-converting-from-compressed-files-for-2024/"><u>Subtitled Quickly! Converting From Compressed Files for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-how-to-restore-functionality-of-qualcomm-atheros-bluetooth-on-windows-11/"><u>Troubleshooting Guide: How to Restore Functionality of Qualcomm Atheros Bluetooth on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/uncovering-solutions-for-unidentified-usb-errors-win-78/"><u>Uncovering Solutions for Unidentified USB Errors Win 7/8</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/wiederherstellung-von-geloschten-dateien-auf-einem-asus-laptop-professionelle-tipps-und-tricks/"><u>Wiederherstellung Von Gelöschten Dateien Auf Einem ASUS Laptop - Professionelle Tipps Und Tricks</u></a></li>
 </ul></div>
 

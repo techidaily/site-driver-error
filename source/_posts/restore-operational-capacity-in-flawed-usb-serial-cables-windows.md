@@ -1,7 +1,7 @@
 ---
 title: Restore Operational Capacity in Flawed USB-Serial Cables, Windows
-date: 2025-01-01T14:03:17.079Z
-updated: 2025-01-03T13:53:34.333Z
+date: 2025-01-03T04:18:27.683Z
+updated: 2025-01-10T03:04:52.860Z
 tags:
   - win11
   - win10
@@ -21,14 +21,14 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 
  Don’t panic. Certainly, you’re not the only one. We’ve seen many Windows users reporting this**Prolific USB to Serial driver not working on Windows** issue. More importantly, you can easily fix it with the solutions here. Read on and see how…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. **[Update your Prolific USB to Serial driver to the latest version](https://bluettide.pxf.io/ekmjb2)**
 2. **[Roll your Prolific USB to Serial driver back to an older version](https://pish-posh-baby.sjv.io/g1jg15)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 1: Update your Prolific USB to Serial driver to the latest version
 
@@ -39,19 +39,23 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 1. **Manual driver update –** You can update your Prolific USB to Serial driver manually by going to the official [Prolific website](http://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41&showlevel=0041-0041) , and searching for the most recent correct driver. Be sure to choose the only driver that is compatible with your Windows version.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb06e0d6f148.jpg)
 2. **Automatic driver update –** If you don’t have the time, patience, or computer skills to update your Prolific USB to Serial driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your exact Prolific adapter, and your Windows version, and it will download and install them correctly:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb0704ce6b75.jpg)
 3. Click**Update** next to the flagged Prolific USB to Serial driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back** guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb072bf3dffe.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Roll your Prolific USB to Serial driver back to an older version
 
@@ -67,7 +71,7 @@ Here’s how you can do it:
 3. Double-click**Ports(COM & LPT)** , then**right-click** on your Prolific USB to Serial driver to select**Update driver** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075701f308.jpg)
@@ -76,10 +80,6 @@ Here’s how you can do it:
 5. Select**Let me pick from a list of available drivers on my computer** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075da68269.png)
 
 6. Select an older version on the Model list. Then**Next** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb076059c302.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then the driver you select would be installed on your Windows 10 computer automatically.
 
@@ -107,21 +107,18 @@ Once it’s done, connect your device again and see if it goes well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-from-budget-channels-to-big-brands-youtube-sponsorships-demystified/"><u>[New] 2024 Approved From Budget Channels to Big Brands YouTube Sponsorships Demystified</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unlock-the-best-top-9-gamers-hubs/"><u>[New] 2024 Approved Unlock the Best Top 9 Gamers' Hubs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-dead-walkers-dominance-leading-zombie-video-game-ranks-for-2024/"><u>[New] Dead Walkers Dominance Leading Zombie Video Game Ranks for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-unlock-creative-potential-editing-videos-via-windows-photos-and-story-remix/"><u>[New] In 2024, Unlock Creative Potential Editing Videos via Windows Photos and Story Remix</u></a></li>
-<li><a href="https://driver-error.techidaily.com/audio-device-unheard-in-win10-heres-the-quick-troubleshooting-guide/"><u>Audio Device Unheard in Win10? Here's the Quick Troubleshooting Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/blank-screen-for-external-drives-on-w10w11/"><u>Blank Screen for External Drives on W10/W11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bring-back-life-to-flawed-usb-serial-devices/"><u>Bring Back Life to Flawed USB-Serial Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/decoding-usb-composite-devices-an-insight-into-outdated-technology/"><u>Decoding USB Composite Devices: An Insight Into Outdated Technology</u></a></li>
-<li><a href="https://driver-error.techidaily.com/demystifying-the-legacy-usb-composite-device-issue-a-complete-guide/"><u>Demystifying the Legacy USB Composite Device Issue - A Complete Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-harmony-wacoms-success-story/"><u>Device Harmony: Wacom's Success Story</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-an-in-depth-guide/"><u>Exploring Tom’s Hardware: An In-Depth Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Nubia Z50S Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/skyline-pixel-boost-pro-windowsmac-suite-for-2024/"><u>Skyline Pixel Boost Pro Windows/Mac Suite for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/asy-path-to-professional-looking-youtube-shorts-for-2024/"><u>The Easy Path to Professional-Looking YouTube Shorts for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-picking-the-perfect-portable-power-units-for-campers-in-depth-tests-and-expert-reviews-zdnet/"><u>Ultimate Guide to Picking the Perfect Portable Power Units for Campers: In-Depth Tests and Expert Reviews | ZDNET</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104265513-unresponsive-games-due-to-gpu-issue-quick-solution-inside/"><u>Unresponsive Games Due to GPU Issue? Quick Solution Inside!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-a-list-makeup-tutorials-who-to-watch-for-2024/"><u>[New] A-List Makeup Tutorials Who to Watch for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-keyboard-brightness-problem/"><u>ASUS Keyboard Brightness Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drives-unseen-in-win-1011-resolved-guide/"><u>Drives Unseen in Win 10/11 - Resolved Guide</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/effiziente-methoden-zum-wiederaufbau-verlorener-dokumente-fokus-auf-adobe-dateitypen/"><u>Effiziente Methoden Zum Wiederaufbau Verlorener Dokumente – Fokus Auf Adobe-Dateitypen</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-and-windows-37-now-in-harmony/"><u>Hardware & Windows 37, Now in Harmony</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-docx-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Add Your Digital Signature to a .docx Document</u></a></li>
+<li><a href="https://driver-error.techidaily.com/incompatible-device-no-software-detected/"><u>Incompatible Device, No Software Detected</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-drivers-wont-work-on-windows-10-discover-the-fix-now/"><u>Qualcomm Atheros Bluetooth Drivers Won't Work on Windows 10? Discover the Fix Now</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-access-to-your-gaming-hardware-information-in-win11/"><u>Quick Access to Your Gaming Hardware Information in Win11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/quick-quirky-qs-how-to-save-funny-tweets-as-gifs-for-2024/"><u>Quick, Quirky Qs How To Save Funny Tweets as GIFs for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-lenovos-windows-10-bluetooth-woes/"><u>Resolved Lenovo's Windows 10 Bluetooth Woes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-common-issues-no-more-pc-game-crashes-for-death-stranding/"><u>Troubleshooting Common Issues: No More PC Game Crashes for Death Stranding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-6-heavies-massive-language-models-triumph/"><u>Ultimate 6 Heavies: Massive Language Models Triumph</u></a></li>
 </ul></div>
 

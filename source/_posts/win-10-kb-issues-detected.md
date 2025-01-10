@@ -1,7 +1,7 @@
 ---
 title: Win 10 KB Issues Detected
-date: 2024-12-29T08:31:46.162Z
-updated: 2025-01-03T05:29:26.979Z
+date: 2025-01-07T04:10:22.734Z
+updated: 2025-01-09T21:20:13.449Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
  Fortunately, it’s easy to test: simply unplug the keyboard from the USB port and plug in another USB device – like a mouse or an external hard drive. If that device doesn’t work either, the USB port itself is the problem, and you should skip straight to [Method 4](https://pish-posh-baby.sjv.io/g1jg15) . If the device you just plugged in does work, then continue to [Method 2](https://zonlipartnershipprogram.pxf.io/b0rbxy) .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Adjust your keyboard settings
 
@@ -54,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Ease of Access** .
@@ -69,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ## Method 3: Reinstall your keyboard driver
@@ -79,9 +75,17 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) When prompted to confirm, click**OK** .
 
@@ -113,14 +117,10 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Switch to ChromeOS
@@ -164,24 +164,14 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-single-shots-to-spectaculary-screenshots/"><u>[New] From Single Shots to Spectaculary Screenshots</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-high-definition-audio-device-driver-issue-after-windows-7-install/"><u>[Solved] High Definition Audio Device Driver Issue After Windows 7 Install</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-building-blocks-for-a-thriving-design-career/"><u>[Updated] Building Blocks for a Thriving Design Career</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-how-to-securely-download-youtubes-srt-subtitles-for-2024/"><u>[Updated] How to Securely Download YouTube's SRT Subtitles for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-streamlined-shots-in-the-sea-7-easy-to-follow-steps-for-2024/"><u>[Updated] Streamlined Shots in the Sea 7 Easy-to-Follow Steps for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-hidden-drain-unearthing-deceptive-likes-costs-for-2024/"><u>[Updated] The Hidden Drain Unearthing Deceptive Likes' Costs for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-brand-with-unique-email-signatures-a-how-to-on-godaddy-webmail-platform/"><u>Boost Your Brand with Unique Email Signatures - A How-To on GoDaddy Webmail Platform</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-maplestory-initialization-errors-tips-and-fixes-for-smooth-launches/"><u>Bypassing Maplestory Initialization Errors: Tips & Fixes for Smooth Launches</u></a></li>
-<li><a href="https://driver-error.techidaily.com/drivers-detected-ideport0-control-error/"><u>Driver's Detected: Ideport0 Control Error</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effective-solutions-to-fix-unrecognized-driver-installations-for-compatibility/"><u>Effective Solutions to Fix Unrecognized Driver Installations for Compatibility</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-marvell-91xx-driver-issue-on-windows-11-solved/"><u>Fix Marvell 91Xx Driver Issue on Windows 11 [Solved]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-lava-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Lava</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-recover-from-a-crash-in-your-radeon-wattman-configurations-successfully/"><u>How To Recover From a Crash in Your Radeon Wattman Configurations Successfully</u></a></li>
-<li><a href="https://driver-error.techidaily.com/nvidia-driver-update-successfully-installed/"><u>Nvidia Driver Update Successfully Installed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/repair-techniques-to-fix-visual-anomalies-like-discoloration-and-distortion-in-computer-display/"><u>Repair Techniques to Fix Visual Anomalies Like Discoloration and Distortion in Computer Display</u></a></li>
-<li><a href="https://driver-error.techidaily.com/seamless-hardware-drivers-across-windows-versions/"><u>Seamless Hardware Drivers Across Windows Versions</u></a></li>
-<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-15-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 15 failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-invalid-drivers-steps-to-rectify-unrecognized-installations/"><u>Troubleshooting Invalid Drivers: Steps to Rectify Unrecognized Installations</u></a></li>
-<li><a href="https://driver-error.techidaily.com/usb-serial-linkup-windows-system-recovery-tips/"><u>USB Serial Linkup: Windows System Recovery Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-ultimate-breakdown-decoding-comprehensiveness-of-xvideo-hub-review/"><u>[New] 2024 Approved The Ultimate Breakdown Decoding Comprehensiveness of XVideo Hub Review</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/complete-step-by-step-tutorial-on-upgrading-the-ssd-in-your-lenovo-ideapad-l340/"><u>Complete Step-by-Step Tutorial on Upgrading the SSD in Your Lenovo IdeaPad L340</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphic-deconstruction-microsofts-ms-bda-explained/"><u>Graphic Deconstruction: Microsoft's MS BDA Explained</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-and-windows-10-demystifying-the-code-43-error-and-how-to-fix-it-successfully/"><u>GTX 950 and Windows 10: Demystifying the 'Code 43' Error and How to Fix It Successfully</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-usb-drive-not-showing-up-in-windows-10-issue/"><u>How to Fix USB Drive Not Showing Up in Windows 10 Issue</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-magic5-ultimate-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor Magic5 Ultimate Device</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-innovations-and-standouts-10-premier-podcast-hosting-providers/"><u>New Innovations and Standouts 10 Premier Podcast Hosting Providers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-fixes-for-pc-woes-enter-safe-mode-and-eliminate-graphics-card-drivers-in-windows-8/"><u>Seamless Fixes for PC Woes - Enter Safe Mode & Eliminate Graphics Card Drivers in Windows 8</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-most-captivating-criminal-stories-in-audio-format/"><u>Unveiling the Most Captivating Criminal Stories in Audio Format</u></a></li>
 </ul></div>
 

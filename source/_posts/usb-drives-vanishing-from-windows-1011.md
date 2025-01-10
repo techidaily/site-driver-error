@@ -1,7 +1,7 @@
 ---
 title: USB Drives Vanishing From Windows 10/11
-date: 2024-12-27T01:00:09.748Z
-updated: 2025-01-03T12:50:51.595Z
+date: 2025-01-04T03:10:32.431Z
+updated: 2025-01-10T06:50:17.695Z
 tags:
   - win11
   - win10
@@ -36,22 +36,22 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6098ec3402.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate**IDE ATA/ ATAPI controllers** .
  3) Right-click **ATA Channel 0** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e194a84fe7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right-click **ATA Channel 1** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e199372f3c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) If you have more options under**IDE/ ATAPI controllers** category, right-click them and click**Uninstall** as above procedures.
 
@@ -75,15 +75,15 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a61a4afa.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
 
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Follow the path:
@@ -104,17 +104,21 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55543336b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) **Delete**  them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
 
@@ -129,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd3791d37b.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
@@ -145,13 +145,13 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -172,18 +172,24 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-engaging-youtube-summaries-with-tailored-templates/"><u>[New] In 2024, Engaging YouTube Summaries with Tailored Templates</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-master-methods-chronicling-your-ps3-gameplay-for-2024/"><u>[New] Master Methods Chronicling Your PS3 Gameplay for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-best-of-both-worlds-androids-8-most-popular-free-and-paid-videomosaic-apps/"><u>[Updated] In 2024, Best of Both Worlds Android's 8 Most Popular Free & Paid Videomosaic Apps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/direct-fix-overcoming-mtp-device-failures/"><u>Direct Fix: Overcoming MTP Device Failures</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-effortlessly-update-system-drivers-on-the-hp-envy-x360-touchscreen-laptop/"><u>How to Effortlessly Update System Drivers on the HP ENVY X360 Touchscreen Laptop</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-drones-and-editing-synergy-top-9-software-compared/"><u>In 2024, Drones and Editing Synergy - Top 9 Software Compared</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-y78-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo Y78 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://driver-error.techidaily.com/incompatible-driver-not-found-by-os/"><u>Incompatible Driver Not Found by OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-audio-lag-issues-with-ease/"><u>Resolve Audio Lag Issues with Ease</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-tutorial-to-install-required-drivers-on-windows-devices-win1087/"><u>Step-by-Step Tutorial to Install Required Drivers on Windows Devices [WIN10/8/7]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-and-resolve-when-windows-doesnt-identify-the-latest-connected-usb-apparatus/"><u>Troubleshoot and Resolve: When Windows Doesn't Identify the Latest Connected USB Apparatus.</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unveiling-the-magic-transforming-scenes-with-gopro-timelapse-for-2024/"><u>Unveiling the Magic Transforming Scenes with GoPro Timelapse for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-keyboard-operates-smoothly-again/"><u>Windows 11 Keyboard Operates Smoothly Again</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-pros-guide-to-hidden-power-ups-in-vlc-playback/"><u>[New] 2024 Approved The Pro's Guide to Hidden Power-Ups in VLC Playback</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-step-into-the-limelight-creating-an-authentic-self-replica-on-tiktok-for-2024/"><u>[Updated] Step Into the Limelight Creating an Authentic Self-Replica on TikTok for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-a24-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy A24 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-quick-retrieval-of-hidden-reddit-threads/"><u>2024 Approved Mastering Quick Retrieval of Hidden Reddit Threads</u></a></li>
+<li><a href="https://win-able.techidaily.com/alternative-video-conversion-software-optimal-choices-apart-from-dvd-decrypter-on-windows-11/"><u>Alternative Video Conversion Software: Optimal Choices Apart From DVD Decrypter on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-plus-a-language-learning-powerhouse-for-modern-learners/"><u>ChatGPT Plus: A Language Learning Powerhouse for Modern Learners</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-venintanddev33a0-drive-errors/"><u>Correcting VEN_INT&DEV_33A0 Drive Errors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-why-zdnet-ranks-the-ecoflow-river-3-as-a-must-have-in-our-pick-for-top-beginners-portable-battery-pack/"><u>Discover Why ZDNet Ranks the EcoFlow River 3 as a Must-Have in Our Pick for Top Beginner's Portable Battery Pack!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/elan-touchpad-driver-issues-in-windows-11-solved/"><u>Elan Touchpad Driver Issues in Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104877619-fix-built-in-wifi-and-bluetooth-on-my-laptop-refuse-to-shut-down-in-windows/"><u>Fix: Built-In Wifi and Bluetooth on My Laptop Refuse to Shut Down in Windows!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-optimize-your-game-solve-dota-2-latency-troubleshooting/"><u>How To Optimize Your Game: Solve Dota 2 Latency Troubleshooting</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-creating-illusionary-settings-with-instagrams-chroma-key/"><u>In 2024, Creating Illusionary Settings with Instagram’s Chroma Key</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-venintanddev33a0-acpi-challenges/"><u>Overcoming VEN_INT&DEV_33A0 Acpi Challenges</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolution-fixing-invalid-inf-install-section/"><u>Resolution: Fixing Invalid INF Install Section</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-unsupported-hardware-error-messages-with-your-idt-software/"><u>Resolving Unsupported Hardware Error Messages with Your IDT Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-screen-reset-on-windows-with-elan-tablet-driver/"><u>Solving Screen Reset on Windows with Elan Tablet Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/systems-resource-inventory-shortfall/"><u>System's Resource Inventory Shortfall</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-complete-tutorial-upgrading-and-downloading-drivers-for-hps-envy-13-15-and-17-series-computers/"><u>The Complete Tutorial: Upgrading and Downloading Drivers for HP's Envy 13, 15, and 17 Series Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-how-to-make-your-videos-go-viral-on-youtube-8-steps/"><u>The Ultimate Guide: How to Make Your Videos Go Viral on YouTube (8 Steps)</u></a></li>
 </ul></div>
 

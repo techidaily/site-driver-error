@@ -1,7 +1,7 @@
 ---
 title: wdcsam64_prewin8.sys - Disabling Core Isolation
-date: 2025-01-02T11:10:46.294Z
-updated: 2025-01-02T17:25:31.558Z
+date: 2025-01-03T17:28:49.849Z
+updated: 2025-01-09T20:25:39.041Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Update Windows
@@ -48,15 +48,15 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -75,14 +75,14 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-49.png)
 2. Type this command: **`pnputil.exe -d oem<NUMBER>.inf`**  and hit **Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The**`<NUMBER>`** here should be filled with the number you see on your computer. For instance, I’m seeing **16** , so my command here should be **`pnputil.exe -d oem16.inf`** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-72.png)
 3. This is what the command looks like on my computer.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-74.png)  
  Hit **Enter**  when the command is typed in.
@@ -101,13 +101,13 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-75.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then check to see if the wdcsam64\_prewin8.sys driver is still marked as incompatible. If so, please move further.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Automatically update the wdcsam64\_prewin8.sys driver
 
@@ -127,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Repair damaged or corrupt system files
 
  If none of the above helps, you may need to check if there are corrupt or damaged system files that lead to system conflicts, missing DLLs, registry errors, etc, thus stopping the wdcsam64\_prewin8.sys driver from loading. So you’ll need to repair such files. Tools like **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  can automate the repair process quickly and easily. To use it:
@@ -137,10 +141,6 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -167,20 +167,22 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-uncomplicated-video-snip-for-win10-users-for-2024/"><u>[New] Uncomplicated Video Snip for Win10 Users for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-intel-wi-fi-6-ax201-not-working/"><u>[SOLVED] Intel Wi-Fi 6 AX201 Not Working</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-ranked-costless-pixel-perfection-aid/"><u>[Updated] Top-Ranked Costless Pixel Perfection Aid</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-comprehensive-look-at-benq-sw320s-4k-features-for-2024/"><u>A Comprehensive Look at BenQ SW320's 4K Features for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cd-drive-absence-windows-11-issue-solved/"><u>CD Drive Absence: Windows 11 Issue Solved</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722989877310-insurgency-sandstorm-troubleshooting-fixed-crash-issues-and-more/"><u>Insurgency: Sandstorm Troubleshooting - Fixed Crash Issues and More!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/missing-external-drive-in-windows-10-the-seagate-dilemma/"><u>Missing External Drive in Windows 10: The Seagate Dilemma</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-fcp-file-management-101-saving-and-organizing-your-projects/"><u>New 2024 Approved FCP File Management 101 Saving and Organizing Your Projects</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-solution-to-persistent-amd-crashes/"><u>Quick Solution to Persistent AMD Crashes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resource-allocation-hurdles-in-device/"><u>Resource Allocation Hurdles in Device</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211335720-9798869343048-the-demetri-effect/"><u>The Demetri Effect | Free Book</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-unsupported-hardware-recognition-error-with-idt-software/"><u>Troubleshooting: Unsupported Hardware Recognition Error with IDT Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-users-heres-how-you-can-get-your-wi-fi-keyboard-back-in-action/"><u>Windows Users! Here's How You Can Get Your Wi-Fi Keyboard Back in Action</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-gofundme-campaign-imagery-tips-for-2024/"><u>[New] GoFundMe Campaign Imagery Tips for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-hastyhit-freezevidsnapshot-for-2024/"><u>[New] HastyHit FreezeVidSnapshot for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-spellbinding-tones-validity-of-the-vocal-transformation-app-questioned-check-out-more/"><u>[Updated] 2024 Approved Spellbinding Tones Validity of the Vocal Transformation App Questioned - Check Out More</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-become-a-sticker-master-turning-any-gif-into-an-icon-on-messaging-apps/"><u>[Updated] Become a Sticker Master Turning Any GIF Into an Icon on Messaging Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-free-online-converter-convert-m4v-and-wmv-files-with-movavi/"><u>1. Free Online Converter: Convert M4V & WMV Files with Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/basics-of-rectifying-hardware-drivers-in-dm/"><u>Basics of Rectifying Hardware Drivers in DM</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-microsofts-language-model-chatgpt-tackle-math-puzzles-successfully/"><u>Can Microsoft's Language Model, ChatGPT, Tackle Math Puzzles Successfully?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-nextgen-vision-optimal-4k-displays-for-professional-edits/"><u>In 2024, NextGen Vision Optimal 4K Displays for Professional Edits</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-and-mouse-stop-working-after-sleep-on-windows-11-solved/"><u>Keyboard & Mouse Stop Working After Sleep on Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimize-dell-tapping-functionality-windows-7/"><u>Optimize Dell Tapping Functionality (Windows 7)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-non-functioning-broadcom-bluetooth-drivers-on-windows-11-computers/"><u>Resolving Non-Functioning Broadcom Bluetooth Drivers on Windows 11 Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successful-setup-of-nvidia-graphics-drivers/"><u>Successful Setup of Nvidia Graphics Drivers</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-real-scale-of-facebooks-user-exodus/"><u>The Real Scale of Facebook's User Exodus</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-dealing-with-non-functioning-last-usb-and-lack-of-recognition-in-windows/"><u>Troubleshooting Steps for Dealing with Non-Functioning Last USB and Lack of Recognition in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-fixes-to-get-your-qualcomm-atheros-devices-bluetooth-up-and-running-on-windows-11/"><u>Ultimate Fixes to Get Your Qualcomm Atheros Device's Bluetooth Up and Running on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/urgent-call-for-innovation-how-executives-can-empower-tech-teams-at-lightning-speed-insights-from-zdnet/"><u>Urgent Call for Innovation: How Executives Can Empower Tech Teams at Lightning Speed - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-keyboard-no-response/"><u>Windows 10: Keyboard No Response</u></a></li>
 </ul></div>
 

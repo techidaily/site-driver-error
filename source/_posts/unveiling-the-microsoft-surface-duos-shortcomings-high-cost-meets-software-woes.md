@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Microsoft Surface Duo's Shortcomings: High Cost Meets Software Woes"
-date: 2024-12-27T05:48:23.321Z
-updated: 2025-01-03T10:41:55.785Z
+date: 2025-01-05T01:45:22.803Z
+updated: 2025-01-09T22:41:04.324Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Microsoft Surface Duo's Shortcomings: High Cost Meets Software Woes"
@@ -13,13 +13,13 @@ thumbnail: https://thmb.techidaily.com/250855bb01ff5d1f68da39bedfd2fea2571983e53
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Star Wars: Squadrons
 
 ![Star Wars: Squadron](https://www.lifewire.com/thmb/6oS-JFwbIkBnBw9F2JGlg47BvAI=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Star-Wars-Squadrons-1-daa1e236365f4a4a8831cce59004223a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -42,6 +42,10 @@ Lifewire / Andy Zahn
 [View On Amazon](https://www.amazon.com/Star-Wars-Squadrons-Online-Game/dp/B08B8BZFCC/?tag=lifewire-onsite-prod-20&ascsubtag=5086656%7Cn7a4d5af5c6f040bfb3038a22bcfdeda919%7CB08B8BZFCC) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fstar-wars-squadrons-windows-digital%2F6415793.p%3FskuId%3D6415793)
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Star Wars: Squadrons
 
@@ -94,13 +98,13 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
 ![Star Wars: Squadrons](https://www.lifewire.com/thmb/_MN0adYtaTCJ1Qhmsivk-M-DkXo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Star-Wars-Squadrons-3-31074635684244d48b1d792540a477e2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Andy Zahn
 
  In between story missions you are fixed in place in different rooms, where you click on different characters to talk to them. I found these sequences to be very linear and I found that they tended to drag on. I’d certainly have preferred to be able to walk around rather than teleport between locations on the ship. This is probably due to this game being intended to be played in VR where the fixed positioning makes more sense due to the limitations of VR, but the game would've been well served by separate control schemes. This is a minor gripe; if desired you can just skip through these sequences pretty quickly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Gameplay: Refined and surprisingly deep**
 
@@ -114,6 +118,10 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
 ![Star Wars: Squadrons](https://www.lifewire.com/thmb/COT6eEVvzd6QqCbhmtbP4a_C--Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Star-Wars-Squadrons-6-9d086810906a486b9266ec247e2ab966-3636fb8670644ae98afd0bc57b59df8d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Andy Zahn
 
  The one thing that pulled me out of the game at times was the somewhat wonky ship physics, which make sense from the pilot's seat, but look a bit weird to see from other ships. You can stop quickly and turn on a dime, which benefits gameplay on a technical level, but is a bit jarring and unrealistic to witness.
@@ -122,6 +130,10 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
  There’s also ship customization, which allows you to alter various aspects of your aircraft such as armament, hull, and engines to enhance various attributes, though this usually comes at a cost to other capabilities. For example, you can trade speed for extra agility and vice versa. It requires a deep understanding of the ship you’re customizing so you’ll probably want to wait to touch this till you’ve had plenty of practice in battle. There are also cosmetic customizations, such as paint jobs and ornaments. Both gameplay and cosmetic customizations are purchased with separate types of in-game currency.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Graphics: Attention to detail**
 
  Star Wars: Squadrons is drop-dead gorgeous. Ships are lovingly rendered and great detail was paid to getting the lighting, environments, and effects just right. The cockpits of the different ships you pilot are fully realized and mesmerizing in their realism. It’s easy to get sucked into ogling a grand alien vista or just reveling in the experience of being in the cockpit of an honest to goodness X-Wing. Explosions, lasers, enemy ships tearing apart in fiery gouts of flame, and the realistic damage to your own ship, provoke many tense situations that hit home and are bound to get your heart racing.
@@ -129,7 +141,7 @@ Star Wars: Squadrons is drop-dead gorgeous.
 ![Star Wars: Squadrons](https://www.lifewire.com/thmb/a-_aXPmbq5vlMG21Sutf0cIe4BI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Star-Wars-Squadrons-7-dc3679df974e4da793c52f2fb2831eac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
@@ -137,26 +149,18 @@ Star Wars: Squadrons is drop-dead gorgeous.
  The game is less attractive in VR, with muddier textures and blurrier skybox, but the trade-off for added immersion is well worth the sacrifice. Actually moving your head to scan around the glass cockpit for enemy fighters and capital ships (or your own wingmates) and then diving in to engage is some of the most fun you can have in VR.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Audio: Authentic Star Wars**
 
  With the vast majority of video games, your experience is almost as dependent on what you hear as what you see. In this regard, Squadrons is a masterpiece. This game perfectly replicates the epic feel of classic Star Wars space combat from the laser fire, to the roar of your engines, to the exhilarating whoosh of grazing an asteroid. There’s also the unforgettable John Williams soundtrack, which is fully present here and is just as vital to the experience of the game as it is to the films.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Performance: Solid on moderately powerful PCs**
 
  I was able to get consistently high frame rates during gameplay with my custom gaming PC running 32 GB of DDR4 RAM, an AMD Ryzen 7 2700X processor, and an Nvidia RTX 2070 GPU. However, I experienced some odd stuttering in the hanger between missions, which seemed more of a graphical bug than an issue with the power of my PC. I also played Squadrons on a laptop with a less powerful processor, 16GB of RAM, and a Nvidia RTX 2060 Max-Q. The game performed well and provided a smooth gameplay experience at maximum graphical settings.
 
  Dogfights are fast, brutal, and thanks to a wide variation in map design, each match feels remarkably fresh and non-repetitive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Controls: Wide support for different inputs**
 
@@ -175,10 +179,6 @@ Star Wars: Squadrons is drop-dead gorgeous.
 ## **Price: Good value**
 
  With an MSRP of just $40 Star Wars: Squadrons is a surprisingly reasonably priced game that bucks the trend of modern AAA games uniformly releasing for $60 regardless of what content they are able to offer. It’s not the longest game, and there is a limit to end-game multiplayer content, so $40 is pretty much the exact right price for Squadrons. It’s refreshing to see a distinct lack of any extra monetization in the game, with no annoying microtransactions or loot boxes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Star Wars: Squadrons vs. Elite Dangerous**
 
@@ -213,24 +213,18 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-understanding-the-impact-of-igtv-videos-through-analysis/"><u>[New] 2024 Approved Understanding the Impact of IGTV Videos Through Analysis</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-crafting-co-exclusive-brands-and-youtube-experiences/"><u>[New] Crafting Co-Exclusive Brands and YouTube Experiences</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-perfect-pictures-quick-pixlr-tricks-for-beginners/"><u>[New] In 2024, Perfect Pictures Quick Pixlr Tricks for Beginners</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-transform-your-presence-advanced-tricks-for-live-video-graphics/"><u>[New] Transform Your Presence Advanced Tricks for Live Video Graphics</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-creativity-on-the-fly-android-and-iphones-video-magic/"><u>2024 Approved Unleash Creativity on the Fly Android & iPhone's Video Magic</u></a></li>
-<li><a href="https://driver-error.techidaily.com/a-comprehensive-guide-enabling-safe-mode-on-window-8-pcs-and-efficiently-uninstalling-gpu-drivers/"><u>A Comprehensive Guide: Enabling Safe Mode on Window 8 PCs and Efficiently Uninstalling GPU Drivers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/beyond-virtualdub-discover-the-top-video-editing-software-alternatives/"><u>Beyond Virtualdub Discover the Top Video Editing Software Alternatives</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-errors-and-enhancing-performance-of-win1110s-sm-bus-controllers/"><u>Fixing Errors & Enhancing Performance of WIN11/10's SM Bus Controllers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726223420134-movavi/"><u>Movavi: 다면적 소프트웨어 개발에 전문화되고 있는 경험이 풍부한 팀</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-asus-camera-connectivity-on-windows-10/"><u>Resolved ASUS Camera Connectivity on Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-issue-of-absent-cpu-co-processor-drivers-in-windows-10-systems/"><u>Resolving the Issue of Absent CPU Co-Processor Drivers in Windows 10 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-absent-signal-proc-in-windows-devices/"><u>Solve Absent Signal Proc in Windows Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steelseries-arctis-5-audio-trouble-heres-how-to-fix-the-mic-problem-permanently/"><u>SteelSeries Arctis 5 Audio Trouble? Here's How to Fix the Mic Problem Permanently</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-techniques-building-animation-with-movie-maker-for-2024/"><u>Step-by-Step Techniques Building Animation with Movie Maker for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-for-iphone-usb-device-connection-error-successful-solutions/"><u>Troubleshooting Guide for iPhone USB Device Connection Error - Successful Solutions!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-correcting-the-absent-coprocessor-driver-problem-on-windows-11/"><u>Troubleshooting Tips: Correcting the Absent Coprocessor Driver Problem on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unable-to-load-drivers-intel-adapter-not-found/"><u>Unable to Load Drivers - Intel Adapter Not Found</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-streamlined-bus-controller-operations/"><u>Win11: Streamlined Bus Controller Operations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-advanced-gaming-setup-for-nintendo-switch/"><u>[New] Advanced Gaming Setup for Nintendo Switch</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-editing-elegance-into-news-summations/"><u>[New] In 2024, Editing Elegance Into News Summations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unlocking-voice-inputs-powerpoint-speech-to-text-guide/"><u>[New] In 2024, Unlocking Voice Inputs PowerPoint Speech-to-Text Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-sidestep-personalized-podcast-suggestions-in-spotify/"><u>[Updated] Sidestep Personalized Podcast Suggestions in Spotify</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bcm20702a0-hardware-error-notification/"><u>BCM20702A0 Hardware Error Notification</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-faulty-installations-how-to-validate-device-drivers-for-your-system/"><u>Fixing Faulty Installations: How to Validate Device Drivers for Your System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-gtx-43/"><u>Fixing the GTX 지오크스 43 오류 문제: 웹사이트에서 찾기 위한 금고 해결 방식</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-bsod-blue-screen-error-code-0x0000007e-in-windows-7/"><u>How to Fix the BSOD (Blue Screen) Error Code 0X0000007E in Windows 7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-device-compatibility-installing-necessary-drivers-for-windows-11-8-and-7-machines/"><u>Mastering Device Compatibility: Installing Necessary Drivers for Windows 11, 8 & 7 Machines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-airpods-pro-gear-and-enhancements-best-picks-techradar/"><u>Top Rated AirPods Pro Gear and Enhancements: Best Picks | TechRadar</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-device-misconfiguration-insights-into-error-code-1/"><u>Troubleshooting and Solving Device Misconfiguration: Insights Into Error Code 1</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-pioneering-the-next-wave-the-best-8-android-applications-for-sound-engineering/"><u>Updated In 2024, Pioneering the Next Wave The Best 8 Android Applications for Sound Engineering</u></a></li>
 </ul></div>
 

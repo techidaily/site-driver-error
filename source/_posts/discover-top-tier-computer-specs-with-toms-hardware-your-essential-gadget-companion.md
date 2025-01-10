@@ -1,7 +1,7 @@
 ---
 title: Discover Top-Tier Computer Specs with Tom's Hardware - Your Essential Gadget Companion
-date: 2024-12-31T12:13:13.785Z
-updated: 2025-01-03T08:13:15.552Z
+date: 2025-01-03T03:56:15.508Z
+updated: 2025-01-09T16:03:24.043Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,24 +66,24 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-minecraft-survival-shelter-mastery/"><u>[New] Minecraft Survival Shelter Mastery</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-10-must-try-microphones-for-exceptional-asmr-sounds/"><u>[Updated] 10 Must-Try Microphones for Exceptional ASMR Sounds</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-grandest-picture-tweaker-suite/"><u>[Updated] 2024 Approved Grandest Picture Tweaker Suite</u></a></li>
-<li><a href="https://win-net.techidaily.com/2-facilmente-como-transferir-imagen-de-windows-11-al-ssd-sin-reinstalacion/"><u>2 Fácilmente Cómo Transferir Imagen De Windows 11 Al SSD Sin Reinstalación</u></a></li>
-<li><a href="https://driver-error.techidaily.com/a-fixers-guide-to-intellme-failures/"><u>A Fixer's Guide to IntellME Failures</u></a></li>
-<li><a href="https://driver-error.techidaily.com/car-charge-denied-by-device/"><u>Car Charge Denied by Device</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-canoscan-lide-220-software-latest-version-available/"><u>Download and Update: CanoScan LiDE 220 Software - Latest Version Available</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-correcting-unrecognized-or-invalid-drivers-on-your-device/"><u>Guide to Correcting Unrecognized or Invalid Drivers on Your Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-apple-redefined-ai-comeback-insights-on-progress-and-limitations-as-analyzed-by-zdnet/"><u>How Apple Redefined AI Comeback, Insights on Progress & Limitations as Analyzed by ZDNet</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-qualcomm-atheros-bluetooth-issues-in-windows-11-a-complete-guide/"><u>How to Fix Qualcomm Atheros Bluetooth Issues in Windows 11: A Complete Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-realme-11x-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Realme 11X 5G Through Google Earth?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-se-2020-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone SE (2020)? How to Fix</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-15-pro-max-vs-samsung-galaxy-z-fold6-a-comprehensive-head-to-head-comparison/"><u>IPhone 15 Pro Max Vs. Samsung Galaxy Z Fold6 - A Comprehensive Head-to-Head Comparison</u></a></li>
-<li><a href="https://driver-error.techidaily.com/rectify-flawed-windows-trackpad-dell/"><u>Rectify Flawed Windows Trackpad (Dell)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/remedying-recurrent-nvidia-driver-errors/"><u>Remedying Recurrent Nvidia Driver Errors</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-choice-for-hobbyists-a-complete-review-on-the-blade-e-flite-mcx2-rtf-helicopter/"><u>The Ultimate Choice for Hobbyists: A Complete Review on the Blade E-Flite mCX2 RTF Helicopter</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-windows-for-no-enter-response/"><u>Troubleshooting Windows for No Enter Response</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlocking-full-touchpad-potential-in-w11-with-elan/"><u>Unlocking Full Touchpad Potential in W11 with Elan</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wacoms-victory-over-unplugged-devices/"><u>Wacom's Victory Over Unplugged Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-choose-your-perfect-wedding-tales-youtubes-finest-8/"><u>[New] 2024 Approved Choose Your Perfect Wedding Tales - Youtube's Finest 8</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-key-strategies-for-navigating-complex-youtube-discussions/"><u>[New] 2024 Approved Key Strategies for Navigating Complex YouTube Discussions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unveiling-the-premier-10-hexacopters/"><u>[New] 2024 Approved Unveiling the Premier 10 HexaCopters</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-way-to-perform-obs-streaming-for-2024/"><u>[New] Best Way to Perform OBS Streaming for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-blueprint-for-youtube-educational-video-success-stories/"><u>[New] The Blueprint for YouTube Educational Video Success Stories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024s-prime-cameras-for-first-timers/"><u>2024'S Prime Cameras for First Timers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diy-solutions-for-hp-wireless-keyboards-that-wont-respond/"><u>DIY Solutions for HP Wireless Keyboards That Won't Respond</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensuring-smooth-gaming-regularly-update-windows-10s-deadrivers/"><u>Ensuring Smooth Gaming: Regularly Update Windows 10'S DeaDrivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-fixed-overcoming-code-43-error-on-your-windows-10-system-a-comprehensive-walkthrough/"><u>GTX 950 [Fixed] – Overcoming Code 43 Error on Your Windows 10 System: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-6s-plus-to-other-iphone-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 6s Plus to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/instant-remedy-troubleshooting-failed-mtp-connectivity/"><u>Instant Remedy: Troubleshooting Failed MTP Connectivity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-establishing-bluetooths-return-to-devices-manager/"><u>Re-Establishing: Bluetooth's Return to Devices Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/recover-absent-pci-controller-on-win-1011/"><u>Recover Absent PCI Controller on Win 10/11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-troubleshooting-tips-for-default-settings-crash-in-amd-radeon-wattman/"><u>The Ultimate Troubleshooting Tips for Default Settings Crash in AMD Radeon WattMan</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-xbox-gamepad-drivers-for-windows-7-8-and-10/"><u>Troubleshooting and Fixing Xbox Gamepad Drivers for Windows 7, 8 & 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-usb-install-failure-with-access-is-denied/"><u>Troubleshooting USB Install Failure with 'Access Is Denied'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-and-nvidia-geforce-gtx-950-code-43-error-solutions-and-workarounds/"><u>Windows 11 and NVIDIA GeForce GTX 950 Code 43 Error: Solutions and Workarounds</u></a></li>
 </ul></div>
 

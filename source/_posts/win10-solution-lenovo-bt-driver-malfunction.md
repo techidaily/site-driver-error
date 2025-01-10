@@ -1,7 +1,7 @@
 ---
 title: "Win10 Solution: Lenovo BT Driver Malfunction"
-date: 2025-01-01T04:31:58.092Z
-updated: 2025-01-03T15:21:32.082Z
+date: 2025-01-04T18:27:19.292Z
+updated: 2025-01-09T16:13:13.798Z
 tags:
   - win11
   - win10
@@ -47,19 +47,27 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7d4daf634.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) If you see a down arrow, your Bluetooth device is disabled, just right-click the item and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b810d497f1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) If you see a yellow exclamation mark next to your Bluetooth driver, your Bluetooth hardware is not responding or set up correctly. You can refer to **Option 3** for more help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2: Enable discovery mode
@@ -69,20 +77,12 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e564dcca0a6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Option 3: Update Bluetooth driver
 
@@ -124,19 +124,22 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-sunny-side-up-videography-for-android/"><u>[New] In 2024, Sunny Side-Up Videography for Android</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-rotate-for-results-instagram-video-alchemy/"><u>[Updated] In 2024, Rotate for Results Instagram Video Alchemy</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-select-your-perfect-outro-soundtrack-online-for-free/"><u>[Updated] Select Your Perfect Outro Soundtrack Online For Free</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-video-organization-the-art-of-chapter-addition/"><u>[Updated] YouTube Video Organization The Art of Chapter Addition</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/diagnosing-hardware-failures-on-your-computer-expert-tips-by-yl-software/"><u>Diagnosing Hardware Failures on Your Computer: Expert Tips by YL Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-why-your-steelseries-arctis-1-headset-microphone-isnt-functional/"><u>Fixing the Issue: Why Your SteelSeries Arctis 1 Headset Microphone Isn't Functional</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-infinix-smart-7-hd-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Infinix Smart 7 HD FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keyboard-driver-interrupts-reconciled/"><u>Keyboard Driver Interrupts Reconciled</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-self-opening-of-file-explorer/"><u>Preventing Self-Opening of File Explorer</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-default-radeon-wattman-issue-crashes-fixed-and-system-restored/"><u>Resolving the Default Radeon Wattman Issue: Crashes Fixed & System Restored</u></a></li>
-<li><a href="https://driver-error.techidaily.com/triumph-over-missing-touchpad-driver-solutions-explored/"><u>Triumph Over Missing Touchpad Driver: Solutions Explored</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-the-bsod-error-code-0x0000007e-in-windows-7-a-step-by-step-guide/"><u>Troubleshooting the BSoD Error Code 0X0000007E in Windows 7: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/uncomplicating-windows-ndis-challenges/"><u>Uncomplicating Windows' NDIS Challenges</u></a></li>
-<li><a href="https://driver-error.techidaily.com/understanding-and-resolving-aged-usb-composite-device-problems/"><u>Understanding and Resolving Aged USB Composite Device Problems</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-gleaming-graphics-the-art-of-crafting-insta-highlights-3-ways/"><u>[New] In 2024, Gleaming Graphics The Art of Crafting Insta Highlights (3 Ways)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-navigating-the-world-of-elite-hdr-camera-choices/"><u>[New] Navigating the World of Elite HDR Camera Choices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-live-streaming-war-confronting-the-titans-wirecast-and-obs/"><u>2024 Approved Live Streaming War Confronting the Titans, Wirecast & OBS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/complete-examination-of-eero-pro-wifi-routers-for-extensive-home-wireless-reach-and-quality-connection/"><u>Complete Examination of Eero Pro WiFi Routers for Extensive Home Wireless Reach and Quality Connection</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-install-newest-driver-software-on-hp-envy-20-laptops/"><u>Easy Steps to Install Newest Driver Software on HP Envy 20 Laptops</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-photography-top-10-watermark-software/"><u>Essential Photography Top 10 Watermark Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-xiaomi-civi-3-disney-100th-anniversary-edition-is-unlocked-by-drfone-android/"><u>How To Check if Your Xiaomi Civi 3 Disney 100th Anniversary Edition Is Unlocked</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-iphone-mass-storage-error-with-easy-steps/"><u>How to Fix the iPhone Mass Storage Error with Easy Steps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-top-5-ios-apps-for-podcasting-for-2024/"><u>Ideal Top 5 iOS Apps for Podcasting for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsungs-operating-system-for-the-winning-computer/"><u>Samsung's Operating System for the Winning Computer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-sync-mouse-and-window-harmony/"><u>Seamless Sync: Mouse & Window Harmony</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-nvidiaamd-graphics-drivers-on-windows-8/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing NVIDIA/AMD Graphics Drivers on Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-battlenee-error-code-1450-resolve-failed-driver-loading-problems/"><u>Troubleshooting Battlenee Error Code 1450: Resolve Failed Driver Loading Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-activating-safe-mode-on-windows-8-to-remove-problematic-graphics-card-drivers/"><u>Troubleshooting Tips: Activating Safe Mode on Windows 8 to Remove Problematic Graphics Card Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unraveling-intel-mmc-driver-woes/"><u>Unraveling Intel MMC Driver Woes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/visit-the-official-macxdvd-website-or-authorized-distributor-site/"><u>Visit the Official MacXDVD Website or Authorized Distributor Site.</u></a></li>
 </ul></div>
 

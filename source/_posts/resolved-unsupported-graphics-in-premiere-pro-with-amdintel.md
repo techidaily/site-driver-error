@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Unsupported Graphics in Premiere Pro with AMD/Intel"
-date: 2024-12-30T20:23:30.677Z
-updated: 2025-01-03T12:15:34.213Z
+date: 2025-01-08T02:59:42.469Z
+updated: 2025-01-10T06:31:38.713Z
 tags:
   - win11
   - win10
@@ -20,22 +20,22 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
  Getting the “Unsupported Video Driver” error when you’re launching Adobe Premiere Pro and the program just crashes at startup? This is a quite common error and also an easy one to fix. Read on and find out how to solve the problem right away.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why am I getting this error?
 
  The “Unsupported Video Driver” error message suggests that your current graphics driver is not compatible with Premiere Pro. An outdated or faulty video driver could cause this problem. Or, in some cases, Premiere Pro fails to recognize your driver which is actually functional and thus triggers the error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
 [1: Update your video driver](https://ukaidot.sjv.io/daqnoj)
 
 [2: Update Premiere Pro](https://ukaidot.sjv.io/daqnoj)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Update your video driver
 
@@ -49,15 +49,19 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged video driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Manual update
 
@@ -69,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 2. Type in**dxdiag** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Run-dxdiag.jpg)
 3. Click**Display** (I have two monitors so it’s shown as Display 1.) You’ll find your graphics card information here. Mark down the**name** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-25_15-01-41.png)
 4. Go to the official sites and search for your video driver. Make sure you download only the driver that’s compatible with your Windows version.  
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
  After you install the latest video driver, restart your PC and test if Premiere Pro still shows you the error message. If the problem persists, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update Premiere Pro
@@ -119,15 +119,24 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-alternative-solutions-to-game-bar-recording-for-2024/"><u>[New] Alternative Solutions to Game Bar Recording for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-webcam-visuals-uncluttered-remove-obscurants/"><u>[New] Webcam Visuals Uncluttered Remove Obscurants</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726029670160-windows-1011/"><u>無料ツールで『Windows 10/11』のビデオ解像度調整の簡単ガイド</u></a></li>
-<li><a href="https://driver-error.techidaily.com/darkened-keys-on-asus-pc/"><u>Darkened Keys on Asus PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-pc-issues-enter-safe-mode-and-uninstall-graphic-cards-driver-on-win-8-easily/"><u>Fix PC Issues? Enter Safe Mode & Uninstall Graphic Cards Driver on Win 8 Easily!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/formato-de-archivo-m4a-a-partir-de-wav-gratuito-y-sin-conexion-usando-movavi/"><u>Formato De Archivo M4A a Partir De WAV Gratuito Y Sin Conexión Usando Movavi</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-essential-guide-to-youtube-trailer-editing-with-filmora/"><u>In 2024, The Essential Guide to YouTube Trailer Editing with Filmora</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-code-1-fixing-improper-configuration-on-your-device/"><u>Resolving Code 1: Fixing Improper Configuration on Your Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-qualcomm-atheros-bluetooth-driver-issues-in-windows-11/"><u>Troubleshooting Guide: Fixing Qualcomm Atheros Bluetooth Driver Issues in Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/xplore-engaging-exchange-zones-for-2024/"><u>[New] Explore Engaging Exchange Zones for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-striding-forward-a-comprehensive-review-of-vr-walkers-for-2024/"><u>[New] Striding Forward A Comprehensive Review of VR Walkers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-freesoundvault-review-unleashing-the-power-of-2024-tech/"><u>[Updated] FreeSoundVault Review Unleashing the Power of 2024 Tech</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-perfect-your-soundtracks-essential-edits-for-crafting-podcasts-in-garageband/"><u>[Updated] Perfect Your Soundtracks Essential Edits for Crafting Podcasts in GarageBand</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boosting-productivity-with-zoom-and-a-chromebook/"><u>2024 Approved Boosting Productivity with Zoom and a Chromebook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lut-enthusiasts-delight-free-bundles-with-dji-minis-and-air-2/"><u>2024 Approved LUT Enthusiasts' Delight – Free Bundles with DJI Minis & Air 2</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-edge-40-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Edge 40 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-repairing-win1011-audacity-paudio-malfunctions/"><u>Diagnosing and Repairing Win10/11 Audacity PAudio Malfunctions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensuring-smooth-connection-lenovo-on-windows-10/"><u>Ensuring Smooth Connection: Lenovo on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-iphone-usb-connection-detailed-guide-on-resolving-mtp-device-driver-problems/"><u>Fixing the iPhone USB Connection: Detailed Guide on Resolving MTP Device Driver Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-solve-access-denied-error-while-installing-a-usb-device/"><u>How to Solve 'Access Denied' Error While Installing a USB Device</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-bluetooth-driver-solution-for-windows/"><u>Quick Bluetooth Driver Solution for Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-connectivity-issues-a-users-handbook-to-fixing-wireless-keyboards-on-windows-machines/"><u>Resolving Connectivity Issues: A User's Handbook to Fixing Wireless Keyboards on Windows Machines</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-gtx-nvidia-geforce-950-graphics-card-code-43-issue-in-windows-10/"><u>Resolving the GTX Nvidia GeForce 950 Graphics Card Code 43 Issue in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104156655-solve-unresponsive-issue-with-disabling-inbuilt-wi-fi-and-bluetooth-step-by-step/"><u>Solve Unresponsive Issue with Disabling Inbuilt Wi-Fi and Bluetooth - Step by Step!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/upgraded-video-feeds-asus-webcam-and-windows-1e-connection/"><u>Upgraded Video Feeds: ASUS Webcam & Windows 1E Connection</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-serial-connection-repair-guide-for-windows-users/"><u>USB-Serial Connection Repair Guide for Windows Users</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-oneplus-open-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My OnePlus Open Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

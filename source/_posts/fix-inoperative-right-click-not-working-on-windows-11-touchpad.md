@@ -1,7 +1,7 @@
 ---
 title: "Fix: Inoperative Right-Click Not Working on Windows 11 Touchpad"
-date: 2024-12-31T05:36:38.156Z
-updated: 2025-01-03T11:13:07.979Z
+date: 2025-01-04T03:26:59.903Z
+updated: 2025-01-10T04:34:28.161Z
 tags:
   - win11
   - win10
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c81858e3a5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Then the **Mouse Properties**  window will open. Go to the furthest right option (the name of this option could be **Device Settings** or **ELAN**), then make sure your touchpad is enabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
@@ -53,9 +49,17 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c853d19a3d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) You should also check to see if there is a function key that enables or disables the touchpad. On some laptop, this key is **F6** , or the combination of **Fn+F5** , or **Fn+F6**  . The icons looks like a tiny touchpad with a diagonal line through it. You should check your manual to see which key or keys could be at fault.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Check your touchpad setting
 
@@ -67,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On the**Touchpad** tab, in the results pane, make sure you tick the**Press the lower right corner of the touchpad to right-click** option.  
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c879b4b0a0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and expand the option**Mice and other pointing devices** . Then right click your touchpad drive. (Mine is called **Synaptics Pointing Device** , yours could be different.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/synaptics-pointing-device.png)
@@ -94,17 +94,21 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/driver-uninstall-properties.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Confirm the uninstall of your touchpad driver by ticking the box of **Delete the driver software to uninstall this device from your system** . Then check**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/delete-the-driver-software-to-uninstall-this-device-from-your-system.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) When the uninstall completes, restart your computer. Windows should help you automatically install the latest version of the driver it could find. See if your problem solved after the reinstall. If not, please follow the third option below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 4: Update your driver**
 
@@ -126,21 +130,17 @@ There’re mainly 2 ways for you to update your driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/synaptics-pointing-device.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Then go to **Driver** tab, choose **Update Driver…**  option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c89a864856.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Windows will start helping you find the latest version of touchpad driver that it could find. But if you see the notification like the following one:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58633c3acc5d9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You might need to search for the driver by yourself on the Internet.
 
@@ -194,22 +194,21 @@ You might need to search for the driver by yourself on the Internet.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-revamping-images-with-advanced-features/"><u>[New] 2024 Approved Revamping Images with Advanced Features</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-leveraging-tags-boost-engagement-and-traffic-for-videos/"><u>[New] In 2024, Leveraging Tags Boost Engagement and Traffic for Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unbeatable-youtube-video-titling-assistant/"><u>[New] In 2024, Unbeatable YouTube Video Titling Assistant</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fixing-freeze-problems-in-fb-livestreams/"><u>[Updated] Fixing Freeze Problems in FB Livestreams</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bring-back-life-to-your-unused-laptop-keyboard-article-name-358-characters/"><u>Bring Back Life to Your 'Unused' Laptop Keyboard - Article Name — 358 Characters</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bring-back-your-seagate-hd-in-windows-11-os/"><u>Bring Back Your Seagate HD in Windows 11 OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-hp-wireless-button-driver-issues-on-windows-10/"><u>Fixed: HP Wireless Button Driver Issues on Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722959887831-gigaware-usb-interface-software-for-windows-secure-your-downloads-now/"><u>Gigaware USB Interface Software for Windows - Secure Your Downloads Now!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-open-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your OnePlus Open Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/iphone-xs-not-detected-on-red-hat-enterprise-linux-issue-solved/"><u>IPhone XS Not Detected on Red Hat Enterprise Linux (Issue Solved)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/lenovo-t400-not-recognized-by-windows-xp-professional-fixed/"><u>Lenovo T400 Not Recognized by Windows XP Professional - Fixed!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-common-nvidia-drivers-anomalies/"><u>Overcoming Common Nvidia Drivers Anomalies</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-nokia-105-classic-by-fonelab-android-recover-data/"><u>Recover lost data from Nokia 105 Classic</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-windows-7-dell-pad-controller-glitch/"><u>Resolve Windows 7 Dell Pad Controller Glitch</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revived-your-touchpad-six-steps-to-find-the-missing-driver/"><u>Revived Your Touchpad: Six Steps to Find the Missing Driver</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-strategies-to-eliminate-unwanted-sounds-from-your-logitech-g-pro-x-while-gaming-2024-edition/"><u>Top Strategies to Eliminate Unwanted Sounds From Your Logitech G Pro X While Gaming – 2024 Edition</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/unlock-your-lens-skills-with-snapseed-essentials-for-2024/"><u>Unlock Your Lens Skills with Snapseed Essentials for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-perfect-thumbnails-for-higher-clickthrough-rates/"><u>[New] In 2024, Crafting Perfect Thumbnails for Higher Clickthrough Rates</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-essential-skills-for-exceptional-job-interviews-for-2024/"><u>[Updated] Essential Skills For Exceptional Job Interviews for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-diverse-world-of-uavs/"><u>[Updated] In 2024, The Diverse World of UAVs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-10-top-ios-players-elevating-video-watching-on-devices/"><u>2024 Approved 10 Top iOS Players Elevating Video Watching on Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-a-gamers-guide-to-high-quality-gameplay-recordings-on-ps4/"><u>2024 Approved A Gamer's Guide to High-Quality Gameplay Recordings on PS4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automattic-scores-victory-in-tech-arena-with-beeper-acquisition-future-messaging-ambitions-revealed-zdnet/"><u>Automattic Scores Victory in Tech Arena with Beeper Acquisition; Future Messaging Ambitions Revealed | ZDNET</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disc-dvd-cd-drives-not-showing-missing-on-windows-1111-solved/"><u>Disc/ DVD/ CD Drives Not Showing/ Missing on Windows 11/11 [SOLVED]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-guide-to-preventing-and-repairing-pc-crashes-while-playing-fifa-19/"><u>Easy Guide to Preventing and Repairing PC Crashes While Playing FIFA 19</u></a></li>
+<li><a href="https://driver-error.techidaily.com/endless-disk-use-scenario-solved-for-win1110/"><u>Endless Disk Use Scenario Solved for Win11/10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-acpi-conflicts-with-asus-gaming-pcs/"><u>Fixing Acpi Conflicts with Asus Gaming PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-driver-blocked-on-windows-11/"><u>Graphics Driver Blocked on Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-honor-x50i-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Honor X50i Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-lava-blaze-pro-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Lava Blaze Pro 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-bluetooth-driver-for-windows-10-download-easily/"><u>Intel Bluetooth Driver for Windows 10 Download Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/radeon-wattman-reset-solved-restoring-stability-to-your-graphics-settings/"><u>Radeon Wattman Reset Solved: Restoring Stability to Your Graphics Settings</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-your-bluetech-journey-a-simple-fix-for-unresponsive-bluetooth-devices-on-latest-operating-system-revealed/"><u>Smooth Your BlueTech Journey: A Simple Fix for Unresponsive Bluetooth Devices on Latest Operating System [Revealed]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Rectifying Devices Within Windows Manager
-date: 2024-12-30T01:43:00.354Z
-updated: 2025-01-03T09:20:59.801Z
+date: 2025-01-07T17:24:37.036Z
+updated: 2025-01-10T00:01:02.528Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
 **TIP** : If you see more than one Base System Device listed in Device Manager, use one of the methods above to update the driver for each item.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 1: Update the Base System Device driver via Device Manager**
 
 You can update the drivers through manager. Follow these steps:
@@ -42,16 +38,12 @@ You can update the drivers through manager. Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785bff7052c4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Reboot your computer and check to see if the Base System Device driver issue is fixed.
 
  Windows may not provide the latest driver for the device. If this way doesn’t work for you, you can use [Method 2](https://zebaoaffiliateprogram.pxf.io/xkwqe1) or [Method 3](https://printrendy.pxf.io/xyboy5) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 2: Update the Base System Device driver manually**
 
@@ -67,23 +59,27 @@ You can update the drivers through manager. Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785de836c928.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) The Hardware Id Value should be like follows. The VEN code means vendor and the DEV code means device. (In the example below, the VEN code is 15AD and the device is 0740.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785df1376590.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Go to [https://pci-ids.ucw.cz/.](https://pci-ids.ucw.cz/) Then you can use the VEN code and the DEV code to figure out what the Base System Device stands for.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56e54a4e7b7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) After you figure out what the device is, you can go to the PC manufacturer’s website or the device manufacturer’s website to download the driver. It’s recommended to go to the PC manufacturer’s website first, as they may customize the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 3: Update the Base System Device driver automatically**
 
@@ -103,6 +99,10 @@ You can update the drivers through manager. Follow these steps:
  (You can upgrade to the [Pro version](https://tools.techidaily.com/drivereasy/download/) right now with a discount, or activate the 7-day free trial version. With the trial version, you will have access to_all features_ of the Pro version such as high-speed download and one-click install. You won’t be charged before your 7-day trial ends and you can easily cancel any time during the trial period.)
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/graphic-chipset.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After updating the driver, check to see if you still see the yellow mark in Device Manager.
 
@@ -126,22 +126,18 @@ You can update the drivers through manager. Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-beyond-the-basics-streamlabs-competitors-analyzed/"><u>[New] 2024 Approved Beyond the Basics Streamlabs Competitors Analyzed</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-ultimate-5-vr-sets-elevating-uav-experience-for-2024/"><u>[Updated] Ultimate 5 VR Sets Elevating UAV Experience for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-adding-images-to-instagram-made-simple/"><u>2024 Approved Adding Images to Instagram Made Simple</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-football-vids-premier-insights-into-youtube-tracks/"><u>2024 Approved Football Vids Premier Insights Into YouTube Tracks</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/cara-restorasi-data-gagal-window-pc-dengan-losung-photorec/"><u>Cara Restorasi Data Gagal Window PC Dengan Lösung PhotoRec</u></a></li>
-<li><a href="https://driver-error.techidaily.com/disconnected-input-device-in-windows-environment/"><u>Disconnected Input Device in Windows Environment</u></a></li>
-<li><a href="https://driver-error.techidaily.com/external-graphics-access-denied-on-windows-10/"><u>External Graphics Access Denied on Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-hp-wireless-button-driver-issues-on-windows-11/"><u>Fixed: HP Wireless Button Driver Issues on Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-10-proplus-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 10 Pro+ 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-power-of-speech-recognition-for-effective-office-documentation-in-microsoft-word/"><u>In 2024, Unlock the Power of Speech Recognition for Effective Office Documentation in Microsoft Word</u></a></li>
-<li><a href="https://driver-error.techidaily.com/install-android-on-windows-via-samsung/"><u>Install Android on Windows via Samsung</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-usb-controler-software-problem/"><u>Resolve USB Controler Software Problem</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reviving-non-functional-headset-on-windows-10-pc/"><u>Reviving Non-Functional Headset on Windows 10 PC</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1563776-9781583948040-the-secret-life-of-babies/"><u>The Secret Life of Babies | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-teacher-ai-alliance-top-8-advantages-of-embracing-technology/"><u>The Teacher-AI Alliance: Top 8 Advantages of Embracing Technology</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-for-resolving-hp-wireless-keyboard-malfunctions-step-by-step/"><u>Troubleshooting Tips for Resolving HP Wireless Keyboard Malfunctions [Step-by-Step]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-1110-reinstate-acquisition-hardware/"><u>Windows 11/10: Reinstate Acquisition Hardware</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-who-rules-the-realm-of-youtube/"><u>[New] In 2024, Who Rules the Realm of YouTube?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-tool-for-perfect-openings-anywhere-you-go/"><u>[New] Premier Tool for Perfect Openings, Anywhere You Go</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweetvidsoundscape-instant-video-to-sound-for-2024/"><u>[Updated] TweetVidSoundscape Instant Video-to-Sound for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-methods-to-overcome-hcom-monitor-driver-error-during-installation/"><u>Effective Methods to Overcome Hcom Monitor Driver Error During Installation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/eliminate-blackout-issues-with-game-capture-apps-for-2024/"><u>Eliminate Blackout Issues with Game Capture Apps for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102773050-fixed-high-definition-hub-alert-relax/"><u>Fixed High-Definition Hub Alert, Relax!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-ultimate-guide-to-the-behringer-usb-midi-driver/"><u>Free Download: Ultimate Guide to the Behringer USB MIDI Driver</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-mastery-in-motion-in-depth-review-of-video-editing-software/"><u>In 2024, Mastery in Motion In-Depth Review of Video Editing Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/service-inf-section-validation-and-correction/"><u>Service INF Section Validation and Correction</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-driver-compatibility-issue-with-intel-and-amd-graphics-in-premiere-pro/"><u>Solved Driver Compatibility Issue with Intel & AMD Graphics in Premiere Pro</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/understanding-the-impact-of-aurora-hdr-on-photography-for-2024/"><u>Understanding the Impact of Aurora HDR on Photography for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/unlock-your-books-how-to-get-free-drm-free-epub-files-without-hassle/"><u>Unlock Your Books: How to Get Free DRM-Free ePub Files Without Hassle</u></a></li>
 </ul></div>
 

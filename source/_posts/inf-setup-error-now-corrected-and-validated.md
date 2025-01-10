@@ -1,7 +1,7 @@
 ---
 title: INF Setup Error - Now Corrected & Validated
-date: 2025-01-02T10:40:50.460Z
-updated: 2025-01-03T07:51:25.161Z
+date: 2025-01-04T07:07:25.126Z
+updated: 2025-01-09T19:37:48.389Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 2. [**Update the driver manually**](https://technitya.sjv.io/dkpn02)
 3. [**Install the missing driver files manually**](https://dhgate.sjv.io/5g6yb2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 1: Update the driver automatically
 
  Since you can’t update the driver via Windows Update, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to update the driver automatically.
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged MTP USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -76,28 +72,28 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68744ea8804.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) In Device Manager, if you see the device shown as MTP USB device. You’ll see**MTP USB Device** listed in the list.**Highlight** it then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687724c3ed9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you see the device shown as Unknown Device. You’ll see an Android phone or Android device in the long list.**Highlight** it and click**Next** then select**MTP USB device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68796507b2b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) The driver will install automatically. You just need to wait for a while until the installation completes.
 
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
 
@@ -112,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
 
@@ -140,24 +140,24 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-maximizing-your-youtube-click-through-rate-upload-schedule-insights/"><u>[New] In 2024, Maximizing Your YouTube Click-Through Rate Upload Schedule Insights</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-capturing-top-notch-audio-without-microphone-dependency/"><u>[Updated] 2024 Approved Capturing Top-Notch Audio Without Microphone Dependency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/11-ways-to-open-system-restore-on-windows-11/"><u>11 Ways to Open System Restore on Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-capturing-yesterdays-essence-your-path-from-pixel-to-playback/"><u>2024 Approved Capturing Yesterday's Essence Your Path From Pixel to Playback</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-get-more-followers-on-igtv-5-ways/"><u>2024 Approved How to Get More Followers on IGTV [5 Ways]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/apple-revolutionizes-device-maintenance-with-expanded-at-home-repair-services-for-iphone-and-macbook-learn-more-zdnet/"><u>Apple Revolutionizes Device Maintenance with Expanded At-Home Repair Services for iPhone & MacBook - Learn More | ZDNET</u></a></li>
-<li><a href="https://driver-error.techidaily.com/celebrating-connectivity-wacoms-win/"><u>Celebrating Connectivity: Wacom's Win</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/erstellen-eines-bootfahigen-usb-flash-drives-mit-rufus-auf-windows-11/"><u>Erstellen Eines Bootfähigen USB-Flash Drives Mit Rufus Auf Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-gtx-43-mistake-a-comprehensive-guide-for-windows-11-users/"><u>Fixing the GTX 지판 43 Mistake: A Comprehensive Guide for Windows 11 Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/functionality-reactivated-successfully/"><u>Functionality Reactivated Successfully</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-oneplus-nord-n30-se-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass OnePlus Nord N30 SE FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-14-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Xiaomi 14 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/max-drives-alerts-on-win11-how-to-solve/"><u>Max Drives Alerts on Win11 - How to Solve</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-common-problems-with-windows-and-dolby-sound-integration-done/"><u>Overcoming Common Problems with Windows and Dolby Sound Integration – Done! 👍</u></a></li>
-<li><a href="https://driver-error.techidaily.com/qualcomm-bluetooth-troubleshooting-for-windows-11-expert-fixes-and-tips-for-seamless-connectivity/"><u>Qualcomm Bluetooth Troubleshooting for Windows 11: Expert Fixes and Tips for Seamless Connectivity</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-fix-for-the-elusive-directx-9-error/"><u>Quick-Fix for the Elusive 'DirectX 9 Error'</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revealing-the-secret-find-out-who-preserved-your-instagram-uploads/"><u>Revealing the Secret: Find Out Who Preserved Your Instagram Uploads</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-the-mystery-resolving-issues-when-your-final-usb-device-fails-and-windows-ignores-its-existence/"><u>Solving the Mystery: Resolving Issues When Your Final USB Device Fails & Windows Ignores Its Existence</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-address-the-missing-coprocessor-driver-in-windows-11/"><u>Step-by-Step Guide to Address the 'Missing Coprocessor Driver' In Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-cutting-edge-tips-for-live-rl-broadcasting/"><u>[New] In 2024, Cutting-Edge Tips for Live RL Broadcasting</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-pros-guide-crafting-authentic-3d-characters-in-ps/"><u>[New] Pro's Guide Crafting Authentic 3D Characters in PS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-video-insights-top-7-free-easy-to-use-tag-extraction-software-reviewed/"><u>[Updated] Unlock Video Insights Top 7 Free, Easy-to-Use Tag Extraction Software Reviewed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audiophiles-guide-to-selecting-premium-podcast-mics/"><u>2024 Approved Audiophile's Guide to Selecting Premium Podcast Mics</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-intel-me/"><u>Diagnosing and Repairing Intel ME</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-redmi-note-12-4g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Redmi Note 12 4G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-next-wave-of-smart-tech-how-ai-is-revolutionizing-iphone-macbook-and-ipad-insights/"><u>Exploring the Next Wave of Smart Tech: How AI Is Revolutionizing iPhone, MacBook, and iPad - Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-code-39-sound-driver-issue-solved/"><u>Fix Code 39 Sound Driver Issue [SOLVED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-how-to-resolve-missing-coprocessor-driver-error-on-windows-10/"><u>Fix Guide: How To Resolve 'Missing Coprocessor Driver' Error on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-driver-error-on-windows-10-a-step-by-step-fix/"><u>GTX 950 Code 43 Driver Error on Windows 10 - A Step-by-Step Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/happy-hearts-every-device-now-with-wacom/"><u>Happy Hearts: Every Device Now with Wacom</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-repair-a-malfunctioning-hp-laptops-keyboard-one-click-at-a-time-article-title-309-chars/"><u>How To Repair a Malfunctioning HP Laptop's Keyboard, One Click at a Time - Article Title (309 Chars)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-rapid-srt-to-txt-transformation-techniques/"><u>In 2024, Mastering Rapid SRT to TXT Transformation Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/key-iphone-shot-design-guidelines-unveiled/"><u>Key iPhone Shot Design Guidelines Unveiled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repair-serial-bus-regulation-flaw/"><u>Repair Serial Bus Regulation Flaw</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secrets-to-mastering-canva-10-insider-tips-for-editors-for-2024/"><u>Secrets to Mastering Canva 10 Insider Tips for Editors for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-streaming-video-archive-extractors-for-twitch/"><u>Top 5 Streaming Video Archive Extractors for Twitch</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unleashing-efficiency-end-stutter-issues/"><u>Unleashing Efficiency: End Stutter Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103791829-unresponsive-gaming-due-to-graphics-quick-resolution-guide/"><u>Unresponsive Gaming Due To Graphics – Quick Resolution Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revived Device Manager - Error 48
-date: 2025-01-02T14:12:24.934Z
-updated: 2025-01-02T22:58:15.105Z
+date: 2025-01-05T10:14:52.908Z
+updated: 2025-01-10T06:33:30.197Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
  If a device on your computer is running into**Error Code 48** in Device Manager, don’t worry. You’ve come to the right place! Although it’s quite frustrating, you should be able to fix this issue on your own after reading this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Error Code 48 in Device Manager
@@ -34,7 +34,7 @@ To check if the device is running into the error code 48:
 `"The driver for this device has been blocked from starting because it is known to have problems with Windows. Contact the hardware vendor for a new driver. (Code 48)"`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -58,10 +58,6 @@ Or
 
 **[Option 2: Automatically (Recommended)](https://www.drivereasy.com/knowledge/asus-usb-bt500-bluetooth-5-0-usb-adapter-driver/#h-option-2-update-the-asus-usb-bt500-bluetooth-driver-automatically-recommended)**  – This might be the quickest and easiest way to get all the latest drivers for your computer. All you need is a few clicks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 1 – Download and install the driver manually
 
  The manufacturer of your computer keeps releasing new drivers on its official site. To get them, you need to go to the manufacturer’s site, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32-bit), and download the driver manually.
@@ -80,6 +76,10 @@ Or
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-drivers-with-Driver-Easy.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and [manually install them, the normal Windows way](https://tools.techidaily.com/drivereasy/download/) .)
@@ -108,11 +108,11 @@ Or
 ![Disable the Hyper-V feature](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Hyper-V-feature.jpg)
 4. Restart Windows 10 to see if the issue persists.
 
- If this fix didn’t work, try the next fix to turn off Memory Integrity.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this fix didn’t work, try the next fix to turn off Memory Integrity.
 
 ## Fix 3: Turn off Memory Integrity in Core isolation
 
@@ -129,7 +129,15 @@ To turn off Memory Integrity, simply follow the steps below:
 ![Turn off Memory integrity](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Memory-integrity.jpg)
 3. Restart Windows 10 and reinstall the latest driver of the problematic device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 See if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Run the System File Checker and the Windows Memory Diagnostic Test
 
@@ -143,10 +151,6 @@ See if this fix works. If not, try the next fix, below.
 ![run system file checker](https://images.drivereasy.com/wp-content/uploads/2021/04/run-system-file-checker.jpg)
 3. Close the Command Prompt window after the process ie complete.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **To run the Windows Memory Diagnostic Test:**
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the**Run** dialog. Type**control admintools** and press**Enter** to open the**Administrator Tools** window in the**Control Panel** .  
@@ -157,14 +161,10 @@ See if this fix works. If not, try the next fix, below.
 3. Select**Restart now and check for problems (recommended)** to run the test immediately. Before restarting, you need to save your work and close any open programs. It may take some time to complete the test.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Check your computer for memory problems](https://images.drivereasy.com/wp-content/uploads/2021/04/Check-your-computer-for-memory-problems.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  See if there is something wrong with the memory on your PC. If everything is OK, open Device Manager to check if the “The software for this device has been blocked from starting because it is known to have problems with Windows (Code 48)” error persists.
 
@@ -192,24 +192,20 @@ See if this fix works. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-how-to-block-facebook-video-ads/"><u>[Updated] 2024 Approved How to Block Facebook Video Ads?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-exploring-the-best-audio-capture-technology-for-apple-devices/"><u>[Updated] Exploring the Best Audio Capture Technology for Apple Devices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-favorite-frames-most-engaged-ig-filters/"><u>[Updated] In 2024, Favorite Frames Most Engaged IG Filters</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-ai-assisted-naming-wizards-the-best-10-for-podcasters/"><u>2024 Approved AI-Assisted Naming Wizards The Best 10 for Podcasters</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/amazon-prime-day-discounts-save-an-additional-80-on-new-gen-apple-watch-se-as-reported-by-zdnet/"><u>Amazon Prime Day Discounts: Save an Additional $80 on New Gen Apple Watch SE as Reported by ZDNet</u></a></li>
-<li><a href="https://driver-error.techidaily.com/chip-select-failures-resolved-in-io-driver/"><u>Chip Select Failures Resolved in I/O Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correct-usb-to-ethernet-connector-glitch-optiplex/"><u>Correct USB-to-Ethernet Connector Glitch, OptiPlex</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-advice-overcoming-0x0000007e-bsod-issue-in-windows-7-computers/"><u>Expert Advice: Overcoming 0X0000007E BSoD Issue in Windows 7 Computers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fast-setup-of-hp-speakers-get-your-driver-software-for-free/"><u>Fast Setup of HP Speakers - Get Your Driver Software for Free!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-pci-to-pci-bridge-driver-issue-easy-and-quick/"><u>Fix PCI-to-PCI Bridge Driver Issue Easy and Quick</u></a></li>
-<li><a href="https://driver-error.techidaily.com/flawless-pc-interaction-without-freezes/"><u>Flawless PC Interaction without Freezes</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mastering-ps4-game-capture-via-obs-studio/"><u>In 2024, Mastering PS4 Game Capture via OBS Studio</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-compilation-the-top-5-high-fidelity-cameras/"><u>In 2024, Ultimate Compilation The Top 5 High Fidelity Cameras</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/install-missing-hardware-drivers-for-your-pc-a-comprehensive-guide-to-windows-1087/"><u>Install Missing Hardware Drivers for Your PC: A Comprehensive Guide to Windows 10/8/7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-resolve-mtp-usb-issue/"><u>Quick Resolve: MTP USB Issue</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/reviving-camera-victory-over-obs-glitches/"><u>Reviving Camera Victory Over OBS Glitches</u></a></li>
-<li><a href="https://driver-error.techidaily.com/stop-repeated-crashes-from-amd-software/"><u>Stop Repeated Crashes From AMD Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-hd-driver-harmony-achieved/"><u>Win11 HD Driver Harmony Achieved</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-sims-4-documentation-cutting-edge-methods-to-preserve-gaming-experiences/"><u>[Updated] Sims 4 Documentation Cutting-Edge Methods to Preserve Gaming Experiences</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-your-audio-preferences-moving-spotify-playlists-to-youtube-music/"><u>2024 Approved Streamline Your Audio Preferences Moving Spotify Playlists to YouTube Music</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-renesas-usb-30-driver-issue-on-windows-10/"><u>Fix Renesas USB 3.0 Driver Issue on Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fix-your-safari-trouble-with-youtube-4k-videos-expert-tips-and-solutions/"><u>Fix Your Safari Trouble with YouTube 4K Videos – Expert Tips and Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/iphone-7-not-recognized-by-windows-7-solved/"><u>IPhone 7 Not Recognized by Windows 7 [Solved]</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/losungsstrategien-fur-die-erkennung-von-usb-sticks-in-windows-11-entdecken-sie-diese-effektiven-6-tipps/"><u>Lösungsstrategien Für Die Erkennung Von USB-Sticks in Windows 11 - Entdecken Sie Diese Effektiven 6 Tipps!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-device-driver-found-by-windows/"><u>No Device Driver Found by Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-itbm-driver-unavailable-issue-quickly-and-effectively/"><u>Resolve 'ITBM Driver Unavailable' Issue Quickly & Effectively</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-usb-functionality-in-windows-versions-7-and-8/"><u>Restoring USB Functionality in Windows Versions 7 & 8</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-semaphore-timeout-period-ended-in-windows-1011/"><u>Steps to Rectify 'Semaphore Timeout Period Ended' In Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-preventing-unnecessary-storage-consumption/"><u>Strategies for Preventing Unnecessary Storage Consumption</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-guide-to-updating-razers-deathadder-on-win10/"><u>The Ultimate Guide to Updating Razer's Deathadder on Win10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/transform-your-account-with-these-10-must-have-ig-tools/"><u>Transform Your Account with These 10 Must-Have IG Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unveiling-hidden-windows-10-elan-glitches/"><u>Unveiling Hidden Windows 10 Elan Glitches</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-distort-disrupt-delight-the-top-10-glitch-video-editing-apps-for-mobile/"><u>Updated In 2024, Distort, Disrupt, Delight The Top 10 Glitch Video Editing Apps for Mobile</u></a></li>
 </ul></div>
 

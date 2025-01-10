@@ -1,7 +1,7 @@
 ---
 title: "Reinstating Lost Connection: Fix Disappearing Bluetooth Hub"
-date: 2024-12-27T12:02:11.857Z
-updated: 2025-01-03T08:57:04.601Z
+date: 2025-01-07T07:09:54.953Z
+updated: 2025-01-09T19:58:26.983Z
 tags:
   - win11
   - win10
@@ -19,16 +19,16 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
  Many users are experiencing issues with their Bluetooth devices, and have trouble connecting Bluetooth headphones, keyboards, and mice, etc. What to do when the Bluetooth is missing from Device Manager?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Make sure your Bluetooth is turned on](https://modlily.sjv.io/aw92wr)**
 2. **[Run the Bluetooth troubleshooter](https://exvist.pxf.io/dkpnky)**
 3. **[Reinstall the Bluetooth driver manually](https://25home.pxf.io/vnbxnv)**
 4. **[Restart the Bluetooth service](https://bluetties.sjv.io/lxv4pm)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Make sure your Bluetooth is turned on
 
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-13.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On your keyboard, press the**Windows** logo key +**R** key and enter**ms-settings:bluetooth** to open your Bluetooth settings.
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 ![bluetooth settings](https://images.drivereasy.com/wp-content/uploads/2021/11/image-15-1200x938.png)
 
  Restart your PC and check if this fixes your**Bluetooth missing from Device Manager** problem. If it doesn’t show in the Device Manager, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Run the Bluetooth troubleshooter
 
@@ -68,13 +72,13 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-18-1200x934.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Apply this fix** to install some missing drivers and updates that your system finds. Usually, this requires a restart. Make sure you have saved the opened files prior to that.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-19.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  But if there’s no problem detected, you can head on to the next fix.
 
@@ -92,11 +96,19 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 ![update with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/11/image-20-1200x914.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) If you just want to update your Bluetooth driver for free, simply click the**_Update_** button next to it (it’s partly manual).
 
  Or click**_Update All_** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-21-1200x914.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** You can uninstall a driver by clicking the down arrow key next to a device, and selecting**Uninstall driver** .
 
@@ -115,32 +127,20 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-22.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Once the Services window opens, locate Restart Bluetooth Support Service. Right-click the**Bluetooth Support Service** and select**Restart** . If it’s not working, you can right-click it and select**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-23-1200x856.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) After enabling this service or the restart, right-click on it again, and choose **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-24-1200x854.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Ensure **startup type** is**Automatic** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-25.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click**Apply** \>**OK** to save the changes.
@@ -167,24 +167,24 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-streams-to-statements-decoding-the-3-step-process-for-calculating-youtube-earnings/"><u>[New] 2024 Approved From Streams to Statements Decoding the 3-Step Process for Calculating YouTube Earnings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-superior-real-time-media-streamers-for-2024/"><u>[New] Superior Real-Time Media Streamers for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-quickcapture-ultimate-scan/"><u>[Updated] 2024 Approved QuickCapture Ultimate Scan</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-ice-and-elegance-the-2022-winter-olympics-in-china/"><u>2024 Approved Ice & Elegance The 2022 Winter Olympics in China</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/best-karaoke-equipment-for-singing-enthusiasts-in-cuisine-aromatic-and-spicy-food-that-is-popular-across-asia-its-often-found-at-indian-restaurants-but-it-c78/"><u>Best Karaoke Equipment for Singing Enthusiasts in Cuisine, Aromatic and Spicy Food that Is Popular Across Asia. It's Often Found at Indian Restaurants but It Can Also Be Made at Home.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enabling-and-disabling-system-hibernate-functionality-on-windows-11-pcs-best-tips-and-tricks/"><u>Enabling and Disabling System Hibernate Functionality on Windows 11 PCs – Best Tips & Tricks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enhanced-performance-in-new-win11-os/"><u>Enhanced Performance in New Win11 OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-guide-resolving-iphone-mtp-external-hard-drive-drivers-for-seamless-file-transfers/"><u>Expert Guide: Resolving iPhone MTP External Hard Drive Drivers for Seamless File Transfers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-video-controller-driver-issue-in-windows-11-easily/"><u>Fix Video Controller Driver Issue in Windows 11. Easily</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-the-graphics-card-issue-code-43-on-your-windows-11-pc/"><u>How to Resolve the Graphics Card Issue (Code 43) on Your Windows 11 PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-infinix-gt-10-pro-easily-by-drfone-android/"><u>How To Unlock a Infinix GT 10 Pro Easily?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/iphone-se-not-detected-on-fedora-core-os-solution-found-here/"><u>IPhone SE Not Detected on Fedora Core OS - Solution Found Here</u></a></li>
-<li><a href="https://driver-error.techidaily.com/rectifying-acpi-driver-fault-venintanddev33a0/"><u>Rectifying ACPI Driver Fault: VEN_INT&DEV_33A0</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-gtx-950s-code-43-issue-in-windows-11-a-comprehensive-guide/"><u>Resolving the GTX 지판 950'S 'Code 43 Issue' In Windows 11 - A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-the-problem-unrecognized-usb-devices-on-windows-troubleshooting-steps/"><u>Solving the Problem: Unrecognized USB Devices on Windows - Troubleshooting Steps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-alert-bcm20702a0-driver-not-available/"><u>System Alert: BCM20702A0 Driver Not Available</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unlock-the-secrets-spotifys-plan-to-charge-for-access-to-song-lyrics/"><u>Unlock the Secrets: Spotify's Plan to Charge for Access to Song Lyrics</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-sm-bus-control-improvements-for-win11/"><u>[FIXED]: SM Bus Control Improvements for Win11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-bringing-clarity-to-online-meetings-free-and-paid-zoom-transcribing-pros/"><u>[New] 2024 Approved Bringing Clarity to Online Meetings Free & Paid Zoom Transcribing Pros</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-request-info-on-obtaining-full-shared-content-on-messengers/"><u>[New] Request Info on Obtaining Full Shared Content on Messengers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-crafting-sweeping-sonic-narratives-with-expert-crossfade-techniques-audacity/"><u>[Updated] 2024 Approved Crafting Sweeping Sonic Narratives with Expert Crossfade Techniques (Audacity)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/advanced-winxdvd-toolkit-for-dvd-extraction-and-improvement-ai-enhanced-video-editing-software-plus-iphone-sync-capabilities/"><u>Advanced WinXDVD Toolkit for DVD Extraction & Improvement: AI Enhanced Video Editing Software Plus iPhone Sync Capabilities</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/cutting-edge-techniques-for-rapid-video-playback-for-2024/"><u>Cutting-Edge Techniques for Rapid Video Playback for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/deciphering-signal-flux-error-codes-e-52/"><u>Deciphering Signal Flux: Error Codes E-52</u></a></li>
+<li><a href="https://article-tips.techidaily.com/flawlessbackgroundfixer-premium-photo-editing-app/"><u>FlawlessBackgroundFixer Premium Photo Editing App</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y78twithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y78twith/without a PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tickler-toolkit-image-mashup/"><u>In 2024, Tickler Toolkit Image Mashup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/logitech-brio-webcam-not-detected-after-windows-11-creators-update-solved/"><u>Logitech Brio Webcam Not Detected After Windows 11 Creators Update [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-graphics-card-hurdles-fixing-code-43-errors-in-nvidia-geforce-gtx-950-under-windows-10/"><u>Overcoming Graphics Card Hurdles: Fixing Code 43 Errors in NVIDIA GeForce GTX 950 Under Windows 10</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/passare-dallhard-drive-portatile-asi-a-ssd-passaggi-semplici-ed-esempi-di-utilizzo/"><u>Passare Dall'Hard Drive Portatile Asi a SSD: Passaggi Semplici Ed Esempi Di Utilizzo</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102124391-run-a-system-file-checker-scan-to-verify-and-repair-corrupted-files/"><u>Run a System File Checker Scan to Verify and Repair Corrupted Files</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-v30-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-driver-load-failure-in-battleye-services-error-code-1450/"><u>Troubleshooting Guide: Resolving 'Driver Load Failure' In BattlEye Services (Error Code 1450)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unresolved-ax201-intel-wi-fi-not-operating/"><u>Unresolved: Ax201 Intel Wi-Fi Not Operating</u></a></li>
+<li><a href="https://driver-error.techidaily.com/visualizing-ms-bda-in-graphics-context/"><u>Visualizing MS BDA in Graphics Context</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-compatibility-with-samsungs-mobile-os/"><u>Windows Compatibility with Samsung's Mobile OS</u></a></li>
 </ul></div>
 

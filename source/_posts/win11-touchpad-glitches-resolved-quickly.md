@@ -1,7 +1,7 @@
 ---
 title: "Win11 Touchpad Glitches: Resolved Quickly"
-date: 2024-12-27T07:24:03.117Z
-updated: 2025-01-02T18:33:52.267Z
+date: 2025-01-06T04:11:42.509Z
+updated: 2025-01-10T08:50:28.898Z
 tags:
   - win11
   - win10
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-settings-devices.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Click **Mouse & touchpad,**  then click **Additional mouse options** .
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
 
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2: Reinstall your drivers
 
@@ -66,11 +70,7 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3: Stop automatic updates from Windows Update**
@@ -81,20 +81,20 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Right-clickyour computer icon and click **Device installation settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
@@ -114,19 +114,15 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-optimal-screen-capture-chromeos-enhanced/"><u>[New] 2024 Approved Optimal Screen Capture ChromeOS Enhanced</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-harmonyhub-pro-downloads-and-reviews/"><u>[New] HarmonyHub Pro Downloads & Reviews</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-irqlnotlessorequal-bsod-in-windows-11/"><u>[Solved] IRQL_NOT_LESS_OR_EQUAL BSOD in Windows 11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-decode-and-resolve-youtube-short-errors/"><u>[Updated] Decode and Resolve YouTube Short Errors</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-video-reduction-tips-for-mac-users/"><u>[Updated] Instagram Video Reduction Tips for Mac Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-gentle-audio-dampening-on-lumafusion-platforms/"><u>2024 Approved The Art of Gentle Audio Dampening on Lumafusion Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/are-chatgpts-safeguards-effective-enough/"><u>Are ChatGPT’s Safeguards Effective Enough?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/banish-endless-connectivity-of-bluetooth-in-win10/"><u>Banish Endless Connectivity of Bluetooth in Win10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/convertir-audio-m4r-directamente-a-aiff-por-internet-gratuito-utilice-la-herramienta-en-linea-de-movavi/"><u>Convertir Audio M4R Directamente a AIFF Por Internet Gratuito, Utilice La Herramienta en Línea De Movavi</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-invalid-service-installation-parameters-in-inf/"><u>Fixing Invalid Service Installation Parameters in INF</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-successfully-fix-failed-hcom-monitor-driver-setup-errors/"><u>How to Successfully Fix Failed HCOM Monitor Driver Setup Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-no-initialization-directx-9-issue-quickly/"><u>Overcoming 'No Initialization DirectX 9' Issue Quickly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/stop-windows-11-bluetooth-from-self-activating/"><u>Stop Windows 11 Bluetooth From Self-Activating</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winos-visual-hang-up-fixed-soon-in-progress/"><u>WinOS Visual Hang-Up Fixed Soon (In Progress)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-speed-instant-signature-background-cleanup/"><u>[New] Unlocking Speed Instant Signature Background Cleanup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cease-and-desist-stop-auto-uninstalling-nvidia-drivers/"><u>Cease and Desist: Stop Auto-Uninstalling Nvidia Drivers</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/comment-restaurer-des-fichiers-elimines-pour-de-bon-sous-windows-guide-complet-et-facile-dutilisation/"><u>Comment Restaurer Des Fichiers Éliminés Pour De Bon Sous Windows : Guide Complet Et Facile D'Utilisation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-s17e-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo S17e to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-premier-webcam-lineup-for-next-gen-windows-pcs/"><u>In 2024, The Premier Webcam Lineup for Next-Gen Windows PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lenovos-blue-tooth-mastery-in-win11-environment/"><u>Lenovo’s Blue-Tooth Mastery in WIN11 Environment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-solutions-how-to-resolve-itbm-driver-unavailable-message/"><u>Quick Solutions: How To Resolve 'ITBM Driver Unavailable' Message</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-acpi-drive-id-33a0-problems/"><u>Resolving Acpi Drive ID 33A0 Problems</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-experience-with-vitas-complete-editor-detailed-review-2024/"><u>The Ultimate Experience with Vita's Complete Editor - Detailed Review 2024</u></a></li>
 </ul></div>
 
