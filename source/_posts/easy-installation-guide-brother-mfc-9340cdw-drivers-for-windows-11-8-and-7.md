@@ -1,7 +1,7 @@
 ---
 title: Easy Installation Guide - Brother MFC-9340CDW Drivers for Windows 11, 8 & 7
-date: 2025-01-06T04:58:41.859Z
-updated: 2025-01-09T21:07:38.034Z
+date: 2025-01-11T23:06:39.464Z
+updated: 2025-01-15T23:12:55.411Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 
 Wondering whether or not to update the driver for your   **Brother MFC-9340CDW**  printer? Or you know it’s time but still looking for a quick & safe download? Look no further, this is your guide! ? 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Choose the way you prefer
 
  Both methods below work in **Windows 10** , **8** and **7** . You may not have to try both; just decide if you want to do it manually or automatically and take your pick: 
@@ -39,6 +35,10 @@ Wondering whether or not to update the driver for your   **Brother MFC-9340CDW**
 1. On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time. Then copy & paste **devmgmt.msc** into the box and click   **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Double-click on **Printer queues** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on **Brother MFC-9340CDW** and click **Uninstall device** .
@@ -48,15 +48,11 @@ Wondering whether or not to update the driver for your   **Brother MFC-9340CDW**
 5. Type**MFC-9340CDW**  into the **Search by Model Name** box and click **Search** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a35c4d2e36.png)
 6. Click **Downloads** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a35fed0b08.jpg)
 7. Select **your Windows OS**   and **OS version** . Then click **Search** .  
@@ -68,7 +64,7 @@ Wondering whether or not to update the driver for your   **Brother MFC-9340CDW**
 9. Click **Agree to the EULA**  **and Download** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613f9ec314.jpg)
@@ -76,6 +72,10 @@ Wondering whether or not to update the driver for your   **Brother MFC-9340CDW**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b861455df55e.jpg)
 11. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -92,12 +92,12 @@ Wondering whether or not to update the driver for your   **Brother MFC-9340CDW**
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aefd675a7c.jpg)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a2827d6896.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have any problems while using **Driver Easy** , feel free to contact our support team at **support@drivereasy.com** . Be sure to attach **the URL of this article**  for more expedient and efficient guidance. ? 
 
@@ -123,20 +123,20 @@ Wondering whether or not to update the driver for your   **Brother MFC-9340CDW**
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-best-soundstage-networking/"><u>[New] In 2024, Best Soundstage Networking</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ideo-editing-for-dummies-10-essential-youtube-insights/"><u>[New] Video Editing for Dummies 10 Essential YouTube Insights</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-periscope-demystified-features-pricing-and-account-creation-tips-for-2024/"><u>[Updated] Periscope Demystified Features, Pricing & Account Creation Tips for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-ai-tools-like-chatgpt-and-bard-be-trusted-with-your-investment-decisions/"><u>Can AI Tools Like ChatGPT & Bard Be Trusted with Your Investment Decisions?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixes-and-solutions-how-to-troubleshoot-an-hp-wireless-keyboard-that-wont-respond/"><u>Fixes & Solutions: How to Troubleshoot an HP Wireless Keyboard That Won't Respond</u></a></li>
-<li><a href="https://driver-error.techidaily.com/house-cleaning-reveals-two-forgotten-desktop-pcs-from-the-past-one-showcases-historic-intel-8008-chip-with-impressive-specs-for-its-time-16kb-memory-and-80093/"><u>House Cleaning Reveals Two Forgotten Desktop PCs From the Past: One Showcases Historic Intel 8008 Chip with Impressive Specs for Its Time (16KB Memory and 800 kHz CPU)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-m6-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco M6 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-purchasing-from-tiktok-shops-secure-my-satisfying-gift-find-on-zdnet/"><u>Is Purchasing From TikTok Shops Secure? My Satisfying Gift Find on ZDNET</u></a></li>
-<li><a href="https://discover-help.techidaily.com/optimize-your-pc-with-superior-sysprep-solutions-in-windows-1011-expert-insights-on-aomei-image-deployment-techniques/"><u>Optimize Your PC with Superior SYSPREP Solutions in Windows 10/11 - Expert Insights on AOMEI Image Deployment Techniques</u></a></li>
-<li><a href="https://driver-error.techidaily.com/pci-controller-woes-solved-in-windows-os/"><u>PCI Controller Woes Solved in Windows OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-microphone-malfunctions-in-counter-strike-2-with-these-proven-techniques/"><u>Resolve Microphone Malfunctions in Counter-Strike 2 with These Proven Techniques</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restored-controller-on-deviceharddisk/"><u>Restored Controller on DeviceHarddisk</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reversing-vertical-disarray-a-guide-to-rectifying-upended-footage-on-asus-devices/"><u>Reversing Vertical Disarray: A Guide to Rectifying Upended Footage on ASUS Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-resolving-windows-11s-missing-coprocessor-drivers-easy-fixes-unveiled/"><u>Troubleshooting and Resolving Windows 11'S Missing Coprocessor Drivers: Easy Fixes Unveiled</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-solution-preventing-ffxiv-pc-game-freezes-and-crashes/"><u>Ultimate Solution: Preventing FFXIV PC Game Freezes and Crashes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-art-of-iphone-landscapes-pro-techniques-you-must-know/"><u>[New] 2024 Approved The Art of iPhone Landscapes Pro Techniques You Must Know</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-transparent-perspective-reviewing-recordcasts-strengths/"><u>[Updated] 2024 Approved Transparent Perspective Reviewing RecordCast's Strengths</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-prime-pc-idle-gaming-selections/"><u>[Updated] Prime PC Idle Gaming Selections</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-your-first-step-to-earning-on-reddit-the-top-13-hacks/"><u>2024 Approved Your First Step to Earning on Reddit - The Top 13 Hacks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/clearing-up-the-driver-hurdle-hd/"><u>Clearing Up the Driver Hurdle (HD)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-support-added-to-win-8-desktop/"><u>Device Support Added to Win 8 Desktop</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-evolution-of-ratchet-and-clank-in-depth-game-analysis/"><u>Exploring the Evolution of Ratchet & Clank: In-Depth Game Analysis</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-boot-into-safe-mode-and-remove-your-graphics-card-driver-in-windows-8/"><u>How to Boot Into Safe Mode and Remove Your Graphics Card Driver in Windows 8</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oppo-reno-8t-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Oppo Reno 8T</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastered-the-challenge-of-error-45/"><u>Mastered the Challenge of Error #45</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcome-asus-camera-errors-in-windows-11-os/"><u>Overcome ASUS Camera Errors in Windows 11 OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-adding-the-required-drivers-to-operate-devices-on-windows-1187-systems/"><u>Resolved: Adding the Required Drivers to Operate Devices on Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://discover-community.techidaily.com/the-ultimate-list-of-top-rated-free-and-legal-music-downloading-platforms/"><u>The Ultimate List of Top-Rated Free & Legal Music Downloading Platforms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ltimate-strategy-for-top-tier-youtube-titles-and-tags/"><u>The Ultimate Strategy for Top-Tier Youtube Titles & Tags</u></a></li>
 </ul></div>
 

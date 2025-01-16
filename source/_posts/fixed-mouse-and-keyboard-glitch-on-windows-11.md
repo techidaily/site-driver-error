@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Mouse & Keyboard Glitch on Windows 11"
-date: 2025-01-03T20:07:29.530Z
-updated: 2025-01-09T22:47:16.360Z
+date: 2025-01-15T00:09:51.696Z
+updated: 2025-01-15T22:29:56.402Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Adjust your keyboard settings
 
  Windows has a setting, called Filter Keys, that allows you to control how it deals with accidental repeated keystrokes. Unfortunately, if turned on, this setting has been known to cause some keyboards to stop working in Windows 10\. So you should check if it’s turned on. If it is, you should turn it off and see if that resolves the problem.
@@ -45,13 +49,13 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Keyboard** .
 
@@ -60,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -75,24 +75,28 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
@@ -122,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ## Method 5: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -164,16 +164,22 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-creative-teaching-incorporating-youtube-into-your-curriculum/"><u>[New] 2024 Approved Creative Teaching Incorporating YouTube Into Your Curriculum</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-easy-to-use-apps-for-idevice-screen-capturing/"><u>[Updated] Easy-to-Use Apps for iDevice Screen Capturing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-innovations-unveiled-microsoft-takes-over-blizzard-deep-dive-into-creative-tech-podcast/"><u>AI Innovations Unveiled: Microsoft Takes Over Blizzard, Deep Dive Into Creative Tech [Podcast]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effective-fixes-for-non-functional-qualcomm-atheros-bluetooth-drivers-on-windows-10/"><u>Effective Fixes for Non-Functional Qualcomm Atheros Bluetooth Drivers on Windows 10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-13-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 13 Pro?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Itel P55+? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/rapid-response-to-mtp-connection-issues/"><u>Rapid Response to MTP Connection Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/recovery-of-missing-bluetooth-restore-it-now/"><u>Recovery Of: Missing BlueTooth, Restore It Now</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reinstating-bluetooth-absence-in-hardware-listings/"><u>Reinstating: Bluetooth Absence in Hardware Listings</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-memory-management-interruptions/"><u>Solved Memory Management Interruptions</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-fcpx-not-working-try-resetting-a-simple-solution-to-common-issues-for-2024/"><u>Updated FCPX Not Working? Try Resetting A Simple Solution to Common Issues for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-glide-and-glory-short-track-highlights-from-22/"><u>[New] In 2024, Glide and Glory Short Track Highlights From '22</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-cut-down-on-hassle-with-easy-ipad-recording-methods-for-2024/"><u>[Updated] Cut Down On Hassle With Easy iPad Recording Methods for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-exploring-the-future-with-av1-over-vp9/"><u>[Updated] Exploring the Future with AV1 over VP9</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-17-easy-ways-grab-your-webinars-without-financial-investment/"><u>[Updated] In 2024, 17 Easy Ways Grab Your Webinars Without Financial Investment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-practical-path-to-powerful-text-generation-with-openai/"><u>A Practical Path to Powerful Text Generation with OpenAI</u></a></li>
+<li><a href="https://driver-error.techidaily.com/battling-windows-1110-disk-utilization-alerts/"><u>Battling Windows 11/10 Disk Utilization Alerts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correct-transaction-queuing-problem/"><u>Correct Transaction Queuing Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-failure-alert-for-wudfrd-loading-event-id-219/"><u>Device Failure Alert for WudfRd Loading (Event ID: 219)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1111018-9781583946244-entheogens-and-the-development-of-culture/"><u>Entheogens and the Development of Culture | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-disable-always-active-bluetooth-on-win11/"><u>How To Disable Always Active Bluetooth on Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-properly-set-up-your-device-and-solve-code-1-issues/"><u>How to Properly Set Up Your Device and Solve Code 1 Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-edge-40-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Edge 40</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keeping-your-hp-envy-20-running-smoothly-a-guide-to-fresh-drivers/"><u>Keeping Your HP Envy 20 Running Smoothly - A Guide to Fresh Drivers</u></a></li>
+<li><a href="https://solve-news.techidaily.com/movavi-adobe-swf/"><u>Movavi: 優雅なオンラインでのAdobe SWFファイルを自由に変換</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098346021-navigated-error-code-45-successfuly/"><u>Navigated Error Code 45, Successfuly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-dolby-atmos-sound-on-pc-solved/"><u>Troubleshooting Dolby Atmos Sound on PC - Solved!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ultimate-audio-compilations-for-video-production-for-2024/"><u>Ultimate Audio Compilations for Video Production for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Dysfunctional USB to Serial Cables on PCs
-date: 2025-01-06T10:24:40.846Z
-updated: 2025-01-10T07:19:58.773Z
+date: 2025-01-10T01:43:43.389Z
+updated: 2025-01-15T20:32:35.676Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/6aed0c00afe51b22c20e76d5f6ace236f0bc693b5
 
  Don’t panic. Certainly, you’re not the only one. We’ve seen many Windows users reporting this**Prolific USB to Serial driver not working on Windows** issue. More importantly, you can easily fix it with the solutions here. Read on and see how…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Update your Prolific USB to Serial driver to the latest version](https://bluettide.pxf.io/ekmjb2)**
@@ -35,22 +39,14 @@ thumbnail: https://thmb.techidaily.com/6aed0c00afe51b22c20e76d5f6ace236f0bc693b5
 1. **Manual driver update –** You can update your Prolific USB to Serial driver manually by going to the official [Prolific website](http://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41&showlevel=0041-0041) , and searching for the most recent correct driver. Be sure to choose the only driver that is compatible with your Windows version.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb06e0d6f148.jpg)
 2. **Automatic driver update –** If you don’t have the time, patience, or computer skills to update your Prolific USB to Serial driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your exact Prolific adapter, and your Windows version, and it will download and install them correctly:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb0704ce6b75.jpg)
 3. Click**Update** next to the flagged Prolific USB to Serial driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back** guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb072bf3dffe.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 2: Roll your Prolific USB to Serial driver back to an older version
@@ -67,19 +63,23 @@ Here’s how you can do it:
 3. Double-click**Ports(COM & LPT)** , then**right-click** on your Prolific USB to Serial driver to select**Update driver** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075701f308.jpg)
 4. Click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075c361cc6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select**Let me pick from a list of available drivers on my computer** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075da68269.png)
 
 6. Select an older version on the Model list. Then**Next** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb076059c302.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then the driver you select would be installed on your Windows 10 computer automatically.
 
@@ -107,24 +107,17 @@ Once it’s done, connect your device again and see if it goes well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-self-verification-on-instagram-does-it-serve-us/"><u>[New] 2024 Approved Self-Verification on Instagram Does It Serve Us?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-vida-a-comprehensive-look-at-our-editing-tool/"><u>[New] In 2024, Vida A Comprehensive Look at Our Editing Tool</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-innovative-transitions-for-professional-videos/"><u>[New] Innovative Transitions for Professional Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-digital-magic-uncovering-premier-3d-animation-software-for-2024/"><u>[Updated] Digital Magic Uncovering Premier 3D Animation Software for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-youtube-sponsor-opportunities-via-famebit-methods/"><u>[Updated] Unlocking YouTube Sponsor Opportunities via FameBit Methods</u></a></li>
-<li><a href="https://driver-error.techidaily.com/dvd-reader-disappearance-issue-solved-in-win11/"><u>DVD Reader Disappearance Issue Solved in Win11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/idt-software-update-solving-unrecognized-device-issues-effectively/"><u>IDT Software Update: Solving Unrecognized Device Issues Effectively</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-short-track-olympics-highlights-from-22/"><u>In 2024, Short Track Olympics - Highlights From '22</u></a></li>
-<li><a href="https://driver-error.techidaily.com/installer-errors-resolved-new-nvidia-driver-installation/"><u>Installer Errors Resolved - New Nvidia Driver Installation</u></a></li>
-<li><a href="https://review-topics.techidaily.com/nokia-105-classic-video-recovery-recover-deleted-videos-from-nokia-105-classic-by-fonelab-android-recover-video/"><u>Nokia 105 Classic Video Recovery - Recover Deleted Videos from Nokia 105 Classic</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overhauling-intel-mmc-faults/"><u>Overhauling Intel MMC Faults</u></a></li>
-<li><a href="https://driver-error.techidaily.com/rectified-data-access-errors/"><u>Rectified Data Access Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-no-support-for-amdintel-in-premier-pro-videos/"><u>Resolved: No Support for AMD/Intel in Premier Pro Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-seagate-hdd-visibility-issue-in-win11/"><u>Solving Seagate HDD Visibility Issue in Win11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-realme-gt-3-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Realme GT 3 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-radeon-wattmans-sudden-crash-and-recovery-expert-solutions-revealed/"><u>Troubleshooting Radeon Wattman's Sudden Crash and Recovery – Expert Solutions Revealed!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-why-does-the-iphones-visual-look-up-feature-fail/"><u>Troubleshooting Tips: Why Does the iPhone's Visual Look Up Feature Fail?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-hardware-recognition-complete/"><u>Windows Hardware Recognition Complete</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-mastering-editing-skills-for-professional-facebook-reels/"><u>[Updated] Mastering Editing Skills for Professional Facebook Reels</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-best-practices-in-selecting-screen-recording-tools-for-windows-10/"><u>2024 Approved Best Practices in Selecting Screen Recording Tools for Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-hardware-blockade-in-windows-environment/"><u>Graphics Hardware Blockade in Windows Environment</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-exquisite-drone-fleet-the-pinnacle-of-visual-artistry/"><u>In 2024, Exquisite Drone Fleet The Pinnacle of Visual Artistry</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 11 Passcode not Working?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-tier-eighth-edition-of-image-blender-tool/"><u>In 2024, Top Tier Eighth Edition of Image Blender Tool</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-errors-code-37-resolved/"><u>No More Errors, Code 37 Resolved</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/removing-unwanted-audio-from-videos-essential-steps-for-2024/"><u>Removing Unwanted Audio From Videos - Essential Steps for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-copy-and-paste-failures-on-windows-10-system/"><u>Resolving Copy and Paste Failures on Windows 10 System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-windows-11-creators-update-and-missing-webcam-detected-by-logitech-brio-heres-help-156-chars/"><u>Troubleshooting Windows 11 Creators Update & Missing Webcam Detected by Logitech Brio? Here's Help! (156 Chars)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/turned-core-isolation-off-for-wdcsam64prewin8sys/"><u>Turned Core Isolation Off for wdcsam64_prewin8.sys</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unveiling-social-media-puzzles-how-to-use-facebook-insights/"><u>Unveiling Social Media Puzzles How to Use Facebook Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating W11's Elan Issues: A Resolution Guide"
-date: 2025-01-07T22:48:00.941Z
-updated: 2025-01-09T21:10:14.061Z
+date: 2025-01-09T00:40:15.265Z
+updated: 2025-01-16T03:22:52.456Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 [**2: Reinstall your drivers**](https://getlyla.pxf.io/ek9gkg)
 [**3: Stop automatic updates from Windows Update**](https://tinyland.pxf.io/org4ra)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1: Make sure your touchpad is enabled
 
  Some changes to your PC might automatically change your touchpad status to disable without informing you. You can set it back to enable status:
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/additional-mouse-options.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Go to the furthest right option (the option could be **Device Settings** or **ELAN**), and make sure your touchpad is enabled.
@@ -48,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
 
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2: Reinstall your drivers
 
@@ -74,7 +66,11 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3: Stop automatic updates from Windows Update**
@@ -89,12 +85,16 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
@@ -114,22 +114,20 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-initial-boot-failure-from-drivers-not-installed/"><u>[FIXED] Initial Boot Failure From Drivers Not Installed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-responsive-keys-restored-to-windows-11/"><u>[Fixed]: Responsive Keys Restored to Windows 11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-experts-list-of-lightweight-easy-carrying-viewers-for-2024/"><u>[New] Expert's List of Lightweight, Easy-Carrying Viewers for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-next-gen-escapades-upcoming-best-playstation-vr-games-to-try/"><u>[Updated] In 2024, Next-Gen Escapades Upcoming Best PlayStation VR Games to Try</u></a></li>
-<li><a href="https://extra-information.techidaily.com/audiovisual-adventures-unleashed-by-polaroid-camplus-cubeplus-for-2024/"><u>Audiovisual Adventures Unleashed by Polaroid Cam+ Cube+ for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/code-1-troubleshooting-steps-for-configuring-devices-correctly/"><u>Code 1 Troubleshooting: Steps for Configuring Devices Correctly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-solutions-when-confronted-with-failed-hcmonservice-installs/"><u>Easy Solutions When Confronted with Failed Hcmonservice Installs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-boot-into-safe-mode-and-efficiently-uninstall-graphics-driver-on-windows-8/"><u>How To Boot Into Safe Mode & Efficiently Uninstall Graphics Driver On Windows 8</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-failed-to-install-the-hcmon-driver-error/"><u>How to Fix Failed to Install the Hcmon Driver Error</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 12</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-google-pixel-6-camera-performance-a-comprehensive-review/"><u>In-Depth Look at Google Pixel 6 Camera Performance - A Comprehensive Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/into-the-future-jaunt-vrs-potential-explored-for-2024/"><u>Into the Future Jaunt VR's Potential Explored for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/nonresponsive-or-stuck-pclaptop-key-issue-here-is-a-simple-fix-for-your-beloved-machine-article-title-how-to-guide-tech-talker402-chars/"><u>Nonresponsive or Stuck PC/Laptop Key Issue? Here Is a Simple Fix for Your Beloved Machine (Article Title) – How-To Guide | Tech Talker—402 Chars</u></a></li>
-<li><a href="https://facebook.techidaily.com/portal-meets-portability-with-facebooks-new-launch/"><u>Portal Meets Portability with Facebook’s New Launch</u></a></li>
-<li><a href="https://games-able.techidaily.com/sleekgear-monitor-bargain-gaming-led/"><u>SleekGear Monitor - Bargain Gaming LED</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-color-transformation-an-expert-written-by-dr-jane-smith-for-2024/"><u>The Art of Color Transformation An Expert' Written by Dr. Jane Smith for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unsupported-device-error-solutions-for-incompatible-hardware-in-your-idt-software/"><u>Unsupported Device Error: Solutions for Incompatible Hardware in Your IDT Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-audiovisual-quality-its-significance-in-video-ranking/"><u>[New] In 2024, Audiovisual Quality Its Significance in Video Ranking</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nlock-your-favorites-anytime-anyplace-with-top-6-free-video-downloaders/"><u>[New] Unlock Your Favorites Anytime, Anyplace with Top 6 Free Video Downloaders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-accessing-global-events-facebook-live-on-roku-devices/"><u>[Updated] 2024 Approved Accessing Global Events Facebook Live on Roku Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/failed-driver-initialization-for-wudfrd-id-219/"><u>Failed Driver Initialization for WudfRd (ID: 219)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-atheros-the-ultimate-guide-to-repairing-your-windows-10-bluetooth-driver-issues/"><u>Fixing Qualcomm Atheros: The Ultimate Guide to Repairing Your Windows 10 Bluetooth Driver Issues</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-x-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone X Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x90s-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo X90S Phone without PIN</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-invalid-driver-alerts-during-software-setup-processes/"><u>Resolving Invalid Driver Alerts During Software Setup Processes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-your-gpu-settings-glitch-solve-radeon-wattman-default-restoration-woes-here/"><u>Resolving Your GPU Settings Glitch: Solve Radeon WattMan Default Restoration Woes Here</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionizing-video-speed-in-social-networks-for-2024/"><u>Revolutionizing Video Speed in Social Networks for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-troubleshooting-for-quality-bluetooth-connectivity-with-qualcomm-atheros-on-windows-11/"><u>Step-by-Step Troubleshooting for Quality Bluetooth Connectivity with Qualcomm Atheros on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/struggling-to-send-imessages-find-out-why-they-might-be-failing-now-expert-analysis-on-messaging-issues-by-zdnet/"><u>Struggling to Send iMessages? Find Out Why They Might Be Failing Now | Expert Analysis on Messaging Issues by ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-compilation-of-top-10-free-youtube-spaces-for-digital-illustrators-for-2024/"><u>The Ultimate Compilation of Top 10 Free YouTube Spaces for Digital Illustrators for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-fixing-code-1-incorrect-device-configuration/"><u>Troubleshooting Steps: Fixing Code 1 - Incorrect Device Configuration</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-37-now-supports-all-hardware/"><u>Win 37 Now Supports All Hardware</u></a></li>
 </ul></div>
 

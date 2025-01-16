@@ -1,7 +1,7 @@
 ---
 title: Step by Step Fix HP Laptop Keyboard Not Working Issue
-date: 2025-01-06T07:47:30.008Z
-updated: 2025-01-10T09:38:47.069Z
+date: 2025-01-08T19:08:24.656Z
+updated: 2025-01-16T02:18:43.463Z
 tags:
   - win11
   - win10
@@ -19,23 +19,19 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
 
 We have received reports from user saying that they have trouble using their HP laptop keyboard. Some of them complained that certain keys, such as functional keys (F1, F12 etc.), are unusable, while a small number of users mentioned that the laptop keyboard is totally useless and they have to turn to an external one. If you are one of the “victims”, no worries, there are some effective ways that are going to help you solve this problem. Please follow the instructions below and get your laptop keyboard fixed!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Step 1: Reinstall Keyboard Driver**
 
 1) Follow the path:**Start**icon**\> Control Panel**(View by**Large icons)>** **Device Manager**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc3af48b92.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) In the Device Manager window, click to expand**Keyboards**category. Then right click the keyboard option listed here and choose**Uninstall**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc4306d960.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When prompted to confirm the uninstall, press**OK**to continue.
 
@@ -45,17 +41,9 @@ When prompted to confirm the uninstall, press**OK**to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcb25486f6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You will be able to see the on-screen keyboard appear. Use your mouse cursor to type in your password and click**Enter**key You should be able to see Windows is automatically searching and updating the keyboard driver for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Step 2: Check Keyboard Settings**
 
@@ -76,7 +64,11 @@ Then make sure the Keyboards is selected as**US**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 3: Try an External Keyboard**
@@ -85,7 +77,15 @@ If you have tried the above methods but they are not helpful, you may need to pl
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step 4:** **Perform a Hard Reset**
 
@@ -109,20 +109,24 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-close-up-clarity-mastering-the-art-of-intense-focus/"><u>[New] Close-Up Clarity Mastering the Art of Intense Focus</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-navigating-the-past-accelerated-access-to-archived-content-for-2024/"><u>[Updated] Navigating the Past Accelerated Access to Archived Content for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-make-facebook-collage-instantly/"><u>2024 Approved How to Make Facebook Collage Instantly</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ond-stories-explained-well-in-2024/"><u>5-Second Stories Explained Well, In 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bridging-gap-uncover-missing-bluetooth-manage-panel/"><u>Bridging Gap: Uncover Missing Bluetooth, Manage Panel</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/broadcast-battlegrounds-where-does-streaming-technology-stand-strongest-for-2024/"><u>Broadcast Battlegrounds Where Does Streaming Technology Stand Strongest for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effortless-solutions-to-the-itbm-driver-missing-problem/"><u>Effortless Solutions to the 'ITBM Driver Missing' Problem</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-your-laptops-nonfunctional-hp-keyboard-in-simply-steps-article-name-358-characters/"><u>Fix Your Laptop's 'Nonfunctional’ HP Keyboard in Simply Steps - Article Name — 358 Characters</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011768147-fixing-firefoxs-unexpected-shutdowns-solutions-inside/"><u>Fixing Firefox's Unexpected Shutdowns - Solutions Inside</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hd-audio-hub-fix-resolved-error-message/"><u>HD Audio Hub Fix - Resolved Error Message</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-easily-obtain-and-update-essential-software-for-your-hp-envy-series-20-device/"><u>How to Easily Obtain & Update Essential Software for Your HP Envy Series 20 Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-itel-p55-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Itel P55 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/optical-drive-non-appearance-in-win11/"><u>Optical Drive Non-Appearance in Win11</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unused-capacity-in-system-resources/"><u>Unused Capacity in System Resources</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-broadcast-strategies-combining-facebook-and-tv/"><u>[Updated] 2024 Approved Broadcast Strategies Combining Facebook and TV</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-double-effect-wonders-for-tiktoks/"><u>[Updated] Step-by-Step Guide Double Effect Wonders for TikToks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-free-online-nef-to-jpg-converter-movavi-photo-editor/"><u>1. Free Online Nef to Jpg Converter - Movavi Photo Editor</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-ergodyne-topo-mat-evaluation-your-ultimate-guide-against-office-fatigue/"><u>Comprehensive Ergodyne Topo Mat Evaluation - Your Ultimate Guide Against Office Fatigue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/efficient-pci-compatible-software-bundles/"><u>Efficient PCI-Compatible Software Bundles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhance-your-speaker-experience-rejuvenating-your-pcs-audio-system-post-dynaudio-driver-update-fixed/"><u>Enhance Your Speaker Experience: Rejuvenating Your PC's Audio System Post-Dynaudio Driver Update, Fixed!✔️</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-best-chrome-os-tts-tools-top-5-online-speech-converters/"><u>In 2024, Best Chrome OS TTS Tools Top 5 Online Speech Converters</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-expert-picks-5-superior-video-call-recording-tools/"><u>In 2024, Expert Picks 5 Superior Video Call Recording Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/instantaneous-picture-viewing-on-windows-11/"><u>Instantaneous Picture Viewing on Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-htcfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your HTCFRP Lock</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-and-mouse-stop-working-after-sleep-on-windows-10-solved/"><u>Keyboard & Mouse Stop Working After Sleep on Windows 10 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/master-techniques-securing-optimal-performance-on-hp-envy-20-by-driver-updates/"><u>Master Techniques: Securing Optimal Performance on HP Envy 20 by Driver Updates</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mending-non-working-right-click-on-touchpad-with-windows-11/"><u>Mending Non-Working Right Click on Touchpad with Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reactivating-obscured-bluetooth-in-system-settings/"><u>Reactivating: Obscured Bluetooth in System Settings</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/sichere-speicherung-mit-wd-my-cloud-auf-google-drive-top-freie-software-fur-die-datensicherung/"><u>Sichere Speicherung Mit WD My Cloud Auf Google Drive - Top-Freie Software Für Die Datensicherung</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-to-correct-asus-acpi-driver-errors/"><u>Steps to Correct Asus ACPI Driver Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-overcoming-driver-load-error-when-initializing-battleye-service/"><u>Troubleshooting Guide: Overcoming 'Driver Load Error' When Initializing BattlEye Service</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unresponsive-device-bcm20702a0-driver/"><u>Unresponsive Device - BCM20702A0 Driver</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-f15-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy F15 5G Phone Network-Ready</u></a></li>
 </ul></div>
 

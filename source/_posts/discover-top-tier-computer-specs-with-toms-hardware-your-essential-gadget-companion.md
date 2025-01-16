@@ -1,7 +1,7 @@
 ---
 title: Discover Top-Tier Computer Specs with Tom's Hardware - Your Essential Gadget Companion
-date: 2025-01-03T03:56:15.508Z
-updated: 2025-01-09T16:03:24.043Z
+date: 2025-01-10T17:25:33.777Z
+updated: 2025-01-15T23:45:46.823Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,24 +66,24 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-choose-your-perfect-wedding-tales-youtubes-finest-8/"><u>[New] 2024 Approved Choose Your Perfect Wedding Tales - Youtube's Finest 8</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-key-strategies-for-navigating-complex-youtube-discussions/"><u>[New] 2024 Approved Key Strategies for Navigating Complex YouTube Discussions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unveiling-the-premier-10-hexacopters/"><u>[New] 2024 Approved Unveiling the Premier 10 HexaCopters</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-best-way-to-perform-obs-streaming-for-2024/"><u>[New] Best Way to Perform OBS Streaming for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-blueprint-for-youtube-educational-video-success-stories/"><u>[New] The Blueprint for YouTube Educational Video Success Stories</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024s-prime-cameras-for-first-timers/"><u>2024'S Prime Cameras for First Timers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diy-solutions-for-hp-wireless-keyboards-that-wont-respond/"><u>DIY Solutions for HP Wireless Keyboards That Won't Respond</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ensuring-smooth-gaming-regularly-update-windows-10s-deadrivers/"><u>Ensuring Smooth Gaming: Regularly Update Windows 10'S DeaDrivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gtx-950-fixed-overcoming-code-43-error-on-your-windows-10-system-a-comprehensive-walkthrough/"><u>GTX 950 [Fixed] – Overcoming Code 43 Error on Your Windows 10 System: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-6s-plus-to-other-iphone-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 6s Plus to Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Poco X5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/instant-remedy-troubleshooting-failed-mtp-connectivity/"><u>Instant Remedy: Troubleshooting Failed MTP Connectivity</u></a></li>
-<li><a href="https://driver-error.techidaily.com/re-establishing-bluetooths-return-to-devices-manager/"><u>Re-Establishing: Bluetooth's Return to Devices Manager</u></a></li>
-<li><a href="https://driver-error.techidaily.com/recover-absent-pci-controller-on-win-1011/"><u>Recover Absent PCI Controller on Win 10/11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-ultimate-troubleshooting-tips-for-default-settings-crash-in-amd-radeon-wattman/"><u>The Ultimate Troubleshooting Tips for Default Settings Crash in AMD Radeon WattMan</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-xbox-gamepad-drivers-for-windows-7-8-and-10/"><u>Troubleshooting and Fixing Xbox Gamepad Drivers for Windows 7, 8 & 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-usb-install-failure-with-access-is-denied/"><u>Troubleshooting USB Install Failure with 'Access Is Denied'</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-and-nvidia-geforce-gtx-950-code-43-error-solutions-and-workarounds/"><u>Windows 11 and NVIDIA GeForce GTX 950 Code 43 Error: Solutions and Workarounds</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-creating-impressive-google-collage-with-minimal-haste/"><u>[New] In 2024, Creating Impressive Google Collage with Minimal Haste</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-guide-to-refine-igtv-titles-and-descs-for-2024/"><u>[New] Step-by-Step Guide to Refine IGTV Titles & Descs for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-complete-zoomers-guide-achieving-exceptional-video-and-audio-recordings-on-zoom/"><u>[New] The Complete Zoomer's Guide Achieving Exceptional Video & Audio Recordings on Zoom</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/20-leading-no-cost-digital-editing-platforms/"><u>20 Leading No-Cost Digital Editing Platforms</u></a></li>
+<li><a href="https://driver-error.techidaily.com/access-denied-graphics-hardware-on-windows-os/"><u>Access Denied: Graphics Hardware on Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-keyboard-lights-not-switching-on/"><u>Asus Keyboard Lights Not Switching On</u></a></li>
+<li><a href="https://driver-error.techidaily.com/beat-the-blues-on-windows-7-solving-0x0000007e-blue-screen-of-death-issue/"><u>Beat the Blues on Windows 7: Solving 0X0000007E Blue Screen of Death Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-revival-for-lenovo-in-the-realm-of-windows-11/"><u>Bluetooth Revival for Lenovo in the Realm of Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/boost-hat-performance-update-to-win11-driver/"><u>Boost HAT Performance: Update to Win11 Driver</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comment-sauver-votre-fichier-video-mp4-endommage-sans-depenser-une-centime-sur-pc-ou-mac/"><u>Comment Sauver Votre Fichier Vidéo MP4 Endommagé Sans Dépenser Une Centime, Sur PC Ou Mac</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-asus-usb20-webcam-drivers-in-windows-11/"><u>Corrected ASUS USB2.0 Webcam Drivers in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrective-steps-for-handling-non-compatible-hardware-messages-in-driver-packs/"><u>Corrective Steps for Handling Non-Compatible Hardware Messages in Driver Packs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104280835-expert-tips-restoring-your-qualcomm-atheros-bluetooth-connection-on-windows-vehicles-with-the-following-titles/"><u>Expert Tips: Restoring Your Qualcomm Atheros Bluetooth Connection on Windows Vehicles with the Following Titles:</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/journeys-best-tools-top-10-vr-peripherals-guide-for-2024/"><u>Journey's Best Tools Top 10 VR Peripherals Guide for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-narzo-60x-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme Narzo 60x 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721100936688-missing-cpu-coprocessor-driver-in-windows-10-heres-how-to-fix-it/"><u>Missing CPU Coprocessor Driver in Windows 10? Here's How to Fix It!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oneplus-ace-2v-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on OnePlus Ace 2V and Browser | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/tips-to-quicken-instagram-media-playback/"><u>Tips to Quicken Instagram Media Playback</u></a></li>
 </ul></div>
 

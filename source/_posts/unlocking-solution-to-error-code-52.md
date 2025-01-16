@@ -1,7 +1,7 @@
 ---
 title: Unlocking Solution to Error Code 52
-date: 2025-01-05T17:59:59.216Z
-updated: 2025-01-10T02:51:23.382Z
+date: 2025-01-14T01:28:08.447Z
+updated: 2025-01-15T17:32:12.264Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ Does this screenshot look similar?
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Install the correct driver for your device
 
  The Code 52 error is mainly caused by the **incorrectly signed driver file** installed on your computer. You can replace it with the correct driver to fix the error.
@@ -54,7 +58,7 @@ Does this screenshot look similar?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978b31ce5d8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support and** a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -66,10 +70,6 @@ Does this screenshot look similar?
  Once you install the correct driver for your device, check if the error disappears. If your device works without any problem, so great! If you still see the error, don’t give up hope, you still have something else to try…
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Delete both the UpperFilters and LowerFilters Registry values
 
@@ -83,26 +83,26 @@ Here’s how to delete the values:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978ddf5949e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Yes** when prompted by **User Account Control** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978e1d8c395.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Go to **Computer** \> **HKEY\_LOCAL\_MACHINE** \> **SYSTEM** \> **CurrentControlSet** \> **Control** \> **Class** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978e6de98f1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) ➡ **Important** : We highly recommend performing a backup for the registry keys in case any error occurs during the following process. Follow these simple steps:  
  Right-click on Class to select **Export** . Then give the export file a name, say, Class Backup. Proceed to select the backup folder, then **Save** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978ec11e9f5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) In the Class section, Click **{36FC9E60-C465-11CF-8056-444553540000}** , then on its edit pane on the right side, right-click **UpperFilters** to select **Delete** \> **OK** .
 
@@ -126,13 +126,13 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97906e91771.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9790a2dce62.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click **Startup Settings** , then **Restart** .
 
@@ -166,24 +166,16 @@ Here’s how you can do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/aximizing-earnings-with-youtube-studio-monetization-on-any-device-for-2024/"><u>[New] Maximizing Earnings with YouTube Studio Monetization on Any Device for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-present-state-of-drones-and-their-future-expansion/"><u>2024 Approved The Present State of Drones and Their Future Expansion</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/affordable-high-definition-tv-viewing-in-depth-look-at-the-1byone-indoor-antenna-range/"><u>Affordable High-Definition TV Viewing: In-Depth Look at the 1ByOne Indoor Antenna Range</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-troubleshooter-repairing-the-onikuma-mic-problem/"><u>Comprehensive Troubleshooter: Repairing the Onikuma Mic Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008634808-directx-trouble-fix-your-fifa-19-game-without-hesitation/"><u>DirectX Trouble? Fix Your FIFA 19 Game Without Hesitation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-installation-woes-heres-how-to-fix-invalid-or-unrecognized-drivers-on-windows/"><u>Driver Installation Woes? Here’s How to Fix Invalid or Unrecognized Drivers on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-fixes-for-compatibility-issues-with-vintage-usb-composite-hardware/"><u>Easy Fixes for Compatibility Issues with Vintage USB Composite Hardware</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/expert-recommendations-hd-video-recording-software/"><u>Expert Recommendations HD Video Recording Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-impact-of-cutting-edge-ai-on-present-technology-systems-discoveries-by-zdnet/"><u>Exploring the Impact of Cutting-Edge AI on Present Technology Systems - Discoveries by ZDNET</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-classic-usb-composite-devices-a-step-by-step-solution/"><u>Fixing Classic USB Composite Devices: A Step-by-Step Solution</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-a78-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo A78 5G Devices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-mastering-sound-communication-on-whatsapp/"><u>In 2024, Mastering Sound Communication on WhatsApp</u></a></li>
-<li><a href="https://driver-error.techidaily.com/kb-errors-not-working-in-10/"><u>Kb Errors, Not Working in 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/name-discovery-gpus-opengl-capable-in-intel/"><u>Name Discovery: GPU's OpenGL Capable in Intel</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-sham-chatgpt-offers-in-apples-digital-storefront/"><u>Navigating Through Sham ChatGPT Offers in Apple’s Digital Storefront</u></a></li>
-<li><a href="https://driver-error.techidaily.com/navigating-w11s-elan-issues-a-resolution-guide/"><u>Navigating W11's Elan Issues: A Resolution Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reinstallation-triumph-no-errors-now/"><u>Reinstallation Triumph: No Errors Now</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solidifying-bluetooth-links-with-lenovo-win10/"><u>Solidifying Bluetooth Links with Lenovo, Win10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-cultivate-chuckle-inducing-visuals-on-giphy-for-2024/"><u>[New] Cultivate Chuckle-Inducing Visuals on Giphy for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-edu-top-ten-inspiring-educational-content-yt/"><u>[New] In 2024, Edu-Top Ten Inspiring Educational Content YT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726028415621-4k/"><u>「高解像度映像（4K）を効率良く圧縮するためのショートカットガイド」</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-c53-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme C53 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/beating-the-bug-a-step-by-step-fix-for-iphones-and-their-mtp-driver-woes/"><u>Beating the Bug: A Step-by-Step Fix for iPhones and Their MTP Driver Woes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-troubleshooting-entering-safe-mode-and-uninstalling-gpu-drivers-on-windows-8/"><u>Comprehensive Troubleshooting: Entering Safe Mode and Uninstalling GPU Drivers on Windows 8</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-web-addresses-to-videos-your-ultimate-tutorial-on-simple-url-to-video-conversion-techniques/"><u>From Web Addresses to Videos: Your Ultimate Tutorial on Simple URL-to-Video Conversion Techniques</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-se-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone SE Smoothly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103195830-hp-wireless-keyboard-failures-heres-how-to-get-it-working-again/"><u>HP Wireless Keyboard Failures? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://article-tips.techidaily.com/invest-in-quality-best-4k-mirrorless-under-1000-for-2024/"><u>Invest in Quality Best 4K Mirrorless Under $1,000 for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103887512-troubleshoot-and-resolve-when-windows-doesnt-identify-the-latest-connected-usb-apparatus/"><u>Troubleshoot and Resolve: When Windows Doesn't Identify the Latest Connected USB Apparatus</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Device Revived: Status Update - Code Unlocked"
-date: 2025-01-03T22:49:21.708Z
-updated: 2025-01-10T05:31:24.265Z
+date: 2025-01-12T23:13:28.352Z
+updated: 2025-01-16T02:57:04.037Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 If you encounter**This device is disabled. (Code 22)**in Device Manager, here are 4 solutions you can try to fix it. You may not have to try them all. Just work your way down the list until you find the one that works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [**Enable your device driver**](https://imp.i357552.net/jzg4rq)
@@ -37,12 +33,12 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 1. On your keyboard, press the**Windows** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png) key and**R** at the same time to open the Run box.
 2. Type **devmgmt.msc** and press**Enter**  to access Device Manager.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e3f572c04.png)
 3. Expand the category that your device belongs to, right-click your device and select**Enable device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
@@ -58,11 +54,11 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecd845a65.jpg)
 3. Click the **Update** button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).Or click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
 
 ---
 
@@ -73,6 +69,10 @@ Uninstalling your device driver is another solution you can try to fix **This de
 1. In Device Manager, right-click your device and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ea2541557.jpg)
 2. Restart your computer, and Windows will automatically reinstall the driver for your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -88,10 +88,6 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)  
  Example – CMOS battery on a desktop PC  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)  
  Example – CMOS battery on a laptop
@@ -100,10 +96,14 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
 6. Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -126,24 +126,20 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-live-setting-picks/"><u>[New] Ultimate Live Setting Picks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-engaging-audiences-triad-of-effective-storytelling/"><u>[Updated] 2024 Approved Engaging Audiences Triad of Effective Storytelling</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-conquering-snapchat-send-gifs-with-ease/"><u>2024 Approved Conquering Snapchat Send Gifs with Ease</u></a></li>
-<li><a href="https://driver-error.techidaily.com/dissecting-microsofts-ms-bda-vision/"><u>Dissecting Microsoft's MS BDA Vision</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enhancing-system-performance-by-troubleshooting-devices-dm/"><u>Enhancing System Performance by Troubleshooting Devices (DM)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-host-controller-accessibility/"><u>Fix Host Controller Accessibility</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-click-jams-in-windows-10/"><u>Fixing Click Jams in Windows 10</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/get-your-memories-back-in-pristine-condition-with-stellar-photo-8-restoration-suite-windows-compatible/"><u>Get Your Memories Back in Pristine Condition with Stellar Photo 8 Restoration Suite - Windows Compatible</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-fixing-unsupported-hardware-warnings-in-idt-system-compatibility-tips-and-tricks/"><u>Guide to Fixing 'Unsupported Hardware' Warnings in IDT System – Compatibility Tips & Tricks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/happy-hours-wacom-all-systems-go/"><u>Happy Hours: Wacom, All Systems Go</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-restore-functionality-of-your-malfunctioning-hp-bluetooth-keypad/"><u>How To Restore Functionality of Your Malfunctioning HP Bluetooth Keypad?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-successfully-update-and-install-drivers-for-your-device-on-microsoft-windows-10-8-7-solved/"><u>How to Successfully Update and Install Drivers for Your Device on Microsoft Windows (10, 8, 7) [SOLVED]</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-nubia-z50-ultra-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Nubia Z50 Ultra Phone Hassle-Free</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-15-pro-max-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 15 Pro Max Apps to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-the-discounted-second-gen-apple-watch-se-a-hidden-gem-in-the-prime-day-aftermath-find-out-on-zdnet/"><u>Is the Discounted Second Gen Apple Watch SE a Hidden Gem in the Prime Day Aftermath? Find Out on ZDNET</u></a></li>
-<li><a href="https://extra-support.techidaily.com/restore-natural-tones-reviving-overexposed-iphone-hdr-videos-in-premiere-pro-for-2024/"><u>Restore Natural Tones Reviving Overexposed iPhone HDR Videos in Premiere Pro for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-twitch-loophole-reviving-forgotten-chats/"><u>The Twitch Loophole Reviving Forgotten Chats</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ultimate-guide-updating-and-downloading-drivers-for-your-hp-envy-20-laptop/"><u>Ultimate Guide: Updating and Downloading Drivers for Your HP Envy 20 Laptop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-assessing-ffmpegs-prowess-in-original-audio-extraction/"><u>[New] Assessing FFmpeg’s Prowess in Original Audio Extraction</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-how-to-download-and-use-ifunny-meme-app/"><u>[New] How to Download and Use iFunny Meme App</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ideo-platform-review-is-vimeo-best-over-youtubes-and-dailymotions-for-2024/"><u>[New] Video Platform Review Is Vimeo Best Over YouTubes and DailyMotions for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-from-locked-archives-to-laymans-subtitles-the-zip-to-srt-method/"><u>[Updated] From Locked Archives to Layman's Subtitles The Zip To Srt Method</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comparing-resolutions-a-deep-dive-into-2160p-versus-4k-ultra-high-definition-explained/"><u>Comparing Resolutions: A Deep Dive Into 2160P versus 4K Ultra High Definition Explained</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-fixes-for-non-functional-qualcomm-atheros-bluetooth-drivers-on-windows-10/"><u>Effective Fixes for Non-Functional Qualcomm Atheros Bluetooth Drivers on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-15-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 15 Plus Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mastering-360-degree-videos-secure-youtube-uploads/"><u>Mastering 360-Degree Videos Secure YouTube Uploads</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11s-latest-upgrade-strategies-for-successful-installation/"><u>Navigating Windows 11'S Latest Upgrade: Strategies for Successful Installation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pinpoint-and-fix-dormant-windows-devices/"><u>Pinpoint and Fix Dormant Windows Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rapid-response-to-mtp-connection-issues/"><u>Rapid Response to MTP Connection Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/recovery-of-missing-bluetooth-restore-it-now/"><u>Recovery Of: Missing BlueTooth, Restore It Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reinstating-bluetooth-absence-in-hardware-listings/"><u>Reinstating: Bluetooth Absence in Hardware Listings</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-memory-management-interruptions/"><u>Solved Memory Management Interruptions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-incompatible-drivers-ensuring-validity-on-your-pc/"><u>Troubleshooting Incompatible Drivers: Ensuring Validity on Your PC</u></a></li>
 </ul></div>
 

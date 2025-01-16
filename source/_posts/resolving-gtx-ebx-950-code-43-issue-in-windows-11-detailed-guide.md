@@ -1,7 +1,7 @@
 ---
 title: Resolving GTX Ebx 950 'Code 43' Issue in Windows 11 - Detailed Guide
-date: 2025-01-03T22:09:20.588Z
-updated: 2025-01-09T18:30:45.784Z
+date: 2025-01-10T19:20:33.092Z
+updated: 2025-01-16T02:06:05.060Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** .
@@ -50,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
  1) First, you need to download [**Display Driver Uninstaller**](http://download-eu2.guru3d.com/ddu/[Guru3D.com]-DDU.zip) . After the download, extract the setup file from the downloaded folder. Then double click the**Display Driver Uninstaller** file to get started.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
@@ -64,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode.
 
@@ -93,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Option 2: Update Windows 10**
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** .
@@ -100,20 +100,20 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the**Check for updates** button to see if there are any new updates available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) If new updates are available, just download and then update them as instructed.
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -126,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Option 4: Reinstall Windows 10**
@@ -155,22 +155,24 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-preventing-non-bootable-state-due-to-software-issue/"><u>[FIXED] Preventing Non-Bootable State Due to Software Issue</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/rom-raw-footage-to-polished-highlights/"><u>[New] From Raw Footage to Polished Highlights</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-unlocking-hdr-potential-with-photo-hdr-techniques/"><u>[New] In 2024, Unlocking HDR Potential with Photo-HDR Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-silent-spectators-101-the-essentials-for-unnoticed-instagram-livestreams/"><u>[New] Silent Spectators 101 The Essentials for Unnoticed Instagram Livestreams</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tech-support-bluetooth-mouse-refuses-to-communicate-with-os/"><u>[Tech Support] Bluetooth Mouse Refuses to Communicate with OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enjoy-streamable-cinema-from-fandango-the-complete-instructions-for-your-fire-tv-box/"><u>Enjoy Streamable Cinema From Fandango – The Complete Instructions for Your Fire TV Box</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-advice-how-to-fix-incorrect-device-configuration-error-code-1-quickly/"><u>Expert Advice: How To Fix Incorrect Device Configuration Error (Code 1) Quickly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-print-device-now-supported-in-win-7/"><u>Fixed - Print Device Now Supported in Win 7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-address-your-pcs-audio-glitch-fix-for-dolby-headphone-not-working-resolved/"><u>How to Address Your PC's Audio Glitch: Fix for Dolby Headphone Not Working, Resolved!✔️</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-7-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 7 Activation Lock</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-note-30-vip-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Note 30 VIP to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-driver-compatibility-problems-between-amdintel-and-premiere-pro/"><u>Resolved Driver Compatibility Problems Between AMD/Intel and Premiere Pro</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-gameloop-issues-fixing-crashes-in-games-on-windows-11-and-10/"><u>Resolving GameLoop Issues: Fixing Crashes in Games on Windows 11 & 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-missing-driver-issues-on-your-device-fixes-for-windows-11-8-and-7/"><u>Resolving Missing Driver Issues on Your Device: Fixes for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restoring-absent-acquisition-dev-in-windows/"><u>Restoring Absent Acquisition Dev in Windows</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/e-your-watchlist-free-playlist-extractors-roundup-for-2024/"><u>Secure Your Watchlist Free Playlist Extractors Roundup for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-audio-capture-made-easy-in-windows-10/"><u>[New] Audio Capture Made Easy in Windows 10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-price-to-performance-tablets-with-gaming-capabilities-for-2024/"><u>[New] Best Price-to-Performance Tablets with Gaming Capabilities for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-invisible-snapshotting-hidden-image-recording-on-snapchat/"><u>[New] In 2024, Invisible Snapshotting Hidden Image Recording on Snapchat</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-navigating-and-interpreting-twitter-archives-for-2024/"><u>[New] Navigating and Interpreting Twitter Archives for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unleashing-the-power-of-tales-complimentary-apps-galore/"><u>[New] Unleashing the Power of Tales Complimentary Apps Galore</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repaired-no-light-on-asus-keys/"><u>[REPAIRED] No Light on ASUS Keys</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-wsd-print-device-doesnt-have-a-driver/"><u>[SOLVED] WSD Print Device Doesn’t Have a Driver</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-secrets-of-successful-ps3-game-recording-tactics/"><u>2024 Approved Secrets of Successful PS3 Game Recording Tactics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1715859966576-2024-approved-silent-blades-and-righteous-honor-your-next-game-adventure-awaits/"><u>2024 Approved Silent Blades & Righteous Honor Your Next Game Adventure Awaits!</u></a></li>
+<li><a href="https://solve-info.techidaily.com/1728510228408-windows-11/"><u>解決策：Windows 11での繰り返し起動を止める方法</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-exclusive-luxury-in-electronics-without-breaking-the-bank/"><u>Experience Exclusive Luxury in Electronics without Breaking the Bank.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-resolve-windows-10-asus-acpi-errors/"><u>Guide to Resolve Windows 10 ASUS ACPI Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-remedies-correcting-itbm-error-code-driver-unavailable/"><u>Immediate Remedies: Correcting ITBm Error Code 'Driver Unavailable'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-illumination-issue-asus/"><u>Keyboard Illumination Issue - ASUS</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-organize-your-videos-with-ease-top-8-mac-metadata-editors/"><u>New 2024 Approved Organize Your Videos with Ease Top 8 Mac Metadata Editors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repaired-flaky-video-recording-asus-usb-webcam-and-windows-11-sync/"><u>Repaired Flaky Video Recording: Asus USB Webcam & Windows 11 Sync</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-gtx-amoled128gb6000-degree-artificial-sparklechipcode43-issue-in-windows-10-complete-guide/"><u>Resolving the GTX Amoled_128GB_6000-Degree-Artificial-Sparkle_Chip_Code_43 Issue in Windows 10 - Complete Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rtp-unable-to-run-nvidia-graphics-games-our-expertise-can-solve-it/"><u>RTP: Unable to Run Nvidia Graphics Games? Our Expertise Can Solve It</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-the-radeon-wattman-reset-solving-your-graphics-settings-crashes/"><u>Troubleshooting the Radeon Wattman Reset: Solving Your Graphics Settings Crashes</u></a></li>
 </ul></div>
 

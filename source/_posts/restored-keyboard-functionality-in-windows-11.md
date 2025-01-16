@@ -1,7 +1,7 @@
 ---
 title: "[Restored] Keyboard Functionality in Windows 11"
-date: 2025-01-03T20:19:21.757Z
-updated: 2025-01-10T04:56:55.835Z
+date: 2025-01-09T21:30:47.115Z
+updated: 2025-01-16T03:32:06.741Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -45,29 +49,25 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -87,9 +87,17 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -113,15 +121,7 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5: Switch to ChromeOS
 
@@ -164,19 +164,24 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-ai-name-magic-selecting-the-best-tools-for-your-podcast-titles/"><u>[New] In 2024, AI Name Magic Selecting the Best Tools for Your Podcast Titles</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-prioritizing-visibility-a-guide-to-insta-highlights-perfection/"><u>[Updated] 2024 Approved Prioritizing Visibility A Guide to Insta Highlights Perfection</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-sustained-disconnection-technique-from-youtube-shorts-for-2024/"><u>[Updated] Sustained Disconnection Technique From YouTube Shorts for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-upgrading-your-mp4s-integrating-premium-srt-sound/"><u>[Updated] Upgrading Your MP4s Integrating Premium SRT Sound</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-play-8t-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/creating-user-friendly-youtube-subscribe-icons/"><u>Creating User-Friendly YouTube Subscribe Icons</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-how-to-resolve-missing-coprocessor-driver-issue-in-windows-10/"><u>Fix: How to Resolve Missing Coprocessor Driver Issue in Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-repairing-unverified-device-drivers-overcoming-installation-hurdles-on-computers/"><u>Guide to Repairing Unverified Device Drivers: Overcoming Installation Hurdles on Computers</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/nvidia-drivers-cant-be-removed-solution-discovered/"><u>Nvidia Drivers Can't Be Removed - Solution Discovered</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-missing-coprocessor-driver-issue-in-windows-10-a-step-by-step-guide/"><u>Resolving the 'Missing Coprocessor Driver' Issue in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/smooth-windows-11-with-no-lag/"><u>Smooth Windows 11 with No Lag</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-correcting-iphone-external-hardware-connection-error-via-mtp-usb-driver-restoration/"><u>Step-by-Step Guide to Correcting iPhone External Hardware Connection Error via MTP USB Driver Restoration</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-overcoming-bsod-errors-in-windows-10-efficiently/"><u>Step-by-Step Guide: Overcoming BSOD Errors in Windows 10 Efficiently</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-ultimate-guide-to-premiere-pro-planning-and-templates-for-2024/"><u>[New] The Ultimate Guide to Premiere Pro Planning & Templates for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-art-of-directly-posting-tiktok-videos-on-facebook/"><u>[Updated] 2024 Approved The Art of Directly Posting TikTok Videos on Facebook</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1-unlocking-constant-access-keep-your-flipbook-index-visible-with-ease-flipbuildercom/"><u>1) Unlocking Constant Access: Keep Your FlipBook Index Visible with Ease [FlipBuilder.com]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-notified-ideport0-fault-detection/"><u>Driver Notified: Ideport0 Fault Detection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-how-to-enjoy-your-dvd-collection-on-an-lg-smart-tv-without-using-a-separate-dvd-player/"><u>Easy Guide: How to Enjoy Your DVD Collection on an LG Smart TV Without Using a Separate DVD Player</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-navigating-to-safe-mode-and-disabling-graphics-card-software-in-windows-8-systems/"><u>Expert Advice: Navigating to Safe Mode and Disabling Graphics Card Software in Windows 8 Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/limited-time-alert-get-your-hands-on-apples-affordable-series-9-best-price-ever-recorded-shop-now-after-prime-day-frenzy-ends-insights/"><u>Limited Time Alert: Get Your Hands on Apple's Affordable Series 9, Best Price Ever Recorded - Shop Now After Prime Day Frenzy Ends Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolution-found-for-device-error-48/"><u>Resolution Found for Device Error 48</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-your-iphones-external-drive-connection-problem-fixing-the-mtp-usb-driver-error/"><u>Resolve Your iPhone's External Drive Connection Problem: Fixing the MTP USB Driver Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-hcmon-driver-installation-failures-a-step-by-step-guide/"><u>Resolving HCMon Driver Installation Failures: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-non-functional-bluetooth-drivers-for-qualcomm-atheros-devices-on-windows-11/"><u>Resolving Non-Functional Bluetooth Drivers for Qualcomm Atheros Devices on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reviving-your-non-responsive-hp-wireless-keyboard-easy-fixes-and-tips/"><u>Reviving Your Non-Responsive HP Wireless Keyboard: Easy Fixes & Tips</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ting-the-best-free-melodies-for-your-youtube-video/"><u>Selecting the Best Free Melodies for Your YouTube Video</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-correcting-your-devices-setup-overcoming-error-code-1-issues/"><u>Step-by-Step Guide to Correcting Your Device's Setup: Overcoming Error Code 1 Issues</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-walkthrough-to-get-the-latest-sata-storage-device-drivers-on-your-pc-with-windows-os/"><u>The Ultimate Walkthrough to Get the Latest SATA Storage Device Drivers on Your PC with Windows OS</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-best-powerdirector-replacements-for-android-and-ios-users-for-2024/"><u>Updated The Best PowerDirector Replacements for Android and iOS Users for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win10-woes-fixing-elan-touchpad-errors/"><u>Win10 Woes: Fixing Elan Touchpad Errors</u></a></li>
+<li><a href="https://win-forum.techidaily.com/winning-against-stubborn-files-advanced-techniques-to-force-delete-folders-on-your-windows-11-system/"><u>Winning Against Stubborn Files: Advanced Techniques to Force Delete Folders on Your Windows 11 System</u></a></li>
 </ul></div>
 
