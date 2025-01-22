@@ -1,7 +1,7 @@
 ---
 title: Overcoming Broadcom 802.11N Adapter Issues on Windows
-date: 2025-01-08T18:41:52.956Z
-updated: 2025-01-16T01:11:14.160Z
+date: 2025-01-20T20:15:24.047Z
+updated: 2025-01-22T06:04:44.320Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 * [4: Manually fix corrupted registry entries](https://lenovo-in.zlvv.net/kj14kn)
 * [Hardware Compatibility Issues](https://bluettifr.pxf.io/bax2bv)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1: Reinstall Device Driver
 
  Faulty driver is very likely to be the reason for your not working network adapter. You can reinstall its driver to get this problem fixed:
@@ -41,49 +37,41 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c37a43891ed.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand **Network adapters**  and double-click **Broadcom 802.11n network adapter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/broadcom-802-11n-network-adapter.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Go to the **Driver** tab and click **Update Driver…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/update-driver-option.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click **Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/browse-my-computer-for-driver-software.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click   **Let me pick from a list of device drivers on my computer.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/let-me-pick-from-a-list-of-device-drivers-on-my-computer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Click **Have Disk…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/have-disk.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Browse to **C:/(the name of your laptop manufacture)/drivers** and look for folder with the name similar to **R274634** . Double-click the folder and find the appropriate **.inf** file for your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/cthe-name-of-your-laptop-manufacturedrivers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You should be able to see the name of the file ends with**.inf** .
 
@@ -94,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
  8) Then you will be lead back to the **Install From Disk** window, press **OK** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/install-from-disk.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the correct driver to be installed.
 
@@ -107,13 +99,13 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/DE-scan-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the flagged network card device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3: Update Software and Operating System
 
@@ -131,11 +123,19 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/hkey_local_machinesystemcurrentcontrolsetcontrolclass4d36e978-e325-11ce-bfc1-08002be10318-600x494.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On the right side of the pane, see if you can find options **UpperFilters** and **LowerFilters** . If you cannot see either of these two options, this method is not working for you. If these two options are available, right-click them and click **Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/delete-upperfilter-and-lowerfilter.png)
 
  4) If prompted to confirm the delete, click **Yes** . 5) Exit Registry Editor and restart the computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Hardware Compatibility Issues
 
@@ -156,18 +156,16 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-can-i-view-all-shared-videos-and-photos-on-messenger-for-2024/"><u>[New] Can I View All Shared Videos And Photos on Messenger for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-real-time-viewership-counter-systems/"><u>[Updated] 2024 Approved Real-Time Viewership Counter Systems</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-from-recording-to-broadcast-masterful-podcast-editing-with-garageband-for-2024/"><u>[Updated] From Recording to Broadcast Masterful Podcast Editing with GarageBand for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/arrow-key-calm-a-guide-for-win-users/"><u>Arrow Key Calm: A Guide for Win Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effective-strategies-to-fetch-latest-drivers-for-your-hp-envy-20-laptop/"><u>Effective Strategies to Fetch Latest Drivers for Your HP Envy 20 Laptop</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-inner-workings-of-artificial-intelligence-on-devices/"><u>Exploring the Inner Workings of Artificial Intelligence on Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-conveniently-keep-your-linkedin-videos-with-these-6-apps/"><u>In 2024, Conveniently Keep Your LinkedIn Videos with These 6 Apps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/inside-fix-intel-me-driver-issues/"><u>Inside Fix: Intel ME Driver Issues</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/navigating-abbyys-compliance-with-online-privacy-regulations-the-companys-cookie-use-guidelangs/"><u>Navigating ABBYY's Compliance with Online Privacy Regulations: The Company’s Cookie Use Guidelangs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-gtx-ninety-five-error-with-codes-a-fix-guide-for-windows-eleven-users/"><u>Resolving GTX Ninety-Five Error with Codes: A Fix Guide for Windows Eleven Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-absent-coprocessor-driver-on-your-windows-10-system-guide/"><u>Resolving the Absent Coprocessor Driver on Your Windows 10 System [Guide]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-next-generation-of-display-tech-unpacking-what-the-ipad-pros-tandem-oled-reveals-for-tomorrows-gadgets/"><u>The Next Generation of Display Tech: Unpacking What the iPad Pro's Tandem OLED Reveals for Tomorrow's Gadgets</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unmasking-ms-bda-via-visual-rendering/"><u>Unmasking MS BDA via Visual Rendering</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-streaming-showdown-best-channels-for-your-audience-for-2024/"><u>[Updated] Streaming Showdown Best Channels for Your Audience for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-gaming-eliminate-stutter-and-pause-in-starfields-soundtrack/"><u>Enhance Your Gaming: Eliminate Stutter & Pause in Starfield's Soundtrack</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-qualcomm-atheros-bluetooth-issues-on-windows-10-solutions-inside/"><u>How to Fix Qualcomm Atheros Bluetooth Issues on Windows 10 - Solutions Inside</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-xchange-your-mind-with-non-sharex-insights/"><u>In 2024, XChange Your Mind with Non-ShareX Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/iphone-xs-not-detected-in-windows-server-r2-solved-it-here/"><u>IPhone XS Not Detected in Windows Server R2, Solved It Here</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-issues-with-the-most-recent-unrecognized-usb-hardware-on-windows-system/"><u>Resolving Issues With the Most Recent Unrecognized USB Hardware on Windows System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-fix-for-missing-coprocessor-driver-warning-in-windows-11-systems/"><u>Step-by-Step Fix for 'Missing Coprocessor Driver' Warning in Windows 11 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-ar-experience-immersed-releases-new-visor-xr-headset-to-tackle-critical-flaws-identified-in-vision-pro-analysis-on-zdnet/"><u>Transforming AR Experience: Immersed Releases New Visor XR Headset to Tackle Critical Flaws Identified in Vision Pro | Analysis on ZDNET</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unraveling-the-myths-around-language-mastery-duration/"><u>Unraveling the Myths Around Language Mastery Duration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vr-action-cams-face-off-hero5-black-vs-yis-new-release/"><u>VR Action Cams Face-Off Hero5 Black Vs. Yi's New Release</u></a></li>
 </ul></div>
 

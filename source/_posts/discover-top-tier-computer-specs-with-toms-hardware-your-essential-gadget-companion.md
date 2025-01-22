@@ -1,7 +1,7 @@
 ---
 title: Discover Top-Tier Computer Specs with Tom's Hardware - Your Essential Gadget Companion
-date: 2025-01-10T17:25:33.777Z
-updated: 2025-01-15T23:45:46.823Z
+date: 2025-01-18T05:40:08.872Z
+updated: 2025-01-21T22:40:40.124Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,24 +66,19 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-creating-impressive-google-collage-with-minimal-haste/"><u>[New] In 2024, Creating Impressive Google Collage with Minimal Haste</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-guide-to-refine-igtv-titles-and-descs-for-2024/"><u>[New] Step-by-Step Guide to Refine IGTV Titles & Descs for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-complete-zoomers-guide-achieving-exceptional-video-and-audio-recordings-on-zoom/"><u>[New] The Complete Zoomer's Guide Achieving Exceptional Video & Audio Recordings on Zoom</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/20-leading-no-cost-digital-editing-platforms/"><u>20 Leading No-Cost Digital Editing Platforms</u></a></li>
-<li><a href="https://driver-error.techidaily.com/access-denied-graphics-hardware-on-windows-os/"><u>Access Denied: Graphics Hardware on Windows OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/asus-keyboard-lights-not-switching-on/"><u>Asus Keyboard Lights Not Switching On</u></a></li>
-<li><a href="https://driver-error.techidaily.com/beat-the-blues-on-windows-7-solving-0x0000007e-blue-screen-of-death-issue/"><u>Beat the Blues on Windows 7: Solving 0X0000007E Blue Screen of Death Issue</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-revival-for-lenovo-in-the-realm-of-windows-11/"><u>Bluetooth Revival for Lenovo in the Realm of Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/boost-hat-performance-update-to-win11-driver/"><u>Boost HAT Performance: Update to Win11 Driver</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comment-sauver-votre-fichier-video-mp4-endommage-sans-depenser-une-centime-sur-pc-ou-mac/"><u>Comment Sauver Votre Fichier Vidéo MP4 Endommagé Sans Dépenser Une Centime, Sur PC Ou Mac</u></a></li>
-<li><a href="https://driver-error.techidaily.com/corrected-asus-usb20-webcam-drivers-in-windows-11/"><u>Corrected ASUS USB2.0 Webcam Drivers in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/corrective-steps-for-handling-non-compatible-hardware-messages-in-driver-packs/"><u>Corrective Steps for Handling Non-Compatible Hardware Messages in Driver Packs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104280835-expert-tips-restoring-your-qualcomm-atheros-bluetooth-connection-on-windows-vehicles-with-the-following-titles/"><u>Expert Tips: Restoring Your Qualcomm Atheros Bluetooth Connection on Windows Vehicles with the Following Titles:</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo V27? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/journeys-best-tools-top-10-vr-peripherals-guide-for-2024/"><u>Journey's Best Tools Top 10 VR Peripherals Guide for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-narzo-60x-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme Narzo 60x 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721100936688-missing-cpu-coprocessor-driver-in-windows-10-heres-how-to-fix-it/"><u>Missing CPU Coprocessor Driver in Windows 10? Here's How to Fix It!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oneplus-ace-2v-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on OnePlus Ace 2V and Browser | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/tips-to-quicken-instagram-media-playback/"><u>Tips to Quicken Instagram Media Playback</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-choosing-the-right-horizon-smart-strategies-for-buying-an-impressive-4k-display-for-2024/"><u>[New] Choosing the Right Horizon Smart Strategies for Buying an Impressive 4K Display for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-telepresence-seminar-capture/"><u>[New] Telepresence Seminar Capture</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2023s-best-free-dvd-players-for-windowsmac-pcs/"><u>2023'S Best Free DVD Players for Windows/Mac PCs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-12-mini-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 12 mini and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-y17s-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo Y17s Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/exploring-the-past-and-present-of-usb-composite-devices-in-todays-tech-scene/"><u>Exploring the Past and Present of USB Composite Devices in Today's Tech Scene</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-how-to-resolve-missing-coprocessor-driver-issue-in-windows-11/"><u>Fix Guide: How To Resolve 'Missing Coprocessor Driver' Issue in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-wdcsam64prewin8sys-no-core-isolation/"><u>Fixed: wdcsam64_prewin8.sys - No Core Isolation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-top-8-facebook-link-exporters-download-and-manage-effortlessly/"><u>In 2024, Top 8 Facebook Link Exporters Download & Manage Effortlessly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intelladapter-absence-driver-installs-failed/"><u>IntellAdapter Absence: Driver Installs Failed</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/live-stream-with-manycam-premium-video-capture-and-virtual-camera-solutions/"><u>Live Stream with ManyCam: Premium Video Capture and Virtual Camera Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-response-from-lenovo-thinkpad-t430-to-windows-vista-resolved/"><u>No Response From Lenovo Thinkpad T430 to Windows Vista [Resolved]</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-how-to-for-entering-recovery-mode-on-an-ipad/"><u>The Ultimate How-To for Entering Recovery Mode on an iPad</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-superiority-of-the-nintendo-switch-in-portable-play/"><u>Unveiling the Superiority of the Nintendo Switch in Portable Play</u></a></li>
 </ul></div>
 

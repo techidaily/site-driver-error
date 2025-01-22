@@ -1,7 +1,7 @@
 ---
 title: Solve Ongoing AMD Drivers Glitches Swiftly
-date: 2025-01-10T19:25:43.346Z
-updated: 2025-01-16T00:45:45.599Z
+date: 2025-01-17T23:57:44.404Z
+updated: 2025-01-21T20:40:34.115Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/0354f8e14674fab0ca20c7e6ac5698288d836a493
 
  If your computer keeps running into the**AMD driver crashing** issue, don’t worry. It’s usually easy to fix…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 Fixes for AMD Drivers Crash
 
  Just work your way down until the**AMD driver crashing** issue is resolved.
@@ -30,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/0354f8e14674fab0ca20c7e6ac5698288d836a493
 3. **[Repair system files](https://newchic.sjv.io/jzg4zq)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Update the faulty AMD driver (nearly always fixes the problem)
@@ -68,11 +64,11 @@ Here’s how:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/02/image-1.png)
 4. Click **Yes** to confirm. Then the driver will be restored to a previous version.
 
-5. **Restart** you computer and check if the problem is resolved.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. **Restart** you computer and check if the problem is resolved.
 
 ## Fix 3: Repair system files
 
@@ -80,6 +76,10 @@ Here’s how:
 
 1. [**Repair & replace corrupt system files with Fortect**](https://tinyland.pxf.io/org4ra)
 2. [**Run SFC scan**](https://homestyler.sjv.io/y209g3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Repair & replace corrupt system files with Fortect
 
@@ -99,10 +99,6 @@ Here’s how to use Fortect to repair system files on your PC:
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Run SFC scan
 
 **System File Checker** (**SFC**) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files(including those related to **BSOD**). To **run the SFC scan** :
@@ -112,11 +108,15 @@ Here’s how to use Fortect to repair system files on your PC:
 2. Click**Yes** when prompted to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 4. Restart your computer for the changes to take effect.
@@ -143,20 +143,22 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-the-verdict-on-toolwiz-top-notch-mobile-photo-editor/"><u>[Updated] The Verdict on Toolwiz Top-Notch Mobile Photo Editor?</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/accidental-tiktok-overview-can-i-see-previous-videos/"><u>Accidental TikTok Overview – Can I See Previous Videos?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apple-macbook-air-13-inch-m1-2020-review/"><u>Apple MacBook Air 13-Inch (M1, 2020) Review</u></a></li>
-<li><a href="https://driver-error.techidaily.com/dissecting-the-graphics-presentation-of-ms-bda/"><u>Dissecting the Graphics Presentation of MS BDA</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/elevating-your-vimeo-clips-a-guide-to-musical-additions/"><u>Elevating Your Vimeo Clips A Guide to Musical Additions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-45-dealt-with-efficiently/"><u>Error 45: Dealt with Efficiently</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-installation-problems-with-the-hcmon-driver-error/"><u>Fixing Installation Problems with the Hcmon Driver Error</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hardware-alert-bcm20702a0-not-available/"><u>Hardware Alert: BCM20702A0 Not Available</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-oneplus-nord-ce-3-lite-5g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from OnePlus Nord CE 3 Lite 5G?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-smart-8-pro-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Smart 8 Pro to PC? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/navigating-through-nvidia-drivers-issues/"><u>Navigating Through Nvidia Drivers Issues</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-renaming-files-on-your-windows-pc-tips-from-yl-software/"><u>Step-by-Step Guide: Renaming Files on Your Windows PC - Tips From YL Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-reset-completed/"><u>System Reset Completed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-the-gtx-ninescore-error-code-in-windows-eleven-a-complete-solution/"><u>Troubleshooting the GTX Ninescore Error Code in Windows Eleven - A Complete Solution</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/understanding-seasonal-charge-issues-why-devices-like-ipads-and-macbooks-may-fail-in-cold-weather/"><u>Understanding Seasonal Charge Issues: Why Devices Like iPads and MacBooks May Fail in Cold Weather</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-creator-revenue-streams-amidst-the-world-of-youtube-shorts-for-2024/"><u>[New] Creator Revenue Streams Amidst the World of YouTube Shorts for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-bulk-buy-subscribers-cost-effective-growth-strategy/"><u>[Updated] In 2024, Bulk Buy Subscribers Cost-Effective Growth Strategy</u></a></li>
+<li><a href="https://driver-error.techidaily.com/active-alert-code-cleared/"><u>Active Alert: Code Cleared</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/amplify-your-channel-popularity-instantly-for-2024/"><u>Amplify Your Channel Popularity Instantly for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-hdr-audio-device-alert/"><u>Fixed: HDR Audio Device Alert</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-6s-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 6s</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-i-overcame-iphones-external-storage-connectivity-issues-with-mtp-drivers/"><u>How I Overcame iPhone's External Storage Connectivity Issues with MTP Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-instantly-correct-itbm-driver-availability-errors/"><u>How to Instantly Correct ITBm Driver Availability Errors</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unveiling-30-proven-facebook-tricks-to-skyrocket-your-brand/"><u>In 2024, Unveiling 30 Proven Facebook Tricks to Skyrocket Your Brand</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-the-update-process-how-to-get-latest-drivers-for-hp-envy-nv-series-computers/"><u>Mastering the Update Process: How to Get Latest Drivers for HP Envy Nv Series Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-your-chatbot-efficiency-learn-proven-ai-prompting-secrets-tip-1-to-7/"><u>Maximize Your Chatbot Efficiency: Learn Proven AI Prompting Secrets (Tip #1 to #7)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repair-your-videos-with-ease-using-grau-gmbhs-advanced-technology-suite/"><u>Repair Your Videos with Ease Using Grau GmbH's Advanced Technology Suite</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-graphic-issues-on-windows-8-learn-to-start-in-safe-mode-and-perform-graphics-driver-updates-or-reinstalls/"><u>Resolving Graphic Issues on Windows 8? Learn to Start in Safe Mode & Perform Graphics Driver Updates or Reinstalls</u></a></li>
+<li><a href="https://driver-error.techidaily.com/section-error-inf-service-setup-invalid-resolved/"><u>Section Error: INF Service Setup Invalid - Resolved</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transferring-iso-files-onto-your-iphone-using-macos-a-comprehensive-guide/"><u>Transferring ISO Files Onto Your iPhone Using MacOS: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-and-repairing-the-blue-screen-of-death-error-0x00000/"><u>Understanding and Repairing the Blue Screen of Death: Error 0X00000</u></a></li>
 </ul></div>
 

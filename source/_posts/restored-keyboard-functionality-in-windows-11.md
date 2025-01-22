@@ -1,7 +1,7 @@
 ---
 title: "[Restored] Keyboard Functionality in Windows 11"
-date: 2025-01-09T21:30:47.115Z
-updated: 2025-01-16T03:32:06.741Z
+date: 2025-01-21T01:28:16.992Z
+updated: 2025-01-21T20:27:11.314Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
  Fortunately, it’s easy to test: simply unplug the keyboard from the USB port and plug in another USB device – like a mouse or an external hard drive. If that device doesn’t work either, the USB port itself is the problem, and you should skip straight to [Method 4](https://pish-posh-baby.sjv.io/g1jg15) . If the device you just plugged in does work, then continue to [Method 2](https://zonlipartnershipprogram.pxf.io/b0rbxy) .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Adjust your keyboard settings
 
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Ease of Access** .
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Keyboard** .
@@ -79,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
@@ -87,17 +91,9 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -120,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
  Or click**Update All** to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -164,24 +164,22 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-the-ultimate-guide-to-premiere-pro-planning-and-templates-for-2024/"><u>[New] The Ultimate Guide to Premiere Pro Planning & Templates for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-art-of-directly-posting-tiktok-videos-on-facebook/"><u>[Updated] 2024 Approved The Art of Directly Posting TikTok Videos on Facebook</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-unlocking-constant-access-keep-your-flipbook-index-visible-with-ease-flipbuildercom/"><u>1) Unlocking Constant Access: Keep Your FlipBook Index Visible with Ease [FlipBuilder.com]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-notified-ideport0-fault-detection/"><u>Driver Notified: Ideport0 Fault Detection</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-guide-how-to-enjoy-your-dvd-collection-on-an-lg-smart-tv-without-using-a-separate-dvd-player/"><u>Easy Guide: How to Enjoy Your DVD Collection on an LG Smart TV Without Using a Separate DVD Player</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-advice-navigating-to-safe-mode-and-disabling-graphics-card-software-in-windows-8-systems/"><u>Expert Advice: Navigating to Safe Mode and Disabling Graphics Card Software in Windows 8 Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/limited-time-alert-get-your-hands-on-apples-affordable-series-9-best-price-ever-recorded-shop-now-after-prime-day-frenzy-ends-insights/"><u>Limited Time Alert: Get Your Hands on Apple's Affordable Series 9, Best Price Ever Recorded - Shop Now After Prime Day Frenzy Ends Insights</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolution-found-for-device-error-48/"><u>Resolution Found for Device Error 48</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-your-iphones-external-drive-connection-problem-fixing-the-mtp-usb-driver-error/"><u>Resolve Your iPhone's External Drive Connection Problem: Fixing the MTP USB Driver Error</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-hcmon-driver-installation-failures-a-step-by-step-guide/"><u>Resolving HCMon Driver Installation Failures: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-non-functional-bluetooth-drivers-for-qualcomm-atheros-devices-on-windows-11/"><u>Resolving Non-Functional Bluetooth Drivers for Qualcomm Atheros Devices on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reviving-your-non-responsive-hp-wireless-keyboard-easy-fixes-and-tips/"><u>Reviving Your Non-Responsive HP Wireless Keyboard: Easy Fixes & Tips</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ting-the-best-free-melodies-for-your-youtube-video/"><u>Selecting the Best Free Melodies for Your YouTube Video</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-correcting-your-devices-setup-overcoming-error-code-1-issues/"><u>Step-by-Step Guide to Correcting Your Device's Setup: Overcoming Error Code 1 Issues</u></a></li>
-<li><a href="https://win-dash.techidaily.com/the-ultimate-walkthrough-to-get-the-latest-sata-storage-device-drivers-on-your-pc-with-windows-os/"><u>The Ultimate Walkthrough to Get the Latest SATA Storage Device Drivers on Your PC with Windows OS</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-best-powerdirector-replacements-for-android-and-ios-users-for-2024/"><u>Updated The Best PowerDirector Replacements for Android and iOS Users for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win10-woes-fixing-elan-touchpad-errors/"><u>Win10 Woes: Fixing Elan Touchpad Errors</u></a></li>
-<li><a href="https://win-forum.techidaily.com/winning-against-stubborn-files-advanced-techniques-to-force-delete-folders-on-your-windows-11-system/"><u>Winning Against Stubborn Files: Advanced Techniques to Force Delete Folders on Your Windows 11 System</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-converting-your-clips-upload-to-youtube-via-premiere/"><u>[New] 2024 Approved Converting Your Clips Upload to YouTube Via Premiere</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-maximizing-engagement-with-instagrams-ask-emoji/"><u>[Updated] 2024 Approved Maximizing Engagement with Instagram's Ask Emoji</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamline-broadcasts-the-ultimate-guide-for-obspluszoom/"><u>[Updated] Streamline Broadcasts The Ultimate Guide for OBS+Zoom</u></a></li>
+<li><a href="https://driver-error.techidaily.com/address-udma-driver-failure/"><u>Address UDMA Driver Failure</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-troubleshooting-lenovo-plus-windows-11-success/"><u>Bluetooth Troubleshooting: Lenovo + Windows 11 Success</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabling-intel-driver-on-limited-specs-machine/"><u>Enabling Intel Driver on Limited Specs Machine</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-12-pro-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 12 Pro Without Passcode Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-find-and-apply-newest-windows-drivers-for-your-amd-radeon-hd-6350-graphics-card/"><u>How to Find and Apply Newest Windows Drivers for Your AMD Radeon HD 6350 Graphics Card</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-usb-install-failures-due-to-access-denied-errors/"><u>How to Overcome USB Install Failures Due to Access Denied Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-meta-quest-3-lite-forthcoming-release-dates-and-leaked-hardware-specifications/"><u>Inside Look at Meta Quest 3 Lite - Forthcoming Release Dates and Leaked Hardware Specifications</u></a></li>
+<li><a href="https://driver-error.techidaily.com/key-malfunction-report-for-windows-10/"><u>Key Malfunction Report for Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-uninstalled-device-drivers-in-windows-1187-with-easy-fixes/"><u>Resolve Uninstalled Device Drivers in Windows 11/8/7 With Easy Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-steps-to-retrieve-and-install-device-drivers-on-windows-10-8-and-7-systems/"><u>Resolved! Steps to Retrieve and Install Device Drivers on Windows 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-vertical-display-problem-correcting-upward-facing-videos-on-your-asus-notebook/"><u>Resolving the Vertical Display Problem: Correcting Upward-Facing Videos on Your ASUS Notebook</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/troubleshooting-sluggish-boot-times-expert-tips-from-yl-computings-yl-software/"><u>Troubleshooting Sluggish Boot Times: Expert Tips From YL Computing's YL Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unveiling-the-secret-to-flawless-elan-pad-on-win11/"><u>Unveiling the Secret to Flawless Elan Pad on Win11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/vintage-track-simulators-the-quintet-for-2024/"><u>Vintage Track Simulators The Quintet for 2024</u></a></li>
 </ul></div>
 

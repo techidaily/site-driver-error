@@ -1,7 +1,7 @@
 ---
 title: Disabled Issue Eliminated
-date: 2025-01-12T23:25:34.757Z
-updated: 2025-01-15T23:51:10.965Z
+date: 2025-01-16T00:17:26.719Z
+updated: 2025-01-22T00:00:32.410Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b988610e117a.png)
 
 If you encounter**This device is disabled. (Code 22)**in Device Manager, here are 4 solutions you can try to fix it. You may not have to try them all. Just work your way down the list until you find the one that works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,6 +39,10 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Fix 2: Update your device driver
@@ -55,14 +55,10 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 3. Click the **Update** button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).Or click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -75,10 +71,14 @@ Uninstalling your device driver is another solution you can try to fix **This de
 2. Restart your computer, and Windows will automatically reinstall the driver for your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset the BIOS settings
 
@@ -100,7 +100,7 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
 6. Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
@@ -126,18 +126,19 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-diverse-devices-no-problem-record-youtube-livestream-easily-for-2024/"><u>[New] Diverse Devices? No Problem! Record YouTube Livestream Easily for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-intel-wi-fi-6-ax201-not-working/"><u>[SOLVED] Intel Wi-Fi 6 AX201 Not Working</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-ideas-for-creating-sequences-of-iphone-burst-images/"><u>[Updated] Ideas for Creating Sequences of iPhone Burst Images</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cd-drive-absence-windows-11-issue-solved/"><u>CD Drive Absence: Windows 11 Issue Solved</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-itel-p55-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel P55 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-successfully-update-your-hcmon-driver-and-avoid-common-mistakes/"><u>How to Successfully Update Your HCMon Driver and Avoid Common Mistakes</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-gionee-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Gionee</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a56s-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A56s 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-redmi-k70-pro-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi Redmi K70 Pro Device</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/moto-g-power-evaluation-exceptional-battery-life-housed-in-a-chic-package-for-longer-usage/"><u>Moto G Power Evaluation: Exceptional Battery Life Housed in a Chic Package for Longer Usage</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resource-allocation-hurdles-in-device/"><u>Resource Allocation Hurdles in Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-unsupported-hardware-recognition-error-with-idt-software/"><u>Troubleshooting: Unsupported Hardware Recognition Error with IDT Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-users-heres-how-you-can-get-your-wi-fi-keyboard-back-in-action/"><u>Windows Users! Here's How You Can Get Your Wi-Fi Keyboard Back in Action</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-microphones-ranked-perfect-companions-for-4k-cinematography/"><u>[Updated] Best Microphones Ranked Perfect Companions for 4K Cinematography</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-checklist-for-professional-youtube-clips-for-2024/"><u>[Updated] The Ultimate Checklist for Professional YouTube Clips for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-toontown-full-analysis-and-tutorial-24-edition-for-2024/"><u>[Updated] ToonTown Full Analysis & Tutorial '24 Edition for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pushing-the-limits-with-text-warping-effects/"><u>2024 Approved Pushing the Limits with Text Warping Effects</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bring-back-windows-11-sound-via-drivers/"><u>Bring Back Windows 11 Sound via Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/download-lenovo-thinkpad-edge-driver-updates-compatible-with-windows-10/"><u>Download Lenovo ThinkPad Edge Driver Updates Compatible with Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/download-microsoft-lifecam-drivers-with-ease-step-by-step-instructions-for-smooth-setup/"><u>Download Microsoft Lifecam Drivers with Ease – Step-by-Step Instructions for Smooth Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/download-the-latest-amd-radeon-hd-6670-graphics-card-drivers-with-these-simple-steps/"><u>Download the Latest AMD Radeon HD 6670 Graphics Card Drivers with These Simple Steps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-dell-touchpad-not-working-issue-for-windows-11/"><u>Fix Dell Touchpad Not Working Issue for Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-windows-11-ethernet-driver-issues-easily/"><u>Fix Windows 11 Ethernet Driver Issues. Easily!</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 Pro Max without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-pillars-behind-chatgpts-surge-in-popularity/"><u>Top 5 Pillars Behind ChatGPT’s Surge in Popularity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unreachable-settings-issue-with-nvidia-experience/"><u>Troubleshooting Unreachable Settings Issue with NVIDIA Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/jpeg-mp4avimov2024/"><u>フリーで高品質なJPEGへ: MP4・AVI・MOV動画変換ツール集2024年モデルのおすすめ</u></a></li>
 </ul></div>
 

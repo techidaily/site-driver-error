@@ -1,7 +1,7 @@
 ---
 title: "Service Section Fix: Validated INF"
-date: 2025-01-10T02:29:16.127Z
-updated: 2025-01-15T23:36:28.661Z
+date: 2025-01-20T20:39:56.769Z
+updated: 2025-01-21T19:30:39.230Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 1. [**Update the driver automatically**](https://bluetties.sjv.io/lxv4pm)
 2. [**Update the driver manually**](https://technitya.sjv.io/dkpn02)
 3. [**Install the missing driver files manually**](https://dhgate.sjv.io/5g6yb2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 1: Update the driver automatically
 
@@ -67,33 +63,37 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687740cb79e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Select**Let me pick from a list of available drivers on my computer** and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68744ea8804.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) In Device Manager, if you see the device shown as MTP USB device. You’ll see**MTP USB Device** listed in the list.**Highlight** it then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687724c3ed9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you see the device shown as Unknown Device. You’ll see an Android phone or Android device in the long list.**Highlight** it and click**Next** then select**MTP USB device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68796507b2b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) The driver will install automatically. You just need to wait for a while until the installation completes.
 
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
 
@@ -110,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
@@ -140,24 +140,24 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-converting-avian-videos-avi-into-graphic-images-gif-using-filmora/"><u>[Updated] 2024 Approved Converting Avian Videos (AVI) Into Graphic Images (GIF) Using Filmora</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-ultimate-guide-to-secretive-instagram-viewing/"><u>[Updated] In 2024, The Ultimate Guide to Secretive Instagram Viewing</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-sustainable-growth-developing-a-long-term-personal-brand-on-youtube/"><u>2024 Approved Sustainable Growth Developing a Long-Term Personal Brand on YouTube</u></a></li>
-<li><a href="https://driver-error.techidaily.com/a-comprehensive-guide-to-troubleshooting-historical-usb-composite-device-quandaries/"><u>A Comprehensive Guide to Troubleshooting Historical USB Composite Device Quandaries</u></a></li>
-<li><a href="https://driver-error.techidaily.com/address-erratic-dell-pointing-device-win7/"><u>Address Erratic Dell Pointing Device (Win7)</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-tecno-camon-30-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cheap-microphones-for-youtubers-on-a-budget/"><u>Cheap Microphones for Youtubers on a Budget</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-guide-to-older-versions-of-usb-composite-devices/"><u>Comprehensive Guide to Older Versions of USB Composite Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/corrected-photo-output-glitch-for-asus-webcam-in-win11/"><u>Corrected Photo Output Glitch for ASUS Webcam in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/demystifying-elan-driver-conflicts-in-windows/"><u>Demystifying Elan Driver Conflicts in Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-driver-loaded-on-win-os/"><u>Device Driver Loaded on Win OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102972909-fix-radeon-software-and-driver-versions-do-not-match/"><u>Fix: ‘Radeon Software and Driver Versions Do Not Match’</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-tecno-pova-6-pro-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Pova 6 Pro 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-top-10-after-effects-text-presets/"><u>In 2024, Top 10 After Effects Text Presets</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103877616-iphone-cant-connect-correct-your-phones-mtp-drivers-today/"><u>IPhone Can't Connect? Correct Your Phone's MTP Drivers Today</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/keeping-the-flow-alive-2023-guide-to-live-video-repairs-on-fb-for-2024/"><u>Keeping the Flow Alive 2023 Guide to Live Video Repairs on FB for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-evolution-of-metas-genai-from-predictions-to-consequential-chessboard-insights-on-zdnet/"><u>Navigating the Evolution of Meta's GenAI: From Predictions to Consequential Chessboard | Insights on ZDNet</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721101503379-solved-no-valid-dx11-video-card-found-black-ops-error/"><u>Solved: No Valid DX11 Video Card Found Black Ops Ⅲ Error</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-how-to-screen-capture-anything-including-netflix-on-a-mac-in-six-steps/"><u>[New] 2024 Approved How to Screen Capture Anything, Including Netflix, on a Mac in Six Steps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-dream-lenses-guide-leading-6-in-high-definition-dslrs/"><u>[Updated] Dream Lenses Guide Leading 6 in High-Definition DSLRs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-guide-to-recording-adobe-presentation-videos/"><u>[Updated] In 2024, Guide to Recording Adobe Presentation Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-optimizing-color-depth-and-gradients-for-obs-for-2024/"><u>[Updated] Optimizing Color Depth and Gradients for OBS for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/bypass-iphone-security-accessing-your-device-passcode-free-techniques/"><u>Bypass iPhone Security: Accessing Your Device Passcode-Free Techniques</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cleared-error-on-deviceharddisk-exception/"><u>Cleared Error on DeviceHarddisk Exception</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/effektivste-techniken-fur-das-cloning-von-festplatten-in-windows-server-2019-experten-tipps-und-tricks/"><u>Effektivste Techniken Für Das Cloning Von Festplatten in Windows Server 2019: Experten-Tipps Und Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/efficient-tools-for-xmlssattml-to-srt-conversion/"><u>Efficient Tools for XML/SSA/TTML to SRT Conversion</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhanced-image-quality-for-asus-cam-fix-in-windows-11-builds/"><u>Enhanced Image Quality for ASUS Cam: Fix in Windows 11 Builds</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/expert-audio-enhancement-toolkit-for-2024/"><u>Expert Audio Enhancement Toolkit for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-endless-windows-11-bluetooth-activation/"><u>Fixed Endless Windows 11 Bluetooth Activation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-asmedia-usb-host-controller-was-not-found-on-asus/"><u>Fixed: ASMedia USB Host Controller Was Not Found on Asus</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-nokia-c02-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Nokia C02 Phone Now with These Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-overcoming-connectivity-problems-with-your-hp-wireless-keyboard/"><u>Solved! Overcoming Connectivity Problems with Your HP Wireless Keyboard</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-definitive-guide-to-download-and-refresh-drivers-on-the-hp-envy-20-computer-series/"><u>The Definitive Guide to Download & Refresh Drivers on the HP ENVY 20 Computer Series</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unraveling-the-mystery-of-directx-9-not-initializing/"><u>Unraveling the Mystery of DirectX 9 Not Initializing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/why-is-my-device-missing-a-driver-in-windows-fixes-for-11-8-and-7-systems/"><u>Why Is My Device Missing a Driver in Windows? Fixes for 11, 8 & 7 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/your-seagate-hdd-on-the-fence-in-win10-heres-what-to-do/"><u>Your Seagate HDD on the Fence in Win10? Here's What To Do</u></a></li>
 </ul></div>
 

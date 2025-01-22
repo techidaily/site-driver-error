@@ -1,7 +1,7 @@
 ---
 title: "Fixing Missing Drives: CD/DVD Troubleshooting in Win11"
-date: 2025-01-11T17:43:44.304Z
-updated: 2025-01-16T04:25:40.036Z
+date: 2025-01-19T03:52:33.481Z
+updated: 2025-01-21T16:49:43.579Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
  Method 4:[**Create a registry subkey**](https://modlily.sjv.io/aw92wr)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **1: Uninstall IDE ATA/ ATAPI controllers**
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
  3) Right-click **ATA Channel 0** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e194a84fe7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click **ATA Channel 1** and click**Uninstall** .
 
@@ -78,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
@@ -92,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Follow the path:
@@ -100,21 +104,21 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55543336b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) **Delete**  them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
 
@@ -129,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd3791d37b.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
@@ -145,13 +145,13 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -172,22 +172,20 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-premier-microphone-picks-for-blogging-pros/"><u>[New] 2024 Approved Premier Microphone Picks for Blogging Pros</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlock-access-to-nba-live-gameplay-with-these-15-tips/"><u>[New] Unlock Access to NBA Live Gameplay with These 15 Tips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-ultimate-tiktok-twitter-syncing-method/"><u>[Updated] In 2024, The Ultimate TikTok-Twitter Syncing Method</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-your-srt-equipment-like-a-pro/"><u>2024 Approved Understanding Your SRT Equipment Like a Pro</u></a></li>
-<li><a href="https://driver-error.techidaily.com/addressing-enex-driver-incompatibility-with-windows-11/"><u>Addressing eNEX Driver Incompatibility with Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/alleviate-mouse-disruptions-in-windows-7-dell/"><u>Alleviate Mouse Disruptions in Windows 7 Dell</u></a></li>
-<li><a href="https://driver-error.techidaily.com/audio-bus-error-on-hd-device-overcome/"><u>Audio Bus Error on HD Device Overcome</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bring-functionality-back-to-nonresponsive-serial-ports/"><u>Bring Functionality Back to Nonresponsive Serial Ports</u></a></li>
-<li><a href="https://driver-error.techidaily.com/complete-guide-to-installing-drivers-on-windows-windows-10-8-and-7-fixes/"><u>Complete Guide to Installing Drivers on Windows - Windows 10, 8 & 7 Fixes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-solutions-for-diagnosing-and-fixing-blue-screen-error-0x0000007e-on-windows-7-systems/"><u>Comprehensive Solutions for Diagnosing and Fixing Blue Screen Error 0X0000007E on Windows 7 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/core-isolation-disabled-on-wdcsam64prewin8sys-fix/"><u>Core Isolation Disabled on wdcsam64_prewin8.sys Fix</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correcting-device-not-supported-error-on-winsta/"><u>Correcting 'Device Not Supported' Error on WinSta</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/easy-steps-to-identify-vms-in-vcenter-by-their-mac-or-ip-a-comprehensive-tutorial/"><u>Easy Steps to Identify VMs in vCenter by Their MAC or IP - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/elite-action-cameras-best-15-handheld-choices-for-2024/"><u>Elite Action Cameras Best 15 Handheld Choices for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-10-best-classic-family-vacation-movie-for-this-summer/"><u>In 2024, 10 Best Classic Family Vacation Movie for This Summer</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-also-a-fan-of-the-slow-mo-guys-well-who-isnt-learn-how-you-can-create-compelling-slow-mo-videos-like-the-slow-mo-guys-here/"><u>New In 2024, Are You Also a Fan of the Slow Mo Guys? Well! Who Isnt? Learn How You Can Create Compelling Slow-Mo Videos Like the Slow Mo Guys Here</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-claude-3s-functionality/"><u>Understanding Claude 3'S Functionality</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ecoding-the-earnings-algorithm-of-tseries-online-channel-for-2024/"><u>[New] Decoding the Earnings Algorithm of TSeries Online Channel for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-enhancing-visuals-the-role-of-a-tripod-in-video-content/"><u>[New] In 2024, Enhancing Visuals The Role of a Tripod in Video Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-supreme-audiovisual-hints-pack/"><u>[New] Supreme Audiovisual Hints Pack</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-picks-for-superior-nintendo-switch-gaming/"><u>[New] Top Picks for Superior Nintendo Switch Gaming</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-addressing-youtube-shorts-no-image-upload-issue/"><u>[Updated] Addressing YouTube Shorts No Image Upload Issue?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-cant-turn-off-on-windows-11-solved/"><u>Bluetooth Can't Turn Off on Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-compatibility-issues-when-idt-software-cant-support-detected-hardware/"><u>Fixing Compatibility Issues: When IDT Software Can’t Support Detected Hardware</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/get-your-no-cost-video-combining-tool-ideal-for-windows-11-8-and-7/"><u>Get Your No-Cost Video Combining Tool: Ideal for Windows 11, 8 and 7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/highly-recommended-applications-for-virtual-group-meetings-and-calls/"><u>Highly Recommended Applications for Virtual Group Meetings and Calls</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-prevent-your-amd-radeon-wattman-from-crashing-settings-restored-guide/"><u>How to Prevent Your AMD Radeon Wattman From Crashing: Settings Restored Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-malfunction-heres-how-you-can-repair-it/"><u>HP Wireless Keyboard Malfunction? Here's How You Can Repair It</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-bios-configurations-and-optimization-techniques-with-revouninstaller/"><u>Navigating the World of BIOS Configurations & Optimization Techniques with RevoUninstaller</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-device-specific-windows-application-issues/"><u>Navigating Through Device-Specific Windows Application Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-intel-me-errors/"><u>Resolving Intel ME Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-detected-hardware-lacking-support-for-your-idt-software-system/"><u>Solve Detected Hardware Lacking Support for Your IDT Software System</u></a></li>
 </ul></div>
 

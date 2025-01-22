@@ -1,7 +1,7 @@
 ---
 title: Unlocking Solution to Error Code 52
-date: 2025-01-14T01:28:08.447Z
-updated: 2025-01-15T17:32:12.264Z
+date: 2025-01-16T01:23:23.847Z
+updated: 2025-01-21T16:38:12.373Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Does this screenshot look similar?
 
  If you’re getting the **Code 52 driver error** of your USB devices on your computer, it could be super frustrating. But don’t panic. You’re certainly not the only one. We’ve seen many users are reporting this issue. Luckily, we’ve found the answer for you. Read on and find out how…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  The driver error code 52 refers to that Windows cannot verify the digital signature for the drivers required for this device. Probably the driver installed on your computer is signed incorrectly. Here are 3 solutions for you to try which have helped other users. Read on and find out how…
@@ -30,10 +34,6 @@ Does this screenshot look similar?
 3. [**Enable the ‘Disable driver signature enforcement’ feature**](https://homestyler.sjv.io/y209g3)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 1: Install the correct driver for your device
 
@@ -57,19 +57,23 @@ Does this screenshot look similar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978b31ce5d8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support and** a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97921901b04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: You can do it **for free** if you like, but it’s partly manual.
 
  Once you install the correct driver for your device, check if the error disappears. If your device works without any problem, so great! If you still see the error, don’t give up hope, you still have something else to try…
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Delete both the UpperFilters and LowerFilters Registry values
 
@@ -83,16 +87,12 @@ Here’s how to delete the values:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978ddf5949e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Yes** when prompted by **User Account Control** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978e1d8c395.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Go to **Computer** \> **HKEY\_LOCAL\_MACHINE** \> **SYSTEM** \> **CurrentControlSet** \> **Control** \> **Class** .
@@ -126,10 +126,6 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97906e91771.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9790a2dce62.jpg)
@@ -141,6 +137,10 @@ Here’s how you can do it:
  6) Once you see the Startup settings menu, press **F7** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b979135f28d1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your computer would then boot into the normal system. Go to the Device Manager to update the driver for the problem device. You can also try Driver Easy for updating drivers automatically.
 
@@ -166,16 +166,22 @@ Here’s how you can do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-cultivate-chuckle-inducing-visuals-on-giphy-for-2024/"><u>[New] Cultivate Chuckle-Inducing Visuals on Giphy for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-edu-top-ten-inspiring-educational-content-yt/"><u>[New] In 2024, Edu-Top Ten Inspiring Educational Content YT</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726028415621-4k/"><u>「高解像度映像（4K）を効率良く圧縮するためのショートカットガイド」</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-c53-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme C53 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/beating-the-bug-a-step-by-step-fix-for-iphones-and-their-mtp-driver-woes/"><u>Beating the Bug: A Step-by-Step Fix for iPhones and Their MTP Driver Woes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-troubleshooting-entering-safe-mode-and-uninstalling-gpu-drivers-on-windows-8/"><u>Comprehensive Troubleshooting: Entering Safe Mode and Uninstalling GPU Drivers on Windows 8</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-web-addresses-to-videos-your-ultimate-tutorial-on-simple-url-to-video-conversion-techniques/"><u>From Web Addresses to Videos: Your Ultimate Tutorial on Simple URL-to-Video Conversion Techniques</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-se-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone SE Smoothly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103195830-hp-wireless-keyboard-failures-heres-how-to-get-it-working-again/"><u>HP Wireless Keyboard Failures? Here's How to Get It Working Again</u></a></li>
-<li><a href="https://article-tips.techidaily.com/invest-in-quality-best-4k-mirrorless-under-1000-for-2024/"><u>Invest in Quality Best 4K Mirrorless Under $1,000 for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103887512-troubleshoot-and-resolve-when-windows-doesnt-identify-the-latest-connected-usb-apparatus/"><u>Troubleshoot and Resolve: When Windows Doesn't Identify the Latest Connected USB Apparatus</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unparalleled-8-visual-augmentations-for-live-cams/"><u>[New] In 2024, Unparalleled 8 Visual Augmentations for Live Cams</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-instructions-on-changing-fb-page-backdrop/"><u>[Updated] Instructions on Changing FB Page Backdrop</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-x50-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor X50 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474325165-cant-use-facetime-discover-15-ways-to-get-it-up-and-running-again/"><u>Can't Use FaceTime? Discover 15 Ways to Get It Up and Running Again</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosed-storage-system-issue/"><u>Diagnosed Storage System Issue</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978765738-easily-connect-your-iphone-to-pc-with-windows-10-free-downloads-available-now/"><u>Easily Connect Your iPhone to PC with Windows 10 - Free Downloads Available Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fivefold-exploitation-how-ai-paves-the-way-for-cyber-threats/"><u>Fivefold Exploitation: How AI Paves the Way for Cyber Threats</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-errors-ensuring-proper-driver-validation-for-your-pcs-hardware/"><u>Fixing Errors: Ensuring Proper Driver Validation for Your PC's Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/force-abandoned-for-a-flawless-graphics-setup/"><u>Force Abandoned for a Flawless Graphics Setup</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-infinix-smart-8-plus-lock-screen-password-by-drfone-android/"><u>How to Reset your Infinix Smart 8 Plus Lock Screen Password</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-xiaomi-redmi-12-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Xiaomi Redmi 12 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-meizu-21-pro-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Meizu 21 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimized-video-recording-fixed-asus-usb-camera-for-win10-users/"><u>Optimized Video Recording: Fixed ASUS USB Camera for Win10 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repairing-qualcomm-atheros-bluetooth-driver-failures-on-microsofts-latest-os/"><u>Repairing Qualcomm Atheros Bluetooth Driver Failures on Microsoft's Latest OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-devhub-48-issue/"><u>Resolved: DevHub #48 Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsungs-virtual-machine-suite-for-pc-users/"><u>Samsung's Virtual Machine Suite for PC Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-when-windows-ignores-your-latest-usb-attachment/"><u>Troubleshooting Steps When Windows Ignores Your Latest USB Attachment</u></a></li>
 </ul></div>
 
