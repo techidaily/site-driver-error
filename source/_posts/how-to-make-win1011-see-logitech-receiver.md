@@ -1,7 +1,7 @@
 ---
 title: How to Make Win10/11 See Logitech Receiver
-date: 2025-01-16T00:44:36.976Z
-updated: 2025-01-22T02:56:52.392Z
+date: 2025-01-23T16:53:00.529Z
+updated: 2025-01-29T17:02:31.276Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
  If you’re bugged by this problem, no worries. Many Windows users are able to resolve it with one of the following solutions. You may not have to try them all; just work your way down until you find the one that works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes, one at a time
 
 1. [**Copy the driver file from a well-functioning computer**](https://ursime.pxf.io/r5bm57)
@@ -31,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
  You should get a working mouse or touchpad to do the instructions below. The following screenshots are shown on Windows 11, but all the fixes apply to Windows 10, and 8&7 as well.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **1: Copy the driver file from a well-functioning computer**
 
  If your current PC lacks the needed driver file, your mouse receiver won’t work as well as it should. To fix it:
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-usb-inf.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) If you can’t see them,**copy** them from another computer whose USB receiver is working properly and **paste** them onto this folder.
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
  4) If you can find the**usb.inf** and**usb.PNF** files, still, copy and paste them to the folder **C:\\Windows\\inf\\** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **2: Remove possible conflict applications**
 
  If you have MotionInJoy installed on your PC, it could be the culprit. It’s reported to conflict with Logitech unifying receiver. You can remove it:
@@ -60,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
  1) On your keyboard, hold down the Windows logo key and press R to open the Run window. Then type in**control** and hit Enter to open the**Control Panel** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) View by**Category** and click **Uninstall a program** .
 
@@ -72,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
  4) Type in**regedit** in the search bar and then open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae4aa24870a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) On your keyboard, press the **Ctrl key** and **F** at the same time to open a search window. Type **DS3** .
 
@@ -107,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db63a8174fd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged mouse device and/or USB port to automatically download and install the correct version of that driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -118,7 +118,7 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db63d8ac59f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **4: Run Logitech Unifying Receiver as administrator**
@@ -127,9 +127,17 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand **Mice and other pointing devices,** right-click the**HID-compliant mouse** and click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57834599bc659.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Download [Logitech Unifying Software](http://support.logitech.com/en%5Fus/software/unifying) . After the download, right-click the icon and click **Run as administrator** .
 
@@ -139,15 +147,7 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-logi-run-as-adm-start.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Your Logitech receiver should be able to work now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **5: Perform a hard reset**
 
@@ -189,20 +189,19 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-navigate-high-speed-stories-on-instagram-effectively-for-2024/"><u>[New] Navigate High-Speed Stories on Instagram Effectively for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-top-10-horizontal-and-vertical-igtv-editing-apps-reviewed/"><u>[Updated] In 2024, Top 10 Horizontal & Vertical IGTV Editing Apps Reviewed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-iphones-potential-download-itunes-radio-effortlessly/"><u>2024 Approved Unlock iPhone's Potential Download iTunes Radio Effortlessly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/a-tale-of-triumph-over-driving-error-e052/"><u>A Tale of Triumph over Driving Error E052</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-reunion-wacoms-joyful-news/"><u>Device Reunion: Wacom's Joyful News!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-radeon-wattmans-crashed-configuration-step-by-step-fix-now-available/"><u>Fixing Radeon Wattman's Crashed Configuration - Step by Step Fix Now Available</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-a-nonfunctional-cpu-in-windows-10-due-to-absence-of-coprocessor-driver/"><u>How to Fix a Nonfunctional CPU in Windows 10 Due to Absence of Coprocessor Driver</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic5-ultimate-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic5 Ultimate Phone with Broken Screen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027162755-mp4/"><u>MP4動画を最高品質で切り取るテクニック: 劣化なし・再エンコードなし</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-itbm-drivers-missing-error-effortless-techniques-revealed/"><u>Overcoming ITBM Drivers Missing Error - Effortless Techniques Revealed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-inoperative-right-click-on-windows-11-mousepad/"><u>Resolved: Inoperative Right Click on Windows 11 Mousepad</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103586885-swiftly-solve-bluetooth-connectivity-problems/"><u>Swiftly Solve Bluetooth Connectivity Problems!</u></a></li>
-<li><a href="https://fox-within.techidaily.com/the-enforcement-spectrum-of-cryptocurrency-laws-worldwide-expert-insights-from-yl-computings-software-solutions/"><u>The Enforcement Spectrum of Cryptocurrency Laws Worldwide: Expert Insights From YL Computing's Software Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-titanfall-gropey-graphics-how-to-improve-gameplay-performance/"><u>Troubleshooting Titanfall Gropey Graphics | How to Improve Gameplay Performance</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-organize-your-videos-with-ease-top-8-mac-metadata-editors-for-2024/"><u>Updated Organize Your Videos with Ease Top 8 Mac Metadata Editors for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-practices-in-selecting-premium-hdr-cameras/"><u>[New] Best Practices in Selecting Premium HDR Cameras</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-beat-matchers-playlist-selecting-flawless-dj-videos/"><u>[Updated] In 2024, Beat Matcher's Playlist Selecting Flawless DJ Videos</u></a></li>
+<li><a href="https://win-data.techidaily.com/bestenexterne-laufwerk-wahlen-professionelle-losung-zur-gewahrleistung-der-datensicherheit-beim-sichern-ihrer-daten/"><u>Bestenexterne Laufwerk Wählen: Professionelle Lösung Zur Gewährleistung Der Datensicherheit Beim Sichern Ihrer Daten</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-realtek-network-issue-in-new-os-version/"><u>Corrected Realtek Network Issue in New OS Version</u></a></li>
+<li><a href="https://driver-install.techidaily.com/deciphering-and-correcting-network-glitches-on-windows-8/"><u>Deciphering and Correcting Network Glitches on Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/efi-interface-continuity-achieved/"><u>EFI Interface Continuity Achieved</u></a></li>
+<li><a href="https://fox-info.techidaily.com/elevate-design-15-must-have-plugins-for-after-effects/"><u>Elevate Design 15 Must-Have Plugins for After Effects</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-se-2022-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone SE (2022) Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-frequent-crashing-with-amd-drivers/"><u>Resolve Frequent Crashing with AMD Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/status-upgrade-disable-removed/"><u>Status Upgrade: Disable Removed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-windows-7s-0x0000007e-blue-screen-failure/"><u>Troubleshooting Guide: Resolving Windows 7'S 0X0000007E Blue Screen Failure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-stop-diablo-4-from-crashing-on-your-gaming-console-or-pc/"><u>Troubleshooting Tips: Stop Diablo 4 From Crashing on Your Gaming Console or PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unblocking-device-unsupported-on-os2/"><u>Unblocking 'Device Unsupported' On OS/2</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1728463285027-sd/"><u>ナビゲーション損傷SDカードのバックアップ手順詳細解説</u></a></li>
 </ul></div>
 

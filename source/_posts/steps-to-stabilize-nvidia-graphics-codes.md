@@ -1,7 +1,7 @@
 ---
 title: Steps to Stabilize Nvidia Graphics Codes
-date: 2025-01-08T21:58:00.442Z
-updated: 2025-01-16T00:14:24.402Z
+date: 2025-01-22T18:50:50.067Z
+updated: 2025-01-29T19:23:46.272Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 ## Steps to Stabilize Nvidia Graphics Codes
 
 **Nvidia drivers crashing** on your computer? Don’t worry – it’s usually not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for Nvidia drivers crashing
 
@@ -38,10 +42,6 @@ Here is how to uninstall your Nvidia display drivers:
  1) On your keyboard, press **the Windows logo key** and **R**  at the same time, then type **devmgmt.msc** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91effe026eb.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Locate and double-click on **Display adapters** (aka. **Graphics card** , **Video card**). Then right-click on **the item** right below and click **Uninstall device** .
 
@@ -71,10 +71,6 @@ Here is how to uninstall your Nvidia display drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594695d7c27.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)
@@ -93,6 +89,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In**View by** , choose**Large icons** . Then click**Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
@@ -101,15 +101,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-225.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Close the window.
 
 5) Check to see if the Nvidia drivers crashing issue is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable antivirus programs temporarily
 
@@ -120,7 +120,7 @@ Here is how to do it:
 If Nvidia still keeps crashing, please move on to Fix 5, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5:**Update DirectX**
@@ -132,6 +132,10 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
  Once you’ve updated DirectX, check to see if the driver keeps crashing problem is solved. If yes, then great! If it’s still no joy, please move on to**Fix 6** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -157,7 +161,7 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
@@ -174,10 +178,6 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
@@ -193,7 +193,7 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Check for hardware issues
@@ -223,20 +223,18 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-a-360-degree-view-transformative-media-experience-for-2024/"><u>[New] A 360-Degree View Transformative Media Experience for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-cutting-edge-tactics-for-sharing-video-content-from-twitter-and-whatsapp-for-2024/"><u>[New] Cutting-Edge Tactics for Sharing Video Content From Twitter and WhatsApp for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-advice-eliminating-the-blue-screen-of-death-error-0x0000007e-in-your-windows-7-pc/"><u>Expert Advice: Eliminating the Blue Screen of Death - Error 0X0000007E in Your Windows 7 PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-tips-for-rectifying-vertical-video-problems-on-your-asus-device/"><u>Expert Tips for Rectifying Vertical Video Problems on Your ASUS Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203930565-fix-implemented-now-your-graphics-card-supports-easy-miracast-streaming/"><u>Fix Implemented: Now Your Graphics Card Supports Easy Miracast Streaming!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Tecno Spark Go (2024) | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-se-2020-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone SE (2020) Passcode Easily Video Inside</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-re-establish-connection-of-your-latest-cam-on-new-pc-version-all-tips-solved-fixed/"><u>How to Re-Establish Connection of Your Latest Cam on New PC Version, All Tips Solved ![Fixed]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-honor-x7b-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Honor X7b.</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max Passcode Screen?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-selection-of-text-enhancers-for-adobe-ae/"><u>In 2024, The Ultimate Selection of Text Enhancers for Adobe AE</u></a></li>
-<li><a href="https://win-help.techidaily.com/legacy-installation-von-windows-11-ohne-secure-boot-und-tpm-20-schritt-fur-schritt-anleitung/"><u>Legacy Installation Von Windows 11 Ohne Secure Boot Und TPM 2.0 – Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://driver-error.techidaily.com/professional-note-taking-mastery-with-chatgpt-a-complete-guide/"><u>Professional Note-Taking Mastery with ChatGPT: A Complete Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/sata-controller-interrupt-quashed/"><u>SATA Controller Interrupt Quashed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unresponsive-keys-on-pc/"><u>Unresponsive Keys on PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-recollect-rivals-mobile-battlegrounds-in-samsungs/"><u>[New] In 2024, Recollect Rivals Mobile Battlegrounds in Samsungs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-discovering-your-lately-watched-fb-movies-made-simple/"><u>[Updated] 2024 Approved Discovering Your Lately Watched Fb Movies Made Simple</u></a></li>
+<li><a href="https://driver-error.techidaily.com/audio-device-not-recognized-in-windows-10-resolved-quickly/"><u>Audio Device Not Recognized in Windows 10 - Resolved Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102118245-complete-solution-for-driver-issues-on-devices-running-windows-10-8-or-7-install-now/"><u>Complete Solution for Driver Issues on Devices Running Windows 10, 8 or 7 – Install Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diagnose-and-repair-common-usb-connection-issues-in-hp-260ci-with-faulty-wia-drivers/"><u>Diagnose & Repair Common USB Connection Issues in HP 260Ci With Faulty WIA Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-straighten-the-orientation-of-video-outputs-on-your-asus-computer-monitor/"><u>How To Straighten The Orientation Of Video Outputs On Your Asus Computer Monitor</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-game-downloads-the-top-10-websites-you-need-to-know/"><u>In 2024, Free Game Downloads The Top 10 Websites You Need to Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/non-operative-keyboard-on-windows/"><u>Non-Operative Keyboard on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-100-disk-warning-in-windows-task-manager/"><u>Resolving 100% Disk Warning in Windows Task Manager</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ng-the-scene-ideal-video-aspect-ratios-and-widths-for-youtube-for-2024/"><u>Setting the Scene Ideal Video Aspect Ratios & Widths for YouTube for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-strategies-for-youtube-to-mpeg-conversion-for-2024/"><u>Top 10 Strategies for YouTube-to-MPEG Conversion for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-for-legacy-usb-composite-devices/"><u>Troubleshooting Tips for Legacy USB Composite Devices</u></a></li>
 </ul></div>
 

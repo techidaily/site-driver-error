@@ -1,7 +1,7 @@
 ---
 title: Fixing DirectX 9 Initialization Glitches Instantly
-date: 2025-01-11T04:04:56.419Z
-updated: 2025-01-16T00:15:04.716Z
+date: 2025-01-27T17:30:14.001Z
+updated: 2025-01-29T18:38:17.215Z
 tags:
   - win11
   - win10
@@ -17,21 +17,17 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 
  It’s rather annoying to see**Unable to initialize DirectX 9 device** when you start a game. However, you’re not alone here. It’s a common problem especially for Grand Theft Auto V (GTA 5) and Warcraft 3\. Luckily, it’s not hard to fix it at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## About DirectX 9
 
  Microsoft DirectX 9 is a group of technologies designed to make Windows-based computers an ideal platform for running and displaying applications rich in multimedia elements such as full-color graphics, video, 3D animation, and rich audio.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why does this error occur?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/unable-to-initialize-direct-9-device-gta5-warcraft-3-1024x701.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This error can occur for the following reasons:
 
@@ -70,6 +66,10 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/DEvice-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Expand**Display adapters** \> right click your graphics driver > select**Uninstall device** , and check the box**Delete the driver software for this device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/uninstall-graphics-driver.jpg)
@@ -93,7 +93,7 @@ This error can occur for the following reasons:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update** next to the flagged graphics card driver to automatically download and install the correct version of the driver (you can do this with the FREE version).
@@ -103,10 +103,6 @@ This error can occur for the following reasons:
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click_Update All_ .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -121,7 +117,7 @@ This error can occur for the following reasons:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/direct-3D-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If you have more than one video adapter, check each Display tab in the DirectX Diagnostic Tool.
@@ -136,17 +132,21 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/turn-windows-feature-on-or-off.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can go to**Control Panel** \>**Programs and Features** , then from the sidebar click**Turn Windows features on or off** (or**add/remove Windows Features**).
 
  2) Scroll down to**Legacy Components** , and check the box for**DirectPlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/turn-on-DirectPlay.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If that doesn’t work then you’ll need to find the**DX9 runtime installer** . ie.**DirectX folder**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall DirectX Installer
 
@@ -155,10 +155,6 @@ This error can occur for the following reasons:
  1) Go to Microsoft’s **[DirectX End-User Runtimes download site](https://www.microsoft.com/en-us/download/details.aspx?id=35)**  and download Microsoft’s DirectX installer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  _This is the only officially supported way to check if the correct DirectX files are currently installed._
 
@@ -172,10 +168,6 @@ This error can occur for the following reasons:
   
  Go to Steam > SteamApps > Common > GTA V > \_CommonRedist > DirectX > Jun2010 > DXSETUP
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Perform a clean boot
 
  Circumstances are there are other conflicting applications that prevent your game from working properly. To see if that’s your problem, try performing a clean boot.
@@ -188,6 +180,10 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/disable-all.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then click the**Startup** tab and select**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/open-task-manager.jpg)
@@ -195,6 +191,10 @@ This error can occur for the following reasons:
  4) Select every startup application and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/disable-all-startups.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Restart your PC and launch your game again.
 
@@ -229,22 +229,15 @@ This error can occur for the following reasons:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-discover-the-undiscovered-top-social-media-memes/"><u>[New] 2024 Approved Discover the Undiscovered Top Social Media Memes</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-premiere-virtual-artist-streams/"><u>[New] In 2024, Premiere Virtual Artist Streams</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-spreading-beauty-wisdom-setting-up-your-vloggers-virtual-space/"><u>[Updated] In 2024, Spreading Beauty Wisdom Setting Up Your Vlogger's Virtual Space</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/1-steps-faciles-para-instalar-el-modo-fantasma-de-uefi-en-windows-11/"><u>1. Steps Fáciles Para Instalar El Modo Fantasma De UEFI en Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/display-driver-keeps-crashing-solved/"><u>Display Driver Keeps Crashing [SOLVED]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-steps-for-setting-up-your-device-correctly-and-fixing-mistakes-code-1/"><u>Easy Steps for Setting Up Your Device Correctly and Fixing Mistakes (Code 1)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effective-solutions-for-invalid-or-incompatible-drivers-on-your-windows-machine/"><u>Effective Solutions for Invalid or Incompatible Drivers on Your Windows Machine</u></a></li>
-<li><a href="https://driver-error.techidaily.com/exploring-tech-with-tom-advanced-hardware-analysis/"><u>Exploring Tech with Tom - Advanced Hardware Analysis</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-gionee-f3-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Gionee F3 Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-windows-10-no-response-while-switching-bluetooth/"><u>Solve Windows 10 No-Response While Switching Bluetooth</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-your-computer-when-it-says-denied-access-while-installing-a-usb-drive/"><u>Solve Your Computer When It Says 'Denied Access' While Installing a USB Drive</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-code-3-the-driver-for-this-device-might-be-corrupted-in-device-manager/"><u>Solved: Code 3. The Driver for This Device Might Be Corrupted in Device Manager</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-fix-for-invisible-contacts-on-your-apple-device/"><u>The Ultimate Fix for Invisible Contacts on Your Apple Device</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-4-methods-to-transform-wmv-files-into-mp4-format-across-pcs-macs-and-web-services/"><u>Top 4 Methods to Transform WMV Files Into MP4 Format Across PCs, MACs & Web Services</u></a></li>
-<li><a href="https://driver-error.techidaily.com/winning-against-windows-11-missing-processor-assist-software-quick-fixes-and-steps/"><u>Winning Against Windows 11 Missing Processor Assist Software - Quick Fixes and Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnet-exclusive-apple-adjusts-timeline-for-rollout-of-innovative-intelligence-features-now-set-for-october-release/"><u>ZDNet Exclusive: Apple Adjusts Timeline for Rollout of Innovative Intelligence Features, Now Set for October Release</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-discover-ultimate-asmr-microphones-for-clear-sounds-for-2024/"><u>[New] Discover Ultimate ASMR Microphones for Clear Sounds for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-detailed-review-all-about-gecatas-recording-mechanism/"><u>2024 Approved Detailed Review All About Gecata's Recording Mechanism</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-vanishing-in-the-crowd-how-to-peruse-instagram-stories-on-various-platforms-anonymously/"><u>2024 Approved Vanishing in the Crowd How to Peruse Instagram Stories on Various Platforms Anonymously</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/beyond-the-standard-unique-augmented-reality-stickers/"><u>Beyond the Standard Unique Augmented Reality Stickers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensuring-validity-of-service-setup-clause-in-inf/"><u>Ensuring Validity of Service Setup Clause in INF</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-windows-enter-key-absent-issue/"><u>Fixing the Windows Enter Key Absent Issue</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-x50-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/network-adapter-driver-missing-in-windows-11-solved/"><u>Network Adapter Driver Missing in Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-access-is-denied-when-attempting-to-set-up-a-new-usb-device-on-pc/"><u>Overcoming 'Access Is Denied' When Attempting to Set Up a New USB Device on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-for-risk-of-rain-2-how-to-ensure-no-more-game-crashes/"><u>Ultimate Troubleshooting for Risk of Rain 2 - How to Ensure No More Game Crashes</u></a></li>
 </ul></div>
 

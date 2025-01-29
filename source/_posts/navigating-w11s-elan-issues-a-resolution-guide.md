@@ -1,7 +1,7 @@
 ---
 title: "Navigating W11's Elan Issues: A Resolution Guide"
-date: 2025-01-20T18:24:41.156Z
-updated: 2025-01-22T03:42:30.776Z
+date: 2025-01-24T19:28:15.320Z
+updated: 2025-01-29T21:11:57.948Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 [**2: Reinstall your drivers**](https://getlyla.pxf.io/ek9gkg)
 [**3: Stop automatic updates from Windows Update**](https://tinyland.pxf.io/org4ra)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1: Make sure your touchpad is enabled
 
  Some changes to your PC might automatically change your touchpad status to disable without informing you. You can set it back to enable status:
@@ -35,16 +31,24 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-settings-devices.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click **Mouse & touchpad,**  then click **Additional mouse options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/additional-mouse-options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the furthest right option (the option could be **Device Settings** or **ELAN**), and make sure your touchpad is enabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
@@ -70,7 +74,11 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3: Stop automatic updates from Windows Update**
@@ -81,17 +89,9 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Right-clickyour computer icon and click **Device installation settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
@@ -114,21 +114,22 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-immersive-android-viewer-for-high-quality-3d/"><u>[New] In 2024, Immersive Android Viewer for High-Quality 3D</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-mastering-sound-clarity-for-youtube-audiences/"><u>[New] In 2024, Mastering Sound Clarity for YouTube Audiences</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-exploring-the-depths-of-video-talks-on-youtube/"><u>[Updated] Exploring the Depths of Video Talks on YouTube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-expert-tips-for-fixing-non-displaying-shorts-thumbnails/"><u>[Updated] In 2024, Expert Tips for Fixing Non-Displaying Shorts Thumbnails</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-maximizing-video-sharing-adding-imovie-clips-to-vimeo/"><u>[Updated] In 2024, Maximizing Video Sharing Adding iMovie Clips to Vimeo</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cure-persistent-bluetooth-on-windows-10/"><u>Cure Persistent Bluetooth on Windows 10</u></a></li>
-<li><a href="https://article-helps.techidaily.com/efficient-guide-to-transforming-gifs-into-engaging-whatsapp-and-telegram-stickers-for-2024/"><u>Efficient Guide to Transforming GIFs Into Engaging WhatsApp & Telegram Stickers for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-13-mini-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone 13 mini</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reconnecting-usb-hardware-tips-for-windows-78/"><u>Reconnecting USB Hardware: Tips for Windows 7/8</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solution-to-invalid-service-configuration-in-inf/"><u>Solution to Invalid Service Configuration in INF</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-common-problems-with-your-hp-wireless-keyboard-step-by-step-guide/"><u>Solving Common Problems with Your HP Wireless Keyboard: Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-system-win11-lightweight-edition/"><u>Streamline Your System: Win11 Lightweight Edition</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-malfunction-idedevice-error-notice/"><u>System Malfunction: Idedevice Error Notice</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-silent-speakermicro-for-windows-10/"><u>Troubleshooting Silent Speaker/Micro for Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unseen-blu-ray-player-in-win11-heres-the-fix/"><u>Unseen Blu-Ray Player in Win11? Here's the Fix</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-online-beat-detectors-you-should-try-now-online-and-free/"><u>[New] Online Beat Detectors You Should Try Now [Online & Free]</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-virtual-producer-duel/"><u>[Updated] Virtual Producer Duel</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-the-past-a-comprehensive-guide-to-older-usb-composite-devices/"><u>Decoding the Past: A Comprehensive Guide to Older USB Composite Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/get-samsung-mobile-os-for-pc/"><u>Get Samsung Mobile OS for PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-repair-for-persistent-amd-issues/"><u>Immediate Repair for Persistent AMD Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-itel-p55plus-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Itel P55+ Phones? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-nokia-g22-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Nokia G22</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-no-more-ads-convert-fb-videos-to-1080p720p-mp4-online-for-free/"><u>In 2024, No More Ads? Convert FB Videos to 1080P/720p MP4 Online for Free</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-screen-recording-techniques-for-enhanced-creativity/"><u>In 2024, Screen Recording Techniques for Enhanced Creativity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lenovo-plus-w11-bluetooth-sync-fixes-and-solutions/"><u>Lenovo + W11 Bluetooth Sync: Fixes & Solutions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-ultimate-collection-of-poignant-music-for-reflective-moments/"><u>New 2024 Approved The Ultimate Collection of Poignant Music for Reflective Moments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-the-bsod-error-code-0x0000007e-in-windows-7/"><u>Resolve the BSoD Error Code 0X0000007E in Windows 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-unsupported-hardware-warnings-in-your-systems-integrated-development-tools/"><u>Resolving Unsupported Hardware Warnings in Your System's Integrated Development Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/secure-your-text-files-a-step-by-step-guide-to-applying-password-protection/"><u>Secure Your Text Files: A Step-by-Step Guide to Applying Password Protection</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-choosing-your-favorite-5-book-vtts/"><u>The Ultimate Guide to Choosing Your Favorite 5 Book VTTs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-blocks-graphics-hardware-access-attempt/"><u>Win11 Blocks Graphics Hardware Access Attempt</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-1011-sm-bus-controller-error-fix/"><u>Windows 10/11: SM Bus Controller Error Fix</u></a></li>
 </ul></div>
 

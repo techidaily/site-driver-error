@@ -1,7 +1,7 @@
 ---
 title: Rejected Graphic Card Use by OS Win11
-date: 2025-01-18T00:04:52.591Z
-updated: 2025-01-22T03:06:26.900Z
+date: 2025-01-28T18:57:27.746Z
+updated: 2025-01-29T16:18:26.109Z
 tags:
   - win11
   - win10
@@ -21,20 +21,12 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
  First of all, don’t panic. It’s annoying… but you’re not the only one experiencing this problem. We’ve heard many reports of this error from Windows users. And luckily, it’s a problem you can easily fix by yourself.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I Fix the Application that has been blocked from accessing Graphics hardware?
 
  This small guide covers 2 easy but effective ways to fix the problem.  If you try the first one and it doesn’t work for you, then you’ll hopefully have success with the second one.
 
 1. [**Run System File Checker and DISM commands**](https://bluetties.sjv.io/lxv4pm)
 2. [**Reinstall your display driver**](https://coinrule.sjv.io/rqzonv)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Run System File Checker and DISM commands
 
@@ -46,6 +38,10 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7aea748d7a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click**YES** when prompted by the User Account Control.
 
  2) Type**sfc /scannow**  and press **Enter** . Wait for the scanning to be **100%**  completed.
@@ -53,7 +49,7 @@ Follow these steps to recover your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7af1a7f21e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type the following commands and press **Enter**  after each.
@@ -67,7 +63,7 @@ Follow these steps to recover your system files:
  4) Reboot Windows 10 and run your game software to see if it works. If it doesn’t work, you can try our other fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
@@ -86,12 +82,16 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509eed56b24.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. You can update the drivers one by one using the **Update**  button. But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can update all your drivers with one click — **Update All** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509f1432541.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Reboot your Windows 10 PC and run your game software to see if it works.
@@ -116,22 +116,18 @@ Follow these steps to recover your system files:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/solved-enhance-your-gpu-performance-step-bysis-guide-inside/"><u>[Solved]: Enhance Your GPU Performance – Step-Bysis Guide Inside</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-from-monochrome-to-vibrance-a-film-graders-journey/"><u>[Updated] From Monochrome to Vibrance A Film Grader's Journey</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-giggle-engine-for-the-internet/"><u>[Updated] Giggle Engine for the Internet</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-advanced-techniques-in-developing-compelling-customer-success-narratives/"><u>[Updated] In 2024, Advanced Techniques in Developing Compelling Customer Success Narratives</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-hp-photosmart-printer-driver-issues-for-windows-11/"><u>Fix HP Photosmart Printer Driver Issues for Windows 11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-damaged-mp4mov-videos-with-ease-a-step-by-step-guide-using-vlc/"><u>Fixing Damaged MP4/MOV Videos with Ease: A Step-by-Step Guide Using VLC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/get-back-to-connecting-effortlessly-resolve-bluetooth-problems-on-latest-os-update-in-no-time-guide-inside/"><u>Get Back to Connecting Effortlessly – Resolve Bluetooth Problems on Latest OS Update in No Time [Guide Inside]</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi 13C? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/navigating-the-route-to-social-stardom-a-quick-overview-of-6-key-steps-on-instagram/"><u>Navigating the Route to Social Stardom A Quick Overview of 6 Key Steps on Instagram</u></a></li>
-<li><a href="https://driver-error.techidaily.com/radeon-settings-host-application-has-stopped-working-solved/"><u>Radeon Settings: Host Application Has Stopped Working [SOLVED]</u></a></li>
-<li><a href="https://some-tips.techidaily.com/score-big-savings-exclusive-guide-to-landing-the-gopro-hero-11-at-200-less-with-zdnets-secrets/"><u>Score Big Savings: Exclusive Guide to Landing the GoPro Hero 11 at $200 Less with ZDNET's Secrets</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721096821860-speedily-correct-the-missing-itbm-driver-issue-with-simple-tips/"><u>Speedily Correct the Missing ITBM Driver Issue with Simple Tips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/strategic-approach-to-base-system-driver-troubles/"><u>Strategic Approach to Base System Driver Troubles</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-gear-for-yi-4k-cameras-ultimate-accessory-selection/"><u>Top Gear for YI 4K Cameras Ultimate Accessory Selection</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-and-fix-unresponsive-gadgets-in-windows-operating-systems-solution-included/"><u>Troubleshoot and Fix Unresponsive Gadgets in Windows Operating Systems (Solution Included)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-correcting-the-failed-to-load-hcmonservice-message/"><u>Troubleshooting: Correcting the 'Failed to Load Hcmonservice' Message</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-data-recovery-recover-lost-data-from-xiaomi-redmi-k70-by-fonelab-android-recover-data/"><u>Xiaomi Data Recovery – recover lost data from Xiaomi Redmi K70</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-how-to-seamless-setup-of-ifunny-meme-toolkit/"><u>[New] 2024 Approved How-To Seamless Setup of iFunny Meme Toolkit</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-crafting-perfect-squares-imovie-guide-for-instagram-videos/"><u>2024 Approved Crafting Perfect Squares IMovie Guide for Instagram Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/captioning-made-easy-enhancing-your-instagram-narratives/"><u>Captioning Made Easy: Enhancing Your Instagram Narratives</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-install-latest-drivers-on-your-hp-envy-151720-laptop/"><u>Easy Steps: Install Latest Drivers on Your HP ENVY 15/17/20 Laptop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-illustration-of-ms-bda/"><u>Graphics Illustration of MS BDA</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-magic-v2-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Magic V2 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hidef-audio-system-error-corrected/"><u>HiDef Audio System: Error Corrected</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-6s-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 6s Plus Safe and Legal</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-guide-tackling-windows-10s-asus-drivers/"><u>Quick Guide: Tackling Windows 10'S Asus Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solutions-for-handling-unrecognized-hardware-messages-by-idt-software-products/"><u>Solutions for Handling Unrecognized Hardware Messages by IDT Software Products</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-initialization-issues-with-battleye-service-and-overcoming-driver-loading-errors/"><u>Troubleshooting Guide: Fixing Initialization Issues with BattlEye Service and Overcoming Driver Loading Errors</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-speech-to-text-software-showdown-discover-the-top-8-options-for-pcs-macs-and-online-accessibility-for-2024/"><u>Updated Speech-to-Text Software Showdown Discover the Top 8 Options for PCs, Macs and Online Accessibility for 2024</u></a></li>
 </ul></div>
 

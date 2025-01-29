@@ -1,7 +1,7 @@
 ---
 title: "Win11: Effective Method to Free Up Disk Space"
-date: 2025-01-14T20:07:32.072Z
-updated: 2025-01-22T05:13:40.852Z
+date: 2025-01-23T16:52:43.598Z
+updated: 2025-01-29T16:01:14.808Z
 tags:
   - win11
   - win10
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
 ###
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Disable SuperFetch
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
  1) On your keyboard, press**Windows logo key** , type**command prompt** , then select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-19_11-01-38.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Click **Yes**  at the**User Account Control** prompt.
 
@@ -99,10 +103,6 @@ If the 100% disk usage problem persists, try the next method, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Check for corrupted system files
 
  Corrupted or missing system files can also cause the 100% disk usage error. To see if this is the cause for you, run a system scan to detect broken system files with **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -110,10 +110,6 @@ If the 100% disk usage problem persists, try the next method, below.
 [**Fortect**](https://tools.techidaily.com/drivereasy/download/) is a professional Windows repair tool that can scan your system’s overall status, diagnose your system configuration, identify faulty system files, and repair them automatically. It gives you entirely fresh system components with just one click, so you don’t have to reinstall Windows and all your programs, and you don’t lose any personal data or settings. (Read **[Fortect Trustpilot reviews](https://www.trustpilot.com/review/fortect.com)**  .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/Fortect-tp-reviews.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Here’s how to use Fortect to check for broken system components in just one click:
 
@@ -155,10 +151,6 @@ chkdsk.exe /f /r
 
 ![100% disk usage resolved](https://images.drivereasy.com/wp-content/uploads/2016/08/100-disk-usage-resolved.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If the 100% disk usage problem persists, try the next method, below.
 
 ---
@@ -176,6 +168,10 @@ If the 100% disk usage problem persists, try the next method, below.
  2) Go to the**Advanced** tab, then click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-36-39.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the **Advanced** tab again, and choose**Change…**  in the Virtual memory section.
 
@@ -195,7 +191,7 @@ If the 100% disk usage problem persists, try the next method, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Clear all your computer’s ‘temp’ files. On your keyboard, press**Windows key** and**R** at the same time, then in the Run form, type**temp** and hit**Enter** . This will invoke Windows Explorer with your Temp folder open, showing you all the temp files on your computer.
@@ -251,20 +247,20 @@ Here’s how to determine if this is your problem and fix it:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b45719881f.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Go to the **Driver** tab and click**Driver Details** . If you can see**storahci.sys** stored in a path of system32 folder, then you are running the inbox AHCI driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b4611132d9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Close the Driver Details window and go to**Details** tab. From the drop-down menu, select **Device Instance Path** . Make note of the path, starting from**VEN\_** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b474d5583c.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Type**regedit** in the search box of**Start** panel, then hit**Enter** on your keyboard to run Registry Editor. Then go to:
 
@@ -277,7 +273,7 @@ Here’s how to determine if this is your problem and fix it:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b48600f0e1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Double click the**MSISupported** key and change the value to**0** .
@@ -301,15 +297,15 @@ Here’s how you can check the disk health easily with HD Tune:
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/hd-tune-download.jpg)
 2. Launch HD Tune. Select the**Health** tab.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here you can see the S.M.A.R.T info of your disk. (S.M.A.R.T is a monitoring system providing a series of attributes or diagnostics for each disk model.) At this moment, you don’t need to figure out each entry’s meaning — simply check if there’s any one of them has a**Status** that is not “**Ok** “. If you see a warning, you may need to google the entry label and determine your next step.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-2.jpg)
 3. On the top left corner, you can toggle the drop down menu to select the disk (if you have multiple). This will allow you to check the health of each disk.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You’d also need to check if the disk has bad blocks. **Before you start, note that this process could take hours to complete.** You may want to try other fixes before this one.
 
@@ -318,11 +314,15 @@ Here’s how you can check the disk health easily with HD Tune:
 2. Once it completes, check the graph and look for yellow or red blocks. If there’re any red (damaged) blocks, you should consider backing up your data and replace the faulty disk.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-6.jpg)
 3. Again, you can use the drop down menu on the top left corner to scan different disk. It’s recommended you scan all the disk to make sure all your hard drives are in good condiction.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/hd-tune-3.jpg)
 
@@ -373,14 +373,24 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-expediting-educational-video-content/"><u>[Updated] Expediting Educational Video Content</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-realme-gt-3-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Realme GT 3 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-updated-audio-drivers-for-focusrite-scarlett-18i20-on-pc-with-windows-operating-system/"><u>Download Updated Audio Drivers for Focusrite Scarlett 18I20 on PC with Windows Operating System</u></a></li>
-<li><a href="https://games-able.techidaily.com/easing-steams-sync-conflict-on-desktop/"><u>Easing Steam's Sync Conflict on Desktop</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-the-gtx-nine-fifty-zero-code-43-issue-in-microsofts-latest-operating-system/"><u>How to Fix the GTX Nine-Fifty Zero 'Code 43' Issue in Microsoft's Latest Operating System</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reconnect-your-lost-logitech-brio-webcam-expert-advice-on-windows-os-upgrade-issue-resolution-fixed/"><u>Reconnect Your Lost Logitech Brio Webcam: Expert Advice on Windows OS Upgrade Issue Resolution [Fixed]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repair-broken-connection-fixed-asus-usb-webcam-in-windows-11/"><u>Repair Broken Connection: Fixed Asus USB Webcam in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-bios-update-for-win10s-razer-deathadder/"><u>Step-by-Step BIOS Update for Win10's Razer Deathadder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-comprehensive-assessment-unveiling-du-recorders-features/"><u>[New] 2024 Approved Comprehensive Assessment Unveiling Du Recorder's Features</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-can-creators-earn-from-product-video-reviews/"><u>[New] Can Creators Earn From Product Video Reviews?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-meme-masterpiece-wave-for-2024/"><u>[Updated] Meme Masterpiece Wave for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-cant-turn-off-on-windows-10-solved/"><u>Bluetooth Can’t Turn Off on Windows 10 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-not-recognized-by-os/"><u>Drivers Not Recognized by OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-repair-nonworking-laptop-keys-one-step-at-a-time-article-name-358-characters/"><u>Easy Steps to Repair Nonworking Laptop Keys, One Step at a Time - Article Name — 358 Characters</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-update-and-download-drivers-for-the-hp-envy-20/"><u>Easy Steps to Update and Download Drivers for the HP Envy 20</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-15-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 15</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-guide-to-top-templates-for-youtube-previews/"><u>In 2024, Guide to Top Templates for YouTube Previews</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mac-tips-capturing-class-notes-efficiently/"><u>In 2024, Mac Tips Capturing Class Notes Efficiently</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/leveraging-the-power-of-creative-commons-rights-for-2024/"><u>Leveraging the Power of Creative Commons Rights for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104671957-resolving-non-responsive-hp-wireless-keyboard-problems-effective-solutions-inside/"><u>Resolving Non-Responsive HP Wireless Keyboard Problems - Effective Solutions Inside!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-huawei-p60-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Huawei P60</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-elan-tablet-hurdles-on-windows-10/"><u>Tackling Elan Tablet Hurdles on Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-best-robovac-models-of-2024-reviewed-and-tested-by-specialists-zdnet/"><u>The Ultimate Guide to the Best RoboVac Models of 2024 Reviewed and Tested by Specialists | ZDNET</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-to-fix-devices-improper-configuration-error-1/"><u>Troubleshooting Tips to Fix Device's Improper Configuration (Error 1)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unbeatable-free-livestream-solutions-reviewed-across-all-platforms-for-2024/"><u>Unbeatable Free Livestream Solutions Reviewed Across All Platforms for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlock-your-system-potential-razer-bios-updates-in-win10/"><u>Unlock Your System Potential: Razer BIOS Updates in Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-bus-management-problem-solved/"><u>Win11 Bus Management: Problem Solved</u></a></li>
 </ul></div>
 

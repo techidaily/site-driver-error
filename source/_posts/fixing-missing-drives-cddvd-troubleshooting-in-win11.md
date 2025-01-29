@@ -1,7 +1,7 @@
 ---
 title: "Fixing Missing Drives: CD/DVD Troubleshooting in Win11"
-date: 2025-01-19T03:52:33.481Z
-updated: 2025-01-21T16:49:43.579Z
+date: 2025-01-25T21:06:44.726Z
+updated: 2025-01-29T18:05:56.154Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
  Method 4:[**Create a registry subkey**](https://modlily.sjv.io/aw92wr)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **1: Uninstall IDE ATA/ ATAPI controllers**
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e194a84fe7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click **ATA Channel 1** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e199372f3c.png)
@@ -58,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
  6) Reboot your computer after these changes.
 
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **2: Update drivers**
 
@@ -75,15 +75,15 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a61a4afa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
 
@@ -94,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke a**Run** command. Type **regedit** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Follow the path:
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\ {4D36E965-E325-11CE-BFC1-08002BE10318}**
@@ -113,11 +109,7 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
@@ -133,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd3791d37b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
@@ -141,17 +137,21 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -172,20 +172,22 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ecoding-the-earnings-algorithm-of-tseries-online-channel-for-2024/"><u>[New] Decoding the Earnings Algorithm of TSeries Online Channel for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-enhancing-visuals-the-role-of-a-tripod-in-video-content/"><u>[New] In 2024, Enhancing Visuals The Role of a Tripod in Video Content</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-supreme-audiovisual-hints-pack/"><u>[New] Supreme Audiovisual Hints Pack</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-picks-for-superior-nintendo-switch-gaming/"><u>[New] Top Picks for Superior Nintendo Switch Gaming</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-addressing-youtube-shorts-no-image-upload-issue/"><u>[Updated] Addressing YouTube Shorts No Image Upload Issue?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-cant-turn-off-on-windows-11-solved/"><u>Bluetooth Can't Turn Off on Windows 11 [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-compatibility-issues-when-idt-software-cant-support-detected-hardware/"><u>Fixing Compatibility Issues: When IDT Software Can’t Support Detected Hardware</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/get-your-no-cost-video-combining-tool-ideal-for-windows-11-8-and-7/"><u>Get Your No-Cost Video Combining Tool: Ideal for Windows 11, 8 and 7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/highly-recommended-applications-for-virtual-group-meetings-and-calls/"><u>Highly Recommended Applications for Virtual Group Meetings and Calls</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-prevent-your-amd-radeon-wattman-from-crashing-settings-restored-guide/"><u>How to Prevent Your AMD Radeon Wattman From Crashing: Settings Restored Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-malfunction-heres-how-you-can-repair-it/"><u>HP Wireless Keyboard Malfunction? Here's How You Can Repair It</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-bios-configurations-and-optimization-techniques-with-revouninstaller/"><u>Navigating the World of BIOS Configurations & Optimization Techniques with RevoUninstaller</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-device-specific-windows-application-issues/"><u>Navigating Through Device-Specific Windows Application Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-intel-me-errors/"><u>Resolving Intel ME Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-detected-hardware-lacking-support-for-your-idt-software-system/"><u>Solve Detected Hardware Lacking Support for Your IDT Software System</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-webcam-users-guide-for-quality-recordings/"><u>[Updated] 2024 Approved The Ultimate WebCam User's Guide for Quality Recordings</u></a></li>
+<li><a href="https://driver-error.techidaily.com/complete-guide-resolve-the-bsod-issue-with-error-0x0000007e-in-windows-7/"><u>Complete Guide: Resolve the BSOD Issue with Error 0X0000007E in Windows 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphic-deconstruction-microsofts-ms-bda-explained/"><u>Graphic Deconstruction: Microsoft's MS BDA Explained</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-and-windows-10-demystifying-the-code-43-error-and-how-to-fix-it-successfully/"><u>GTX 950 and Windows 10: Demystifying the 'Code 43' Error and How to Fix It Successfully</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-usb-drive-not-showing-up-in-windows-10-issue/"><u>How to Fix USB Drive Not Showing Up in Windows 10 Issue</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-elite-fleet-10-aerial-visionaries-dream-choices/"><u>In 2024, Elite Fleet #10 Aerial Visionaries' Dream Choices</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-leveraging-whatsapps-features-for-twitter-video-distribution/"><u>In 2024, Leveraging WhatsApp's Features for Twitter Video Distribution</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-redmi-note-12-pro-4g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Redmi Note 12 Pro 4G Screen | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-the-potential-of-mobile-platforms-for-personalbusiness-yt/"><u>In 2024, Unlocking the Potential of Mobile Platforms for Personal/Business YT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolution-achieved-enablement-successful/"><u>Resolution Achieved: Enablement Successful</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revealing-hidden-opengl-identifier-in-intel-icd/"><u>Revealing Hidden OpenGL Identifier in Intel ICD</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalize-pc-performance-windows-11-thinkpad-drivers/"><u>Revitalize PC Performance - Windows 11 Thinkpad Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-fixes-for-pc-woes-enter-safe-mode-and-eliminate-graphics-card-drivers-in-windows-8/"><u>Seamless Fixes for PC Woes - Enter Safe Mode & Eliminate Graphics Card Drivers in Windows 8</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/egies-for-finding-and-forming-youtube-content-partnerships-for-2024/"><u>Strategies for Finding & Forming YouTube Content Partnerships for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-recurrent-audio-drops-on-your-windows-11-pc-solutions/"><u>Troubleshooting Recurrent Audio Drops on Your Windows 11 PC - Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-how-to-fix-compatibility-issues-with-legacy-usb-composite-devices/"><u>Troubleshooting: How to Fix Compatibility Issues with Legacy USB Composite Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-bass-management-an-in-depth-guide-on-its-functionality/"><u>Understanding Bass Management: An In-Depth Guide on Its Functionality</u></a></li>
 </ul></div>
 

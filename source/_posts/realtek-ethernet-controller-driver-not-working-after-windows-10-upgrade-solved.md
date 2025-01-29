@@ -1,7 +1,7 @@
 ---
 title: Realtek Ethernet Controller Driver Not Working After Windows 10 Upgrade [Solved]
-date: 2025-01-18T05:20:38.765Z
-updated: 2025-01-21T21:07:31.258Z
+date: 2025-01-23T17:47:27.987Z
+updated: 2025-01-29T20:13:25.144Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/f48216f44870658586ad3ccce716597fb01e77f08
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option One: Reset TCP/IP**
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/f48216f44870658586ad3ccce716597fb01e77f08
  When prompted with the following notification, hit**Yes** to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de25ac8c94.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type in the following command:
 
 netsh int ip reset c:\resetlog.txt
@@ -48,6 +52,10 @@ netsh int ip reset c:\resetlog.txt
  Make sure that you have made no typo and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de2ea5a2ef.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will help you reset your TCP/IP (Transmission Control Protocol/Internet Protocol). To make it easier to understand, TCP/IP is the language that your computer uses to communicate with the outside world. Reseting TCP/IP will help you revert your Internet settings to the stage where it still works.
 
@@ -60,21 +68,13 @@ netsh int ip reset c:\resetlog.txt
  2) Locate and click the arrow to expand category**Network adapters** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
 3) Then right-click Realtek PCIe GBE Family Controller option and choose **Properties** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de65b229a9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Go to**Advanced** tab, then choose**Speed & Duplex** option on the left side of the pane.
 
@@ -88,21 +88,25 @@ netsh int ip reset c:\resetlog.txt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587deab52d9e0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Still, in the**Properties** window, this time, let’s go to**Power Management** tab. Un-tick the box for**Allow the computer to turn off this device to save power** . Then hit**OK** to save and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587decc3276b5.png)
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option Three:** **Reinstall or Rollback Realtek Adapter Driver**
 
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de5537df74.png)
  2) Locate and click the arrow to expand the category**Network adapters** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
  3) Then right-click click**Realtek PCIe GBE Family Controller** option and then choose**Uninstall** .
@@ -112,22 +116,18 @@ netsh int ip reset c:\resetlog.txt
  Hit**OK** to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee50286a0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Go to the menu bar on the top and click the button for **Scan for hardware changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee9a707c2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Windows will help you automatically install the correct driver that it can find. But there is no guarantee that the new driver is going to work since Windows has provided the not working one originally.
 
  If you clearly remember that your Ethernet stops working after you update to a certain version of the driver, it is suggested that you roll it back to the stage where it was working well.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Option Four: Update the Realtek Driver**
 
@@ -170,20 +170,19 @@ netsh int ip reset c:\resetlog.txt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-the-driver-driverwudfrd-failed-to-load-for-the-device-event-id-219/"><u>[Fixed] The Driver DriverWudfRd Failed to Load for the Device Event ID 219</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-pioneering-sky-hdr-images-at-your-fingertips/"><u>[New] 2024 Approved Pioneering Sky HDR Images at Your Fingertips</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-unlocking-the-secrets-of-successful-youtube-thumbnail-crafting/"><u>[New] 2024 Approved Unlocking the Secrets of Successful YouTube Thumbnail Crafting</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-boxing-battlegrounds-live-vs-virtual-warriors/"><u>[New] In 2024, Boxing Battlegrounds Live VS Virtual Warriors</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-playbook-skyrocket-your-youtube-shorts-traffic-and-engagement/"><u>[New] The Ultimate Playbook Skyrocket Your YouTube Shorts Traffic and Engagement</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-struggling-with-nvidia-based-pc-games-heres-how-fix-them-instantly/"><u>[Resolved] Struggling with Nvidia-Based PC Games? Here's How Fix Them Instantly</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-personal-aerial-companions-gps-drones-that-never-stray-for-2024/"><u>[Updated] Personal Aerial Companions - GPS Drones that Never Stray for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unrestricted-media-playback-free-on-windows-and-macos/"><u>[Updated] Unrestricted Media Playback FREE on Windows & MacOS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cddvd-non-detect-in-win11-repair-complete/"><u>CD/DVD Non-Detect in Win11 - Repair Complete</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722183839212-chatgpt-revolutionizes-creation-craft-your-own-custom-designed-gpt-models-like-never-before/"><u>ChatGPT Revolutionizes Creation: Craft Your Own Custom-Designed GPT Models Like Never Before!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-how-to-running-whatsapp-on-a-mac-computer/"><u>Comprehensive How-To: Running WhatsApp on a Mac Computer</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hd-audio-harmony-windows-11-style/"><u>HD Audio Harmony, Windows 11 Style</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-overcome-access-denied-when-setting-up-a-new-usb-device/"><u>How to Overcome 'Access Denied' When Setting Up a New USB Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-the-challenge-of-gtx-950-error-43-in-windows-11-your-ultimate-troubleshooting-manual/"><u>Overcoming the Challenge of GTX 950 Error 43 in Windows 11 - Your Ultimate Troubleshooting Manual</u></a></li>
-<li><a href="https://driver-error.techidaily.com/silent-keysight-in-asus-laptop/"><u>Silent Keysight in ASUS Laptop</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-making-audio-files-out-of-instagram-videos/"><u>[New] Making Audio Files Out of Instagram Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-music-service-migration-keeping-playlists-intact-for-2024/"><u>[New] Music Service Migration Keeping Playlists Intact for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/effective-techniques-for-scrupulous-scanner-glass-maintenance-expert-tips-from-yl-software/"><u>Effective Techniques for Scrupulous Scanner Glass Maintenance - Expert Tips From YL Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-installation-problems-with-the-hcmon-system-driver/"><u>Fixing Installation Problems with the Hcmon System Driver</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-amd-vega-graphics-driver-updates-gamers-guide/"><u>Get the Latest AMD Vega Graphics Driver Updates - Gamer's Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-10-heavy-lift-drones/"><u>In 2024, Best 10 Heavy Lift Drones</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-optimal-focus-techniques-for-videoleap-users/"><u>In 2024, Optimal Focus Techniques for Videoleap Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-mundane-interviews-into-memorable-experienrances/"><u>In 2024, Transforming Mundane Interviews Into Memorable Experienrances</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectifying-issues-with-wm11-sm-bus-drivers/"><u>Rectifying Issues with WM11 SM Bus Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-os-anomaly-windows-irql-fix/"><u>Resolving OS Anomaly: Windows IRQL Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102275486-troubleshooting-guide-for-iphone-usb-device-connection-error-successful-solutions/"><u>Troubleshooting Guide for iPhone USB Device Connection Error - Successful Solutions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unpacking-gopro-hero5-session-features-for-2024/"><u>Unpacking GoPro Hero5 Session Features for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unwanted-bluetooth-stayin-fix-for-windows-11/"><u>Unwanted Bluetooth Stayin': Fix for Windows 11</u></a></li>
 </ul></div>
 

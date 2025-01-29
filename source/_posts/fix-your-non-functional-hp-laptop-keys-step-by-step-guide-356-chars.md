@@ -1,7 +1,7 @@
 ---
 title: Fix Your Non-Functional HP Laptop Keys Step By Step Guide – 356 Chars
-date: 2025-01-21T07:13:59.819Z
-updated: 2025-01-21T19:51:28.332Z
+date: 2025-01-26T16:01:48.046Z
+updated: 2025-01-29T19:49:36.949Z
 tags:
   - win11
   - win10
@@ -25,17 +25,21 @@ We have received reports from user saying that they have trouble using their HP 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc3af48b92.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) In the Device Manager window, click to expand**Keyboards**category. Then right click the keyboard option listed here and choose**Uninstall**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc4306d960.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When prompted to confirm the uninstall, press**OK**to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc902b86a2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Wait for the uninstall to finish. Then**restart**your computer. The keyboard driver will be reinstalled automatically once you restart your laptop. **Note**: If you need to type in password to log into your desktop, please use the on-screen keyboard by choosing the middle icon from the three icons on the bottom right corner, then select**On-Screen Keyboard**.
 
@@ -51,24 +55,16 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcfa0068ce.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) On the left side of the pane, choose**Region & language**, then on the right side, make sure that the language is set to**English (United States)**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd71980796.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If not, click the**Options**button as shown in the screen shot.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd7a070a5e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then make sure the Keyboards is selected as**US**.
@@ -76,7 +72,7 @@ Then make sure the Keyboards is selected as**US**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 3: Try an External Keyboard**
@@ -84,6 +80,10 @@ Then make sure the Keyboards is selected as**US**.
 If you have tried the above methods but they are not helpful, you may need to plug in a USB external keyboard and see if the second keyboard works. 1) If the external keyboard**works perfectly**, then you need to consider searching and downloading the latest version of the laptop driver from HP support. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). You can try its Free version, and update your drivers one by one. Or you can update all your missing and outdated drivers automatically with just one-click with Driver Easy [**Pro version**](https://tools.techidaily.com/drivereasy/download/). No worry to try it as it comes with a no-questions-asked 30-day money-back guarantee and professional tech support 24/7\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
 
@@ -109,17 +109,18 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-best-of-the-best-android-calls-with-more-than-just-two/"><u>[New] In 2024, Best of the Best Android Calls with More Than Just Two</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-discover-cost-free-vfx-wonders-on-the-net/"><u>[New] In 2024, Discover Cost-Free VFX Wonders on the Net</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-sharpen-your-iphone-hdri-discover-the-top-4-fixes-for-premiere-pro-professionals/"><u>[New] Sharpen Your iPhone HDRI Discover the Top 4 Fixes for Premiere Pro Professionals</u></a></li>
-<li><a href="https://windows11.techidaily.com/blackview-minipc-expansive-but-sluggish-storage/"><u>Blackview MiniPC: Expansive but Sluggish Storage</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-strategy-questioned-over-giphy-integration/"><u>Facebook's Strategy Questioned Over Giphy Integration</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unlock-your-potential-with-ez-grabber-installation-and-usage/"><u>In 2024, Unlock Your Potential with EZ Grabber - Installation & Usage</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103914743-pchelp-my-computers-internal-wi-fibluetooth-wont-stop-responding/"><u>PCHelp - My Computer's Internal Wi-Fi/Bluetooth Won’t Stop Responding</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repairing-issues-with-non-recognition-last-usb-failure-and-ignored-by-windows-expert-tips/"><u>Repairing Issues with Non-Recognition: Last USB Failure and Ignored by Windows - Expert Tips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revelation-deactivate-bluetooth-on-windows-10/"><u>Revelation: Deactivate Bluetooth on Windows 10</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/secrets-of-screen-grabs-exposed/"><u>Secrets of Screen Grabs Exposed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/stop-immediate-repeated-amd-software-errors/"><u>Stop Immediate Repeated AMD Software Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unseen-seagate-steps-to-bring-it-back-in-win11/"><u>Unseen Seagate: Steps to Bring It Back in Win11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-enhancing-images-the-secret-to-subtracting-backdrops-in-photopea/"><u>[New] 2024 Approved Enhancing Images The Secret to Subtracting Backdrops in Photopea</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-industrys-preferred-6-social-networking-sites-for-firms/"><u>[New] Industry's Preferred 6 Social Networking Sites for Firms</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-optimize-your-instagram-post-with-music-stickers/"><u>[Updated] How to Optimize Your Instagram Post with Music Stickers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-mobile-based-interview-and-travel-podcasts/"><u>[Updated] Mastering the Art of Mobile-Based Interview & Travel Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/collaborating-on-apple-pages-files-through-icloud-a-comprehensive-guide-from-zdnet/"><u>Collaborating on Apple Pages Files Through iCloud: A Comprehensive Guide From ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-recognition-issues-in-windows-1187-solving-missing-driver-problems/"><u>Device Recognition Issues in Windows 11/8/7: Solving Missing Driver Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-fixes-for-missing-drivers-on-windows-guides-for-windows-11-8-and-7/"><u>Easy Fixes for Missing Drivers on Windows: Guides for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78t-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y78t Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://driver-error.techidaily.com/non-functional-keyboard-lights-on-asus-model/"><u>Non-Functional Keyboard Lights on ASUS Model</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/quik-on-windowsmac-best-options-for-editing-gopro-footage/"><u>Quik on Windows/Mac Best Options for Editing GoPro Footage</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/step-by-step-guide-on-converting-wmm-files-to-mp4-for-better-quality-playback/"><u>Step-by-Step Guide on Converting WMM Files to MP4 for Better Quality Playback</u></a></li>
+<li><a href="https://driver-error.techidaily.com/total-disk-utilization-fix-for-win11-and-10/"><u>Total Disk Utilization Fix for Win11 & 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubled-by-slow-graphics-on-pc-solve-your-gpu-issues-now-please/"><u>Troubled by Slow Graphics on PC? Solve Your GPU Issues Now, Please</u></a></li>
 </ul></div>
 

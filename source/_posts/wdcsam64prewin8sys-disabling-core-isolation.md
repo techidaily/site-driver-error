@@ -1,7 +1,7 @@
 ---
 title: wdcsam64_prewin8.sys - Disabling Core Isolation
-date: 2025-01-11T16:18:28.932Z
-updated: 2025-01-15T21:22:18.199Z
+date: 2025-01-24T19:40:12.972Z
+updated: 2025-01-29T19:37:30.895Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
  We have some fixes here that’ll help to sort out the wdcsam64\_prewin8.sys driver issue for you. When the incompatible driver problem is fixed, you can then enable your Memory Integrity in Core Isolation with no further problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes for wdcsam64\_prewin8.sys being an incompatible driver issue
 
  You don’t have to try all the following methods: simply work your way down the list until you find the one that does the trick to fix the incompatible driver issue with**_wdcsam64\_prewin8.sys_** for you.
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Update Windows
 
  If you’ve disabled Windows from automatically updating manually, there are chances that you missed some driver updates that could help to fix incompatible drivers like wdcsam64\_prewin8.sys. To make sure that you have the latest available updates installed:
@@ -48,8 +48,16 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
@@ -72,15 +80,11 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-72.png)
 3. This is what the command looks like on my computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-74.png)  
  Hit **Enter**  when the command is typed in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. When you see **Driver package deleted successfully** , restart your computer for the wdcsam64\_prewin8.sys driver to be installed automatically by Windows again.
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
  Go to Core Isolation and see if**_wdcsam64\_prewin8.sys_** is still regarded as an incompatible driver that stops Memory Integrity from turning on. If so, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Manually download and install the wdcsam64\_prewin8.sys driver
 
@@ -117,19 +117,11 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/wd-device.png)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  Check to see if the driver issue with wdcsam64\_prewin8.sys is sorted. If this fix doesn’t work for you, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Repair damaged or corrupt system files
 
@@ -140,7 +132,15 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -167,24 +167,18 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/avigating-youtubes-economy-a-guide-to-video-revenue-generation/"><u>[New] Navigating YouTube's Economy A Guide to Video Revenue Generation</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-essential-iphone-recording-apps/"><u>[Updated] 2024 Approved Essential iPhone Recording Apps</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-essential-lessons-apt-color-adjustment-tips/"><u>[Updated] In 2024, Essential Lessons Apt Color Adjustment Tips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-logged-ideport0-control-defect/"><u>Error Logged: Ideport0 Control Defect</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-error-in-device-manager-48/"><u>Fixed Error in Device Manager (#48)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guide-facile-pour-sauvegarder-des-dvd-sur-votre-ordinateur-mac-ou-pc-windows-11107/"><u>Guide Facile Pour Sauvegarder Des DVD Sur Votre Ordinateur Mac Ou PC : Windows 11/10/7</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-correcting-missing-binkw32dll-errors-on-your-pc/"><u>Guide to Correcting Missing binkw32.dll Errors on Your PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-reactivate-nonworking-right-click-on-windows-11-touchpad/"><u>How To Reactivate Nonworking Right Click on Windows 11 Touchpad</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c51-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Poco C51 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-iphone-13-mini-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from iPhone 13 mini iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/meet-the-titans-discovering-the-worlds-most-innovative-large-scale-language-models/"><u>Meet the Titans: Discovering the World's Most Innovative Large-Scale Language Models</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-usb-camera-anomalies-in-asus-w10-edition/"><u>Overcoming USB Camera Anomalies in ASUS, W10 Edition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/quantity-of-videos-on-128gb-storage-media/"><u>Quantity of Videos on 128GB Storage Media</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-unsupported-hardware-alerts-in-your-software-suite-a-step-by-step-solution/"><u>Resolve 'Unsupported Hardware' Alerts in Your Software Suite – A Step-by-Step Solution</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-understanding-and-identifying-the-classic-usb-composite-device/"><u>Solved: Understanding and Identifying the Classic USB Composite Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-overcoming-the-0x8024a105-hurdle-in-windows-patching/"><u>Step-by-Step Solutions for Overcoming the 0X8024A105 Hurdle in Windows Patching</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tech-meets-barista-mode-a-unique-computer-tower-with-an-integrated-coffee-making-system-complete-with-roaster-and-grinder/"><u>Tech Meets Barista Mode: A Unique Computer Tower with an Integrated Coffee-Making System, Complete with Roaster and Grinder</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-10-changes-impact-realtek-lan-driver/"><u>Windows 10 Changes Impact Realtek LAN Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-pc-no-response-when-trying-to-mute-or-disable-bluetooth/"><u>Windows PC: No Response when Trying to Mute or Disable Bluetooth.</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-frosty-slopes-showdown-olympic-snowboard-cross-action/"><u>2024 Approved Frosty Slopes Showdown Olympic Snowboard Cross Action</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-redmi-note-12-pro-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi Redmi Note 12 Pro 4G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-itel-p55plus-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Itel P55+ without App | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-not-working-on-windows-11-solved/"><u>Bluetooth Not Working on Windows 11 [Solved]</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-the-heavens-phone-panorama-basics/"><u>Capturing the Heavens Phone Panorama Basics</u></a></li>
+<li><a href="https://driver-error.techidaily.com/configuring-your-device-right-a-comprehensive-approach-to-solve-the-code-1-error-message/"><u>Configuring Your Device Right: A Comprehensive Approach to Solve the 'Code 1' Error Message</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-sans-frais-de-videos-m4v-au-format-wma-en-ligne-via-movavi/"><u>Conversion Sans Frais De Vidéos M4V Au Format WMA En Ligne via Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-unsupported-usb-errors-in-win-78-environment/"><u>Correcting Unsupported USB Errors in Win 7/8 Environment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-bda-graphics-through-visual-rendering/"><u>Decoding BDA Graphics Through Visual Rendering</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-back-in-service/"><u>Device Back in Service</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-collection-of-free-virtual-fax-services/"><u>Discover the Ultimate Collection of Free Virtual Fax Services</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-unveiling-best-mac-methods-for-recording-roblox-games/"><u>In 2024, Unveiling Best Mac Methods for Recording Roblox Games</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-vivo-x90s-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Vivo X90S.</u></a></li>
 </ul></div>
 

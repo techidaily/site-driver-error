@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for 'Uninitialized DirectX Device'
-date: 2025-01-12T03:13:42.547Z
-updated: 2025-01-15T21:01:42.407Z
+date: 2025-01-25T16:32:22.802Z
+updated: 2025-01-29T18:28:42.197Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
 ## Step-by-Step Fix for 'Uninitialized DirectX Device'
 
  It’s rather annoying to see**Unable to initialize DirectX 9 device** when you start a game. However, you’re not alone here. It’s a common problem especially for Grand Theft Auto V (GTA 5) and Warcraft 3\. Luckily, it’s not hard to fix it at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## About DirectX 9
 
@@ -39,7 +35,7 @@ This error can occur for the following reasons:
 * Conflicting apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -74,6 +70,10 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/uninstall-graphics-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If you have two display adapters, try disabling the onboard/integrated one.
 
 3) Install the new driver you just downloaded.
@@ -81,7 +81,7 @@ This error can occur for the following reasons:
 4) Restart your PC and try running your game again to see if the problem still persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically
@@ -106,6 +106,10 @@ This error can occur for the following reasons:
 
 4) Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Direct3D Acceleration
 
  There might be something wrong with your DirectX settings. To see if this is the culprit, go to**DirectX Diagnostic Tool** to check if all your DirectX features are working normally (especially**Direct3D Acceleration**).
@@ -116,19 +120,11 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/direct-3D-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** If you have more than one video adapter, check each Display tab in the DirectX Diagnostic Tool.
 
  3) If they are all working perfectly, then you can skip to the**[next fix](https://bluettide.pxf.io/ekmjb2)** to solve your problem.
 
  If it shows**Disabled** or**Not Available** , then head to **[Direct3D Acceleration Not Available](https://tools.techidaily.com/drivereasy/download/)**  to further solve your problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Enable DirectPlay
 
@@ -136,17 +132,21 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/turn-windows-feature-on-or-off.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can go to**Control Panel** \>**Programs and Features** , then from the sidebar click**Turn Windows features on or off** (or**add/remove Windows Features**).
 
  2) Scroll down to**Legacy Components** , and check the box for**DirectPlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/turn-on-DirectPlay.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If that doesn’t work then you’ll need to find the**DX9 runtime installer** . ie.**DirectX folder**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall DirectX Installer
 
@@ -155,10 +155,6 @@ This error can occur for the following reasons:
  1) Go to Microsoft’s **[DirectX End-User Runtimes download site](https://www.microsoft.com/en-us/download/details.aspx?id=35)**  and download Microsoft’s DirectX installer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  _This is the only officially supported way to check if the correct DirectX files are currently installed._
 
@@ -172,6 +168,10 @@ This error can occur for the following reasons:
   
  Go to Steam > SteamApps > Common > GTA V > \_CommonRedist > DirectX > Jun2010 > DXSETUP
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Perform a clean boot
 
  Circumstances are there are other conflicting applications that prevent your game from working properly. To see if that’s your problem, try performing a clean boot.
@@ -180,6 +180,10 @@ This error can occur for the following reasons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/msconfig.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Service** s tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/disable-all.jpg)
@@ -187,10 +191,6 @@ This error can occur for the following reasons:
  3) Then click the**Startup** tab and select**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/open-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Select every startup application and click**Disable** .
 
@@ -229,21 +229,22 @@ This error can occur for the following reasons:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-elevate-your-editing-game-with-video-enhancer-v22-for-2024/"><u>[New] Elevate Your Editing Game with Video Enhancer V2.2 for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-navigating-the-maze-of-insta-story-downloads/"><u>[Updated] 2024 Approved Navigating the Maze of Insta Story Downloads</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-navigating-video-chats-zooming-in-on-xbox/"><u>[Updated] In 2024, Navigating Video Chats Zooming In on Xbox</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-microsoft-hololens-demo-tomorrows-tech-today/"><u>2024 Approved Microsoft HoloLens Demo – Tomorrow’s Tech Today</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnosing-and-solving-windows-10s-missing-coprocessor-driver-problem/"><u>Diagnosing and Solving Windows 10'S Missing Coprocessor Driver Problem</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-tips-for-capturing-audio-of-twitter-spaces-live-sessions-on-computers-and-phones/"><u>Easy Tips for Capturing Audio of Twitter Spaces Live Sessions on Computers & Phones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-insights-on-optimal-fpv-drone-blades/"><u>Expert Insights on Optimal FPV Drone Blades</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-failed-to-initialize-for-battleye-overcoming-driver-load-error-1450/"><u>How to Fix 'Failed to Initialize' For BattlEye - Overcoming Driver Load Error 1450</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-video-issues-a-walkthrough-of-safemode-and-graphics-driver-removal-for-windows-8-users/"><u>How to Fix Video Issues? A Walkthrough of Safemode & Graphics Driver Removal for Windows 8 Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-apple-iphone-6-plus-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile Apple iPhone 6 Plus online without SIM Card?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revive-unrecognized-devices-in-windows-nt4-server/"><u>Revive Unrecognized Devices in Windows NT4 Server</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solution-for-iphone-compatibility-with-computers-file-manager-through-driver-update/"><u>Solution for iPhone Compatibility With Computer's File Manager Through Driver Update</u></a></li>
-<li><a href="https://some-skills.techidaily.com/template-transformations-build-unique-logos-for-pennies-for-2024/"><u>Template Transformations Build Unique Logos for Pennies for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-10-economical-pc-screen-recorders-compared-for-2024/"><u>Top 10 Economical PC Screen Recorders Compared for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-solved-iphone-external-drive-connection-via-mtp/"><u>Troubleshooting Solved: IPhone External Drive Connection via MTP</u></a></li>
-<li><a href="https://driver-error.techidaily.com/uninstalling-graphics-drivers-on-windows-8-a-quick-tutorial-for-secure-boot-settings/"><u>Uninstalling Graphics Drivers on Windows 8: A Quick Tutorial for Secure Boot Settings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-become-an-expert-at-capturing-every-detail-on-xiaomi-mi-11-for-2024/"><u>[New] Become an Expert at Capturing Every Detail on Xiaomi Mi 11 for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-peak-memetic-artistry-hub/"><u>[Updated] Peak Memetic Artistry Hub</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-your-roadmap-to-prominence-top-30-cooler-disco-tags-for-2024/"><u>[Updated] Your Roadmap to Prominence Top 30 Cooler Disco Tags for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/blank-screen-for-external-drives-on-w10w11/"><u>Blank Screen for External Drives on W10/W11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bt-compatibility-lenovo-and-windows-11-harmony-guide/"><u>BT Compatibility: Lenovo & Windows 11 Harmony Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correct-nonresponsive-right-click-windows-11-solved/"><u>Correct Nonresponsive Right Click - Windows 11 Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-realtekenas-unsupported-driver-issue/"><u>Correcting Realtek'enas Unsupported Driver Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-usb-composite-devices-an-insight-into-outdated-technology/"><u>Decoding USB Composite Devices: An Insight Into Outdated Technology</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dell-inspiron-laptop-unresponsive-to-kde-plasma-5-solved/"><u>Dell Inspiron Laptop Unresponsive to KDE Plasma 5 [Solved]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ce-videos-seamlessly-using-youtube-studio-editor/"><u>Enhance Videos Seamlessly Using YouTube Studio Editor</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-beauty-bliss-essential-tutorials-for-ultimate-style/"><u>In 2024, Beauty Bliss Essential Tutorials for Ultimate Style</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-firmware-update-for-logitech-extreme-3d-pro-gaming-mouse-drivers/"><u>Latest Firmware Update for Logitech Extreme 3D PRO Gaming Mouse Drivers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-what-makes-the-best-lower-thirds-in-final-cut-pro-x/"><u>New 2024 Approved What Makes the Best Lower Thirds in Final Cut Pro X</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102898643-resolve-the-driver-not-found-issue-in-your-itbm-with-simple-steps/"><u>Resolve the 'Driver Not Found' Issue in Your ITBM with Simple Steps!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104265513-unresponsive-games-due-to-gpu-issue-quick-solution-inside/"><u>Unresponsive Games Due to GPU Issue? Quick Solution Inside!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visionary-video-techniques-mastering-version-22-of-enhancer/"><u>Visionary Video Techniques - Mastering Version 2.2 of Enhancer</u></a></li>
 </ul></div>
 

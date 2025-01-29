@@ -1,7 +1,7 @@
 ---
 title: Seagate External Drive Detection Issue Solved in Win11
-date: 2025-01-10T03:37:55.150Z
-updated: 2025-01-16T04:25:23.704Z
+date: 2025-01-27T19:00:00.452Z
+updated: 2025-01-29T20:18:22.635Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 **[4: Assign Driver Letter to Seagate GoFlex](https://dreoaffiliateprogram.pxf.io/k0ezjl)**
 **[5: Disable Fast Startup](https://coinrule.sjv.io/rqzonv)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Try A Different USB Port**
 
  Unplug your Seagate hard drive from its current port, and plug it into a working USB port, for instance, the one for your mouse.
@@ -53,13 +57,13 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/system-in-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Apps & features** . Click**Seagate software** and click the**Uninstall** button. (In the screenshot, we uninstall **Driver Easy** only as an example.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-and-features.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Go to the [**official website of Seagate**](http://www.seagate.com/gb/en/support/downloads/item/goflex-home-iso-software-master/) and download the software, create the install CD according to the instructions and then reinstall the software again on your computer.
 
@@ -74,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e4afa92a309.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) If your Seagate external hard drive still doesn’t work after you reinstall the software and update the drivers,you should reinstall**Paragon driver**  in compatibility mode. Here is how:
 
  1) Go to**Settings > System> Apps & features** window, remove **Paragon driver** .
@@ -88,17 +88,25 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/properties.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the**Compatibility** tab, and tick the box for**Run this program in compatibility mode for:** . Select an older version of Windows. You might need to try a couple of times before you fix this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-this-program-in-compatibility-mode-for.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click**Apply** and**OK** to save and then run the setup again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apply-and-ok.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 3: Partition the Hard Drive**
 
@@ -118,10 +126,14 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/new-simple-volume.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There you go, your Seagate external hard drive should be able to work without any problems.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 4: Assign Driver Letter to Seagate GoFlex**
@@ -134,24 +146,16 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57f9f9701ebe7-600x294.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click it and click **Change Drive Letter and Paths…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-drive-letter-and-paths.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) If your external hard drive doesn’t have a letter, press **Add…** to add a letter for this drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/add-a-letter.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Assign a letter to it and click**OK.**
@@ -174,16 +178,12 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Click   **Change what the power button does.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-what-the-power-button-does.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Click   **Change settings that are currently unavailable** .
 
@@ -208,22 +208,18 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-precision-in-performance-utilizing-social-blade-for-youtube-data/"><u>[New] Precision in Performance Utilizing Social Blade for YouTube Data</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nlocking-perfect-presentation-youtubes-video-ratio-insights/"><u>[New] Unlocking Perfect Presentation YouTube's Video Ratio Insights</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-dive-into-detailed-review-of-sj7s-high-res-4k-action-camera/"><u>[Updated] 2024 Approved Dive Into Detailed Review of SJ7’s High-Res 4K Action Camera</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unlock-the-potential-of-hd-videos-on-android-devices-for-2024/"><u>[Updated] Unlock the Potential of HD Videos on Android Devices for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/8-steps-to-do-a-system-restore-in-windows-11/"><u>8 Steps to Do a System Restore in Windows 11</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/breaking-tubes-unveiling-top-10-viewed-tweets-on-twitter/"><u>Breaking Tubes Unveiling Top 10 Viewed Tweets on Twitter</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-guide-to-repairing-default-settings-collapsed-in-radeon-wattman-and-restored/"><u>Expert Guide to Repairing 'Default Settings Collapsed in Radeon WattMan & Restored'</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-wi-fi-ax201-intermittent-operations-issue/"><u>Fix: Wi-Fi Ax201 Intermittent Operations Issue</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-the-radeon-wattman-settings-crash-issue-effectively/"><u>How to Fix the Radeon Wattman Settings Crash Issue Effectively</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-navigating-the-art-of-iptv-screen-recording/"><u>In 2024, Navigating the Art of IPTV Screen Recording</u></a></li>
-<li><a href="https://driver-error.techidaily.com/inf-installment-fix-service-validation-success/"><u>INF Installment Fix: Service Validation Success</u></a></li>
-<li><a href="https://driver-error.techidaily.com/master-the-technique-enabling-safe-mode-and-discarding-graphics-drivers-on-win-8/"><u>Master the Technique: Enabling Safe Mode and Discarding Graphics Drivers on Win 8</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-enumeration-errors-in-usb/"><u>Resolve Enumeration Errors in USB</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/reviewing-the-marvel-avengers-saga-simply-superb-or-subpar-spectacle/"><u>Reviewing the Marvel Avengers Saga: Simply Superb, or Subpar Spectacle?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-fixing-hcmondriver-installation-errors/"><u>Troubleshooting Steps for Fixing Hcmondriver Installation Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-resolving-hcom-driver-installation-issues/"><u>Troubleshooting Steps for Resolving HCOM Driver Installation Issues</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-perfect-timeline-control-with-top-20-tweet-management-apps/"><u>[Updated] Perfect Timeline Control with Top 20 Tweet Management Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unraveling-the-mystery-of-iphone-based-podcast-access/"><u>[Updated] Unraveling the Mystery of iPhone-Based Podcast Access</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-conquer-your-audience-the-top-5-youtube-strategies-for-brands/"><u>2024 Approved Conquer Your Audience The #Top 5 YouTube Strategies for Brands</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-laptop-troubleshooting-how-to-adjust-when-videos-appear-sideways-or-upward/"><u>ASUS Laptop Troubleshooting: How to Adjust When Videos Appear Sideways or Upward</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104922327-bluetooth-woes-windows-solutions-ready/"><u>Bluetooth Woes? Windows Solutions Ready!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105166381-cant-switch-bluetooth-off-my-laptop-is-frozen/"><u>Can't Switch Bluetooth OFF - My Laptop Is Frozen!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/crystalline-speed-highlighting-moments-from-the-coldest-games-on-earth-for-2024/"><u>Crystalline Speed Highlighting Moments From the Coldest Games on Earth for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-conflict-conqueror-error-45/"><u>Device Conflict Conqueror: Error 45</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-se-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone SE Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tech-trend-analysis-vlls-evaluations/"><u>In 2024, Tech Trend Analysis VLL's Evaluations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-arctics-third-gen-liquid-freezer-aio-not-meeting-expectations/"><u>Inside Look at Arctic's Third-Gen Liquid Freezer (AIO): Not Meeting Expectations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stream-like-a-boss-10-fantastic-alternatives-to-netflix-on-the-house/"><u>Stream Like a Boss: 10 Fantastic Alternatives to Netflix on the House!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-live-streamers-analyzed-and-ranked/"><u>Top Live Streamers Analyzed and Ranked</u></a></li>
 </ul></div>
 

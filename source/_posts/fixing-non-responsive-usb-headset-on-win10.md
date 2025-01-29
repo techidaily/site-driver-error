@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Responsive USB Headset on WIN10
-date: 2025-01-14T17:43:27.816Z
-updated: 2025-01-15T19:38:55.625Z
+date: 2025-01-28T19:05:46.553Z
+updated: 2025-01-29T20:59:14.067Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3
 
 **Note:** Before we go, plug your headset into different USB ports and replace your USB headset with another one to check if the issue is due to the headset. If it doesn’t work either, then go with the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Do not plug your USB headset while Windows 10 is booting
 
  Some conflicts could exist between your USB headset and other USB devices. To avoid this conflict, please be sure to plug your USB headset in after your computer gets into Windows 10.```` ``
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3
  In this case, you can unplug your USB headset first, and reboot your Windows 10\. Then plug your USB headset when Windows 10 starts.```` ``
 
 Check if your headset works properly now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the Hardware Devices troubleshooter
 
@@ -50,12 +50,20 @@ Check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-12.png)  
 ```` ```` ````
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click **Hardware and Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-14.png)
 4. Click **Next** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-13.png)
 5. Now the troubleshooter starts detecting problems. Complete troubleshooting by following on-screen instructions.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.png)
 
@@ -67,21 +75,17 @@ After that, check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_15-52-49.jpg)
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Relaunch your computer and check whether the issue is resolved or not.````
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Set your USB headset as default device
 
@@ -90,16 +94,12 @@ After that, check if your headset works properly now.
 2. Highlight your headset, then click **Set** **Default** . Click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
 
 ```` ```` ```` Check if your headset works properly now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -114,13 +114,13 @@ After that, check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/SCAN.jpg)
 3. Click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note: You can also do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Sound-driver.jpg)
 4. Restart your computer and check to see if your headset works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -143,18 +143,20 @@ After that, check if your headset works properly now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-assembling-an-original-identification-alphanumeric-for-2024/"><u>[New] Assembling an Original Identification Alphanumeric for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/utting-edge-computers-optimal-machines-for-media-creation-for-2024/"><u>[New] Cutting-Edge Computers Optimal Machines for Media Creation for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-elevate-your-freefire-gameplay-on-youtube-channels/"><u>[Updated] Elevate Your FreeFire Gameplay on YouTube Channels</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/conversion-de-dvd-gratis-a-hevch265-mp4-pasos-faciles-y-metodos-de-alta-calidad/"><u>Conversión De DVD Gratis a HEVC/H.265 MP4: Pasos Fáciles Y Métodos De Alta Calidad</u></a></li>
-<li><a href="https://win-info.techidaily.com/elevate-your-machines-performance-with-these-tips-by-experts-at-yl-software/"><u>Elevate Your Machine's Performance with These Tips by Experts at YL Software</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-beginners-basics-establishing-your-channel-and-earning-profits/"><u>In 2024, Youtube Beginner's Basics Establishing Your Channel & Earning Profits</u></a></li>
-<li><a href="https://driver-error.techidaily.com/missing-dvd-driver-in-windows-11-now-fixed/"><u>Missing DVD Driver in Windows 11 - Now Fixed!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-drivers-refreshed-gtx-970-for-w10-users/"><u>Nvidia Drivers Refreshed: GTX 970 For W10 Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcome-the-gtx-950-code-43-hurdle-in-windows-11-effective-troubleshooting-steps/"><u>Overcome the GTX 950 Code 43 Hurdle in Windows 11 - Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-fixes-for-win10s-asus-acpi-drivers/"><u>Quick Fixes for Win10's Asus ACPI Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revival-of-dormant-serial-connections-on-windows-device/"><u>Revival of Dormant Serial Connections on WINDOWS DEVICE</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-the-invisible-social-network-transparency-on-facebook/"><u>Understanding the Invisible: Social Network Transparency on Facebook</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-driver-woes-solved-quickly-and-effectively/"><u>Windows Driver Woes, Solved Quickly and Effectively</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-instant-screener-chromeos-edition/"><u>[New] In 2024, Instant Screener ChromeOS Edition</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ar-5-arcshell-augmented-reality-glasses-exceptional-value-and-quality/"><u>AR-5 ArcShell Augmented Reality Glasses: Exceptional Value and Quality</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/expert-guidelnace-mastering-windows-registry-editing-with-yl-softwares-best-tips/"><u>Expert Guidelnace: Mastering Windows Registry Editing with YL Software's Best Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-built-in-wifi-and-bluetooth-on-my-laptop-refuse-to-shut-down-in-windows/"><u>Fix: Built-In Wifi and Bluetooth on My Laptop Refuse to Shut Down in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-the-driver-detected-a-controller-error-on-deviceideideport0/"><u>Fixed: The Driver Detected a Controller Error on DeviceIdeIdeport0</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/futureproof-your-pc-with-top-cpu-cooler-picks-aio-and-air-technologies-explored/"><u>Futureproof Your PC with Top CPU Cooler Picks - AIO and Air Technologies Explored</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-restore-bluetooth-connectivity-with-qualcomm-atheros-on-windows-11/"><u>How to Restore Bluetooth Connectivity with Qualcomm Atheros on Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/meditative-playlist-top-10-free-tracks-for-serenity-for-2024/"><u>Meditative Playlist Top 10 Free Tracks for Serenity for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-complete-guide-to-running-linux-on-a-chromebook-updated-2023/"><u>New In 2024, The Complete Guide to Running Linux on a Chromebook (Updated 2023)</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-solution-fixing-try-connecting-your-device-on-win-11/"><u>Quick Solution: Fixing 'Try Connecting Your Device' On Win 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectify-kernel-usb-error/"><u>Rectify Kernel USB Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-bsod-in-windows-unfair-irql/"><u>Resolved BSOD in Windows: Unfair IRQL</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/egic-use-of-creative-commons-copyright-law-for-2024/"><u>Strategic Use of Creative Commons Copyright Law for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-and-seagate-recovery-for-unseen-hard-drive/"><u>Win11 & Seagate: Recovery for Unseen Hard Drive</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-drivers-simplified-and-solved-quickly/"><u>Windows Drivers, Simplified and Solved Quickly</u></a></li>
 </ul></div>
 

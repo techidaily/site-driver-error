@@ -1,7 +1,7 @@
 ---
 title: Unresponsive Keys Issue in 10
-date: 2025-01-10T20:49:33.089Z
-updated: 2025-01-15T16:22:26.454Z
+date: 2025-01-27T20:47:17.684Z
+updated: 2025-01-29T20:00:46.677Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -45,23 +49,31 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Reinstall your keyboard driver
 
@@ -71,17 +83,9 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) When prompted to confirm, click**OK** .
 
@@ -110,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
  2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
 
@@ -164,21 +164,24 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-exploring-genres-a-collection-of-15-innovative-musician-focused-videos/"><u>[New] In 2024, Exploring Genres A Collection of 15 Innovative Musician-Focused Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-circular-and-spherical-artistry-building-block-by-block/"><u>[Updated] 2024 Approved Mastering Circular & Spherical Artistry Building Block by Block</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unlocking-full-access-to-itunes-radio-features/"><u>[Updated] Unlocking Full Access to iTunes Radio Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-new-companion-for-modern-dating/"><u>ChatGPT: A New Companion for Modern Dating</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ng-on-youtube-a-step-by-step-guide-for-newbies-for-2024/"><u>Earning on YouTube A Step-by-Step Guide for Newbies for 2024</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/effortless-guide-to-editing-long-videos-into-perfectly-sized-instagram-stories-without-compromising-quality/"><u>Effortless Guide to Editing Long Videos Into Perfectly Sized Instagram Stories Without Compromising Quality</u></a></li>
-<li><a href="https://driver-error.techidaily.com/eliminate-lag-and-freeze-in-win11/"><u>Eliminate Lag & Freeze in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-cleared-sound-driver-on-hd-successful/"><u>Error Cleared: Sound Driver on HD Successful</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-hardware-glitch-hdd-issue-resolved/"><u>Fixed Hardware Glitch: HDD Issue Resolved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-windows-7-bsod-issue-guide-to-resolve-error-code-0x0000007e/"><u>Fixing the Windows 7 BSOD Issue: Guide to Resolve Error Code 0X0000007E</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphics-device-driver-error-code-43-solved/"><u>Graphics Device Driver Error Code 43 [SOLVED]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-vivo-y27-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Vivo Y27 5G.</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-harnessing-famebits-secrets-to-thrive-with-key-channel-sponsors/"><u>In 2024, Harnessing FameBit's Secrets to Thrive with Key Channel Sponsors</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-sim-not-provisioned-mmi-errors-on-your-device-easily/"><u>Overcoming 'SIM Not Provisioned MMI' Errors on Your Device Easily</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restored-access-granted/"><u>Restored Access Granted</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-bootup-flaw-bsod-irql-disparity/"><u>Win11 Bootup Flaw: [BSOD] Irql Disparity</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-critical-approaches-to-documenting-youtube-live-video/"><u>[New] 2024 Approved Critical Approaches to Documenting Youtube LIVE Video</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-optimizing-your-video-images-for-instagram-highlights/"><u>[New] In 2024, Optimizing Your Video Images for Instagram Highlights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-power-of-personal-storytelling-in-video-content/"><u>2024 Approved The Power of Personal Storytelling in Video Content</u></a></li>
+<li><a href="https://driver-error.techidaily.com/a-step-by-step-fix-for-your-flipped-videos-on-the-latest-asus-laptop-models/"><u>A Step-by-Step Fix for Your Flipped Videos on the Latest ASUS Laptop Models</u></a></li>
+<li><a href="https://driver-error.techidaily.com/amend-broadcom-nic-error-on-precision-m65/"><u>Amend Broadcom NIC Error on Precision M65</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-play-8t-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor Play 8T? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bridging-the-gap-uncover-missing-bluetooth-device-space/"><u>Bridging the Gap: Uncover Missing Bluetooth, Device Space</u></a></li>
+<li><a href="https://driver-error.techidaily.com/clarifying-how-to-fix-problems-with-obsolete-usb-composite-hardware/"><u>Clarifying How to Fix Problems with Obsolete USB Composite Hardware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/closed-issue-non-supported-intelamd-graphics-driver-compatibility-with-premier-pro/"><u>Closed Issue: Non-Supported Intel/AMD Graphics Driver Compatibility with Premier Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correct-the-vertically-oriented-video-malfunction-in-your-asus-laptop-with-these-steasy-tips/"><u>Correct the Vertically Oriented Video Malfunction in Your ASUS Laptop with These Steasy Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-hindered-by-low-available-resources/"><u>Device Hindered by Low Available Resources</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104114505-fixing-slow-graphics-on-pc-our-team-cracked-the-rtx-gaming-issue-check-out-this-quick-fix/"><u>Fixing Slow Graphics on PC? Our Team Cracked the RTX Gaming Issue - Check Out This Quick Fix!</u></a></li>
+<li><a href="https://facebook.techidaily.com/harnessing-the-power-of-creativity-in-smm-via-ripl/"><u>Harnessing the Power of Creativity in SMM via Ripl</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-how-to-record-iphoneipads-screen/"><u>In 2024, How to Record iPhone/iPad’s Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-motorola-moto-g-stylus-2023-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Moto G Stylus (2023) Device</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/quick-steps-to-record-iphoneipad-screens-for-online-videos/"><u>Quick Steps to Record iPhone/iPad Screens for Online Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-troubleshooting-sound-problems-in-powerpoint/"><u>Ultimate Guide to Troubleshooting Sound Problems in PowerPoint</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-advanced-editing-techniques-with-macos-preview-for-stunning-images/"><u>Unlocking Advanced Editing Techniques with macOS Preview for Stunning Images</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721100355407-unraveling-the-mystery-of-classic-usb-composite-devices-resolved/"><u>Unraveling the Mystery of Classic USB Composite Devices - Resolved!</u></a></li>
 </ul></div>
 

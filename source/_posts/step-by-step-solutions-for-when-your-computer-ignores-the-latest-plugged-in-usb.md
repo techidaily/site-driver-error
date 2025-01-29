@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for When Your Computer Ignores the Latest Plugged-In USB
-date: 2025-01-20T19:46:26.477Z
-updated: 2025-01-21T20:54:38.066Z
+date: 2025-01-23T17:43:31.049Z
+updated: 2025-01-29T16:21:09.336Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 
  As mentioned, the exact cause could be very different in different situations, but there are some general resolutions that you should try before you turn to technicians. And one of the solutions below is bound to fix the problem for you. No worries, we’ve got you covered.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How can I fix it?
 
  Here are 4 solutions for you to try. You may not have to try them all; just work your way down until you find the one works for you.
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 
  If your problem stops here, the USB port might be at fault, not your USB flash drive. Try to avoid using the same port next time, in case similar problem happens again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Update all possible device drivers
 
  Another possibility for your not-recognized USB device is outdated, missing and/or faulty drivers. You should verify that all your devices have the right drivers, and update those that don’t. This is especially true for your motherboard driver, your USB port drivers, and your external hard drive driver.
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37710b44342.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged drivers to automatically download and install the correct versions (you can do this with the **FREE** version).
@@ -77,7 +77,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37721186152.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) You need to restart your PC for the updated drivers to work properly. Check if your USB device is recognized now.
@@ -94,6 +94,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377758f2bdc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Change plan settings** next to the plan option you’re having now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3777c0a811b.png)
@@ -101,10 +105,6 @@ Or click **Update All**  to automatically download and install the correct versi
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377814e701a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click to expand**USB settings** and**USB selective suspend setting** .
 
@@ -128,9 +128,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3786b06277a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the top bar, click**View** and then**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378723b37b6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click to expand**Universal Serial Bus controllers.**
 
@@ -144,14 +152,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37895fbce37.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3.1.3) When the uninstall finishes, restart your computer. Then repeat the same procedure with the rest of the USB controllers marked by yellow exclamation marks or question marks one by one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3.2) If you don’t see any drivers marked by yellow exclamation mark or question mark
@@ -159,10 +163,6 @@ Or click **Update All**  to automatically download and install the correct versi
  3.2.1) Right-click the first option you see here and click**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378e629ee28.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3.2.3) When the disable finishes, restart your PC. Repeat the same procedure as above, and if your USB controller driver is not enabled automatically, right-click it and click**Enable device** .
 
@@ -187,17 +187,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/asus-pc-backlight-malfunctioning/"><u>Asus PC Backlight Malfunctioning</u></a></li>
-<li><a href="https://win-online.techidaily.com/beschleunigen-sie-ihren-windows-server-2022-erfolgreich-umgang-mit-extremer-leistungsverlangsamung-3-ansatze/"><u>Beschleunigen Sie Ihren Windows Server 2022: Erfolgreich Umgang Mit Extremer Leistungsverlangsamung (3 Ansätze)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/clarify-device-not-found-on-win98beta/"><u>Clarify 'Device Not Found' On Win98Beta</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/do-electric-vehicles-hold-up-in-hot-or-cold-conditions-find-out-here/"><u>Do Electric Vehicles Hold Up in Hot or Cold Conditions? Find Out Here!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-fix-one-airpod-not-working-for-2024/"><u>How to Fix One Airpod Not Working for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-prevent-nvidia-driver-from-uninstalling-itself/"><u>How to Prevent Nvidia Driver From Uninstalling Itself</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-nubia-red-magic-8s-proplus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-enhanced-video-editing-suites-on-windows/"><u>In 2024, Enhanced Video Editing Suites on WIndows</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-instantaneous-collage-creation-for-dynamic-fb-presence/"><u>In 2024, Instantaneous Collage Creation for Dynamic FB Presence</u></a></li>
-<li><a href="https://driver-error.techidaily.com/missing-driver-detection-issue/"><u>Missing Driver Detection Issue</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revealed-ms-bda-through-gfx-lens/"><u>Revealed: MS BDA Through GFX Lens</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-direct-transfer-of-youtube-playlists-stepwise-processing/"><u>[New] 2024 Approved Direct Transfer of YouTube Playlists - Stepwise Processing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tailor-made-tunes-for-chrome-companions/"><u>[Updated] Tailor-Made Tunes for Chrome Companions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ace-your-pcs-performance-by-mastering-astro-updates-and-replacements/"><u>Ace Your PC's Performance by Mastering Astro Updates & Replacements</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-laptop-tips-correcting-the-orientation-of-your-display/"><u>ASUS Laptop Tips: Correcting the Orientation of Your Display</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-vivo-t2x-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo T2x 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104681699-blackberry-storm-beta-not-recognized-by-fedora-33-solution-found/"><u>Blackberry Storm Beta Not Recognized by Fedora 33 - Solution Found</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-unsuccessful-lacking-intel-device/"><u>Driver Installation Unsuccessful - Lacking Intel Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/from-obscurity-to-fame-elevate-your-tiktok-unboxing-videos-for-2024/"><u>From Obscurity to Fame Elevate Your TikTok Unboxing Videos for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-blocking-event-win11-issue/"><u>Hardware Blocking Event - Win11 Issue</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-xiaomi-redmi-note-12-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Xiaomi Redmi Note 12 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-civi-3-disney-100th-anniversary-edition-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi Civi 3 Disney 100th Anniversary Edition without App | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-13-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 13 Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-excellence-in-motion-best-4k-cameras-unveiled/"><u>In 2024, Excellence in Motion Best 4K Cameras Unveiled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/inactive-keysight-on-asus-laptop/"><u>Inactive Keysight on Asus Laptop</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/meet-the-ultimate-workout-buddy-how-apples-airpods-pro-3-track-your-heart-rate-for-optimal-training-results/"><u>Meet the Ultimate Workout Buddy: How Apple's AirPods Pro 3 Track Your Heart Rate for Optimal Training Results</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mitigating-non-functional-status-post-enex-failure-in-win11/"><u>Mitigating Non-Functional Status Post eNEX Failure in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repairing-faulty-inf-clause-for-service-setup/"><u>Repairing Faulty INF Clause for Service Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-how-to-install-missing-drivers-for-your-device-on-windows-10-8-and-7/"><u>Solved: How to Install Missing Driver(s) for Your Device on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-usb-serial-linkup-troubleshooting/"><u>Win USB Serial Linkup Troubleshooting</u></a></li>
 </ul></div>
 

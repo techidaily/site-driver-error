@@ -1,7 +1,7 @@
 ---
 title: Mended Hardware Commanding Glitches
-date: 2025-01-09T00:26:42.762Z
-updated: 2025-01-16T00:05:38.429Z
+date: 2025-01-28T20:04:40.047Z
+updated: 2025-01-29T18:18:39.824Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
  Whenever you insert your USB drive into your computer, you keep getting this error message   **The driver detected a controller error on \\Device\\Harddisk1\\DR1** or**DR3**  ? Many users have reported this issue. But don’t worry, you can try the solutions below to fix it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 1: Switch your USB drive to a different port
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
  Some sectors in your computer may be damaged, and you can try**switching your USB drive to a different port** . It worked for some users. If it doesn’t solve your “ The driver detected a controller error on \\Device\\Harddisk1\\DR1″ problem,  try Solution 2, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 2: Update your USB driver
@@ -51,14 +51,14 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84c2843cf68.jpg)
 4. You may need to restart your computer to finish the process. Then check if your “The driver detected a controller error on \\Device\\Harddisk1\\DR1 ” problem is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -84,19 +84,22 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-quick-steps-to-convert-macs-image-file-types-for-2024/"><u>[New] Quick Steps to Convert Mac's Image File Types for 2024</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/wechatapple-iphone/"><u>回想WeChat在Apple iPhone上的消息歷史：三種回復方法指南</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-infinix-hot-30i-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Infinix Hot 30i</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-troubleshooting-guide-for-installed-device-drivers-windows-10-8-and-7-issue-solved/"><u>Easy Troubleshooting Guide for Installed Device Drivers: Windows 10, 8 and 7 (ISSUE SOLVED)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-error-45-on-hardware-registry/"><u>Fixed Error 45 on Hardware Registry</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-missing-driver-notifications-compatible-drivers-for-windows-1187/"><u>Fixing Missing Driver Notifications: Compatible Drivers for Windows 11/8/7</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-nokia-c300-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Nokia C300? Try These Fixes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/glow-up-guide-for-the-social-savvy-top-three-highlighters-on-instagram-for-2024/"><u>Glow-Up Guide for the Social Savvy Top Three Highlighters on Instagram for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-beyond-spectacle-delving-into-vrs-negatives/"><u>In 2024, Beyond Spectacle Delving Into VR's Negatives</u></a></li>
-<li><a href="https://extra-information.techidaily.com/realtime-hd-uplift-for-pc-mac-and-online-devices/"><u>RealTime HD Uplift for PC, Mac & Online Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-screen-flip-issues-on-asus-notebooks-a-guide/"><u>Solving Screen Flip Issues on Asus Notebooks - A Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-the-absent-cpu-accelerator-driver-on-your-windows-10-machine-solved/"><u>Troubleshooting and Fixing the Absent CPU Accelerator Driver on Your Windows 10 Machine [Solved]</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-mystery-of-missing-disk-drive-explained/"><u>Win11: Mystery of Missing Disk Drive Explained</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bsod-overcoming-windows-irql-exception/"><u>[BSOD]: Overcoming Windows IRQL Exception</u></a></li>
+<li><a href="https://driver-error.techidaily.com/conquered-audio-issues-won-with-win11/"><u>[Conquered] Audio Issues, Won with Win11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-get-tech-savvy-expert-guide-for-mac-screen-recording-via-shortcuts-for-2024/"><u>[New] Get Tech-Savvy Expert Guide for Mac Screen Recording via Shortcuts for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-mastering-xstudio-complete-video-setup-analysis/"><u>[Updated] Mastering XStudio Complete Video Setup Analysis</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-top-10-best-action-cameras-for-diving-or-snorkelling-2023-update-for-2024/"><u>[Updated] Top 10 Best Action Cameras For Diving Or Snorkelling -2023 Update for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-windows-1011-sm-bus-controller-discrepaninas/"><u>Addressing Windows 10/11 SM Bus Controller Discrepaninas</u></a></li>
+<li><a href="https://driver-error.techidaily.com/complete-solution-to-overcome-iphones-usb-driving-troubles-a-step-by-nstep-guide/"><u>Complete Solution to Overcome iPhone's USB Driving Troubles: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/confronting-constant-bluetooth-in-windows-11/"><u>Confronting Constant Bluetooth in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721096910208-hp-wireless-keyboard-malfunction-heres-what-you-need-to-know/"><u>HP Wireless Keyboard Malfunction? Here's What You Need to Know!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-enrich-tweets-with-videos-your-quick-reference/"><u>In 2024, Enrich Tweets with Videos Your Quick Reference</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-driver-update-for-surface-pro-6/"><u>Instant Driver Update for Surface Pro 6</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macbook-showdown-unveiling-differences-to-determine-whether-macbook-pro-or-macbook-air-fits-you-best/"><u>MacBook Showdown: Unveiling Differences to Determine Whether MacBook Pro or MacBook Air Fits You Best</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098122266-missing-dvd-driver-in-windows-11-now-fixed/"><u>Missing DVD Driver in Windows 11 - Now Fixed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-educational-tools-missteps-to-avoid-when-using-chatgpt-as-a-learner/"><u>Navigating Educational Tools: Missteps to Avoid When Using ChatGPT as a Learner</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103846329-optimize-bluetooth-drivers-make-windows-work-better/"><u>Optimize Bluetooth Drivers, Make Windows Work Better</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-quest-for-superior-video-playback-software/"><u>The Quest for Superior Video Playback Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-the-top-6-iphone-apps-to-restore-your-lost-memories/"><u>Ultimate Guide: The Top 6 iPhone Apps to Restore Your Lost Memories</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revived Device Manager - Error 48
-date: 2025-01-12T18:33:04.136Z
-updated: 2025-01-15T23:11:33.562Z
+date: 2025-01-24T17:45:42.304Z
+updated: 2025-01-29T19:21:41.948Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
 ## Revived Device Manager - Error 48
 
  If a device on your computer is running into**Error Code 48** in Device Manager, don’t worry. You’ve come to the right place! Although it’s quite frustrating, you should be able to fix this issue on your own after reading this article.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Error Code 48 in Device Manager
 
@@ -42,6 +38,10 @@ To check if the device is running into the error code 48:
 3. **[Turn off Memory Integrity in Core isolation](https://aligracehair.sjv.io/y209r3)**
 4. **[Run the System File Checker and the Windows Memory Diagnostic Test](https://parisrhonecom.sjv.io/zqobqr)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your driver
 
  According to Microsoft, the recommended resolution for the error code 48 in Device Manager is to contact the hardware vendor for a new driver. In other words, you should be able to fix this issue by updating the driver of your problematic device to the latest version.
@@ -53,6 +53,10 @@ To check if the device is running into the error code 48:
 Or
 
 **[Option 2: Automatically (Recommended)](https://www.drivereasy.com/knowledge/asus-usb-bt500-bluetooth-5-0-usb-adapter-driver/#h-option-2-update-the-asus-usb-bt500-bluetooth-driver-automatically-recommended)**  – This might be the quickest and easiest way to get all the latest drivers for your computer. All you need is a few clicks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1 – Download and install the driver manually
 
@@ -73,16 +77,8 @@ Or
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-drivers-with-Driver-Easy.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and [manually install them, the normal Windows way](https://tools.techidaily.com/drivereasy/download/) .)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your PC and check if this issue persists.
 
@@ -91,6 +87,10 @@ Or
  Normally, the error code 48 in Device Manager will be fixed after you update the drivers to the latest version.
 
  If not, you may need to try the fixes below one by one and then reinstall the latest drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Disable Hyper-V
 
@@ -109,10 +109,14 @@ Or
 4. Restart Windows 10 to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this fix didn’t work, try the next fix to turn off Memory Integrity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Turn off Memory Integrity in Core isolation
 
@@ -126,18 +130,14 @@ To turn off Memory Integrity, simply follow the steps below:
 ![Open Core isolation](https://images.drivereasy.com/wp-content/uploads/2021/04/Open-Core-isolation.jpg)
 2. **Turn off** the toggle under**Memory integrity** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off Memory integrity](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Memory-integrity.jpg)
 3. Restart Windows 10 and reinstall the latest driver of the problematic device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 See if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Run the System File Checker and the Windows Memory Diagnostic Test
 
@@ -157,14 +157,14 @@ See if this fix works. If not, try the next fix, below.
 ![open control panel from Run](https://images.drivereasy.com/wp-content/uploads/2021/04/open-control-panel-from-Run.jpg)
 2. Double-click**Windows Memory Diagnostic** to run it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Memory Diagnostic](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-Memory-Diagnostic.jpg)
 3. Select**Restart now and check for problems (recommended)** to run the test immediately. Before restarting, you need to save your work and close any open programs. It may take some time to complete the test.  
 
 ![Check your computer for memory problems](https://images.drivereasy.com/wp-content/uploads/2021/04/Check-your-computer-for-memory-problems.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  See if there is something wrong with the memory on your PC. If everything is OK, open Device Manager to check if the “The software for this device has been blocked from starting because it is known to have problems with Windows (Code 48)” error persists.
 
@@ -192,24 +192,22 @@ See if this fix works. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-largest-collection-of-free-vector-graphics-portals/"><u>[New] Explore Largest Collection of Free Vector Graphics Portals</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-from-base-to-brilliance-comparing-gopro-hero5-black-and-hero4-silver/"><u>[New] From Base to Brilliance Comparing GoPro Hero5 Black and Hero4 Silver</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-exclusive-insta-stories-for-private-eyes/"><u>[Updated] In 2024, Exclusive Insta Stories for Private Eyes</u></a></li>
-<li><a href="https://common-error.techidaily.com/cursor-that-wont-quit-learn-how-to-make-it-stop-blinking/"><u>Cursor that Won't Quit? Learn How to Make It Stop Blinking</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-elimination-in-acpi-device-33a0/"><u>Error Elimination in Acpi: Device 33A0</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-signal-bcm20702a0-missing-driver/"><u>Error Signal: BCM20702A0 Missing Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-missing-touchpad-driver-dilemma/"><u>Fixing the Missing Touchpad Driver Dilemma</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-unsupported-devices-in-windows-installation/"><u>Fixing Unsupported Devices in Windows Installation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gtx-error-ninetyfive-and-code-43-comprehensive-solutions-for-the-latest-microsoft-operating-system/"><u>GTX Error NinetyFive & Code 43: Comprehensive Solutions for the Latest Microsoft Operating System</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/guida-passo-passo-su-come-effettuare-il-backup-del-tuo-server-windows-2012-in-un-hard-disk-fresco/"><u>Guida Passo-Passo Su Come Effettuare Il Backup Del Tuo Server Windows 2012 in Un Hard Disk Fresco</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-harvest-hidden-havens-in-minecraft-lands/"><u>How to Harvest Hidden Havens in Minecraft Lands</u></a></li>
-<li><a href="https://driver-error.techidaily.com/identification-and-troubleshooting-for-vintage-usb-composite-devices-solved/"><u>Identification & Troubleshooting for Vintage USB Composite Devices [SOLVED]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-tecno-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Tecno Face Lock?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/methods-and-steps-to-delete-your-chatgpt-trail/"><u>Methods and Steps to Delete Your ChatGPT Trail</u></a></li>
-<li><a href="https://driver-error.techidaily.com/pioneering-path-to-problem-solving-e52/"><u>Pioneering Path to Problem-Solving E52</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-wi-fi-signal-dropout-inspiron-14/"><u>Resolve Wi-Fi Signal Dropout, Inspiron 14</u></a></li>
-<li><a href="https://driver-error.techidaily.com/service-inf-issue-invalidity-overcome/"><u>Service INF Issue: Invalidity Overcome</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-correcting-unverified-device-drivers-in-windows/"><u>Step-by-Step Guide: Correcting Unverified Device Drivers in Windows</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-trim-vlc-files-on-mac-with-precision-no-quality-degradation-for-2024/"><u>Updated Trim VLC Files on Mac with Precision No Quality Degradation for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102830368-default-radeon-wattman-settings-have-crashed-and-been-restored-problem-solved/"><u>‘Default Radeon Wattman Settings Have Crashed and Been Restored’ Problem [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bsod-windows-irql-fixed/"><u>[BSOD]: Windows IRQL Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/completed-restoration-of-proper-system-operation-achieved/"><u>[COMPLETED] Restoration of Proper System Operation Achieved</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-how-to-engage-your-audience-in-live-discord-streams-easily/"><u>[New] 2024 Approved How to Engage Your Audience in Live Discord Streams Easily</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-a-step-by-step-guide-through-the-landscape-of-srt/"><u>[Updated] 2024 Approved A Step-by-Step Guide Through the Landscape of SRT</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-photoshop-insider-tips-for-novice-editors/"><u>[Updated] 2024 Approved Photoshop Insider Tips for Novice Editors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-s17-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo S17 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/acpi-device-id-resolution-venint33a0/"><u>ACPI Device ID Resolution: VEN_INT33A0</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-and-fixing-invalid-inf-installation-sections/"><u>Addressing and Fixing Invalid INF Installation Sections</u></a></li>
+<li><a href="https://driver-error.techidaily.com/battleye-service-launch-error-corrected-fixing-driver-load-difficulty-code-1450/"><u>BattlEye Service Launch Error Corrected - Fixing Driver Load Difficulty (Code 1450)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104941470-bluetooth-woes-on-windows-11-solve-your-qualcomm-atheros-driver-challenges-here/"><u>Bluetooth Woes on Windows 11? Solve Your Qualcomm Atheros Driver Challenges Here</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bus-mastery-achieved-post-win11-update/"><u>Bus Mastery Achieved Post-Win11 Update</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-motorola-edge-40-neo-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Motorola Edge 40 Neo Phone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-14-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 14 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-thriving-on-youtube-universal-studio-techniques-explained/"><u>In 2024, Thriving on YouTube Universal Studio Techniques Explained</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-the-art-of-growth-with-top-7-tiktok-strategies-for-2024/"><u>Mastering the Art of Growth with Top 7 TikTok Strategies for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/proven-strategies-for-flawless-xbox-video-capture-for-2024/"><u>Proven Strategies for Flawless Xbox Video Capture for 2024</u></a></li>
 </ul></div>
 

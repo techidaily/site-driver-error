@@ -1,7 +1,7 @@
 ---
 title: Windows Cannot Locate a Suitable Printer Driver [SOLVED]
-date: 2025-01-18T07:11:36.099Z
-updated: 2025-01-22T06:18:59.694Z
+date: 2025-01-22T19:41:45.633Z
+updated: 2025-01-29T20:15:39.974Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
  Keep getting a**Windows cannot locate a suitable printer driver** error message? Don’t worry – it’s often quite easy to fix…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for **Windows cannot locate a suitable printer driver**
 
  Here are 2 ways that have helped other users resolved the Windows cannot locate a suitable printer driver problem.Just work your way down the list until the problem is resolved.
@@ -25,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 2. **[Set printer share permissions](https://engwe.pxf.io/jrkzrn)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 1: Update your printer driver**
 
@@ -48,16 +48,12 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd27b9a107e9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4)**Restart** your computer and see if the **Windows cannot locate a suitable printer driver**  problem has been solved. If yes, then great! But if the error still pops up, you should try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 2: Set printer share permissions**
@@ -79,14 +75,14 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af921398c56a.png)
 2. Under**Printers** , right-click on**your printer** and click **Printer properties**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af6658ae1882.jpg)
 3. Click the**Sharing** tab, tick the box that says **Share this printer** , click **Apply** \->   **OK.**  
 
 **![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af922bdb75cb.png)**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Make sure you do steps 4-6 on**EVERY** computer that needs access to the printer.
 4. On your keyboard, press **the Windows logo key** and **R**  at the same time. Then copy & paste **control /name Microsoft.NetworkAndSharingCenter** into the box and click **OK**  .  
@@ -94,11 +90,15 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 5. Click**Change advanced sharing settings**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af66a50e9add.jpg)
 6. Under**Guest or Public (current profile)** , click the**Turn on network discovery** option and the **Turn on file and printer sharing** option. Click **Save changes**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af66bb7aee19.jpg)
 7. Restart your computer and check if the**Windows cannot locate a suitable printer driver** issue has been fixed.
@@ -125,19 +125,20 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-sync-up-songs-and-screenshots-on-snapchat/"><u>[New] In 2024, Sync-Up Songs and Screenshots on Snapchat</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ecrets-revealed-the-best-youtube-thumbnails-for-virality/"><u>[New] Secrets Revealed The Best YouTube Thumbnails for Virality</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-cheap-yet-quality-top-cam-lows-for-2024/"><u>[Updated] Cheap Yet Quality Top Cam Lows for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlocking-the-secrets-of-successful-instagram-posts-through-hashtags/"><u>[Updated] In 2024, Unlocking the Secrets of Successful Instagram Posts Through Hashtags</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-free-web-based-video-editing-tools-top-6-picks/"><u>Best Free Web-Based Video Editing Tools: Top 6 Picks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-steps-to-repair-non-functional-laptoppc-keyboards-article-name-358-characters/"><u>Easy Steps to Repair Non-Functional Laptop/PC Keyboards - Article Name — 358 Characters</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-overcome-blue-screen-of-death-issue-error-code-0x0000007e-on-win7/"><u>Guide to Overcome Blue Screen of Death Issue (Error Code: 0X0000007E) on Win7</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-league-of-legends-internet-disconnection-errors-solved/"><u>How to Overcome League of Legends Internet Disconnection Errors (Solved)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-reveal-missing-seagate-disk-on-windows/"><u>How to Reveal Missing Seagate Disk on Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oppo-reno-11-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Oppo Reno 11 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-video-recording-decisions-optimal-fps-is-it-30-or-60/"><u>In 2024, Video Recording Decisions Optimal FPS – Is It 30 or 60?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-aa-personalitynationalitycounty-lgbtqv-25-for-yout-database-thatdeeds-30-mildly-happy-to-find-the-gender/"><u>The A/A Personality_nationalityCounty LGBTQv 25% for Yout Database That'deed''s] ==#30 Mildly Happy-To Find the Gender</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-absent-cddvd-readers/"><u>Troubleshooting Absent CD/DVD Readers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-composing-captivating-cinematic-synopses/"><u>[Updated] Composing Captivating Cinematic Synopses</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-document-destruction-with-the-amazonbasics-6-sheet-cross-cut-shredder-in-depth-review/"><u>Affordable Document Destruction with the AmazonBasics 6-Sheet Cross Cut Shredder – In Depth Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-webcam-seamless-integration-with-windows-10-os/"><u>ASUS Webcam Seamless Integration with Windows 10 OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bcm20702a0-non-operational-driver-detected/"><u>BCM20702A0 Non-Operational Driver Detected</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-xs-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone XS Max to PC | Dr.fone</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/film-bearbetningsteknisk-guidmarkor-ladda-ner-och-battre-kameraprogram/"><u>Film Bearbetningsteknisk Guidmarkör - Ladda Ner Och Bättre Kameraprogram</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y100a-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo Y100A Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-14-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi 14 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-best-cameras-to-capture-slow-motion-videos/"><u>In 2024, Best Cameras to Capture Slow Motion Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/professional-windows-movie-splitter-tool-how-to-effortlessly-edit-your-films-on-windows-11/"><u>Professional Window's Movie Splitter Tool: How to Effortlessly Edit Your Films on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fixes-for-when-you-encounter-an-itbm-driver-missing-error/"><u>Quick Fixes for When You Encounter an ITBM Driver Missing Error</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-to-driver-problems-in-windows-11-8-or-7-get-your-devices-working-now/"><u>Step-by-Step Solution to Driver Problems in Windows 11, 8 or 7 – Get Your Devices Working Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stop-amd-crashing-easy-driver-repair/"><u>Stop AMD Crashing: Easy Driver Repair</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-fixes-bluetooth-radios-on-windows-resolved/"><u>Swift Fixes: Bluetooth Radios on Windows Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-driver-errors-for-optimal-device-performance-in-windows-versions/"><u>Troubleshooting Driver Errors for Optimal Device Performance in Windows Versions</u></a></li>
 </ul></div>
 

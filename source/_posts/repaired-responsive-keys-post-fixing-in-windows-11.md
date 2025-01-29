@@ -1,7 +1,7 @@
 ---
 title: "[Repaired]: Responsive Keys Post-Fixing in Windows 11"
-date: 2025-01-14T20:06:28.666Z
-updated: 2025-01-21T18:28:42.832Z
+date: 2025-01-23T18:14:55.146Z
+updated: 2025-01-29T19:14:09.593Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
  Fortunately, it’s easy to test: simply unplug the keyboard from the USB port and plug in another USB device – like a mouse or an external hard drive. If that device doesn’t work either, the USB port itself is the problem, and you should skip straight to [Method 4](https://pish-posh-baby.sjv.io/g1jg15) . If the device you just plugged in does work, then continue to [Method 2](https://zonlipartnershipprogram.pxf.io/b0rbxy) .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Adjust your keyboard settings
 
@@ -57,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
@@ -84,16 +84,12 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -119,12 +115,16 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 5: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
@@ -164,19 +164,17 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/disk-alert-addressing-100-usage-on-pcs/"><u>[Disk] Alert: Addressing 100% Usage on PCs</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-pinterest-a-players-sharing-snapchat-stories-for-2024/"><u>[New] Pinterest A-Players Sharing Snapchat Stories for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-best-dvd-players-for-your-portable-laptop/"><u>[Updated] Explore the Best DVD Players for Your Portable Laptop</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-step-by-step-guide-to-switch-game-recording/"><u>[Updated] In 2024, Step-by-Step Guide to Switch Game Recording</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ring-crisp-sound-a-guide-to-superior-audio-recording-for-2024/"><u>Capturing Crisp Sound A Guide to Superior Audio Recording for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-most-recent-non-detectable-external-hardware-conflict-on-a-pc-with-windows/"><u>Fixing the Most Recent Non-Detectable External Hardware Conflict on a PC with Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/future-ready-ergonomic-desk-surfaces/"><u>Future-Ready Ergonomic Desk Surfaces</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-15-pro-max-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 15 Pro Max? Complete Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-tips-acquiring-high-quality-backdrop-visuals/"><u>In 2024, Top Tips Acquiring High-Quality Backdrop Visuals</u></a></li>
-<li><a href="https://driver-error.techidaily.com/macbook-pro-air-unsupported-in-ubuntu-mate-2004-solved/"><u>MacBook Pro Air Unsupported in Ubuntu Mate 20.04 [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-device-manager-mishap-45/"><u>Resolved Device Manager Mishap #45</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-the-missing-driver-issue-on-your-touchpad/"><u>Solving the Missing Driver Issue on Your Touchpad</u></a></li>
-<li><a href="https://driver-error.techidaily.com/understanding-the-legacy-a-closer-look-at-traditional-usb-composite-devices/"><u>Understanding the Legacy: A Closer Look at Traditional USB Composite Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-sharpened-internet-video-views/"><u>[New] Mastering the Art of Sharpened Internet Video Views</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-adb-device-not-found-error-on-windows/"><u>[Solved] ADB Device Not Found Error on Windows</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-ensuring-quality-export-of-camera-images-for-snapchat-sharing/"><u>[Updated] In 2024, Ensuring Quality Export of Camera Images for Snapchat Sharing</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-harmonizing-audioscapevisumedia-network/"><u>2024 Approved Harmonizing Audioscape/Visumedia Network</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-not-found-bcm20702a0/"><u>Driver Not Found: BCM20702A0</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-the-future-with-jacos-smartpro-rechargeable-tire-pump-a-review-on-its-power-and-portability/"><u>Experience the Future with Jaco's SmartPro Rechargeable Tire Pump: A Review on Its Power and Portability</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-motorola-g54-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Motorola G54 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-laptop-speakers-silent-solve-the-problem-with-these-steps-for-windows-10-users/"><u>HP Laptop Speakers Silent? Solve the Problem with These Steps for Windows 10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-for-noisy-audio-in-windows-operating-systems-10-and-7/"><u>Solution for Noisy Audio in Windows Operating Systems (10 and 7)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-coming-of-sony-automobile-afela-what-we-can-infer-from-the-latest-rumors-on-price-features-and-launch-window/"><u>The Coming of Sony Automobile AFELA: What We Can Infer From the Latest Rumors on Price, Features & Launch Window</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-device-misconfiguration-insights-into-error-code-1/"><u>Troubleshooting and Solving Device Misconfiguration: Insights Into Error Code 1</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-non-functional-dts-truehd-in-windows-post-failed-update-solution-found/"><u>Troubleshooting Non-Functional DTS™ TrueHD in Windows Post Failed Update – Solution Found!✅</u></a></li>
 </ul></div>
 

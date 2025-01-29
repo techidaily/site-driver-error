@@ -1,7 +1,7 @@
 ---
 title: Reactivating Silenced Microphone/Headset on Windows 10
-date: 2025-01-13T03:36:34.643Z
-updated: 2025-01-15T17:40:03.531Z
+date: 2025-01-23T19:13:49.476Z
+updated: 2025-01-29T16:00:36.911Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/c06aefbb181f576852b2577ec9d3544ebd6635b5e
 **Note:** Before we go, plug your headset into different USB ports and replace your USB headset with another one to check if the issue is due to the headset. If it doesn’t work either, then go with the fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Do not plug your USB headset while Windows 10 is booting
@@ -47,7 +47,7 @@ Check if your headset works properly now.
 ```` ```` ````
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Click **Hardware and Sound** .  
@@ -63,6 +63,10 @@ Check if your headset works properly now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After that, check if your headset works properly now.
 
  If you fail to find the Hardware and Devices Troubleshooter in the Control Panel, that’s probably because your computer version is after **Windows 10 build 1809** . The version has removed the Hardware and Devices Troubleshooter. Don’t worry, you can still run the Hardware and Devices Troubleshooter in this way:
@@ -71,19 +75,11 @@ After that, check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_15-52-49.jpg)
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Relaunch your computer and check whether the issue is resolved or not.````
 
@@ -94,7 +90,7 @@ After that, check if your headset works properly now.
 2. Highlight your headset, then click **Set** **Default** . Click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
@@ -102,7 +98,7 @@ After that, check if your headset works properly now.
 ```` ```` ```` Check if your headset works properly now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
@@ -121,6 +117,10 @@ After that, check if your headset works properly now.
  Note: You can also do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Sound-driver.jpg)
 4. Restart your computer and check to see if your headset works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -143,24 +143,20 @@ After that, check if your headset works properly now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-podcasters-playground-unleashing-full-potential-in-video-and-audio-recording-on-zoom/"><u>[New] 2024 Approved Podcaster's Playground Unleashing Full Potential in Video and Audio Recording on Zoom</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-top-50plus-viral-tiktok-tags-for-higher-engagement/"><u>[New] 2024 Approved Top 50+ Viral TikTok Tags for Higher Engagement</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-clear-sound-recording-without-mic-techniques/"><u>[New] Mastering Clear Sound Recording Without Mic Techniques</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-fix-facing-issues-with-rtx-gaming-on-pc-heres-how-we-tackled-it/"><u>[Quick-Fix] Facing Issues with RTX Gaming on PC - Here's How We Tackled It</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-smooth-soundscape-fading-techniques-with-lumafusion/"><u>[Updated] In 2024, Smooth Soundscape Fading Techniques with Lumafusion</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-overlooked-masterpieces-unique-free-speech-to-text-apps-for-mac/"><u>[Updated] Overlooked Masterpieces Unique Free Speech-to-Text Apps for Mac</u></a></li>
-<li><a href="https://driver-error.techidaily.com/dissolve-ongoing-bluetooth-link-issue-in-windows/"><u>Dissolve Ongoing Bluetooth Link Issue in Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphical-access-restriction-in-win11-os/"><u>Graphical Access Restriction in Win11 OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-make-sure-your-temp-folder-is-valid-error-in-windows-11/"><u>How to Fix the Make Sure Your Temp Folder Is Valid Error in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-usb-drive-not-showing-up-in-windows-11-issue/"><u>How to Fix USB Drive Not Showing Up in Windows 11 Issue</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-photo-transformation-apps-for-2024/"><u>Mastering the Art of Photo Transformation Apps for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-lenovo-bluetooth-issues-in-win11/"><u>Overcoming Lenovo Bluetooth Issues in Win11</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-sound-alteration-apps-for-vloggers-for-2024/"><u>Prime Sound Alteration Apps for Vloggers for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-guide-to-taming-nonstop-buzzing-of-bluetooth-devices-on-latest-os-update-fix-revealed/"><u>Quick Guide to Taming Nonstop Buzzing of Bluetooth Devices on Latest OS Update ![Fix Revealed]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-error-keyboards-not-working-in-windows/"><u>System Error: Keyboards Not Working in Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-80211n-broadcom-wi-fi-adapter-now-working-again/"><u>Win 802.11N Broadcom Wi-Fi Adapter Now Working Again</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-upgrading-deathadder-hat-drivers/"><u>Win11: Upgrading DeathAdder HAT Drivers</u></a></li>
-<li><a href="https://win-online.techidaily.com/yl-computings-lip-shapes-collection-premium-lips-outline-pics-and-digital-canvases/"><u>YL Computing's Lip Shapes Collection: Premium Lips Outline Pics & Digital Canvases</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-hands-on-guide-flipping-film-with-vlc-software-for-2024/"><u>[New] Hands-On Guide Flipping Film with VLC Software for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-smooth-operations-leading-windows-phones-videos/"><u>[Updated] In 2024, Smooth Operations Leading Windows Phones Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-twilight-to-night-iphone-photography-tips/"><u>[Updated] Twilight to Night IPhone Photography Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-understanding-hdr-techniques-in-modern-photoshoots-for-2024/"><u>[Updated] Understanding HDR Techniques in Modern Photoshoots for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-list-free-virtual-meetings-plus-shared-screens/"><u>2024 Approved The Ultimate List FREE Virtual Meetings + Shared Screens</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-mouse-disconnects-without-warning/"><u>Bluetooth Mouse Disconnects Without Warning</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/como-aplicar-el-efecto-vignette-en-fotografias/"><u>Cómo Aplicar El Efecto Vignette en Fotografías</u></a></li>
+<li><a href="https://driver-error.techidaily.com/complete-guide-updating-and-downloading-drivers-for-your-hp-envy-20-laptop/"><u>Complete Guide: Updating and Downloading Drivers for Your HP Envy 20 Laptop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-invalid-service-inf-details/"><u>Correcting Invalid Service INF Details</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cross-version-windows-hardware-installers/"><u>Cross-Version Windows Hardware Installers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhancing-rig-protection-detailed-analysis-on-choosing-an-ideal-apc-gaming-ups/"><u>Enhancing Rig Protection: Detailed Analysis on Choosing an Ideal APC Gaming UPS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-13-ultra-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi 13 Ultra to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-suction-solutions-expertly-tested-leading-irobot-vacuums-of-2024-reviewed-zdnet-insights/"><u>Innovative Suction Solutions: Expertly Tested Leading iRobot Vacuums of 2024 Reviewed - ZDNET Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098054827-qualcomm-atheros-bluetooth-driver-fix-for-windows-11-expert-tips-and-tricks/"><u>Qualcomm Atheros Bluetooth Driver Fix for Windows 11: Expert Tips and Tricks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105186418-quick-fixes-for-overcoming-the-missing-itbm-driver-error-get-back-online-now/"><u>Quick Fixes for Overcoming the Missing ITBM Driver Error – Get Back Online Now</u></a></li>
 </ul></div>
 
