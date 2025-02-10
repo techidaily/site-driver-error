@@ -1,7 +1,7 @@
 ---
 title: "Solved: Microsoft Visual C++ Runtime Library Error in Windows 11"
-date: 2025-01-22T16:40:29.280Z
-updated: 2025-01-29T19:18:33.598Z
+date: 2025-02-06T21:23:26.690Z
+updated: 2025-02-09T23:42:33.391Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 [**Other options**](https://aidotcom.pxf.io/nkz4kv)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Reinstall display driver
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
  1) On your keyboard, press**Windows key** and**X** at the same time, then choose**Device Manager** from the list of choice.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861e2f4a55db.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Locate and expand**Display adapters** category.
   
@@ -53,13 +49,13 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861e17729f2c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When prompted with the notification, tick the box for D**elete the driver software for this device** and hit**OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861e1aebe48e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer when the uninstall finishes.
   
@@ -85,11 +81,11 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965ed8fabadd.jpg)
 
- Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ## 3: Perform a Clean boot
 
@@ -101,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861de6d9c40f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On the same window, tick the box for**Hide all Microsoft services** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861dea18f75c.jpg)
@@ -110,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861dee39618b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Then hit**Apply** and**OK** to close the System Configuration window.
@@ -148,19 +148,21 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-sharing-joy-iphone-memes/"><u>[New] Sharing Joy IPhone Memes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-leading-plot-crafting-hub-for-2024/"><u>[Updated] Leading Plot Crafting Hub for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-download-thrustmaster-t300-controller-drivers-for-modern-windows-pcs/"><u>Easy Download: Thrustmaster T300 Controller Drivers for Modern Windows PCs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-an-unresponsive-hp-wireless-keyboard/"><u>How to Resolve an Unresponsive HP Wireless Keyboard</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-lava-yuva-2-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Lava Yuva 2 FRP Bypass Instantly</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mp4-revolutionized-by-srt-an-in-depth-tutorial/"><u>MP4 Revolutionized by SRT An In-Depth Tutorial</u></a></li>
-<li><a href="https://driver-error.techidaily.com/razer-drivers-update-guide-for-windows-11-users/"><u>Razer Drivers Update Guide for Windows 11 Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rediscovering-discarded-chatgpt-talks/"><u>Rediscovering Discarded ChatGPT Talks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/remedy-restoring-working-right-click-on-windows-11-touchpad/"><u>Remedy: Restoring Working Right-Click on Windows 11 Touchpad</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restoring-audio-connection-for-usb-speakersmicro-on-win10/"><u>Restoring Audio Connection for USB Speakers/Micro on WIN10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restricted-use-of-graphic-device-in-windows-11/"><u>Restricted Use of Graphic Device in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win10-disallows-hardware-graphic-integration/"><u>Win10 Disallows Hardware Graphic Integration</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728493150047-windows-10/"><u>Windows 10 システムをバックアップしたあとにおかれているエラーが修正されます：解決策集</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-access-royalty-free-beats-for-your-vlog-and-more/"><u>[New] Access Royalty-Free Beats for Your Vlog & More</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-elegant-appearance/"><u>[New] The Art of Elegant Appearance</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-decoding-the-divergence-360-film-vs-virtual-reality/"><u>[Updated] 2024 Approved Decoding the Divergence 360° Film Vs. Virtual Reality</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-crafting-a-digital-identity-with-inspiring-instagram-captions/"><u>[Updated] Crafting a Digital Identity with Inspiring Instagram Captions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-turboinsta-video-boosting-online-and-mobile-fixes-for-2024/"><u>[Updated] TurboInsta Video Boosting Online & Mobile Fixes for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-navigating-the-complexities-of-facebook-slideshow-tools/"><u>2024 Approved Navigating the Complexities of Facebook Slideshow Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-fix-addressing-missing-coprocessor-drivers-in-your-windows-10-machine/"><u>Comprehensive Fix: Addressing Missing Coprocessor Drivers in Your Windows 10 Machine</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-compatibility-error-wudfrd-loading-failure/"><u>Device Compatibility Error: WudfRd Loading Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/disassembling-and-reassembling-windows-app-settings-for-success/"><u>Disassembling and Reassembling Windows App Settings for Success</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-to-fix-amd-drivers-keep-crashing-issue/"><u>Easy To Fix AMD Drivers Keep Crashing Issue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-6-tech-for-cross-lingual-content-shift-for-2024/"><u>Expert 6 Tech for Cross-Lingual Content Shift for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-troubleshooting-expert-tips-for-windows-11-users/"><u>GTX 950 Code 43 Troubleshooting: Expert Tips for Windows 11 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-tap-trouble-on-win11s-elan-pad/"><u>Overcoming the Tap Trouble on Win11's Elan Pad</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stop-amd-driver-problems-immediately/"><u>Stop AMD Driver Problems Immediately</u></a></li>
+<li><a href="https://driver-error.techidaily.com/task-management-overcoming-disk-saturation-on-win11/"><u>Task Management: Overcoming Disk Saturation on Win11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-s17e-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo S17e to iPhone 14/15 | Dr.fone</u></a></li>
 </ul></div>
 

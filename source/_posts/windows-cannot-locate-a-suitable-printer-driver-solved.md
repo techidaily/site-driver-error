@@ -1,7 +1,7 @@
 ---
 title: Windows Cannot Locate a Suitable Printer Driver [SOLVED]
-date: 2025-01-22T19:41:45.633Z
-updated: 2025-01-29T20:15:39.974Z
+date: 2025-02-07T03:04:40.724Z
+updated: 2025-02-09T23:51:20.511Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
  Keep getting a**Windows cannot locate a suitable printer driver** error message? Don’t worry – it’s often quite easy to fix…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for **Windows cannot locate a suitable printer driver**
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd27b9a107e9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4)**Restart** your computer and see if the **Windows cannot locate a suitable printer driver**  problem has been solved. If yes, then great! But if the error still pops up, you should try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: Set printer share permissions**
 
@@ -76,11 +76,15 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 2. Under**Printers** , right-click on**your printer** and click **Printer properties**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af6658ae1882.jpg)
 3. Click the**Sharing** tab, tick the box that says **Share this printer** , click **Apply** \->   **OK.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af922bdb75cb.png)**  
 
@@ -89,19 +93,15 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af66a1b5c069.png)
 5. Click**Change advanced sharing settings**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af66a50e9add.jpg)
 6. Under**Guest or Public (current profile)** , click the**Turn on network discovery** option and the **Turn on file and printer sharing** option. Click **Save changes**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af66bb7aee19.jpg)
 7. Restart your computer and check if the**Windows cannot locate a suitable printer driver** issue has been fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -125,20 +125,20 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-composing-captivating-cinematic-synopses/"><u>[Updated] Composing Captivating Cinematic Synopses</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/affordable-document-destruction-with-the-amazonbasics-6-sheet-cross-cut-shredder-in-depth-review/"><u>Affordable Document Destruction with the AmazonBasics 6-Sheet Cross Cut Shredder – In Depth Review</u></a></li>
-<li><a href="https://driver-error.techidaily.com/asus-webcam-seamless-integration-with-windows-10-os/"><u>ASUS Webcam Seamless Integration with Windows 10 OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bcm20702a0-non-operational-driver-detected/"><u>BCM20702A0 Non-Operational Driver Detected</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-xs-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone XS Max to PC | Dr.fone</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/film-bearbetningsteknisk-guidmarkor-ladda-ner-och-battre-kameraprogram/"><u>Film Bearbetningsteknisk Guidmarkör - Ladda Ner Och Bättre Kameraprogram</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y100a-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo Y100A Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-14-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi 14 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-best-cameras-to-capture-slow-motion-videos/"><u>In 2024, Best Cameras to Capture Slow Motion Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/professional-windows-movie-splitter-tool-how-to-effortlessly-edit-your-films-on-windows-11/"><u>Professional Window's Movie Splitter Tool: How to Effortlessly Edit Your Films on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-fixes-for-when-you-encounter-an-itbm-driver-missing-error/"><u>Quick Fixes for When You Encounter an ITBM Driver Missing Error</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solution-to-driver-problems-in-windows-11-8-or-7-get-your-devices-working-now/"><u>Step-by-Step Solution to Driver Problems in Windows 11, 8 or 7 – Get Your Devices Working Now</u></a></li>
-<li><a href="https://driver-error.techidaily.com/stop-amd-crashing-easy-driver-repair/"><u>Stop AMD Crashing: Easy Driver Repair</u></a></li>
-<li><a href="https://driver-error.techidaily.com/swift-fixes-bluetooth-radios-on-windows-resolved/"><u>Swift Fixes: Bluetooth Radios on Windows Resolved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-driver-errors-for-optimal-device-performance-in-windows-versions/"><u>Troubleshooting Driver Errors for Optimal Device Performance in Windows Versions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-background-screen-video-recording-full-guide/"><u>[New] Background Screen Video Recording Full Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-ultimate-display-guide-the-best-monitors-for-pixel-enthusiasts-for-2024/"><u>[New] Ultimate Display Guide - The Best Monitors for Pixel Enthusiasts for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-10-record-screen-and-upload-to-youtube-tools-pc-mac-online/"><u>[Updated] 10 Record Screen and Upload to YouTube Tools [PC, Mac, Online]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-earnings-escalate-500-subscriber-marker-achieved/"><u>[Updated] 2024 Approved Earnings Escalate 500-Subscriber Marker Achieved</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-follow-the-footsteps-of-fan-driven-forums/"><u>[Updated] 2024 Approved Follow the Footsteps of Fan-Driven Forums</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unlock-iphone-photo-potential-the-art-of-reflection/"><u>2024 Approved Unlock iPhone Photo Potential The Art of Reflection</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-methods-to-install-latest-drivers-on-your-hp-envy-20-laptop/"><u>Easy Methods to Install Latest Drivers on Your HP Envy 20 Laptop</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-started-freshly-downloading-and-updating-hp-envy-4500-printer-drivers-on-pcs/"><u>Getting Started: Freshly Downloading & Updating HP Envy 4500 Printer Drivers on PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-poco-c50-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Poco C50 Phone | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/harmonized-device-errors-correctly/"><u>Harmonized Device Errors Correctly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/introducing-the-ultimate-portable-server-solution-packed-with-up-to-256-cores-ampere-altra-cpu-and-an-impressive-combination-of-480tb-nvme-and-4tb-ram-for-o85/"><u>Introducing the Ultimate Portable Server Solution – Packed with Up to 256 Cores, Ampere Altra CPU, and an Impressive Combination of 480TB NVMe & 4TB RAM for Optimal Performance</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quelled-drive-anomaly-scenarios/"><u>Quelled Drive Anomaly Scenarios</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-the-code-43-problem-with-your-nvidia-gpu-in-windows-10/"><u>Troubleshooting and Solving the 'Code 43' Problem with Your Nvidia GPU in Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turning-off-the-subtitles-functionality-on-amazons-online-video-platform/"><u>Turning Off the Subtitles Functionality on Amazon's Online Video Platform</u></a></li>
+<li><a href="https://driver-error.techidaily.com/upgrade-hat-support-with-newest-deathadder-driver/"><u>Upgrade HAT Support with Newest DeathAdder Driver</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Elan Driver Woes on Windows 11
-date: 2025-01-24T17:27:15.755Z
-updated: 2025-01-29T17:37:50.346Z
+date: 2025-02-05T02:15:38.512Z
+updated: 2025-02-10T00:45:39.478Z
 tags:
   - win11
   - win10
@@ -31,26 +31,26 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-settings-devices.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Click **Mouse & touchpad,**  then click **Additional mouse options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/additional-mouse-options.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Go to the furthest right option (the option could be **Device Settings** or **ELAN**), and make sure your touchpad is enabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2: Reinstall your drivers
@@ -81,20 +81,20 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Right-clickyour computer icon and click **Device installation settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/never-install-driver-software-from-windows-update-600x441.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [Touchpad](https://bellelily.pxf.io/m5azgm)
@@ -114,22 +114,18 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://mondly-stories.techidaily.com/be-bilingual-today-learn-german-from-popular-show-dark/"><u>Be Bilingual Today! Learn German From Popular Show, Dark</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enabling-hardware-detection-for-seagate-external/"><u>Enabling Hardware Detection for Seagate External</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-incompatibility-alerts-unsupported-hard-devices-on-idt-software-platforms/"><u>Fix Incompatibility Alerts: Unsupported Hard Devices on IDT Software Platforms</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2210478-9780007428977-freaky-dreams/"><u>Freaky Dreams | Free Book</u></a></li>
-<li><a href="https://extra-information.techidaily.com/harness-the-sun-and-bulbs-for-stellar-iphone-photos/"><u>Harness the Sun and Bulbs for Stellar Iphone Photos</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-properly-download-and-set-up-samsungs-960-evo-m2-ssd-drivers-in-windows/"><u>How to Properly Download and Set Up Samsung's 960 EVO M.2 SSD Drivers in Windows</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-find-rich-ambiance-for-video-content/"><u>In 2024, Find Rich Ambiance for Video Content!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-ultimate-guide-to-choosing-a-screen-recorder-for-learning/"><u>In 2024, Ultimate Guide to Choosing a Screen Recorder for Learning</u></a></li>
-<li><a href="https://driver-error.techidaily.com/lenovos-blue-tooth-troubles-win11-remedied-strategies/"><u>Lenovo's Blue-Tooth Troubles, Win11 Remedied Strategies</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-win-strategies-for-windows-ndis-issues/"><u>Quick-Win Strategies for Windows NDIS Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reinstating-your-touchpad-driver-recovery-unveiled/"><u>Reinstating Your Touchpad - Driver Recovery Unveiled</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-disappearing-optical-drives-on-win11/"><u>Solve Disappearing Optical Drives on Win11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-resolve-missing-d3dx925dll-error-on-your-pc/"><u>Steps to Resolve Missing d3dx9_25.dll Error on Your PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-barred-from-using-win10s-graphics-hardware/"><u>System Barred From Using Win10's Graphics Hardware</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/transform-your-footage-best-free-android-editors-reviewed-for-2024/"><u>Transform Your Footage Best Free Android Editors Reviewed for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-the-radeon-wattman-defaults-crash-recovery-expert-solutions/"><u>Troubleshooting the 'Radeon WattMan Defaults Crash Recovery': Expert Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-online-promotion-top-5-proven-methods-for-maximum-impact-on-youtube/"><u>[New] Mastering Online Promotion Top 5 Proven Methods for Maximum Impact on YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nveiling-8-best-tools-for-youtube-to-avi-conversion/"><u>[New] Unveiling 8 Best Tools for YouTube to AVI Conversion</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-the-secrets-to-thriving-with-youtube-adsense/"><u>[New] Unveiling the Secrets to Thriving With YouTube AdSense</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96512276-9781462905898-feng-shui-style/"><u>Feng Shui Style | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-elan-touchscreen-troubles-in-w11-os/"><u>Fixing Elan Touchscreen Troubles in W11 OS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y55s-5g-2023-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo Y55s 5G (2023) to New Android? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-launchpad-gear-list-enhance-your-beginners-gopro-journey/"><u>In 2024, Launchpad Gear List - Enhance Your Beginner's GoPro Journey</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oppo-k11-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Oppo K11 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reducing-inertia-induced-jello-in-uav-videos/"><u>In 2024, Reducing Inertia-Induced Jello in UAV Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/master-the-tech-a-comprehensive-guide-for-starting-windows-8-in-safe-mode-and-removing-gpu-software/"><u>Master the Tech: A Comprehensive Guide for Starting Windows 8 in Safe Mode and Removing GPU Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-access-denied-errors-during-usb-device-installation/"><u>Resolving 'Access Denied' Errors During USB Device Installation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-fix-for-the-gtx-950-code-43-error-on-your-new-windows-11-pc-success-stories-and-tips/"><u>Step-by-Step Fix for the GTX 950 'Code 43' Error on Your New Windows 11 PC: Success Stories and Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/zoom-for-beginners-managing-breakout-groups-for-2024/"><u>Zoom for Beginners Managing Breakout Groups for 2024</u></a></li>
 </ul></div>
 

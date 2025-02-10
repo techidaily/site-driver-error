@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Windows Not Supporting Nvidia Cards"
-date: 2025-01-26T17:23:41.906Z
-updated: 2025-01-29T18:53:22.898Z
+date: 2025-02-03T20:40:32.661Z
+updated: 2025-02-09T20:45:19.517Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
  If you ever encounter the**graphics card not detected on Device Manager** problem, you’re certainly not alone. But don’t worry, it can be easily fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for Nvidia Graphics Cards Not Detected
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Show hidden devices
 
  If you recently got a new graphics card for your computer, then there’s a good chance it shows up as hidden. So we might have to un-hide it. Here’s a quick run-down:
@@ -40,24 +44,12 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91effe026eb.png)
 2. Click **View**   and then click **Show hidden devices** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/windows11showhiddendevices.jpg)
 3. Click **Action** \> **Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9234ccb8e93.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Check if your Nvidia graphics driver shows up under the **Display adapters** category as a gray-out device, i.e. it looks pale compared to other functioning devices. If so, right-click your Nvidia display card and select**Uninstall device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-30.png)
 5. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-32.png)
 6. Then restart your computer.
@@ -82,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Update your BIOS
 
 **BIOS**   (**Basic Input/Output System**) performs the hardware initialization and jumpstarts the processes during the booting process of your computer. So we can try updating our **BIOS**   to see if it solves this   **graphics card not showing up in Device Manager in Windows 10/8/7**   issue.
@@ -94,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 * **[How to Update BIOS in Windows 11](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Repair corrupted system files
 
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -137,20 +137,24 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/completely-fixed-system-non-bootable-after-installation/"><u>[COMPLETELY FIXED] System Non-Bootable After Installation</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-premium-picks-recommended-portals-for-tapping-snapchat-tunes/"><u>[New] Premium Picks Recommended Portals for Tapping Snapchat Tunes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-guide-to-getting-1000-subscribers-for-your-youtube-channel/"><u>[Updated] Guide to Getting 1000 Subscribers for Your YouTube Channel</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-art-of-refining-published-videos-on-youtube/"><u>[Updated] In 2024, The Art of Refining Published Videos on YouTube</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/2024-approved-video-aspect-ratio-how-to-adjust-and-customize/"><u>2024 Approved Video Aspect Ratio How to Adjust and Customize</u></a></li>
-<li><a href="https://driver-error.techidaily.com/car-charge-denied-by-device/"><u>Car Charge Denied by Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-repair-missing-or-corrupt-btballoondll-files/"><u>Effective Strategies to Repair Missing or Corrupt BTBalloon.DLL Files</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-your-wireless-keyboard-issues-on-windows-step-by-step-guide/"><u>Fix Your Wireless Keyboard Issues on Windows – Step-by-Step Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/professional-touch-applying-filters-to-pcmobile-videos-for-2024/"><u>Professional Touch Applying Filters to PC/Mobile Videos for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/remedying-recurrent-nvidia-driver-errors/"><u>Remedying Recurrent Nvidia Driver Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/seagate-disk-vanished-on-windows-10-heres-how-to-fetch-it-back/"><u>Seagate Disk Vanished on Windows 10? Here's How to Fetch It Back</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlocking-full-touchpad-potential-in-w11-with-elan/"><u>Unlocking Full Touchpad Potential in W11 with Elan</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlocking-potential-in-fb-instream-ad-engagement-metrics-for-2024/"><u>Unlocking Potential in FB Instream Ad Engagement Metrics for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wacoms-victory-over-unplugged-devices/"><u>Wacom's Victory Over Unplugged Devices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/web3gpwmv/"><u>ムリョウの無償Web3GPからWMVへの変換 - 動画編集ツール</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-filmmakers-guide-to-mastering-green-screen-technology/"><u>[New] A Filmmaker's Guide to Mastering Green Screen Technology</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-download-friends-8-top-rated-free-fb-extractors/"><u>[Updated] 2024 Approved Download Friends 8 Top-Rated Free FB Extractors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-revolutionize-visual-content-leading-montage-tools-for-phones-for-2024/"><u>[Updated] Revolutionize Visual Content Leading Montage Tools for Phones for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-step-by-step-screen-record-your-win10-game-log/"><u>2024 Approved Step-by-Step Screen Record Your Win10 Game Log</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-secrets-to-unhiding-apps-on-your-iphone-device/"><u>Discover the Secrets to Unhiding Apps on Your iPhone Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diy-guide-overcoming-gtx-graphics-problems-error-43-in-windows-11-systems/"><u>DIY Guide: Overcoming GTX Graphics Problems (Error 43) in Windows 11 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-resolved-code-48-in-devmgr/"><u>Error Resolved: Code 48 in DevMgr</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ethernet-controller-bug-in-win11-realtek-solution/"><u>Ethernet Controller Bug in Win11 - Realtek Solution</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/fastest-8-tech-to-grab-screen-frames/"><u>Fastest 8 Tech to Grab Screen Frames</u></a></li>
+<li><a href="https://driver-error.techidaily.com/get-your-android-on-pc-samsung-edition/"><u>Get Your Android on PC - Samsung Edition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-radeon-wattman-defaults-crash-and-recovery-issue-a-step-by-step-guide/"><u>How to Fix the 'Radeon WattMan Defaults Crash & Recovery' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-sidestep-personalized-podcast-suggestions-in-spotify/"><u>In 2024, Sidestep Personalized Podcast Suggestions in Spotify</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-viral-visuals-photos-and-their-lives/"><u>In 2024, Viral Visuals Photos and Their Lives</u></a></li>
+<li><a href="https://driver-error.techidaily.com/neutralized-hardware-misreadings/"><u>Neutralized Hardware Misreadings</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-rtx-games-performance-unmet-quick-fix/"><u>Nvidia RTX Games Performance Unmet - Quick Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-errors-with-invalid-hardware-drivers-in-computer-systems/"><u>Overcoming Errors with Invalid Hardware Drivers in Computer Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/precision-movement-no-lag-full-control/"><u>Precision Movement, No Lag, Full Control</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-basics-what-does-rtx-in-gpus-mean/"><u>Understanding the Basics: What Does RTX in GPUs Mean?</u></a></li>
 </ul></div>
 

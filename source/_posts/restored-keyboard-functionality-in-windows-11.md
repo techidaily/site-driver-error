@@ -1,7 +1,7 @@
 ---
 title: "[Restored] Keyboard Functionality in Windows 11"
-date: 2025-01-26T20:31:56.510Z
-updated: 2025-01-29T20:27:22.880Z
+date: 2025-02-05T20:44:06.245Z
+updated: 2025-02-10T05:52:45.233Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
  Fortunately, it’s easy to test: simply unplug the keyboard from the USB port and plug in another USB device – like a mouse or an external hard drive. If that device doesn’t work either, the USB port itself is the problem, and you should skip straight to [Method 4](https://pish-posh-baby.sjv.io/g1jg15) . If the device you just plugged in does work, then continue to [Method 2](https://zonlipartnershipprogram.pxf.io/b0rbxy) .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Adjust your keyboard settings
 
@@ -61,9 +53,17 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -79,21 +79,17 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -117,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ## Method 5: Switch to ChromeOS
@@ -124,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
@@ -164,20 +164,20 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-youtube-mastery-elevating-your-channel-with-strategic-spotlight-techniques/"><u>[New] 2024 Approved YouTube Mastery Elevating Your Channel with Strategic Spotlight Techniques</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-internal-screen-recording-huawei-mate-1020-and-p-series-devices-p20-p10/"><u>[Updated] 2024 Approved Internal Screen Recording Huawei Mate 10/20 & P Series Devices (P20, P10)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-guiding-steps-for-effective-gopro-time-lapse-capture/"><u>[Updated] Guiding Steps for Effective GoPro Time-Lapse Capture</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104186424-6-given-the-following-python-code/"><u>6%. Given the Following Python Code.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-face-off-my-snapchat-vs-bings-skype-bot/"><u>AI Face-Off: My Snapchat vs Bing's Skype Bot</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/curated-selection-5-superior-android-ps2-game-emulators-for-2024/"><u>Curated Selection 5 Superior Android PS2 Game Emulators for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-your-perfect-fit-amd-drivers-with-one-click/"><u>Download Your Perfect Fit AMD Drivers with One Click!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/headset-not-charging-or-functioning-win10-fixes/"><u>Headset Not Charging or Functioning: WIN10 Fixes</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-bsod-error-code-0xc000021a-in-windows-11-and-8-solutions-inside/"><u>How to Fix the BSOD Error Code 0xC000021A in Windows 11 and 8 - Solutions Inside!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/identifying-opengl-enabled-icd-graphics-cards/"><u>Identifying OpenGL-Enabled ICD Graphics Cards</u></a></li>
-<li><a href="https://driver-error.techidaily.com/immediate-fix-guide-unplugged-mtp-drivers/"><u>Immediate Fix Guide: Unplugged MTP Drivers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/superior-video-quality-best-webcams-for-zoom-excellence/"><u>Superior Video Quality Best Webcams for Zoom Excellence</u></a></li>
-<li><a href="https://driver-error.techidaily.com/swift-windows-ndis-problem-solving-techniques/"><u>Swift Windows NDIS Problem Solving Techniques</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/undamentals-of-income-for-t-series-on-youtube-for-2024/"><u>The Fundamentals of Income for T-Series on YouTube for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/usb3-interrupt-continuity-restored-post-update/"><u>USB3 Interrupt Continuity Restored Post-Update</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-auto-loading-dilemma/"><u>[Resolved] Auto-Loading Dilemma</u></a></li>
+<li><a href="https://windows11.techidaily.com/augmenting-your-window-11-with-these-6-pioneering-android-apps/"><u>Augmenting Your Window 11 with These 6 Pioneering Android Apps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/discover-cutting-edge-hardware-the-toms-guide-to-tech-excellence/"><u>Discover Cutting-Edge Hardware - The Tom's Guide to Tech Excellence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratis-converter-kunt-u-wac-veegels-omzetten-in-wav-vanaf-toepassingen-van-movavi/"><u>Gratis Converter - Kunt U WAC-Veegels Omzetten In WAV Vanaf Toepassingen Van Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/harmonizing-bluetooth-lenovo-with-windows-10/"><u>Harmonizing Bluetooth, Lenovo with Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-harnessing-youtubes-true-potential-in-studio/"><u>In 2024, Harnessing YouTube's True Potential in Studio</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-meme-monster-maestro/"><u>In 2024, Meme Monster Maestro</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-open365-your-step-by-step-manual-on-leveraging-an-open-source-replacement-for-office-365-services/"><u>Mastering Open365 - Your Step-by-Step Manual on Leveraging an Open Source Replacement for Office 365 Services</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mend-wireless-module-issue-in-latitude-laptop/"><u>Mend Wireless Module Issue in Latitude Laptop</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-dvd/"><u>PC用 DVD動画抽出手順ガイド</u></a></li>
+<li><a href="https://driver-error.techidaily.com/realtek-adapter-malfunction-after-win11-rollout-fixed/"><u>Realtek Adapter Malfunction After Win11 Rollout Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconnecting-all-wacoms-happy-moment/"><u>Reconnecting All: Wacom's Happy Moment</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategies-to-enhance-testimonial-credibility-and-impact/"><u>Strategies to Enhance Testimonial Credibility and Impact</u></a></li>
 </ul></div>
 

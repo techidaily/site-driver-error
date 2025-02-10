@@ -1,7 +1,7 @@
 ---
 title: "Win10 Solution: Lenovo BT Driver Malfunction"
-date: 2025-01-23T16:14:53.190Z
-updated: 2025-01-29T19:49:12.525Z
+date: 2025-02-03T22:58:30.187Z
+updated: 2025-02-09T21:20:45.861Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 * [Option 3: Update Bluetooth driver](https://lightailing.sjv.io/k0ez0m)
 * [Option 4: Perform a refresh](https://collovinc.sjv.io/jrkzwp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Enable Bluetooth hardware
 
 **NOTE** : Please make sure that your computer has the necessary hardware and your wireless is turned on. Also, check the support website of Lenovo to make sure that your device is Bluetooth capable.
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7a64714f6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Expand **Bluetooth Radios**  or **Bluetooth** .
 
 **Note** : If you **cannot** see any items listed under Network adapters or Bluetooth Radios, please proceed to **Option 2** .
@@ -51,20 +51,20 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7d4daf634.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) If you see a down arrow, your Bluetooth device is disabled, just right-click the item and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b810d497f1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) If you see a yellow exclamation mark next to your Bluetooth driver, your Bluetooth hardware is not responding or set up correctly. You can refer to **Option 3** for more help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Option 2: Enable discovery mode
 
@@ -75,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Option 3: Update Bluetooth driver
 
@@ -95,12 +91,16 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver-scan.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 4: Perform a refresh
 
@@ -124,16 +124,16 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-twitch-reversion-made-simple-top-ten-instructions-at-hand/"><u>[New] Twitch Reversion Made Simple Top Ten Instructions at Hand</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-srt-innovations-the-future-explained-today/"><u>[Updated] 2024 Approved SRT Innovations The Future Explained Today</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-vidmore-screen-recorder-how-to-use-it/"><u>[Updated] Vidmore Screen Recorder - How to Use It</u></a></li>
-<li><a href="https://driver-error.techidaily.com/asus-keyboard-brightness-not-working/"><u>ASUS Keyboard Brightness Not Working</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bring-back-lost-connection-revive-the-invisible-logitech-brio-webcam-in-new-windows-environment-answered/"><u>Bring Back Lost Connection: Revive the Invisible Logitech Brio Webcam in New Windows Environment [Answered]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bt-compatibility-made-simple-for-lenovo-and-win11/"><u>BT Compatibility Made Simple for Lenovo & Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/closed-non-supported-intelligentamd-graphics-driver-issue-with-premiere-pro/"><u>Closed: Non-Supported Intelligent/AMD Graphics Driver Issue with Premiere Pro</u></a></li>
-<li><a href="https://driver-error.techidaily.com/dealing-with-unsupported-hardware-strategies-for-successful-software-integration/"><u>Dealing with 'Unsupported Hardware' – Strategies for Successful Software Integration</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-error-6-glitches-in-call-of-duty-mobile-modern-warfare-edition/"><u>Overcoming Error 6 Glitches in Call of Duty Mobile - Modern Warfare Edition</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-moto-g34-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Moto G34 5G</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-improve-video-comprehensibility-with-effective-use-of-chapters-in-youtube/"><u>2024 Approved Improve Video Comprehensibility with Effective Use of Chapters in YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aerial-artistry-in-motion-examining-gopro-karma-performance/"><u>Aerial Artistry in Motion Examining GoPro Karma Performance</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-laptop-display-glitch-resolved-methods-to-correct-vertically-reversed-videos/"><u>ASUS Laptop Display Glitch Resolved: Methods to Correct Vertically Reversed Videos</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/easy-step-by-step-activation-guide-for-movavi-video-editor-on-windows/"><u>Easy Step-by-Step Activation Guide for Movavi Video Editor on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flying-high-with-husqvarna-the-drone-revolution-for-2024/"><u>Flying High with Husqvarna The Drone Revolution for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-premiere-pro-transitions-the-ultimate-list-of-top-rated-plugins/"><u>New Premiere Pro Transitions The Ultimate List of Top-Rated Plugins</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimized-video-recording-fixed-asus-usb-camera-for-win10-users/"><u>Optimized Video Recording: Fixed ASUS USB Camera for Win10 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repairing-qualcomm-atheros-bluetooth-driver-failures-on-microsofts-latest-os/"><u>Repairing Qualcomm Atheros Bluetooth Driver Failures on Microsoft's Latest OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsungs-virtual-machine-suite-for-pc-users/"><u>Samsung's Virtual Machine Suite for PC Users</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/step-by-step-repair-tips-for-a-smooth-phasmophobia-virtual-reality-gameplay/"><u>Step-by-Step Repair Tips for a Smooth Phasmophobia Virtual Reality Gameplay</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-when-windows-ignores-your-latest-usb-attachment/"><u>Troubleshooting Steps When Windows Ignores Your Latest USB Attachment</u></a></li>
 </ul></div>
 

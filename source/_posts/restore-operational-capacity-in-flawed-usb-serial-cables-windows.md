@@ -1,7 +1,7 @@
 ---
 title: Restore Operational Capacity in Flawed USB-Serial Cables, Windows
-date: 2025-01-27T16:29:27.897Z
-updated: 2025-01-29T16:52:11.890Z
+date: 2025-02-02T22:34:26.645Z
+updated: 2025-02-10T03:36:51.530Z
 tags:
   - win11
   - win10
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
  Don’t panic. Certainly, you’re not the only one. We’ve seen many Windows users reporting this**Prolific USB to Serial driver not working on Windows** issue. More importantly, you can easily fix it with the solutions here. Read on and see how…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -43,14 +43,14 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb0704ce6b75.jpg)
 3. Click**Update** next to the flagged Prolific USB to Serial driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back** guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb072bf3dffe.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 2: Roll your Prolific USB to Serial driver back to an older version
@@ -66,17 +66,17 @@ Here’s how you can do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. Double-click**Ports(COM & LPT)** , then**right-click** on your Prolific USB to Serial driver to select**Update driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075701f308.jpg)
 4. Click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075c361cc6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Select**Let me pick from a list of available drivers on my computer** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075da68269.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Select an older version on the Model list. Then**Next** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb076059c302.jpg)
@@ -107,16 +107,20 @@ Once it’s done, connect your device again and see if it goes well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-for-social-media-savvy-content-sharers-for-2024/"><u>[Updated] Guide for Social Media Savvy Content Sharers for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-your-youtube-clips-essential-editing-techniques-unveiled/"><u>[Updated] Perfect Your YouTube Clips Essential Editing Techniques Unveiled</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/analyzing-the-updated-sony-s6500-blu-ray-player-for-2024/"><u>Analyzing the Updated Sony S6500 Blu-Ray Player for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driving-windows-home-smoothly-with-ndis-tips/"><u>Driving Windows Home Smoothly with NDIS Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortlessly-share-several-images-with-your-friends-on-facebook/"><u>Effortlessly Share Several Images with Your Friends on Facebook</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-battleye-setup-issues-how-to-handle-the-infamous-driver-load-error-1450/"><u>Fixing BattlEye Setup Issues: How to Handle the Infamous Driver Load Error (1450)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/happiness-unplugs-wacom-gadgets-united/"><u>Happiness Unplugs: Wacom Gadgets United</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-vivo-y36i-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Vivo Y36i.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-reno-9a-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Reno 9A to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/in-depth-analysis-and-fixes-for-failed-to-initialize-battleye-service-with-driver-error-1450/"><u>In Depth Analysis and Fixes for 'Failed to Initialize BattlEye Service' With Driver Error 1450</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-nonfunctional-hardware-in-windows-11-8-or-7-driver-solutions-fixed/"><u>Troubleshoot Nonfunctional Hardware in Windows 11, 8 or 7: Driver Solutions [FIXED]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/need-immediate-assistance-cant-stop-my-pcs-bluetooth-from-working75-chars/"><u>“Need Immediate Assistance, Can't Stop My PC’s Bluetooth From Working!”(75 Chars)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-printer-driver-is-unavailable-on-windows/"><u>[SOLVED] Printer Driver Is Unavailable on Windows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-mastering-youtube-profits-ajeys-guidebook/"><u>[Updated] In 2024, Mastering YouTube Profits Ajey's Guidebook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-lava-blaze-2-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Lava Blaze 2 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-analysis-of-directed-motion-tracking-for-2024/"><u>Comprehensive Analysis of Directed Motion Tracking for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-savings-on-your-macbook-pro-13-top-picks-for-economical-and-reliable-cases-reviewed/"><u>Maximizing Savings on Your MacBook Pro 13: Top Picks for Economical and Reliable Cases Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/navigate-your-way-to-joining-google-live-video-sessions/"><u>Navigate Your Way to Joining Google Live Video Sessions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/realtek-network-issue-post-windows-10-update-resolved/"><u>Realtek Network Issue Post-Windows 10 Update - Resolved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103163615-resolution-zero-connection-woes-wacom-fixed/"><u>Resolution: Zero-Connection Woes, Wacom Fixed!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-compatibility-issue-unsupported-amdintel-graphics-with-premiere-pro/"><u>Resolved Compatibility Issue: Unsupported AMD/Intel Graphics with Premiere Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-hardware-drivers-in-device-manager/"><u>Resolving Hardware Drivers in Device Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-guide-adding-required-drivers-in-windows-operating-systems/"><u>Solution Guide: Adding Required Drivers in Windows Operating Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlining-virtual-meetings-in-google-mail-for-2024/"><u>Streamlining Virtual Meetings in Google Mail for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/teslas-robotaxi-unveiled-pricing-details-and-launch-timeline/"><u>Tesla's RoboTaxi Unveiled: Pricing Details & Launch Timeline</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-elevate-your-video-editing-game-best-premiere-pro-transitions/"><u>Updated 2024 Approved Elevate Your Video Editing Game Best Premiere Pro Transitions</u></a></li>
 </ul></div>
 

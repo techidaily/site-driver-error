@@ -1,7 +1,7 @@
 ---
 title: Unlocking Solution to Error Code 52
-date: 2025-01-27T20:15:43.409Z
-updated: 2025-01-29T17:03:46.923Z
+date: 2025-02-04T01:29:07.938Z
+updated: 2025-02-10T06:24:55.749Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ Does this screenshot look similar?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.png)
 
  If you’re getting the **Code 52 driver error** of your USB devices on your computer, it could be super frustrating. But don’t panic. You’re certainly not the only one. We’ve seen many users are reporting this issue. Luckily, we’ve found the answer for you. Read on and find out how…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -57,15 +61,15 @@ Does this screenshot look similar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97921901b04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note: You can do it **for free** if you like, but it’s partly manual.
 
  Once you install the correct driver for your device, check if the error disappears. If your device works without any problem, so great! If you still see the error, don’t give up hope, you still have something else to try…
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Delete both the UpperFilters and LowerFilters Registry values
 
@@ -79,21 +83,21 @@ Here’s how to delete the values:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978ddf5949e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Yes** when prompted by **User Account Control** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978e1d8c395.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Go to **Computer** \> **HKEY\_LOCAL\_MACHINE** \> **SYSTEM** \> **CurrentControlSet** \> **Control** \> **Class** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b978e6de98f1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) ➡ **Important** : We highly recommend performing a backup for the registry keys in case any error occurs during the following process. Follow these simple steps:  
  Right-click on Class to select **Export** . Then give the export file a name, say, Class Backup. Proceed to select the backup folder, then **Save** .
@@ -126,16 +130,12 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9790a2dce62.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click **Startup Settings** , then **Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9790de2ea99.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Once you see the Startup settings menu, press **F7** .
@@ -166,22 +166,17 @@ Here’s how you can do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-expert-guide-to-crafting-immersive-experiences-through-instagram-vids/"><u>[New] 2024 Approved Expert Guide to Crafting Immersive Experiences Through Instagram Vids</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-fraps-revolutionizing-gamers-screen-recording/"><u>[New] In 2024, Fraps Revolutionizing Gamer's Screen Recording</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/our-music-masterpiece-awaits-step-by-step-to-youtube-playlist-perfection-webmobile-for-2024/"><u>[New] Your Music Masterpiece Awaits Step-by-Step to YouTube Playlist Perfection (Web/Mobile) for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-watch-update-breakdown-discover-which-devices-will-run-on-watchos-11-and-which-wont/"><u>Apple Watch Update Breakdown: Discover Which Devices Will Run on WatchOS 11 & Which Won't!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cddvd-drives-missing-on-win11-issue-overcome/"><u>CD/DVD Drives Missing on Win11, Issue Overcome</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-upgrading-tips-for-intel-powered-imac-systems/"><u>Comprehensive Upgrading Tips for Intel-Powered iMac Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expertly-handled-error-code-45/"><u>Expertly Handled Error Code 45</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-the-cannot-access-this-destination-problem-when-adding-a-usb-device/"><u>Fix the 'Cannot Access This Destination' Problem When Adding a USB Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/honest-scholarship-steering-clear-from-chatgpt-dependence/"><u>Honest Scholarship: Steering Clear From ChatGPT Dependence</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-a-missing-cpu-co-processor-driver-on-your-windows-11-system/"><u>How to Fix a Missing CPU Co-Processor Driver on Your Windows 11 System</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-frustration-quickly-fix-driver-not-available-for-itbm/"><u>No More Frustration – Quickly Fix 'Driver Not Available' For ITBM</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-elan-device-crashes-in-windows-10/"><u>Overcoming Elan Device Crashes in Windows 10</u></a></li>
-<li><a href="https://facebook.techidaily.com/reeling-in-social-media-leadership-can-fbs-reels-outshine-tiktok/"><u>Reeling in Social Media Leadership: Can FB's Reels Outshine TikTok?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-supreme-top-techniques-for-innovative-youtube-end-screens/"><u>Reigning Supreme Top Techniques for Innovative YouTube End Screens</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-when-your-pc-rejects-the-installation-of-a-new-driver/"><u>Troubleshooting Steps When Your PC Rejects the Installation of a New Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-failing-to-detect-nvidia-graphics/"><u>Windows Failing to Detect Nvidia Graphics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-deciphering-user-insights-in-youtube-comments/"><u>[New] 2024 Approved Deciphering User Insights in YouTube Comments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-turned-off-core-isolation-for-wdcsam64prewin8sys/"><u>[Resolved] Turned OFF Core Isolation for wdcsam64_prewin8.sys</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-iphone-mtp-usb-device-driver-issue/"><u>[Solved] iPhone MTP USB Device Driver Issue</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-google-pixel-8-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Google Pixel 8 Fingerprint Lock</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-properly-discard-drivers-with-incomplete-operations/"><u>How to Properly Discard Drivers with Incomplete Operations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-a14-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy A14 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-adapter-missing-system-drive-incompatibility/"><u>Intel Adapter Missing: System Drive Incompatibility</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/perfectly-suited-8-recommended-tools-for-subtitles-and-srts/"><u>Perfectly Suited 8 Recommended Tools for Subtitles & SRTs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reviving-your-dead-wireless-keyboard-a-step-by-step-fix-for-windows-users/"><u>Reviving Your Dead Wireless Keyboard: A Step-by-Step Fix for Windows Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-m54-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Samsung Galaxy M54 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

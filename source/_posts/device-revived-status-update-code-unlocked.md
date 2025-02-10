@@ -1,7 +1,7 @@
 ---
 title: "Device Revived: Status Update - Code Unlocked"
-date: 2025-01-28T20:06:35.831Z
-updated: 2025-01-29T18:12:43.318Z
+date: 2025-02-04T16:55:04.033Z
+updated: 2025-02-09T21:36:40.209Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 If you encounter**This device is disabled. (Code 22)**in Device Manager, here are 4 solutions you can try to fix it. You may not have to try them all. Just work your way down the list until you find the one that works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [**Enable your device driver**](https://imp.i357552.net/jzg4rq)
@@ -33,11 +37,19 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 1. On your keyboard, press the**Windows** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png) key and**R** at the same time to open the Run box.
 2. Type **devmgmt.msc** and press**Enter**  to access Device Manager.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e3f572c04.png)
 3. Expand the category that your device belongs to, right-click your device and select**Enable device** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -50,12 +62,16 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecd845a65.jpg)
 3. Click the **Update** button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).Or click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Uninstall your device driver
@@ -65,10 +81,6 @@ Uninstalling your device driver is another solution you can try to fix **This de
 1. In Device Manager, right-click your device and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ea2541557.jpg)
 2. Restart your computer, and Windows will automatically reinstall the driver for your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -84,10 +96,6 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)  
  Example – CMOS battery on a desktop PC  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)  
  Example – CMOS battery on a laptop
@@ -95,15 +103,7 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
 5. Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 6. Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -126,22 +126,22 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-easy-routines-for-documenting-instagram-stories/"><u>[New] Easy Routines for Documenting Instagram Stories</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-vdy-pro-recorder-summary-detailed-analysis/"><u>[New] In 2024, VDY Pro Recorder Summary Detailed Analysis</u></a></li>
-<li><a href="https://driver-error.techidaily.com/passed-tests-drivers-installation-succeeded-post-correction/"><u>[PASSED TESTS] Drivers Installation Succeeded Post-Correction</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-sm-bus-controller-driver-issues-in-windows-1111/"><u>[SOLVED] SM Bus Controller Driver Issues in Windows 11/11</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-discovering-high-definition-smarts-sony-xperia-xz-reviewed-for-2024/"><u>[Updated] Discovering High-Definition Smarts Sony Xperia XZ Reviewed for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-get-free-green-screen-effects-from-4-youtube-channels/"><u>[Updated] Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-business-best-windows-time-management-and-productivity-software/"><u>Boost Your Business: Best Windows Time Management and Productivity Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-notified-ideport0-fault-detection/"><u>Driver Notified: Ideport0 Fault Detection</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-logitech-c270-webcam-drivers-and-software-compatible-with-windows-10-and-11-download-now/"><u>Free Logitech C270 Webcam Drivers & Software Compatible with Windows 10 and 11 - [Download Now]</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/how-to-fix-a-non-detected-network-card-issue-with-ease-guided-by-yl-tech-experts/"><u>How to Fix a Non-Detected Network Card Issue with Ease - Guided by YL Tech Experts</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-restore-functionality-to-a-non-working-wireless-keyboard-on-pcs/"><u>How to Restore Functionality to a Non-Working Wireless Keyboard on PCs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-steps-for-integrating-soundtracks-into-mkv-format-mkv-v202-release/"><u>New Steps for Integrating Soundtracks Into MKV Format (MKV v2.0.2 Release)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-no-signal-anxiety-resurrecting-a-dead-iphone-display/"><u>Overcoming 'No Signal' Anxiety: Resurrecting a Dead iPhone Display</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolution-found-for-device-error-48/"><u>Resolution Found for Device Error 48</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-hcmon-driver-installation-failures-a-step-by-step-guide/"><u>Resolving HCMon Driver Installation Failures: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-itbm-driver-errors-quickly-and-efficiently/"><u>Resolving ITBM Driver Errors Quickly and Efficiently</u></a></li>
-<li><a href="https://driver-error.techidaily.com/versatile-pci-interfaces-compatible-with-windows/"><u>Versatile PCI Interfaces Compatible with Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-prioritize-your-videography-with-top-12-players/"><u>[New] Prioritize Your Videography with Top 12 Players</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-the-makeup-artistry-leading-youtubers-of-2024/"><u>[Updated] Mastering the Makeup Artistry Leading YouTubers of 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-all-encompassing-clarification-the-basics-of-googles-podcast-platform/"><u>2024 Approved All-Encompassing Clarification The Basics of Google's Podcast Platform</u></a></li>
+<li><a href="https://driver-error.techidaily.com/address-repeated-amd-drivers-crashes/"><u>Address Repeated AMD Drivers Crashes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-faulty-venintanddev33a0-acpi-driver/"><u>Addressing Faulty VEN_INT&DEV_33A0 Acpi Driver</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-meta-512gb-quest-pro-top-october-prime-day-vr-sale-yet-to-go/"><u>Best Value Meta 512GB Quest Pro: Top October Prime Day VR Sale Yet To Go!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-digital-strategy-harnessing-powerful-insights-with-leading-analytics-platforms-like-cookiebot/"><u>Elevate Your Digital Strategy: Harnessing Powerful Insights with Leading Analytics Platforms Like Cookiebot</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-sennheiser-game-one-microphone-malfunctions-a-step-by-step-guide/"><u>Fixing Sennheiser Game One Microphone Malfunctions - A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-inactive-to-active-status/"><u>From Inactive to Active Status</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-xiaomi-redmi-13c-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Xiaomi Redmi 13C to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-make-seagate-external-recognized-by-w10/"><u>How to Make Seagate External Recognized by W10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-tips-for-effective-tripod-usage-in-video-blogging/"><u>In 2024, Tips for Effective Tripod Usage in Video Blogging</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-common-problems-with-hp-keyboards-a-comprehensive-guide/"><u>Resolving Common Problems with HP Keyboards: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-unsupported-hardware-errors-with-your-current-software-suite/"><u>Resolving Unsupported Hardware Errors with Your Current Software Suite</u></a></li>
+<li><a href="https://driver-error.techidaily.com/trouble-locating-your-new-pcs-prodigy-cam-no-more-stress-got-answers-and-fixes-to-look-into-fixed/"><u>Trouble Locating Your New PC's Prodigy Cam? No More Stress - Got Answers and Fixes to Look Into [Fixed]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-free-solution-for-unresponsive-buttons-on-hp-laptops/"><u>Trouble-Free Solution for Unresponsive Buttons on HP Laptops</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104701290-windows-users-solve-your-wireless-keyboard-problem-today/"><u>Windows Users: Solve Your Wireless Keyboard Problem Today!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Unsupported Graphics in Premiere Pro with AMD/Intel"
-date: 2025-01-28T17:48:16.968Z
-updated: 2025-01-29T21:12:25.149Z
+date: 2025-02-05T00:14:41.814Z
+updated: 2025-02-10T02:26:07.790Z
 tags:
   - win11
   - win10
@@ -19,9 +19,17 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
  Getting the “Unsupported Video Driver” error when you’re launching Adobe Premiere Pro and the program just crashes at startup? This is a quite common error and also an easy one to fix. Read on and find out how to solve the problem right away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why am I getting this error?
 
  The “Unsupported Video Driver” error message suggests that your current graphics driver is not compatible with Premiere Pro. An outdated or faulty video driver could cause this problem. Or, in some cases, Premiere Pro fails to recognize your driver which is actually functional and thus triggers the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -29,16 +37,12 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
 [2: Update Premiere Pro](https://ukaidot.sjv.io/daqnoj)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Update your video driver
 
  There are two ways to update your video driver: Automatically (recommended!) and manually.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Automatic update
@@ -49,15 +53,15 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged video driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Manual update
 
@@ -73,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-25_15-01-41.png)
 4. Go to the official sites and search for your video driver. Make sure you download only the driver that’s compatible with your Windows version.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/)  
 [INTEL](https://downloadcenter.intel.com/product/80939/Graphics)  
 [AMD](https://www.amd.com/en/support)  
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
  After you install the latest video driver, restart your PC and test if Premiere Pro still shows you the error message. If the problem persists, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update Premiere Pro
@@ -119,19 +119,24 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-twitbook-transforms-best-tweeting-with-gifs-2024-edition/"><u>[New] TwitBook Transforms Best Tweeting With Gifs, 2024 Edition</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/addressing-adb-errors-in-emcoswin95/"><u>Addressing ADB Errors in EmCos/WIN95</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-connectivity-issues-resolved-fixing-qualcomm-atheros-drivers-in-windows-11/"><u>Bluetooth Connectivity Issues Resolved: Fixing Qualcomm Atheros Drivers in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/death-adder-enhancements-for-windows-11/"><u>DeaTH Adder Enhancements for Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-event-code-219-wudfrd-loading-issue-detected/"><u>Device Event Code 219: WudfRd Loading Issue Detected</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-ultra-fast-data-transfer-with-raid-card-technology-reach-speeds-of-56-gbs-via-dual-setups-of-pcie-50-and-40-nvme-ssds/"><u>Experience Ultra-Fast Data Transfer with RAID Card Technology - Reach Speeds of 56 GB/S via Dual Setups of PCIe 5.0 and 4.0 NVMe SSDs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-asus-rog-phone-7-ultimate-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Asus ROG Phone 7 Ultimate to New Android? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/intel-dptf-driver-error-solutions-fix-your-pc-with-this-easy-troubleshooter/"><u>Intel DPTF Driver Error Solutions – Fix Your PC with This Easy Troubleshooter</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/seamless-social-media-video-extraction-2023-app/"><u>Seamless Social Media Video Extraction - 2023 App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/smartwatch-shopping-here-are-the-most-important-things-to-think-about-first/"><u>Smartwatch Shopping? Here Are the Most Important Things To Think About First!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104818747-solve-itbm-drivers-missing-error-swiftly-effective-strategies-inside/"><u>Solve ITBM Drivers Missing Error Swiftly – Effective Strategies Inside!</u></a></li>
-<li><a href="https://discover-great.techidaily.com/understanding-the-role-of-mining-in-cryptocurrencies-insights-from-yl-computings-expertise/"><u>Understanding the Role of Mining in Cryptocurrencies: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-glacial-glory-spectacous-moments-from-2022s-olympic-snowboard-races-for-2024/"><u>[New] Glacial Glory Spectacous Moments From 2022'S Olympic Snowboard Races for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-fix-for-silent-audio-on-obs/"><u>[New] In 2024, Fix for Silent Audio on OBS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-instant-clearing-the-best-ios-apps-for-precise-image-editing-for-2024/"><u>[New] Instant Clearing The Best iOS Apps for Precise Image Editing for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bring-back-sound-to-your-win10-pc-via-usb-device/"><u>Bring Back Sound to Your Win10 PC via USB Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cure-faulty-usb-serial-cables-in-windows/"><u>Cure Faulty USB-Serial Cables in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/exploring-the-past-and-present-of-usb-composite-devices-in-todays-tech-scene/"><u>Exploring the Past and Present of USB Composite Devices in Today's Tech Scene</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-how-to-resolve-missing-coprocessor-driver-issue-in-windows-11/"><u>Fix Guide: How To Resolve 'Missing Coprocessor Driver' Issue in Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-updated-nvidia-rtx-2060-graphics-card-drivers-for-latest-and-legacy-windows-systems/"><u>Get Updated NVIDIA RTX 2060 Graphics Card Drivers for Latest & Legacy Windows Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-odt-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .odt file free</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-fix-persistent-amd-driver-glitches/"><u>Immediate Fix: Persistent AMD Driver Glitches</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y27s-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y27s Android SIM Unlock APK</u></a></li>
+<li><a href="https://driver-error.techidaily.com/insufficient-system-resources-for-device/"><u>Insufficient System Resources for Device</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-end-persistent-login-error-alerts-on-pc/"><u>Methods to End Persistent Login Error Alerts on PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reactivation-of-dormant-bluetooth-on-your-pc/"><u>Reactivation Of: Dormant Bluetooth on Your PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/service-install-error-inf-correction-achieved/"><u>Service Install Error: INF Correction Achieved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/slash-high-gpu-consumption-in-windows-5-effective-fixes-for-desktop-window-manager-issues/"><u>Slash High GPU Consumption in Windows: 5 Effective Fixes for Desktop Window Manager Issues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-likes-strategies-for-captivating-tiktok-unboxers-for-2024/"><u>The Ultimate Guide to Likes Strategies for Captivating TikTok Unboxers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-human-resources-the-impact-of-oracles-integration-of-generative-ai-into-hr-solutions/"><u>Transforming Human Resources: The Impact of Oracle's Integration of Generative AI Into HR Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-ndis-troubleshooting-made-simple/"><u>Windows NDIS Troubleshooting Made Simple</u></a></li>
 </ul></div>
 

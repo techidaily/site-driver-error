@@ -1,7 +1,7 @@
 ---
 title: "Win11 Touchpad Glitches: Resolved Quickly"
-date: 2025-01-28T19:27:20.544Z
-updated: 2025-01-29T17:28:22.304Z
+date: 2025-02-05T22:44:54.949Z
+updated: 2025-02-10T08:09:56.946Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 [**3: Stop automatic updates from Windows Update**](https://tinyland.pxf.io/org4ra)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Make sure your touchpad is enabled
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-settings-devices.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click **Mouse & touchpad,**  then click **Additional mouse options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/additional-mouse-options.png)
@@ -44,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mouse-properties-device-settings.png)
 
  You should also check if there is a function key that enables or disables your touchpad. On some laptops, this key is**F6** , or the combination of**Fn+F5** , or**Fn+F6** . You should check your PC manual to see which key or keys could be at fault.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2: Reinstall your drivers
 
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58ddb8810b994.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3: Stop automatic updates from Windows Update**
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-and-printers.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Right-clickyour computer icon and click **Device installation settings** .
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/device-installation-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **No, let me choose what to do** . Tick the box for **Never install driver software from Windows Update** . Click**Save changes** .
@@ -114,22 +114,24 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-previous-software-conflict-leading-to-boot-failure/"><u>[FIXED] Previous Software Conflict Leading to Boot Failure</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-cutting-edge-actions-screening-tech-report/"><u>[New] Cutting-Edge Actions Screening Tech Report</u></a></li>
-<li><a href="https://driver-error.techidaily.com/address-bluetooth-driver-malfunction-on-xps-2-in-1/"><u>Address Bluetooth Driver Malfunction on XPS 2-In-1</u></a></li>
-<li><a href="https://driver-error.techidaily.com/amd-radeon-wattmans-sudden-shutdown-and-comeback-fixing-the-settings-glitch-effortlessly-complete-tutorial/"><u>AMD Radeon Wattman's Sudden Shutdown and Comeback: Fixing the Settings Glitch Effortlessly – Complete Tutorial</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/changing-frozen-moments-into-sequential-movies-for-2024/"><u>Changing Frozen Moments Into Sequential Movies for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-residential-ev-charging-tips-and-insights/"><u>Comprehensive Guide to Residential EV Charging - Tips and Insights</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-set-up-and-install-a-canon-printer-with-photos/"><u>How to Set Up and Install a Canon Printer with Photos</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-realme-c53-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Realme C53 Without PUK Codes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-7-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 7 Plus Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installation-guide-for-windows-compatible-netgear-a6200-adapter/"><u>Installation Guide for Windows Compatible Netgear A6200 Adapter</u></a></li>
-<li><a href="https://driver-error.techidaily.com/iphone-se-not-detected-on-fedora-core-os-solution-found-here/"><u>IPhone SE Not Detected on Fedora Core OS - Solution Found Here</u></a></li>
-<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-drivers-failing-on-windows-10-easy-fixes-that-work/"><u>Qualcomm Atheros Bluetooth Drivers Failing on Windows 10: Easy Fixes That Work</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-gtx-950s-code-43-issue-in-windows-11-a-comprehensive-guide/"><u>Resolving the GTX 지판 950'S 'Code 43 Issue' In Windows 11 - A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/reverse-video-magic-online-step-by-step-guides-for-2024/"><u>Reverse Video Magic Online Step-by-Step Guides for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-the-problem-unrecognized-usb-devices-on-windows-troubleshooting-steps/"><u>Solving the Problem: Unrecognized USB Devices on Windows - Troubleshooting Steps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-alert-bcm20702a0-driver-not-available/"><u>System Alert: BCM20702A0 Driver Not Available</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-smartphone-camera-accessories-vloggers-should-try-to-improve-recording/"><u>[New] 2024 Approved Smartphone Camera Accessories Vloggers Should Try to Improve Recording</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-pathway-guide-acquiring-movie-maker-6-on-your-system/"><u>[New] In 2024, Pathway Guide Acquiring Movie Maker 6 on Your System</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-art-of-thumbnail-and-banner-design-for-videos/"><u>[New] In 2024, The Art of Thumbnail and Banner Design for Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-critical-analysis-facebooks-top-10-video-plays-for-2024/"><u>[Updated] Critical Analysis Facebook's Top 10 Video Plays for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unwind-in-a-world-of-top-stress-busters-for-2024/"><u>[Updated] Unwind in a World of Top Stress Busters for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/comprehensive-review-of-non-google-augmented-reality-accessories-for-2024/"><u>Comprehensive Review of Non-Google Augmented Reality Accessories for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-prevention-graphics-card-in-win10-os/"><u>Device Prevention: Graphics Card in Win10 OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-vanished-discs-solve-optical-drive-woes-in-win11/"><u>Fix Vanished Discs: Solve Optical Drive Woes in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/help-can0t-connect-to-latest-cam-post-windows-10-update-fixed-solutions-found-fixed/"><u>Help! Can'0t Connect to Latest Cam Post Windows 10 Update - Fixed Solutions Found [Fixed]</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-peripheral-vision-audit/"><u>In 2024, Peripheral Vision Audit</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-troubleshooting-for-windows-ui-glitches/"><u>Instant Troubleshooting for Windows UI Glitches</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761388-9780593579367-racial-wellness/"><u>Racial Wellness | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reinstall-directx-9-and-related-components/"><u>Reinstall DirectX 9 and Related Components.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-initialization-issue-with-battleye-service-overcoming-driver-load-failure-code-1450/"><u>Resolved: Initialization Issue with BattlEye Service - Overcoming Driver Load Failure Code 1450</u></a></li>
+<li><a href="https://driver-error.techidaily.com/review-of-overcooked-2-savory-fun-amidst-the-kitchen-madness/"><u>Review of Overcooked! 2: Savory Fun Amidst the Kitchen Madness</u></a></li>
+<li><a href="https://driver-error.techidaily.com/straightforward-solution-to-mtp-device-driver-issues/"><u>Straightforward Solution to MTP Device Driver Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/streamlining-elan-touchpad-issues-in-win10/"><u>Streamlining Elan Touchpad Issues in Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-win1011-sm-bus-driver-crashes/"><u>Troubleshooting Win10/11 SM Bus Driver Crashes</u></a></li>
 </ul></div>
 

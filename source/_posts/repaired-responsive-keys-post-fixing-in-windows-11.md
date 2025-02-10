@@ -1,7 +1,7 @@
 ---
 title: "[Repaired]: Responsive Keys Post-Fixing in Windows 11"
-date: 2025-01-23T18:14:55.146Z
-updated: 2025-01-29T19:14:09.593Z
+date: 2025-02-03T05:13:33.055Z
+updated: 2025-02-10T04:50:36.872Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -36,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
  Fortunately, it’s easy to test: simply unplug the keyboard from the USB port and plug in another USB device – like a mouse or an external hard drive. If that device doesn’t work either, the USB port itself is the problem, and you should skip straight to [Method 4](https://pish-posh-baby.sjv.io/g1jg15) . If the device you just plugged in does work, then continue to [Method 2](https://zonlipartnershipprogram.pxf.io/b0rbxy) .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Adjust your keyboard settings
 
@@ -57,15 +57,19 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Reinstall your keyboard driver
 
@@ -83,13 +87,13 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -107,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -115,17 +123,9 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 5: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -164,17 +164,20 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-sharpened-internet-video-views/"><u>[New] Mastering the Art of Sharpened Internet Video Views</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-adb-device-not-found-error-on-windows/"><u>[Solved] ADB Device Not Found Error on Windows</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-ensuring-quality-export-of-camera-images-for-snapchat-sharing/"><u>[Updated] In 2024, Ensuring Quality Export of Camera Images for Snapchat Sharing</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-harmonizing-audioscapevisumedia-network/"><u>2024 Approved Harmonizing Audioscape/Visumedia Network</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-not-found-bcm20702a0/"><u>Driver Not Found: BCM20702A0</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-the-future-with-jacos-smartpro-rechargeable-tire-pump-a-review-on-its-power-and-portability/"><u>Experience the Future with Jaco's SmartPro Rechargeable Tire Pump: A Review on Its Power and Portability</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-motorola-g54-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Motorola G54 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hp-laptop-speakers-silent-solve-the-problem-with-these-steps-for-windows-10-users/"><u>HP Laptop Speakers Silent? Solve the Problem with These Steps for Windows 10 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-for-noisy-audio-in-windows-operating-systems-10-and-7/"><u>Solution for Noisy Audio in Windows Operating Systems (10 and 7)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-coming-of-sony-automobile-afela-what-we-can-infer-from-the-latest-rumors-on-price-features-and-launch-window/"><u>The Coming of Sony Automobile AFELA: What We Can Infer From the Latest Rumors on Price, Features & Launch Window</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-device-misconfiguration-insights-into-error-code-1/"><u>Troubleshooting and Solving Device Misconfiguration: Insights Into Error Code 1</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-non-functional-dts-truehd-in-windows-post-failed-update-solution-found/"><u>Troubleshooting Non-Functional DTS™ TrueHD in Windows Post Failed Update – Solution Found!✅</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-proven-pathways-to-peeling-away-pesky-backdrops-with-affinity-photo-tools/"><u>[New] In 2024, Proven Pathways to Peeling Away Pesky Backdrops with Affinity Photo Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-best-starter-accessories-to-elevate-your-gopro-capture/"><u>[Updated] 2024 Approved The Best Starter Accessories to Elevate Your GoPro Capture</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mastering-access-facebooks-classic-stories/"><u>[Updated] Mastering Access Facebook's Classic Stories</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-interview-skills-using-chatgpt-tips-and-techniques/"><u>Boost Your Interview Skills Using ChatGPT - Tips and Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-sync-and-save-your-iphones-music-library-onto-a-mac-or-pc/"><u>Comprehensive Tutorial: Sync & Save Your iPhone's Music Library Onto a Mac or PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-persistent-amd-driver-failures-quickly/"><u>Fix Persistent AMD Driver Failures Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-no-integrated-support-for-amdintel-video-drivers-in-premiere-pro/"><u>Fixed: No Integrated Support for AMD/Intel Video Drivers in Premiere Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mitigated-storage-system-malfunction/"><u>Mitigated Storage System Malfunction</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-nvidia-driver-setup-issue/"><u>Resolving Nvidia Driver Setup Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-screen-captures-for-posterity/"><u>Secure Your Screen Captures for Posterity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-steps-correcting-the-idt-software-package-unable-to-support-detected-hardware-issue/"><u>Solution Steps: Correcting the IDT Software Package Unable to Support Detected Hardware Issue</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-art-of-italian-signal-speaking/"><u>The Art of Italian Signal Speaking</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-guide-for-navigating-through-error-code-0x80004005/"><u>The Ultimate Fix Guide for Navigating Through 'Error Code: 0X80004005'</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-hd-cameras-for-wildlife-enthusiasts-for-2024/"><u>Top HD Cameras For Wildlife Enthusiasts for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-sm-bus-controller-errors-on-windows-1011/"><u>Troubleshooting SM Bus Controller Errors on Windows 10/11</u></a></li>
 </ul></div>
 

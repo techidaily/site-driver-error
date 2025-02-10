@@ -1,7 +1,7 @@
 ---
 title: Rejected Graphic Card Use by OS Win11
-date: 2025-01-28T18:57:27.746Z
-updated: 2025-01-29T16:18:26.109Z
+date: 2025-02-06T06:29:50.829Z
+updated: 2025-02-09T18:09:29.440Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 1. [**Run System File Checker and DISM commands**](https://bluetties.sjv.io/lxv4pm)
 2. [**Reinstall your display driver**](https://coinrule.sjv.io/rqzonv)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run System File Checker and DISM commands
 
  This problem may occur if you have corrupted or damaged system files on your Windows computer.
@@ -38,19 +42,11 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7aea748d7a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click**YES** when prompted by the User Account Control.
 
  2) Type**sfc /scannow**  and press **Enter** . Wait for the scanning to be **100%**  completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7af1a7f21e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Type the following commands and press **Enter**  after each.
 
@@ -60,10 +56,14 @@ Follow these steps to recover your system files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Reboot Windows 10 and run your game software to see if it works. If it doesn’t work, you can try our other fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
@@ -83,7 +83,7 @@ Follow these steps to recover your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509eed56b24.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. You can update the drivers one by one using the **Update**  button. But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can update all your drivers with one click — **Update All** .
@@ -91,7 +91,7 @@ Follow these steps to recover your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a509f1432541.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Reboot your Windows 10 PC and run your game software to see if it works.
@@ -116,18 +116,24 @@ Follow these steps to recover your system files:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-how-to-seamless-setup-of-ifunny-meme-toolkit/"><u>[New] 2024 Approved How-To Seamless Setup of iFunny Meme Toolkit</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-crafting-perfect-squares-imovie-guide-for-instagram-videos/"><u>2024 Approved Crafting Perfect Squares IMovie Guide for Instagram Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/captioning-made-easy-enhancing-your-instagram-narratives/"><u>Captioning Made Easy: Enhancing Your Instagram Narratives</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-steps-install-latest-drivers-on-your-hp-envy-151720-laptop/"><u>Easy Steps: Install Latest Drivers on Your HP ENVY 15/17/20 Laptop</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphics-illustration-of-ms-bda/"><u>Graphics Illustration of MS BDA</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-honor-magic-v2-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Magic V2 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hidef-audio-system-error-corrected/"><u>HiDef Audio System: Error Corrected</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-6s-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 6s Plus Safe and Legal</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-guide-tackling-windows-10s-asus-drivers/"><u>Quick Guide: Tackling Windows 10'S Asus Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solutions-for-handling-unrecognized-hardware-messages-by-idt-software-products/"><u>Solutions for Handling Unrecognized Hardware Messages by IDT Software Products</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-initialization-issues-with-battleye-service-and-overcoming-driver-loading-errors/"><u>Troubleshooting Guide: Fixing Initialization Issues with BattlEye Service and Overcoming Driver Loading Errors</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-speech-to-text-software-showdown-discover-the-top-8-options-for-pcs-macs-and-online-accessibility-for-2024/"><u>Updated Speech-to-Text Software Showdown Discover the Top 8 Options for PCs, Macs and Online Accessibility for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10-best-cost-free-subtitle-grabs-from-youtube/"><u>[New] 2024 Approved 10 Best Cost-Free Subtitle Grabs From YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-direct-from-youtube-select-sites-for-effortless-tone-downloads/"><u>[New] Direct-From-YouTube Select Sites for Effortless Tone Downloads</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-sim-inspired-memories-a-comprehensive-guide-to-capturing-life-events-with-gameplay-recordings-for-2024/"><u>[New] Sim-Inspired Memories A Comprehensive Guide to Capturing Life Events with Gameplay Recordings for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-sm-bus-controller-driver-issues-in-windows-1011/"><u>[SOLVED] SM Bus Controller Driver Issues in Windows 10/11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-entryway-investments-cost-effective-channels-for-newbies-for-2024/"><u>[Updated] Entryway Investments Cost-Effective Channels for Newbies for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-enhancing-engagement-on-facebook-a-beginners-roadmap/"><u>2024 Approved Enhancing Engagement on Facebook A Beginner’s Roadmap</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-unavailable-bcm20702a0-system-alert/"><u>Driver Unavailable: BCM20702A0 System Alert</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortless-resolution-for-windows-ndis-complications/"><u>Effortless Resolution for Windows NDIS Complications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experts-choice-ultimate-guide-to-the-finest-magsafe-chargers-of-2ergy-packs-in-depth-analysis-zdnet/"><u>Experts' Choice: Ultimate Guide to the Finest MagSafe Chargers of 2Ergy Packs – In-Depth Analysis | ZDNET</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-your-iphones-mtp-drivers-a-comprehensive-guide-to-solutions/"><u>Fixing Your iPhones' MTP Drivers - A Comprehensive Guide to Solutions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210968714-9781761039409-geistfuhrer/"><u>Geistführer | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hidden-media-devices-in-win-1011/"><u>Hidden Media Devices in Win 10/11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-enesys-driver-cannot-load-on-windows-11/"><u>How to Fix ene.sys Driver Cannot Load on Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-13-pro-max-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 13 Pro Max? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mastering-the-art-of-recording-top-roblox-gameplay-preservation-on-a-mac-for-2024/"><u>Mastering the Art of Recording Top Roblox Gameplay Preservation on a Mac for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-compatible-drivers-found-on-system/"><u>No Compatible Drivers Found on System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stabilized-external-hdd-controls/"><u>Stabilized External HDD Controls</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-device-not-found-on-windows-nt4/"><u>Tackling 'Device Not Found' On Windows NT4</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-shift-from-rgb-to-srgb-in-digital-imaging-for-2024/"><u>The Shift From Rgb to Srgb in Digital Imaging for 2024</u></a></li>
 </ul></div>
 

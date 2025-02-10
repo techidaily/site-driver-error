@@ -1,7 +1,7 @@
 ---
 title: Reviving Lenovo BT with Win11 Expertise and Know-How
-date: 2025-01-24T19:22:22.697Z
-updated: 2025-01-29T18:48:08.071Z
+date: 2025-02-04T03:37:50.463Z
+updated: 2025-02-10T07:19:47.366Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 * [Option 4: Perform a refresh](https://collovinc.sjv.io/jrkzwp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1: Enable Bluetooth hardware
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7a64714f6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Expand **Bluetooth Radios**  or **Bluetooth** .
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 **Note** : If you **cannot** see any items listed under Network adapters or Bluetooth Radios, please proceed to **Option 2** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7d4daf634.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) If you see a down arrow, your Bluetooth device is disabled, just right-click the item and click **Enable** .
 
@@ -63,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2: Enable discovery mode
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Option 3: Update Bluetooth driver
 
@@ -94,13 +94,13 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver-scan.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Option 4: Perform a refresh
 
@@ -124,24 +124,16 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-essential-vr-game-guide-top-8-on-oculus-for-2024/"><u>[Updated] Essential VR Game Guide Top 8 on Oculus for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-investigating-new-horizons-past-manycams-realm/"><u>[Updated] In 2024, Investigating New Horizons Past ManyCam's Realm</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-vlog-victory-visions-2024/"><u>[Updated] Vlog Victory Visions 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-x-fold-2-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/addressing-and-fixing-windows-11s-critical-missing-cpu-coprocessor-driver-dilemma/"><u>Addressing and Fixing Windows 11'S Critical Missing CPU Coprocessor Driver Dilemma</u></a></li>
-<li><a href="https://driver-error.techidaily.com/addressing-faulty-inf-service-setup-section/"><u>Addressing Faulty INF Service Setup Section</u></a></li>
-<li><a href="https://driver-error.techidaily.com/addressing-nonoperational-realtek-controllers-post-upgrade/"><u>Addressing Nonoperational Realtek Controllers Post-Upgrade</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-simplified-windows-problems-addressed-quickly/"><u>Bluetooth Simplified: Windows Problems Addressed Quickly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/call-of-duty-modern-warfare-players-unite-resolving-voice-chat-connectivity-problems/"><u>Call of Duty Modern Warfare Players Unite! Resolving Voice Chat Connectivity Problems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/complete-solution-for-driver-issues-on-devices-running-windows-10-8-or-7-install-now/"><u>Complete Solution for Driver Issues on Devices Running Windows 10, 8 or 7 – Install Now!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-troubleshooting-tips-getting-your-wireless-keyboard-back-online-in-windows-environment/"><u>Comprehensive Troubleshooting Tips: Getting Your Wireless Keyboard Back Online in Windows Environment</u></a></li>
-<li><a href="https://driver-error.techidaily.com/connectivity-problem-missing-drivers-on-pc/"><u>Connectivity Problem: Missing Drivers on PC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-excel-2007-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Free electronic signature - For Excel 2007 files</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102202054-htc-desire-z-not-detected-on-fedora-core-linux-problem-solved/"><u>HTC Desire Z Not Detected on Fedora Core Linux, Problem Solved</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/investigating-competitors-to-manycam-better-choices-in-2024/"><u>Investigating Competitors to ManyCam Better Choices, In 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/masterclass-in-free-videochats-and-collaborative-screensharing-for-2024/"><u>Masterclass in FREE Videochats & Collaborative Screensharing for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-the-360-video-landscape-key-dos-and-donts-9/"><u>Navigating the 360 Video Landscape Key Do's and Don'ts (9)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721101631137-no-more-loneliness-for-wacom-connected/"><u>No More Loneliness for Wacom, Connected</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/real-time-streaming-excellence-instagram-and-obs-unite/"><u>Real-Time Streaming Excellence Instagram and OBS Unite</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-quick-quirks-lasting-impact-fast-track-to-fame-with-9gag-memes/"><u>[New] 2024 Approved Quick Quirks, Lasting Impact Fast Track to Fame with 9GAG Memes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhance-visibility-in-igtv-6-insider-tips-for-video-size-mastery/"><u>[New] Enhance Visibility in IGTV 6 Insider Tips for Video Size Mastery</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cant-install-drivers-due-to-lack-of-intel-card/"><u>Can't Install Drivers Due to Lack of Intel Card</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-how-to-download-and-update-lenovo-ideapad-amodrivers-100-on-windows-10-systems/"><u>Easy Installation: How to Download and Update Lenovo IdeaPad amoDrivers 100 on Windows 10 Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-huggingchat-your-open-source-answer-to-chatbot-innovation/"><u>Exploring HuggingChat: Your Open-Source Answer to Chatbot Innovation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-wdcsam64prewin8sys-no-core-isolation/"><u>Fixed: wdcsam64_prewin8.sys - No Core Isolation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intelladapter-absence-driver-installs-failed/"><u>IntellAdapter Absence: Driver Installs Failed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-response-from-lenovo-thinkpad-t430-to-windows-vista-resolved/"><u>No Response From Lenovo Thinkpad T430 to Windows Vista [Resolved]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-lost-connection-7-fast-fixes-for-non-wi-fi-usb-in-windows-os/"><u>Reclaim Lost Connection: 7 Fast Fixes for Non-Wi-Fi USB in Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/recovery-of-intel-me-operations/"><u>Recovery of Intel ME Operations</u></a></li>
 </ul></div>
 

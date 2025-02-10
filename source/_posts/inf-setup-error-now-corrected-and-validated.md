@@ -1,7 +1,7 @@
 ---
 title: INF Setup Error - Now Corrected & Validated
-date: 2025-01-22T20:00:18.574Z
-updated: 2025-01-29T18:07:18.269Z
+date: 2025-02-06T20:29:17.826Z
+updated: 2025-02-10T04:25:46.999Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 2. [**Update the driver manually**](https://technitya.sjv.io/dkpn02)
 3. [**Install the missing driver files manually**](https://dhgate.sjv.io/5g6yb2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Update the driver automatically
 
  Since you can’t update the driver via Windows Update, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to update the driver automatically.
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged MTP USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -68,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68744ea8804.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) In Device Manager, if you see the device shown as MTP USB device. You’ll see**MTP USB Device** listed in the list.**Highlight** it then click**Next** .
@@ -76,24 +84,16 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687724c3ed9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you see the device shown as Unknown Device. You’ll see an Android phone or Android device in the long list.**Highlight** it and click**Next** then select**MTP USB device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68796507b2b.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) The driver will install automatically. You just need to wait for a while until the installation completes.
 
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
 
@@ -105,13 +105,13 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
 
@@ -140,22 +140,22 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-shoot-straight-best-tripods-for-smartphones-today/"><u>[New] In 2024, Shoot Straight Best Tripods for Smartphones Today</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-crafting-an-engaging-online-presence-the-complete-guide-to-youtube-submissions/"><u>[Updated] Crafting an Engaging Online Presence The Complete Guide to YouTube Submissions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-unite-film-selections-with-playlist-accumulation/"><u>[Updated] Unite Film Selections with Playlist Accumulation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/a-comprehensive-guide-to-fixing-default-amd-radeon-wattman-setting-disruptions/"><u>A Comprehensive Guide to Fixing Default AMD Radeon Wattman Setting Disruptions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bcm20702a0-hardware-issue-detected/"><u>BCM20702A0 Hardware Issue Detected</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-steps-to-fix-battleye-service-launch-failures-linked-to-driver-problems-error-1450/"><u>Comprehensive Steps to Fix BattlEye Service Launch Failures Linked to Driver Problems (Error 1450)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correcting-system-writes-that-prevent-enex-loading-in-win11/"><u>Correcting System' Writes that Prevent eNEX Loading in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/dealing-with-acpi-device-id-33a0-faults/"><u>Dealing with Acpi Device ID 33A0 Faults</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-creative-wallpapers-for-each-windows-11-monitor/"><u>Explore Creative Wallpapers for Each Windows 11 Monitor</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-input-for-voice-chat-in-dota-2-pc-users/"><u>How to Restore Audio Input for Voice Chat in Dota 2 (PC Users)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721098464023-hp-wireless-keyboard-malfunction-heres-how-to-restore-functionality-quickly/"><u>HP Wireless Keyboard Malfunction? Here's How to Restore Functionality Quickly</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-fast-track-to-1000-subscribers-in-youtube-landscape/"><u>In 2024, Fast-Track To 1,000 Subscribers in Youtube Landscape</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103492046-quick-solutions-resolve-driver-unavailable-itbm-errors-instantly/"><u>Quick Solutions: Resolve 'Driver Unavailable' ITBM Errors Instantly!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-find-x7-ultra-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo Find X7 Ultra FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-xiaomi-redmi-note-12-4g-frp-by-drfone-android/"><u>The Updated Method to Bypass Xiaomi Redmi Note 12 4G FRP</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104378487-troubleshoot-and-fix-why-isnt-my-hp-wireless-keyboard-working-step-by-step/"><u>Troubleshoot and Fix: Why Isn't My HP Wireless Keyboard Working? Step by Step.</u></a></li>
-<li><a href="https://article-tips.techidaily.com/unveiling-best-android-photos-tactics/"><u>Unveiling Best Android Photos Tactics</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/outube-shorts-description-everything-you-need-to-know-for-2024/"><u>[New] YouTube Shorts Description Everything You Need to Know for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-master-class-on-managing-desktopmobile-screens-in-meet/"><u>2024 Approved Master Class on Managing Desktop/Mobile Screens in Meet</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/best-software-solutions-for-recovering-erased-reminders-and-memos-from-iphones/"><u>Best Software Solutions for Recovering Erased Reminders and Memos From iPhones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/common-problems-with-hp-wireless-peripherals-diagnosis-and-repair-tips/"><u>Common Problems with HP Wireless Peripherals: Diagnosis & Repair Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/copyright-free-meditation-music-download-for-2024/"><u>Copyright-Free Meditation Music Download for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-failure-intel-hardware-missing/"><u>Driver Failure: Intel Hardware Missing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-invalid-inf-for-service-installation/"><u>Fixed Invalid INF for Service Installation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-hardware-blockage-for-windows-10-system/"><u>Graphics Hardware Blockage for Windows 10 System</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-to-harness-analytics-for-live-event-success-for-2024/"><u>How to Harness Analytics for Live Event Success for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-a38-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/memorial-day-special-save-big-with-this-mighty-gaming-laptop-now-at-a-whopping-250-discount-zdnet/"><u>Memorial Day Special: Save Big with This Mighty Gaming Laptop Now at a Whopping $250 Discount - ZDNET</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-common-device-setup-issue-code-1-not-configured-correctly-in-brand/"><u>Overcoming the Common Device Setup Issue (Code 1 Not Configured Correctly) in [Brand]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-your-control-the-ultimate-guide-for-effortlessly-fixing-unresponsive-bluetech-in-windows-11-fix-revealed/"><u>Restore Your Control: The Ultimate Guide for Effortlessly Fixing Unresponsive BlueTech in Windows 11 (Fix Revealed)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nk-your-youtube-videos-with-these-non-youtube-edits-for-2024/"><u>Rethink Your YouTube Videos with These Non-Youtube Edits for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210769686-9781644118856-shamanic-reiki-drumming/"><u>Shamanic Reiki Drumming | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-battleye-initialization-failure-due-to-driver-loading-problems/"><u>Step-by-Step Solution for BattlEye Initialization Failure Due to Driver Loading Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/strategies-to-overcome-base-driver-issues-dm/"><u>Strategies to Overcome Base Driver Issues (DM)</u></a></li>
 </ul></div>
 

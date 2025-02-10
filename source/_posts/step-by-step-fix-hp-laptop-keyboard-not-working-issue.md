@@ -1,7 +1,7 @@
 ---
 title: Step by Step Fix HP Laptop Keyboard Not Working Issue
-date: 2025-01-22T18:37:54.725Z
-updated: 2025-01-29T17:11:05.570Z
+date: 2025-02-03T08:10:46.242Z
+updated: 2025-02-09T22:03:37.329Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
 
 We have received reports from user saying that they have trouble using their HP laptop keyboard. Some of them complained that certain keys, such as functional keys (F1, F12 etc.), are unusable, while a small number of users mentioned that the laptop keyboard is totally useless and they have to turn to an external one. If you are one of the “victims”, no worries, there are some effective ways that are going to help you solve this problem. Please follow the instructions below and get your laptop keyboard fixed!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Step 1: Reinstall Keyboard Driver**
 
 1) Follow the path:**Start**icon**\> Control Panel**(View by**Large icons)>** **Device Manager**.
@@ -33,13 +29,13 @@ We have received reports from user saying that they have trouble using their HP 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc4306d960.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When prompted to confirm the uninstall, press**OK**to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc902b86a2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait for the uninstall to finish. Then**restart**your computer. The keyboard driver will be reinstalled automatically once you restart your laptop. **Note**: If you need to type in password to log into your desktop, please use the on-screen keyboard by choosing the middle icon from the three icons on the bottom right corner, then select**On-Screen Keyboard**.
 
@@ -50,11 +46,7 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 2: Check Keyboard Settings**
@@ -62,6 +54,10 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 1) Click your**Start**button, then choose**Settings**icon from it. Then choose**Time & language**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcfa0068ce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) On the left side of the pane, choose**Region & language**, then on the right side, make sure that the language is set to**English (United States)**.
 
@@ -72,7 +68,7 @@ If not, click the**Options**button as shown in the screen shot.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd7a070a5e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then make sure the Keyboards is selected as**US**.
@@ -84,6 +80,10 @@ Then make sure the Keyboards is selected as**US**.
 If you have tried the above methods but they are not helpful, you may need to plug in a USB external keyboard and see if the second keyboard works. 1) If the external keyboard**works perfectly**, then you need to consider searching and downloading the latest version of the laptop driver from HP support. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). You can try its Free version, and update your drivers one by one. Or you can update all your missing and outdated drivers automatically with just one-click with Driver Easy [**Pro version**](https://tools.techidaily.com/drivereasy/download/). No worry to try it as it comes with a no-questions-asked 30-day money-back guarantee and professional tech support 24/7\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
 
@@ -109,20 +109,22 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unlocking-the-art-of-extended-frame-shooting/"><u>[Updated] In 2024, Unlocking the Art of Extended Frame Shooting</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-efficient-use-of-obs-with-zoom-video-platform/"><u>2024 Approved Efficient Use of OBS with Zoom Video Platform</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-smooth-authentication-on-iphone-x-mending-face-id/"><u>2024 Approved Unlocking Smooth Authentication on iPhone X Mending Face ID</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-detectors-under-the-lens-zerogpt-and-friends-a-closer-look-at-their-trustworthiness/"><u>AI Detectors Under the Lens - ZeroGPT and Friends: A Closer Look at Their Trustworthiness.</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-advice-navigating-to-safe-mode-and-disabling-graphics-card-software-in-windows-8-systems/"><u>Expert Advice: Navigating to Safe Mode and Disabling Graphics Card Software in Windows 8 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-initiate-safe-mode-in-windows-navigate-through-the-process-of-uninstalling-your-graphics-card-driver/"><u>How to Initiate Safe Mode in Windows Navigate Through the Process of Uninstalling Your Graphics Card Driver?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/imposter-extension-snatches-fb-login-data/"><u>Imposter Extension: Snatches FB Login Data</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-frosty-frontiers-winter-games-apex-moments/"><u>In 2024, Frosty Frontiers Winter Games Apex Moments</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-poco-c55-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Poco C55 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-your-iphones-external-drive-connection-problem-fixing-the-mtp-usb-driver-error/"><u>Resolve Your iPhone's External Drive Connection Problem: Fixing the MTP USB Driver Error</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-non-functional-bluetooth-drivers-for-qualcomm-atheros-devices-on-windows-11/"><u>Resolving Non-Functional Bluetooth Drivers for Qualcomm Atheros Devices on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reviving-your-non-responsive-hp-wireless-keyboard-easy-fixes-and-tips/"><u>Reviving Your Non-Responsive HP Wireless Keyboard: Easy Fixes & Tips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-correcting-your-devices-setup-overcoming-error-code-1-issues/"><u>Step-by-Step Guide to Correcting Your Device's Setup: Overcoming Error Code 1 Issues</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unraveling-the-epic-viking-quest-in-assassins-creed-valhalla-our-in-depth-review/"><u>Unraveling the Epic Viking Quest in Assassin's Creed: Valhalla - Our In-Depth Review</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win10-woes-fixing-elan-touchpad-errors/"><u>Win10 Woes: Fixing Elan Touchpad Errors</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-a-thorough-insight-into-obs-recording-technology/"><u>[New] In 2024, A Thorough Insight Into OBS Recording Technology</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-investing-in-the-future-learning-to-proficiently-record-skype-calls/"><u>[New] In 2024, Investing in the Future Learning to Proficiently Record Skype Calls</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-high-tech-vr-handhelds-our-top-10-list/"><u>[Updated] In 2024, High-Tech VR Handhelds Our Top 10 List</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-pathway-to-delicate-audible-reduction-within-lumafusion/"><u>[Updated] In 2024, The Pathway to Delicate Audible Reduction Within Lumafusion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-upgrading-laptop-and-mobile-conferencing-with-background-changes-for-2024/"><u>[Updated] Upgrading Laptop & Mobile Conferencing With Background Changes for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-unsuccessful/"><u>Driver Installation Unsuccessful</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-poco-f5-pro-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Poco F5 Pro 5G FRP</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-usb-composite-device-driver-error-solved/"><u>How to Fix USB Composite Device Driver Error [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lost-hardware-detectability-on-win-oses/"><u>Lost Hardware Detectability on Win OSes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-sm-bus-driver-problems-in-windows/"><u>Overcoming Sm Bus Driver Problems in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-for-broken-windows-serial-driver-connection/"><u>Solution for Broken Windows Serial Driver Connection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-airpods-that-just-wont-sync-or-reboot/"><u>Step-by-Step Solutions for AirPods That Just Won't Sync or Reboot</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-disappearing-win1110-pci-devices/"><u>Tackling Disappearing Win11/10 PCI Devices</u></a></li>
+<li><a href="https://facebook.techidaily.com/textual-transformation-in-chats-focus-and-style-techniques/"><u>Textual Transformation in Chats: Focus & Style Techniques</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-solution-to-incessant-bluetooth-on-win11-pcs/"><u>The Solution to Incessant Bluetooth on WIN11 PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-for-asus-pcs-in-win10/"><u>Troubleshooting Guide for ASUS PCs in Win10</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
 </ul></div>
 

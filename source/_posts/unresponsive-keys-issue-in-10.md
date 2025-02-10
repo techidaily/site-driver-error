@@ -1,7 +1,7 @@
 ---
 title: Unresponsive Keys Issue in 10
-date: 2025-01-27T20:47:17.684Z
-updated: 2025-01-29T20:00:46.677Z
+date: 2025-02-03T22:47:17.722Z
+updated: 2025-02-09T18:50:07.054Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -49,16 +45,12 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Keyboard** .
@@ -69,11 +61,11 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ## Method 3: Reinstall your keyboard driver
 
@@ -87,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
@@ -96,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
@@ -114,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
  2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
 
@@ -164,24 +164,21 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-critical-approaches-to-documenting-youtube-live-video/"><u>[New] 2024 Approved Critical Approaches to Documenting Youtube LIVE Video</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-optimizing-your-video-images-for-instagram-highlights/"><u>[New] In 2024, Optimizing Your Video Images for Instagram Highlights</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-power-of-personal-storytelling-in-video-content/"><u>2024 Approved The Power of Personal Storytelling in Video Content</u></a></li>
-<li><a href="https://driver-error.techidaily.com/a-step-by-step-fix-for-your-flipped-videos-on-the-latest-asus-laptop-models/"><u>A Step-by-Step Fix for Your Flipped Videos on the Latest ASUS Laptop Models</u></a></li>
-<li><a href="https://driver-error.techidaily.com/amend-broadcom-nic-error-on-precision-m65/"><u>Amend Broadcom NIC Error on Precision M65</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-play-8t-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor Play 8T? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bridging-the-gap-uncover-missing-bluetooth-device-space/"><u>Bridging the Gap: Uncover Missing Bluetooth, Device Space</u></a></li>
-<li><a href="https://driver-error.techidaily.com/clarifying-how-to-fix-problems-with-obsolete-usb-composite-hardware/"><u>Clarifying How to Fix Problems with Obsolete USB Composite Hardware</u></a></li>
-<li><a href="https://driver-error.techidaily.com/closed-issue-non-supported-intelamd-graphics-driver-compatibility-with-premier-pro/"><u>Closed Issue: Non-Supported Intel/AMD Graphics Driver Compatibility with Premier Pro</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correct-the-vertically-oriented-video-malfunction-in-your-asus-laptop-with-these-steasy-tips/"><u>Correct the Vertically Oriented Video Malfunction in Your ASUS Laptop with These Steasy Tips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-hindered-by-low-available-resources/"><u>Device Hindered by Low Available Resources</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104114505-fixing-slow-graphics-on-pc-our-team-cracked-the-rtx-gaming-issue-check-out-this-quick-fix/"><u>Fixing Slow Graphics on PC? Our Team Cracked the RTX Gaming Issue - Check Out This Quick Fix!</u></a></li>
-<li><a href="https://facebook.techidaily.com/harnessing-the-power-of-creativity-in-smm-via-ripl/"><u>Harnessing the Power of Creativity in SMM via Ripl</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-how-to-record-iphoneipads-screen/"><u>In 2024, How to Record iPhone/iPad’s Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-motorola-moto-g-stylus-2023-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Moto G Stylus (2023) Device</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/quick-steps-to-record-iphoneipad-screens-for-online-videos/"><u>Quick Steps to Record iPhone/iPad Screens for Online Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-troubleshooting-sound-problems-in-powerpoint/"><u>Ultimate Guide to Troubleshooting Sound Problems in PowerPoint</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unlocking-advanced-editing-techniques-with-macos-preview-for-stunning-images/"><u>Unlocking Advanced Editing Techniques with macOS Preview for Stunning Images</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721100355407-unraveling-the-mystery-of-classic-usb-composite-devices-resolved/"><u>Unraveling the Mystery of Classic USB Composite Devices - Resolved!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-undercover-audio-gems-top-6-non-public-mobile-voice-capturers/"><u>[New] In 2024, Undercover Audio Gems Top 6 Non-Public Mobile Voice Capturers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-video-twist-guide-from-portrait-to-panoramic-on-instagram/"><u>[New] The Ultimate Video Twist Guide From Portrait to Panoramic on Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-smart-speaker-companion-a-head-to-head-battle-between-alexa-and-google-assistant/"><u>Best Smart Speaker Companion: A Head-to-Head Battle Between Alexa and Google Assistant</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-48-cleared-from-device-hub/"><u>Error 48 Cleared From Device Hub</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-nokia-c22-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Nokia C22 Activity | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-voice-over-advantage-elevating-video-quality/"><u>In 2024, The Voice-Over Advantage Elevating Video Quality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-8-cameras-transforming-online-broadcasting/"><u>Innovative 8 Cameras Transforming Online Broadcasting</u></a></li>
+<li><a href="https://driver-error.techidaily.com/make-your-computer-listen-a-quick-guide-to-fix-unresponsive-bluetooth-on-latest-os-update-guide-inside/"><u>Make Your Computer Listen: A Quick Guide To Fix Unresponsive Bluetooth on Latest OS Update [Guide Inside]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-hardware-drivers-with-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Reinstall hardware drivers with Device Manager on Windows 10 & 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smoothing-over-elans-operational-snags-in-win10/"><u>Smoothing Over Elan's Operational Snags in Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/sound-fix-no-more-driver-trouble-hd/"><u>Sound Fix: No More Driver Trouble (HD)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-fixing-qualcomm-atheros-bluetooth-connectivity-on-windows-11/"><u>Step-by-Step Solution: Fixing Qualcomm Atheros Bluetooth Connectivity on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-the-legacy-of-usb-composite-devices-insights-and-solutions/"><u>Understanding the Legacy of USB Composite Devices: Insights and Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-the-potential-of-3d-printing-through-chatgpt-integration/"><u>Unleashing the Potential of 3D Printing Through ChatGPT Integration</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-7-bsod-troubleshooting-resolve-error-code-0x0000007e-step-by-step-guide/"><u>Windows 7 BSOD Troubleshooting: Resolve Error Code 0X0000007E Step-by-Step Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Mouse & Keyboard Glitch on Windows 11"
-date: 2025-01-26T19:11:49.778Z
-updated: 2025-01-29T17:56:52.089Z
+date: 2025-02-03T01:29:54.484Z
+updated: 2025-02-10T05:00:05.802Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Adjust your keyboard settings
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  1) On your PC desktop, click the**Action Center** icon in the lower-right corner and click**All settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Ease of Access** .
 
@@ -63,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Reinstall your keyboard driver
 
  If your keyboard driver has developed a fault, your keyboard may stop working. To fix it:
@@ -75,21 +79,21 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/device-manager.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand**Keyboards** then right-click**Standard PS/2 Keyboard** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
@@ -122,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ## Method 5: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -164,18 +164,24 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/remier-video-breakdown-fifa-analysis-graphs-for-2024/"><u>[New] Premier Video Breakdown FIFA Analysis Graphs for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-intel-high-definition-audio-driver-issues-on-windows-10/"><u>[Solved] Intel High Definition Audio Driver Issues on Windows 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ten-commandments-of-stream-undoing-on-twitch/"><u>2024 Approved Ten Commandments of Stream Undoing on Twitch</u></a></li>
-<li><a href="https://driver-error.techidaily.com/amd-radeon-r7-250-graphics-driver-problems-on-windows-10-solved/"><u>AMD Radeon R7 250 Graphics Driver Problems on Windows 10 [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/battleye-initialization-failure-resolving-the-driver-loading-error-code-1450/"><u>BattlEye Initialization Failure - Resolving the Driver Loading Error Code 1450</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-google-pixel-7a-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Google Pixel 7a Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/blackberry-z10-not-detected-by-debian-wheezy-issue-fixed/"><u>Blackberry Z10 Not Detected by Debian Wheezy - Issue Fixed</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-guide-solving-cannot-launch-far-cry-6-on-computer/"><u>Complete Guide: Solving 'Cannot Launch Far Cry 6 on Computer'</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/discover-the-art-of-bokeh-best-mobile-editing-apps/"><u>Discover the Art of Bokeh Best Mobile Editing Apps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-through-new-intel-82579lm-drivers-for-windows-systems/"><u>Navigating Through New: Intel 82579LM Drivers for Windows Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/optimize-your-device-now-download-the-new-lenovo-t450-drivers-today/"><u>Optimize Your Device Now! Download the New Lenovo T450 Drivers Today</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-quiet-sessions-restoring-roblox-sound-features-for-windows-users-xp-vista/"><u>Troubleshooting Quiet Sessions: Restoring Roblox Sound Features for Windows Users (XP, Vista)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unexpected-delight-how-the-ring-spotlight-cam-pro-surprised-me-an-in-depth-review-by-zdnet/"><u>Unexpected Delight: How The Ring Spotlight Cam Pro Surprised Me - An In-Depth Review by ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/incident-wireless-mouse-not-recognized-by-os/"><u>[Incident] Wireless Mouse Not Recognized by OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-touchpad-driver-missing-6-proved-fixes/"><u>[SOLVED] Touchpad Driver Missing | 6 Proved Fixes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-rhythm-rendezvous-optimal-dj-video-selections/"><u>[Updated] 2024 Approved Rhythm Rendezvous Optimal DJ Video Selections</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-efficiently-setting-up-mixer-on-macos/"><u>[Updated] In 2024, Efficiently Setting Up Mixer on MacOS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/compact-5-listing-visuals-with-accompaniment-recorders/"><u>Compact 5 Listing Visuals with Accompaniment Recorders</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-comfortable-and-durable-x-chair-x4-executive-seat/"><u>Comprehensive Review of the Comfortable and Durable X-Chair X4 Executive Seat</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/dirt-5-troubleshooting-guide-solving-game-crashes-on-windowsmac/"><u>Dirt 5 Troubleshooting Guide - Solving Game Crashes on Windows/Mac</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/efficient-and-effective-your-key-to-instant-file-restoration/"><u>Efficient & Effective - Your Key to Instant File Restoration</u></a></li>
+<li><a href="https://article-tips.techidaily.com/elite-6-tools-to-convert-visual-text-into-different-languages-for-2024/"><u>Elite 6 Tools to Convert Visual Text Into Different Languages for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-effectively-deal-with-nvidia-gpu-error-codes-gtx-950-code-43-in-windows-11-resolved/"><u>How to Effectively Deal with NVIDIA GPU Error Codes: GTX 950 'Code 43' In Windows 11 Resolved</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-touch-and-the-imperative-for-authentic-content/"><u>Human Touch and the Imperative for Authentic Content</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-sign-of-optical-drives-on-win11-screened/"><u>No Sign of Optical Drives on Win11 Screened</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-essentials-for-successful-online-presence-understanding-facebook-twitter-instagram-youtube-dynamics/"><u>Social Media Essentials for Successful Online Presence: Understanding Facebook, Twitter, Instagram, YouTube Dynamics</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solutions-for-unrecognized-usb-errors-in-windows-oses/"><u>Solutions for Unrecognized USB Errors in Windows OSes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-for-unresponsive-wireless-keyboards-on-pcs-with-windows-os/"><u>Step-by-Step Solutions for Unresponsive Wireless Keyboards on PCs with Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-unable-to-locate-driver-software/"><u>System Unable to Locate Driver Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-complete-vivacut-overview-editors-deep-dive-for-2024/"><u>The Complete VivaCut Overview Editor's Deep Dive for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-prevents-graphics-driver-installation/"><u>Windows 10 Prevents Graphics Driver Installation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-streamline-your-bluetooth-setup/"><u>Windows 10: Streamline Your Bluetooth Setup</u></a></li>
 </ul></div>
 
