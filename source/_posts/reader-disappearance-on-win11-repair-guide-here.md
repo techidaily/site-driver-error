@@ -1,7 +1,7 @@
 ---
 title: Reader Disappearance on Win11 - Repair Guide Here
-date: 2025-02-06T21:36:39.528Z
-updated: 2025-02-10T05:44:37.925Z
+date: 2025-02-15T16:12:54.931Z
+updated: 2025-02-20T07:59:17.680Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
  Method 3:[**Manually fix corrupted registry entries**](https://tidio.pxf.io/9grog5)
  Method 4:[**Create a registry subkey**](https://modlily.sjv.io/aw92wr)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **1: Uninstall IDE ATA/ ATAPI controllers**
 
  One of the reasons why you can’t see DVD/CD-ROM in your Windows 10 PC could be faulty device drivers. You can reinstall the drivers to fix it. Here is how:
@@ -40,17 +36,13 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6098ec3402.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate**IDE ATA/ ATAPI controllers** .
  3) Right-click **ATA Channel 0** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e194a84fe7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right-click **ATA Channel 1** and click**Uninstall** .
@@ -62,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
  6) Reboot your computer after these changes.
 
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **2: Update drivers**
 
@@ -79,11 +75,19 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a61a4afa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
 
@@ -95,18 +99,10 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Follow the path:
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\ {4D36E965-E325-11CE-BFC1-08002BE10318}**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
 
@@ -115,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
  4) **Delete**  them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
 
@@ -129,17 +129,21 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd3791d37b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click the blank space on the right panel, when the**New** option pops up, click **Key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd4e640268.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Create a new**Controller0** key under**atapi** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
@@ -148,10 +152,6 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -172,20 +172,24 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-mastering-stardew-on-ginger-islet/"><u>[New] Mastering Stardew on Ginger Islet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-from-scratch-to-screen-video-editing-with-youtube-and-others/"><u>[Updated] In 2024, From Scratch to Screen Video Editing with YouTube & Others</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721802080511-bringing-advanced-search-to-your-fingers-bings-ai-for-smartphones/"><u>Bringing Advanced Search to Your Fingers: Bing’s AI for Smartphones.</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/efficient-techniques-accelerating-or-decelerating-instagram-stories/"><u>Efficient Techniques Accelerating or Decelerating Instagram Stories</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/free-mac-dvd-converter-effortless-transformation-of-dvds-to-hd-formats-like-mp4-mov-and-more/"><u>Free Mac DVD Converter: Effortless Transformation of DVDs to HD Formats Like MP4, MOV & More!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gadget-disallows-car-load/"><u>Gadget Disallows Car Load</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-cheerful-account-creation-handbook/"><u>In 2024, Cheerful Account Creation Handbook</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keyboard-fixed-operating-smoothly-on-windows-11/"><u>Keyboard Fixed, Operating Smoothly on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/successfully-repairing-non-functional-qualcomm-atheros-bluetooth-drivers-for-windows-10/"><u>Successfully Repairing Non-Functional Qualcomm Atheros Bluetooth Drivers for Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-top-10-strategies-for-using-chatgpt-to-secure-your-next-job-on-linkedin/"><u>The Top 10 Strategies for Using ChatGPT to Secure Your Next Job on LinkedIn</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-ultimate-solution-for-the-inoperative-keyboard-on-your-beloved-hp-notebook-fix-it-today-article-title-article-title-with-phase-descriptions402-character5/"><u>The Ultimate Solution for the 'Inoperative' Keyboard on Your Beloved HP Notebook - Fix It Today! (Article Title) — Article Title with Phase Descriptions—402 Characters</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-non-responsive-bluetooth-keyboards-in-windows-environments/"><u>Troubleshooting Non-Responsive Bluetooth Keyboards in Windows Environments</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-system-stabilized-keyboard-ok/"><u>Windows 11 System Stabilized: Keyboard OK</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-7-amazing-builds-in-creative-mode/"><u>[New] In 2024, 7 Amazing Builds in Creative Mode</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-your-guide-to-smooth-browsing-select-the-top-7-android-adblockers/"><u>[New] In 2024, Your Guide to Smooth Browsing Select the Top 7 Android AdBlockers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-transform-your-in-game-identity-with-these-free-free-fire-vocal-hacks/"><u>2024 Approved Transform Your In-Game Identity with These Free Free Fire Vocal Hacks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/address-realtek-lan-problem-post-windows-10-upgrade/"><u>Address Realtek LAN Problem Post-Windows 10 Upgrade</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-error-code-bcm20702a0-unavailable/"><u>Driver Error Code BCM20702A0 Unavailable</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortless-solutions-overcoming-the-itbm-driver-access-problem/"><u>Effortless Solutions: Overcoming the ITBM Driver Access Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-installer-maneuver-victory-achieved/"><u>Graphics Installer Maneuver – Victory Achieved</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-freeform-thinking-boosts-creativity-discover-the-benefits-of-using-this-technique-in-your-brainstorming-sessions/"><u>How Freeform Thinking Boosts Creativity: Discover the Benefits of Using This Technique in Your Brainstorming Sessions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-microsofts-family-safety-landscape/"><u>Navigating Microsoft's Family Safety Landscape</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-12-pro-max-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone 12 Pro Max WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
+<li><a href="https://driver-error.techidaily.com/secrets-to-silence-wired-bluetooth-on-windows/"><u>Secrets to Silence Wired Bluetooth on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-intel-wi-fi-6-ax201-malfunctioning/"><u>Solved: Intel Wi-Fi 6 Ax201 Malfunctioning</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-complaint-non-responsive-keyboard/"><u>System Complaint: Non-Responsive Keyboard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-reviews-and-insights-by-toms-hardware-your-ultimate-guide/"><u>Tech Reviews & Insights by Tom's Hardware: Your Ultimate Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-guide-to-inspiring-youtube-names-for-2024/"><u>The Ultimate Guide to Inspiring YouTube Names for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-10-telefonos-mas-ideales-para-la-filmacion-de-video-en-2024-ultimas-opciones/"><u>Top 10 Teléfonos Más Ideales Para La Filmación De Vídeo en 2024 - Últimas Opciones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-non-functional-qualcomm-atheros-bluetooth-in-windows-11-solved/"><u>Troubleshooting Non-Functional Qualcomm Atheros Bluetooth in Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-device-not-recognized-in-windows-heres-how-to-fix-it/"><u>USB Device Not Recognized in Windows? Here's How to Fix It!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Restore Operational Capacity in Flawed USB-Serial Cables, Windows
-date: 2025-02-02T22:34:26.645Z
-updated: 2025-02-10T03:36:51.530Z
+date: 2025-02-17T17:49:46.728Z
+updated: 2025-02-20T04:27:47.626Z
 tags:
   - win11
   - win10
@@ -21,14 +21,14 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 
  Don’t panic. Certainly, you’re not the only one. We’ve seen many Windows users reporting this**Prolific USB to Serial driver not working on Windows** issue. More importantly, you can easily fix it with the solutions here. Read on and see how…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. **[Update your Prolific USB to Serial driver to the latest version](https://bluettide.pxf.io/ekmjb2)**
 2. **[Roll your Prolific USB to Serial driver back to an older version](https://pish-posh-baby.sjv.io/g1jg15)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 1: Update your Prolific USB to Serial driver to the latest version
 
@@ -46,11 +46,11 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back** guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb072bf3dffe.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 2: Roll your Prolific USB to Serial driver back to an older version
@@ -69,17 +69,17 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075701f308.jpg)
 4. Click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075c361cc6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select**Let me pick from a list of available drivers on my computer** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075da68269.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Select an older version on the Model list. Then**Next** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb076059c302.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then the driver you select would be installed on your Windows 10 computer automatically.
 
@@ -107,20 +107,24 @@ Once it’s done, connect your device again and see if it goes well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/need-immediate-assistance-cant-stop-my-pcs-bluetooth-from-working75-chars/"><u>“Need Immediate Assistance, Can't Stop My PC’s Bluetooth From Working!”(75 Chars)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-printer-driver-is-unavailable-on-windows/"><u>[SOLVED] Printer Driver Is Unavailable on Windows</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-mastering-youtube-profits-ajeys-guidebook/"><u>[Updated] In 2024, Mastering YouTube Profits Ajey's Guidebook</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-lava-blaze-2-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Lava Blaze 2 Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-analysis-of-directed-motion-tracking-for-2024/"><u>Comprehensive Analysis of Directed Motion Tracking for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-savings-on-your-macbook-pro-13-top-picks-for-economical-and-reliable-cases-reviewed/"><u>Maximizing Savings on Your MacBook Pro 13: Top Picks for Economical and Reliable Cases Reviewed</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/navigate-your-way-to-joining-google-live-video-sessions/"><u>Navigate Your Way to Joining Google Live Video Sessions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/realtek-network-issue-post-windows-10-update-resolved/"><u>Realtek Network Issue Post-Windows 10 Update - Resolved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103163615-resolution-zero-connection-woes-wacom-fixed/"><u>Resolution: Zero-Connection Woes, Wacom Fixed!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-compatibility-issue-unsupported-amdintel-graphics-with-premiere-pro/"><u>Resolved Compatibility Issue: Unsupported AMD/Intel Graphics with Premiere Pro</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-hardware-drivers-in-device-manager/"><u>Resolving Hardware Drivers in Device Manager</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solution-guide-adding-required-drivers-in-windows-operating-systems/"><u>Solution Guide: Adding Required Drivers in Windows Operating Systems</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/streamlining-virtual-meetings-in-google-mail-for-2024/"><u>Streamlining Virtual Meetings in Google Mail for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/teslas-robotaxi-unveiled-pricing-details-and-launch-timeline/"><u>Tesla's RoboTaxi Unveiled: Pricing Details & Launch Timeline</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-elevate-your-video-editing-game-best-premiere-pro-transitions/"><u>Updated 2024 Approved Elevate Your Video Editing Game Best Premiere Pro Transitions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-streamline-image-editing-ditching-backgrounds-in-affinity-photo-for-2024/"><u>[New] Streamline Image Editing Ditching Backgrounds in Affinity Photo for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-master-the-art-of-youtube-video-sizing-shape-and-clarity/"><u>[Updated] In 2024, Master the Art of YouTube Video Sizing, Shape & Clarity</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-innovative-templates-for-stellar-youtube-video-decks-for-2024/"><u>[Updated] Innovative Templates for Stellar YouTube Video Decks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/acquistare-il-pacchetto-movavi-pro-per-le-aziende-la-soluzione-di-editing-video-migliore/"><u>Acquistare Il Pacchetto Movavi Pro per Le Aziende: La Soluzione Di Editing Video Migliore</u></a></li>
+<li><a href="https://driver-error.techidaily.com/android-wrapper-for-windows-samsung/"><u>Android Wrapper for Windows (Samsung)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluray-drive-not-visible-windows-11-fix-unveiled/"><u>BluRay Drive Not Visible: Windows 11 Fix Unveiled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bridging-the-gap-unblocking-missing-bluetooth-links/"><u>Bridging the Gap: Unblocking Missing Bluetooth Links</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bringing-back-usb-serial-harmony-in-windows-environments/"><u>Bringing Back USB-Serial Harmony in Windows Environments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-guide-to-repairing-driver-loading-glitch-in-battleye-service-error-145ebyte/"><u>Comprehensive Guide to Repairing Driver Loading Glitch in BattlEye Service Error 145Ebyte</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721101678126-device-reunion-wacoms-joyful-news/"><u>Device Reunion: Wacom's Joyful News</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103466605-fix-generic-pnp-monitor-driver-issue-easily/"><u>Fix Generic PnP Monitor Driver Issue. Easily!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721101518142-how-to-rejuvenate-your-malfunctioning-dolby-headphone-feature-solution-found/"><u>How to Rejuvenate Your Malfunctioning Dolby Headphone Feature? Solution Found!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-chroma-blades-the-new-era-of-high-definition-capture/"><u>In 2024, Chroma Blades The New Era of High-Definition Capture</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-default-homescreen-from-windows-11-setup/"><u>Removing Default Homescreen From Windows 11 Setup</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-cost-effective-camera-guidebook/"><u>The Cost-Effective Camera Guidebook</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oneplus-nord-ce-3-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track OnePlus Nord CE 3 5G Location | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098927238-troubleshooting-qualcomm-atheros-bluetooth-driver-problems-in-windows-10-solved/"><u>Troubleshooting Qualcomm Atheros Bluetooth Driver Problems in Windows 10 - Solved!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-the-asus-zephyrus-g14-why-its-a-game-changer-for-serious-gamers/"><u>Unboxing the Asus Zephyrus G14: Why It's a Game-Changer for Serious Gamers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-netflixs-original-dvd-rentals-a-comprehensive-overview/"><u>Unveiling Netflix's Original DVD Rentals: A Comprehensive Overview</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Dysfunctional USB to Serial Cables on PCs
-date: 2025-01-10T01:43:43.389Z
-updated: 2025-01-15T20:32:35.676Z
+date: 2025-02-12T21:45:42.443Z
+updated: 2025-02-20T08:38:51.722Z
 tags:
   - win11
   - win10
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/6aed0c00afe51b22c20e76d5f6ace236f0bc693b5
  Don’t panic. Certainly, you’re not the only one. We’ve seen many Windows users reporting this**Prolific USB to Serial driver not working on Windows** issue. More importantly, you can easily fix it with the solutions here. Read on and see how…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -39,15 +39,15 @@ thumbnail: https://thmb.techidaily.com/6aed0c00afe51b22c20e76d5f6ace236f0bc693b5
 1. **Manual driver update –** You can update your Prolific USB to Serial driver manually by going to the official [Prolific website](http://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41&showlevel=0041-0041) , and searching for the most recent correct driver. Be sure to choose the only driver that is compatible with your Windows version.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb06e0d6f148.jpg)
 2. **Automatic driver update –** If you don’t have the time, patience, or computer skills to update your Prolific USB to Serial driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your exact Prolific adapter, and your Windows version, and it will download and install them correctly:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb0704ce6b75.jpg)
 3. Click**Update** next to the flagged Prolific USB to Serial driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back** guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb072bf3dffe.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Roll your Prolific USB to Serial driver back to an older version
 
@@ -62,10 +62,6 @@ Here’s how you can do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. Double-click**Ports(COM & LPT)** , then**right-click** on your Prolific USB to Serial driver to select**Update driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075701f308.jpg)
 4. Click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075c361cc6.png)
 
@@ -74,12 +70,16 @@ Here’s how you can do it:
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Select**Let me pick from a list of available drivers on my computer** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb075da68269.png)
 
 6. Select an older version on the Model list. Then**Next** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb076059c302.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then the driver you select would be installed on your Windows 10 computer automatically.
 
@@ -107,17 +107,22 @@ Once it’s done, connect your device again and see if it goes well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-mastering-editing-skills-for-professional-facebook-reels/"><u>[Updated] Mastering Editing Skills for Professional Facebook Reels</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-best-practices-in-selecting-screen-recording-tools-for-windows-10/"><u>2024 Approved Best Practices in Selecting Screen Recording Tools for Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphics-hardware-blockade-in-windows-environment/"><u>Graphics Hardware Blockade in Windows Environment</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-exquisite-drone-fleet-the-pinnacle-of-visual-artistry/"><u>In 2024, Exquisite Drone Fleet The Pinnacle of Visual Artistry</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 11 Passcode not Working?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-tier-eighth-edition-of-image-blender-tool/"><u>In 2024, Top Tier Eighth Edition of Image Blender Tool</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-errors-code-37-resolved/"><u>No More Errors, Code 37 Resolved</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/removing-unwanted-audio-from-videos-essential-steps-for-2024/"><u>Removing Unwanted Audio From Videos - Essential Steps for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-copy-and-paste-failures-on-windows-10-system/"><u>Resolving Copy and Paste Failures on Windows 10 System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-windows-11-creators-update-and-missing-webcam-detected-by-logitech-brio-heres-help-156-chars/"><u>Troubleshooting Windows 11 Creators Update & Missing Webcam Detected by Logitech Brio? Here's Help! (156 Chars)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/turned-core-isolation-off-for-wdcsam64prewin8sys/"><u>Turned Core Isolation Off for wdcsam64_prewin8.sys</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unveiling-social-media-puzzles-how-to-use-facebook-insights/"><u>Unveiling Social Media Puzzles How to Use Facebook Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-essential-knowledge-for-saving-app-activity/"><u>[New] 2024 Approved Essential Knowledge for Saving App Activity</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unlock-new-dimensions-of-your-missing-iphone-x/"><u>[Updated] 2024 Approved Unlock New Dimensions of Your Missing iPhone X</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-cut-to-slowness-the-ultimate-guide-for-reel-makers/"><u>[Updated] Cut to Slowness The Ultimate Guide for Reel Makers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-pinnacle-fix-in-digital-dimensions/"><u>[Updated] In 2024, Pinnacle Fix in Digital Dimensions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/15-best-stop-motion-films-of-all-time-for-2024/"><u>15 Best Stop Motion Films of All Time for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipation-builds-the-latest-rumors-confirm-new-ipad-models-set-for-release-in-spring-of-2024-zdnet-insights/"><u>Anticipation Builds: The Latest Rumors Confirm New iPad Models Set for Release in Spring of 2024 - ZDNet Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-22-squashed-activation-achieved/"><u>Error 22 Squashed; Activation Achieved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-dolby-audio-driver-error-messages-after-installation-answer-found/"><u>Fixing 'Dolby Audio Driver Error Messages After Installation', Answer Found! ✔️</u></a></li>
+<li><a href="https://driver-error.techidaily.com/flawless-mice-action-on-win10-systems/"><u>Flawless Mice Action on Win10 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-rectify-top-to-bottom-screen-display-on-an-asus-computer-for-optimal-viewing/"><u>How to Rectify Top-to-Bottom Screen Display on an ASUS Computer for Optimal Viewing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-restore-bluetooth-connectivity-with-qualcomm-atheros-on-windows-11/"><u>How to Restore Bluetooth Connectivity with Qualcomm Atheros on Windows 11</u></a></li>
+<li><a href="https://win-data.techidaily.com/pcsandisk-ssd5/"><u>PCで検出されないSanDisk SSDを使用する際の解決策5つ</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/pixelpilot-studio-plus-advanced-os-recorder/"><u>PixelPilot Studio Plus Advanced OS Recorder</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-bsod-in-windows-unfair-irql/"><u>Resolved BSOD in Windows: Unfair IRQL</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-master-file-removal-in-powershell-for-windows-users/"><u>Step-by-Step Guide: Master File Removal in PowerShell for Windows Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-and-seagate-recovery-for-unseen-hard-drive/"><u>Win11 & Seagate: Recovery for Unseen Hard Drive</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-drivers-simplified-and-solved-quickly/"><u>Windows Drivers, Simplified and Solved Quickly</u></a></li>
 </ul></div>
 

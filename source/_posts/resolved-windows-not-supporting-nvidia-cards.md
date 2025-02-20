@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Windows Not Supporting Nvidia Cards"
-date: 2025-02-03T20:40:32.661Z
-updated: 2025-02-09T20:45:19.517Z
+date: 2025-02-16T06:06:15.414Z
+updated: 2025-02-19T18:18:23.365Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 
  If you ever encounter the**graphics card not detected on Device Manager** problem, you’re certainly not alone. But don’t worry, it can be easily fixed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for Nvidia Graphics Cards Not Detected
 
  All the fixes below work in**Windows 11, 10,** **8.1,** and**7** . You may not have to try them all; just work your way down the list until the**graphics card not showing up in Device Manager** issue goes away.
@@ -31,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 4. **[Repair corrupted system files](https://coinrule.sjv.io/rqzonv)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Show hidden devices
 
@@ -47,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/windows11showhiddendevices.jpg)
 3. Click **Action** \> **Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9234ccb8e93.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Check if your Nvidia graphics driver shows up under the **Display adapters** category as a gray-out device, i.e. it looks pale compared to other functioning devices. If so, right-click your Nvidia display card and select**Uninstall device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-30.png)
 5. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .  
@@ -54,9 +50,17 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-32.png)
 6. Then restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. If the Nvidia display card remains disappeared when your computer restarts, don’t worry, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -72,11 +76,11 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/nvidia-graphics.png)
 4. **Restart** your computer, then check if the**graphics card not detected** problem is resolved. If yes, then congrats! But if the issue remains, please move on to**Fix 3** , below.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ## Fix 3: Update your BIOS
 
@@ -91,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Repair corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -106,11 +106,11 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -137,24 +137,22 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/-filmmakers-guide-to-mastering-green-screen-technology/"><u>[New] A Filmmaker's Guide to Mastering Green Screen Technology</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-download-friends-8-top-rated-free-fb-extractors/"><u>[Updated] 2024 Approved Download Friends 8 Top-Rated Free FB Extractors</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-revolutionize-visual-content-leading-montage-tools-for-phones-for-2024/"><u>[Updated] Revolutionize Visual Content Leading Montage Tools for Phones for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-step-by-step-screen-record-your-win10-game-log/"><u>2024 Approved Step-by-Step Screen Record Your Win10 Game Log</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-secrets-to-unhiding-apps-on-your-iphone-device/"><u>Discover the Secrets to Unhiding Apps on Your iPhone Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diy-guide-overcoming-gtx-graphics-problems-error-43-in-windows-11-systems/"><u>DIY Guide: Overcoming GTX Graphics Problems (Error 43) in Windows 11 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-resolved-code-48-in-devmgr/"><u>Error Resolved: Code 48 in DevMgr</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ethernet-controller-bug-in-win11-realtek-solution/"><u>Ethernet Controller Bug in Win11 - Realtek Solution</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/fastest-8-tech-to-grab-screen-frames/"><u>Fastest 8 Tech to Grab Screen Frames</u></a></li>
-<li><a href="https://driver-error.techidaily.com/get-your-android-on-pc-samsung-edition/"><u>Get Your Android on PC - Samsung Edition</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-the-radeon-wattman-defaults-crash-and-recovery-issue-a-step-by-step-guide/"><u>How to Fix the 'Radeon WattMan Defaults Crash & Recovery' Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-sidestep-personalized-podcast-suggestions-in-spotify/"><u>In 2024, Sidestep Personalized Podcast Suggestions in Spotify</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-viral-visuals-photos-and-their-lives/"><u>In 2024, Viral Visuals Photos and Their Lives</u></a></li>
-<li><a href="https://driver-error.techidaily.com/neutralized-hardware-misreadings/"><u>Neutralized Hardware Misreadings</u></a></li>
-<li><a href="https://driver-error.techidaily.com/nvidia-rtx-games-performance-unmet-quick-fix/"><u>Nvidia RTX Games Performance Unmet - Quick Fix</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-errors-with-invalid-hardware-drivers-in-computer-systems/"><u>Overcoming Errors with Invalid Hardware Drivers in Computer Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/precision-movement-no-lag-full-control/"><u>Precision Movement, No Lag, Full Control</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-basics-what-does-rtx-in-gpus-mean/"><u>Understanding the Basics: What Does RTX in GPUs Mean?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-cutting-and-splicing-360-degree-footage-in-adobe-premiere/"><u>[New] Expert Tips for Cutting and Splicing 360-Degree Footage in Adobe Premiere</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-a-successful-career-through-youtube-short-film-making/"><u>[New] In 2024, Building a Successful Career Through YouTube Short Film-Making</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-essential-youtube-short-content-techniques-unveiled/"><u>[Updated] Essential YouTube Short Content Techniques Unveiled</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-cinematic-close-ups-elevating-your-work-with-kinemaster/"><u>[Updated] In 2024, Cinematic Close-Ups Elevating Your Work with Kinemaster</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-lost-discdvdcd-drive-sense/"><u>Fix: Lost Disc/DVD/CD Drive Sense</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-non-functional-serial-ports-winside/"><u>Fixing Non-Functional Serial Ports, WINSIDE</u></a></li>
+<li><a href="https://driver-error.techidaily.com/handy-guide-addressing-mtp-driver-errors/"><u>Handy Guide: Addressing MTP Driver Errors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-make-purchases-on-iphone-13-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID make purchases on iPhone 13 ?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ideport0-system-flaw-detected/"><u>Ideport0 System Flaw Detected</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-french-books-best-novels-for-beginners-outlined/"><u>Mastering French Books: Best Novels For Beginners Outlined</u></a></li>
+<li><a href="https://win-tips.techidaily.com/overcoming-sorry-cannot-connect-issues-with-your-microsoft-office-365-account/"><u>Overcoming 'Sorry, Cannot Connect' Issues with Your Microsoft Office 365 Account</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-common-hurdles-getting-counter-strike-global-offensive-up-and-running/"><u>Overcoming Common Hurdles: Getting Counter Strike Global Offensive Up and Running</u></a></li>
+<li><a href="https://driver-error.techidaily.com/preventative-measures-for-stable-nvidia-codes/"><u>Preventative Measures for Stable Nvidia Codes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/realtek-high-definition-audio-drivers-for-windows-7-solved/"><u>Realtek High Definition Audio Drivers for Windows 7 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-compatibility-problems-for-aged-usb-composite-systems-solved/"><u>Resolving Compatibility Problems for Aged USB Composite Systems [SOLVED]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-premium-vehicle-cleaners-expert-reviews-and-comparisons/"><u>Top 6 Premium Vehicle Cleaners : Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-the-gtx-ninety-five-error-codes-solutions-for-windows-eleven/"><u>Troubleshooting the GTX Ninety-Five Error Codes: Solutions for Windows Eleven</u></a></li>
 </ul></div>
 

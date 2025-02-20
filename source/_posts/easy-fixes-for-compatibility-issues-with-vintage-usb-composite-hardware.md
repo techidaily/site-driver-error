@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for Compatibility Issues with Vintage USB Composite Hardware
-date: 2025-02-06T04:52:43.218Z
-updated: 2025-02-09T21:04:50.989Z
+date: 2025-02-15T20:17:01.924Z
+updated: 2025-02-19T18:19:21.133Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 2. **[Reinstall your USB controller drivers](https://imp.i110150.net/r5bmpn)**
 3. **[Use the Windows USB Troubleshooter](https://ukaidot.sjv.io/daqnoj)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your USB Composite Device driver
 
  The most likely cause for your USB Composite Device error is a device driver problem.
@@ -48,18 +44,14 @@ Fortunately, this is one of the easiest problems to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb894ac5bd51.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb894ea5449a.jpg)
 4. Restart your computer and check if your USB Composite Device now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 2: Reinstall your USB controller drivers
 
@@ -69,7 +61,7 @@ Fortunately, this is one of the easiest problems to fix.
 **key**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  and  
@@ -79,12 +71,20 @@ Fortunately, this is one of the easiest problems to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b616832c16a0.jpg)
 3. In Device Manger, scroll down to find**Universal Serial Bus controllers** and expand the entry.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b61714f05a95.jpg)
 4. Right-click on the first USB device and select**Uninstall device**  to remove it.  
 
 **Important:** Make sure you’ve saved any open files on your computer before you click**Uninstall device** , as you might need to force shutdown and restart later.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6171a9ae8b0.jpg)
 5. Repeat step 4) with every other USB device that is listed under the**Universal Serial Bus controllers** entry.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** Some USB devices have to do with your wired mouse, keyboard etc, which means uninstalling those devices will make them not working, don’t worry, just temporarily. As long as Windows restarts, it will automatically install the drivers again.
 6. Once you’ve uninstalled them all,**restart** your computer.  
@@ -95,7 +95,7 @@ Fortunately, this is one of the easiest problems to fix.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Use the Windows USB Troubleshooter
@@ -125,14 +125,21 @@ Fortunately, this is one of the easiest problems to fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-gear-vr-latest-phone-compatibility-guide/"><u>[New] Gear VR Latest Phone Compatibility Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-excellence-in-dialogue-maker-land/"><u>[Updated] 2024 Approved Excellence in Dialogue Maker Land</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/kodi-imdb-integration-tutorial-building-and-using-your-movie-lists-step-by-step-guide/"><u>Kodi IMDB Integration Tutorial: Building and Using Your Movie Lists - Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/logitech-hub-no-show-fix-windows-1011-issue/"><u>Logitech Hub No Show? Fix Windows 10/11 Issue</u></a></li>
-<li><a href="https://driver-error.techidaily.com/nvidia-driver-compatibility-fixed/"><u>Nvidia Driver Compatibility Fixed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-nonfunctional-right-click-windows-11-touchpad-armageddon-reversed/"><u>Overcoming Nonfunctional Right Click - Windows 11 Touchpad Armageddon Reversed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/system-capacity-underutilized-yet-unavailable/"><u>System Capacity Underutilized, Yet Unavailable</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-inner-mechanics-of-ai-black-boxes-explained/"><u>The Inner Mechanics of AI Black Boxes Explained</u></a></li>
-<li><a href="https://win-guides.techidaily.com/upgrade-your-machine-smartly-top-yl-recommendations-for-a-power-packed-computer-experience/"><u>Upgrade Your Machine Smartly: Top YL Recommendations for a Power-Packed Computer Experience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/our-freedom-awaits-explore-these-top-6-youtube-shortdowners-for-2024/"><u>[New] Your Freedom Awaits Explore These Top 6 YouTube Shortdowners for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-exploring-the-future-together-top-vr-gear/"><u>[Updated] 2024 Approved Exploring the Future Together Top VR Gear</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-youtube-to-studio-quality-free-converters-for-wav-format/"><u>[Updated] 2024 Approved From YouTube to Studio Quality Free Converters for WAV Format</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/become-fluent-in-tagalog-fast-and-easy/"><u>Become Fluent in Tagalog Fast and Easy</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-engagement-crafting-effective-thumbnails-for-2024/"><u>Boost Engagement Crafting Effective Thumbnails for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-methods-to-overcome-hcom-monitor-driver-error-during-installation/"><u>Effective Methods to Overcome Hcom Monitor Driver Error During Installation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102773050-fixed-high-definition-hub-alert-relax/"><u>Fixed High-Definition Hub Alert, Relax!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nizing-your-music-a-youtube-playlist-journey/"><u>Harmonizing Your Music A YouTube Playlist Journey</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104746224-how-to-resolve-nvidia-geforce-gtx-950-code-43-error-on-your-windows-11-pc-easily/"><u>How to Resolve NVIDIA GeForce GTX 950 Code 43 Error on Your Windows 11 PC Easily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-creative-potential-with-filmora-answers/"><u>In 2024, Unlocking Creative Potential with Filmora Answers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-win10-issues-with-elan-touchpad/"><u>Mastering Win10 Issues with Elan Touchpad</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-device-functionality-in-windows-nt31/"><u>Restore Device Functionality in Windows NT3.1</u></a></li>
+<li><a href="https://driver-error.techidaily.com/service-inf-section-validation-and-correction/"><u>Service INF Section Validation and Correction</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-driver-compatibility-issue-with-intel-and-amd-graphics-in-premiere-pro/"><u>Solved Driver Compatibility Issue with Intel & AMD Graphics in Premiere Pro</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tailored-tunes-creating-custom-youtube-playlists-for-2024/"><u>Tailored Tunes Creating Custom Youtube Playlists for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-fixing-fallout-3-crashes-on-windows-10/"><u>Troubleshooting Tips: Fixing Fallout 3 Crashes on Windows 10</u></a></li>
 </ul></div>
 

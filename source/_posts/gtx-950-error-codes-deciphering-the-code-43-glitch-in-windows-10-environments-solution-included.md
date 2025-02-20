@@ -1,7 +1,7 @@
 ---
 title: "GTX 950 Error Codes: Deciphering the 'Code 43' Glitch in Windows 10 Environments (Solution Included)"
-date: 2025-02-06T01:25:53.955Z
-updated: 2025-02-09T17:31:15.008Z
+date: 2025-02-15T01:10:04.034Z
+updated: 2025-02-20T06:59:03.998Z
 tags:
   - win11
   - win10
@@ -47,11 +47,19 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
 
@@ -62,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded.
 
@@ -83,25 +87,25 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Option 2: Update Windows 10**
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click the**Check for updates** button to see if there are any new updates available.
 
@@ -112,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
  4) Restart your computer after the update. Then check to see if the code 43 still remains.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see.
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 4: Reinstall Windows 10**
 
@@ -155,20 +155,22 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-easy-pc-capture-tool-windows-10-free-version-for-2024/"><u>[New] Easy PC Capture Tool - Windows 10 Free Version for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-guide-to-top-8-android-collaboration-platforms/"><u>[New] Ultimate Guide to Top 8 Android Collaboration Platforms</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-seamless-tiktok-tweets-the-2023-pathway/"><u>[Updated] In 2024, Seamless TikTok Tweets The 2023 Pathway</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-samba-seed-eaters-for-2024/"><u>[Updated] Samba Seed Eaters for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-inside-the-latest-youtube-income-regulations/"><u>2024 Approved Inside the Latest YouTube Income Regulations</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-logged-ideport0-control-defect/"><u>Error Logged: Ideport0 Control Defect</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-error-in-device-manager-48/"><u>Fixed Error in Device Manager (#48)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-fix-top-bottom-flipped-videos-when-watching-on-an-asus-laptop-or-desktop/"><u>Guide to Fix Top-Bottom Flipped Videos When Watching on an ASUS Laptop or Desktop</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-usb-camera-anomalies-in-asus-w10-edition/"><u>Overcoming USB Camera Anomalies in ASUS, W10 Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/reactivating-inputs-post-sleep-on-latest-windows/"><u>Reactivating Inputs Post-Sleep on Latest Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-unsupported-hardware-alerts-in-your-software-suite-a-step-by-step-solution/"><u>Resolve 'Unsupported Hardware' Alerts in Your Software Suite – A Step-by-Step Solution</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-understanding-and-identifying-the-classic-usb-composite-device/"><u>Solved: Understanding and Identifying the Classic USB Composite Device</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/stay-ahead-of-the-curve-engaging-activities-while-listening-to-talk-shows/"><u>Stay Ahead of The Curve Engaging Activities While Listening to Talk Shows</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-speed-in-3d-paint-with-essential-keys/"><u>Unlocking Speed in 3D Paint with Essential Keys</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-pc-no-response-when-trying-to-mute-or-disable-bluetooth/"><u>Windows PC: No Response when Trying to Mute or Disable Bluetooth.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-camera-essentials-for-adventure-videographers/"><u>[New] Camera Essentials for Adventure Videographers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-expansion-techniques-for-30plus-online-platforms-for-2024/"><u>[New] Channel Expansion Techniques for 30+ Online Platforms for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-guide-to-meme-design-props/"><u>[Updated] 2024 Approved The Ultimate Guide to Meme Design Props</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-snapedit-a-beginners-guide-to-photo-mastery/"><u>[Updated] In 2024, Snapedit A Beginner's Guide to Photo Mastery</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-screen-recording-tools-a-comprehensive-educators-guide/"><u>2024 Approved Essential Screen Recording Tools A Comprehensive Educator's Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-laptop-troubleshooting-correcting-rotated-video-playback-issues/"><u>ASUS Laptop Troubleshooting: Correcting Rotated Video Playback Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fixes-for-stuttering-and-crashing-in-rockstar-games-latest-hit/"><u>Expert Fixes for Stuttering and Crashing in Rockstar Games' Latest Hit</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-atheros-bluetooth-issues-on-windows-11-step-by-step-solution/"><u>Fixing Qualcomm Atheros Bluetooth Issues on Windows 11: Step-by-Step Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-witcher-3-wild-hunt-wont-launch/"><u>How to Fix Witcher 3: Wild Hunt Won't Launch</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-non-responsive-wireless-keyboard-problems-in-windows-systems/"><u>How to Resolve Non-Responsive Wireless Keyboard Problems in Windows Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-initiate-now-a-comprehensive-plan-for-beginning-a-review-broadcast/"><u>In 2024, Initiate Now! A Comprehensive Plan for Beginning a Review Broadcast</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolution-zero-connection-woes-wacom-fixed/"><u>Resolution: Zero-Connection Woes, Wacom Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-your-iphones-mtp-connection-issues-with-easy-troubleshooting-steps/"><u>Resolve Your iPhone's MTP Connection Issues with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revitalizing-windows-compatibility-for-broadcom-80211n-adapter/"><u>Revitalizing Windows Compatibility for Broadcom 802.11N Adapter</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-tutorial-to-correct-itbm-error-no-available-driver/"><u>Step-by-Step Tutorial to Correct ITBM Error No Available Driver</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-pcs-non-working-keys-found/"><u>Windows PCs: Non-Working Keys Found</u></a></li>
 </ul></div>
 

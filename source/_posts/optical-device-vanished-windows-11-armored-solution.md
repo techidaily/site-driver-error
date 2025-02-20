@@ -1,7 +1,7 @@
 ---
 title: "Optical Device Vanished: Windows 11 Armored Solution"
-date: 2025-02-08T17:16:36.538Z
-updated: 2025-02-10T01:44:20.831Z
+date: 2025-02-15T00:24:48.253Z
+updated: 2025-02-19T19:18:50.341Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
  Method 3:[**Manually fix corrupted registry entries**](https://tidio.pxf.io/9grog5)
  Method 4:[**Create a registry subkey**](https://modlily.sjv.io/aw92wr)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1: Uninstall IDE ATA/ ATAPI controllers**
 
  One of the reasons why you can’t see DVD/CD-ROM in your Windows 10 PC could be faulty device drivers. You can reinstall the drivers to fix it. Here is how:
@@ -37,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6098ec3402.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate**IDE ATA/ ATAPI controllers** .
@@ -49,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e199372f3c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) If you have more options under**IDE/ ATAPI controllers** category, right-click them and click**Uninstall** as above procedures.
 
  6) Reboot your computer after these changes.
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
  7) Your computer will be able to help you with the detection of the DVD for Windows 10\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **2: Update drivers**
@@ -85,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **3: Manually fix corrupted registry entries**
 
 **IMPORTANT** : Before we move on, it’s strongly recommended that you [back-up and restore your registry](https://tools.techidaily.com/drivereasy/download/) first.
@@ -100,17 +104,21 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55543336b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) **Delete**  them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
 
@@ -119,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke a**Run** command. Type **regedit** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Follow the path:
 **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\atapi\\**
@@ -137,21 +141,17 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd68603c2d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -172,14 +172,20 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ooking-chronicles-video-production-insights/"><u>[New] Cooking Chronicles Video Production Insights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/conversion-gratuite-de-fichiers-mpeg-en-mjpeg-guide-complet-avec-movavi/"><u>Conversion Gratuite De Fichiers MPEG en MJPEG : Guide Complet Avec Movavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-samsung-galaxy-a24-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Samsung Galaxy A24 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-70-lite-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 70 Lite 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-amd-radeon-wattman-overcoming-configuration-setbacks-and-resets/"><u>Mastering AMD Radeon Wattman: Overcoming Configuration Setbacks & Resets</u></a></li>
-<li><a href="https://driver-error.techidaily.com/navigating-and-fixing-ndis-on-pcs-swiftly/"><u>Navigating and Fixing NDIS on PCs Swiftly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reclaim-absent-discs-and-drives-from-windows-1110/"><u>Reclaim Absent Discs & Drives From Windows 11/10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/run-a-system-file-checker-scan-to-verify-and-repair-corrupted-files/"><u>Run a System File Checker Scan to Verify and Repair Corrupted Files.</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nokia-105-classic-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-key-steps-in-archiving-lol-gaming-history-for-2024/"><u>[New] Key Steps in Archiving LOL Gaming History for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-peeling-back-layers-of-vivas-video-features/"><u>[Updated] In 2024, Peeling Back Layers of Viva's Video Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-brief-scene-structure-summary/"><u>2024 Approved Brief Scene Structure Summary</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-techniques-for-swiftly-finding-deleted-reddit-contributions/"><u>2024 Approved Techniques for Swiftly Finding Deleted Reddit Contributions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/academic-excellence-with-ai-assistance-chatgpt/"><u>Academic Excellence with AI Assistance: ChatGPT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/adjusted-disk-control-response/"><u>Adjusted Disk Control Response</u></a></li>
+<li><a href="https://driver-error.techidaily.com/android-galaxy-s8-unsupported-on-dos-70-resolved/"><u>Android Galaxy S8 Unsupported on DOS 7.0 (Resolved)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/broadcom-wi-fi-adapter-back-online-on-windows-os/"><u>Broadcom Wi-Fi Adapter Back Online on Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cant-run-rtx-gaming-fix-the-issue-now-done/"><u>Can't Run RTX Gaming? Fix the Issue Now, Done!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/clearing-full-disk-capacity-in-windows-task-manager/"><u>Clearing Full Disk Capacity in Windows Task Manager</u></a></li>
+<li><a href="https://driver-error.techidaily.com/closed-case-incompatibility-between-amdintel-video-driver-and-adobe-premier-pro/"><u>Closed Case: Incompatibility Between AMD/Intel Video Driver & Adobe Premier Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105309729-hcmondriver-driver-install-failure-heres-how-you-can-fix-it/"><u>Hcmondriver Driver Install Failure? Here's How You Can Fix It</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-se-2022-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone SE (2022) Stuck On Activation Lock?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-guide-fixing-unloaded-textures-in-warzone-gameplay/"><u>How-To Guide: Fixing Unloaded Textures in Warzone Gameplay</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-oppo-a38-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Oppo A38</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reactivating Silenced Microphone/Headset on Windows 10
-date: 2025-02-05T06:49:53.591Z
-updated: 2025-02-10T07:56:21.274Z
+date: 2025-02-16T00:28:00.876Z
+updated: 2025-02-19T17:46:53.850Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/c06aefbb181f576852b2577ec9d3544ebd6635b5e
 
 **Note:** Before we go, plug your headset into different USB ports and replace your USB headset with another one to check if the issue is due to the headset. If it doesn’t work either, then go with the fixes below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Do not plug your USB headset while Windows 10 is booting
 
  Some conflicts could exist between your USB headset and other USB devices. To avoid this conflict, please be sure to plug your USB headset in after your computer gets into Windows 10.```` ``
@@ -51,16 +47,12 @@ Check if your headset works properly now.
 ```` ```` ````
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click **Hardware and Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-14.png)
 4. Click **Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-13.png)
 5. Now the troubleshooter starts detecting problems. Complete troubleshooting by following on-screen instructions.  
@@ -75,21 +67,17 @@ After that, check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_15-52-49.jpg)
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
 
 5. Relaunch your computer and check whether the issue is resolved or not.````
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Set your USB headset as default device
 
@@ -97,9 +85,21 @@ After that, check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.png)
 2. Highlight your headset, then click **Set** **Default** . Click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ```` ```` ```` Check if your headset works properly now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -119,7 +119,7 @@ After that, check if your headset works properly now.
 4. Restart your computer and check to see if your headset works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -143,22 +143,22 @@ After that, check if your headset works properly now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fix-high-res-audio-on-win11-system/"><u>[Fix] High-Res Audio on Win11 System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-initial-boot-failure-from-drivers-not-installed/"><u>[FIXED] Initial Boot Failure From Drivers Not Installed</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-detailed-analysis-of-the-latest-picsart-app-features/"><u>[Updated] In 2024, Detailed Analysis of the Latest PicsArt App Features</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-updated-drivers-for-hp-deskjet-270n-compatible-with-recent-systems/"><u>Download Updated Drivers for HP DeskJet 270N - Compatible with Recent Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/firmware-blocks-car-loading/"><u>Firmware Blocks Car Loading</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-gtx-ebx-950-code-43-issue-in-windows-11-a-comprehensive-guide/"><u>Fixing the GTX Ebx 950 'Code 43' Issue in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gtx-950-malfunctioning-with-code-43-heres-the-complete-solution-for-windows-10-users/"><u>GTX 950 Malfunctioning with Code 43? Here's the Complete Solution for Windows 10 Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-failed-to-install-the-hcmon-driver-error/"><u>How to Fix Failed to Install the Hcmon Driver Error</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-harmonizing-content-with-youtubes-ideal-video-shapes/"><u>In 2024, Harmonizing Content with YouTube's Ideal Video Shapes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Honor X9a? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-mastering-the-art-of-smooth-ipad-video-recording/"><u>In 2024, Mastering the Art of Smooth iPad Video Recording</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-bluetooth-shutdown-on-windows-10/"><u>Mastering Bluetooth Shutdown on Windows 10</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/premium-free-excellence-analyzing-and-sharing-best-free-luts-for-2024/"><u>Premium-Free Excellence Analyzing and Sharing Best Free LUTs for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reduced-lag-increased-speed-in-win11/"><u>Reduced Lag, Increased Speed in Win11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/speak-now-act-for-free-via-technology/"><u>Speak Now, Act for Free via Technology</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-6-speedy-fixes-to-resolve-roblox-issues-on-your-pc/"><u>Top 6 Speedy Fixes to Resolve Roblox Issues on Your PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tep-by-step-guide-to-perfecting-videos-on-a-pc-for-youtubers-for-2024/"><u>[New] Step-by-Step Guide to Perfecting Videos on a PC for YouTubers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-budget-channels-to-big-brands-youtube-sponsorships-demystified/"><u>[Updated] 2024 Approved From Budget Channels to Big Brands YouTube Sponsorships Demystified</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-10-free-youtube-thumbnail-downloaderssavers-online/"><u>[Updated] In 2024, 10 Free YouTube Thumbnail Downloaders/Savers Online</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bid-farewell-to-win11s-elan-touchpad-anomalies/"><u>Bid Farewell to Win11's Elan Touchpad Anomalies</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-in-need-of-more-free-resources/"><u>Device in Need of More Free Resources</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-fixes-switching-to-safe-mode-and-deleting-graphics-card-drivers-in-windows-8/"><u>Effective Fixes: Switching to Safe Mode & Deleting Graphics Card Drivers in Windows 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-on-repairing-iphone-mtp-usb-interface-driver-glitches-for-easy-data-transfer/"><u>Expert Advice on Repairing iPhone MTP USB Interface Driver Glitches for Easy Data Transfer</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-stop-windows-explorer-from-endlessly-closing-down-top-remedies-explored/"><u>How to Stop Windows Explorer From Endlessly Closing Down - Top Remedies Explored</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721266662839-iphone-data-recovery-software-for-mac-recover-deleted-photos/"><u>IPhone Data Recovery Software for Mac. Recover Deleted Photos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximizing-your-ipad-pro-experience-with-the-top-usb-c-hub-picks-latest-guide/"><u>Maximizing Your iPad Pro Experience with the Top USB-C Hub Picks Latest Guide!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/meltdown-and-spectre-intel-me-solutions/"><u>Meltdown & Spectre: Intel ME Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimize-bluetooth-drivers-make-windows-work-better/"><u>Optimize Bluetooth Drivers, Make Windows Work Better!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-failed-to-initialize-battleye-service-due-to-driver-loading-issues/"><u>Troubleshooting Guide: Resolving 'Failed to Initialize BattlEye Service' Due to Driver Loading Issues</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-selection-of-cameras-for-film-production/"><u>Ultimate Selection of Cameras for Film Production</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210712985-9781398431492-understanding-tarot/"><u>Understanding Tarot | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-advanced-sm-bus-driver-functionality/"><u>Win11: Advanced SM Bus Driver Functionality</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solved: Microsoft Visual C++ Runtime Library Error in Windows 11"
-date: 2025-02-06T21:23:26.690Z
-updated: 2025-02-09T23:42:33.391Z
+date: 2025-02-17T06:23:10.486Z
+updated: 2025-02-20T02:30:07.151Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 [**Other options**](https://aidotcom.pxf.io/nkz4kv)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Reinstall display driver
@@ -40,18 +40,22 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861e2f4a55db.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and expand**Display adapters** category.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861e0aa65115.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then right click the graphics card that you are using now and choose**Uninstall** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861e17729f2c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When prompted with the notification, tick the box for D**elete the driver software for this device** and hit**OK** .  
   
@@ -82,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965ed8fabadd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -97,21 +101,17 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861de6d9c40f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) On the same window, tick the box for**Hide all Microsoft services** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861dea18f75c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Go to**General** tab, un-check the box for**Load startup items** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861dee39618b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Then hit**Apply** and**OK** to close the System Configuration window.
   
@@ -148,21 +148,22 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-access-royalty-free-beats-for-your-vlog-and-more/"><u>[New] Access Royalty-Free Beats for Your Vlog & More</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-elegant-appearance/"><u>[New] The Art of Elegant Appearance</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-decoding-the-divergence-360-film-vs-virtual-reality/"><u>[Updated] 2024 Approved Decoding the Divergence 360° Film Vs. Virtual Reality</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-crafting-a-digital-identity-with-inspiring-instagram-captions/"><u>[Updated] Crafting a Digital Identity with Inspiring Instagram Captions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-turboinsta-video-boosting-online-and-mobile-fixes-for-2024/"><u>[Updated] TurboInsta Video Boosting Online & Mobile Fixes for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-navigating-the-complexities-of-facebook-slideshow-tools/"><u>2024 Approved Navigating the Complexities of Facebook Slideshow Tools</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-fix-addressing-missing-coprocessor-drivers-in-your-windows-10-machine/"><u>Comprehensive Fix: Addressing Missing Coprocessor Drivers in Your Windows 10 Machine</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-compatibility-error-wudfrd-loading-failure/"><u>Device Compatibility Error: WudfRd Loading Failure</u></a></li>
-<li><a href="https://win11.techidaily.com/disassembling-and-reassembling-windows-app-settings-for-success/"><u>Disassembling and Reassembling Windows App Settings for Success</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-to-fix-amd-drivers-keep-crashing-issue/"><u>Easy To Fix AMD Drivers Keep Crashing Issue</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-6-tech-for-cross-lingual-content-shift-for-2024/"><u>Expert 6 Tech for Cross-Lingual Content Shift for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-troubleshooting-expert-tips-for-windows-11-users/"><u>GTX 950 Code 43 Troubleshooting: Expert Tips for Windows 11 Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-the-tap-trouble-on-win11s-elan-pad/"><u>Overcoming the Tap Trouble on Win11's Elan Pad</u></a></li>
-<li><a href="https://driver-error.techidaily.com/stop-amd-driver-problems-immediately/"><u>Stop AMD Driver Problems Immediately</u></a></li>
-<li><a href="https://driver-error.techidaily.com/task-management-overcoming-disk-saturation-on-win11/"><u>Task Management: Overcoming Disk Saturation on Win11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-s17e-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo S17e to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-best-chosen-templates-for-viral-ae-content/"><u>[New] Best Chosen Templates for Viral AE Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-boosting-your-igtv-influence-techniques-to-amplify-audience-size/"><u>[New] In 2024, Boosting Your IGTV Influence Techniques to Amplify Audience Size</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-video-game-with-these-5-youtube-thumbnail-builders/"><u>[Updated] In 2024, Elevate Your Video Game with These 5 YouTube Thumbnail Builders</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/detailed-breakdown-of-intels-new-extended-warranty-inclusive-coverage-for-core-processor-series-i5-i7-i9-13th-to-14th-generation/"><u>Detailed Breakdown of Intel's New Extended Warranty: Inclusive Coverage for Core Processor Series (I5, I7, I9) - 13Th to 14Th Generation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ngs-breakdown-youtubes-adsense-payments-by-thousands-of-views/"><u>Earnings Breakdown Youtube's AdSense Payments by Thousands of Views</u></a></li>
+<li><a href="https://driver-error.techidaily.com/engineered-escape-plan-for-error-e52/"><u>Engineered Escape Plan for Error E52</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-on-correcting-the-hcmon-driver-installation-problem/"><u>Expert Advice on Correcting the HCMon Driver Installation Problem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/get-your-qualcomm-atheros-bluetooth-back-to-life-on-windows-10-step-by-step-solution/"><u>Get Your Qualcomm Atheros Bluetooth Back to Life on Windows 10 - Step by Step Solution</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-delving-into-past-facebook-chronicles-with-tech-help/"><u>In 2024, Delving Into Past Facebook Chronicles with Tech Help</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-tips-for-uploading-videos-on-instagram/"><u>In 2024, Tips for Uploading Videos on Instagram</u></a></li>
+<li><a href="https://driver-error.techidaily.com/inception-excitingly-and/"><u>Inception - Excitingly) And</u></a></li>
+<li><a href="https://driver-error.techidaily.com/new-era-of-sm-bus-management-on-windows-11/"><u>New Era of Sm Bus Management on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-bluetooth-integration-on-windows/"><u>Smooth Bluetooth Integration on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/software-lack-for-device-noticed-by-os/"><u>Software Lack for Device Noticed by OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-solution-for-default-radeon-wattman-restoration-errors/"><u>The Ultimate Solution for Default Radeon Wattman Restoration Errors</u></a></li>
 </ul></div>
 

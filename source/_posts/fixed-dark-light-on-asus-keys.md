@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Dark Light on ASUS Keys"
-date: 2025-02-08T06:36:48.456Z
-updated: 2025-02-09T18:28:29.867Z
+date: 2025-02-17T07:10:52.320Z
+updated: 2025-02-20T09:00:59.849Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Way 1: Start the HControl.exe** program
 
  Before you try this fix, make sure that you have installed the ATK package in your ASUS notebook. The ATK package, containing drivers that control your hotkeys, backlight and some other optional functionality, is usually pre-installed in every new ASUS laptop. And the HControl.exe program we need to start is also within this ATK package. In most cases you can navigate to HControl.exe through the following path:
@@ -36,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
  Just copy this path and paste it to the address bar of your File Explorer. After finding**HControl.exe** , you should double-click on it to execute the program.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-53.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then, on your keyboard, press**Fn** and**F4** at the same time to test if the backlight of your keyboard can be turned on.
 
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Way 2: Download and install the latest drivers**
@@ -77,15 +77,11 @@ OR
 3. On the next page, select your Windows version. Then you’ll be greeted with a list of drivers and programs available for download.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-25-19.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Scroll through the list until you find the following two drivers:**Smart Gesture** driver and**ATK Package** driver. Then, click on the**DOWNLOAD** button next to each driver.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-31-49.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_18-45-12.jpg)
 5. Wait till the download process is complete. The two downloaded files are compressed, so you need to extract them to a desired location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Open the extracted folders of the two drivers. Find**Setup.exe** in their folders respectively and click on it. Then, follow the onscreen instructions to install the drivers.
 7. When everything’s done, restart your computer for the changes to take effect. Then check to see if your keyboard backlight can be turned on properly (press**Fn+F4** on your keyboard to enable the backlight).
@@ -105,7 +101,11 @@ OR
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the ATK Package driver for now, simply click the **Update**  button next to it. ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-05_19-15-46.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -134,22 +134,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-cataloging-tiktok-scenes-as-backgrounds/"><u>[Updated] Cataloging TikTok Scenes as Backgrounds</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-cinema-excellence-in-home-recording-with-top-18-devices/"><u>[Updated] Cinema Excellence in Home Recording with Top 18 Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/addressing-win10-asus-driver-and-acpi/"><u>Addressing Win10: Asus Driver and ACPI</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypass-regional-lockout-for-region-2-dvds-enjoy-unrestricted-access-and-playback/"><u>Bypass Regional Lockout for Region 2 DVDs: Enjoy Unrestricted Access and Playback</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-iphone-mobile-host-controller-driver-problem-a-step-by-step-guide/"><u>Fixing the iPhone Mobile Host Controller Driver Problem: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-repairing-aged-usb-composite-device-connectivity-concerns-and-errors/"><u>Guide to Repairing Aged USB Composite Device Connectivity Concerns and Errors</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-choose-your-winner-dji-gopro-max-instax-x3/"><u>In 2024, Choose Your Winner DJi, GoPro Max, Instax X3</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-honor-80-pro-straight-screen-edition-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Honor 80 Pro Straight Screen Edition Phone Network-Ready</u></a></li>
-<li><a href="https://driver-error.techidaily.com/journey-through-time-demystifying-and-fixing-age-old-usb-composite-device-issues/"><u>Journey Through Time: Demystifying and Fixing Age-Old USB Composite Device Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-method-to-solve-the-broken-key-issue-on-your-hp-notebooks-detailed-steps-included-article-title-407-chars/"><u>Quick Method to Solve the 'Broken' Key Issue on Your HP Notebooks — Detailed Steps Included! - Article Title (407 Chars)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210850000-9781446357606-the-invisible-influence/"><u>The Invisible Influence | Free Book</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-qualcomm-atheros-bluetooth-driver-problems-in-windows-11/"><u>Troubleshooting and Solving Qualcomm Atheros Bluetooth Driver Problems in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/turn-off-stubborn-bluetooth-on-windows-10-answer/"><u>Turn Off Stubborn Bluetooth on Windows 10 [Answer]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-high-dynamic-range-on-windows-11/"><u>Unlock the Full Potential of High Dynamic Range on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-os-now-recognizes-latest-printer-hardware/"><u>Win OS Now Recognizes Latest Printer Hardware</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-tips-for-constructing-podcast-rss-feeds/"><u>[New] Comprehensive Tips for Constructing Podcast RSS Feeds</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-cutting-edge-techniques-for-youtube-thumbnails-made-for-macos-for-2024/"><u>[New] Cutting-Edge Techniques for YouTube Thumbnails, Made for macOS for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-dj-beats-unleashed-high-fidelity-templates-downloaded-easily-for-2024/"><u>[New] DJ Beats Unleashed High-Fidelity Templates Downloaded Easily for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-harnessing-tech-acquiring-fb-status-video-content-for-2024/"><u>[New] Harnessing Tech Acquiring FB Status Video Content for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-clinical-manifestations-of-fetal-alcohol-syndrome/"><u>[New] In 2024, Clinical Manifestations of Fetal Alcohol Syndrome</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ultimate-video-production-for-earth/"><u>[New] In 2024, Ultimate Video Production for Earth</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-witty-visuals-crafting-kapwings-laughs/"><u>[New] Witty Visuals Crafting Kapwing's Laughs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-gear-interferes-with-car-load/"><u>[Solved] Gear Interferes with Car Load</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-tips-to-counteract-obs-fullscreen-woes/"><u>[Updated] Tips to Counteract OBS Fullscreen Woes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-wired-network-anomalies-in-poweredge-tower/"><u>Fix Wired Network Anomalies in PowerEdge Tower</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-incompatibility-issues-between-hardware-and-idt-software-solutions/"><u>How to Resolve Incompatibility Issues Between Hardware and IDT Software Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/missing-external-drive-in-windows-10-the-seagate-dilemma/"><u>Missing External Drive in Windows 10: The Seagate Dilemma</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-solution-to-persistent-amd-crashes/"><u>Quick Solution to Persistent AMD Crashes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resource-utilization-challenges/"><u>Resource Utilization Challenges</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-microsoft-visual-cplusplus-runtime-library-error-in-windows-10/"><u>Solved: Microsoft Visual C++ Runtime Library Error in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-30-innovative-point-of-sale-systems-excluding-gpt/"><u>The Top 30 Innovative Point-of-Sale Systems, Excluding GPT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-qualcomm-atheros-bluetooth-driver-issues-in-windows-11/"><u>Troubleshooting Guide: Fixing Qualcomm Atheros Bluetooth Driver Issues in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unused-space-on-devices-resource-table/"><u>Unused Space on Device's Resource Table</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/zenith-of-joys-our-top-10-relaxing-games-for-2024/"><u>Zenith of Joys Our Top 10 Relaxing Games for 2024</u></a></li>
 </ul></div>
 

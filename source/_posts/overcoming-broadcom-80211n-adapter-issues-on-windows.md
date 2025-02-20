@@ -1,7 +1,7 @@
 ---
 title: Overcoming Broadcom 802.11N Adapter Issues on Windows
-date: 2025-02-05T03:12:21.727Z
-updated: 2025-02-10T08:37:46.064Z
+date: 2025-02-17T01:15:05.059Z
+updated: 2025-02-19T21:17:47.447Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 * [Hardware Compatibility Issues](https://bluettifr.pxf.io/bax2bv)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Reinstall Device Driver
@@ -41,20 +41,32 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c37a43891ed.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand **Network adapters**  and double-click **Broadcom 802.11n network adapter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/broadcom-802-11n-network-adapter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go to the **Driver** tab and click **Update Driver…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/update-driver-option.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click **Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/browse-my-computer-for-driver-software.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click   **Let me pick from a list of device drivers on my computer.**
@@ -64,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
  6) Click **Have Disk…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/have-disk.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Browse to **C:/(the name of your laptop manufacture)/drivers** and look for folder with the name similar to **R274634** . Double-click the folder and find the appropriate **.inf** file for your device.
 
@@ -85,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
  Wait for the correct driver to be installed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2: Update Device Drivers
 
  If reinstalling the network adapter driver fails to solve the problem for you, you should update your network card driver instead. If you don’t have the time, patience, or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -104,11 +108,7 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3: Update Software and Operating System
@@ -123,13 +123,13 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/ype-regedit-in-the-search-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Follow the path   **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\4D36E978-E325-11CE-BFC1-08002BE10318** and locate the the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/hkey_local_machinesystemcurrentcontrolsetcontrolclass4d36e978-e325-11ce-bfc1-08002be10318-600x494.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) On the right side of the pane, see if you can find options **UpperFilters** and **LowerFilters** . If you cannot see either of these two options, this method is not working for you. If these two options are available, right-click them and click **Delete** .
 
@@ -156,21 +156,15 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fix-no-core-isolation-for-wdcsam64prewin8sys/"><u>[Fix] No Core Isolation for wdcsam64_prewin8.sys</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ifunny-memes-unlocked-download-and-use-in-a-flash/"><u>[New] IFunny Memes Unlocked Download & Use in a Flash</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-cutting-edge-gaming-earpieces-for-youtubers/"><u>[New] The Cutting-Edge Gaming Earpieces for YouTubers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-easy-guide-to-screenshots-and-recordings-with-macos-for-2024/"><u>[Updated] Easy Guide to Screenshots & Recordings with macOS for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-tackling-live-broadcasts-the-intersection-of-obs-and-zoom/"><u>2024 Approved Tackling Live Broadcasts The Intersection of OBS and Zoom</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-unveiling-iphonepcs-best-video-conversion-software-8/"><u>2024 Approved Unveiling iPhone/PC's Best Video Conversion Software #8</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enabling-hardware-fixing-usb-not-found-windows-78/"><u>Enabling Hardware: Fixing USB Not Found Windows 7/8</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-insights-on-using-garmins-acclaimed-gpsmap-64st-for-hiking-camping-and-more/"><u>Expert Insights on Using Garmin's Acclaimed GPSMAP 64St for Hiking, Camping and More</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-ensure-proper-video-display-orientation-on-an-asus-computer-system/"><u>How To Ensure Proper Video Display Orientation on an Asus Computer System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/logitech-unify-mismatch-in-win1110-fixed-guide/"><u>Logitech Unify Mismatch in Win11/10 - Fixed Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/mastery-of-podcast-rss-feeds-a-step-by-step-tutorial/"><u>Mastery of Podcast RSS Feeds A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/noctuas-latest-nh-d15-g2-update-delivers-ultra-quiet-fans-and-a-boost-in-thermal-performance/"><u>Noctua's Latest NH-D15 G2 Update Delivers Ultra-Quiet Fans and a Boost in Thermal Performance</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-the-nonfunctional-keyboard-on-your-hp-notebook-with-this-quick-and-handy-fix-article-title-406-chars/"><u>Resolve the 'Nonfunctional' Keyboard on Your HP Notebook with This Quick & Handy Fix - Article Title (406 Chars)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/right-click-doesnt-work-on-touchpad-windows-10-solved/"><u>Right Click Doesn’t Work on Touchpad Windows 10 [Solved]</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/rofl-roundup-10-best-apps-for-meme-creation/"><u>ROFL Roundup 10 Best Apps for Meme Creation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-non-detection-of-seagate-hard-disk-on-win11/"><u>Troubleshoot Non-Detection of Seagate Hard Disk on Win11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-digital-dive-essential-recording-tactics-for-shows-for-2024/"><u>[New] Digital Dive Essential Recording Tactics for Shows for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-how-to-create-metaverse-avatar-with-ease-an-ultimate-guide/"><u>2024 Approved How to Create Metaverse Avatar with Ease An Ultimate Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-reunion-wacoms-joyful-news/"><u>Device Reunion: Wacom's Joyful News!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-stop-code-when-running-32-bit-print-drivers/"><u>Fixing the Issue: Stop Code When Running 32-Bit Print Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-a-nonfunctional-cpu-in-windows-10-due-to-absence-of-coprocessor-driver/"><u>How to Fix a Nonfunctional CPU in Windows 10 Due to Absence of Coprocessor Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-d3dcompiler47dll-error-comprehensive-guide/"><u>How to Fix D3DCOMPILER_47.dll Error - Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ps5-connectivity-a-step-by-step-approach/"><u>Mastering PS5 Connectivity: A Step-by-Step Approach</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repairing-issues-with-non-recognition-last-usb-failure-and-ignored-by-windows-expert-tips/"><u>Repairing Issues with Non-Recognition: Last USB Failure and Ignored by Windows - Expert Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revelation-deactivate-bluetooth-on-windows-10/"><u>Revelation: Deactivate Bluetooth on Windows 10</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-the-social-impact-of-dislike-buttons/"><u>Understanding the Social Impact of Dislike Buttons</u></a></li>
 </ul></div>
 

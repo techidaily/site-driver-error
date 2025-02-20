@@ -1,7 +1,7 @@
 ---
 title: Realtek Ethernet Controller Driver Not Working After Windows 10 Upgrade [Solved]
-date: 2025-02-05T17:44:04.738Z
-updated: 2025-02-09T23:42:27.322Z
+date: 2025-02-15T04:00:58.680Z
+updated: 2025-02-20T06:48:28.271Z
 tags:
   - win11
   - win10
@@ -35,14 +35,14 @@ thumbnail: https://thmb.techidaily.com/f48216f44870658586ad3ccce716597fb01e77f08
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When prompted with the following notification, hit**Yes** to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de25ac8c94.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type in the following command:
@@ -53,9 +53,17 @@ netsh int ip reset c:\resetlog.txt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de2ea5a2ef.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will help you reset your TCP/IP (Transmission Control Protocol/Internet Protocol). To make it easier to understand, TCP/IP is the language that your computer uses to communicate with the outside world. Reseting TCP/IP will help you revert your Internet settings to the stage where it still works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option Two:** **Change Settings in Network Adapter Properties**
 
@@ -64,21 +72,21 @@ netsh int ip reset c:\resetlog.txt
  2) Locate and click the arrow to expand category**Network adapters** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
 3) Then right-click Realtek PCIe GBE Family Controller option and choose **Properties** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de65b229a9.png)
 
  4) Go to**Advanced** tab, then choose**Speed & Duplex** option on the left side of the pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de6ed4d026.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) On the**Value** bar, change the default Auto Negotiation to **100 Mbps Full Duplex**  or some other options accordingly. We chose**100 Mbps Full Duplex** here, but yours could be different.
 
@@ -91,10 +99,6 @@ netsh int ip reset c:\resetlog.txt
  7) Still, in the**Properties** window, this time, let’s go to**Power Management** tab. Un-tick the box for**Allow the computer to turn off this device to save power** . Then hit**OK** to save and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587decc3276b5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -109,10 +113,6 @@ netsh int ip reset c:\resetlog.txt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee15b99f3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hit**OK** to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee50286a0.png)
 
@@ -120,7 +120,7 @@ netsh int ip reset c:\resetlog.txt
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee9a707c2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Windows will help you automatically install the correct driver that it can find. But there is no guarantee that the new driver is going to work since Windows has provided the not working one originally.
@@ -170,18 +170,20 @@ netsh int ip reset c:\resetlog.txt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-shades-and-tints-in-action-practical-application/"><u>[New] 2024 Approved Shades & Tints in Action Practical Application</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-easy-recording-tips-for-your-hp-laptops-camera/"><u>[New] Easy Recording Tips for Your HP Laptop's Camera</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-join-the-hilarity-tearfulness-spectacle-of-top-memes-on-ig-for-2024/"><u>[Updated] Join the Hilarity-Tearfulness Spectacle of Top Memes on IG for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/boost-your-fitness-journey-fitbit-versa-3s-integrated-gps-and-wellness-tools-for-extra-drive/"><u>Boost Your Fitness Journey: Fitbit Versa 3'S Integrated GPS and Wellness Tools for Extra Drive</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/delightful-premium-technology-finds-for-smart-shoppers-seeking-value/"><u>Delightful, Premium Technology Finds for Smart Shoppers Seeking Value</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effortless-use-of-win11/"><u>Effortless Use of Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-envy-20-pc-updates-unveiled-a-step-by-step-driver-download-and-installation-guide/"><u>HP Envy 20 PC Updates Unveiled: A Step-by-Step Driver Download & Installation Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change OnePlus Lock Screen Password?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-htc-u23-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from HTC U23 to iPad | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/make-windows-11-more-engaging-with-themes/"><u>Make Windows 11 More Engaging with Themes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-usb-connection-failures-deal-with-access-denied/"><u>Troubleshooting USB Connection Failures – Deal With 'Access Denied'</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unveiling-secrets-to-overcome-asus-driver-issues/"><u>Unveiling Secrets to Overcome ASUS Driver Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-bluetooth-reviving-lenovo-connectivity-magic/"><u>Win11 Bluetooth: Reviving Lenovo Connectivity Magic</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-hardware-and-drivers-sync/"><u>[Solved: Hardware & Drivers Sync</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-directed-focus-youtubes-easy-ways-for-smoother-borders/"><u>[Updated] 2024 Approved Directed Focus YouTube's Easy Ways for Smoother Borders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-overcoming-fullscreen-malfunctions-in-obs/"><u>[Updated] 2024 Approved Overcoming Fullscreen Malfunctions in OBS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disabling-persistent-bluetooth-on-windows-11/"><u>Disabling Persistent Bluetooth on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-missing-to-working-touchpad-driver-restored/"><u>From Missing to Working: Touchpad Driver Restored</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/harnessing-hype-strategies-to-elevate-your-instagram-presence/"><u>Harnessing Hype Strategies to Elevate Your Instagram Presence</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-clear-picture-perfection-the-best-online-image-enhancers/"><u>In 2024, Clear Picture Perfection The Best Online Image Enhancers</u></a></li>
+<li><a href="https://fox-making.techidaily.com/modifying-text-properties-adjusting-the-title-and-typeface-of-a-flipbook-on-windows-with-flipbuilder-tutorial/"><u>Modifying Text Properties: Adjusting the Title & Typeface of a FlipBook on Windows with FlipBuilder Tutorial</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pchelp-my-computers-internal-wi-fibluetooth-wont-stop-responding/"><u>PCHelp - My Computer's Internal Wi-Fi/Bluetooth Won’t Stop Responding.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premiere-pro-excellence-through-fs-views/"><u>Premiere Pro Excellence Through FS Views</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-device-unrecognized-in-winnt/"><u>Resolving 'Device Unrecognized' In WinNT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-qualcomm-atheros-bluetooth-issues-on-windows-10/"><u>Troubleshooting Guide: Fixing Qualcomm Atheros Bluetooth Issues on Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-nokia-c110-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Nokia C110 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wsappx-explained-fixing-excessive-use-of-computing-resources-effectively/"><u>WSAPPX Explained: Fixing Excessive Use of Computing Resources Effectively</u></a></li>
+<li><a href="https://fox-info.techidaily.com/your-gateway-to-metaverse-mastery-the-best-tech-in-short-form-for-2024/"><u>Your Gateway to Metaverse Mastery - The Best Tech in Short Form for 2024</u></a></li>
 </ul></div>
 

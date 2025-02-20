@@ -1,7 +1,7 @@
 ---
 title: Steps to Stabilize Nvidia Graphics Codes
-date: 2025-02-09T07:16:59.802Z
-updated: 2025-02-10T00:27:18.081Z
+date: 2025-02-17T04:02:58.959Z
+updated: 2025-02-20T05:46:08.709Z
 tags:
   - win11
   - win10
@@ -43,23 +43,19 @@ Here is how to uninstall your Nvidia display drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f0b245dd2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the Nvidia drivers crashing issue is resolved. If yes, then great! If the issue remains, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
 
@@ -79,12 +75,16 @@ Here is how to uninstall your Nvidia display drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer, then keep an eye on your computer to see if the display driver keeps crashing issue has been resolved. If yes, then congrats! But if the issue remains, please try **Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust Nvidia Control Panel settings
@@ -105,15 +105,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-225.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Close the window.
 
 5) Check to see if the Nvidia drivers crashing issue is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable antivirus programs temporarily
 
@@ -122,10 +122,6 @@ Here is how to do it:
  If Nvidia stops crashing during the time the antivirus program is off, then the antivirus program is probably the culprit. You can disable it when you want to use Nvidia.
 
 If Nvidia still keeps crashing, please move on to Fix 5, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5:**Update DirectX**
 
@@ -138,7 +134,7 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
@@ -178,11 +174,19 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -191,10 +195,6 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
 5) Check your computer to see if the problem has been fixed.  
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Check for hardware issues
 
@@ -223,19 +223,15 @@ If Nvidia still keeps crashing, please move on to Fix 5, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fix-needed-mouse-ignored-by-windows-os/"><u>[Fix Needed] Mouse Ignored by Windows OS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-historys-heaviest-battles-rts-review-of-7-epic-games/"><u>2024 Approved History's Heaviest Battles RTS Review of 7 Epic Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-thrill-in-the-cold-olympic-showcase-snowboarders-at-peak-performance/"><u>2024 Approved Thrill in the Cold Olympic Showcase - Snowboarders at Peak Performance</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/apple-iphone-14-pro-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 14 Pro Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertissez-votre-fichier-wav-en-video-3gp-gratuitement-easy-online-conversion-a-laide-de-movavi/"><u>Convertissez Votre Fichier .wav en Vidéo 3GP Gratuitement - Easy Online Conversion À L'aide De Movavi</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/cryptocurrency-chronicles-blockfis-comeback-story-and-worldcoins-payment-pause-navigate-through-top-developments-by-yl-software/"><u>Cryptocurrency Chronicles: BlockFi's Comeback Story and Worldcoin’s Payment Pause – Navigate Through Top Developments by YL Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/demystifying-the-workings-of-traditional-usb-composite-equipment-resolved/"><u>Demystifying the Workings of Traditional USB Composite Equipment [RESOLVED]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-reported-ideport0-control-issue/"><u>Error Reported: Ideport0 Control Issue</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-restore-erased-files-on-iphone-through-stellar-application/"><u>How to Restore Erased Files on iPhone Through Stellar Application</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-poco-m6-pro-4g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Poco M6 Pro 4G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/maximizing-your-network-an-in-depth-review-of-the-linksys-wrt1900acs-open-source-router/"><u>Maximizing Your Network: An In-Depth Review of the Linksys WRT1900ACS Open Source Router</u></a></li>
-<li><a href="https://driver-error.techidaily.com/successful-troubleshooting-of-broadcom-n-wireless-adapter-for-windows/"><u>Successful Troubleshooting of Broadcom N Wireless Adapter for Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-quest-to-eradicate-code-52-from-cars/"><u>The Quest to Eradicate Code 52 From Cars</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unleash-advanced-iphone-features-through-unknown-vocal-commands-exclusive-guide-by-zdnet/"><u>Unleash Advanced iPhone Features Through Unknown Vocal Commands | Exclusive Guide by ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-from-verbal-to-written-an-intensive-guide-to-google-document-voice-functionality/"><u>[New] From Verbal to Written An Intensive Guide to Google Document Voice Functionality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-swiftly-mastering-the-art-of-smoothing-iphone-shots-four-methods/"><u>[New] Swiftly Mastering the Art of Smoothing iPhone Shots (Four Methods)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-efficient-mov-editing-and-recording-tutorial-for-windows-11-users-for-2024/"><u>[Updated] Efficient MOV Editing and Recording Tutorial for Windows 11 Users for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-how-to-produce-a-trending-solo-podcast-series/"><u>[Updated] How To Produce A Trending Solo Podcast Series</u></a></li>
+<li><a href="https://driver-error.techidaily.com/closed-report-no-available-support-for-intelamd-video-drivers-in-premiere-pro/"><u>Closed Report: No Available Support for Intel/AMD Video Drivers in Premiere Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-gadgets-with-tom-the-ultimate-guide-to-hardware-comparison/"><u>Exploring Gadgets with Tom: The Ultimate Guide to Hardware Comparison</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ideport0-malfunction-signal-noticed/"><u>Ideport0 Malfunction Signal Noticed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-me-firmware-troubleshooting/"><u>Intel ME Firmware Troubleshooting</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-upgrading-razer-deathadder-driver-in-win10/"><u>Step-by-Step Guide to Upgrading Razer Deathadder Driver in Win10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oppo-find-x6s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Oppo Find X6s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

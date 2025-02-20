@@ -1,7 +1,7 @@
 ---
 title: "Fixing Missing Drives: CD/DVD Troubleshooting in Win11"
-date: 2025-02-04T03:13:21.327Z
-updated: 2025-02-10T07:06:14.290Z
+date: 2025-02-19T03:41:02.033Z
+updated: 2025-02-20T02:44:08.877Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
  Method 3:[**Manually fix corrupted registry entries**](https://tidio.pxf.io/9grog5)
  Method 4:[**Create a registry subkey**](https://modlily.sjv.io/aw92wr)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1: Uninstall IDE ATA/ ATAPI controllers**
 
  One of the reasons why you can’t see DVD/CD-ROM in your Windows 10 PC could be faulty device drivers. You can reinstall the drivers to fix it. Here is how:
@@ -37,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6098ec3402.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate**IDE ATA/ ATAPI controllers** .
@@ -71,19 +75,11 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a61a4afa.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
 
@@ -96,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Follow the path:
@@ -105,12 +101,16 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55359b5aa.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Look for**UpperFilters** and**LowerFilters** strings on the right side panel. If you can’t see these two items, move on to Method 2\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c55543336b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) **Delete**  them.
 
@@ -123,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke a**Run** command. Type **regedit** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Follow the path:
 **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\atapi\\**
@@ -142,7 +138,7 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
@@ -152,6 +148,10 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -172,22 +172,24 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlocking-your-fb-social-media-treasures/"><u>[New] In 2024, Unlocking Your FB Social Media Treasures</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unveiling-ideal-techniques-for-obs-facebook-transition/"><u>[New] In 2024, Unveiling Ideal Techniques for OBS-Facebook Transition</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-from-words-to-memos-iphone-sound-guide/"><u>[Updated] 2024 Approved From Words to Memos IPhone Sound Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/a-closer-look-at-youtubes-unlisted-content-category-for-2024/"><u>A Closer Look at YouTube’s ‘Unlisted’ Content Category for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/china-to-accelerate-government-compute-performance-aim-for-30-growth-and-300-exaflops-capacity-by-2025/"><u>China to Accelerate Government Compute Performance, Aim for 30% Growth and 300 Exaflops Capacity by 2025</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-tips-on-correcting-battleye-system-launch-failures-due-to-missing-or-incorrect-drivers-error-1450/"><u>Expert Tips on Correcting BattlEye System Launch Failures Due to Missing or Incorrect Drivers (Error 1450)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-ready-for-vbox-checking-windows-pre-conditions/"><u>Get Ready for VBox - Checking Windows Pre-Conditions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gpu-insight-into-microsofts-ms-bda/"><u>GPU Insight Into Microsoft's MS BDA</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-solve-when-your-latest-usb-connector-is-invisible-in-windows-environment/"><u>How to Solve When Your Latest USB Connector Is Invisible in Windows Environment</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-chronicles-merging-music-and-memories/"><u>In 2024, FB Chronicles Merging Music and Memories</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-honor-90-lite-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Honor 90 Lite to Mac? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/metaverse-maps-drawn-understanding-through-6-vivid-scenarios-for-2024/"><u>Metaverse Maps Drawn Understanding Through 6 Vivid Scenarios for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-complications-for-driver-reinstallation/"><u>No Complications for Driver Reinstallation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-usb-installation-failure-resolving-access-denied-issues/"><u>Overcoming 'USB Installation Failure': Resolving Access Denied Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-unresponsive-mic-connections-on-windows-11/"><u>Step-by-Step Solution for Unresponsive Mic Connections on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-10-patches-asus-camera-compatibility/"><u>Windows 10 Patches ASUS Camera Compatibility</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wireless-keyboard-failure-on-pcs-running-windows-comprehensive-solutions-available-now/"><u>Wireless Keyboard Failure on PCs Running Windows - Comprehensive Solutions Available Now</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-discover-top-browser-screen-recording-software-audiences/"><u>[New] Discover Top Browser Screen Recording Software Audiences</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-edu-top-ten-inspiring-educational-content-yt-for-2024/"><u>[Updated] Edu-Top Ten Inspiring Educational Content YT for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-fostering-resilience-in-the-face-of-cyber-haters/"><u>[Updated] In 2024, Fostering Resilience in the Face of Cyber Haters</u></a></li>
+<li><a href="https://driver-error.techidaily.com/deciphering-and-solving-the-battlenee-driver-loading-glitch-for-a-smoother-gaming-experience/"><u>Deciphering and Solving the Battlenee Driver Loading Glitch for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-unsuccessful-lacking-intel-adapter-support/"><u>Drivers Unsuccessful; Lacking Intel Adapter Support</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effortless-transformation-of-g64-and-g64x-videos-into-mp4-comprehensive-tutorial/"><u>Effortless Transformation of G64 and G64X Videos Into MP4 - Comprehensive Tutorial</u></a></li>
+<li><a href="https://driver-error.techidaily.com/elevating-system-bus-efficiency-on-win11/"><u>Elevating System Bus Efficiency on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/embark-on-a-win-11-journey-as-an-insider-explorer/"><u>Embark on a Win 11 Journey as an Insider Explorer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-atheros-bluetooth-issues-on-windows-11-comprehensive-guide/"><u>Fixing Qualcomm Atheros Bluetooth Issues on Windows 11: Comprehensive Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-force-boot-into-secure-operating-environment-and-eliminate-graphics-driver-issues-on-windows-8-systems/"><u>How to Force Boot Into Secure Operating Environment and Eliminate Graphics Driver Issues on Windows 8 Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-nubia-red-magic-9-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Nubia Red Magic 9 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/issue-settled-amdintel-graphics-not-backed-by-premiere-pro/"><u>Issue Settled: AMD/Intel Graphics Not Backed by Premiere Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/realtek-ethernet-controller-driver-not-working-after-windows-11-upgrade-solved/"><u>Realtek Ethernet Controller Driver Not Working After Windows 11 Upgrade [Solved]</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/resolved-issue-output-file-from-handbrake-larger-than-input-file/"><u>Resolved Issue: Output File From HandBrake Larger Than Input File</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-uncover-hidden-windows-bar-on-expanded-screens/"><u>Tips to Uncover Hidden Windows Bar on Expanded Screens</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-fixing-issues-with-your-outdated-usb-composite-device/"><u>Troubleshooting: Fixing Issues with Your Outdated USB Composite Device</u></a></li>
+<li><a href="https://win-help.techidaily.com/ultimate-selection-of-top-10-security-apps-to-protect-your-windowsandroid-systems-from-hacks/"><u>Ultimate Selection of Top 10 Security Apps to Protect Your Windows/Android Systems From Hacks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-compatible-samsung-mobile-system/"><u>Windows-Compatible: Samsung Mobile System</u></a></li>
 </ul></div>
 

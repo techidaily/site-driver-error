@@ -1,7 +1,7 @@
 ---
 title: "Fix: Inoperative Right-Click Not Working on Windows 11 Touchpad"
-date: 2025-02-06T06:09:17.594Z
-updated: 2025-02-09T17:50:42.942Z
+date: 2025-02-15T16:29:23.896Z
+updated: 2025-02-19T17:33:13.715Z
 tags:
   - win11
   - win10
@@ -38,12 +38,16 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c8131acdae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, choose**Mouse & touchpad** . Then scroll down to the bottom of the screen and click**Additional mouse options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c81858e3a5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Then the **Mouse Properties**  window will open. Go to the furthest right option (the name of this option could be **Device Settings** or **ELAN**), then make sure your touchpad is enabled.
 
@@ -72,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 3: Reinstall**   **your driver**
 
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
@@ -94,16 +94,12 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/delete-the-driver-software-to-uninstall-this-device-from-your-system.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) When the uninstall completes, restart your computer. Windows should help you automatically install the latest version of the driver it could find. See if your problem solved after the reinstall. If not, please follow the third option below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 4: Update your driver**
@@ -123,20 +119,20 @@ There’re mainly 2 ways for you to update your driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c879b4b0a0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Locate and expand the option**Mice and other pointing devices** . Then right click your touchpad drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/synaptics-pointing-device.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Then go to **Driver** tab, choose **Update Driver…**  option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587c89a864856.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Windows will start helping you find the latest version of touchpad driver that it could find. But if you see the notification like the following one:
 
@@ -161,7 +157,7 @@ You might need to search for the driver by yourself on the Internet.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -169,6 +165,10 @@ You might need to search for the driver by yourself on the Internet.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-629.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** If you have any problems using Driver Easy Pro to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -194,18 +194,16 @@ You might need to search for the driver by yourself on the Internet.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-how-to-bring-your-ideas-to-life-in-win-movie-maker/"><u>[New] How to Bring Your Ideas to Life in Win Movie Maker</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-elevating-package-discovery-ultimate-guide/"><u>[Updated] Elevating Package Discovery Ultimate Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-instant-media-transformation-enhance-fb-videos-to-hdmp4-on-the-fly-for-2024/"><u>[Updated] Instant Media Transformation Enhance FB Videos to HD/MP4 on the Fly for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-signal-ideport0-system-issue/"><u>Error Signal: Ideport0 System Issue</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-upgrades-for-raspberry-pi-enthusiasts-in-2aboardstrips-2024/"><u>Essential Upgrades for Raspberry Pi Enthusiasts in 2Aboardstrips, 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ideal-portals-to-rewind-at-your-computer-ps3-edition-for-2024/"><u>Ideal Portals to Rewind at Your Computer (PS3 Edition) for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-storm-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Storm 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/installing-latest-drivers-a-walkthrough-for-hp-envy-20-pc-users/"><u>Installing Latest Drivers: A Walkthrough for HP ENVY 20 PC Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/konverteer-itunes-mp3-naar-aiff-vrijwillig-luchtballon-movavi/"><u>Konverteer iTunes Mp3 Naar AIFF Vrijwillig Luchtballon Movavi</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reformatting-device-issue-venint33a0/"><u>Reformatting Device Issue: VEN_INT33A0</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-gtx-ebx-950-code-43-issue-in-windows-11-detailed-guide/"><u>Resolving GTX Ebx 950 'Code 43' Issue in Windows 11 - Detailed Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restore-operational-capacity-in-flawed-usb-serial-cables-windows/"><u>Restore Operational Capacity in Flawed USB-Serial Cables, Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-potential-launch-8-personalized-ai-tools/"><u>Unleash Potential: Launch 8 Personalized AI Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-googles-platform-unveiled-for-professional-podcasters/"><u>[New] Google's Platform Unveiled for Professional Podcasters</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/outube-editing-tips-and-tricks-for-shorter-videos-for-2024/"><u>[New] YouTube Editing Tips and Tricks for Shorter Videos for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-uncover-clarity-a-detailed-guide-to-purging-backgrounds-with-affinity/"><u>[Updated] In 2024, Uncover Clarity A Detailed Guide to Purging Backgrounds with Affinity</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bypassing-the-code-43-hurdle-effective-fixes-for-gtx-950-on-windows-10-systems/"><u>Bypassing the 'Code 43' Hurdle: Effective Fixes for GTX 950 on Windows 10 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-deal-with-a-code-forty-three-malfunction-on-your-gtx-ninety-five-and-windows-eleven/"><u>How To Deal With A Code Forty-Three Malfunction On Your GTX Ninety-Five And Windows Eleven</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rapid-recovery-path-fixing-broken-mtp-drivers/"><u>Rapid Recovery Path: Fixing Broken MTP Drivers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-premier-screenshot-applications-for-linux-users/"><u>The Premier Screenshot Applications for Linux Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-non-functional-bluetooth-drivers-by-qualcomm-atheros-on-windows-10/"><u>Troubleshooting Guide: Resolving Non-Functional Bluetooth Drivers by Qualcomm Atheros on Windows 10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-a23-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy A23 5G FRP Bypass</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-users-solve-your-wireless-keyboard-problem-today/"><u>Windows Users: Solve Your Wireless Keyboard Problem Today</u></a></li>
 </ul></div>
 

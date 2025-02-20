@@ -1,7 +1,7 @@
 ---
 title: "Error Cleared: DevMgr's #48"
-date: 2025-02-09T05:03:23.282Z
-updated: 2025-02-09T19:08:10.469Z
+date: 2025-02-19T07:13:00.961Z
+updated: 2025-02-20T05:38:31.880Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/3e3d11024602b266406d40d71c2e14542454419c9
 ## Error Cleared: DevMgr's #48
 
  If a device on your computer is running into**Error Code 48** in Device Manager, don’t worry. You’ve come to the right place! Although it’s quite frustrating, you should be able to fix this issue on your own after reading this article.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Error Code 48 in Device Manager
 
@@ -57,7 +61,7 @@ Or
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2 – Automatically update drivers
@@ -84,10 +88,6 @@ Or
 
  If not, you may need to try the fixes below one by one and then reinstall the latest drivers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Disable Hyper-V
 
  Some Windows users reported that Windows 10 works fine with the device when [the Hyper-V feature](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) is disabled. The error code 48 appears only when the Hyper-V feature is enabled.
@@ -101,18 +101,14 @@ Or
 ![Turn Windows features on or off](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-Windows-features-on-or-off.jpg)
 3. In the Window that pops up,**uncheck the box** next to**Hyper-V** and click**OK** to disable the Hyper-V feature.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disable the Hyper-V feature](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Hyper-V-feature.jpg)
 4. Restart Windows 10 to see if the issue persists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this fix didn’t work, try the next fix to turn off Memory Integrity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Turn off Memory Integrity in Core isolation
 
@@ -127,14 +123,14 @@ To turn off Memory Integrity, simply follow the steps below:
 2. **Turn off** the toggle under**Memory integrity** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off Memory integrity](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Memory-integrity.jpg)
 3. Restart Windows 10 and reinstall the latest driver of the problematic device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 See if this fix works. If not, try the next fix, below.
@@ -151,6 +147,10 @@ See if this fix works. If not, try the next fix, below.
 ![run system file checker](https://images.drivereasy.com/wp-content/uploads/2021/04/run-system-file-checker.jpg)
 3. Close the Command Prompt window after the process ie complete.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **To run the Windows Memory Diagnostic Test:**
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the**Run** dialog. Type**control admintools** and press**Enter** to open the**Administrator Tools** window in the**Control Panel** .  
@@ -158,7 +158,7 @@ See if this fix works. If not, try the next fix, below.
 2. Double-click**Windows Memory Diagnostic** to run it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Windows Memory Diagnostic](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-Memory-Diagnostic.jpg)
@@ -192,21 +192,21 @@ See if this fix works. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-elite-8-streaming-software-selections-for-2024/"><u>[New] Elite 8 Streaming Software Selections for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-under-200-cameras-with-action-potential-at-your-fingertips/"><u>[New] In 2024, Under $200 Cameras with Action Potential at Your Fingertips</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-creative-components-free-youtube-visual-resources/"><u>[Updated] 2024 Approved Creative Components FREE YouTube Visual Resources</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-fabricate-funny-faces/"><u>2024 Approved Fabricate Funny Faces</u></a></li>
-<li><a href="https://driver-error.techidaily.com/efficient-pci-compatible-software-bundles/"><u>Efficient PCI-Compatible Software Bundles</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-tecno-spark-go-2024-easily-by-drfone-android/"><u>How To Unlock a Tecno Spark Go (2024) Easily?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-livestream-perfection-selecting-your-go-to-platform/"><u>In 2024, Livestream Perfection Selecting Your Go-To Platform</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-a05s-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy A05s FRP</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keyboard-and-mouse-stop-working-after-sleep-on-windows-10-solved/"><u>Keyboard & Mouse Stop Working After Sleep on Windows 10 [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mending-non-working-right-click-on-touchpad-with-windows-11/"><u>Mending Non-Working Right Click on Touchpad with Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reactivating-obscured-bluetooth-in-system-settings/"><u>Reactivating: Obscured Bluetooth in System Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/reconnecting-windows-11-printer-a-step-by-step-guide/"><u>Reconnecting Windows 11 Printer: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/steps-to-correct-asus-acpi-driver-errors/"><u>Steps to Correct Asus ACPI Driver Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-incompatible-drivers-ensuring-validity-on-your-pc/"><u>Troubleshooting Incompatible Drivers: Ensuring Validity on Your PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unresponsive-device-bcm20702a0-driver/"><u>Unresponsive Device - BCM20702A0 Driver</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-highest-scoring-usb-memory-sticks-for-this-year-2/"><u>Unveiling the Highest-Scoring USB Memory Sticks for This Year, 2</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-keyboard-not-working-on-windows-10/"><u>[Fixed] Keyboard Not Working on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-irqlnotlessorequal-bsod-in-windows-10/"><u>[Solved] IRQL_NOT_LESS_OR_EQUAL BSOD in Windows 10</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-backdrop-beats-curating-cinematic-tunes/"><u>2024 Approved Backdrop Beats Curating Cinematic Tunes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-vertical-display-errors-on-your-asus-computer/"><u>Correcting Vertical Display Errors on Your ASUS Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-display-issues-resolved-no-more-black-screens/"><u>Cyberpunk 2077 Display Issues Resolved - No More Black Screens</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effective-ways-to-resolve-lg-monitor-drivers-problems-in-windows-environments/"><u>Effective Ways to Resolve LG Monitor Drivers Problems in Windows Environments</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-restoring-your-qualcomm-atheros-bluetooth-connection-on-windows-vehicles-with-the-following-titles/"><u>Expert Tips: Restoring Your Qualcomm Atheros Bluetooth Connection on Windows Vehicles with the Following Titles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/failure-to-connect-device-due-to-missing-driver/"><u>Failure to Connect Device Due to Missing Driver</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/forhora-ditt-videoverkan-de-basta-instrumenten-att-oka-digrams-offline-och-pa-internetet/"><u>Förhöra Ditt Videoverkan - De Bästa Instrumenten Att Öka Digrams Offline Och På Internetet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-kill-bluetooth-on-windows-10/"><u>Guide to Kill Bluetooth on Windows 10</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/international-instructors-day-language-diverse-tribute/"><u>International Instructors' Day: Language-Diverse Tribute</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-samsung-galaxy-tab-s6-the-ultimate-experience-with-s-pen-integration-and-dex-mode-capabilities/"><u>Review of Samsung Galaxy Tab S6: The Ultimate Experience with S Pen Integration and Dex Mode Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-issue-when-your-outlooks-spellcheck-feature-fails/"><u>Solving the Issue: When Your Outlook's Spellcheck Feature Fails</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-fix-tarkov-bug-amd-graphics-quick-guide/"><u>Swift FIX: Tarkov Bug - AMD Graphics Quick Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-problems-with-older-usb-device-types-resolved-insights/"><u>Tackling Problems with Older USB Device Types: Resolved Insights</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/kak-sozdat-sistemnyj-vosstanovitelnyj-disk-dlya-windows-10-i-11-razbor-i-sovety-ekspertov/"><u>Как Создать Системный Восстановительный Диск Для Windows 10 И 11 - Разбор И Советы Экспертов</u></a></li>
 </ul></div>
 

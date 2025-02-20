@@ -1,7 +1,7 @@
 ---
 title: How to Make Win10/11 See Logitech Receiver
-date: 2025-02-02T19:58:42.346Z
-updated: 2025-02-09T16:25:38.995Z
+date: 2025-02-16T01:21:32.362Z
+updated: 2025-02-19T20:33:17.713Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
  You should get a working mouse or touchpad to do the instructions below. The following screenshots are shown on Windows 11, but all the fixes apply to Windows 10, and 8&7 as well.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1: Copy the driver file from a well-functioning computer**
 
  If your current PC lacks the needed driver file, your mouse receiver won’t work as well as it should. To fix it:
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
  1) Go to   **C:\\Windows\\inf\\**  to find the**usb.PNF** and**usb.inf** files. If you can see them on your current PC, then move on to the methods below.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-usb-inf.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) If you can’t see them,**copy** them from another computer whose USB receiver is working properly and **paste** them onto this folder.
 
@@ -61,17 +61,9 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-control-category-uninstall.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-lick **MotionInJoy** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57830b6e39c32.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Type in**regedit** in the search bar and then open it.
 
@@ -81,16 +73,12 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-registry-editor-ds3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Delete all the DS3 files that you can see, especially the DS3.exe file.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/registry-delete-ds3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Unplug your**Logitech Unifying Receiver** .
@@ -121,33 +109,45 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db63d8ac59f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **4: Run Logitech Unifying Receiver as administrator**
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time. Type**devmgmt.msc** and press**Enter** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Expand **Mice and other pointing devices,** right-click the**HID-compliant mouse** and click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57834599bc659.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Download [Logitech Unifying Software](http://support.logitech.com/en%5Fus/software/unifying) . After the download, right-click the icon and click **Run as administrator** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-logi-run-as-adm.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After the installation, right-click**Logitech Unifying Software** in the**Start** panel and click **Run as administrator** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/07/win-11-logi-run-as-adm-start.jpg)
 
 5) Your Logitech receiver should be able to work now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **5: Perform a hard reset**
 
@@ -189,22 +189,18 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-installing-snapchat-a-mac-owners-handbook/"><u>[Updated] 2024 Approved Installing Snapchat A Mac Owner's Handbook</u></a></li>
-<li><a href="https://driver-error.techidaily.com/warning-bluetooth-mouse-not-initializing-on-pc/"><u>[Warning] Bluetooth Mouse Not Initializing on PC</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-energetic-speaker-review-iteration-viii/"><u>2024 Approved Energetic Speaker Review - Iteration VIII</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-flawlessly-post-srt-files-in-multiple-social-environments/"><u>2024 Approved How to Flawlessly Post SRT Files in Multiple Social Environments</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enhancing-system-bus-control-on-windows-11/"><u>Enhancing System Bus Control on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-directx-9-initialization-glitches-instantly/"><u>Fixing DirectX 9 Initialization Glitches Instantly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-restore-your-qualcomm-atheros-bluetooth-driver-functionality-on-windows-10-problem-solved/"><u>How to Restore Your Qualcomm Atheros Bluetooth Driver Functionality on Windows 10 – Problem Solved</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-se-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone SE iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://article-files.techidaily.com/iphone-filmmaking-essentials-creating-and-changing-video-speed-dynamics/"><u>IPhone Filmmaking Essentials Creating and Changing Video Speed Dynamics</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reactivating-silenced-microphoneheadset-on-windows-10/"><u>Reactivating Silenced Microphone/Headset on Windows 10</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/resurrect-your-broken-videos-mastering-vlc-for-mp4mov-repairs/"><u>Resurrect Your Broken Videos: Mastering VLC for MP4/MOV Repairs</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/review-unveiling-the-potential-of-vidma-capture-tech/"><u>Review Unveiling the Potential of Vidma Capture Tech</u></a></li>
-<li><a href="https://some-tips.techidaily.com/score-big-with-prime-day-aftermath-the-latest-apple-ipad-gen-10-sets-at-a-steal-for-just-299-coverage-by-zdnet/"><u>Score Big with Prime Day Aftermath: The Latest Apple iPad Gen 10 Sets at a Steal for Just $299 | Coverage by ZDNet</u></a></li>
-<li><a href="https://driver-error.techidaily.com/securing-smooth-operation-of-nvidia-drivers/"><u>Securing Smooth Operation of Nvidia Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-how-to-restore-audio-functionality-on-your-laptop/"><u>Solving the Dilemma: How to Restore Audio Functionality on Your Laptop</u></a></li>
-<li><a href="https://driver-error.techidaily.com/steps-to-stabilize-nvidia-graphics-codes/"><u>Steps to Stabilize Nvidia Graphics Codes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-detected-hardware-not-recognized-by-idt-software/"><u>Troubleshooting Guide: Resolving 'Detected Hardware Not Recognized' By IDT Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-action-camera-buying-for-the-absolute-novice-2023-guide-for-2024/"><u>[New] Action Camera Buying for the Absolute Novice - 2023 Guide for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-origami-like-folded-havens-in-mc-for-2024/"><u>[New] Origami-Like Folded Havens in MC for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-best-in-show-a-compreeved-list-of-top-18-4k-recording-devices-for-2024/"><u>[Updated] Best in Show A Compreeved List of Top 18 4K Recording Devices for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-laptop-tips-correcting-the-orientation-of-your-display/"><u>ASUS Laptop Tips: Correcting the Orientation of Your Display</u></a></li>
+<li><a href="https://media-tips.techidaily.com/connect-laptops-and-televisions-seamlessly-with-bluetooth-technology-explained/"><u>Connect Laptops and Televisions Seamlessly with Bluetooth Technology Explained</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-unsuccessful-lacking-intel-device/"><u>Driver Installation Unsuccessful - Lacking Intel Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-infinix-note-30-vip-racing-edition-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Infinix Note 30 VIP Racing Edition Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-realme-c67-4g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Realme C67 4G Through Google Earth?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mitigating-non-functional-status-post-enex-failure-in-win11/"><u>Mitigating Non-Functional Status Post eNEX Failure in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-usb-serial-linkup-troubleshooting/"><u>Win USB Serial Linkup Troubleshooting</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Smooth Windows 11 with No Lag
-date: 2025-02-03T17:53:49.916Z
-updated: 2025-02-09T18:05:12.733Z
+date: 2025-02-17T02:30:43.243Z
+updated: 2025-02-19T16:24:13.637Z
 tags:
   - win11
   - win10
@@ -35,33 +35,33 @@ thumbnail: https://thmb.techidaily.com/cbe88b794b4a33f4b9a69a7996ceb63e4276735d9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e3c34d1ba.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Press**Tab** , then the down arrow key until you highlight **Mouse and other pointing device** . Press the**right arrow key** to expand the option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/mice-and-other-pointing-deices.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Press the**down arrow key** to highlight your mouse name, then**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa35dee13e1a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Press the**Tab** key and the**Ctrl** key at the same time until you get to the**Driver** tab. Press**Tab** until you highlight**Uninstall Device** . Then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa35e5fee707.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa35e7986c5d.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) If you’re prompted to restart your computer and you’re ready to go, press**Enter** . If not, press**Tab** to restart your computer later.
 
@@ -77,10 +77,6 @@ Windows will help you reinstall the drivers for your mouse.
 
  8) See if your mouse lagging problem is fixed. If it’s still an issue, you can try our next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **2: Update the graphics card driver**
 
  The problem could also be caused by outdated graphics card driver. To solve it, you can update your display driver. There are two ways you can update your graphics card: manually or automatically.
@@ -95,11 +91,19 @@ Windows will help you reinstall the drivers for your mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8a9c69e1b7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the mouse device to automatically download the correct version of this driver, then you can install it manually(you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8aa75cfe48.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3: Check the local area network settings**
 
@@ -108,6 +112,10 @@ Windows will help you reinstall the drivers for your mouse.
  1) On your keyboard, press the**Windows logo key** and**R** at the same time, type**control** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa3695673227.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Press**Tab** , then**Enter** . Press the left arrow key to select **Small icons** , then press**Enter** .
 
@@ -132,7 +140,7 @@ Windows will help you reinstall the drivers for your mouse.
  7) Now you’ll be back at the Network Connection window, with your Ethernet icon highlighted. Press**Enter** to enable your network connection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **4: End Realtek audio**
@@ -148,14 +156,10 @@ Windows will help you reinstall the drivers for your mouse.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/end-task-in-task-manager.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the above methods don’t work, go check your**Task Manager** for clues on which applications could be at fault. If they’re occupying a lot of disk usage, it’s worth looking into. When you locate any suspicious applications, right-click them and click End Task to see if the mouse lagging problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Other options**
 
@@ -168,10 +172,6 @@ Here’s how you can do it:
  a) Press the **Windows key** and**R** at the same time, type**services.msc** in, and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c21ca77a670.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  b) Locate**ATI HotKey Poller** service on the right side of the window. Then double-click it.
 
@@ -204,24 +204,22 @@ d) Restart your computer.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fix-windows-11-keyboard-now-responsive-again/"><u>[Fix]: Windows 11 Keyboard Now Responsive Again</u></a></li>
-<li><a href="https://driver-error.techidaily.com/irqlnotless-bsod-averted-for-win11/"><u>[IRQL_NOT_LESS] BSOD Averted for Win11</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-ultimate-list-best-video-cameras-s-musical-cinematography/"><u>[New] Ultimate List Best Video Cameras 'S Musical Cinematography</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-top-5-sd-cards-for-gopro-hero-series-including-model-8-and-7/"><u>[Updated] Top 5 SD Cards for GoPro Hero Series - Including Model 8 & 7</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-how-to-install-handbrake-with-libdvdcss-on-macos-monterey-and-windows-11/"><u>1. How to Install Handbrake with Libdvdcss on macOS Monterey and Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-declares-your-gadget-as-a-classic-collectible-insights-on-outdated-devices-and-their-evolutionary-significance/"><u>Apple Declares Your Gadget as a Classic Collectible: Insights on Outdated Devices & Their Evolutionary Significance</u></a></li>
-<li><a href="https://techidaily.com/ensuring-windows-11-security-post-2025-with-a-premium-package/"><u>Ensuring Windows 11 Security Post-2025 with a Premium Package</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-the-ultra-portable-power-lg-gram-pro-17-review-and-steals-of-the-hour-black-friday-deals-alert/"><u>Experience the Ultra-Portable Power: LG Gram Pro 17 Review & Steals of the Hour - Black Friday Deals Alert!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-geforce-gtx-1070-driver-issue-on-windows-10-solved/"><u>Fix GeForce GTX 1070 Driver Issue on Windows 10 [Solved]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-mass-storage-controller-driver-issue-on-windows-10-solved/"><u>Fix Mass Storage Controller Driver Issue on Windows 10 [Solved]</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-update-or-replace-incompatible-hardware-with-current-drivers/"><u>How to Update or Replace Incompatible Hardware with Current Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-screen-orientation-problems-correcting-vertical-video-display-on-your-asus-computer/"><u>Resolving Screen Orientation Problems: Correcting Vertical Video Display on Your ASUS Computer</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-alert-blueears-fashion-forward-bluetooth-beanie-hat-offers-solid-acoustic-experience/"><u>Review Alert: Blueear's Fashion-Forward Bluetooth Beanie Hat Offers Solid Acoustic Experience!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-the-windows-10-missing-cpu-co-processor-drivers-issue/"><u>Step-by-Step Solution for the 'Windows 10 Missing CPU Co-Processor Drivers' Issue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailor-your-text-experience-openais-gpt-custom-shops/"><u>Tailor Your Text Experience – OpenAI's GPT Custom Shops</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-full-spatial-capability-with-windows-11-settings/"><u>Unleash Full Spatial Capability with Windows 11 Settings</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wacoms-success-story-every-device-plugged-in/"><u>Wacom's Success Story: Every Device Plugged In</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wudfrd-not-functioning-device-event-id-219/"><u>WudfRd Not Functioning - Device Event ID 219</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-you-have-to-install-atk0100-driver/"><u>[Solved] You Have to Install ATK0100 Driver</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-leading-list-10-budget-friendly-sbd-solutions/"><u>[Updated] 2024 Approved Leading List 10 Budget-Friendly SBD Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-post-a-vimeo-video-on-instagram/"><u>[Updated] In 2024, How to Post a Vimeo Video on Instagram</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-camera-kings-battle-ultimate-sj6-vs-xiaomis-yi-kickstart-dream/"><u>2024 Approved Camera Kings Battle Ultimate SJ6 Vs. Xiaomi’s Yi Kickstart Dream</u></a></li>
+<li><a href="https://fox-http.techidaily.com/advanced-techniques-for-360-video-editing-in-premiere/"><u>Advanced Techniques for 360° Video Editing in Premiere</u></a></li>
+<li><a href="https://driver-error.techidaily.com/amend-crosslinking-usb-conflict/"><u>Amend Crosslinking USB Conflict</u></a></li>
+<li><a href="https://driver-error.techidaily.com/beat-the-gtx-950s-code-43-glitch-in-windows-10-with-these-expert-troubleshooting-tips-now-solved/"><u>Beat the GTX 950'S Code 43 Glitch in Windows 10 with These Expert Troubleshooting Tips - Now Solved!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/chromebook-pixel-non-detection-on-centos-linux-fix-applied/"><u>Chromebook Pixel Non-Detection on CentOS Linux (Fix Applied)</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/de-beste-methoden-om-standaard-pakketten-uptade-te-ontsnappen-in-windows-11/"><u>De Beste Methoden Om Standaard Pakketten Uptade Te Ontsnappen in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-video-and-photography-makers-who-mix-sounds/"><u>Essential Video & Photography Makers Who Mix Sounds</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-m-audio-m-track-2x2-driver-issue-easily-and-quickly/"><u>Fix M-Audio M-Track 2X2 Driver Issue Easily & Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-troubleshoot-and-overcome-obsolete-usb-composite-device-challenges/"><u>How to Troubleshoot and Overcome Obsolete USB Composite Device Challenges</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-video-framing-technique-adding-bb-and-letterbox-overlays-to-fb/"><u>In 2024, Video Framing Technique Adding BB and Letterbox Overlays to FB</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-compatibility-woes-updating-drivers-on-windows-1087/"><u>Overcoming Compatibility Woes: Updating Drivers on Windows 10/8/7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-invalid-service-installation-inf-segment/"><u>Solving Invalid Service Installation INF Segment</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/tonal-treasures-the-ultimate-list-of-classical-download-sites/"><u>Tonal Treasures The Ultimate List of Classical Download Sites</u></a></li>
 </ul></div>
 

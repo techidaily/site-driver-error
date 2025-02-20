@@ -1,7 +1,7 @@
 ---
 title: Restoring USB Functionality Post ADB Error
-date: 2025-02-02T22:03:15.426Z
-updated: 2025-02-09T23:29:58.423Z
+date: 2025-02-17T23:03:24.064Z
+updated: 2025-02-20T07:16:38.976Z
 tags:
   - win11
   - win10
@@ -48,27 +48,27 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Find your Android device. It’s probably under**Other** **devices** section with a yellow mark. Then right-click on it and choose **Update Driver Software…**
 
 **![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-10.jpg)**
  7) Click **Browse my computer for driver software** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-6.jpg)
  8) Go on to click **Let me pick from a list of device drivers on my computer** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-8.jpg)
 
  9) Click **Have Disk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10) Click **Browse**  to choose the Google USB Driver you downloaded at the beginning. Or you can enter the following address into the box.  
  **C:\\Program Files (x86)\\Android\\android-sdk\\extras\\google\\usb\_driver**
@@ -78,10 +78,14 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
  11) Double-click on **Android ADB Interface** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  12) Go on to follow the easy on-screen instructions to complete installing the driver.  
  After it’s done, please restart your computer to make the new driver take effect.  
@@ -98,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b457d42d6959.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged ADB device driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -106,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b457f592ee84.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After it’s done, please restart your computer to make the new driver take effect.  
  Now your problem should be solved, try to use ADB now.
@@ -133,24 +133,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-cards-not-shown-on-windows-machine/"><u>[FIXED] Cards Not Shown on Windows Machine</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-compelling-group-imagery-without-the-hassle-using-picshot/"><u>2024 Approved Crafting Compelling Group Imagery Without the Hassle, Using Picshot</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-display-choices-to-enhance-ps5xbox-playtime/"><u>2024 Approved Top 5 Display Choices to Enhance PS5/Xbox Playtime</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-motorola-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Motorola FRP</u></a></li>
-<li><a href="https://fox-links.techidaily.com/backdrop-bassline-tunes-to-enhance-media-for-2024/"><u>Backdrop Bassline Tunes to Enhance Media for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/effortless-techniques-for-easy-video-editing-master-quick-clipping-skills/"><u>Effortless Techniques for Easy Video Editing - Master Quick Clipping Skills</u></a></li>
-<li><a href="https://driver-error.techidaily.com/from-absence-to-presence-touchpad-driver-reinstated/"><u>From Absence to Presence: Touchpad Driver Reinstated</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/an-edge-in-views-with-these-5-youtube-thumbnail-creators/"><u>Gain an Edge in Views with These 5 YouTube Thumbnail Creators</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-efficiently-downloading-and-installing-new-drivers-for-your-hp-envy-20-computer/"><u>Guide to Efficiently Downloading and Installing New Drivers for Your HP ENVY 20 Computer</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Oppo Reno 8T 5G? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-an-hp-wireless-keyboard-that-isnt-responding-solutions-inside/"><u>How to Fix an HP Wireless Keyboard That Isn't Responding - Solutions Inside</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-iphones-external-storage-connectivity-via-usb-an-ultimate-guide/"><u>How to Fix iPhone's External Storage Connectivity via USB: An Ultimate Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-motorola-razr-40-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Motorola Razr 40 Phone that is Locked?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-crash-and-restore-the-default-radeon-wattman-configuration-fixed/"><u>Resolving 'Crash & Restore': The Default Radeon Wattman Configuration Fixed</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-setup-how-to-quickly-update-and-download-epson-printer-drivers/"><u>Seamless Setup: How to Quickly Update and Download Epson Printer Drivers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-dawn-of-smarter-technology-with-apple-discovering-artificial-intelligence-advancebuildings-into-your-devices-comprehensive-guide/"><u>The Dawn of Smarter Technology with Apple: Discovering Artificial Intelligence Advancebuildings Into Your Devices Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-wireless-keyboard-on-windows/"><u>Troubleshooting Guide: Fixing a Nonfunctional Wireless Keyboard on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-issues-with-unrecognized-final-usb-device-on-windows/"><u>Troubleshooting Guide: Resolving Issues with Unrecognized Final USB Device on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103778364-your-pc-graphics-issues-let-us-fix-your-nvidia-rtx-gaming-woes/"><u>Your PC Graphics Issues? Let Us Fix Your Nvidia RTX Gaming Woes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-resolution-need-help-our-expert-found-a-fix-for-your-gpu-problem-in-gaming/"><u>(Quick-Resolution) Need Help? Our Expert Found a Fix for Your GPU Problem in Gaming</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/astering-the-basics-a-comprehensive-guide-to-yt-shorts-for-2024/"><u>[New] Mastering the Basics A Comprehensive Guide to YT Shorts for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-prototypical-360-rotation-camera-study/"><u>[Updated] 2024 Approved Prototypical 360° Rotation Camera Study</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-beneath-the-wave-expert-strategies-for-filming-with-gopro-below-water-for-2024/"><u>[Updated] Beneath the Wave Expert Strategies for Filming with GoPro Below Water for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-drafting-dynamic-denouements/"><u>[Updated] Drafting Dynamic Denouements</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-workflow-with-visuals-inserting-pictures-and-graphics-in-ms-office-applications/"><u>Enhance Your Workflow with Visuals: Inserting Pictures & Graphics in MS Office Applications</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/growth-in-the-grove-top-7-stardew-valley-addons/"><u>Growth in the Grove Top 7 Stardew Valley Addons</u></a></li>
+<li><a href="https://app-tips.techidaily.com/missing-in-action-the-elusive-free-windows-10-enhancement-program/"><u>Missing in Action: The Elusive Free Windows 10 Enhancement Program</u></a></li>
+<li><a href="https://driver-error.techidaily.com/non-operative-keyboard-on-windows/"><u>Non-Operative Keyboard on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-installing-missing-drives-on-your-device-for-windows-11-8-and-7/"><u>Solved: Installing Missing Drives on Your Device for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/speaking-through-slides-total-ppt-tutorial/"><u>Speaking Through Slides Total PPT Tutorial</u></a></li>
+<li><a href="https://driver-error.techidaily.com/speedily-correct-the-missing-itbm-driver-issue-with-simple-tips/"><u>Speedily Correct the Missing ITBM Driver Issue with Simple Tips!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-for-legacy-usb-composite-devices/"><u>Troubleshooting Tips for Legacy USB Composite Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-expanding-your-nes-classics-collection/"><u>Ultimate Guide: Expanding Your NES Classics Collection</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-smooth-reliable-performance/"><u>Windows 11: Smooth, Reliable Performance</u></a></li>
 </ul></div>
 

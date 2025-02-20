@@ -1,7 +1,7 @@
 ---
 title: Seagate External Drive Detection Issue Solved in Win11
-date: 2025-02-08T05:20:58.586Z
-updated: 2025-02-10T06:07:06.203Z
+date: 2025-02-17T06:42:47.516Z
+updated: 2025-02-20T03:43:00.993Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
  If you’re on Windows 10 and you have no access to your Seagate GoFlex external hard drive, you’re not alone. Many users have reported having this problem as well. No worries, here are 5 solutions for you to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How can I make my external Seagate hard drive show up again?
 
  You may not need to try them all, just work your way down until you find the one that works for you.
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 **[5: Disable Fast Startup](https://coinrule.sjv.io/rqzonv)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 1: Try A Different USB Port**
@@ -89,12 +93,20 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-this-program-in-compatibility-mode-for.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click**Apply** and**OK** to save and then run the setup again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apply-and-ok.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 3: Partition the Hard Drive**
 
@@ -122,33 +134,30 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-computer-management.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, click**Disk Management** . If you see a drive without a letter, check to make sure that it’s your**Seagate GoFlex drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57f9f9701ebe7-600x294.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click it and click **Change Drive Letter and Paths…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-drive-letter-and-paths.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If your external hard drive doesn’t have a letter, press **Add…** to add a letter for this drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/add-a-letter.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Assign a letter to it and click**OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/ok.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 5: Disable Fast Startup**
 
@@ -156,10 +165,6 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/control-panel.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click **Hardware and Sound** .
 
@@ -174,7 +179,7 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-what-the-power-button-does.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Click   **Change settings that are currently unavailable** .
@@ -182,16 +187,12 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable-600x456.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Scroll down to the _**Shutdown** settings_ section and uncheck**Turn off fast startup (recommended)** . Click **Save changes**  . You might need to restart your computer after this change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uncheck-turn-off-fast-startup-recommended-600x450.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -208,20 +209,24 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-razers-kiyo-webcam-complete-overview/"><u>[New] 2024 Approved Razer's Kiyo Webcam - Complete Overview</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-tips-for-iphone-users-converting-standard-speed-to-slow-scenes/"><u>[New] 2024 Approved Tips for iPhone Users Converting Standard Speed to Slow Scenes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-most-improved-10-elements-of-terraria/"><u>[New] In 2024, Most Improved 10 Elements of Terraria</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-iphones-role-in-creating-immersive-vr-content/"><u>[New] IPhone's Role in Creating Immersive VR Content</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-narzo-60-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Realme Narzo 60 5G Phone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ensuring-reliable-sm-bus-driver-on-windows-1011/"><u>Ensuring Reliable SM Bus Driver on Windows 10/11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-usb-code-43-error-easily-with-pictures/"><u>Fix USB Code 43 Error Easily [with Pictures]</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/honor-x50i-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Honor X50i ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/name-hunt-opengl-support-in-intel-graphics-cards/"><u>Name Hunt: OpenGL Support in Intel Graphics Cards</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/pc-hddssd/"><u>PC HDDからSSDへ容易にデータミラーリングする手順：詳しく解説</u></a></li>
-<li><a href="https://driver-error.techidaily.com/remedy-for-unidentified-usb-gadgets-on-windows-78/"><u>Remedy for Unidentified USB Gadgets on Windows 7/8</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resource-saturation-a-usage-dilemma/"><u>Resource Saturation: A Usage Dilemma</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tweak-pointer-efficiency-for-dell-windows/"><u>Tweak Pointer Efficiency for Dell (Windows)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-install-realtek-ethernet-driver-error-resolved/"><u>Win11 Install: Realtek Ethernet Driver Error Resolved</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unlocking-creativity-free-animation-techniques/"><u>[Updated] In 2024, Unlocking Creativity Free Animation Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-shots-from-the-2022-snowboard-x-games-for-2024/"><u>Best Shots From the 2022 Snowboard X Games for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cant-switch-bluetooth-off-my-laptop-is-frozen/"><u>Can't Switch Bluetooth OFF - My Laptop Is Frozen</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortlessly-fixing-windows-11s-elan-tap-mishaps/"><u>Effortlessly Fixing Windows 11'S Elan Tap Mishaps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-cleaned-correctly-configuring-your-device-code-1-explanation/"><u>Error Cleaned: Correctly Configuring Your Device (Code 1 Explanation)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hot-oculus-vr-games-that-everyones-playing-for-2024/"><u>Hot Oculus VR Games That Everyone's Playing for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-action-plan-for-mtp-connection-errors/"><u>Immediate Action Plan for MTP Connection Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-solutions-for-driver-not-available-on-itbm-system-effortless-troubleshooting-guide/"><u>Immediate Solutions for 'Driver Not Available' On ITBM System - Effortless Troubleshooting Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mejor-tacticas-para-transformar-archivos-mpeg-en-mp3-optando-entre-conversores-web-o-de-desktop/"><u>Mejor Tácticas Para Transformar Archivos MPEG en MP3: Optando Entre Conversores Web O De Desktop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pci-simple-communications-controller-driver-issue-solved/"><u>PCI Simple Communications Controller Driver Issue [Solved]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-itel-p55-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-realme-11x-5g-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Realme 11X 5G has been deleted.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/released-irql-anomaly-in-win11/"><u>Released: Irql Anomaly in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/responsive-clicks-no-freezing-on-pc/"><u>Responsive Clicks, No Freezing on PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-magsafe-gadgets-comprehensive-reviews-and-testing-zdnet-tech/"><u>Top-Rated Magsafe Gadgets - Comprehensive Reviews & Testing | ZDNET Tech</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/ultimate-guide-the-5-greatest-complimentary-windows-11-video-player-options/"><u>Ultimate Guide: The 5 Greatest Complimentary Windows 11 Video Player Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-guide-to-4k-video-editing-software/"><u>Updated In 2024, The Ultimate Guide to 4K Video Editing Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-and-lenovo-tackling-bluetooth-problems-head-on/"><u>Win11 & Lenovo: Tackling Bluetooth Problems Head-On</u></a></li>
 </ul></div>
 

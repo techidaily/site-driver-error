@@ -1,7 +1,7 @@
 ---
 title: "Service Section Fix: Validated INF"
-date: 2025-02-05T16:10:13.162Z
-updated: 2025-02-09T22:59:00.190Z
+date: 2025-02-13T03:48:27.854Z
+updated: 2025-02-19T22:51:46.550Z
 tags:
   - win11
   - win10
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged MTP USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -72,27 +72,27 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68744ea8804.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) In Device Manager, if you see the device shown as MTP USB device. You’ll see**MTP USB Device** listed in the list.**Highlight** it then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687724c3ed9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you see the device shown as Unknown Device. You’ll see an Android phone or Android device in the long list.**Highlight** it and click**Next** then select**MTP USB device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68796507b2b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) The driver will install automatically. You just need to wait for a while until the installation completes.
 
  7) Reconnect your Andriod device to your computer and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Install the missing driver files manually
@@ -105,13 +105,13 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a687fa525406.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the same computer, locate file**usbser.sys** in**C:\\Windows\\System32\\drivers.** Copy and save this file to an external drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a68804b214be.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Connect the external drive to the computer with this problem. Copy file**mdmcpq.inf** to **C:\\Windows\\INF** and copy file **usbser.sys** to **C:\\Windows\\System32\\drivers** .
 
@@ -140,17 +140,21 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-the-power-of-niche-hashtags-for-targeted-instagram-reach/"><u>[New] The Power of Niche Hashtags for Targeted Instagram Reach</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-windows-11-game-recordings-the-ultimate-guide-to-successful-techniques/"><u>[New] Windows 11 Game Recordings The Ultimate Guide to Successful Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-earths-highest-paid-online-video-personality/"><u>2024 Approved Earth's Highest-Paid Online Video Personality</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/downloading-standardized-youtube-images-with-ease-and-precision-for-2024/"><u>Downloading Standardized Youtube Images with Ease & Precision for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-might-chatgpt-assist-you-when-lost-amongst-the-wilderness/"><u>How Might ChatGPT Assist You When Lost Amongst the Wilderness?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-the-art-of-reviving-aging-usb-composite-devices-problems-fixes-and-enhancements/"><u>Mastering the Art of Reviving Aging USB Composite Devices - Problems, Fixes & Enhancements</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/pixelperfect-toolkit-guidebook-for-2024/"><u>PixelPerfect Toolkit Guidebook for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-printer-lacks-windows-support/"><u>Resolved: Printer Lacks Windows Support</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-the-gtx-cued-code-43-error-in-windows-10-a-step-by-step-guide/"><u>Resolving the GTX Cued Code 43 Error in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solutions-to-when-windows-cant-detect-your-most-recent-usb-hardware-problem/"><u>Solutions to When Windows Can't Detect Your Most Recent USB Hardware Problem</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-invalid-drivers-installation-issues-on-your-pc/"><u>Solving Invalid Drivers Installation Issues on Your PC</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oneplus-nord-ce-3-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from OnePlus Nord CE 3 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-visual-storytelling-in-business-marketing/"><u>[New] Visual Storytelling in Business Marketing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-obs-studio-mastery-top-5-editing-techniques/"><u>[Updated] 2024 Approved OBS Studio Mastery Top 5 Editing Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-timeless-moments-iphones-prolonged-shots-guide/"><u>Capturing Timeless Moments IPhone’s Prolonged Shots Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/efficient-strategies-for-network-wide-system-backups-a-step-by-step-approach/"><u>Efficient Strategies for Network-Wide System Backups: A Step-by-Step Approach</u></a></li>
+<li><a href="https://solve-info.techidaily.com/enhanced-personalization-with-the-advanced-capabilities-of-cookiebot-technology/"><u>Enhanced Personalization with the Advanced Capabilities of Cookiebot Technology</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-frostbite-finishes-olympic-ice-classics/"><u>In 2024, Frostbite Finishes Olympic Ice Classics</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-lava-blaze-2-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Lava Blaze 2 Pro Phones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/installer-errors-resolved-new-nvidia-driver-installation/"><u>Installer Errors Resolved - New Nvidia Driver Installation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-macos-a-comprehensive-walkthrough-of-network-configuration-resets/"><u>Mastering macOS: A Comprehensive Walkthrough of Network Configuration Resets</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optical-drive-obscured-windows-11-problem-fixed/"><u>Optical Drive Obscured: Windows 11 Problem Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overhaul-bus-reset-procedures/"><u>Overhaul Bus Reset Procedures</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectified-data-access-errors/"><u>Rectified Data Access Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-no-support-for-amdintel-in-premier-pro-videos/"><u>Resolved: No Support for AMD/Intel in Premier Pro Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reviving-a-non-responsive-hp-wireless-input-device-a-comprehve-solution/"><u>Reviving A Non-Responsive HP Wireless Input Device – A Comprehve Solution</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-radeon-wattmans-sudden-crash-and-recovery-expert-solutions-revealed/"><u>Troubleshooting Radeon Wattman's Sudden Crash and Recovery – Expert Solutions Revealed!</u></a></li>
 </ul></div>
 

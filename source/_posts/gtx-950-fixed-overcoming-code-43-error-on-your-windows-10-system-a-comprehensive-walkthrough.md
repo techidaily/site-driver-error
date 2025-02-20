@@ -1,7 +1,7 @@
 ---
 title: "GTX 950 [Fixed] – Overcoming Code 43 Error on Your Windows 10 System: A Comprehensive Walkthrough"
-date: 2025-02-02T21:53:11.900Z
-updated: 2025-02-10T06:52:21.494Z
+date: 2025-02-15T17:09:03.717Z
+updated: 2025-02-19T17:56:43.719Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you.
@@ -54,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
@@ -66,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0e
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded.
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Option 2: Update Windows 10**
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the**Check for updates** button to see if there are any new updates available.
@@ -112,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) If new updates are available, just download and then update them as instructed.
@@ -155,20 +155,22 @@ thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-a-compreenasional-approach-to-earning-through-vimeos-revenue-systems/"><u>[New] In 2024, A Compreenasional Approach to Earning Through Vimeo's Revenue Systems</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-safeguarding-photos-best-software-guide-uncovered/"><u>[New] In 2024, Safeguarding Photos Best Software Guide Uncovered</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-adobe-photostability-effective-or-fanciful/"><u>[Updated] In 2024, Adobe PhotoStability Effective or Fanciful?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-winning-windows-10-tools-to-record-your-display/"><u>2024 Approved Winning Windows 10 Tools to Record Your Display</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easily-correct-uninstalled-drivers-problem-in-windows-1087-step-by-step-tutorial/"><u>Easily Correct Uninstalled Drivers Problem in Windows 10/8/7: Step-by-Step Tutorial</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-download-direct-top-5-best-cost-free-apps-for-vids-on-pinterest/"><u>In 2024, Download Direct Top 5 Best, Cost-Free Apps for Vids on Pinterest</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-xiaomi-redmi-a2-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Xiaomi Redmi A2</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-ai-voice-text-to-speech-wondershare-virbo-glossary-for-2024/"><u>New What Is AI Voice Text to Speech? | Wondershare Virbo Glossary for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-forces-gracefully-reinstall-driver/"><u>No More Forces: Gracefully Reinstall Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-missing-drivers-in-windows-comprehensive-solutions-for-windows-10-8-and-ebox/"><u>No More Missing Drivers in Windows - Comprehensive Solutions for Windows 10, 8 and Ebox</u></a></li>
-<li><a href="https://win-able.techidaily.com/red-dead-online-no-more-expert-tips-to-stop-your-pc-from-freezing-during-play/"><u>Red Dead Online No More! Expert Tips to Stop Your PC From Freezing During Play</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-realtek-network-driver-conflict-after-10-update/"><u>Solved Realtek Network Driver Conflict After 10 Update</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-bluetooth-auto-enable-on-win11/"><u>Solving Bluetooth Auto-Enable on Win11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-a15-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy A15 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unveiling-gadgets-with-toms-hardware-analysis/"><u>Unveiling Gadgets with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-lunar-client-keeps-crashing-on-pc/"><u>[SOLVED] Lunar Client Keeps Crashing on PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-discovering-chromium-phone-sonics-online/"><u>[Updated] 2024 Approved Discovering Chromium Phone Sonics Online</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-step-by-step-crafting-memes-with-kinemaster/"><u>[Updated] 2024 Approved Step-by-Step Crafting Memes with KineMaster</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g23-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cheer-up-wacom-says-goodbye-to-connection-troubles/"><u>Cheer Up! Wacom Says Goodbye to Connection Troubles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-guide-resolving-battleye-service-start-up-difficulties-caused-by-driver-load-error-145cu/"><u>Comprehensive Guide: Resolving BattlEye Service Start-Up Difficulties Caused by Driver Load Error (145Cu)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertissez-gratuitement-un-fichier-ts-en-format-mov-en-ligne-avec-movavi/"><u>Convertissez Gratuitement Un Fichier .TS en Format .MOV en Ligne Avec Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eradicated-asus-webcam-connectivity-issue-in-win11/"><u>Eradicated ASUS Webcam Connectivity Issue in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-conexant-hd-audio-driver-issues-in-windows-7/"><u>Fix Conexant HD Audio Driver Issues in Windows 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104168643-fixing-bluetooth-disconnect-in-windows-11-quick-guide-solution-found/"><u>Fixing Bluetooth Disconnect in Windows 11 (Quick Guide) - Solution Found!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-samsung-galaxy-s24-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Samsung Galaxy S24 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-troubleshoot-a-blank-pc-monitor-expert-advice-from-yl-computing/"><u>How to Troubleshoot a Blank PC Monitor: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-technique-opening-an-ipad-sans-password/"><u>Master the Technique: Opening an iPad Sans Password</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reviving-the-past-comprehensive-troubleshooting-for-vintage-usb-composite-units/"><u>Reviving the Past: Comprehensive Troubleshooting for Vintage USB Composite Units</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solutions-to-correctly-install-hcmon-device-drivers-after-failure/"><u>Solutions to Correctly Install HCMON Device Drivers After Failure</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-the-vanishing-act-of-a-touchpads-driver/"><u>Solving the Vanishing Act of a Touchpad's Driver</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-overcoming-onedrives-add-folder-unsuccessful-on-pc/"><u>Troubleshooting: Overcoming OneDrive's 'Add Folder Unsuccessful' On PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reviving Lenovo BT with Win11 Expertise and Know-How
-date: 2025-02-04T03:37:50.463Z
-updated: 2025-02-10T07:19:47.366Z
+date: 2025-02-18T19:12:20.010Z
+updated: 2025-02-20T04:25:00.154Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 * [Option 3: Update Bluetooth driver](https://lightailing.sjv.io/k0ez0m)
 * [Option 4: Perform a refresh](https://collovinc.sjv.io/jrkzwp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1: Enable Bluetooth hardware
 
 **NOTE** : Please make sure that your computer has the necessary hardware and your wireless is turned on. Also, check the support website of Lenovo to make sure that your device is Bluetooth capable.
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7a64714f6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Expand **Bluetooth Radios**  or **Bluetooth** .
 
 **Note** : If you **cannot** see any items listed under Network adapters or Bluetooth Radios, please proceed to **Option 2** .
@@ -55,19 +47,23 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7d4daf634.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) If you see a down arrow, your Bluetooth device is disabled, just right-click the item and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b810d497f1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) If you see a yellow exclamation mark next to your Bluetooth driver, your Bluetooth hardware is not responding or set up correctly. You can refer to **Option 3** for more help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2: Enable discovery mode
@@ -95,12 +91,16 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver-scan.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged Bluetooth device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 4: Perform a refresh
 
@@ -124,16 +124,16 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-quick-quirks-lasting-impact-fast-track-to-fame-with-9gag-memes/"><u>[New] 2024 Approved Quick Quirks, Lasting Impact Fast Track to Fame with 9GAG Memes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-enhance-visibility-in-igtv-6-insider-tips-for-video-size-mastery/"><u>[New] Enhance Visibility in IGTV 6 Insider Tips for Video Size Mastery</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cant-install-drivers-due-to-lack-of-intel-card/"><u>Can't Install Drivers Due to Lack of Intel Card</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-how-to-download-and-update-lenovo-ideapad-amodrivers-100-on-windows-10-systems/"><u>Easy Installation: How to Download and Update Lenovo IdeaPad amoDrivers 100 on Windows 10 Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-huggingchat-your-open-source-answer-to-chatbot-innovation/"><u>Exploring HuggingChat: Your Open-Source Answer to Chatbot Innovation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-wdcsam64prewin8sys-no-core-isolation/"><u>Fixed: wdcsam64_prewin8.sys - No Core Isolation</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intelladapter-absence-driver-installs-failed/"><u>IntellAdapter Absence: Driver Installs Failed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-response-from-lenovo-thinkpad-t430-to-windows-vista-resolved/"><u>No Response From Lenovo Thinkpad T430 to Windows Vista [Resolved]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaim-lost-connection-7-fast-fixes-for-non-wi-fi-usb-in-windows-os/"><u>Reclaim Lost Connection: 7 Fast Fixes for Non-Wi-Fi USB in Windows OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/recovery-of-intel-me-operations/"><u>Recovery of Intel ME Operations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-render-dynamic-depth-on-digital-imagery/"><u>[New] Render Dynamic Depth on Digital Imagery</u></a></li>
+<li><a href="https://driver-error.techidaily.com/adaptive-drivers-package-for-windows-pci/"><u>Adaptive Drivers Package for Windows PCI</u></a></li>
+<li><a href="https://driver-error.techidaily.com/amd-radeon-r7-250-graphics-driver-problems-on-windows-11-solved/"><u>AMD Radeon R7 250 Graphics Driver Problems on Windows 11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-usb-webcam-issue-fixed-for-windows-users/"><u>ASUS USB Webcam Issue Fixed for Windows Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-device-error-48/"><u>Corrected Device Error 48</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721100980582-fix-pc-issues-enter-safe-mode-and-uninstall-graphic-cards-driver-on-win-8-easily/"><u>Fix PC Issues? Enter Safe Mode & Uninstall Graphic Cards Driver on Win 8 Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-confusion-to-clarity-excel-made-simple-by-chatgpt/"><u>From Confusion to Clarity: Excel Made Simple by ChatGPT</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-who-are-the-kings-of-tiktok-gameplay/"><u>In 2024, Who Are the Kings of TikTok Gameplay?</u></a></li>
+<li><a href="https://facebook.techidaily.com/safe-online-interactions-which-sites/"><u>Safe Online Interactions: Which Sites?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-crafting-transparent-gifs-online-for-free-and-quick-results/"><u>Step-by-Step Guide to Crafting Transparent GIFs Online for Free and Quick Results</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/strategies-and-techniques-in-documentary-scriptwriting/"><u>Strategies and Techniques in Documentary Scriptwriting</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Restored] Keyboard Functionality in Windows 11"
-date: 2025-02-05T20:44:06.245Z
-updated: 2025-02-10T05:52:45.233Z
+date: 2025-02-13T19:36:13.091Z
+updated: 2025-02-20T08:37:09.551Z
 tags:
   - win11
   - win10
@@ -45,27 +45,31 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90eaf472564.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Keyboard** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Keyboard.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Reinstall your keyboard driver
 
@@ -79,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
@@ -86,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -113,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 ## Method 5: Switch to ChromeOS
@@ -124,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
@@ -164,20 +164,20 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/resolved-auto-loading-dilemma/"><u>[Resolved] Auto-Loading Dilemma</u></a></li>
-<li><a href="https://windows11.techidaily.com/augmenting-your-window-11-with-these-6-pioneering-android-apps/"><u>Augmenting Your Window 11 with These 6 Pioneering Android Apps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/discover-cutting-edge-hardware-the-toms-guide-to-tech-excellence/"><u>Discover Cutting-Edge Hardware - The Tom's Guide to Tech Excellence</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gratis-converter-kunt-u-wac-veegels-omzetten-in-wav-vanaf-toepassingen-van-movavi/"><u>Gratis Converter - Kunt U WAC-Veegels Omzetten In WAV Vanaf Toepassingen Van Movavi</u></a></li>
-<li><a href="https://driver-error.techidaily.com/harmonizing-bluetooth-lenovo-with-windows-10/"><u>Harmonizing Bluetooth, Lenovo with Windows 10</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo A59 5G? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-harnessing-youtubes-true-potential-in-studio/"><u>In 2024, Harnessing YouTube's True Potential in Studio</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-meme-monster-maestro/"><u>In 2024, Meme Monster Maestro</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-open365-your-step-by-step-manual-on-leveraging-an-open-source-replacement-for-office-365-services/"><u>Mastering Open365 - Your Step-by-Step Manual on Leveraging an Open Source Replacement for Office 365 Services</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mend-wireless-module-issue-in-latitude-laptop/"><u>Mend Wireless Module Issue in Latitude Laptop</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-dvd/"><u>PC用 DVD動画抽出手順ガイド</u></a></li>
-<li><a href="https://driver-error.techidaily.com/realtek-adapter-malfunction-after-win11-rollout-fixed/"><u>Realtek Adapter Malfunction After Win11 Rollout Fixed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reconnecting-all-wacoms-happy-moment/"><u>Reconnecting All: Wacom's Happy Moment</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/strategies-to-enhance-testimonial-credibility-and-impact/"><u>Strategies to Enhance Testimonial Credibility and Impact</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-infinite-possibilities-with-ai-generating-viral-video-titles-for-2024/"><u>[Updated] Infinite Possibilities with AI Generating Viral Video Titles for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-80s-revivalists-handbook-for-dynamic-editing-techniques/"><u>[Updated] The 80S Revivalist's Handbook for Dynamic Editing Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-ultimate-psd-shadow-gradient/"><u>2024 Approved Ultimate PSD Shadow Gradient</u></a></li>
+<li><a href="https://driver-error.techidaily.com/blinky-mouse-in-the-shadows-of-windows/"><u>Blinky Mouse in the Shadows of Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-markets-for-ai-generated-content/"><u>Exclusive Markets for AI Generated Content</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-huawei-nova-y91-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Huawei Nova Y91 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-windows-7s-devastating-stop-error-0x0000007e/"><u>How to Resolve Windows 7'S Devastating Stop Error: 0X0000007E</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-management-engine-interface-driver-code-10-solved/"><u>Intel Management Engine Interface Driver Code 10 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/logitech-brio-webcam-not-detected-after-windows-10-creators-update-solved/"><u>Logitech Brio Webcam Not Detected After Windows 10 Creators Update [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/prevent-regular-amd-bugs-from-occurring/"><u>Prevent Regular AMD Bugs From Occurring</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-incompatibility-of-amd-and-intel-video-drivers-in-premiere-pro/"><u>Resolved Incompatibility of AMD & Intel Video Drivers in Premiere Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/streamlining-sm-bus-drivers-in-win1011-os/"><u>Streamlining SM Bus Drivers in WIN10/11 OS</u></a></li>
 </ul></div>
 

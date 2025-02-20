@@ -1,7 +1,7 @@
 ---
 title: Overcome Error #48 in DevMgr
-date: 2025-02-03T17:31:14.754Z
-updated: 2025-02-10T06:27:27.928Z
+date: 2025-02-15T05:12:56.419Z
+updated: 2025-02-20T04:11:30.477Z
 tags:
   - win11
   - win10
@@ -56,6 +56,10 @@ Or
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2 – Automatically update drivers
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) .
@@ -90,21 +94,25 @@ Or
 ![appwiz.cpl](https://images.drivereasy.com/wp-content/uploads/2021/04/appwiz.cpl_.jpg)
 2. Click**Turn Windows features on or off** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn Windows features on or off](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-Windows-features-on-or-off.jpg)
 3. In the Window that pops up,**uncheck the box** next to**Hyper-V** and click**OK** to disable the Hyper-V feature.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable the Hyper-V feature](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Hyper-V-feature.jpg)
 4. Restart Windows 10 to see if the issue persists.
 
- If this fix didn’t work, try the next fix to turn off Memory Integrity.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this fix didn’t work, try the next fix to turn off Memory Integrity.
 
 ## Fix 3: Turn off Memory Integrity in Core isolation
 
@@ -121,10 +129,6 @@ To turn off Memory Integrity, simply follow the steps below:
 ![Turn off Memory integrity](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Memory-integrity.jpg)
 3. Restart Windows 10 and reinstall the latest driver of the problematic device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 See if this fix works. If not, try the next fix, below.
 
 ## Fix 4: Run the System File Checker and the Windows Memory Diagnostic Test
@@ -140,7 +144,7 @@ See if this fix works. If not, try the next fix, below.
 3. Close the Command Prompt window after the process ie complete.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **To run the Windows Memory Diagnostic Test:**
@@ -150,21 +154,17 @@ See if this fix works. If not, try the next fix, below.
 2. Double-click**Windows Memory Diagnostic** to run it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Windows Memory Diagnostic](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-Memory-Diagnostic.jpg)
 3. Select**Restart now and check for problems (recommended)** to run the test immediately. Before restarting, you need to save your work and close any open programs. It may take some time to complete the test.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Check your computer for memory problems](https://images.drivereasy.com/wp-content/uploads/2021/04/Check-your-computer-for-memory-problems.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  See if there is something wrong with the memory on your PC. If everything is OK, open Device Manager to check if the “The software for this device has been blocked from starting because it is known to have problems with Windows (Code 48)” error persists.
 
@@ -192,24 +192,18 @@ See if this fix works. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-decoding-instagrams-max-video-length-rule/"><u>[Updated] Decoding Instagram's Max Video Length Rule</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-demystifying-the-viva-video-interface/"><u>[Updated] In 2024, Demystifying the Viva Video Interface</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-transforming-shopping-insights-into-youtube-paychecks/"><u>[Updated] In 2024, Transforming Shopping Insights Into YouTube Paychecks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-innovative-setup-essentials-for-game-streaming-for-2024/"><u>[Updated] Innovative Setup Essentials for Game Streaming for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-up-the-fun-top-new-wins11-games-unveiled/"><u>[Updated] Step Up the Fun Top New Wins11 Games Unveiled</u></a></li>
-<li><a href="https://driver-error.techidaily.com/breaking-barrier-error-52-in-car-systems/"><u>Breaking Barrier Error 52 in Car Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-diy-techniques-for-fixing-issues-with-lenovos-fingerprint-recognition-system/"><u>Effective DIY Techniques for Fixing Issues with Lenovo’s Fingerprint Recognition System</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210816437-9781591434627-giza-the-tesla-connection/"><u>Giza: The Tesla Connection | Free Book</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hd-drivers-win11-success-story/"><u>HD Drivers: Win11 Success Story</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-your-latest-cam-recognition-issue-post-windows-10-update-solutions-found-fixed/"><u>How to Fix Your Latest Cam Recognition Issue Post Windows 10 Update - Solutions Found [Fixed]</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-resolve-lava-blaze-2-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Lava Blaze 2 Pro Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/missing-dvdcd-driver-on-win11-fixed/"><u>Missing DVD/CD Driver on Win11? Fixed!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-drive-operation-anomaly/"><u>Resolved Drive Operation Anomaly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-windows-keystroke-issues-enter-key/"><u>Resolving Windows Keystroke Issues: Enter Key</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resurrecting-disabled-windows-10-usb-earbuds/"><u>Resurrecting Disabled Windows 10 USB Earbuds</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-your-hcmon-driver-problems-effective-fixes-for-installation-errors/"><u>Solve Your HCMon Driver Problems: Effective Fixes for Installation Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-companyinfo-given-that-i-want-this-question-forensicinia1098-735-kmkm-so-far-as-to-be-able-to-find-out-which-of-these-numbers-in-i-in-order-for-differen3/"><u>The Company_info = 'Given that I Want This Question. Forensicinia,1098-735 Km/Km, so Far as to Be Able to Find Out Which of These Numbers in (I) In Order for Different Languages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-interactions-chatgpt-for-emotional-growth/"><u>Transforming Interactions: ChatGPT for Emotional Growth</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-how-to-fix-no-signal-issue-when-linking-your-dvd-player-to-an-hdtv/"><u>Troubleshooting Guide: How To Fix No-Signal Issue When Linking Your DVD Player to an HDTV</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-crafting-cross-platform-content-strategy-with-igtv-and-fb/"><u>[New] In 2024, Crafting Cross-Platform Content Strategy with IGTV and FB</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-scenes-into-memorable-moments-your-comprehensive-guide-to-gopro-timelapses/"><u>[New] Transform Scenes Into Memorable Moments Your Comprehensive Guide to GoPro Timelapses</u></a></li>
+<li><a href="https://driver-error.techidaily.com/clearing-up-the-driver-hurdle-hd/"><u>Clearing Up the Driver Hurdle (HD)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-support-added-to-win-8-desktop/"><u>Device Support Added to Win 8 Desktop</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-the-benefits-of-garmin-vivosmart-4-review-on-health-metrics-like-body-battery-and-stress-levels/"><u>Explore the Benefits of Garmin Vivosmart 4 - Review on Health Metrics Like Body Battery and Stress Levels</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-wireless-network-adapter-issues-on-windows-11-a-comprehensive-guide/"><u>Fixing Qualcomm Wireless Network Adapter Issues on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-boot-into-safe-mode-and-remove-your-graphics-card-driver-in-windows-8/"><u>How to Boot Into Safe Mode and Remove Your Graphics Card Driver in Windows 8</u></a></li>
+<li><a href="https://driver-install.techidaily.com/logitech-webcam-safe-installation/"><u>Logitech Webcam - Safe Installation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcome-asus-camera-errors-in-windows-11-os/"><u>Overcome ASUS Camera Errors in Windows 11 OS</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/resolving-issues-why-your-drives-integrity-scan-may-fail/"><u>Resolving Issues: Why Your Drive's Integrity Scan May Fail</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-your-hp-laptops-keyboard-functionality-quick-fix-for-the-inactive-keys-syndrome-article-name-356-characters/"><u>Restore Your HP Laptop's Keyboard Functionality: Quick Fix For the 'Inactive Keys’ Syndrome - Article Name — 356 Characters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-audio-transformation-techniques-for-ps5ps4-for-2024/"><u>Unveiling Audio Transformation Techniques for PS5/PS4 for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-the-ultimate-guide-to-animated-text-in-mobile-videos/"><u>Updated The Ultimate Guide to Animated Text in Mobile Videos</u></a></li>
 </ul></div>
 

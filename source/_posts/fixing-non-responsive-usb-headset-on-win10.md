@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Responsive USB Headset on WIN10
-date: 2025-02-04T00:59:18.601Z
-updated: 2025-02-10T01:39:55.692Z
+date: 2025-02-16T07:12:25.370Z
+updated: 2025-02-20T06:53:34.073Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3
 ## Fixing Non-Responsive USB Headset on WIN10
 
 **No sound from your USB headset?**  No worries. Here you’ll be relieved to know it’s possible to fix. Read on and find out how…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3
 Check if your headset works properly now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run the Hardware Devices troubleshooter
@@ -59,17 +55,17 @@ Check if your headset works properly now.
 4. Click **Next** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-13.png)
 5. Now the troubleshooter starts detecting problems. Complete troubleshooting by following on-screen instructions.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After that, check if your headset works properly now.
 
@@ -79,8 +75,16 @@ After that, check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_15-52-49.jpg)
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
@@ -93,11 +97,11 @@ After that, check if your headset works properly now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.png)
 2. Highlight your headset, then click **Set** **Default** . Click **OK** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-9.png)
 
 ```` ```` ```` Check if your headset works properly now.
 
@@ -113,10 +117,6 @@ After that, check if your headset works properly now.
 2. Click **Scan Now** . It will quickly detect all driver problems of your computer. Your printer driver is no exception.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/SCAN.jpg)
 3. Click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note: You can also do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Sound-driver.jpg)
@@ -143,24 +143,22 @@ After that, check if your headset works properly now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-5-quick-video-capture-tools/"><u>[New] 2024 Approved Best 5 Quick Video Capture Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-bridging-gaps-transforming-trend-data-into-video-concepts-for-2024/"><u>[New] Bridging Gaps Transforming Trend Data Into Video Concepts for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-exclusive-list-of-elite-christian-streaming-services/"><u>[New] The Exclusive List of Elite Christian Streaming Services</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-unlocking-stream-potential-your-journey-with-obs-youtube-and-twitch-for-2024/"><u>[New] Unlocking Stream Potential Your Journey with OBS, YouTube, & Twitch for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-razer-mouse-freezing-on-windows-11/"><u>[Solved] Razer Mouse Freezing on Windows 11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-acknowledgement-roundup-free-and-paid-template-haven/"><u>2024 Approved Acknowledgement Roundup Free & Paid Template Haven</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-savvy-soccer-snatching-how-to-record-and-cut-cheap/"><u>2024 Approved Savvy Soccer Snatching How to Record and Cut Cheap</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-disabled-bcm20702a0/"><u>Driver Disabled: BCM20702A0</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps-for-2024/"><u>Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oppo-a56s-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Oppo A56s 5G</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor Magic V2? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-fixes-for-overcoming-the-missing-itbm-driver-error-get-back-online-now/"><u>Quick Fixes for Overcoming the Missing ITBM Driver Error – Get Back Online Now!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103422515-resolve-uninstalled-device-drivers-in-windows-1187-with-easy-fixes/"><u>Resolve Uninstalled Device Drivers in Windows 11/8/7 With Easy Fixes!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-windows-11-visualizer-for-rapid-images-for-2024/"><u>Top Windows 11 Visualizer for Rapid Images for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-code-1-fixing-incorrect-device-configuration/"><u>Troubleshooting Code 1: Fixing Incorrect Device Configuration</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unhindered-interaction-mouse-and-windows-10-fixes/"><u>Unhindered Interaction: Mouse & Windows 10 Fixes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlocking-enhanced-surround-audio-making-your-dolby-pro-logic-iix-driver-work-again-in-win-10-done/"><u>Unlocking Enhanced Surround Audio: Making Your Dolby Pro Logic IIx Driver Work Again in Win 10 – Done!🎶</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104319235-win10-and-seagate-connection-woes-fix-now/"><u>Win10 & Seagate Connection Woes - Fix Now!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wudfrd-startup-error-device-event-code-219/"><u>WudfRd Startup Error - Device Event Code 219</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-firefoxs-premier-capture-tools-roundup-for-2024/"><u>[New] Firefox's Premier Capture Tools Roundup for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-step-in-stride-guide-sharing-personalized-youtube-videos-with-google/"><u>[New] In 2024, Step-in-Stride Guide Sharing Personalized YouTube Videos with Google</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-windows-ignores-nvidia-graphics/"><u>[RESOLVED] Windows Ignores Nvidia Graphics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-from-gameplay-to-legacy-proven-strategies-for-documenting-a-sims-in-game-saga-in-sims-4/"><u>[Updated] In 2024, From Gameplay to Legacy Proven Strategies for Documenting a Sim’s In-Game Saga in Sims 4</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-shocking-news-summary-craftsman/"><u>[Updated] Shocking News Summary Craftsman</u></a></li>
+<li><a href="https://techtrends.techidaily.com/administrators-handbook-altering-password-settings-for-different-accounts-on-windows-systems/"><u>Administrator's Handbook: Altering Password Settings for Different Accounts on Windows Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-22-rectified-activation-successful/"><u>Error 22 Rectified; Activation Successful</u></a></li>
+<li><a href="https://driver-error.techidaily.com/halt-the-cycle-no-more-nvidia-driver-deletions/"><u>Halt the Cycle: No More Nvidia Driver Deletions</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-deleting-facebook-stories-laptop-and-mobile-guide/"><u>In 2024, Deleting Facebook Stories Laptop & Mobile Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-t2-pro-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo T2 Pro 5G Phone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mouse-lags-freezes-stutters-in-windows-11-fixed/"><u>Mouse Lags, Freezes, Stutters in Windows 11 [Fixed]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/prevented-faulty-device-communication/"><u>Prevented Faulty Device Communication</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-win10-no-display-for-seagate-hdd/"><u>Solving Win10: No Display for Seagate HDD</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tutorial-keeping-your-hp-envy-20-series-device-current-with-latest-drivers/"><u>Tutorial: Keeping Your HP Envy 20 Series Device Current with Latest Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-ignoring-seagate-external-drive-fix-tips/"><u>Windows 10 Ignoring Seagate External Drive - Fix Tips</u></a></li>
 </ul></div>
 

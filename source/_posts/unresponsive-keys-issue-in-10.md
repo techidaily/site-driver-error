@@ -1,7 +1,7 @@
 ---
 title: Unresponsive Keys Issue in 10
-date: 2025-02-03T22:47:17.722Z
-updated: 2025-02-09T18:50:07.054Z
+date: 2025-02-18T23:26:38.926Z
+updated: 2025-02-20T02:53:07.163Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Check your USB port is working
 
  Sometimes a USB port can just stop working when you upgrade to a new version of Windows. Usually, it’s because of a driver problem. You should always check for this problem first.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
  Fortunately, it’s easy to test: simply unplug the keyboard from the USB port and plug in another USB device – like a mouse or an external hard drive. If that device doesn’t work either, the USB port itself is the problem, and you should skip straight to [Method 4](https://pish-posh-baby.sjv.io/g1jg15) . If the device you just plugged in does work, then continue to [Method 2](https://zonlipartnershipprogram.pxf.io/b0rbxy) .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Adjust your keyboard settings
 
@@ -50,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Ease-of-access.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Keyboard** .
@@ -60,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
  4) Ensure**Filter Keys** is**OFF** , and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Filter-keys.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -79,21 +83,17 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/standard-ps2-keyboard.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) When prompted to confirm, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/confirm-device-uninstall.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer after the uninstall. If the problem persists, it’s likely that your driver is outdated, rather than faulty, and you should try [Method 4](https://pish-posh-baby.sjv.io/g1jg15) below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Update your keyboard and USB driver (recommended)
 
@@ -111,15 +111,15 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30e437c5e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged keyboard (or USB device) to automatically download and install the correct version of it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da30db2cc2b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -164,21 +164,22 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-undercover-audio-gems-top-6-non-public-mobile-voice-capturers/"><u>[New] In 2024, Undercover Audio Gems Top 6 Non-Public Mobile Voice Capturers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-video-twist-guide-from-portrait-to-panoramic-on-instagram/"><u>[New] The Ultimate Video Twist Guide From Portrait to Panoramic on Instagram</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-smart-speaker-companion-a-head-to-head-battle-between-alexa-and-google-assistant/"><u>Best Smart Speaker Companion: A Head-to-Head Battle Between Alexa and Google Assistant</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-48-cleared-from-device-hub/"><u>Error 48 Cleared From Device Hub</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-nokia-c22-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Nokia C22 Activity | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-voice-over-advantage-elevating-video-quality/"><u>In 2024, The Voice-Over Advantage Elevating Video Quality</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovative-8-cameras-transforming-online-broadcasting/"><u>Innovative 8 Cameras Transforming Online Broadcasting</u></a></li>
-<li><a href="https://driver-error.techidaily.com/make-your-computer-listen-a-quick-guide-to-fix-unresponsive-bluetooth-on-latest-os-update-guide-inside/"><u>Make Your Computer Listen: A Quick Guide To Fix Unresponsive Bluetooth on Latest OS Update [Guide Inside]</u></a></li>
-<li><a href="https://review-topics.techidaily.com/reinstall-hardware-drivers-with-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Reinstall hardware drivers with Device Manager on Windows 10 & 7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/smoothing-over-elans-operational-snags-in-win10/"><u>Smoothing Over Elan's Operational Snags in Win10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/sound-fix-no-more-driver-trouble-hd/"><u>Sound Fix: No More Driver Trouble (HD)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solution-fixing-qualcomm-atheros-bluetooth-connectivity-on-windows-11/"><u>Step-by-Step Solution: Fixing Qualcomm Atheros Bluetooth Connectivity on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/understanding-the-legacy-of-usb-composite-devices-insights-and-solutions/"><u>Understanding the Legacy of USB Composite Devices: Insights and Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-the-potential-of-3d-printing-through-chatgpt-integration/"><u>Unleashing the Potential of 3D Printing Through ChatGPT Integration</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-7-bsod-troubleshooting-resolve-error-code-0x0000007e-step-by-step-guide/"><u>Windows 7 BSOD Troubleshooting: Resolve Error Code 0X0000007E Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-how-asmr-can-enhance-your-physical-and-mental-health/"><u>[New] 2024 Approved How ASMR Can Enhance Your Physical & Mental Health</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-the-driver-detected-a-controller-error-on-deviceharddisk1dr1-or-dr3/"><u>[Solved] The Driver Detected a Controller Error on DeviceHarddisk1DR1 or DR3</u></a></li>
+<li><a href="https://driver-error.techidaily.com/update-hardware-and-dev-driver-operational-on-win/"><u>[Update: Hardware & Dev Driver Operational on Win</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-exclusive-access-to-the-best-7-vids/"><u>[Updated] 2024 Approved Exclusive Access to the Best 7 Vids</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-obs-vs-twitch-live-best-platform-debate/"><u>[Updated] 2024 Approved OBS vs Twitch Live Best Platform Debate</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-top-conversion-suite-for-mp4fb-sharing/"><u>[Updated] 2024 Approved Top Conversion Suite for MP4/FB Sharing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-amplify-audience-connection-best-creative-reacting-techniques/"><u>2024 Approved Amplify Audience Connection Best Creative Reacting Techniques</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-iphone-14-pro-max-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or iPhone 14 Pro Max without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-find-my-friends-work-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastered-the-challenge-of-error-45/"><u>Mastered the Challenge of Error #45</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-drivers-installed-smoothly/"><u>Nvidia Drivers Installed Smoothly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/purging-illegal-configurations-from-inf-service-section/"><u>Purging Illegal Configurations From INF Service Section</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-adding-the-required-drivers-to-operate-devices-on-windows-1187-systems/"><u>Resolved: Adding the Required Drivers to Operate Devices on Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/silenced-hard-drive-error-signals/"><u>Silenced Hard Drive Error Signals</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successful-resolution-of-asus-webcam-on-windows-10/"><u>Successful Resolution of ASUS Webcam on Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Tecno Phantom V Fold? | Dr.fone</u></a></li>
 </ul></div>
 

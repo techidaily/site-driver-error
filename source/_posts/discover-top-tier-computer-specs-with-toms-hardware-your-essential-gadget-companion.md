@@ -1,7 +1,7 @@
 ---
 title: Discover Top-Tier Computer Specs with Tom's Hardware - Your Essential Gadget Companion
-date: 2025-02-06T18:27:19.464Z
-updated: 2025-02-10T02:42:47.299Z
+date: 2025-02-15T17:10:40.889Z
+updated: 2025-02-19T21:01:41.355Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,17 +66,18 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-revolutionizing-cinematography-with-advanced-3d-luts-for-2024/"><u>[Updated] Revolutionizing Cinematography with Advanced 3D LUTs for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-steps-to-download-and-update-the-right-drivers-for-your-hp-envy-20-laptopdesktop/"><u>Easy Steps to Download & Update the Right Drivers for Your HP ENVY 20 Laptop/Desktop</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gpu-lens-peering-into-microsofts-bda/"><u>GPU Lens: Peering Into Microsoft's BDA</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-motorola-moto-g-5g-2023-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Motorola Moto G 5G (2023)? </u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-a78-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-essential-guide-for-macbook-webcam-capture/"><u>In 2024, Essential Guide for MacBook Webcam Capture</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-your-logitech-mx-master-complete-setup-instructions/"><u>Installing Your Logitech MX Master: Complete Setup Instructions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-disappearing-pc-data-collectors/"><u>Resolve Disappearing PC Data Collectors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-windows-camera-error-code-0xa00f4292-issues/"><u>Step-by-Step Fixes for Windows Camera Error Code 0XA00F4292 Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/taskbar-alert-managing-full-disk-on-win1110/"><u>Taskbar Alert: Managing Full Disk on Win11/10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-vivo-t2-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Vivo T2 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-os-now-compatible-with-hardware/"><u>Win OS Now Compatible with Hardware</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-canva-enthusiasts-reveal-their-top-10-editor-steps/"><u>[New] 2024 Approved Canva Enthusiasts Reveal Their Top 10 Editor Steps</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-editmaster-insights-extensive-coverage-for-2024/"><u>[New] EditMaster Insights – Extensive Coverage for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-making-the-most-of-your-instagram-footage-for-2024/"><u>[New] Making the Most of Your Instagram Footage for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unveiling-advanced-greenscreen-techniques-a-complete-guide-to-chroma-key-kinemaster-for-2024/"><u>[New] Unveiling Advanced Greenscreen Techniques A Complete Guide to Chroma Key (KineMaster) for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-asus-keyboard-backlight-not-working/"><u>[SOLVED] ASUS Keyboard Backlight Not Working</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-minds-on-trial-best-general-knowledge-channels/"><u>[Updated] In 2024, Minds on Trial Best General Knowledge Channels</u></a></li>
+<li><a href="https://driver-error.techidaily.com/complete-step-by-step-instructions-on-driver-management-for-the-hp-envy-20-computer-model/"><u>Complete Step-by-Step Instructions on Driver Management for the HP ENVY 20 Computer Model</u></a></li>
+<li><a href="https://driver-error.techidaily.com/defeating-the-gtx-groove-error-code-43-on-your-windows-10-pc-solutions-unveiled/"><u>Defeating the GTX Groove Error Code 43 on Your Windows 10 PC – Solutions Unveiled</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-leveraging-zoom-in-email-chats-a-guide-to-gmail-users/"><u>In 2024, Leveraging Zoom in Email Chats – A Guide to Gmail Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-sleek-60-second-fades/"><u>In 2024, Sleek 60-Second Fades</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-sound-output-from-non-responsive-usb-device-on-win10/"><u>Restoring Sound Output From Non-Responsive USB Device on WIN10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104210852-revive-your-wireless-keyboard-on-a-windows-pc-solutions-that-work/"><u>Revive Your Wireless Keyboard on a Windows PC – Solutions That Work</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-rotated-images-how-to-adjust-upended-videos-on-your-asus-notebook/"><u>Troubleshooting Rotated Images: How to Adjust Upended Videos on Your ASUS Notebook</u></a></li>
 </ul></div>
 

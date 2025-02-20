@@ -1,7 +1,7 @@
 ---
 title: Mended Hardware Commanding Glitches
-date: 2025-02-02T23:39:15.044Z
-updated: 2025-02-10T05:08:40.209Z
+date: 2025-02-14T22:15:19.966Z
+updated: 2025-02-19T20:16:09.114Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
  Whenever you insert your USB drive into your computer, you keep getting this error message   **The driver detected a controller error on \\Device\\Harddisk1\\DR1** or**DR3**  ? Many users have reported this issue. But don’t worry, you can try the solutions below to fix it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 1: Switch your USB drive to a different port
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
  Some sectors in your computer may be damaged, and you can try**switching your USB drive to a different port** . It worked for some users. If it doesn’t solve your “ The driver detected a controller error on \\Device\\Harddisk1\\DR1″ problem,  try Solution 2, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 2: Update your USB driver
@@ -51,14 +51,14 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84c2843cf68.jpg)
 4. You may need to restart your computer to finish the process. Then check if your “The driver detected a controller error on \\Device\\Harddisk1\\DR1 ” problem is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -84,22 +84,17 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-cutting-edge-platforms-for-exceptional-broadcast/"><u>[New] Cutting-Edge Platforms for Exceptional Broadcast</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-eyesharp-hd-high-definition-chromecasting-for-2024/"><u>[New] EyeSharp HD High Definition Chromecasting for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unleash-your-potential-on-facebook-keyword-strategies-reviewed-for-2024/"><u>[New] Unleash Your Potential on Facebook Keyword Strategies Reviewed for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-masterful-strategies-for-saving-lol-rounds/"><u>[Updated] 2024 Approved Masterful Strategies for Saving LOL Rounds</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/corporate-language-training-for-business-success-top-5-tips-to-enhance-communication-skills/"><u>Corporate Language Training for Business Success: Top 5 Tips to Enhance Communication Skills</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-access-denial-windows-11-graphic-issue/"><u>Device Access Denial - Windows 11 Graphic Issue</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dicas-de-2023-transfira-seus-dvds-com-maiores-facilidade-metodos-ideais-para-computador-pcmac/"><u>Dicas De 2023: Transfira Seus DVDs Com Maiores Facilidade - Métodos Ideais Para Computador (PC/Mac)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/efficient-troubleshooting-for-ndis-in-windows/"><u>Efficient Troubleshooting for NDIS in Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/elevate-razer-hats-update-driver-in-win11-platform/"><u>Elevate Razer HATs: Update Driver in Win11 Platform</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-rectified-hd-audio-bus/"><u>Error Rectified: HD Audio Bus</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expertly-designed-batteries-for-gopro-hero5-black-for-2024/"><u>Expertly Designed Batteries for GoPro Hero5 Black for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keyboard-stuck-on-windows-10/"><u>Keyboard Stuck on Windows 10</u></a></li>
-<li><a href="https://media-tips.techidaily.com/protect-your-data-privacy-step-by-step-instructions-to-deactivate-youtubes-auto-downloads/"><u>Protect Your Data Privacy: Step-by-Step Instructions to Deactivate YouTube's Auto-Downloads</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reintroduce-hidden-dvds-to-windows-os/"><u>Reintroduce Hidden DVDs to Windows OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-device-unavailable-message-windows-xp/"><u>Resolve 'Device Unavailable' Message Windows XP</u></a></li>
-<li><a href="https://driver-error.techidaily.com/samsung-system-files-windows-download/"><u>Samsung System Files - Windows Download</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nail-theories-selecting-the-most-effective-youtube-fonts/"><u>Thumbnail Theories Selecting the Most Effective YouTube Fonts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-inside-look-at-youtubes-creator-studio-interface/"><u>[New] 2024 Approved Inside Look at YouTube's Creator Studio Interface</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-step-by-step-approach-to-professional-video-sharing-for-2024/"><u>[New] A Step-by-Step Approach to Professional Video Sharing for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-intel-wi-fi-6-ax201-not-working/"><u>[SOLVED] Intel Wi-Fi 6 AX201 Not Working</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ller/"><u>「最新ベストセLLER動画変換ツールとエクステンション形式変更方法」</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cd-drive-absence-windows-11-issue-solved/"><u>CD Drive Absence: Windows 11 Issue Solved</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/efficient-techniques-for-screen-shotting-and-video-recording/"><u>Efficient Techniques for Screen Shotting and Video Recording</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone 14 Pro</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-the-complexities-of-gesture-recognition/"><u>In 2024, Navigating the Complexities of Gesture Recognition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resource-allocation-hurdles-in-device/"><u>Resource Allocation Hurdles in Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-unsupported-hardware-recognition-error-with-idt-software/"><u>Troubleshooting: Unsupported Hardware Recognition Error with IDT Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visual-storytelling-beginnings-made-simple/"><u>Visual Storytelling Beginnings Made Simple</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-users-heres-how-you-can-get-your-wi-fi-keyboard-back-in-action/"><u>Windows Users! Here's How You Can Get Your Wi-Fi Keyboard Back in Action</u></a></li>
 </ul></div>
 

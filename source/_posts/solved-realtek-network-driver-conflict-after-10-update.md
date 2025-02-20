@@ -1,7 +1,7 @@
 ---
 title: Solved Realtek Network Driver Conflict After 10 Update
-date: 2025-01-09T08:56:52.803Z
-updated: 2025-01-10T03:11:20.474Z
+date: 2025-02-15T02:51:41.657Z
+updated: 2025-02-19T23:29:29.764Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/855361452192f3b7b7e7e407da45b95275a5f560d
   
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When prompted with the following notification, hit**Yes** to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de25ac8c94.jpg)
 
@@ -54,7 +50,7 @@ netsh int ip reset c:\resetlog.txt
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option Two:** **Change Settings in Network Adapter Properties**
@@ -64,11 +60,15 @@ netsh int ip reset c:\resetlog.txt
  2) Locate and click the arrow to expand category**Network adapters** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
 3) Then right-click Realtek PCIe GBE Family Controller option and choose **Properties** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de65b229a9.png)
 
@@ -77,7 +77,7 @@ netsh int ip reset c:\resetlog.txt
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de6ed4d026.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) On the**Value** bar, change the default Auto Negotiation to **100 Mbps Full Duplex**  or some other options accordingly. We chose**100 Mbps Full Duplex** here, but yours could be different.
@@ -87,10 +87,6 @@ netsh int ip reset c:\resetlog.txt
  6) Now on the left side of the pane, choose**Energy Efficient Ethernet** option, then change the Value to**Disabled** . After the changes, hit**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587deab52d9e0.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Still, in the**Properties** window, this time, let’s go to**Power Management** tab. Un-tick the box for**Allow the computer to turn off this device to save power** . Then hit**OK** to save and exit.
 
@@ -104,13 +100,17 @@ netsh int ip reset c:\resetlog.txt
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de5537df74.png)
  2) Locate and click the arrow to expand the category**Network adapters** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587de66c519eb.png)
  3) Then right-click click**Realtek PCIe GBE Family Controller** option and then choose**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee15b99f3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hit**OK** to continue.
@@ -118,10 +118,6 @@ netsh int ip reset c:\resetlog.txt
 
  4) Go to the menu bar on the top and click the button for **Scan for hardware changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587dee9a707c2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Windows will help you automatically install the correct driver that it can find. But there is no guarantee that the new driver is going to work since Windows has provided the not working one originally.
 
@@ -144,6 +140,10 @@ netsh int ip reset c:\resetlog.txt
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the Realtek PCIe driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
@@ -170,21 +170,18 @@ netsh int ip reset c:\resetlog.txt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flixfusion-the-ultimate-gaming-channel-mix/"><u>[New] 2024 Approved FlixFusion The Ultimate Gaming Channel Mix</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-blitz-photo-screening-for-windows-users/"><u>[New] Blitz Photo Screening for Windows Users</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-essential-insights-on-asmr-videos/"><u>[New] In 2024, Essential Insights on ASMR Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-framemaster-hd-recording-suite/"><u>[Updated] 2024 Approved FrameMaster HD Recording Suite</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-list-5-high-res-tvs-perfecting-chromatic-balance-for-2024/"><u>A-List 5 High-Res TVs Perfecting Chromatic Balance for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-troubling-0x80072efd-error-in-windows-11-system/"><u>Effective Fixes for the Troubling 0X80072EFD Error in Windows 11 System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effortless-fix-restore-your-bluetooth-settings-in-latest-operating-system-fast-and-simple/"><u>Effortless Fix: Restore Your Bluetooth Settings in Latest Operating System [Fast and Simple]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-guide-how-to-address-the-absent-coprocessor-driver-error-on-windows-11/"><u>Fix Guide: How to Address the Absent Coprocessor Driver Error on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-restoring-access-to-the-disappeared-co-processor-driver-on-windows-10-solved/"><u>Guide: Restoring Access to the Disappeared Co-Processor Driver on Windows 10 [Solved]</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/image-magic-top-10-frame-enhancement-tools-online-for-2024/"><u>Image Magic Top 10 Frame-Enhancement Tools Online for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-14-ultra-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Xiaomi 14 Ultra Pattern Lock Screen</u></a></li>
-<li><a href="https://win-guides.techidaily.com/massmail-unleashes-powerful-email-marketing-at-ungagged-las-vegas-2017-conference/"><u>MassMail Unleashes Powerful Email Marketing at UnGagged Las Vegas 2017 Conference</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-struggle-graphic-setup-now-perfect/"><u>No More Struggle: Graphic Setup Now Perfect</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-mouse-and-window-lag-woes/"><u>Overcoming Mouse & Window Lag Woes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-your-qualcomm-bluetooth-driver-woes-in-windows-11-step-by-step-solutions/"><u>Solving Your Qualcomm Bluetooth Driver Woes in Windows 11 – Step-by-Step Solutions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721098981663-unlock-the-secret-to-a-smooth-iphone-pc-connection-by-fixing-mtp-usb-drivers/"><u>Unlock the Secret to a Smooth iPhone-PC Connection by Fixing MTP USB Drivers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-are-there-legal-constraints-in-capturing-online-video-screenshots/"><u>[New] In 2024, Are There Legal Constraints in Capturing Online Video Screenshots?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-drone-photography-showdown-dji-fpv-vs-gopro-x/"><u>[New] In 2024, Drone Photography Showdown DJi FPV Vs GoPro X</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-excellence-in-editing-selecting-the-right-software-for-2024/"><u>[Updated] Excellence in Editing Selecting the Right Software for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/canon-sx70-the-ultimate-compact-camera-for-every-photographer/"><u>Canon SX70: The Ultimate Compact Camera for Every Photographer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discovering-linuxone-4-express-is-ibms-affordable-mainframe-the-perfect-fit-for-your-business-insights-from-zdnet/"><u>Discovering LinuxONE 4 Express: Is IBM’s Affordable Mainframe the Perfect Fit for Your Business? Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-your-brand-with-ai-enhanced-naming-solutions/"><u>Elevate Your Brand with AI-Enhanced Naming Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-diagnose-and-rectify-problematic-usb-devices-that-go-unseen-by-windows-software/"><u>How to Diagnose & Rectify Problematic USB Devices That Go Unseen by Windows Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-ultimate-price-guide-for-cloud-storage-services/"><u>In 2024, Ultimate Price Guide for Cloud Storage Services</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mobile-operating-system-for-windows-samsung/"><u>Mobile Operating System for Windows (Samsung)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-challenges-with-vintage-usb-composite-devices-step-by-step-solutions/"><u>Overcoming Challenges with Vintage USB Composite Devices - Step-by-Step Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fixes-overcoming-the-unavailable-itbm-driver-error/"><u>Quick Fixes: Overcoming the Unavailable ITBM Driver Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-made-simple-how-to-perform-a-factory-reset-on-your-samsung-tv/"><u>Troubleshooting Made Simple: How To Perform a Factory Reset On Your Samsung TV</u></a></li>
+<li><a href="https://driver-error.techidaily.com/upgrading-to-latest-hat-supports-for-win11/"><u>Upgrading to Latest HAT Supports for Win11</u></a></li>
 </ul></div>
 

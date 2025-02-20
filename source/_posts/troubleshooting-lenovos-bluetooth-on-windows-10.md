@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Lenovo's Bluetooth on Windows 10
-date: 2025-02-08T04:34:49.817Z
-updated: 2025-02-10T07:52:49.725Z
+date: 2025-02-17T07:05:53.895Z
+updated: 2025-02-19T22:29:11.428Z
 tags:
   - win11
   - win10
@@ -40,34 +40,26 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7a64714f6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Expand **Bluetooth Radios**  or **Bluetooth** .
 
 **Note** : If you **cannot** see any items listed under Network adapters or Bluetooth Radios, please proceed to **Option 2** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7d4daf634.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If you see a down arrow, your Bluetooth device is disabled, just right-click the item and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b810d497f1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) If you see a yellow exclamation mark next to your Bluetooth driver, your Bluetooth hardware is not responding or set up correctly. You can refer to **Option 3** for more help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b7eec55846.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2: Enable discovery mode
@@ -76,9 +68,17 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e564dcca0a6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Option** tab, tick the boxes for **Allow Bluetooth device to find this computer**  and **Allow Bluetooth devices to connect to this computer** . Then click **Apply** and **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585b83d2895e7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 3: Update Bluetooth driver
 
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/bluetooth-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 4: Perform a refresh
@@ -124,16 +124,22 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/hort-form-spectacularity-compile-the-top-10-video-editing-tools/"><u>[New] Short-Form Spectacularity Compile the Top 10 Video Editing Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-transitions-kinemasters-step-by-step-tutorial/"><u>[Updated] Mastering Transitions Kinemaster's Step-by-Step Tutorial</u></a></li>
-<li><a href="https://article-helps.techidaily.com/a-comprehensive-quick-start-to-mastering-video-editing-win11s-movie-maker-for-2024/"><u>A Comprehensive Quick Start to Mastering Video Editing Win11's Movie Maker for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/color-your-skies-dji-mini-2-and-air-2s-luts-complimentary-offer-for-2024/"><u>Color Your Skies – DJI Mini 2 & Air 2S LUTS Complimentary Offer for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-revived-status-update-code-unlocked/"><u>Device Revived: Status Update - Code Unlocked</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-struggles-with-available-resources-quota/"><u>Device Struggles with Available Resources Quota</u></a></li>
-<li><a href="https://driver-error.techidaily.com/eradicate-bus-latency-anomaly/"><u>Eradicate Bus Latency Anomaly</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-laugh-lines-best-comedy-video-concepts-for-the-social-media-sphere/"><u>In 2024, Laugh Lines Best Comedy Video Concepts for the Social Media Sphere</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-support-for-drivers-without-intel-card/"><u>No Support for Drivers Without Intel Card</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revitalize-your-aging-pc-with-these-5-cost-effective-methods-for-microsoft-windows-11-users-many-at-no-charge-techadvice/"><u>Revitalize Your Aging PC with These 5 Cost-Effective Methods for Microsoft Windows 11 Users - Many at No Charge! | TechAdvice</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-fix-hp-laptop-keyboard-not-working-issue/"><u>Step by Step Fix HP Laptop Keyboard Not Working Issue</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-step-by-step-techniques-for-recording-team-conversations/"><u>[New] Step-by-Step Techniques for Recording Team Conversations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-expertise-in-apps-enhancing-video-conferencing/"><u>[Updated] In 2024, Expertise in Apps Enhancing Video Conferencing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/captivating-creations-utilizing-motion-blur-effects-in-ai-for-2024/"><u>Captivating Creations Utilizing Motion Blur Effects in AI for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-the-root-of-recurring-nvidia-crashes/"><u>Decoding the Root of Recurring Nvidia Crashes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-rectifying-win1011-sm-bus-drivers/"><u>Diagnosing and Rectifying Win10/11 SM Bus Drivers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/dynamic-dialogue-dance-decks-for-2024/"><u>Dynamic Dialogue Dance Decks for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminating-delays-in-mouse-and-system-interaction/"><u>Eliminating Delays in Mouse & System Interaction</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-analysis-ring-video-doorbell-pro-review/"><u>Expert Analysis: Ring Video Doorbell Pro Review</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977322325-get-your-complimentary-m-audio-fast-track-ultra-drivers-now-and-elevate-your-audio-game/"><u>Get Your Complimentary M-Audio Fast Track Ultra Drivers Now and Elevate Your Audio Game</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-repairing-last-malfunctioned-usb-device-not-seen-by-windows-os/"><u>Guide to Repairing Last Malfunctioned USB Device Not Seen by Windows OS</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-social-space-for-group-interaction-a-comparative-study/"><u>Navigating Social Space for Group Interaction: A Comparative Study</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/problembehebung-warum-ipod-nicht-unter-windows-11-erkannt-wird-und-was-du-tun-kannst/"><u>Problembehebung: Warum iPod Nicht Unter Windows 11 Erkannt Wird Und Was Du Tun Kannst</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ess-addition-youtube-videos-into-google-slides-for-2024/"><u>Seamless Addition YouTube Videos Into Google Slides for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/streamlining-death-adder-installation-on-windows-11/"><u>Streamlining DeaTH Adder Installation on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-the-fatal-system-error-0x0000007e-in-windows-7/"><u>Troubleshooting the Fatal System Error 0X0000007E in Windows 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-unverified-drivers-steps-to-correct-non-compatible-software-issues/"><u>Troubleshooting Unverified Drivers: Steps to Correct Non-Compatible Software Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721097773366-windows-11-and-qualcomm-atheros-restoring-bluetooth-connectivity-with-proven-solutions/"><u>Windows 11 and Qualcomm Atheros: Restoring Bluetooth Connectivity with Proven Solutions.</u></a></li>
 </ul></div>
 

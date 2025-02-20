@@ -1,7 +1,7 @@
 ---
 title: "Optical Drive Missing: Windows 11 Issue Addressed"
-date: 2025-02-08T06:21:50.494Z
-updated: 2025-02-10T05:19:25.952Z
+date: 2025-02-13T19:27:58.908Z
+updated: 2025-02-20T07:05:08.148Z
 tags:
   - win11
   - win10
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e194a84fe7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right-click **ATA Channel 1** and click**Uninstall** .
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577e199372f3c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) If you have more options under**IDE/ ATAPI controllers** category, right-click them and click**Uninstall** as above procedures.
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a61a4afa.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
@@ -84,6 +84,14 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60ab0d5aa9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3: Manually fix corrupted registry entries**
 
@@ -96,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cca701812e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Follow the path:
@@ -111,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
  4) **Delete**  them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c5576c70aa.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **4: Create a registry subkey**
 
@@ -138,7 +142,7 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd5bb9cfb9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Go to the new**Controller0** key. On the right side of the pane, right-click the blank space and click**DWORD(32-bit) Value** .
@@ -148,10 +152,6 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
  6) Set the name as**EnumDevice1** and press**Enter** . Double-click to set the**Value data** as **1** . Press**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_577cd71884038.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Exit Registry Editor.
 
@@ -172,19 +172,18 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-worlds-premier-content-creators-ranked-by-subscriber-count/"><u>[New] 2024 Approved World's Premier Content Creators Ranked By Subscriber Count</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-android-and-iphones-essential-apps-to-elevate-fb-likes-count-quickly-for-2024/"><u>[Updated] Android & iPhone's Essential Apps to Elevate FB Likes Count Quickly for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-gopro-selection-a-comparative-review/"><u>2024 Approved Mastering Gopro Selection A Comparative Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-12-ultimate-relaxing-pc-titles/"><u>2024 Approved Top 12 Ultimate Relaxing PC Titles</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-upgrading-laptop-and-mobile-conferencing-with-background-changes/"><u>2024 Approved Upgrading Laptop & Mobile Conferencing With Background Changes</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/dreamland-discourse-top-asmr-practitioners-recommended/"><u>Dreamland Discourse Top ASMR Practitioners Recommended</u></a></li>
-<li><a href="https://driver-error.techidaily.com/eliminate-radio-driver-errors-in-windows-effortlessly/"><u>Eliminate Radio Driver Errors in Windows Effortlessly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-malfunction-heres-how-to-restore-functionality-quickly/"><u>HP Wireless Keyboard Malfunction? Here's How to Restore Functionality Quickly!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keyboard-malfunction-in-win-10/"><u>Keyboard Malfunction in Win 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/remedy-power-management-glitch/"><u>Remedy Power Management Glitch</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/rotate-to-win-insta-tricks-for-video-transformation-for-2024/"><u>Rotate to Win Insta-Tricks for Video Transformation for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-issues-with-outdated-usb-composite-hardware-comprehensive-strategies-inside/"><u>Solving Issues with Outdated USB Composite Hardware - Comprehensive Strategies Inside</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleashing-potential-essential-win11-tools-for-2024/"><u>Unleashing Potential Essential Win11 Tools for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionizing-youtube-success-through-smart-title-strategy/"><u>[New] Revolutionizing YouTube Success Through Smart Title Strategy</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-complete-guide-to-using-zd-softs-recording-tools/"><u>[Updated] 2024 Approved Complete Guide to Using ZD Soft's Recording Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-unresponsive-right-click-issue-for-windows-11-touchpads/"><u>Addressing Unresponsive Right Click Issue for Windows 11 Touchpads</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-flawed-usb-c-input-for-asus-cam-with-win10/"><u>Fixing Flawed USB-C Input for ASUS Cam with Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-hp-wireless-keyboard-issues-troubleshooting-guide-and-solutions/"><u>Fixing HP Wireless Keyboard Issues: Troubleshooting Guide & Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-realtek-rtl81/"><u>Get Your Realtek RTL81</u></a></li>
+<li><a href="https://win-bits.techidaily.com/how-can-you-combine-windows-defender-with-additional-antivirus-programs-without-conflicts-expert-insights-from-yl-computing/"><u>How Can You Combine Windows Defender With Additional Antivirus Programs Without Conflicts? - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-y100t-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo Y100t Phones? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-gionee-f3-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Gionee F3 Pro Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reversing-the-screen-orientation-on-your-asus-device-for-proper-video-display/"><u>Reversing the Screen Orientation on Your Asus Device for Proper Video Display</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/to-upgrade-or-not-to-upgrade-deciding-on-ios-17-for-your-device/"><u>To Upgrade or Not to Upgrade: Deciding on iOS 17 for Your Device</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/topo-5-mejores-programas-de-respaldo-para-windows-server-en-2024/"><u>Topo 5 Mejores Programas De Respaldo Para Windows Server en 2024</u></a></li>
 </ul></div>
 

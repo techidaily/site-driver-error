@@ -1,7 +1,7 @@
 ---
 title: Revived Device Manager - Error 48
-date: 2025-02-07T00:45:42.993Z
-updated: 2025-02-10T03:56:59.089Z
+date: 2025-02-17T00:18:55.028Z
+updated: 2025-02-19T23:21:12.245Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
 ## Revived Device Manager - Error 48
 
  If a device on your computer is running into**Error Code 48** in Device Manager, don’t worry. You’ve come to the right place! Although it’s quite frustrating, you should be able to fix this issue on your own after reading this article.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Error Code 48 in Device Manager
 
@@ -55,7 +51,7 @@ Or
 **[Option 2: Automatically (Recommended)](https://www.drivereasy.com/knowledge/asus-usb-bt500-bluetooth-5-0-usb-adapter-driver/#h-option-2-update-the-asus-usb-bt500-bluetooth-driver-automatically-recommended)**  – This might be the quickest and easiest way to get all the latest drivers for your computer. All you need is a few clicks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1 – Download and install the driver manually
@@ -81,7 +77,7 @@ Or
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and [manually install them, the normal Windows way](https://tools.techidaily.com/drivereasy/download/) .)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your PC and check if this issue persists.
@@ -91,10 +87,6 @@ Or
  Normally, the error code 48 in Device Manager will be fixed after you update the drivers to the latest version.
 
  If not, you may need to try the fixes below one by one and then reinstall the latest drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Disable Hyper-V
 
@@ -109,11 +101,15 @@ Or
 ![Turn Windows features on or off](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-Windows-features-on-or-off.jpg)
 3. In the Window that pops up,**uncheck the box** next to**Hyper-V** and click**OK** to disable the Hyper-V feature.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable the Hyper-V feature](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Hyper-V-feature.jpg)
 4. Restart Windows 10 to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this fix didn’t work, try the next fix to turn off Memory Integrity.
@@ -130,11 +126,15 @@ To turn off Memory Integrity, simply follow the steps below:
 ![Open Core isolation](https://images.drivereasy.com/wp-content/uploads/2021/04/Open-Core-isolation.jpg)
 2. **Turn off** the toggle under**Memory integrity** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off Memory integrity](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Memory-integrity.jpg)
 3. Restart Windows 10 and reinstall the latest driver of the problematic device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 See if this fix works. If not, try the next fix, below.
@@ -163,7 +163,7 @@ See if this fix works. If not, try the next fix, below.
 ![Check your computer for memory problems](https://images.drivereasy.com/wp-content/uploads/2021/04/Check-your-computer-for-memory-problems.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if there is something wrong with the memory on your PC. If everything is OK, open Device Manager to check if the “The software for this device has been blocked from starting because it is known to have problems with Windows (Code 48)” error persists.
@@ -192,18 +192,20 @@ See if this fix works. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-hub-error-code-48/"><u>[FIXED] Hub Error Code 48</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/anonymize-your-media-10-free-face-blurring-apps-for-photos-and-videos-for-2024/"><u>Anonymize Your Media 10 Free Face Blurring Apps for Photos and Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversion-sans-frais-de-videos-m4v-au-format-wma-en-ligne-via-movavi/"><u>Conversion Sans Frais De Vidéos M4V Au Format WMA En Ligne via Movavi</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enhancing-windows-10-lenovo-bt-driver/"><u>Enhancing Windows 10 Lenovo BT Driver</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-maximizing-classroom-impact-best-youtube-practices-for-educators/"><u>In 2024, Maximizing Classroom Impact Best YouTube Practices for Educators</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-focus-techniques-for-videoleap-users/"><u>In 2024, Optimal Focus Techniques for Videoleap Users</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-unbiased-avs-video-editor-review-is-it-right-for-you-in-2024/"><u>New Unbiased AVS Video Editor Review Is It Right for You, In 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repair-your-non-responsive-hp-laptop-keys-in-simple-easy-phases-a-step-byinan-action-plan-guide-tech-talker-382-chars/"><u>Repair Your Non-Responsive HP Laptop Keys in Simple, Easy Phases: A Step-Byinan Action Plan – Guide | Tech Talker 382 Chars</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-connectivity-problems-with-qualcomm-atheros-bluetooth-driver-in-windows-10-systems/"><u>Resolving Connectivity Problems with Qualcomm Atheros Bluetooth Driver in Windows 10 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restore-absent-signal-processor-in-windows/"><u>Restore Absent Signal Processor in Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/simple-steps-to-resolve-itbm-driver-missing-or-unavailable-errors/"><u>Simple Steps to Resolve 'ITBM Driver Missing or Unavailable' Errors</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unveiling-color-secrets-master-the-craft-with-our-tutorial-series-for-2024/"><u>Unveiling Color Secrets - Master the Craft with Our Tutorial Series for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/upcoming-costly-change-microsoft-introduces-fees-for-windows-1-in-the-new-year-learn-your-estimated-expenses/"><u>Upcoming Costly Change: Microsoft Introduces Fees for Windows 1# in the New Year - Learn Your Estimated Expenses!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphones-easy-guide-merge-music-and-video-without-spending-a-dime/"><u>[New] IPhone's Easy Guide Merge Music and Video Without Spending a Dime</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-lockout-graphic-hardware-in-windows/"><u>Device Lockout: Graphic Hardware in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/elevate-pcs-capabilities-by-updating-deathadder-on-win11/"><u>Elevate PC's Capabilities by Updating DeathAdder on WIN11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminate-bluetooth-auto-connect-on-windows-10/"><u>Eliminate Bluetooth Auto-Connect on Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/end-of-an-era-apples-finewoven-range-phased-out-for-exclusive-beats-case-offerings-tech-news/"><u>End of an Era: Apple's FineWoven Range Phased Out for Exclusive Beats Case Offerings | Tech News</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-cooling-with-the-user-friendly-x-apply-thermal-paste-applicator-set-releasing-shortly/"><u>Next-Level Cooling with the User-Friendly X-Apply Thermal Paste Applicator Set Releasing Shortly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-failed-to-install-hcmon-driver-issues-a-step-by-step-guide/"><u>Resolving 'Failed to Install HCMon Driver' Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-issues-in-acpi-device-33a0/"><u>Tackling Issues in ACPI: DEVICE 33A0</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tagliatura-rapida-e-semplice-dei-file-audio-con-movavi-guida/"><u>Tagliatura Rapida E Semplice Dei File Audio Con Movavi - Guida</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/todays-essential-disneyplus-movie-lineup-for-a-magical-viewing-experience/"><u>Today’s Essential Disney+ Movie Lineup for a Magical Viewing Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-prime-day-bargains-on-video-games-october-2024-preview-pcmag/"><u>Top Prime Day Bargains on Video Games: October 2024 Preview - PCMag</u></a></li>
+<li><a href="https://driver-error.techidaily.com/touchpad-not-working-issues-on-windows-1111-solved/"><u>Touchpad Not Working Issues on Windows 11/11 [Solved]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win10-disallows-hardware-graphical-use/"><u>Win10 Disallows Hardware Graphical Use</u></a></li>
 </ul></div>
 

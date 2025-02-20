@@ -1,7 +1,7 @@
 ---
 title: The End of the Self-Removal Saga for Nvidia Drivers
-date: 2025-02-06T04:03:24.557Z
-updated: 2025-02-10T00:30:46.856Z
+date: 2025-02-16T07:51:52.832Z
+updated: 2025-02-19T21:57:59.635Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
 ## The End of the Self-Removal Saga for Nvidia Drivers
 
  Whenever you download and install a new**Nvidia driver** on your PC, it**keeps uninstalling itself** a few days later? Don’t worry, it’s fixable! And in most cases, the fix is pretty fast and simple…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -33,18 +37,22 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
 1. On your keyboard, press the**Windows logo** ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png) key and**R** at the same time to invoke the Run box.
 2. Type**control** and press**Enter** to go to Control Panel.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc59b08cdf4e.png)
 3. Click**System and Security** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc59ba063ed0.jpg)
 4. Click**System** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc59bd79ae6d.jpg)
 5. Click**Advanced system settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc59c0e94e5d.jpg)
 6. Click the**Hardware** tab, then the**Device Installation Settings** button.  
@@ -52,22 +60,14 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc59cb552443.jpg)
 7. Select**No** , and click**Save changes** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5a1202b9e9.jpg)
 8. Click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5a2a572543.jpg)
 9. Go to the**NVIDIA Driver Downloads** page to download the needed driver for your Nvidia graphics card.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5994c83f8c.jpg)
@@ -77,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Delete the logging file in your Windows Registry
 
 1. You should first make sure all Nvidia services are stopped:  
@@ -88,14 +84,22 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
    2. Type**services.msc**  then click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5a9433a0fb.png)  
    3. Select and stop**all** Nvidia services.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5ae3f67690.jpg)
 2. You should also check that all Nvidia programs are ended:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
    1. Press**Ctrl+Shift+Esc** to open Task Manager.  
    2. End**all** of Nvidia apps and processes.  
@@ -114,7 +118,7 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your Nvidia driver
@@ -127,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc58e5bb6635.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc58e7b30171.jpg)
 4. Restart your computer and check if your Nvidia driver now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 4, below.
@@ -170,22 +170,24 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-best-low-cost-android-calls-compared-ranking/"><u>[New] Best Low-Cost Android Calls Compared Ranking</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-erase-the-obvious-techniques-for-masked-youtube-content/"><u>[Updated] Erase the Obvious Techniques for Masked YouTube Content</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/boost-your-media-with-winxvideo-ai-advanced-tools-for-videoimage-enrichment-conversion-stabilization-editing-and-recording/"><u>Boost Your Media with Winxvideo AI – Advanced Tools for Video/Image Enrichment, Conversion, Stabilization, Editing & Recording</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-between-ipad-pro-and-macbook-air-a-comprehensive-guide-on-which-best-suits-your-needs/"><u>Choosing Between iPad Pro and MacBook Air: A Comprehensive Guide on Which Best Suits Your Needs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnosing-and-fixing-error-e052-driver/"><u>Diagnosing & Fixing Error E052-Driver</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnosing-missing-usbdisc-drivers/"><u>Diagnosing Missing USB/Disc Drivers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/fix-disruption-chromium-and-tweeted-videos-for-2024/"><u>Fix Disruption Chromium and Tweeted Videos for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-the-windows-7-blue-screen-with-stop-code-0x0000007e/"><u>How to Fix the Windows 7 'Blue Screen with Stop Code 0X0000007E'</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-missing-recognition-of-your-logitech-brio-cam-on-updated-pcs-running-win-10-fixed/"><u>How to Resolve Missing Recognition of Your Logitech Brio Cam on Updated PCs Running Win 10 [Fixed]</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pixel-perfection-masterful-methods-for-stunning-imagery/"><u>In 2024, Pixel Perfection Masterful Methods for Stunning Imagery</u></a></li>
-<li><a href="https://driver-error.techidaily.com/smoothing-out-bluetooth-on-lenovo-with-w11/"><u>Smoothing Out Bluetooth on Lenovo with W11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-non-functioning-cameras-on-the-zoom-platform/"><u>Solutions for Non-Functioning Cameras on the Zoom Platform</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-why-division-2-wont-start-top-tips/"><u>Solving the Issue: Why Division 2 Won't Start - Top Tips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-the-gtx-950-code-43-error-on-windows-11-systems/"><u>Troubleshooting and Fixing the GTX 950 Code 43 Error on Windows 11 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721097223338-tutorial-identifying-and-fixing-missing-drivers-for-devices-on-windows-versions-win1087-solution-found/"><u>Tutorial: Identifying & Fixing Missing Drivers for Devices on Windows Versions (Win10/8/7) - SOLUTION FOUND!</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-rated-stop-motion-software-for-windows-and-macos-this-year-for-2024/"><u>Updated Top-Rated Stop Motion Software for Windows and macOS This Year for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-7-troubleshooting-overcoming-the-blue-screen-error-0x0000007e/"><u>Windows 7 Troubleshooting: Overcoming the Blue Screen Error 0X0000007E</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/does-heshe-see-my-message-a-guide-to-identifying-text-reads/"><u>Does He/She See My Message? A Guide to Identifying Text Reads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-setup-of-logitech-brio-usb-camera-download-latest-drivers-for-windows-10-8-and-7-users/"><u>Easy Setup of Logitech BRIO USB Camera - Download Latest Drivers for Windows 10, 8 & 7 Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-every-click-with-tailor-made-ai-generated-titles/"><u>Elevate Every Click with Tailor-Made AI-Generated Titles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721099236532-happy-campers-wacom-connected-everywhere/"><u>Happy Campers: Wacom Connected, Everywhere!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-honor-x9b-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Honor X9b to Protect Your Individual Information</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-successfully-update-your-hcmon-driver-and-avoid-common-mistakes/"><u>How to Successfully Update Your HCMon Driver and Avoid Common Mistakes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/immerse-yourself-in-3d-movie-magic-the-best-ways-to-use-fandangos-online-services/"><u>Immerse Yourself in 3D Movie Magic – The Best Ways to Use Fandango's Online Services</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-glow-enhanced-video-a-right-move-for-hdr-crafting/"><u>In 2024, Glow-Enhanced Video A Right Move for HDR Crafting?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-magic-6-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor Magic 6 ProFRP Lock</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/mac-data-sync-made-easy-the-ultimate-step-by-step-guide/"><u>Mac Data Sync Made Easy: The Ultimate Step-by-Step Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/quick-and-easy-guide-how-to-change-trec-videos-into-avi-with-minimal-fuss/"><u>Quick and Easy Guide: How To Change TREC Videos Into AVI with Minimal Fuss</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-vanishing-signal-proc-on-pcs/"><u>Resolve Vanishing Signal Proc on PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-non-responsive-hp-wireless-keyboard-problems-effective-solutions-inside/"><u>Resolving Non-Responsive HP Wireless Keyboard Problems - Effective Solutions Inside</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-issues-with-older-usb-composite-devices-for-better-compatibility-today/"><u>Solving Issues with Older USB Composite Devices for Better Compatibility Today</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-fix-overcoming-challenges-in-hcmon-driver-implementation/"><u>Step-by-Step Fix: Overcoming Challenges in Hcmon Driver Implementation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-correcting-access-denied-for-proper-usb-drivers-setup/"><u>Step-by-Step Guide to Correcting 'Access Denied' For Proper USB Drivers Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-and-troubleshooting-the-legacy-usb-composite-device/"><u>Understanding and Troubleshooting the Legacy USB Composite Device</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-how-to-use-emojis-on-windows-10-and-windows-11/"><u>Updated In 2024, How to Use Emojis on Windows 10 and Windows 11?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-addressing-bus-controllers/"><u>Windows 11: Addressing Bus Controllers</u></a></li>
 </ul></div>
 
